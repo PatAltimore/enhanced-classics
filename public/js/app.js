@@ -101,7 +101,7 @@
             obj[key] = nt[0] === '-' ? readArr(ni) : readObj(ni);
           }
         } else {
-          obj[key] = val.replace(/^['"]|['"]$/g, '');
+          obj[key] = val.replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
           i++;
         }
       }
@@ -120,7 +120,7 @@
         const first = trimmed.slice(2).trim();
         if (first.includes(':')) {
           const c = first.indexOf(':');
-          item[first.slice(0, c).trim()] = first.slice(c + 1).trim().replace(/^['"]|['"]$/g, '');
+          item[first.slice(0, c).trim()] = first.slice(c + 1).trim().replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
         }
         i++;
         while (i < lines.length) {
@@ -128,7 +128,7 @@
           if (!t2) { i++; continue; }
           if (i2 <= indent || t2[0] === '-') break;
           const c2 = t2.indexOf(':');
-          if (c2 >= 0) item[t2.slice(0, c2).trim()] = t2.slice(c2 + 1).trim().replace(/^['"]|['"]$/g, '');
+          if (c2 >= 0) item[t2.slice(0, c2).trim()] = t2.slice(c2 + 1).trim().replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
           i++;
         }
         arr.push(item);

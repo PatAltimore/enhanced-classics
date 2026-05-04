@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Debug</title></head>
+<body>
+<pre id="out"></pre>
+<script>
+function parseFrontmatter(raw) {
+  const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!m) return { meta: {}, body: raw, matched: false };
+  return { meta: {}, body: m[2].trim(), matched: true, yamlLen: m[1].length, bodyLen: m[2].trim().length };
+}
+
+fetch('/books/walden/chapter-01-economy.md')
+  .then(r => r.text())
+  .then(text => {
+    const result = parseFrontmatter(text);
+    document.getElementById('out').textContent = JSON.stringify({
+      fileLength: text.length,
+      startsWithDashes: text.startsWith('---'),
+      firstNewline: text.indexOf('\n'),
+      regexMatched: result.matched,
+      yamlLen: result.yamlLen,
+      bodyLen: result.bodyLen,
+      bodyPreview: result.body ? result.body.substring(0, 200) : '(empty)',
+      lineEndings: text.includes('\r\n') ? 'CRLF' : 'LF'
+    }, null, 2);
+  })
+  .catch(e => { document.getElementById('out').textContent = 'FETCH ERROR: ' + e.message; });
+</script>
+</body>
+</html>
