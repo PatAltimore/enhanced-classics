@@ -1,0 +1,8 @@
+{
+  "routes": [{"route": "/books/*", "allowedRoles": ["anonymous"]}],
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/css/*", "/js/*", "/images/*", "/books/*", "/catalog.json"]
+  },
+  "mimeTypes": {".md": "text/plain"}
+}

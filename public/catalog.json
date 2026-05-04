@@ -1,0 +1,12 @@
+{
+  "books": [{
+    "slug": "walden",
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "year": 1854,
+    "description": "Two years alone beside a Massachusetts pond — a manifesto for deliberate living.",
+    "chapters": [
+      {"number": 1, "title": "Economy", "slug": "chapter-01-economy"}
+    ]
+  }]
+}
