@@ -81,6 +81,38 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2_Young_Women.jpg/330px-2_Young_Women.jpg"
     image_caption: "Workers at the Lowell textile mills, c. 1850"
     content: "Thoreau's operatives evoked the Lowell mill girls — tens of thousands of young women working 12-14 hour days in deafening Massachusetts textile mills 20 miles from Concord. By the 1840s, speedups and wage cuts had turned a once-celebrated industrial experiment into exploitation. Their strikes of 1834 and 1836 were among the first industrial labor actions by women in American history."
+
+  - id: "independence-day"
+    trigger: "fourth of July"
+    title: "The Day Thoreau Chose to Declare Personal Independence"
+    wikipedia_url: "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/330px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg"
+    image_caption: "Declaration of Independence, painted by John Trumbull, 1819"
+    content: "Thoreau moved to Walden on July 4, 1845 — not by coincidence. Independence Day was his symbolic declaration of independence from the economy of conventional society. Just as America declared independence from British rule 69 years earlier, Thoreau was declaring independence from the obligation to earn, consume, and conform. The date is one of the most deliberate gestures in American literary history."
+
+  - id: "woodchuck"
+    trigger: "woodchuck"
+    title: "The Original Excavator of Walden Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Marmota_monax_UL_04.jpg/330px-Marmota_monax_UL_04.jpg"
+    image_caption: "Marmota monax, the American woodchuck or groundhog"
+    content: "The woodchuck (Marmota monax), also called groundhog, is the largest ground squirrel in North America. Woodchucks dig extensive burrow systems — up to 5 feet deep and 25 feet long — with multiple chambers. Thoreau found the woodchuck's burrow a ready-made template for his own cellar. In one famous Walden passage he confesses a strange impulse to seize and devour one raw, as a symbol of the wildness he felt stirring in himself."
+
+  - id: "white-pines"
+    trigger: "white pines"
+    title: "The Tree That Built Colonial New England"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pinus_strobus"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pinus_strobus.jpg/330px-Pinus_strobus.jpg"
+    image_caption: "Eastern white pine (Pinus strobus), New England's most valuable timber tree"
+    content: "The eastern white pine was the most valuable tree in colonial New England — the tallest conifer in the eastern continent and the source of mast timber for the British Royal Navy. The Crown's agents marked the finest trees with a 'Broad Arrow' to reserve them for the King's ships. By 1845 New England's white pine forests were already heavily depleted. Thoreau's act of felling young pines for his cabin connected him to a timber tradition stretching back to the first settlers."
+
+  - id: "wonder-working"
+    trigger: "Wonder-Working Providence"
+    title: "The Puritans Who Literally Burrowed Into the Earth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Embarkation_of_the_Pilgrims.jpg/330px-Embarkation_of_the_Pilgrims.jpg"
+    image_caption: "Embarkation of the Pilgrims, by Robert Walter Weir, 1844"
+    content: "Edward Johnson's 1654 history documented the first English settlers of Massachusetts literally burrowing into hillsides for shelter in the winter of 1630-31 — they had no time to build proper houses before the cold arrived. They dug holes, covered them with timber and earth, and lived underground like colonists on a new planet. By quoting Johnson, Thoreau places his own Walden cabin in a long tradition of deliberate, minimal New England dwelling."
 ---
 
 When I wrote the following pages, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of **Walden Pond**, in **Concord, Massachusetts**, and earned my living by the labor of my hands only. I lived there two years and two months.
@@ -107,11 +139,11 @@ I also have in my mind that seemingly wealthy, but most terribly impoverished cl
 
 By the middle of April, for I made no haste in my work, but rather made the most of it, my house was framed and ready for the raising. I had already bought the shanty of James Collins, an Irishman who worked on the Fitchburg Railroad, for boards. The price was four dollars and twenty-five cents.
 
-I dug my cellar in the side of a hill sloping to the south, where a woodchuck had formerly dug his burrow. It was but two hours' work. The house is still but a sort of porch at the entrance of a burrow.
+I dug my cellar in the side of a hill sloping to the south, where a **woodchuck** had formerly dug his burrow. It was but two hours' work. The house is still but a sort of porch at the entrance of a burrow.
 
 I took up the boards with a crowbar and passed them, one by one, under the fence and through the house to the pond, to wash and bleach them. With James Collins's boards I made the framework of my house. The studs and rafters were five feet apart.
 
-About the first of July I took up my abode in the woods. It was Independence Day, or the fourth of July, 1845, my house not being finished for winter, but merely a defence against the rain, without plastering or chimney, the walls being of rough weather-stained boards, with wide chinks, which made it cool at night.
+About the first of July I took up my abode in the woods. It was Independence Day, or the **fourth of July**, 1845, my house not being finished for winter, but merely a defence against the rain, without plastering or chimney, the walls being of rough weather-stained boards, with wide chinks, which made it cool at night.
 
 Before I finished my house, wishing to earn ten or twelve dollars by some honest and agreeable method, I planted about two acres and a half of light and sandy soil near it chiefly with beans, but also a small part with potatoes, corn, peas, and turnips.
 
@@ -137,7 +169,7 @@ Some of you will say that I lived in the woods because I had some private busine
 
 I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practice resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life.
 
-Near the end of March, 1845, I borrowed an axe and went down to the woods by Walden Pond, nearest to where I intended to build my house, and began to cut down some tall arrowy white pines, still in their youth, for timber. It is difficult to begin without borrowing, but perhaps it is the most generous course thus to permit your fellow-men to have an interest in your enterprise.
+Near the end of March, 1845, I borrowed an axe and went down to the woods by Walden Pond, nearest to where I intended to build my house, and began to cut down some tall arrowy **white pines**, still in their youth, for timber. It is difficult to begin without borrowing, but perhaps it is the most generous course thus to permit your fellow-men to have an interest in your enterprise.
 
 The owner of the axe, as he released his hold on it, said that it was the apple of his eye; but I returned it sharper than I received it. It was a pleasant hillside where I worked, covered with pine woods, through which I looked out on the pond, and a small open field in the woods where pines and hickories were springing up.
 
@@ -193,7 +225,7 @@ I look upon England to-day as an old gentleman who is travelling with a great de
 
 The cart before the horse is neither beautiful nor useful. Before we can adorn our houses with beautiful objects the walls must be stripped, and our lives must be stripped, and beautiful housekeeping and beautiful living be laid for a foundation: now, a taste for the beautiful is most cultivated out of doors, where there is no house and no housekeeper.
 
-Old Johnson, in his "Wonder-Working Providence," speaking of the first settlers of this town, with whom he was contemporary, tells us that "they burrow themselves in the earth for their first shelter under some hillside, and, casting the soil aloft upon timber, they make a smoky fire against the earth, at the highest side." They did not provide them houses, but their houses provided them, which is the way it should be — the life of the builder going into the building, not the building going into the life.
+Old Johnson, in his "**Wonder-Working Providence**," speaking of the first settlers of this town, with whom he was contemporary, tells us that "they burrow themselves in the earth for their first shelter under some hillside, and, casting the soil aloft upon timber, they make a smoky fire against the earth, at the highest side." They did not provide them houses, but their houses provided them, which is the way it should be — the life of the builder going into the building, not the building going into the life.
 
 I do not mean to prescribe rules to strong and valiant natures, who will mind their own affairs whether in heaven or hell, and perchance build more magnificently and spend more lavishly than the richest, without ever impoverishing themselves. But I seek to account to my own satisfaction for myself alone, and to define myself to my own understanding, as a free and independent man. No man loses ever on a lower level by magnanimity on a higher.
 

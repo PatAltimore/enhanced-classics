@@ -3,7 +3,6 @@
 <head><meta charset="UTF-8"><title>Debug</title></head>
 <body>
 <pre id="out">Loading...</pre>
-<div id="img-tests"></div>
 <script>
 function parseYaml(src) {
   const lines = src.split('\n');
@@ -66,55 +65,51 @@ function parseFrontmatter(raw) {
   return { meta: parseYaml(m[1]), body: m[2].trim() };
 }
 
+function mdToHtml(md, enhancements) {
+  const triggerMap = {};
+  (enhancements || []).forEach(e => { if (e.trigger) triggerMap[e.trigger] = e.id; });
+  const triggers = Object.keys(triggerMap).sort((a, b) => b.length - a.length);
+  return md.split(/\n\n+/).map(para => {
+    let p = para.trim();
+    if (!p) return '';
+    p = p.replace(/\*\*(.+?)\*\*/g, (_, text) => {
+      const t = triggers.find(tr => text.includes(tr));
+      if (t) return '<span class="enhance-trigger" onclick="togglePanel(\'' + triggerMap[t] + '\')">' + text + '</span>';
+      return '<strong>' + text + '</strong>';
+    });
+    return '<p>' + p + '</p>';
+  }).join('\n');
+}
+
 fetch('/books/walden/chapter-01-economy.md', {cache: 'no-store'})
   .then(r => r.text())
   .then(text => {
     const { meta, body } = parseFrontmatter(text);
     const enhancements = meta.enhancements || [];
-    document.getElementById('out').textContent = JSON.stringify({
-      fileLength: text.length,
-      bodyLen: body.length,
-      bodyPreview: body.substring(0, 80),
-      enhancementCount: enhancements.length,
-      enhancements: enhancements.map(e => ({
-        id: e.id,
-        image_url: e.image_url || '(missing)'
-      }))
-    }, null, 2);
+    let prose = mdToHtml(body, enhancements);
 
-    // Test API-verified URLs directly, independent of YAML parsing
-    const testUrls = [
-      { id: 'walden-pond',         url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Walden_Pond.jpg/330px-Walden_Pond.jpg' },
-      { id: 'emerson',             url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg/330px-Ralph_Waldo_Emerson_ca1857_retouched.jpg' },
-      { id: 'thoreau',             url: 'https://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg' },
-      { id: 'walden-book',         url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg' },
-      { id: 'old-north-bridge',    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Minute_Man_National_Historical_Park_MIMA0070.jpg/330px-Minute_Man_National_Historical_Park_MIMA0070.jpg' },
-      { id: 'railroad',            url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/330px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg' },
-      { id: 'lowell-mills',        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2_Young_Women.jpg/330px-2_Young_Women.jpg' }
-    ];
-    const container = document.getElementById('img-tests');
-    container.innerHTML = '<p><b>API-verified URL tests:</b></p>';
-    testUrls.forEach(e => {
-      const row = document.createElement('div');
-      row.style.marginBottom = '8px';
-      const img = document.createElement('img');
-      img.src = e.url;
-      img.style.cssText = 'width:80px;height:60px;object-fit:cover;vertical-align:middle;margin-right:8px;border:1px solid #ccc';
-      const status = document.createElement('span');
-      status.textContent = '⏳ ' + e.id + ' — ';
-      const link = document.createElement('a');
-      link.href = e.url;
-      link.target = '_blank';
-      link.textContent = 'open';
-      img.onload  = () => { status.textContent = '✅ ' + e.id + ' — '; };
-      img.onerror = () => { status.textContent = '❌ ' + e.id + ' — '; };
-      row.appendChild(img);
-      row.appendChild(status);
-      row.appendChild(link);
-      container.appendChild(row);
+    // Simulate panel injection
+    const results = enhancements.map(e => {
+      const marker = "togglePanel('" + e.id + "')";
+      const idx = prose.indexOf(marker);
+      if (idx < 0) return { id: e.id, markerFound: false, panelPosition: null };
+      const after = prose.indexOf('</p>', idx) + 4;
+      // Insert a placeholder instead of real panel HTML
+      const placeholder = '[PANEL:' + e.id + ']';
+      prose = prose.slice(0, after) + placeholder + prose.slice(after);
+      return { id: e.id, markerFound: true, panelPosition: after };
     });
+
+    // Check all placeholders are in prose
+    const finalCheck = enhancements.map(e => ({
+      id: e.id,
+      markerFound: results.find(r => r.id === e.id).markerFound,
+      panelInjected: prose.includes('[PANEL:' + e.id + ']')
+    }));
+
+    document.getElementById('out').textContent = JSON.stringify(finalCheck, null, 2);
   })
-  .catch(e => { document.getElementById('out').textContent = 'FETCH ERROR: ' + e.message; });
+  .catch(e => { document.getElementById('out').textContent = 'ERROR: ' + e.message; });
 </script>
 </body>
 </html>
