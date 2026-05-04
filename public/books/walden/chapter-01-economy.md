@@ -180,7 +180,7 @@ enhancements:
     trigger: "bison of the prairie"
     title: "Sixty Million Animals — and Then Almost None"
     wikipedia_url: "https://en.wikipedia.org/wiki/American_bison"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/American_bison_k5680-1.jpg/330px-American_bison_k5680-1.jpg"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/330px-American_bison_k5680-1.jpg"
     image_caption: "American bison (Bison bison) on the Great Plains"
     content: "When Thoreau mentioned the bison of the prairie in 1845, somewhere between thirty and sixty million of them still roamed the Great Plains — the largest concentration of large mammals on earth since the Ice Age. A single migrating herd could stretch beyond the horizon and take days to pass a single point. Plains Indigenous peoples had organized entire civilizations around the animal: food, shelter, tools, clothing, and ceremony all came from the buffalo. Within thirty years of Thoreau writing this sentence, the herds would be essentially gone. By 1890, fewer than 1,000 American bison survived. The destruction was not accidental. U.S. Army generals explicitly recommended encouraging the slaughter: eliminating the buffalo eliminated the food supply of the Plains peoples and made their resistance to removal impossible. Thoreau was writing about an animal still abundant. His readers' grandchildren would never see one in the wild."
 
