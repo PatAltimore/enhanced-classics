@@ -115,6 +115,8 @@ enhancements:
     content: "Edward Johnson's 1654 history documented the first English settlers of Massachusetts literally burrowing into hillsides for shelter in the winter of 1630-31 — they had no time to build proper houses before the cold arrived. They dug holes, covered them with timber and earth, and lived underground like colonists on a new planet. By quoting Johnson, Thoreau places his own Walden cabin in a long tradition of deliberate, minimal New England dwelling."
 ---
 
+I should not obtrude my affairs so much on the notice of my readers if very particular inquiries had not been made by my townsmen concerning my mode of life, which some would call impertinent, though they do not appear to me at all impertinent, but, considering the circumstances, very natural and pertinent. Some have asked what I got to eat; if I did not feel lonesome; if I was not afraid; and the like. Others have been curious to know what portion of my income I devoted to charitable purposes; and some, who have large families, how many poor children I maintained. I will therefore ask those of my readers who feel no particular interest in me to pardon me if I undertake to answer some of these questions in this book.
+
 When I wrote the following pages, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of **Walden Pond**, in **Concord, Massachusetts**, and earned my living by the labor of my hands only. I lived there two years and two months.
 
 I see young men, my townsmen, whose misfortune it is to have inherited farms, houses, barns, cattle, and farming tools. The mass of men lead lives of quiet desperation. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work.
@@ -131,11 +133,29 @@ I have lived some thirty years on this planet, and I have yet to hear the first 
 
 The necessaries of life for man in this climate may be distributed under the several heads of Food, Shelter, Clothing, and Fuel. A man who has at length found something to do will not need to get a new suit to do it in. Old shoes will serve a hero longer than they have served his valet.
 
+By the words, necessary of life, I mean whatever, of all that man obtains by his own exertions, has been from the first, or from long use has become, so important to human life that few, if any, whether from savageness, or poverty, or philosophy, ever attempt to do without it. To many creatures there is in this sense but one necessary of life, Food. To the bison of the prairie it is a few inches of palatable grass, with water to drink; unless he seeks the Shelter of the forest or the mountain's shadow.
+
+None can be an impartial or wise observer of human life but from the vantage ground of what we should call voluntary poverty. Of a life of luxury the fruit is luxury, whether in agriculture, or commerce, or literature, or art. There are nowadays professors of philosophy, but not philosophers. Yet it is admirable to profess because it was once admirable to live. To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust.
+
 Most of the luxuries, and many of the so-called comforts of life, are not only not indispensable, but positive hindrances to the elevation of mankind. With respect to luxuries and comforts, the wisest have ever lived a more simple and meager life than the poor.
+
+The grand necessity, then, for our bodies, is to keep warm, to keep the vital heat in us. What pains we accordingly take, not only with our Food and Clothing, but with our beds, which are our night-clothes, robbing the nests and breasts of birds to prepare this shelter within a shelter. The poor man is wont to complain that this is a cold world; and to cold, no less physical than social, we refer directly a great part of our ails.
+
+As for Shelter, I will not deny that this is now a necessary of life, though there are instances of men having done without it for long periods in colder countries than this. Samuel Laing says that "the Laplander in his skin dress, and in a skin bag which he puts over his head and shoulders, will sleep night after night on the snow — in a degree of cold which would extinguish the life of one exposed to it in any woollen clothing." He had seen them asleep thus.
 
 When a man is warmed by the several modes which I have described, what does he want next? Surely not more warmth of the same kind, as more and richer food, larger and more splendid houses, finer and more abundant clothing, more numerous, incessant, and hotter fires, and the like. When he has obtained those things which are necessary to life, there is another alternative than to obtain the superfluities; and that is, to adventure on life now.
 
 I also have in my mind that seemingly wealthy, but most terribly impoverished class of all, who have accumulated dross, but know not how to use it, or get rid of it, and thus have forged their own golden or silver fetters.
+
+It is surprising how easily and insensibly we fall into a particular route, and make a beaten track for ourselves. I had not lived there a week before my feet wore a path from my door to the pond-side; and though it is five or six years since I trod it, it is still quite distinct. It is true, I fear, that others may have fallen into it, and so helped to keep it open. The surface of the earth is soft and impressible by the feet of men; and so with the paths which the mind travels.
+
+Near the end of March, 1845, I began to occupy my house, my hands being already calloused by its construction. I was not rich; I had no hired man, and I made more than I spent. But if I had not been poor, I might have built a more elegant house, and I should be poorer for it, because my poverty had taught me more economy.
+
+Furniture! Thank God, I can sit and I can stand without the aid of a furniture warehouse. What man but a philosopher would not be ashamed to see his furniture packed in a cart and going up country exposed to the light of heaven and the eyes of men, a beggarly account of empty boxes? That is Spaulding's furniture.
+
+In the savage state every family owns a shelter as good as the best, and sufficient for its coarser and simpler wants; but I think that I speak within bounds when I say that, though the birds of the air have their nests, and the foxes their holes, and the savages their wigwams, in modern civilized society not more than one half the families own a shelter. In the large towns and cities, where civilization especially prevails, the number of those who own a shelter is a very small fraction of the whole. The rest pay an annual tax for this outside garment of all — become indispensable summer and winter — which would buy a village of Indian wigwams, but now helps to keep them poor as long as they live.
+
+An average house in this neighborhood costs perhaps eight hundred dollars, and to lay up this sum will take from ten to fifteen years of the laborer's life, even if he is not encumbered with a family — estimating the pecuniary value of every man's labor at one dollar a day, for if some receive more, others receive less. So that he must have spent more than half his life commonly before his wigwam will be earned. If we suppose him to pay a rent instead, this is but a doubtful choice of evils. Would the savage have been wise to exchange his wigwam for a palace on these terms?
 
 By the middle of April, for I made no haste in my work, but rather made the most of it, my house was framed and ready for the raising. I had already bought the shanty of James Collins, an Irishman who worked on the Fitchburg Railroad, for boards. The price was four dollars and twenty-five cents.
 
@@ -159,6 +179,8 @@ Before I had got through the framing of the house, Hosmer, who had been working 
 
 The **railroad** passes near my house, and I have noticed that whenever I walk the track I am more at home in it than in any other place. The whistle of the locomotive penetrates my woods summer and winter, sounding like the scream of a hawk. The men who build the road are themselves in some sense being built into it. We do not ride on the railroad; it rides upon us.
 
+I have been told that the fare to Fitchburg is ninety cents; that is nearly a day's wages. I start now on foot, and get there before night. I have travelled a good deal in Concord; and everywhere, in shops, and offices, and fields, the inhabitants have appeared to me to be doing penance in a thousand remarkable ways. The youth may build or plant or sail, only let him not be hindered from doing that which he tells me he would like to do. It is not important that he should mature as soon as an apple-tree or an oak.
+
 Have not men improved somewhat in punctuality since the railroad was invented? Do they not talk and think faster in the depot than they did in the stage-office? There is something electrifying in the atmosphere of the former place. I have been astonished at the miracles it has wrought; that some of my neighbors, who, I should have prophesied, once for all, would never get to Boston by so prompt a conveyance, are on hand when the bell rings.
 
 Commerce is unexpectedly confident and serene, alert, adventurous, and unwearied. It is very natural, almost inevitable, and has its own beauty, like the law of gravitation or of growth. I begin to see such an object from the hilltops every day, with an unexpressed yearning toward it.
@@ -175,11 +197,19 @@ The owner of the axe, as he released his hold on it, said that it was the apple 
 
 The student who secures his coveted leisure and retirement by systematically shirking any labor necessary to man obtains but an ignoble and unprofitable leisure, defrauding himself of the experience which alone can make leisure fruitful. But the laborer who does not study is worse off still; his leisure is empty and desolating.
 
+At Cambridge College the mere rent of a student's room, which is only a little larger than my own, is thirty dollars each year, though the corporation had the advantage of building thirty-two side by side and under one roof, and the occupant suffers the inconvenience of many and noisy neighbors, and perhaps a residence in the fourth story. I cannot but think that if we had more true wisdom in these respects, not only less education but the right kind, we should not have the College where it is. One man's farm might be another man's estate.
+
+Students should not play life, or study it merely, while the community supports them at this expensive game, but earnestly live it from beginning to end. How could youths better learn to live than by at once trying the experiment of living? Methinks this would exercise their minds as much as mathematics.
+
 I have thought that Walden Pond would be a good place for business, not solely on account of the railroad and the ice trade; it offers advantages which it may not be good policy to divulge; it is a good port and a good foundation.
 
 Philanthropy is almost the only virtue which is sufficiently appreciated by mankind. Nay, it is greatly overrated; and it is our selfishness which overrates it. A robust poor man, one sunny day here in Concord, praised a fellow-townsman to me, because, as he said, he was kind to the poor; meaning himself. The kind uncles and aunts of the race are more esteemed than its true spiritual fathers and mothers.
 
 There is no odor so bad as that which arises from goodness tainted. It is human, it is divine, carrion. If I knew for a certainty that a man was coming to my house with the conscious design of doing me good, I should run for my life. Do your work, and finish it. If you know how to begin, you will finish.
+
+I never dreamed of any enormity greater than I have committed. I never knew, and never shall know, a worse man than myself. I believe that what so saddens the reformer is not his sympathy with his fellows in distress, but, though he be the holiest son of God, is his private ail. Let this be righted, let the spring come to him, the morning rise over his couch, and he will forsake his generous companions without apology.
+
+If anything ail a man, so that he does not perform his functions, if he have a pain in his bowels even — for that is the seat of sympathy — he forthwith sets about reforming — the world. Being a microcosm himself, he discovers, and it is a true discovery, and he is the man to make it, that the world has been eating green apples; to his eyes, in fact, the globe itself is a great green apple. His own maladies are cured, and no longer source of sorrow to him personally, though, of course, they are still fatal to all mankind.
 
 I have been concerned to notice how the so-called rich are already poor in their pleasures. The man who has one luxury will generally give himself up to all. The more a man cultivates the arts, the less will he farm. A very few, as heroes, patriots, martyrs, reformers in the great sense, and men, serve the state with their consciences also, and so necessarily resist it for the most part.
 
@@ -197,6 +227,8 @@ The night in jail made me reflect. I saw into the institutions of my country cle
 
 The student is not obliged to pay for his education by a series of degradations which shall be the price of ignorance. How vain it is to sit down to write when you have not stood up to live! I went to the woods partly to live cheaply, and partly to live dearly there. I sat down once when I had enough leisure, to write a book about it.
 
+Before I had got through the first story of my house, thinking to make it two stories, I found that a single story would be sufficient and that I should not regret having saved the trouble of building the second. With every room there should be a fireplace, and every fireplace should have its own chimney. What is a house but a sedes, a seat? — better if a country seat.
+
 I had three chairs in my house; one for solitude, two for friendship, three for society. When visitors came in larger and unexpected numbers there was but the third chair for them all, but they generally economized the room by standing up.
 
 By surveying, carpentry, and day-labor of various other kinds in the village in the meanwhile, for I have as many trades as fingers, I had earned thirteen dollars and thirty-four cents. The expense of food for eight months was as I have stated elsewhere eight dollars and seventy-four cents, my clothing and some incidental expenses within the same time some eight dollars and forty cents.
@@ -210,6 +242,8 @@ It is not necessary that a man should earn his living by the sweat of his brow, 
 I find it wholesome to be alone the greater part of the time. To be in company, even with the best, is soon wearisome and dissipating. I love to be alone. I never found the companion that was so companionable as solitude. We are for the most part more lonely when we go abroad among men than when we stay in our chambers.
 
 If a man walk in the woods for love of them half of each day, he is in danger of being regarded as a loafer; but if he spends his whole day as a speculator, shearing off those woods and making earth bald before her time, he is esteemed an industrious and enterprising citizen.
+
+There is some of the same fitness in a man's building his own house that there is in a bird's building its own nest. Who knows but if men constructed their dwellings with their own hands, and provided food for themselves and families simply and honestly enough, the poetic faculty would be universally developed, as birds universally sing when they are so engaged? But alas! we do like cowbirds and cuckoos, which lay their eggs in nests which other birds have built, and cheer no traveller with their chattering and unmusical notes.
 
 As if a man were to worship the sun and stars, and not make use of any favorable opportunity to shine himself! There is a coarser kind of life, which never baffles the detective, and which does not improve upon acquaintance.
 
