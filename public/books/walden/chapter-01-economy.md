@@ -143,13 +143,45 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Famine_memorial_dublin.jpg/330px-Famine_memorial_dublin.jpg"
     image_caption: "Famine Memorial, Dublin — commemorating the Great Famine of 1845-1852"
     content: "James Collins was one of hundreds of thousands of Irish immigrants flooding into New England in the 1840s, driven by the Great Famine (1845-1852) in which over one million Irish died of starvation. Many took the hardest, lowest-paid work available — building the railroads that were reshaping America. Thoreau bought Collins's shanty for $4.25; Collins and his family moved on to the next construction camp. Their labor built the Fitchburg Railroad that Thoreau heard from his cabin every day."
+
+  - id: "quiet-desperation"
+    trigger: "quiet desperation"
+    title: "The Most Quoted Line in American Literature — and Why It Still Stings"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
+    image_url: ""
+    image_caption: ""
+    content: "The phrase 'lives of quiet desperation' has become shorthand for the condition of modern life: working to live, living to work, never stopping to ask why. Thoreau coined it in 1854 to describe his Concord neighbors — farmers crushed by mortgages, tradesmen trapped by their trades, young men who inherited problems instead of lives. The line resonates because the condition it describes has only intensified: studies consistently show that a large majority of workers are disengaged from their jobs, yet continue showing up."
+
+  - id: "voluntary-poverty"
+    trigger: "voluntary poverty"
+    title: "The Ancient Philosopher Who Lived in a Barrel — and Changed Western Thought"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Diogenes"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg/330px-Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg"
+    image_caption: "Diogenes of Sinope, Roman mosaic, 2nd century AD"
+    content: "Diogenes of Sinope (412-323 BC) was the original voluntary-poverty philosopher: he gave away all his possessions, slept in a large ceramic jar in the Athens marketplace, and famously told Alexander the Great to get out of his sunlight. His school of Cynicism argued that virtue requires rejecting wealth, fame, and convention. Thoreau inherited this tradition directly — he kept Diogenes's works on his cabin shelf and saw his Walden experiment as a modern version of the same test."
+
+  - id: "slavery"
+    trigger: "slavery"
+    title: "Slavery and the New England Conscience in the 1840s"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frederick_Douglass_%28circa_1879%29.jpg/330px-Frederick_Douglass_%28circa_1879%29.jpg"
+    image_caption: "Frederick Douglass, c. 1879 — the most prominent American abolitionist"
+    content: "By the 1840s, the abolitionist movement was tearing New England apart. The Fugitive Slave Act required Northern citizens to return escaped enslaved people to their owners — making every Massachusetts resident complicit. Thoreau knew Frederick Douglass and William Lloyd Garrison personally; Concord was an active stop on the Underground Railroad. His refusal to pay taxes was a direct protest against a federal government that protected slavery. His cabin years (1845-47) coincided exactly with the peak crisis years before the Civil War."
+
+  - id: "cowbirds"
+    trigger: "cowbirds and cuckoos"
+    title: "The Birds That Let Others Raise Their Young — and What That Costs"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brown-headed_cowbird"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brown-headed_cowbird_male_%2871126%29.jpg/330px-Brown-headed_cowbird_male_%2871126%29.jpg"
+    image_caption: "Brown-headed cowbird (Molothrus ater), a brood parasite native to North America"
+    content: "The brown-headed cowbird is a brood parasite: it lays its eggs in other birds' nests and lets other species do the work of raising its young. The host birds — often smaller species — exhaust themselves feeding a chick that may be twice their size. Thoreau used this image as a metaphor for people who hire out the most fundamental acts of life — building shelter, growing food, raising children — and in doing so lose the very experiences that develop wisdom, creativity, and genuine self-knowledge."
 ---
 
 I should not obtrude my affairs so much on the notice of my readers if very particular inquiries had not been made by my townsmen concerning my mode of life, which some would call impertinent, though they do not appear to me at all impertinent, but, considering the circumstances, very natural and pertinent. Some have asked what I got to eat; if I did not feel lonesome; if I was not afraid; and the like. Others have been curious to know what portion of my income I devoted to charitable purposes; and some, who have large families, how many poor children I maintained. I will therefore ask those of my readers who feel no particular interest in me to pardon me if I undertake to answer some of these questions in this book.
 
 When I wrote the following pages, I lived alone, in the woods, a mile from any neighbor, in a house which I had built myself, on the shore of **Walden Pond**, in **Concord, Massachusetts**, and earned my living by the labor of my hands only. I lived there two years and two months.
 
-I see young men, my townsmen, whose misfortune it is to have inherited farms, houses, barns, cattle, and farming tools. The mass of men lead lives of quiet desperation. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work.
+I see young men, my townsmen, whose misfortune it is to have inherited farms, houses, barns, cattle, and farming tools. The mass of men lead lives of **quiet desperation**. A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work.
 
 How many a poor immortal soul have I met well-nigh crushed and smothered under its load, creeping down the road of life, pushing before it a barn seventy-five feet by forty, its Augean stables never cleansed, and one hundred acres of land, tillage, mowing, pasture, and wood-lot! The portionless, who struggle with no such unnecessary inherited encumbrances, find it labor enough to subdue and cultivate a few cubic feet of flesh.
 
@@ -165,7 +197,7 @@ The necessaries of life for man in this climate may be distributed under the sev
 
 By the words, necessary of life, I mean whatever, of all that man obtains by his own exertions, has been from the first, or from long use has become, so important to human life that few, if any, whether from savageness, or poverty, or philosophy, ever attempt to do without it. To many creatures there is in this sense but one necessary of life, Food. To the bison of the prairie it is a few inches of palatable grass, with water to drink; unless he seeks the Shelter of the forest or the mountain's shadow.
 
-None can be an impartial or wise observer of human life but from the vantage ground of what we should call voluntary poverty. Of a life of luxury the fruit is luxury, whether in agriculture, or commerce, or literature, or art. There are nowadays professors of philosophy, but not philosophers. Yet it is admirable to profess because it was once admirable to live. To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust.
+None can be an impartial or wise observer of human life but from the vantage ground of what we should call **voluntary poverty**. Of a life of luxury the fruit is luxury, whether in agriculture, or commerce, or literature, or art. There are nowadays professors of philosophy, but not philosophers. Yet it is admirable to profess because it was once admirable to live. To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust.
 
 Most of the luxuries, and many of the so-called comforts of life, are not only not indispensable, but positive hindrances to the elevation of mankind. With respect to luxuries and comforts, the wisest have ever lived a more simple and meager life than the poor.
 
@@ -249,7 +281,7 @@ The farmer is endeavoring to solve the problem of a livelihood by a formula more
 
 The **higher laws** of our nature demand more than mere survival. The man who does not believe that each day contains an earlier, more sacred, and auroral hour than he has yet profaned has despaired of life, and is pursuing a descending and darkening way.
 
-**Once I went to jail** for one night — refusing to pay a poll-tax that supported a government which condoned slavery. It cost me nothing but my dignity. My neighbors paid their taxes and walked free, but I judged myself more free than they. The jailer said, "Come, boys, it is time to lock up." And so they locked me in, and I heard the town-clock strike before morning.
+**Once I went to jail** for one night — refusing to pay a poll-tax that supported a government which condoned **slavery**. It cost me nothing but my dignity. My neighbors paid their taxes and walked free, but I judged myself more free than they. The jailer said, "Come, boys, it is time to lock up." And so they locked me in, and I heard the town-clock strike before morning.
 
 I saw that, if there was a wall of stone between me and my townsmen, there was a still more difficult one to climb or break through before they could get to be as free as I was. I did not for a moment feel confined, and the walls seemed a great waste of stone and mortar. I felt as if I alone of all my townsmen had paid my tax.
 
@@ -273,7 +305,7 @@ I find it wholesome to be alone the greater part of the time. To be in company, 
 
 If a man walk in the woods for love of them half of each day, he is in danger of being regarded as a loafer; but if he spends his whole day as a speculator, shearing off those woods and making earth bald before her time, he is esteemed an industrious and enterprising citizen.
 
-There is some of the same fitness in a man's building his own house that there is in a bird's building its own nest. Who knows but if men constructed their dwellings with their own hands, and provided food for themselves and families simply and honestly enough, the poetic faculty would be universally developed, as birds universally sing when they are so engaged? But alas! we do like cowbirds and cuckoos, which lay their eggs in nests which other birds have built, and cheer no traveller with their chattering and unmusical notes.
+There is some of the same fitness in a man's building his own house that there is in a bird's building its own nest. Who knows but if men constructed their dwellings with their own hands, and provided food for themselves and families simply and honestly enough, the poetic faculty would be universally developed, as birds universally sing when they are so engaged? But alas! we do like **cowbirds and cuckoos**, which lay their eggs in nests which other birds have built, and cheer no traveller with their chattering and unmusical notes.
 
 As if a man were to worship the sun and stars, and not make use of any favorable opportunity to shine himself! There is a coarser kind of life, which never baffles the detective, and which does not improve upon acquaintance.
 
