@@ -38,7 +38,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Walden_Pond.jpg/330px-Walden_Pond.jpg"
     image_caption: "Walden Pond, Concord, Massachusetts"
-    content: "Walden Pond is a 61-acre kettle lake formed 10,000-12,000 years ago when a buried glacier block melted, leaving a 102-foot-deep depression. Fed only by rain and groundwater, it has exceptional clarity. It became a National Historic Landmark in 1962. Swimmers still use the same sandy beach Thoreau described, though daily visitors are now capped to protect the ecosystem."
+    content: "A glacier carved this hollow twelve thousand years ago. When the buried ice finally melted, it left a 102-foot-deep bowl with no rivers feeding in or out — only rain and snowmelt, which explains the remarkable clarity of the water. By the time Thoreau arrived in 1845, Walden was already a commercial operation: teams of workers sawed the frozen surface each winter and shipped the ice blocks as far as India and the Caribbean. Thoreau watched them from his cabin every January, fascinated. He swam here before breakfast each morning, took depth measurements obsessively, and found the pond a kind of mirror for his thinking. The same water he swam in would be, three months later, cooling a drink in Calcutta. Today the pond is a state reservation; the sandy beach Thoreau described is still there, and daily visitor numbers are capped to protect the ecosystem he spent two years carefully studying."
 
   - id: "concord"
     trigger: "Concord, Massachusetts"
@@ -46,7 +46,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Minute_Man_National_Historical_Park_MIMA0070.jpg/330px-Minute_Man_National_Historical_Park_MIMA0070.jpg"
     image_caption: "The Old North Bridge, site of the first shots of the American Revolution, April 1775"
-    content: "Concord was the site of the opening battle of the Revolution on April 19, 1775 — Emerson's shot heard round the world. A generation later it became the capital of American intellectual life: Emerson, Thoreau, Hawthorne, and the Alcotts all lived within walking distance of each other, producing a remarkable concentration of literature that shaped 19th-century American identity."
+    content: "On April 19, 1775, British regulars marched into Concord and were met at a wooden bridge by armed farmers — the opening shots of the American Revolution. Thoreau grew up in the shadow of that story. But the Concord of the 1840s had become something else entirely: the unlikely literary capital of a new nation. Emerson was Thoreau's neighbor and mentor, a ten-minute walk away. Nathaniel Hawthorne occupied the Old Manse, yards from the revolutionary battle site. The Alcott family lived two miles up the road. On any afternoon in the 1840s, you might pass three or four people who would end up in every school curriculum in America. The town's total population was barely 2,000."
 
   - id: "transcendentalism"
     trigger: "higher laws"
@@ -54,7 +54,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg/330px-Ralph_Waldo_Emerson_ca1857_retouched.jpg"
     image_caption: "Ralph Waldo Emerson, Thoreau's neighbor and mentor"
-    content: "Transcendentalism flourished in New England in the 1830s-1850s, led by Emerson. It held that the divine permeates all nature, accessible through intuition rather than church doctrine. Its followers opposed slavery and championed individual conscience over unjust law. Thoreau's years at Walden were a living experiment in these ideas."
+    content: "In the 1830s, a circle of New England intellectuals looked at their world — factory smoke, Calvinist severity, the grinding machinery of industrial life — and concluded that something essential had been lost. Their answer was Transcendentalism: the belief that every individual has direct access to the divine, not through churches or scripture but through nature and intuition. Emerson was its prophet, writing from a comfortable Concord study. Thoreau was its most radical practitioner — he went to the woods to actually live the philosophy. He wanted to prove that spiritual insight was not the property of the educated or the wealthy. It was available to anyone willing to slow down, strip away the noise, and pay careful attention to what was directly in front of them."
 
   - id: "civil-disobedience"
     trigger: "Once I went to jail"
@@ -62,7 +62,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg"
     image_caption: "Henry David Thoreau, daguerreotype c. 1856"
-    content: "In July 1846, Thoreau was arrested for refusing to pay six years of poll taxes — a protest against slavery and the Mexican-American War. He spent one night in the Concord jail. The resulting essay Civil Disobedience (1849) argued that individuals must refuse unjust laws, directly inspiring Gandhi's independence movement and Martin Luther King Jr.'s Civil Rights strategy."
+    content: "On a July evening in 1846, Thoreau walked into town to pick up a repaired shoe. Sam Staples, the town constable and a neighbor, stopped him on the road and politely asked him to pay six years of overdue poll taxes. Thoreau refused. Staples arrested him. They walked together to the Concord jail, where Thoreau spent the night in a cell with a man accused of burning a barn. He later said it was surprisingly pleasant. The next morning, someone — almost certainly his aunt Maria — paid the tax without his knowledge. Staples released him, apologetically. Thoreau was irritated: he had wanted to stay. The essay he wrote about the experience, Civil Disobedience (1849), went largely unnoticed in America. Decades later, a young Indian lawyer named Mohandas Gandhi read it in a South African jail and called it the blueprint for his independence movement."
 
   - id: "railroad"
     trigger: "railroad"
@@ -70,7 +70,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/330px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg"
     image_caption: "Completion of the first U.S. transcontinental railroad, 1869"
-    content: "The Fitchburg Railroad, audible from Thoreau's cabin, was completed in 1844 — one year before he moved to Walden. Railroads didn't just shrink distance; they forced standardization of time itself. Before them every town kept local solar time; coordinating train schedules required synchronized clocks, pioneering the modern time zone system."
+    content: "The Fitchburg Railroad was completed in 1844, one year before Thoreau moved to Walden. Its tracks ran within a few hundred yards of his cabin. For his neighbors, this was the most powerful machine any of them had ever witnessed: a locomotive weighing tons, moving at thirty miles per hour, filling the air with steam and the howl of its whistle. Thoreau heard it every day from his desk — fascinated and suspicious in equal measure. But the railroad did something subtler than shrink distance. Before it existed, every town in America kept its own local solar time — noon meant the sun was directly overhead wherever you were. Train schedules required a single synchronized time across hundreds of miles. Within a decade, American life would be organized around a standardized clock that had nothing to do with the position of the sun."
 
   - id: "simple-living"
     trigger: "Simplicity, simplicity, simplicity"
@@ -78,7 +78,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Simple_living"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg"
     image_caption: "Title page of the first edition of Walden, 1854"
-    content: "Simple living resurfaces today as minimalism, the FIRE movement, tiny house living, and degrowth economics. Research shows that above a moderate income, more money yields minimal gains in daily wellbeing — exactly what Thoreau demonstrated when he calculated he could cover annual expenses by working just six weeks a year."
+    content: "Thoreau sat down with a ledger and did the arithmetic. His cabin cost $28.12 to build, using secondhand lumber from an Irish railroad worker's shanty. His food for eight months cost $8.74. He earned enough in six weeks of day labor to cover a full year's expenses. His neighbors worked twelve months a year and many were still in debt. The idea that you might choose to need less — rather than earn more — was considered eccentric in 1845 and remains unsettling today. It challenges the central premise of an economy built on the assumption that more is always better. Research consistently finds that above a moderate income, additional earnings produce minimal improvements in daily wellbeing. Thoreau arrived at this conclusion with a borrowed axe, a secondhand shanty, and an eye for numbers."
 
   - id: "lowell-mills"
     trigger: "condition of the operatives"
@@ -86,7 +86,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Lowell_mill_girls"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2_Young_Women.jpg/330px-2_Young_Women.jpg"
     image_caption: "Workers at the Lowell textile mills, c. 1850"
-    content: "Thoreau's operatives evoked the Lowell mill girls — tens of thousands of young women working 12-14 hour days in deafening Massachusetts textile mills 20 miles from Concord. By the 1840s, speedups and wage cuts had turned a once-celebrated industrial experiment into exploitation. Their strikes of 1834 and 1836 were among the first industrial labor actions by women in American history."
+    content: "The mill bell rang at 4:30 in the morning. By five, the looms were running. The mill city of Lowell — twenty miles north of Walden — employed tens of thousands of workers in factories running fourteen-hour days. The machines were deafening; workers communicated by reading lips. Cotton dust filled the air year-round, causing the respiratory disease workers called brown lung. The workforce was predominantly young women, recruited from New England farms with promises of decent wages and clean boarding houses. By the 1840s, when Thoreau wrote about the condition of the operatives, those promises had curdled. Wave after wave of Irish famine refugees were arriving, willing to work for less, driving wages down. The women who had come for opportunity found themselves, as Thoreau put it, chained to their machines as surely as any prisoner to a cell."
 
   - id: "independence-day"
     trigger: "fourth of July"
@@ -94,7 +94,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/330px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg"
     image_caption: "Declaration of Independence, painted by John Trumbull, 1819"
-    content: "Thoreau moved to Walden on July 4, 1845 — not by coincidence. Independence Day was his symbolic declaration of independence from the economy of conventional society. Just as America declared independence from British rule 69 years earlier, Thoreau was declaring independence from the obligation to earn, consume, and conform. The date is one of the most deliberate gestures in American literary history."
+    content: "The fireworks were going off in town. The speeches had been made. And one mile away in the woods, a 27-year-old man was moving his few possessions into a cabin he had built himself. Thoreau chose July 4, 1845 deliberately and consciously. Sixty-nine years earlier, America had declared independence from a government that taxed and controlled without genuine consent. Thoreau was making the same declaration — from the economy that did the same thing to his neighbors. He would find out what life actually cost, stripped of everything unnecessary. He would work to live, not live to work. The symbolic date was not subtle. He wanted his readers to notice it. The question he was posing — what does independence actually require? — was the same question the founders had asked, applied to the conditions of his own time."
 
   - id: "woodchuck"
     trigger: "woodchuck"
@@ -102,7 +102,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Marmota_monax_UL_04.jpg/330px-Marmota_monax_UL_04.jpg"
     image_caption: "Marmota monax, the American woodchuck or groundhog"
-    content: "The woodchuck (Marmota monax), also called groundhog, is the largest ground squirrel in North America. Woodchucks dig extensive burrow systems — up to 5 feet deep and 25 feet long — with multiple chambers. Thoreau found the woodchuck's burrow a ready-made template for his own cellar. In one famous Walden passage he confesses a strange impulse to seize and devour one raw, as a symbol of the wildness he felt stirring in himself."
+    content: "A woodchuck had already done the digging. Thoreau found his cellar site because a groundhog had burrowed into the hillside, leaving a ready-made hole he simply enlarged. Woodchucks excavate burrow systems five feet deep and twenty-five feet long, with separate chambers for sleeping, raising young, and waste. Thoreau had a complicated relationship with them — he admired their economy and competence. But in a later chapter he confesses a sudden savage impulse to seize one crossing his path and eat it raw. Not madness: philosophy. He was acknowledging that underneath his books and principles, he was also an animal. Facing that honestly, without flinching, was part of what he had come to Walden to do."
 
   - id: "white-pines"
     trigger: "white pines"
@@ -110,7 +110,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Pinus_strobus"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pinus_strobus.jpg/330px-Pinus_strobus.jpg"
     image_caption: "Eastern white pine (Pinus strobus), New England's most valuable timber tree"
-    content: "The eastern white pine was the most valuable tree in colonial New England — the tallest conifer in the eastern continent and the source of mast timber for the British Royal Navy. The Crown's agents marked the finest trees with a 'Broad Arrow' to reserve them for the King's ships. By 1845 New England's white pine forests were already heavily depleted. Thoreau's act of felling young pines for his cabin connected him to a timber tradition stretching back to the first settlers."
+    content: "Before the Revolution, the tallest white pines in New England belonged to the Crown. The King's agents walked the forests marking the finest trees — any trunk over 24 inches across — with a Broad Arrow: three axe-strokes cut into the bark in the shape of an arrowhead. The trees were reserved for Royal Navy masts. Cutting a broad-arrow tree was a criminal offense that colonists resented fiercely; it was among the grievances that fed the Revolution. By the time Thoreau felled his small pines in 1845, that rule was seventy years gone — but the forests were equally depleted. Two centuries of clearing, shipbuilding, and fuel-cutting had reduced the original cathedral forests to thin second-growth stands. The tall arrowy white pines Thoreau cut were the children of trees the first settlers had destroyed. He was building with the forest's attempt to recover."
 
   - id: "wonder-working"
     trigger: "Wonder-Working Providence"
@@ -118,7 +118,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Embarkation_of_the_Pilgrims.jpg/330px-Embarkation_of_the_Pilgrims.jpg"
     image_caption: "Embarkation of the Pilgrims, by Robert Walter Weir, 1844"
-    content: "Edward Johnson's 1654 history documented the first English settlers of Massachusetts literally burrowing into hillsides for shelter in the winter of 1630-31 — they had no time to build proper houses before the cold arrived. They dug holes, covered them with timber and earth, and lived underground like colonists on a new planet. By quoting Johnson, Thoreau places his own Walden cabin in a long tradition of deliberate, minimal New England dwelling."
+    content: "Edward Johnson was there when it happened, and he wrote it down. In the winter of 1630-31, the first English settlers of Massachusetts arrived too late in the season to build proper houses before the cold set in. So they burrowed into hillsides. They dug holes in south-facing slopes, laid timber across the openings, heaped soil on top, and burned fires against the exposed earth walls. Dozens of families spent their first American winter underground — in conditions rougher than anything the Wampanoag people they were displacing had ever lived in. Johnson called it Providence. Thoreau, reading his account two centuries later, called it economy — the same economy he was practicing at Walden. Every generation of New Englanders had started from scratch in the same woods and solved the same problem. The answer was always some version of a hole in the ground with a roof on top."
 
   - id: "cambridge-college"
     trigger: "Cambridge College"
@@ -126,7 +126,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Harvard_University"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/330px-Harvard_University_coat_of_arms.svg.png"
     image_caption: "Harvard University coat of arms — Veritas (Truth)"
-    content: "Harvard College (then called Cambridge College by locals) charged students $30 a year for a dormitory room in the 1840s — more than Thoreau spent on his entire cabin. Thoreau himself graduated from Harvard in 1837, where he studied classics, rhetoric, and natural history. He later argued that students would learn more by building their own shelter and growing their own food than by sitting in lectures paid for by debt."
+    content: "Thoreau graduated from Harvard in 1837 in a class of 44 men. He studied Greek, Latin, rhetoric, and natural history. When his class was offered diplomas for five dollars, he declined: he saw no practical use for the certificate. Back in Concord, he tried school teaching — quit after two weeks when ordered to flog students. He worked in his father's pencil factory. He did odd jobs. By 1845, when he moved to Walden, he was 27 years old with no career, no savings, and a Harvard education he had concluded was nearly useless for the actual business of living. His comparison of cabin-building to classroom instruction was not abstract theory — it was his own specific experience. Four years of expensive lectures had told him nothing about how to keep warm, grow food, or understand why he was alive. His cabin cost less than one year of Harvard room and board, and taught him more."
 
   - id: "wigwams"
     trigger: "wigwams"
@@ -134,7 +134,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Wigwam"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Apache_Wickiup%2C_Edward_Curtis%2C_1903.jpg/330px-Apache_Wickiup%2C_Edward_Curtis%2C_1903.jpg"
     image_caption: "A traditional wickiup photographed by Edward Curtis, 1903"
-    content: "The wigwam — a domed dwelling of bent saplings covered with bark or woven mats — could be built by a family in a few days from freely available materials, owned outright, and left behind without penalty. Thoreau used this as a pointed contrast to the modern American who spends fifteen years of labor to own a house. The indigenous peoples of New England had solved the shelter problem with far less sacrifice of life."
+    content: "The Wampanoag and Massachusett peoples had lived around Walden Pond for at least ten thousand years before Thoreau arrived. Their wigwams — domed frames of bent saplings covered with bark or woven cattail mats — could be built by a family in a few days from materials gathered in a morning. When a band moved on, they carried the lightweight mats and left the wooden frames standing. No debt. No mortgage. No fifteen years of labor for a structure that outlasted the people who needed it. By the 1840s, the indigenous peoples of eastern Massachusetts had been largely displaced by two centuries of epidemic disease and colonial expansion. Thoreau, walking trails that had been indigenous footpaths for millennia, saw in their building practices a precise critique of what his neighbors called progress: a people who had solved the shelter problem with almost no sacrifice of life, dismissed as savages by a civilization spending a third of its working years to own a house."
 
   - id: "irish-laborers"
     trigger: "James Collins"
@@ -142,7 +142,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Irish_immigration_to_the_United_States"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Famine_memorial_dublin.jpg/330px-Famine_memorial_dublin.jpg"
     image_caption: "Famine Memorial, Dublin — commemorating the Great Famine of 1845-1852"
-    content: "James Collins was one of hundreds of thousands of Irish immigrants flooding into New England in the 1840s, driven by the Great Famine (1845-1852) in which over one million Irish died of starvation. Many took the hardest, lowest-paid work available — building the railroads that were reshaping America. Thoreau bought Collins's shanty for $4.25; Collins and his family moved on to the next construction camp. Their labor built the Fitchburg Railroad that Thoreau heard from his cabin every day."
+    content: "James Collins and his family lived in a shanty they had built from railroad lumber alongside the Fitchburg line they had been hired to lay. They were among the roughly 1.5 million Irish who crossed the Atlantic between 1845 and 1855, driven out by a famine that killed over one million people in four years. The potato crop had failed; the British government's response was inadequate and, in practice, indifferent. Landlords continued exporting grain from Ireland while their tenants starved. The survivors who reached America took the hardest available work: laying track, digging canals, dying in construction accidents at rates nobody recorded. When Thoreau bought Collins's shanty for $4.25, Collins moved his family on to the next section of track. His disassembled home, rebuilt as Thoreau's cabin, was the Great Famine carried into the New England woods."
 
   - id: "quiet-desperation"
     trigger: "quiet desperation"
@@ -150,7 +150,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "The phrase 'lives of quiet desperation' has become shorthand for the condition of modern life: working to live, living to work, never stopping to ask why. Thoreau coined it in 1854 to describe his Concord neighbors — farmers crushed by mortgages, tradesmen trapped by their trades, young men who inherited problems instead of lives. The line resonates because the condition it describes has only intensified: studies consistently show that a large majority of workers are disengaged from their jobs, yet continue showing up."
+    content: "On any morning in Concord in the 1840s, Thoreau walked past men he had known since childhood — farmers, tradesmen, mechanics — and saw in their faces what he called quiet desperation. Not dramatic suffering. Just the steady, grinding weight of lives organized entirely around necessity: the inherited farm that cost more to run than it produced, the trade learned because one's father had known it, the mortgage that would not be paid before old age. The desperation was quiet because no one named it. It lived beneath the jokes, the neighborly talk, the games played after work as if work were the point. The phrase has become the most-quoted line in American literature because the condition it describes has only intensified. Modern surveys consistently find that the majority of employed workers report being disengaged from their jobs — and continue showing up anyway. Thoreau named this in 1854 with two words."
 
   - id: "voluntary-poverty"
     trigger: "voluntary poverty"
@@ -158,7 +158,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Diogenes"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg/330px-Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg"
     image_caption: "Diogenes of Sinope, Roman mosaic, 2nd century AD"
-    content: "Diogenes of Sinope (412-323 BC) was the original voluntary-poverty philosopher: he gave away all his possessions, slept in a large ceramic jar in the Athens marketplace, and famously told Alexander the Great to get out of his sunlight. His school of Cynicism argued that virtue requires rejecting wealth, fame, and convention. Thoreau inherited this tradition directly — he kept Diogenes's works on his cabin shelf and saw his Walden experiment as a modern version of the same test."
+    content: "Diogenes of Sinope walked into the Athens marketplace in the fourth century BC, sat down inside a large ceramic storage jar, and refused to leave. He had given away all his possessions. He owned a wooden bowl — until he saw a child drinking from cupped hands, and smashed it on a stone. When Alexander the Great came to visit the famous philosopher and offered him any gift he desired, Diogenes asked him to move: he was blocking the sunlight. Thoreau kept Diogenes on his cabin shelf and read him carefully. The Walden experiment was a direct descendant of that ancient challenge: find the floor of actual human need, distinguish it clearly from what custom and habit insist you need, and then decide — with clear eyes — how you want to live. Almost no one in Thoreau's Concord ever got that far. Almost no one in ours does either."
 
   - id: "slavery"
     trigger: "slavery"
@@ -166,7 +166,7 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frederick_Douglass_%28circa_1879%29.jpg/330px-Frederick_Douglass_%28circa_1879%29.jpg"
     image_caption: "Frederick Douglass, c. 1879 — the most prominent American abolitionist"
-    content: "By the 1840s, the abolitionist movement was tearing New England apart. The Fugitive Slave Act required Northern citizens to return escaped enslaved people to their owners — making every Massachusetts resident complicit. Thoreau knew Frederick Douglass and William Lloyd Garrison personally; Concord was an active stop on the Underground Railroad. His refusal to pay taxes was a direct protest against a federal government that protected slavery. His cabin years (1845-47) coincided exactly with the peak crisis years before the Civil War."
+    content: "In 1845, there were approximately 3.2 million enslaved people in America. The Fugitive Slave Act required citizens of Massachusetts — a free state — to assist in capturing and returning people who had escaped north. Every Massachusetts citizen was legally complicit. Concord was not a bystander: it was an active station on the Underground Railroad. Thoreau's own family had harbored escaped people in their house on Main Street. He knew Frederick Douglass personally; Douglass had lectured in Concord. When Thoreau refused to pay his poll tax, he was making a specific, deliberate calculation: the tax funded a federal government that protected slavery, and he would not fund it. The night in jail was not an accident. It was the precise and voluntary consequence of placing individual conscience above law — an act that Gandhi and Martin Luther King Jr. would study and name as the foundation of their own movements."
 
   - id: "cowbirds"
     trigger: "cowbirds and cuckoos"
@@ -174,7 +174,39 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Brown-headed_cowbird"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Brown-headed_cowbird_male_%2871126%29.jpg/330px-Brown-headed_cowbird_male_%2871126%29.jpg"
     image_caption: "Brown-headed cowbird (Molothrus ater), a brood parasite native to North America"
-    content: "The brown-headed cowbird is a brood parasite: it lays its eggs in other birds' nests and lets other species do the work of raising its young. The host birds — often smaller species — exhaust themselves feeding a chick that may be twice their size. Thoreau used this image as a metaphor for people who hire out the most fundamental acts of life — building shelter, growing food, raising children — and in doing so lose the very experiences that develop wisdom, creativity, and genuine self-knowledge."
+    content: "The brown-headed cowbird is one of North America's most successful birds — and one of its most destructive. A brood parasite, it lays its eggs in the nests of other species: warblers, sparrows, vireos. Then it flies away. The host birds incubate the foreign egg alongside their own. The cowbird chick hatches slightly early, grows faster, demands more food, and often crowds the host's own chicks out of the nest. The host birds exhaust themselves feeding a life that is not theirs. Thoreau used this as his sharpest image for the consequences of hired-out living: when you pay others to build your house, grow your food, raise your children, you do not gain freedom. You lose the precise experiences through which a person develops skill, judgment, and genuine self-knowledge. The host bird raises someone else's offspring and calls it a life. And — Thoreau notes — it never sings."
+
+  - id: "bison"
+    trigger: "bison of the prairie"
+    title: "Sixty Million Animals — and Then Almost None"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_bison"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/American_bison_k5680-1.jpg/330px-American_bison_k5680-1.jpg"
+    image_caption: "American bison (Bison bison) on the Great Plains"
+    content: "When Thoreau mentioned the bison of the prairie in 1845, somewhere between thirty and sixty million of them still roamed the Great Plains — the largest concentration of large mammals on earth since the Ice Age. A single migrating herd could stretch beyond the horizon and take days to pass a single point. Plains Indigenous peoples had organized entire civilizations around the animal: food, shelter, tools, clothing, and ceremony all came from the buffalo. Within thirty years of Thoreau writing this sentence, the herds would be essentially gone. By 1890, fewer than 1,000 American bison survived. The destruction was not accidental. U.S. Army generals explicitly recommended encouraging the slaughter: eliminating the buffalo eliminated the food supply of the Plains peoples and made their resistance to removal impossible. Thoreau was writing about an animal still abundant. His readers' grandchildren would never see one in the wild."
+
+  - id: "ice-trade"
+    trigger: "ice trade"
+    title: "The Walden Pond Ice That Cooled Drinks in Calcutta"
+    wikipedia_url: "https://en.wikipedia.org/wiki/New_England_ice_trade"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ice_Harvest_Rockland_Lake_1900.jpg/330px-Ice_Harvest_Rockland_Lake_1900.jpg"
+    image_caption: "Ice harvesting on a New England pond, c. 1900"
+    content: "Every winter, teams of men arrived at Walden Pond with horse-drawn scrapers and long two-handled saws. They were workers for the New England ice trade — a business that had turned frozen pond water into a global commodity. Entrepreneurs had discovered that ice packed tightly in sawdust would survive the journey to the Caribbean, to England, to India, arriving largely intact months later. By the 1840s, Walden ice was being shipped to Bombay, Calcutta, and Madras. Thoreau watched the operation every January from his cabin and described it in precise, wondering detail: a hundred Irishmen with their saws, the blocks dragged up the bank, loaded into wagons, hauled to the Fitchburg Railroad depot. The sweltering inhabitants of Charleston and New Orleans, he wrote, of Madras and Bombay and Calcutta, drink at my well. The same water he swam in each morning was, three months later, cooling a drink on the other side of the earth."
+
+  - id: "laplander"
+    trigger: "Laplander"
+    title: "The Arctic People Who Slept on Snow and Never Needed a House"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sami_people"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sami_Family_%28Laplanders%29_LOC_02673u.jpg/330px-Sami_Family_%28Laplanders%29_LOC_02673u.jpg"
+    image_caption: "A Sami family photographed in the early 20th century"
+    content: "The Laplander Thoreau describes was a member of the Sami people — the indigenous reindeer herders of arctic Scandinavia, one of the oldest continuous cultures in Europe. Scottish traveler Samuel Laing observed them in the 1830s sleeping comfortably in skin bags on open snow, in temperatures that would kill an exposed European. The Sami had spent ten thousand years solving the exact problem Thoreau was just beginning to think about: what does a human body actually require? Their answer was specific and sophisticated: the right animal skins in the right configuration, held against the body in the right way, combined with deliberate movement rather than heated enclosures. Their entire material culture was organized around minimal weight, maximum warmth, and zero dependency on fixed structures. For Thoreau, this was powerful evidence against the assumption that civilization's elaborate shelters and heating systems were necessities. They were habits — expensive, labor-demanding habits — that other people had lived entirely without."
+
+  - id: "surveying"
+    trigger: "surveying"
+    title: "The Man Who Drew the Lines That Divided New England"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Survey_of_Walden_Pond_by_Henry_David_Thoreau_%281846%29.jpg/330px-Survey_of_Walden_Pond_by_Henry_David_Thoreau_%281846%29.jpg"
+    image_caption: "Thoreau's own survey map of Walden Pond, 1846"
+    content: "Thoreau was one of Concord's most respected land surveyors, and it was his primary source of cash income during and after the Walden years. He carried a compass, measuring chain, and transit across woodlots, pastures, and disputed property lines that his clients would often never visit in person. Land surveying was in high demand in 1840s New England: farms were being subdivided between heirs, timber lots were being sold off, and the last common lands of old colonial grants were being carved up and privatized. He charged a dollar a day — the standard wage for physical labor — and could cover a month's Walden expenses in a single week's work. There was an irony he acknowledged: his most marketable skill was walking the land to help other people claim ownership of more of it. He who had concluded that property was a kind of prison spent his working hours drawing the walls."
 ---
 
 I should not obtrude my affairs so much on the notice of my readers if very particular inquiries had not been made by my townsmen concerning my mode of life, which some would call impertinent, though they do not appear to me at all impertinent, but, considering the circumstances, very natural and pertinent. Some have asked what I got to eat; if I did not feel lonesome; if I was not afraid; and the like. Others have been curious to know what portion of my income I devoted to charitable purposes; and some, who have large families, how many poor children I maintained. I will therefore ask those of my readers who feel no particular interest in me to pardon me if I undertake to answer some of these questions in this book.
@@ -195,7 +227,7 @@ I have lived some thirty years on this planet, and I have yet to hear the first 
 
 The necessaries of life for man in this climate may be distributed under the several heads of Food, Shelter, Clothing, and Fuel. A man who has at length found something to do will not need to get a new suit to do it in. Old shoes will serve a hero longer than they have served his valet.
 
-By the words, necessary of life, I mean whatever, of all that man obtains by his own exertions, has been from the first, or from long use has become, so important to human life that few, if any, whether from savageness, or poverty, or philosophy, ever attempt to do without it. To many creatures there is in this sense but one necessary of life, Food. To the bison of the prairie it is a few inches of palatable grass, with water to drink; unless he seeks the Shelter of the forest or the mountain's shadow.
+By the words, necessary of life, I mean whatever, of all that man obtains by his own exertions, has been from the first, or from long use has become, so important to human life that few, if any, whether from savageness, or poverty, or philosophy, ever attempt to do without it. To many creatures there is in this sense but one necessary of life, Food. To the **bison of the prairie** it is a few inches of palatable grass, with water to drink; unless he seeks the Shelter of the forest or the mountain's shadow.
 
 None can be an impartial or wise observer of human life but from the vantage ground of what we should call **voluntary poverty**. Of a life of luxury the fruit is luxury, whether in agriculture, or commerce, or literature, or art. There are nowadays professors of philosophy, but not philosophers. Yet it is admirable to profess because it was once admirable to live. To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust.
 
@@ -203,7 +235,7 @@ Most of the luxuries, and many of the so-called comforts of life, are not only n
 
 The grand necessity, then, for our bodies, is to keep warm, to keep the vital heat in us. What pains we accordingly take, not only with our Food and Clothing, but with our beds, which are our night-clothes, robbing the nests and breasts of birds to prepare this shelter within a shelter. The poor man is wont to complain that this is a cold world; and to cold, no less physical than social, we refer directly a great part of our ails.
 
-As for Shelter, I will not deny that this is now a necessary of life, though there are instances of men having done without it for long periods in colder countries than this. Samuel Laing says that "the Laplander in his skin dress, and in a skin bag which he puts over his head and shoulders, will sleep night after night on the snow — in a degree of cold which would extinguish the life of one exposed to it in any woollen clothing." He had seen them asleep thus.
+As for Shelter, I will not deny that this is now a necessary of life, though there are instances of men having done without it for long periods in colder countries than this. Samuel Laing says that "the **Laplander** in his skin dress, and in a skin bag which he puts over his head and shoulders, will sleep night after night on the snow — in a degree of cold which would extinguish the life of one exposed to it in any woollen clothing." He had seen them asleep thus.
 
 When a man is warmed by the several modes which I have described, what does he want next? Surely not more warmth of the same kind, as more and richer food, larger and more splendid houses, finer and more abundant clothing, more numerous, incessant, and hotter fires, and the like. When he has obtained those things which are necessary to life, there is another alternative than to obtain the superfluities; and that is, to adventure on life now.
 
@@ -263,7 +295,7 @@ At **Cambridge College** the mere rent of a student's room, which is only a litt
 
 Students should not play life, or study it merely, while the community supports them at this expensive game, but earnestly live it from beginning to end. How could youths better learn to live than by at once trying the experiment of living? Methinks this would exercise their minds as much as mathematics.
 
-I have thought that Walden Pond would be a good place for business, not solely on account of the railroad and the ice trade; it offers advantages which it may not be good policy to divulge; it is a good port and a good foundation.
+I have thought that Walden Pond would be a good place for business, not solely on account of the railroad and the **ice trade**; it offers advantages which it may not be good policy to divulge; it is a good port and a good foundation.
 
 Philanthropy is almost the only virtue which is sufficiently appreciated by mankind. Nay, it is greatly overrated; and it is our selfishness which overrates it. A robust poor man, one sunny day here in Concord, praised a fellow-townsman to me, because, as he said, he was kind to the poor; meaning himself. The kind uncles and aunts of the race are more esteemed than its true spiritual fathers and mothers.
 
@@ -293,7 +325,7 @@ Before I had got through the first story of my house, thinking to make it two st
 
 I had three chairs in my house; one for solitude, two for friendship, three for society. When visitors came in larger and unexpected numbers there was but the third chair for them all, but they generally economized the room by standing up.
 
-By surveying, carpentry, and day-labor of various other kinds in the village in the meanwhile, for I have as many trades as fingers, I had earned thirteen dollars and thirty-four cents. The expense of food for eight months was as I have stated elsewhere eight dollars and seventy-four cents, my clothing and some incidental expenses within the same time some eight dollars and forty cents.
+By **surveying**, carpentry, and day-labor of various other kinds in the village in the meanwhile, for I have as many trades as fingers, I had earned thirteen dollars and thirty-four cents. The expense of food for eight months was as I have stated elsewhere eight dollars and seventy-four cents, my clothing and some incidental expenses within the same time some eight dollars and forty cents.
 
 I thus found that the student who wishes to get an education need not, as is commonly believed, resort to the city; but that, practically, the little village offers equal advantages with the world metropolis, and superior ones in some respects.
 
