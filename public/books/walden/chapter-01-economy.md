@@ -9,21 +9,27 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau moves to Walden Pond to live deliberately, stripping life to its essentials."
+  - point: "Thoreau moved to Walden on July 4, 1845 — deliberately choosing Independence Day as his personal declaration of independence from the economy of conventional society."
     link: "https://en.wikipedia.org/wiki/Walden"
     link_label: "Walden on Wikipedia"
-  - point: "He diagnoses his neighbors as living in quiet desperation, enslaved by convention and debt."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism on Wikipedia"
-  - point: "Food, Shelter, Clothing, and Fuel can be secured with minimal labor, freeing life for meaningful pursuits."
-    link: "https://en.wikipedia.org/wiki/Simple_living"
-    link_label: "Simple Living on Wikipedia"
-  - point: "His cabin cost $28.12 and a year of food cost $8.74 — radical frugality is achievable."
+  - point: "Most people live in quiet desperation, crushed by inherited debt, property, and convention — not because they must, but because they never stopped to question it."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau on Wikipedia"
-  - point: "True wealth is free time and conscious experience, not property or social status."
+  - point: "All four necessities reduce to keeping the body warm. Food, Shelter, Clothing, and Fuel together cost far less labor than civilization leads us to believe."
+    link: "https://en.wikipedia.org/wiki/Simple_living"
+    link_label: "Simple Living on Wikipedia"
+  - point: "The modern housing market is a trap: Thoreau built his cabin for $28.12 and fed himself for $8.74 for eight months — while Harvard students paid $30 a year just for a room."
     link: "https://en.wikipedia.org/wiki/Voluntary_simplicity"
     link_label: "Voluntary Simplicity on Wikipedia"
+  - point: "Walking to Fitchburg is faster than working to earn the train fare. Commerce creates the illusion of speed while costing more time than it saves."
+    link: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
+    link_label: "Fitchburg Railroad on Wikipedia"
+  - point: "Building your own house develops faculties that hired labor destroys. Those who do honest work with their hands — like birds building their own nests — live more fully and think more freely."
+    link: "https://en.wikipedia.org/wiki/Transcendentalism"
+    link_label: "Transcendentalism on Wikipedia"
+  - point: "Philanthropy tainted by self-congratulation does more harm than good. Do your own genuine work first — a healthy life is worth more to the world than organized charity."
+    link: "https://en.wikipedia.org/wiki/Reform_movements_in_the_United_States"
+    link_label: "Reform Movements on Wikipedia"
 
 enhancements:
   - id: "walden-pond"
@@ -113,6 +119,30 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Embarkation_of_the_Pilgrims.jpg/330px-Embarkation_of_the_Pilgrims.jpg"
     image_caption: "Embarkation of the Pilgrims, by Robert Walter Weir, 1844"
     content: "Edward Johnson's 1654 history documented the first English settlers of Massachusetts literally burrowing into hillsides for shelter in the winter of 1630-31 — they had no time to build proper houses before the cold arrived. They dug holes, covered them with timber and earth, and lived underground like colonists on a new planet. By quoting Johnson, Thoreau places his own Walden cabin in a long tradition of deliberate, minimal New England dwelling."
+
+  - id: "cambridge-college"
+    trigger: "Cambridge College"
+    title: "Harvard in 1845: $30 a Year for a Room, $1,000 for a Degree"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Harvard_University"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/330px-Harvard_University_coat_of_arms.svg.png"
+    image_caption: "Harvard University coat of arms — Veritas (Truth)"
+    content: "Harvard College (then called Cambridge College by locals) charged students $30 a year for a dormitory room in the 1840s — more than Thoreau spent on his entire cabin. Thoreau himself graduated from Harvard in 1837, where he studied classics, rhetoric, and natural history. He later argued that students would learn more by building their own shelter and growing their own food than by sitting in lectures paid for by debt."
+
+  - id: "wigwams"
+    trigger: "wigwams"
+    title: "Native American Shelter: Built in Days, Owned Outright, Left Without Debt"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wigwam"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Apache_Wickiup%2C_Edward_Curtis%2C_1903.jpg/330px-Apache_Wickiup%2C_Edward_Curtis%2C_1903.jpg"
+    image_caption: "A traditional wickiup photographed by Edward Curtis, 1903"
+    content: "The wigwam — a domed dwelling of bent saplings covered with bark or woven mats — could be built by a family in a few days from freely available materials, owned outright, and left behind without penalty. Thoreau used this as a pointed contrast to the modern American who spends fifteen years of labor to own a house. The indigenous peoples of New England had solved the shelter problem with far less sacrifice of life."
+
+  - id: "irish-laborers"
+    trigger: "James Collins"
+    title: "The Irish Famine Refugees Who Built American Railroads"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Irish_immigration_to_the_United_States"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Famine_memorial_dublin.jpg/330px-Famine_memorial_dublin.jpg"
+    image_caption: "Famine Memorial, Dublin — commemorating the Great Famine of 1845-1852"
+    content: "James Collins was one of hundreds of thousands of Irish immigrants flooding into New England in the 1840s, driven by the Great Famine (1845-1852) in which over one million Irish died of starvation. Many took the hardest, lowest-paid work available — building the railroads that were reshaping America. Thoreau bought Collins's shanty for $4.25; Collins and his family moved on to the next construction camp. Their labor built the Fitchburg Railroad that Thoreau heard from his cabin every day."
 ---
 
 I should not obtrude my affairs so much on the notice of my readers if very particular inquiries had not been made by my townsmen concerning my mode of life, which some would call impertinent, though they do not appear to me at all impertinent, but, considering the circumstances, very natural and pertinent. Some have asked what I got to eat; if I did not feel lonesome; if I was not afraid; and the like. Others have been curious to know what portion of my income I devoted to charitable purposes; and some, who have large families, how many poor children I maintained. I will therefore ask those of my readers who feel no particular interest in me to pardon me if I undertake to answer some of these questions in this book.
@@ -153,11 +183,11 @@ Near the end of March, 1845, I began to occupy my house, my hands being already 
 
 Furniture! Thank God, I can sit and I can stand without the aid of a furniture warehouse. What man but a philosopher would not be ashamed to see his furniture packed in a cart and going up country exposed to the light of heaven and the eyes of men, a beggarly account of empty boxes? That is Spaulding's furniture.
 
-In the savage state every family owns a shelter as good as the best, and sufficient for its coarser and simpler wants; but I think that I speak within bounds when I say that, though the birds of the air have their nests, and the foxes their holes, and the savages their wigwams, in modern civilized society not more than one half the families own a shelter. In the large towns and cities, where civilization especially prevails, the number of those who own a shelter is a very small fraction of the whole. The rest pay an annual tax for this outside garment of all — become indispensable summer and winter — which would buy a village of Indian wigwams, but now helps to keep them poor as long as they live.
+In the savage state every family owns a shelter as good as the best, and sufficient for its coarser and simpler wants; but I think that I speak within bounds when I say that, though the birds of the air have their nests, and the foxes their holes, and the savages their **wigwams**, in modern civilized society not more than one half the families own a shelter. In the large towns and cities, where civilization especially prevails, the number of those who own a shelter is a very small fraction of the whole. The rest pay an annual tax for this outside garment of all — become indispensable summer and winter — which would buy a village of Indian wigwams, but now helps to keep them poor as long as they live.
 
 An average house in this neighborhood costs perhaps eight hundred dollars, and to lay up this sum will take from ten to fifteen years of the laborer's life, even if he is not encumbered with a family — estimating the pecuniary value of every man's labor at one dollar a day, for if some receive more, others receive less. So that he must have spent more than half his life commonly before his wigwam will be earned. If we suppose him to pay a rent instead, this is but a doubtful choice of evils. Would the savage have been wise to exchange his wigwam for a palace on these terms?
 
-By the middle of April, for I made no haste in my work, but rather made the most of it, my house was framed and ready for the raising. I had already bought the shanty of James Collins, an Irishman who worked on the Fitchburg Railroad, for boards. The price was four dollars and twenty-five cents.
+By the middle of April, for I made no haste in my work, but rather made the most of it, my house was framed and ready for the raising. I had already bought the shanty of **James Collins**, an Irishman who worked on the Fitchburg Railroad, for boards. The price was four dollars and twenty-five cents.
 
 I dug my cellar in the side of a hill sloping to the south, where a **woodchuck** had formerly dug his burrow. It was but two hours' work. The house is still but a sort of porch at the entrance of a burrow.
 
@@ -197,7 +227,7 @@ The owner of the axe, as he released his hold on it, said that it was the apple 
 
 The student who secures his coveted leisure and retirement by systematically shirking any labor necessary to man obtains but an ignoble and unprofitable leisure, defrauding himself of the experience which alone can make leisure fruitful. But the laborer who does not study is worse off still; his leisure is empty and desolating.
 
-At Cambridge College the mere rent of a student's room, which is only a little larger than my own, is thirty dollars each year, though the corporation had the advantage of building thirty-two side by side and under one roof, and the occupant suffers the inconvenience of many and noisy neighbors, and perhaps a residence in the fourth story. I cannot but think that if we had more true wisdom in these respects, not only less education but the right kind, we should not have the College where it is. One man's farm might be another man's estate.
+At **Cambridge College** the mere rent of a student's room, which is only a little larger than my own, is thirty dollars each year, though the corporation had the advantage of building thirty-two side by side and under one roof, and the occupant suffers the inconvenience of many and noisy neighbors, and perhaps a residence in the fourth story. I cannot but think that if we had more true wisdom in these respects, not only less education but the right kind, we should not have the College where it is. One man's farm might be another man's estate.
 
 Students should not play life, or study it merely, while the community supports them at this expensive game, but earnestly live it from beginning to end. How could youths better learn to live than by at once trying the experiment of living? Methinks this would exercise their minds as much as mathematics.
 
