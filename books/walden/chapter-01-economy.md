@@ -30,7 +30,7 @@ enhancements:
     trigger: "Walden Pond"
     title: "This Pond Is 10,000 Years Old — and Clearer Than Your Tap Water"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Walden_Pond.jpg/320px-Walden_Pond.jpg"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Walden_Pond.jpg/330px-Walden_Pond.jpg"
     image_caption: "Walden Pond, Concord, Massachusetts"
     content: "Walden Pond is a 61-acre kettle lake formed 10,000-12,000 years ago when a buried glacier block melted, leaving a 102-foot-deep depression. Fed only by rain and groundwater, it has exceptional clarity. It became a National Historic Landmark in 1962. Swimmers still use the same sandy beach Thoreau described, though daily visitors are now capped to protect the ecosystem."
 
@@ -38,7 +38,7 @@ enhancements:
     trigger: "Concord, Massachusetts"
     title: "The Town That Started a Revolution — Then Wrote Half of American Literature"
     wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Old_North_Bridge,_Concord,_Massachusetts,_July_2005.JPG/320px-Old_North_Bridge,_Concord,_Massachusetts,_July_2005.JPG"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Minute_Man_National_Historical_Park_MIMA0070.jpg/330px-Minute_Man_National_Historical_Park_MIMA0070.jpg"
     image_caption: "The Old North Bridge, site of the first shots of the American Revolution, April 1775"
     content: "Concord was the site of the opening battle of the Revolution on April 19, 1775 — Emerson's shot heard round the world. A generation later it became the capital of American intellectual life: Emerson, Thoreau, Hawthorne, and the Alcotts all lived within walking distance of each other, producing a remarkable concentration of literature that shaped 19th-century American identity."
 
@@ -46,7 +46,7 @@ enhancements:
     trigger: "higher laws"
     title: "The Fringe Philosophy That Said God Was Hiding in a Forest"
     wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg/320px-Ralph_Waldo_Emerson_ca1857_retouched.jpg"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ralph_Waldo_Emerson_ca1857_retouched.jpg/330px-Ralph_Waldo_Emerson_ca1857_retouched.jpg"
     image_caption: "Ralph Waldo Emerson, Thoreau's neighbor and mentor"
     content: "Transcendentalism flourished in New England in the 1830s-1850s, led by Emerson. It held that the divine permeates all nature, accessible through intuition rather than church doctrine. Its followers opposed slavery and championed individual conscience over unjust law. Thoreau's years at Walden were a living experiment in these ideas."
 
@@ -54,7 +54,7 @@ enhancements:
     trigger: "Once I went to jail"
     title: "One Night in Jail That Changed World History"
     wikipedia_url: "https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thoreau.jpg/320px-Thoreau.jpg"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Thoreau.jpg"
     image_caption: "Henry David Thoreau, daguerreotype c. 1856"
     content: "In July 1846, Thoreau was arrested for refusing to pay six years of poll taxes — a protest against slavery and the Mexican-American War. He spent one night in the Concord jail. The resulting essay Civil Disobedience (1849) argued that individuals must refuse unjust laws, directly inspiring Gandhi's independence movement and Martin Luther King Jr.'s Civil Rights strategy."
 
@@ -62,7 +62,7 @@ enhancements:
     trigger: "railroad"
     title: "The Machine That Rewired How Humans Experience Time"
     wikipedia_url: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/320px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/330px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg"
     image_caption: "Completion of the first U.S. transcontinental railroad, 1869"
     content: "The Fitchburg Railroad, audible from Thoreau's cabin, was completed in 1844 — one year before he moved to Walden. Railroads didn't just shrink distance; they forced standardization of time itself. Before them every town kept local solar time; coordinating train schedules required synchronized clocks, pioneering the modern time zone system."
 
@@ -70,7 +70,7 @@ enhancements:
     trigger: "Simplicity, simplicity, simplicity"
     title: "Why Millions Are Choosing to Own Almost Nothing"
     wikipedia_url: "https://en.wikipedia.org/wiki/Simple_living"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/320px-Walden_Thoreau.jpg"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg"
     image_caption: "Title page of the first edition of Walden, 1854"
     content: "Simple living resurfaces today as minimalism, the FIRE movement, tiny house living, and degrowth economics. Research shows that above a moderate income, more money yields minimal gains in daily wellbeing — exactly what Thoreau demonstrated when he calculated he could cover annual expenses by working just six weeks a year."
 
@@ -78,7 +78,7 @@ enhancements:
     trigger: "condition of the operatives"
     title: "The Factory Girls Who Built Industrial America While Breaking Their Bodies"
     wikipedia_url: "https://en.wikipedia.org/wiki/Lowell_mill_girls"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2_Young_Women.jpg/320px-2_Young_Women.jpg"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2_Young_Women.jpg/330px-2_Young_Women.jpg"
     image_caption: "Workers at the Lowell textile mills, c. 1850"
     content: "Thoreau's operatives evoked the Lowell mill girls — tens of thousands of young women working 12-14 hour days in deafening Massachusetts textile mills 20 miles from Concord. By the 1840s, speedups and wage cuts had turned a once-celebrated industrial experiment into exploitation. Their strikes of 1834 and 1836 were among the first industrial labor actions by women in American history."
 ---
