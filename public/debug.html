@@ -2,28 +2,99 @@
 <html>
 <head><meta charset="UTF-8"><title>Debug</title></head>
 <body>
-<pre id="out"></pre>
+<pre id="out">Loading...</pre>
+<div id="img-tests"></div>
 <script>
-function parseFrontmatter(raw) {
-  const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
-  if (!m) return { meta: {}, body: raw, matched: false };
-  return { meta: {}, body: m[2].trim(), matched: true, yamlLen: m[1].length, bodyLen: m[2].trim().length };
+function parseYaml(src) {
+  const lines = src.split('\n');
+  let i = 0;
+  function readObj(minIndent) {
+    const obj = {};
+    while (i < lines.length) {
+      const raw = lines[i], trimmed = raw.trimStart(), indent = raw.length - trimmed.length;
+      if (!trimmed || trimmed[0] === '#') { i++; continue; }
+      if (indent < minIndent) break;
+      if (trimmed[0] === '-') break;
+      const colon = trimmed.indexOf(':');
+      if (colon < 0) { i++; continue; }
+      const key = trimmed.slice(0, colon).trim();
+      const val = trimmed.slice(colon + 1).trim();
+      if (!val) {
+        i++;
+        if (i < lines.length) {
+          const nt = lines[i].trimStart(), ni = lines[i].length - nt.length;
+          obj[key] = nt[0] === '-' ? readArr(ni) : readObj(ni);
+        }
+      } else {
+        obj[key] = val.replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
+        i++;
+      }
+    }
+    return obj;
+  }
+  function readArr(minIndent) {
+    const arr = [];
+    while (i < lines.length) {
+      const raw = lines[i], trimmed = raw.trimStart(), indent = raw.length - trimmed.length;
+      if (!trimmed) { i++; continue; }
+      if (indent < minIndent || trimmed[0] !== '-') break;
+      const item = {};
+      const first = trimmed.slice(2).trim();
+      if (first.includes(':')) {
+        const c = first.indexOf(':');
+        item[first.slice(0, c).trim()] = first.slice(c + 1).trim().replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
+      }
+      i++;
+      while (i < lines.length) {
+        const r2 = lines[i], t2 = r2.trimStart(), i2 = r2.length - t2.length;
+        if (!t2) { i++; continue; }
+        if (i2 <= indent || t2[0] === '-') break;
+        const c2 = t2.indexOf(':');
+        if (c2 >= 0) item[t2.slice(0, c2).trim()] = t2.slice(c2 + 1).trim().replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
+        i++;
+      }
+      arr.push(item);
+    }
+    return arr;
+  }
+  return readObj(0);
 }
 
-fetch('/books/walden/chapter-01-economy.md')
+function parseFrontmatter(raw) {
+  const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!m) return { meta: {}, body: raw };
+  return { meta: parseYaml(m[1]), body: m[2].trim() };
+}
+
+fetch('/books/walden/chapter-01-economy.md', {cache: 'no-store'})
   .then(r => r.text())
   .then(text => {
-    const result = parseFrontmatter(text);
+    const { meta, body } = parseFrontmatter(text);
+    const enhancements = meta.enhancements || [];
     document.getElementById('out').textContent = JSON.stringify({
       fileLength: text.length,
-      startsWithDashes: text.startsWith('---'),
-      firstNewline: text.indexOf('\n'),
-      regexMatched: result.matched,
-      yamlLen: result.yamlLen,
-      bodyLen: result.bodyLen,
-      bodyPreview: result.body ? result.body.substring(0, 200) : '(empty)',
-      lineEndings: text.includes('\r\n') ? 'CRLF' : 'LF'
+      bodyLen: body.length,
+      bodyPreview: body.substring(0, 80),
+      enhancementCount: enhancements.length,
+      enhancements: enhancements.map(e => ({
+        id: e.id,
+        image_url: e.image_url || '(missing)'
+      }))
     }, null, 2);
+
+    // Test first image via fetch to see status/error
+    const firstUrl = enhancements[0] && enhancements[0].image_url;
+    if (firstUrl) {
+      const container = document.getElementById('img-tests');
+      container.innerHTML = '<p><b>Direct URL test:</b> <a href="' + firstUrl + '" target="_blank">Open image in new tab</a></p>';
+      fetch(firstUrl, {mode: 'no-cors'})
+        .then(() => { container.innerHTML += '<p>fetch (no-cors): request sent (no-cors cannot read status)</p>'; })
+        .catch(e => { container.innerHTML += '<p>fetch error: ' + e.message + '</p>'; });
+
+      const cspMeta = document.querySelector('meta[http-equiv="Content-Security-Policy"]');
+      container.innerHTML += '<p>Page CSP meta tag: ' + (cspMeta ? cspMeta.content : 'none') + '</p>';
+      container.innerHTML += '<p>Location: ' + location.href + '</p>';
+    }
   })
   .catch(e => { document.getElementById('out').textContent = 'FETCH ERROR: ' + e.message; });
 </script>
