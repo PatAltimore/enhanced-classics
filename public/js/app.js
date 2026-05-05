@@ -203,18 +203,26 @@
       '<h2>Chapter ' + meta.chapter + ': ' + meta.chapter_title + '</h2></div>' +
       '<div class="prose">' + prose + '</div>' +
       summaryHtml + '</div>';
+
+    main.querySelectorAll('.enhancement-panel').forEach(function (panel) {
+      panel.addEventListener('toggle', function () {
+        if (panel.open) loadPanelImages(panel);
+      });
+    });
+  }
+
+  function loadPanelImages(panel) {
+    panel.querySelectorAll('img[data-src]').forEach(function (img) {
+      img.src = img.dataset.src;
+      img.removeAttribute('data-src');
+    });
   }
 
   window.togglePanel = function (id) {
     const p = document.getElementById('panel-' + id);
     if (!p) return;
     p.open = !p.open;
-    if (p.open) {
-      p.querySelectorAll('img[data-src]').forEach(function (img) {
-        img.src = img.dataset.src;
-        img.removeAttribute('data-src');
-      });
-    }
+    if (p.open) loadPanelImages(p);
   };
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
