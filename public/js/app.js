@@ -168,11 +168,11 @@
     enhancements.forEach(e => {
       panels[e.id] =
         '<details class="enhancement-panel" id="panel-' + e.id + '">' +
-        '<summary>' + e.title + '</summary>' +
+        '<summary onclick="event.preventDefault(); togglePanel(\'' + e.id + '\')">' + e.title + '</summary>' +
         '<div class="panel-body">' +
         '<div class="panel-text"><p>' + e.content + '</p>' +
         '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
-        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
+        (e.image_url ? '<figure class="panel-image"><img data-src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
         (e.image_caption ? '<figcaption>' + e.image_caption + '</figcaption>' : '') + '</figure>' : '') +
         '</div></details>';
     });
@@ -207,7 +207,15 @@
 
   window.togglePanel = function (id) {
     const p = document.getElementById('panel-' + id);
-    if (p) p.open = !p.open;
+    if (!p) return;
+    p.open = !p.open;
+    if (p.open) {
+      const img = p.querySelector('img[data-src]');
+      if (img) {
+        img.src = img.getAttribute('data-src');
+        img.removeAttribute('data-src');
+      }
+    }
   };
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
