@@ -4,5 +4,8 @@
     "rewrite": "/index.html",
     "exclude": ["/css/*", "/js/*", "/images/*", "/books/*", "/catalog.json"]
   },
-  "mimeTypes": {".md": "text/plain"}
+  "mimeTypes": {".md": "text/plain"},
+  "globalHeaders": {
+    "Referrer-Policy": "no-referrer-when-downgrade"
+  }
 }

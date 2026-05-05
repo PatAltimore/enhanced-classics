@@ -207,7 +207,13 @@
 
   window.togglePanel = function (id) {
     const p = document.getElementById('panel-' + id);
-    if (p) p.open = !p.open;
+    if (!p) return;
+    p.open = !p.open;
+    if (p.open) {
+      p.querySelectorAll('img[loading="lazy"]').forEach(function (img) {
+        img.loading = 'eager';
+      });
+    }
   };
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
