@@ -87,5 +87,9 @@ main { padding: 2rem; }
 .summary-item::before { content: '◆'; color: var(--gold); flex-shrink: 0; margin-top: .2rem; font-size: .7rem; }
 .summary-item a { color: var(--link); font-size: .85rem; margin-left: .4rem; }
 
+.next-chapter { max-width: var(--max-prose); margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--panel-border); font-family: var(--sans); }
+.next-chapter a { color: var(--accent); font-size: 1rem; font-weight: 600; text-decoration: none; }
+.next-chapter a:hover { text-decoration: underline; }
+
 #loading, #error { text-align: center; padding: 4rem 2rem; font-family: var(--sans); color: var(--muted); }
 #error { color: #c0392b; }

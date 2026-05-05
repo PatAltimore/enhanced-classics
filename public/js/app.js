@@ -78,11 +78,20 @@
     backBtn.style.display = 'inline-block';
     backBtn.onclick = () => { location.hash = '#/' + bookSlug; };
     try {
-      const text = await fetch('/books/' + bookSlug + '/' + chapterSlug + '.md').then(r => r.text());
+      const [text, cat] = await Promise.all([
+        fetch('/books/' + bookSlug + '/' + chapterSlug + '.md').then(r => r.text()),
+        loadCatalog()
+      ]);
       const { meta, body } = parseFrontmatter(text);
       headerTitle.textContent = meta.title + ' \u2014 ' + meta.chapter_title;
       const scrollKey = 'scroll_' + bookSlug + '_' + chapterSlug;
-      renderReader(meta, body);
+      const book = cat.books.find(b => b.slug === bookSlug);
+      let nextChapter = null;
+      if (book) {
+        const idx = book.chapters.findIndex(ch => ch.slug === chapterSlug);
+        if (idx >= 0 && idx < book.chapters.length - 1) nextChapter = book.chapters[idx + 1];
+      }
+      renderReader(meta, body, bookSlug, nextChapter);
       const saved = localStorage.getItem(scrollKey);
       if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
       saveScrollFor(scrollKey);
@@ -192,7 +201,7 @@
   }
 
   /* ── Render reader ── */
-  function renderReader(meta, body) {
+  function renderReader(meta, body, bookSlug, nextChapter) {
     const enhancements = meta.enhancements || [];
     const summary      = meta.summary      || [];
 
@@ -230,13 +239,17 @@
         ).join('') + '</div>'
       : '';
 
+    const nextHtml = nextChapter
+      ? '<div class="next-chapter"><a href="#/' + bookSlug + '/' + nextChapter.slug + '">Chapter ' + nextChapter.number + ': ' + nextChapter.title + ' \u2192</a></div>'
+      : '';
+
     main.innerHTML =
       '<div id="reader">' +
       '<div class="reader-header">' +
       '<div class="book-name">' + meta.author + ' &middot; ' + meta.year + '</div>' +
       '<h2>Chapter ' + meta.chapter + ': ' + meta.chapter_title + '</h2></div>' +
       '<div class="prose">' + prose + '</div>' +
-      summaryHtml + '</div>';
+      summaryHtml + nextHtml + '</div>';
 
     enhancements.forEach(function (e) {
       if (e.image_url) new Image().src = e.image_url;

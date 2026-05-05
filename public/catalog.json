@@ -7,7 +7,10 @@
     "description": "Two years alone beside a Massachusetts pond — a manifesto for deliberate living.",
     "chapters": [
       {"number": 1, "title": "Economy", "slug": "chapter-01-economy"},
-      {"number": 2, "title": "Where I Lived, and What I Lived For", "slug": "chapter-02-where-i-lived"}
+      {"number": 2, "title": "Where I Lived, and What I Lived For", "slug": "chapter-02-where-i-lived"},
+      {"number": 3, "title": "Reading", "slug": "chapter-03-reading"},
+      {"number": 4, "title": "Sounds", "slug": "chapter-04-sounds"},
+      {"number": 5, "title": "Solitude", "slug": "chapter-05-solitude"}
     ]
   }, {
     "slug": "twenty-thousand-leagues",
