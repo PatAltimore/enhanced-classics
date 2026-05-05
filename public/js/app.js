@@ -172,7 +172,7 @@
         '<div class="panel-body">' +
         '<div class="panel-text"><p>' + e.content + '</p>' +
         '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
-        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '" loading="lazy">' +
+        (e.image_url ? '<figure class="panel-image"><img data-src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
         (e.image_caption ? '<figcaption>' + e.image_caption + '</figcaption>' : '') + '</figure>' : '') +
         '</div></details>';
     });
@@ -210,8 +210,9 @@
     if (!p) return;
     p.open = !p.open;
     if (p.open) {
-      p.querySelectorAll('img[loading="lazy"]').forEach(function (img) {
-        img.loading = 'eager';
+      p.querySelectorAll('img[data-src]').forEach(function (img) {
+        img.src = img.dataset.src;
+        img.removeAttribute('data-src');
       });
     }
   };
