@@ -168,11 +168,11 @@
     enhancements.forEach(e => {
       panels[e.id] =
         '<details class="enhancement-panel" id="panel-' + e.id + '">' +
-        '<summary onclick="event.preventDefault(); togglePanel(\'' + e.id + '\')">' + e.title + '</summary>' +
+        '<summary>' + e.title + '</summary>' +
         '<div class="panel-body">' +
         '<div class="panel-text"><p>' + e.content + '</p>' +
         '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
-        (e.image_url ? '<figure class="panel-image"><img data-src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
+        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
         (e.image_caption ? '<figcaption>' + e.image_caption + '</figcaption>' : '') + '</figure>' : '') +
         '</div></details>';
     });
@@ -203,19 +203,15 @@
       '<h2>Chapter ' + meta.chapter + ': ' + meta.chapter_title + '</h2></div>' +
       '<div class="prose">' + prose + '</div>' +
       summaryHtml + '</div>';
+
+    enhancements.forEach(function (e) {
+      if (e.image_url) new Image().src = e.image_url;
+    });
   }
 
   window.togglePanel = function (id) {
     const p = document.getElementById('panel-' + id);
-    if (!p) return;
-    p.open = !p.open;
-    if (p.open) {
-      const img = p.querySelector('img[data-src]');
-      if (img) {
-        img.src = img.getAttribute('data-src');
-        img.removeAttribute('data-src');
-      }
-    }
+    if (p) p.open = !p.open;
   };
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
