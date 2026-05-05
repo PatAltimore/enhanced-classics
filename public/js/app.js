@@ -222,13 +222,20 @@
     });
 
     let prose = mdToHtml(body, enhancements);
+    const insertions = [];
     enhancements.forEach(e => {
       const marker = 'togglePanel(\'' + e.id + '\')';
       const idx    = prose.indexOf(marker);
       if (idx >= 0) {
         const after = prose.indexOf('</p>', idx) + 4;
-        prose = prose.slice(0, after) + panels[e.id] + prose.slice(after);
+        insertions.push({ after, triggerIdx: idx, html: panels[e.id] });
       }
+    });
+    // Insert end-to-start so earlier offsets stay valid; within the same paragraph,
+    // insert later triggers first so the first trigger's panel ends up first.
+    insertions.sort((a, b) => b.after !== a.after ? b.after - a.after : b.triggerIdx - a.triggerIdx);
+    insertions.forEach(ins => {
+      prose = prose.slice(0, ins.after) + ins.html + prose.slice(ins.after);
     });
 
     const summaryHtml = summary.length
