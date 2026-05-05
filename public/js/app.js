@@ -212,5 +212,20 @@
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
 
+  /* ── Font size control ── */
+  const fontSizes = ['', 'font-md', 'font-lg'];
+  const savedSize = localStorage.getItem('fontSize') || '';
+  if (savedSize) document.body.classList.add(savedSize);
+  document.querySelectorAll('.fs-btn').forEach(function (btn) {
+    if (btn.dataset.size === savedSize) btn.classList.add('active');
+    btn.addEventListener('click', function () {
+      fontSizes.forEach(function (s) { if (s) document.body.classList.remove(s); });
+      document.querySelectorAll('.fs-btn').forEach(function (b) { b.classList.remove('active'); });
+      if (btn.dataset.size) document.body.classList.add(btn.dataset.size);
+      btn.classList.add('active');
+      localStorage.setItem('fontSize', btn.dataset.size);
+    });
+  });
+
   loadCatalog().then(route);
 })();

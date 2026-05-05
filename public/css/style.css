@@ -23,6 +23,16 @@ header h1 { font-size: 1.25rem; font-weight: 600; }
 #back-btn { background: none; border: 1px solid rgba(255,255,255,.4); color: var(--paper); padding: .3rem .8rem; border-radius: 4px; cursor: pointer; font-family: var(--sans); font-size: .875rem; display: none; }
 #back-btn:hover { background: rgba(255,255,255,.15); }
 
+#font-size-ctrl { margin-left: auto; display: flex; align-items: baseline; gap: .35rem; }
+.fs-btn { background: none; border: none; color: rgba(255,255,255,.5); cursor: pointer; padding: .1rem .25rem; font-family: var(--serif); font-weight: 600; line-height: 1; transition: color .15s; }
+.fs-btn:nth-child(1) { font-size: .8rem; }
+.fs-btn:nth-child(2) { font-size: 1rem; }
+.fs-btn:nth-child(3) { font-size: 1.25rem; }
+.fs-btn:hover { color: rgba(255,255,255,.85); }
+.fs-btn.active { color: var(--paper); border-bottom: 1px solid var(--gold); }
+body.font-md { font-size: 1.3rem; }
+body.font-lg { font-size: 1.5rem; }
+
 main { padding: 2rem; }
 
 /* Shelf */
