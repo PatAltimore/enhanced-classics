@@ -181,6 +181,16 @@
     }).join('\n');
   }
 
+  /* ── Wikimedia Commons attribution ── */
+  function commonsUrl(imageUrl) {
+    if (!imageUrl) return null;
+    var m = imageUrl.match(/\/thumb\/[0-9a-f]\/[0-9a-f]{2}\/(.+?)\/\d+px-/);
+    if (m) return 'https://commons.wikimedia.org/wiki/File:' + m[1];
+    var m2 = imageUrl.match(/\/wikipedia\/commons\/[0-9a-f]\/[0-9a-f]{2}\/(.+)$/);
+    if (m2) return 'https://commons.wikimedia.org/wiki/File:' + m2[1];
+    return null;
+  }
+
   /* ── Render reader ── */
   function renderReader(meta, body) {
     const enhancements = meta.enhancements || [];
@@ -195,7 +205,9 @@
         '<div class="panel-text"><p>' + e.content + '</p>' +
         '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
         (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
-        (e.image_caption ? '<figcaption>' + e.image_caption + '</figcaption>' : '') + '</figure>' : '') +
+        '<figcaption>' + (e.image_caption || '') +
+        (commonsUrl(e.image_url) ? ' <a href="' + commonsUrl(e.image_url) + '" target="_blank" rel="noopener" class="commons-link">via Wikimedia Commons</a>' : '') +
+        '</figcaption></figure>' : '') +
         '</div></details>';
     });
 

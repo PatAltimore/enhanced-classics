@@ -77,6 +77,8 @@ main { padding: 2rem; }
 .panel-link a { color: var(--link); font-family: var(--sans); font-size: .875rem; }
 .panel-image img { width: 160px; border-radius: 4px; display: block; }
 .panel-image figcaption { font-family: var(--sans); font-size: .75rem; color: var(--muted); margin-top: .3rem; max-width: 160px; }
+.commons-link { display: block; font-size: .65rem; color: var(--muted); margin-top: .15rem; opacity: .7; }
+.commons-link:hover { opacity: 1; color: var(--link); }
 
 /* Summary */
 .chapter-summary { margin-top: 3rem; padding: 2rem; background: var(--paper-dark); border: 1px solid var(--panel-border); border-radius: 6px; max-width: var(--max-prose); }
