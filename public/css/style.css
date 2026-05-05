@@ -72,7 +72,7 @@ main { padding: 2rem; }
 .enhancement-panel[open] summary::before { transform: rotate(180deg); }
 .enhancement-panel summary:hover { color: var(--ink); }
 
-.panel-body { padding: .75rem 0 1.25rem; display: grid; grid-template-columns: 1fr auto; gap: 1rem; align-items: start; }
+.panel-body { padding: .75rem 0 1.25rem 1.75rem; display: grid; grid-template-columns: 1fr auto; gap: 1rem; align-items: start; border-left: 3px solid var(--gold); }
 @media (max-width: 600px) { .panel-body { grid-template-columns: 1fr; } }
 .panel-text p { font-family: var(--serif); line-height: 1.75; margin-bottom: .75rem; }
 .panel-link a { color: var(--link); font-family: var(--sans); font-size: .875rem; }
