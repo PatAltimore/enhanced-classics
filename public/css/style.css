@@ -67,7 +67,7 @@ main { padding: 2rem; }
 /* Enhancement panels */
 .enhancement-panel { background: transparent; border: none; border-top: 1px solid var(--accent); border-bottom: 1px solid var(--accent); border-radius: 0; margin: 2rem 0; overflow: visible; }
 .enhancement-panel summary { padding: .6rem 0; cursor: pointer; font-family: var(--serif); font-weight: 600; font-style: italic; color: var(--accent); list-style: none; display: flex; align-items: center; gap: .6rem; }
-.enhancement-panel summary::before { content: '▾'; font-size: .7rem; font-style: normal; color: var(--gold); transition: transform .2s; flex-shrink: 0; }
+.enhancement-panel summary::before { content: '▾'; font-size: 1.75rem; font-style: normal; color: var(--gold); transition: transform .2s; flex-shrink: 0; line-height: 1; }
 .enhancement-panel[open] summary::before { transform: rotate(180deg); }
 .enhancement-panel summary:hover { color: var(--ink); }
 
