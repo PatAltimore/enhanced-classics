@@ -5,7 +5,23 @@
   const main        = document.getElementById('main-content');
   const backBtn     = document.getElementById('back-btn');
   const headerTitle = document.getElementById('header-title');
-  let catalog       = null;
+  let catalog           = null;
+  let scrollHandler     = null;
+
+  function saveScrollFor(key) {
+    if (scrollHandler) window.removeEventListener('scroll', scrollHandler);
+    var t;
+    scrollHandler = function () {
+      clearTimeout(t);
+      t = setTimeout(function () { localStorage.setItem(key, window.scrollY); }, 150);
+    };
+    window.addEventListener('scroll', scrollHandler);
+  }
+
+  function clearScrollHandler() {
+    if (scrollHandler) { window.removeEventListener('scroll', scrollHandler); scrollHandler = null; }
+    window.scrollTo(0, 0);
+  }
 
   /* ── Routing ── */
   function route() {
@@ -25,6 +41,7 @@
 
   /* ── Shelf ── */
   async function showShelf() {
+    clearScrollHandler();
     backBtn.style.display = 'none';
     headerTitle.textContent = 'Enhanced Classics';
     const cat = await loadCatalog();
@@ -39,6 +56,7 @@
 
   /* ── Chapter list ── */
   async function showChapterList(bookSlug) {
+    clearScrollHandler();
     const cat  = await loadCatalog();
     const book = cat.books.find(b => b.slug === bookSlug);
     if (!book) { showError('Book not found.'); return; }
@@ -63,7 +81,11 @@
       const text = await fetch('/books/' + bookSlug + '/' + chapterSlug + '.md').then(r => r.text());
       const { meta, body } = parseFrontmatter(text);
       headerTitle.textContent = meta.title + ' \u2014 ' + meta.chapter_title;
+      const scrollKey = 'scroll_' + bookSlug + '_' + chapterSlug;
       renderReader(meta, body);
+      const saved = localStorage.getItem(scrollKey);
+      if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
+      saveScrollFor(scrollKey);
     } catch (e) {
       showError('Could not load chapter: ' + e.message);
     }
