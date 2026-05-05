@@ -17,7 +17,8 @@
 
 body { background: var(--paper); color: var(--ink); font-family: var(--serif); font-size: 1.125rem; line-height: 1.85; }
 
-header { background: var(--accent); color: var(--paper); padding: 1rem 2rem; display: flex; align-items: center; gap: 1.5rem; }
+header { position: sticky; top: 0; z-index: 100; background: var(--accent); color: var(--paper); padding: 1rem 2rem; display: flex; align-items: center; gap: 1.5rem; transition: transform .25s ease; }
+header.header-hidden { transform: translateY(-100%); }
 header h1 { font-size: 1.25rem; font-weight: 600; }
 
 #back-btn { background: none; border: 1px solid rgba(255,255,255,.4); color: var(--paper); padding: .3rem .8rem; border-radius: 4px; cursor: pointer; font-family: var(--sans); font-size: .875rem; display: none; }

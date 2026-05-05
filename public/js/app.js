@@ -21,6 +21,7 @@
   function clearScrollHandler() {
     if (scrollHandler) { window.removeEventListener('scroll', scrollHandler); scrollHandler = null; }
     window.scrollTo(0, 0);
+    document.querySelector('header').classList.remove('header-hidden');
   }
 
   /* ── Routing ── */
@@ -279,4 +280,25 @@
   });
 
   loadCatalog().then(route);
+
+  /* ── Header hide/show on scroll ── */
+  var hdr = document.querySelector('header');
+  var lastScrollY = 0;
+  var scrollTicking = false;
+  window.addEventListener('scroll', function () {
+    if (scrollTicking) return;
+    scrollTicking = true;
+    requestAnimationFrame(function () {
+      var y = window.scrollY;
+      if (y < 80) {
+        hdr.classList.remove('header-hidden');
+      } else if (y < lastScrollY - 4) {
+        hdr.classList.remove('header-hidden');
+      } else if (y > lastScrollY + 4) {
+        hdr.classList.add('header-hidden');
+      }
+      lastScrollY = y;
+      scrollTicking = false;
+    });
+  }, { passive: true });
 })();
