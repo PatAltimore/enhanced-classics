@@ -10,6 +10,15 @@
       {"number": 2, "title": "Where I Lived, and What I Lived For", "slug": "chapter-02-where-i-lived"}
     ]
   }, {
+    "slug": "twenty-thousand-leagues",
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "year": 1870,
+    "description": "Something vast and luminous is moving through the world's oceans — and no one can explain it. A Victorian thriller from the father of science fiction.",
+    "chapters": [
+      {"number": 1, "title": "A Shifting Reef", "slug": "chapter-01-a-shifting-reef"}
+    ]
+  }, {
     "slug": "the-great-gatsby",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
