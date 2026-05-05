@@ -286,6 +286,21 @@
     });
   });
 
+  /* ── Theme control ── */
+  const themes = ['', 'theme-white'];
+  const savedTheme = localStorage.getItem('theme') || '';
+  if (savedTheme) document.body.classList.add(savedTheme);
+  document.querySelectorAll('.theme-btn').forEach(function (btn) {
+    if (btn.dataset.theme === savedTheme) btn.classList.add('active');
+    btn.addEventListener('click', function () {
+      themes.forEach(function (t) { if (t) document.body.classList.remove(t); });
+      document.querySelectorAll('.theme-btn').forEach(function (b) { b.classList.remove('active'); });
+      if (btn.dataset.theme) document.body.classList.add(btn.dataset.theme);
+      btn.classList.add('active');
+      localStorage.setItem('theme', btn.dataset.theme);
+    });
+  });
+
   loadCatalog().then(route);
 
   /* ── Header hide/show on scroll ── */

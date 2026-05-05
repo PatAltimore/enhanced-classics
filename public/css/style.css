@@ -34,6 +34,16 @@ header h1 { font-size: 1.25rem; font-weight: 600; }
 body.font-md { font-size: 1.3rem; }
 body.font-lg { font-size: 1.5rem; }
 
+#theme-ctrl { display: flex; align-items: center; gap: .4rem; padding-left: .75rem; border-left: 1px solid rgba(255,255,255,.25); }
+.theme-btn { cursor: pointer; padding: .2rem .45rem; border-radius: 3px; font-family: var(--serif); font-size: .75rem; font-weight: 600; line-height: 1; border: 2px solid transparent; transition: border-color .15s; }
+.theme-btn[data-theme=""] { background: #f5f0e8; color: #1a1410; }
+.theme-btn[data-theme="theme-white"] { background: #ffffff; color: #111; }
+.theme-btn:hover { border-color: rgba(255,255,255,.55); }
+.theme-btn.active { border-color: var(--gold); }
+
+/* White theme overrides */
+body.theme-white { --ink: #111; --paper: #fff; --paper-dark: #f0f0f0; --accent: #222; --panel-bg: #fafafa; --panel-border: #ccc; --muted: #555; }
+
 main { padding: 2rem; }
 
 /* Shelf */
