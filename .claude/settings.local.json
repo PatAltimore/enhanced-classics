@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(\\(Get-Content \"c:\\\\Users\\\\palti\\\\git\\\\enhanced-classics\\\\public\\\\books\\\\walden\\\\chapter-01-economy.md\"\\).Count)",
-      "PowerShell(Copy-Item \"c:\\\\Users\\\\palti\\\\git\\\\enhanced-classics\\\\public\\\\books\\\\walden\\\\chapter-01-economy.md\" \"c:\\\\Users\\\\palti\\\\git\\\\enhanced-classics\\\\books\\\\walden\\\\chapter-01-economy.md\" -Force)",
-      "PowerShell($content = Get-Content \"c:\\\\Users\\\\palti\\\\git\\\\enhanced-classics\\\\public\\\\books\\\\walden\\\\chapter-01-economy.md\" -Raw; $content.Substring\\($content.Length - 200\\))"
-    ]
-  }
-}
