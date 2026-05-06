@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <!-- Dark warm brown background -->
+  <rect width="180" height="180" fill="#3d2e1a"/>
+
+  <!-- Outer decorative gold border -->
+  <rect x="8" y="8" width="164" height="164" fill="none" stroke="#c8a84b" stroke-width="1.5"/>
+  <!-- Inner faint border -->
+  <rect x="13" y="13" width="154" height="154" fill="none" stroke="#c8a84b" stroke-width="0.6" opacity="0.5"/>
+
+  <!-- Corner diamond ornaments -->
+  <g fill="#c8a84b">
+    <polygon points="8,4 12,8 8,12 4,8"/>
+    <polygon points="172,4 176,8 172,12 168,8"/>
+    <polygon points="8,168 12,172 8,176 4,172"/>
+    <polygon points="172,168 176,172 172,176 168,172"/>
+  </g>
+
+  <!-- Book shadow -->
+  <ellipse cx="90" cy="120" rx="50" ry="4" fill="#1a0f08" opacity="0.6"/>
+
+  <!-- Left page of open book -->
+  <path d="M38 65 C52 59 72 60 88 65 L88 115 C72 113 52 112 38 118 Z" fill="#f0e8d5"/>
+  <!-- Right page of open book -->
+  <path d="M92 65 C108 60 128 59 142 65 L142 118 C128 112 108 113 92 115 Z" fill="#e8dfc8"/>
+
+  <!-- Book spine / binding -->
+  <rect x="87.5" y="62" width="5" height="55" fill="#7a5c1a" rx="1"/>
+  <line x1="90" y1="62" x2="90" y2="117" stroke="#c8a84b" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- Text lines on left page -->
+  <g stroke="#8a7455" stroke-width="0.9" opacity="0.65">
+    <line x1="50" y1="77" x2="80" y2="76"/>
+    <line x1="50" y1="84" x2="80" y2="83"/>
+    <line x1="50" y1="91" x2="80" y2="90"/>
+    <line x1="50" y1="98" x2="80" y2="97"/>
+    <line x1="50" y1="105" x2="73" y2="104"/>
+  </g>
+
+  <!-- Text lines on right page -->
+  <g stroke="#8a7455" stroke-width="0.9" opacity="0.65">
+    <line x1="100" y1="76" x2="130" y2="77"/>
+    <line x1="100" y1="83" x2="130" y2="84"/>
+    <line x1="100" y1="90" x2="130" y2="91"/>
+    <line x1="100" y1="97" x2="130" y2="98"/>
+    <line x1="100" y1="104" x2="125" y2="105"/>
+  </g>
+
+  <!-- Ornament above book (small quill flourish) -->
+  <path d="M80 62 Q90 53 100 62" fill="none" stroke="#c8a84b" stroke-width="1.2"/>
+  <circle cx="90" cy="51" r="3.5" fill="#c8a84b"/>
+  <line x1="90" y1="54.5" x2="90" y2="62" stroke="#c8a84b" stroke-width="0.8"/>
+
+  <!-- "Classics+" text -->
+  <text x="90" y="142"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="13"
+        fill="#c8a84b"
+        letter-spacing="1.5"
+        font-weight="normal">Classics+</text>
+
+  <!-- Small decorative rule under text -->
+  <line x1="55" y1="148" x2="125" y2="148" stroke="#c8a84b" stroke-width="0.6" opacity="0.55"/>
+  <!-- Dot at center of rule -->
+  <circle cx="90" cy="148" r="1.5" fill="#c8a84b" opacity="0.55"/>
+</svg>
