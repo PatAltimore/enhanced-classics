@@ -214,7 +214,7 @@
         '<div class="panel-body">' +
         '<div class="panel-text"><p>' + e.content + '</p>' +
         '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
-        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
+        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '" loading="eager">' +
         '<figcaption>' + (e.image_caption || '') +
         (commonsUrl(e.image_url) ? ' <a href="' + commonsUrl(e.image_url) + '" target="_blank" rel="noopener" class="commons-link">via Wikimedia Commons</a>' : '') +
         '</figcaption></figure>' : '') +
@@ -261,6 +261,19 @@
 
     enhancements.forEach(function (e) {
       if (e.image_url) new Image().src = e.image_url;
+    });
+
+    document.querySelectorAll('.enhancement-panel').forEach(function (panel) {
+      panel.addEventListener('toggle', function () {
+        if (!panel.open) return;
+        panel.querySelectorAll('img').forEach(function (img) {
+          if (!img.complete || img.naturalWidth === 0) {
+            var src = img.src;
+            img.src = '';
+            img.src = src;
+          }
+        });
+      });
     });
   }
 
