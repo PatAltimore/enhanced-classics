@@ -30,8 +30,8 @@ enhancements:
     trigger: "air heavy with damp"
     title: "Atmosphere in Underground Spaces"
     wikipedia_url: "https://en.wikipedia.org/wiki/Atmospheric_conditions"
-    image_url: ""
-    image_caption: ""
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escalators_at_Auber_RER_station_in_Paris%2C_recently_renovated%2C_with_clean_and_modern_underground_architecture.jpg/330px-Escalators_at_Auber_RER_station_in_Paris%2C_recently_renovated%2C_with_clean_and_modern_underground_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    image_caption: "Escalators at Auber RER station in Paris, recently renovated, with clean and modern underground architecture (CC0)"
     content: "The description of the air being 'heavy with damp' evokes the claustrophobic and oppressive conditions often found in subterranean environments. In literature, such atmospheric details are used to heighten tension and immerse readers in the setting. Underground spaces, like caves or tunnels, often have high humidity due to limited ventilation and proximity to groundwater. This can create a sense of discomfort and unease, which aligns with the narrator's experience in the Morlocks' domain. The damp air also symbolizes decay and stagnation, reinforcing the dystopian themes of H.G. Wells' future world."
   - id: "time-machine"
     trigger: "Time Machine"
@@ -44,8 +44,8 @@ enhancements:
     trigger: "juxtaposition of worlds"
     title: "Contrasting Eloi and Morlocks"
     wikipedia_url: "https://en.wikipedia.org/wiki/Dystopia"
-    image_url: ""
-    image_caption: ""
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dystopia.png/330px-Dystopia.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    image_caption: "A dystopian world; a flawed, oppressive society (Public domain)"
     content: "The 'juxtaposition of worlds' refers to the stark contrast between the surface-dwelling Eloi and the subterranean Morlocks in Wells' future society. This dichotomy serves as a critique of class divisions and industrialization. The Eloi represent a passive, decadent upper class, while the Morlocks embody the oppressed working class, forced to toil in darkness. Wells uses this division to explore the consequences of unchecked social and economic inequality. The juxtaposition also highlights the fragility of civilization, suggesting that humanity's advancements may ultimately lead to its downfall. This theme resonates with broader dystopian literature, which often examines the interplay between societal structures and human nature."
 ---
 The darkness was thick and palpable, like a veil drawn tightly across my senses. I stood in the cavernous depths of the Morlocks’ domain, the **air heavy with damp** and faintly metallic odors that clung to my skin and clothes. The faint hum of machinery echoed distantly, a strange and mechanical heartbeat that pulsed through the labyrinthine tunnels. My lantern flickered weakly, its flame a frail beacon against the oppressive gloom. Around me, shadows stirred and shifted, and I knew that I was not alone.
