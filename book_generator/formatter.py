@@ -1,76 +1,72 @@
 """Assembles the final chapter markdown file from generated parts.
 
-Output format:
-  ---
-  <YAML frontmatter with metadata, summary, enhancements>
-  ---
-  <prose text>
+Builds YAML frontmatter manually to match the format expected by the
+custom parser in public/js/app.js, which does not support block scalars
+(|-) or unindented list items. All values are double-quoted single-line
+strings; list items are indented with two spaces.
 """
 import json
 import re
-import io
-import yaml
 
 
-# Custom representer so long strings use YAML literal block style (|)
-# instead of being collapsed into a single quoted line.
-class _LiteralStr(str):
-    pass
-
-
-def _literal_representer(dumper, data):
-    if "\n" in data or len(data) > 80:
-        return dumper.represent_scalar("tag:yaml.org,2002:str", data, style="|")
-    return dumper.represent_scalar("tag:yaml.org,2002:str", data)
-
-
-yaml.add_representer(_LiteralStr, _literal_representer)
-
-
-def _literalize(obj):
-    """Recursively wrap long string values so they render as YAML literal blocks."""
-    if isinstance(obj, dict):
-        return {k: _literalize(v) for k, v in obj.items()}
-    if isinstance(obj, list):
-        return [_literalize(i) for i in obj]
-    if isinstance(obj, str) and (len(obj) > 80 or "\n" in obj):
-        return _LiteralStr(obj)
-    return obj
+def _q(value: str) -> str:
+    """Wrap a string in double quotes, escaping backslashes and inner quotes."""
+    s = str(value).replace("\\", "\\\\").replace('"', '\\"')
+    return f'"{s}"'
 
 
 def _parse_json(raw: str) -> dict:
     """Parse JSON from model output, tolerating markdown fences or extra text."""
     raw = raw.strip()
-    # Strip ```json ... ``` fences if present
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
     raw = re.sub(r"\s*```$", "", raw)
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
-        # Last resort: find the first {...} block
         match = re.search(r"\{.*\}", raw, re.DOTALL)
         if match:
             return json.loads(match.group())
         raise ValueError(f"Could not parse JSON from model output:\n{raw[:400]}")
 
 
+def _build_yaml(book: dict, chapter: dict, data: dict) -> str:
+    lines = ["---"]
+
+    # Scalar metadata
+    lines.append(f'title: {_q(book["title"])}')
+    lines.append(f'author: {_q(book["author"])}')
+    lines.append(f'year: {book["year"]}')
+    lines.append(f'chapter: {chapter["number"]}')
+    lines.append(f'chapter_title: {_q(chapter["title"])}')
+    lines.append(f'slug: {_q(chapter["slug"])}')
+    lines.append(f'book_slug: {_q(book["slug"])}')
+    lines.append('license: "public-domain"')
+    lines.append("")
+
+    # Summary list
+    lines.append("summary:")
+    for s in data.get("summary", []):
+        lines.append(f'  - point: {_q(s.get("point", ""))}')
+        lines.append(f'    link: {_q(s.get("link", ""))}')
+        lines.append(f'    link_label: {_q(s.get("link_label", ""))}')
+    lines.append("")
+
+    # Enhancements list
+    lines.append("enhancements:")
+    for e in data.get("enhancements", []):
+        lines.append(f'  - id: {_q(e.get("id", ""))}')
+        lines.append(f'    trigger: {_q(e.get("trigger", ""))}')
+        lines.append(f'    title: {_q(e.get("title", ""))}')
+        lines.append(f'    wikipedia_url: {_q(e.get("wikipedia_url", ""))}')
+        lines.append(f'    image_url: {_q(e.get("image_url", ""))}')
+        lines.append(f'    image_caption: {_q(e.get("image_caption", ""))}')
+        lines.append(f'    content: {_q(e.get("content", ""))}')
+
+    lines.append("---")
+    return "\n".join(lines)
+
+
 def format_chapter(book: dict, chapter: dict, text: str, enhancements_raw: str) -> str:
     data = _parse_json(enhancements_raw)
-
-    frontmatter = {
-        "title": book["title"],
-        "author": book["author"],
-        "year": book["year"],
-        "chapter": chapter["number"],
-        "chapter_title": chapter["title"],
-        "slug": chapter["slug"],
-        "book_slug": book["slug"],
-        "license": "public-domain",
-        "summary": data.get("summary", []),
-        "enhancements": data.get("enhancements", []),
-    }
-
-    frontmatter = _literalize(frontmatter)
-    yaml_str = yaml.dump(frontmatter, allow_unicode=True, default_flow_style=False, sort_keys=False)
-
-    return f"---\n{yaml_str}---\n{text.strip()}\n"
+    yaml_block = _build_yaml(book, chapter, data)
+    return f"{yaml_block}\n{text.strip()}\n"

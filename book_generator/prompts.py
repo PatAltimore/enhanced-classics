@@ -51,8 +51,8 @@ Given a chapter of text, produce a JSON object with two keys:
   - "trigger":       the exact phrase as it appears in the text (no ** markers)
   - "title":         readable card title (3–6 words)
   - "wikipedia_url": real Wikipedia URL for this topic
-  - "image_url":     Wikimedia Commons image URL, or "" if unsure
-  - "image_caption": brief credit/caption, or ""
+  - "image_url":     always use "" — image URLs cannot be reliably verified at generation time
+  - "image_caption": always use ""
   - "content":       200–400 word educational explanation of why this topic \
 matters — its history, significance, and connection to the chapter
 

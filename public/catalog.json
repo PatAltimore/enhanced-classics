@@ -66,6 +66,95 @@
           "slug": "chapter-02-the-valley-of-ashes"
         }
       ]
+    },
+    {
+      "slug": "the-time-machine",
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "year": 1895,
+      "description": "A Victorian scientist builds a machine that carries him far into the future, where he discovers a world divided between the gentle Eloi and the subterranean Morlocks — a chilling vision of where class division might lead.\n",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "slug": "chapter-01-introduction"
+        },
+        {
+          "number": 2,
+          "title": "The Machine",
+          "slug": "chapter-02-the-machine"
+        },
+        {
+          "number": 3,
+          "title": "The Time Traveller Returns",
+          "slug": "chapter-03-the-time-traveller-returns"
+        },
+        {
+          "number": 4,
+          "title": "Time Travelling",
+          "slug": "chapter-04-time-travelling"
+        },
+        {
+          "number": 5,
+          "title": "In the Golden Age",
+          "slug": "chapter-05-in-the-golden-age"
+        },
+        {
+          "number": 6,
+          "title": "The Sunset of Mankind",
+          "slug": "chapter-06-the-sunset-of-mankind"
+        },
+        {
+          "number": 7,
+          "title": "A Sudden Shock",
+          "slug": "chapter-07-a-sudden-shock"
+        },
+        {
+          "number": 8,
+          "title": "Explanation",
+          "slug": "chapter-08-explanation"
+        },
+        {
+          "number": 9,
+          "title": "The Morlocks",
+          "slug": "chapter-09-the-morlocks"
+        },
+        {
+          "number": 10,
+          "title": "When Night Came",
+          "slug": "chapter-10-when-night-came"
+        },
+        {
+          "number": 11,
+          "title": "The Palace of Green Porcelain",
+          "slug": "chapter-11-the-palace-of-green-porcelain"
+        },
+        {
+          "number": 12,
+          "title": "In the Darkness",
+          "slug": "chapter-12-in-the-darkness"
+        },
+        {
+          "number": 13,
+          "title": "The Trap of the White Sphinx",
+          "slug": "chapter-13-the-trap-of-the-white-sphinx"
+        },
+        {
+          "number": 14,
+          "title": "The Further Vision",
+          "slug": "chapter-14-the-further-vision"
+        },
+        {
+          "number": 15,
+          "title": "The Time Traveller's Return",
+          "slug": "chapter-15-the-time-travellers-return"
+        },
+        {
+          "number": 16,
+          "title": "After the Story",
+          "slug": "chapter-16-after-the-story"
+        }
+      ]
     }
   ]
 }

@@ -103,6 +103,7 @@
 
   /* ── YAML frontmatter parser ── */
   function parseFrontmatter(raw) {
+    raw = raw.replace(/\r\n/g, '\n');
     const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
     if (!m) return { meta: {}, body: raw };
     return { meta: parseYaml(m[1]), body: m[2].trim() };
