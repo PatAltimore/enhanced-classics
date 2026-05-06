@@ -1,0 +1,173 @@
+# Output path relative to book_generator/
+output_dir: "../public/books"
+
+# ---------------------------------------------------------------------------
+# Model chain — tried in order; first success wins.
+# Name must match a key in client.py's _ENDPOINT_MAP.
+# ---------------------------------------------------------------------------
+models:
+  primary: "gpt-4o"
+  fallback:
+    - "Meta-Llama-3.3-70B-Instruct"
+    - "Mistral-Large-3"
+    - "gpt-4o-mini"
+
+# ---------------------------------------------------------------------------
+# Generation parameters
+# ---------------------------------------------------------------------------
+generation:
+  temperature: 0.7
+  max_tokens: 4096
+  chapter_target_words: 2500   # prose target; enhancements pass uses its own max_tokens
+
+# ---------------------------------------------------------------------------
+# Books to generate.
+#
+# - slug:        matches the folder name under public/books/
+# - chapters:    only chapters listed here will be generated; already-existing
+#                files are skipped automatically (use --force to override)
+# ---------------------------------------------------------------------------
+books:
+
+  - slug: "walden"
+    title: "Walden"
+    author: "Henry David Thoreau"
+    year: 1854
+    description: >
+      Thoreau's account of two years living alone in a cabin near Walden Pond,
+      exploring themes of self-reliance, deliberate living, and humanity's
+      relationship with nature.
+    chapters:
+      - number: 6
+        title: "Visitors"
+        slug: "chapter-06-visitors"
+      - number: 7
+        title: "The Bean-Field"
+        slug: "chapter-07-the-bean-field"
+      - number: 8
+        title: "The Village"
+        slug: "chapter-08-the-village"
+      - number: 9
+        title: "The Ponds"
+        slug: "chapter-09-the-ponds"
+      - number: 10
+        title: "Baker Farm"
+        slug: "chapter-10-baker-farm"
+      - number: 11
+        title: "Higher Laws"
+        slug: "chapter-11-higher-laws"
+      - number: 12
+        title: "Brute Neighbors"
+        slug: "chapter-12-brute-neighbors"
+      - number: 13
+        title: "House-Warming"
+        slug: "chapter-13-house-warming"
+      - number: 14
+        title: "Former Inhabitants and Winter Visitors"
+        slug: "chapter-14-former-inhabitants"
+      - number: 15
+        title: "Winter Animals"
+        slug: "chapter-15-winter-animals"
+      - number: 16
+        title: "The Pond in Winter"
+        slug: "chapter-16-the-pond-in-winter"
+      - number: 17
+        title: "Spring"
+        slug: "chapter-17-spring"
+      - number: 18
+        title: "Conclusion"
+        slug: "chapter-18-conclusion"
+
+  - slug: "twenty-thousand-leagues"
+    title: "Twenty Thousand Leagues Under the Sea"
+    author: "Jules Verne"
+    year: 1870
+    description: >
+      Professor Aronnax, his servant Conseil, and harpooner Ned Land are
+      captured by the mysterious Captain Nemo aboard the submarine Nautilus
+      and taken on an extraordinary underwater voyage around the world.
+    chapters:
+      - number: 2
+        title: "The Pros and Cons"
+        slug: "chapter-02-pros-and-cons"
+      - number: 3
+        title: "As My Lord Pleases"
+        slug: "chapter-03-as-my-lord-pleases"
+      - number: 4
+        title: "Ned Land"
+        slug: "chapter-04-ned-land"
+      - number: 5
+        title: "At a Venture"
+        slug: "chapter-05-at-a-venture"
+      - number: 6
+        title: "At Full Steam"
+        slug: "chapter-06-at-full-steam"
+      - number: 7
+        title: "An Unknown Species of Whale"
+        slug: "chapter-07-unknown-species"
+      - number: 8
+        title: "Mobilis in Mobili"
+        slug: "chapter-08-mobilis-in-mobili"
+      - number: 9
+        title: "Ned Land's Tempers"
+        slug: "chapter-09-ned-lands-tempers"
+      - number: 10
+        title: "The Man of the Seas"
+        slug: "chapter-10-man-of-the-seas"
+
+  - slug: "the-great-gatsby"
+    title: "The Great Gatsby"
+    author: "F. Scott Fitzgerald"
+    year: 1925
+    description: >
+      Narrator Nick Carraway observes his mysterious neighbor Jay Gatsby's
+      obsessive pursuit of Daisy Buchanan against the glittering and corrupt
+      backdrop of the American Jazz Age on Long Island.
+    chapters:
+      - number: 2
+        title: "The Valley of Ashes"
+        slug: "chapter-02-the-valley-of-ashes"
+      - number: 3
+        title: "Gatsby's Party"
+        slug: "chapter-03-gatsbys-party"
+      - number: 4
+        title: "Gatsby's Past"
+        slug: "chapter-04-gatsbys-past"
+      - number: 5
+        title: "The Reunion"
+        slug: "chapter-05-the-reunion"
+      - number: 6
+        title: "The Truth About Gatsby"
+        slug: "chapter-06-truth-about-gatsby"
+      - number: 7
+        title: "The Confrontation"
+        slug: "chapter-07-the-confrontation"
+      - number: 8
+        title: "Death"
+        slug: "chapter-08-death"
+      - number: 9
+        title: "The Aftermath"
+        slug: "chapter-09-the-aftermath"
+
+  # ---------------------------------------------------------------------------
+  # Add new books below. The generator will create the folder automatically.
+  # ---------------------------------------------------------------------------
+
+  - slug: "pride-and-prejudice"
+    title: "Pride and Prejudice"
+    author: "Jane Austen"
+    year: 1813
+    description: >
+      Elizabeth Bennet navigates questions of marriage, morality, and
+      social standing in Regency-era England, sparring with the proud
+      and wealthy Mr. Darcy.
+    chapters:
+      - number: 1
+        title: "A Single Man of Good Fortune"
+        slug: "chapter-01-a-single-man"
+      - number: 2
+        title: "Mr. Bennet Calls on Bingley"
+        slug: "chapter-02-mr-bennet-calls"
+      - number: 3
+        title: "The Netherfield Ball"
+        slug: "chapter-03-netherfield-ball"
