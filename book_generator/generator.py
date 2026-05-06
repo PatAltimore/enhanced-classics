@@ -42,6 +42,18 @@ def load_config(path: Path) -> dict:
         return yaml.safe_load(f)
 
 
+MIN_PROSE_WORDS = 150
+
+
+def _check_prose(text: str) -> None:
+    """Raise if all models returned suspiciously little text."""
+    word_count = len(text.split())
+    if word_count < MIN_PROSE_WORDS:
+        raise ValueError(
+            f"Prose too short ({word_count} words) — all models may have refused or truncated"
+        )
+
+
 def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dict) -> str:
     gen_cfg = config.get("generation", {})
     temperature = gen_cfg.get("temperature", 0.7)
@@ -50,6 +62,7 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
     console.print(f"    [cyan]→ Pass 1:[/cyan] generating prose …")
     text_messages = build_text_prompt(book, chapter, config)
     text = client.complete(text_messages, temperature=temperature, max_tokens=max_tokens)
+    _check_prose(text)
     console.print(f"      {len(text.split())} words generated")
 
     console.print(f"    [cyan]→ Pass 2:[/cyan] generating summary + enhancements …")

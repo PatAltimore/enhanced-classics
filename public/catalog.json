@@ -1,34 +1,71 @@
 {
-  "books": [{
-    "slug": "walden",
-    "title": "Walden",
-    "author": "Henry David Thoreau",
-    "year": 1854,
-    "description": "Two years alone beside a Massachusetts pond — a manifesto for deliberate living.",
-    "chapters": [
-      {"number": 1, "title": "Economy", "slug": "chapter-01-economy"},
-      {"number": 2, "title": "Where I Lived, and What I Lived For", "slug": "chapter-02-where-i-lived"},
-      {"number": 3, "title": "Reading", "slug": "chapter-03-reading"},
-      {"number": 4, "title": "Sounds", "slug": "chapter-04-sounds"},
-      {"number": 5, "title": "Solitude", "slug": "chapter-05-solitude"}
-    ]
-  }, {
-    "slug": "twenty-thousand-leagues",
-    "title": "Twenty Thousand Leagues Under the Sea",
-    "author": "Jules Verne",
-    "year": 1870,
-    "description": "Something vast and luminous is moving through the world's oceans — and no one can explain it. A Victorian thriller from the father of science fiction.",
-    "chapters": [
-      {"number": 1, "title": "A Shifting Reef", "slug": "chapter-01-a-shifting-reef"}
-    ]
-  }, {
-    "slug": "the-great-gatsby",
-    "title": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "year": 1925,
-    "description": "One summer in Long Island's gilded world — a Jazz Age fable of money, longing, and the lies we tell ourselves.",
-    "chapters": [
-      {"number": 1, "title": "Chapter I", "slug": "chapter-01"}
-    ]
-  }]
+  "books": [
+    {
+      "slug": "walden",
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "year": 1854,
+      "description": "Two years alone beside a Massachusetts pond — a manifesto for deliberate living.",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Economy",
+          "slug": "chapter-01-economy"
+        },
+        {
+          "number": 2,
+          "title": "Where I Lived, and What I Lived For",
+          "slug": "chapter-02-where-i-lived"
+        },
+        {
+          "number": 3,
+          "title": "Reading",
+          "slug": "chapter-03-reading"
+        },
+        {
+          "number": 4,
+          "title": "Sounds",
+          "slug": "chapter-04-sounds"
+        },
+        {
+          "number": 5,
+          "title": "Solitude",
+          "slug": "chapter-05-solitude"
+        }
+      ]
+    },
+    {
+      "slug": "twenty-thousand-leagues",
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "author": "Jules Verne",
+      "year": 1870,
+      "description": "Something vast and luminous is moving through the world's oceans — and no one can explain it. A Victorian thriller from the father of science fiction.",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "A Shifting Reef",
+          "slug": "chapter-01-a-shifting-reef"
+        }
+      ]
+    },
+    {
+      "slug": "the-great-gatsby",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "description": "One summer in Long Island's gilded world — a Jazz Age fable of money, longing, and the lies we tell ourselves.",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chapter I",
+          "slug": "chapter-01"
+        },
+        {
+          "number": 2,
+          "title": "The Valley of Ashes",
+          "slug": "chapter-02-the-valley-of-ashes"
+        }
+      ]
+    }
+  ]
 }

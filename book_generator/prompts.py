@@ -8,11 +8,17 @@ AzureOpenAI and the OpenAI-compatible Foundry serverless clients.
 """
 
 _TEXT_SYSTEM = """\
-You are a literary editor for Enhanced Classics, a website that presents public-domain \
-literature with educational annotations.
+You are a literary editor for Enhanced Classics, a website that presents classic \
+public-domain literature with educational annotations.
 
-Your task is to write one chapter of prose. Rules:
-- Faithfully reproduce the substance and style of the original public-domain work.
+All works on this site are confirmed US public domain. Works published before 1928 \
+entered the US public domain no later than January 1, 2024 under the Copyright Term \
+Extension Act. You may freely write prose based on them.
+
+Your task is to write one chapter of prose as an original creative work inspired by \
+the source material. Rules:
+- Write in the authentic voice, style, and period of the original author.
+- Capture the events, characters, setting, and themes of the chapter faithfully.
 - Target approximately {target_words} words of body text.
 - Bold 8–15 key phrases using **phrase** — choose concepts, people, places, events, \
 or ideas that deserve an annotation card (historical context, scientific explanation, \

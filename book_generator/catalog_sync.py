@@ -36,6 +36,16 @@ def sync(config: dict, checkpointer) -> None:
     for book in config["books"]:
         slug = book["slug"]
 
+        # Collect only the chapters that have been generated
+        new_chapters = [
+            {"number": c["number"], "title": c["title"], "slug": c["slug"]}
+            for c in book["chapters"]
+            if checkpointer.is_done(slug, c["slug"])
+        ]
+
+        if not new_chapters and slug not in existing_books:
+            continue  # Nothing generated yet — don't create an empty catalog entry
+
         if slug not in existing_books:
             existing_books[slug] = {
                 "slug": slug,
@@ -50,18 +60,10 @@ def sync(config: dict, checkpointer) -> None:
         catalog_book = existing_books[slug]
         existing_chapter_slugs = {c["slug"] for c in catalog_book["chapters"]}
 
-        for chapter in book["chapters"]:
+        for chapter in new_chapters:
             if chapter["slug"] in existing_chapter_slugs:
                 continue
-            if not checkpointer.is_done(slug, chapter["slug"]):
-                continue  # Don't add to catalog until the file is actually written
-            catalog_book["chapters"].append(
-                {
-                    "number": chapter["number"],
-                    "title": chapter["title"],
-                    "slug": chapter["slug"],
-                }
-            )
+            catalog_book["chapters"].append(chapter)
             changed = True
 
         # Keep chapters sorted by number

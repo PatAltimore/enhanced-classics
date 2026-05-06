@@ -30,6 +30,26 @@ _MODEL_CONFIGS = {
 MAX_RETRIES = 3
 BASE_DELAY_S = 4
 
+_REFUSAL_PHRASES = (
+    "i can't do that",
+    "i cannot do that",
+    "i'm not able to",
+    "i am not able to",
+    "i'm unable to",
+    "i am unable to",
+    "i apologize, but",
+    "how about i summarize",
+    "instead, i can",
+    "instead i can",
+    "not in the public domain",
+    "still under copyright",
+)
+
+
+def _is_refusal(text: str) -> bool:
+    lower = text.lower()
+    return any(phrase in lower for phrase in _REFUSAL_PHRASES)
+
 
 class ModelClient:
     def __init__(self, model_config: dict):
@@ -68,7 +88,11 @@ class ModelClient:
         for attempt in range(1, MAX_RETRIES + 1):
             try:
                 resp = client.chat.completions.create(model=name, messages=messages, **kwargs)
-                return resp.choices[0].message.content
+                content = resp.choices[0].message.content
+                if _is_refusal(content):
+                    console.print(f"  [yellow]{name} refused — trying next model[/yellow]")
+                    return None
+                return content
             except RateLimitError:
                 delay = BASE_DELAY_S * (2 ** attempt) + random.uniform(0, 2)
                 console.print(
