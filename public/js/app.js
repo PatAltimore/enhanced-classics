@@ -266,12 +266,11 @@
     document.querySelectorAll('.enhancement-panel').forEach(function (panel) {
       panel.addEventListener('toggle', function () {
         if (!panel.open) return;
-        panel.querySelectorAll('img').forEach(function (img) {
-          if (!img.complete || img.naturalWidth === 0) {
+        requestAnimationFrame(function () {
+          panel.querySelectorAll('img').forEach(function (img) {
             var src = img.src;
-            img.src = '';
-            img.src = src;
-          }
+            if (src) { img.src = ''; img.src = src; }
+          });
         });
       });
     });
