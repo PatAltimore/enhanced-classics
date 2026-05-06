@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Rendering Test</title>
+  <style>
+    body { font-family: sans-serif; font-size: 14px; padding: 1rem; background: #f5f0e8; }
+    h2 { margin: 1.5rem 0 .5rem; font-size: 1rem; background: #5c4a2a; color: #fff; padding: .4rem .6rem; border-radius: 3px; }
+    h3 { margin: 1rem 0 .3rem; font-size: .85rem; color: #333; }
+    .result { font-size: .75rem; color: #666; margin-bottom: .5rem; }
+
+    /* Mimic real panel structure */
+    details { border-top: 1px solid #5c4a2a; border-bottom: 1px solid #5c4a2a; margin: .75rem 0; }
+    details summary { padding: .5rem 0; cursor: pointer; font-weight: 600; color: #5c4a2a; }
+    .panel-body { padding: .5rem 0 .5rem 1rem; border-left: 3px solid #c8a84b; display: grid; gap: .75rem; }
+
+    /* Grid variants */
+    .two-col   { grid-template-columns: 1fr 160px; }
+    .one-col   { grid-template-columns: 1fr; }
+
+    .panel-text { font-size: .85rem; line-height: 1.5; }
+    figcaption  { font-size: .7rem; color: #666; margin-top: .25rem; max-width: 160px; }
+
+    /* ── Approach A (current): explicit 160×180 + object-fit ── */
+    .approach-a img { width: 160px; height: 180px; object-fit: cover; object-position: top center; display: block; border-radius: 4px; }
+
+    /* ── Approach B: 100% width, auto height, no constraint ── */
+    .approach-b img { width: 100%; max-width: 160px; height: auto; display: block; border-radius: 4px; }
+
+    /* ── Approach C: 100% width, auto height, overflow hidden on figure ── */
+    .approach-c figure { max-height: 210px; overflow: hidden; }
+    .approach-c img    { width: 100%; max-width: 160px; height: auto; display: block; border-radius: 4px; }
+
+    /* ── Approach D: explicit width/height attrs via inline style, object-fit ── */
+    .approach-d img { width: 160px; height: 160px; object-fit: cover; object-position: top center; display: block; border-radius: 4px; }
+
+    /* ── Approach E: width auto, max constraints both axes ── */
+    .approach-e img { width: auto; height: auto; max-width: 160px; max-height: 180px; display: block; border-radius: 4px; }
+
+    /* ── Approach F: aspect-ratio + object-fit ── */
+    .approach-f img { width: 100%; max-width: 160px; aspect-ratio: 4/5; object-fit: cover; object-position: top center; display: block; border-radius: 4px; }
+
+    .tag { display: inline-block; background: #eee; border-radius: 3px; padding: .1rem .35rem; font-size: .7rem; margin-bottom: .3rem; }
+    .images-row { display: flex; flex-wrap: wrap; gap: .75rem; margin: .5rem 0; }
+    .img-box { }
+    .img-label { font-size: .65rem; color: #888; margin-top: .2rem; }
+    hr { border: none; border-top: 1px solid #ccc; margin: 2rem 0; }
+  </style>
+</head>
+<body>
+
+<h1 style="font-size:1.1rem; margin-bottom:.25rem">Image CSS Test</h1>
+<p style="font-size:.8rem;color:#666;margin-bottom:1rem">Open on your phone. For each approach, note which images show correctly. Panels start <strong>closed</strong> — tap to open.</p>
+
+<!-- Images used throughout: rooster (portrait), bhagavad gita (portrait), sunrise (landscape), library (landscape) -->
+
+<h2>Approach A — current: width:160px height:180px object-fit:cover</h2>
+<span class="tag">explicit px both axes</span>
+<details>
+  <summary>Tap to open panel</summary>
+  <div class="panel-body two-col approach-a">
+    <div class="panel-text">This is the panel text. Enough words to give the column some height on a narrow screen so we can see how the image column behaves alongside it.</div>
+    <div class="images-row" style="flex-direction:column">
+      <div class="img-box">
+        <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster (portrait/tall)"><figcaption>Rooster — tall portrait</figcaption></figure>
+      </div>
+    </div>
+  </div>
+</details>
+<details>
+  <summary>Bhagavad Gita (portrait)</summary>
+  <div class="panel-body two-col approach-a">
+    <div class="panel-text">Panel text alongside the Bhagavad Gita manuscript image, which is another tall portrait image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bhagavad_Gita%2C_a_19th_century_manuscript.jpg/330px-Bhagavad_Gita%2C_a_19th_century_manuscript.jpg" alt="Bhagavad Gita"><figcaption>Bhagavad Gita manuscript</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Sunrise (landscape)</summary>
+  <div class="panel-body two-col approach-a">
+    <div class="panel-text">Panel text alongside the sunrise image, which is a wide landscape image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg" alt="Sunrise"><figcaption>Sunrise — wide landscape</figcaption></figure>
+  </div>
+</details>
+
+<hr>
+
+<h2>Approach B — width:100% max-width:160px height:auto (no height limit)</h2>
+<span class="tag">proportional, unconstrained height</span>
+<details>
+  <summary>Rooster (portrait/tall)</summary>
+  <div class="panel-body two-col approach-b">
+    <div class="panel-text">Panel text alongside the rooster image. No height constraint — image shows full height.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster"><figcaption>Rooster — tall portrait</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Bhagavad Gita (portrait)</summary>
+  <div class="panel-body two-col approach-b">
+    <div class="panel-text">Panel text alongside the Bhagavad Gita manuscript image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bhagavad_Gita%2C_a_19th_century_manuscript.jpg/330px-Bhagavad_Gita%2C_a_19th_century_manuscript.jpg" alt="Bhagavad Gita"><figcaption>Bhagavad Gita manuscript</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Sunrise (landscape)</summary>
+  <div class="panel-body two-col approach-b">
+    <div class="panel-text">Panel text alongside the sunrise image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg" alt="Sunrise"><figcaption>Sunrise — wide landscape</figcaption></figure>
+  </div>
+</details>
+
+<hr>
+
+<h2>Approach C — 100% width + overflow:hidden on figure (max-height:210px)</h2>
+<span class="tag">clips tall images via parent overflow</span>
+<details>
+  <summary>Rooster (portrait/tall)</summary>
+  <div class="panel-body two-col approach-c">
+    <div class="panel-text">Panel text alongside the rooster image. Figure clips at 210px.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster"><figcaption>Rooster — tall portrait</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Bhagavad Gita (portrait)</summary>
+  <div class="panel-body two-col approach-c">
+    <div class="panel-text">Panel text alongside the Bhagavad Gita manuscript image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bhagavad_Gita%2C_a_19th_century_manuscript.jpg/330px-Bhagavad_Gita%2C_a_19th_century_manuscript.jpg" alt="Bhagavad Gita"><figcaption>Bhagavad Gita manuscript</figcaption></figure>
+  </div>
+</details>
+
+<hr>
+
+<h2>Approach D — width:160px height:160px object-fit:cover (square crop)</h2>
+<span class="tag">square thumbnail, explicit px</span>
+<details>
+  <summary>Rooster (portrait/tall)</summary>
+  <div class="panel-body two-col approach-d">
+    <div class="panel-text">Panel text alongside the rooster image. Square 160×160 crop.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster"><figcaption>Rooster — tall portrait</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Bhagavad Gita (portrait)</summary>
+  <div class="panel-body two-col approach-d">
+    <div class="panel-text">Panel text alongside the Bhagavad Gita manuscript image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bhagavad_Gita%2C_a_19th_century_manuscript.jpg/330px-Bhagavad_Gita%2C_a_19th_century_manuscript.jpg" alt="Bhagavad Gita"><figcaption>Bhagavad Gita manuscript</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Sunrise (landscape)</summary>
+  <div class="panel-body two-col approach-d">
+    <div class="panel-text">Panel text alongside the sunrise image. Square crop.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg" alt="Sunrise"><figcaption>Sunrise — wide landscape</figcaption></figure>
+  </div>
+</details>
+
+<hr>
+
+<h2>Approach E — width:auto height:auto max-width:160px max-height:180px</h2>
+<span class="tag">both auto + both max constraints</span>
+<details>
+  <summary>Rooster (portrait/tall)</summary>
+  <div class="panel-body two-col approach-e">
+    <div class="panel-text">Panel text alongside the rooster image. Both dimensions auto with max constraints.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster"><figcaption>Rooster — tall portrait</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Bhagavad Gita (portrait)</summary>
+  <div class="panel-body two-col approach-e">
+    <div class="panel-text">Panel text alongside the Bhagavad Gita manuscript image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bhagavad_Gita%2C_a_19th_century_manuscript.jpg/330px-Bhagavad_Gita%2C_a_19th_century_manuscript.jpg" alt="Bhagavad Gita"><figcaption>Bhagavad Gita manuscript</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Sunrise (landscape)</summary>
+  <div class="panel-body two-col approach-e">
+    <div class="panel-text">Panel text alongside the sunrise image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg" alt="Sunrise"><figcaption>Sunrise — wide landscape</figcaption></figure>
+  </div>
+</details>
+
+<hr>
+
+<h2>Approach F — width:100% aspect-ratio:4/5 object-fit:cover</h2>
+<span class="tag">aspect-ratio constraint, no fixed height</span>
+<details>
+  <summary>Rooster (portrait/tall)</summary>
+  <div class="panel-body two-col approach-f">
+    <div class="panel-text">Panel text alongside the rooster image. Aspect ratio 4:5 with object-fit cover.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster"><figcaption>Rooster — tall portrait</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Bhagavad Gita (portrait)</summary>
+  <div class="panel-body two-col approach-f">
+    <div class="panel-text">Panel text alongside the Bhagavad Gita manuscript image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bhagavad_Gita%2C_a_19th_century_manuscript.jpg/330px-Bhagavad_Gita%2C_a_19th_century_manuscript.jpg" alt="Bhagavad Gita"><figcaption>Bhagavad Gita manuscript</figcaption></figure>
+  </div>
+</details>
+<details>
+  <summary>Sunrise (landscape)</summary>
+  <div class="panel-body two-col approach-f">
+    <div class="panel-text">Panel text alongside the sunrise image.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg" alt="Sunrise"><figcaption>Sunrise — wide landscape</figcaption></figure>
+  </div>
+</details>
+
+<hr>
+
+<h2>Bonus: pre-opened panels (no tap needed)</h2>
+<p style="font-size:.8rem;color:#555;margin-bottom:.5rem">These start open. If images show here but not above, the issue is <details>-closed state preventing load.</p>
+
+<details open>
+  <summary>Approach A — pre-opened — Rooster</summary>
+  <div class="panel-body two-col approach-a">
+    <div class="panel-text">Pre-opened panel. If this shows the image but the closed version above does not, the issue is that closed details prevents image loading.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster"><figcaption>Rooster — Approach A, pre-opened</figcaption></figure>
+  </div>
+</details>
+
+<details open>
+  <summary>Approach B — pre-opened — Rooster</summary>
+  <div class="panel-body two-col approach-b">
+    <div class="panel-text">Pre-opened panel. Same image, Approach B, already open.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Rooster_portrait.jpg/330px-Rooster_portrait.jpg" alt="Rooster"><figcaption>Rooster — Approach B, pre-opened</figcaption></figure>
+  </div>
+</details>
+
+<details open>
+  <summary>Approach F — pre-opened — Bhagavad Gita</summary>
+  <div class="panel-body two-col approach-f">
+    <div class="panel-text">Pre-opened panel. Bhagavad Gita image with aspect-ratio approach.</div>
+    <figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bhagavad_Gita%2C_a_19th_century_manuscript.jpg/330px-Bhagavad_Gita%2C_a_19th_century_manuscript.jpg" alt="Bhagavad Gita"><figcaption>Bhagavad Gita — Approach F, pre-opened</figcaption></figure>
+  </div>
+</details>
+
+<p style="margin-top:2rem;font-size:.75rem;color:#999">Report back: which approaches show images? Which don't? Do pre-opened panels behave differently?</p>
+
+</body>
+</html>
