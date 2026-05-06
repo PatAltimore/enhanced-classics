@@ -84,7 +84,7 @@
         loadCatalog()
       ]);
       const { meta, body } = parseFrontmatter(text);
-      headerTitle.textContent = meta.title + ' \u2014 ' + meta.chapter_title;
+      headerTitle.innerHTML = meta.title + '<span class="header-chapter">Chapter\u00a0' + meta.chapter + ': ' + meta.chapter_title + '</span>';
       const scrollKey = 'scroll_' + bookSlug + '_' + chapterSlug;
       const book = cat.books.find(b => b.slug === bookSlug);
       let nextChapter = null;
