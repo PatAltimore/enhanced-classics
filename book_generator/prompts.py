@@ -3,13 +3,9 @@
 Pass 1 — chapter text:   build_text_prompt()
 Pass 2 — enhancements:   build_enhancements_prompt()
 
-The enhancements pass returns JSON; the formatter assembles the final markdown.
+Messages are plain dicts (OpenAI format) so they work with both
+AzureOpenAI and the OpenAI-compatible Foundry serverless clients.
 """
-from azure.ai.inference.models import SystemMessage, UserMessage
-
-# ---------------------------------------------------------------------------
-# Pass 1: chapter prose
-# ---------------------------------------------------------------------------
 
 _TEXT_SYSTEM = """\
 You are a literary editor for Enhanced Classics, a website that presents public-domain \
@@ -33,25 +29,6 @@ Write Chapter {chapter_num}: "{chapter_title}" from \
 
 Write the chapter now. Remember to bold 8–15 annotation phrases.\
 """
-
-
-def build_text_prompt(book: dict, chapter: dict, config: dict) -> list:
-    target_words = config.get("generation", {}).get("chapter_target_words", 2500)
-    system = _TEXT_SYSTEM.format(target_words=target_words)
-    user = _TEXT_USER.format(
-        chapter_num=chapter["number"],
-        chapter_title=chapter["title"],
-        title=book["title"],
-        author=book["author"],
-        year=book["year"],
-        description=book.get("description", ""),
-    )
-    return [SystemMessage(content=system), UserMessage(content=user)]
-
-
-# ---------------------------------------------------------------------------
-# Pass 2: summary + enhancements JSON
-# ---------------------------------------------------------------------------
 
 _ENH_SYSTEM = """\
 You are an expert literary annotator for Enhanced Classics.
@@ -88,13 +65,30 @@ Generate the JSON with summary and enhancements for every bolded phrase.\
 """
 
 
-def build_enhancements_prompt(book: dict, chapter: dict, text: str) -> list:
-    user = _ENH_USER.format(
-        title=book["title"],
-        author=book["author"],
-        year=book["year"],
-        chapter_num=chapter["number"],
-        chapter_title=chapter["title"],
-        text=text,
-    )
-    return [SystemMessage(content=_ENH_SYSTEM), UserMessage(content=user)]
+def build_text_prompt(book: dict, chapter: dict, config: dict) -> list[dict]:
+    target_words = config.get("generation", {}).get("chapter_target_words", 2500)
+    return [
+        {"role": "system", "content": _TEXT_SYSTEM.format(target_words=target_words)},
+        {"role": "user", "content": _TEXT_USER.format(
+            chapter_num=chapter["number"],
+            chapter_title=chapter["title"],
+            title=book["title"],
+            author=book["author"],
+            year=book["year"],
+            description=book.get("description", ""),
+        )},
+    ]
+
+
+def build_enhancements_prompt(book: dict, chapter: dict, text: str) -> list[dict]:
+    return [
+        {"role": "system", "content": _ENH_SYSTEM},
+        {"role": "user", "content": _ENH_USER.format(
+            title=book["title"],
+            author=book["author"],
+            year=book["year"],
+            chapter_num=chapter["number"],
+            chapter_title=chapter["title"],
+            text=text,
+        )},
+    ]
