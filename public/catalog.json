@@ -129,6 +129,41 @@
           "number": 2,
           "title": "The Valley of Ashes",
           "slug": "chapter-02-the-valley-of-ashes"
+        },
+        {
+          "number": 3,
+          "title": "Gatsby's Party",
+          "slug": "chapter-03-gatsbys-party"
+        },
+        {
+          "number": 4,
+          "title": "Gatsby's Past",
+          "slug": "chapter-04-gatsbys-past"
+        },
+        {
+          "number": 5,
+          "title": "The Reunion",
+          "slug": "chapter-05-the-reunion"
+        },
+        {
+          "number": 6,
+          "title": "The Truth About Gatsby",
+          "slug": "chapter-06-truth-about-gatsby"
+        },
+        {
+          "number": 7,
+          "title": "The Confrontation",
+          "slug": "chapter-07-the-confrontation"
+        },
+        {
+          "number": 8,
+          "title": "Death",
+          "slug": "chapter-08-death"
+        },
+        {
+          "number": 9,
+          "title": "The Aftermath",
+          "slug": "chapter-09-the-aftermath"
         }
       ]
     },
