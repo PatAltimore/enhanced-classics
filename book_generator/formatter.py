@@ -16,17 +16,30 @@ def _q(value: str) -> str:
 
 
 def _parse_json(raw: str) -> dict:
-    """Parse JSON from model output, tolerating markdown fences or extra text."""
+    """Parse JSON from model output, tolerating fences, extra text, or truncation."""
     raw = raw.strip()
     raw = re.sub(r"^```(?:json)?\s*", "", raw)
     raw = re.sub(r"\s*```$", "", raw)
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
-        match = re.search(r"\{.*\}", raw, re.DOTALL)
-        if match:
-            return json.loads(match.group())
-        raise ValueError(f"Could not parse JSON from model output:\n{raw[:400]}")
+        pass
+
+    # Recover from truncated output: walk backwards finding the last complete
+    # object and try closing the JSON at that point.
+    pos = len(raw)
+    while pos > 0:
+        pos = raw.rfind("}", 0, pos)
+        if pos == -1:
+            break
+        for tail in ("]}", "\n]}", "\n  ]\n}"):
+            try:
+                return json.loads(raw[: pos + 1] + tail)
+            except json.JSONDecodeError:
+                pass
+        pos -= 1
+
+    raise ValueError(f"Could not parse JSON from model output:\n{raw[:400]}")
 
 
 def _build_yaml(book: dict, chapter: dict, data: dict) -> str:

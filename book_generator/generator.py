@@ -68,7 +68,7 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
     console.print(f"    [cyan]→ Pass 2:[/cyan] generating summary + enhancements …")
     enh_messages = build_enhancements_prompt(book, chapter, text)
     # Lower temperature for structured JSON output
-    enhancements_raw = client.complete(enh_messages, temperature=0.2, max_tokens=3500)
+    enhancements_raw = client.complete(enh_messages, temperature=0.2, max_tokens=4096)
 
     return format_chapter(book, chapter, text, enhancements_raw)
 

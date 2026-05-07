@@ -31,6 +31,71 @@
           "number": 5,
           "title": "Solitude",
           "slug": "chapter-05-solitude"
+        },
+        {
+          "number": 6,
+          "title": "Visitors",
+          "slug": "chapter-06-visitors"
+        },
+        {
+          "number": 7,
+          "title": "The Bean-Field",
+          "slug": "chapter-07-the-bean-field"
+        },
+        {
+          "number": 8,
+          "title": "The Village",
+          "slug": "chapter-08-the-village"
+        },
+        {
+          "number": 9,
+          "title": "The Ponds",
+          "slug": "chapter-09-the-ponds"
+        },
+        {
+          "number": 10,
+          "title": "Baker Farm",
+          "slug": "chapter-10-baker-farm"
+        },
+        {
+          "number": 11,
+          "title": "Higher Laws",
+          "slug": "chapter-11-higher-laws"
+        },
+        {
+          "number": 12,
+          "title": "Brute Neighbors",
+          "slug": "chapter-12-brute-neighbors"
+        },
+        {
+          "number": 13,
+          "title": "House-Warming",
+          "slug": "chapter-13-house-warming"
+        },
+        {
+          "number": 14,
+          "title": "Former Inhabitants and Winter Visitors",
+          "slug": "chapter-14-former-inhabitants"
+        },
+        {
+          "number": 15,
+          "title": "Winter Animals",
+          "slug": "chapter-15-winter-animals"
+        },
+        {
+          "number": 16,
+          "title": "The Pond in Winter",
+          "slug": "chapter-16-the-pond-in-winter"
+        },
+        {
+          "number": 17,
+          "title": "Spring",
+          "slug": "chapter-17-spring"
+        },
+        {
+          "number": 18,
+          "title": "Conclusion",
+          "slug": "chapter-18-conclusion"
         }
       ]
     },

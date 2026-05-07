@@ -25,6 +25,7 @@ _MODEL_CONFIGS = {
     "gpt-4o-mini":                  ("aoai",    "AZURE_OPENAI_ENDPOINT",  "AZURE_OPENAI_KEY"),
     "Meta-Llama-3.3-70B-Instruct":  ("foundry", "AZURE_LLAMA_ENDPOINT",   "AZURE_LLAMA_KEY"),
     "Mistral-Large-3":              ("foundry", "AZURE_MISTRAL_ENDPOINT",  "AZURE_MISTRAL_KEY"),
+    "Phi-4":                        ("foundry", "AZURE_PHI4_ENDPOINT",     "AZURE_PHI4_KEY"),
 }
 
 MAX_RETRIES = 3
@@ -44,6 +45,23 @@ _REFUSAL_PHRASES = (
     "not in the public domain",
     "still under copyright",
 )
+
+
+def _foundry_base_url(endpoint: str) -> str:
+    """Normalise a Foundry endpoint URL to the /v1 base, regardless of what the portal shows.
+
+    The portal's "Target URI" may be any of:
+      https://host.region.models.ai.azure.com
+      https://host.region.models.ai.azure.com/v1
+      https://host.region.models.ai.azure.com/v1/chat/completions
+    """
+    url = endpoint.rstrip("/")
+    for suffix in ("/chat/completions", "/completions"):
+        if url.endswith(suffix):
+            url = url[: -len(suffix)]
+    if not url.endswith("/v1"):
+        url += "/v1"
+    return url
 
 
 def _is_refusal(text: str) -> bool:
@@ -79,8 +97,7 @@ class ModelClient:
             api_version = os.getenv("AZURE_OPENAI_API_VERSION", "2024-12-01-preview")
             return AzureOpenAI(azure_endpoint=endpoint, api_key=key, api_version=api_version)
         else:
-            # Foundry serverless exposes an OpenAI-compatible /v1 path
-            base_url = endpoint.rstrip("/") + "/v1"
+            base_url = _foundry_base_url(endpoint)
             return OpenAI(base_url=base_url, api_key=key)
 
     def _try_model(self, name, kind, endpoint, key, messages, **kwargs) -> str | None:
@@ -89,6 +106,9 @@ class ModelClient:
             try:
                 resp = client.chat.completions.create(model=name, messages=messages, **kwargs)
                 content = resp.choices[0].message.content
+                if not content:
+                    console.print(f"  [yellow]{name} returned empty content (content filter?) — trying next model[/yellow]")
+                    return None
                 if _is_refusal(content):
                     console.print(f"  [yellow]{name} refused — trying next model[/yellow]")
                     return None
@@ -110,6 +130,11 @@ class ModelClient:
                     time.sleep(delay)
                 else:
                     console.print(f"  [red]{name} HTTP {e.status_code}: {e.message}[/red]")
+                    if e.status_code == 404:
+                        kind, endpoint_var, _ = _MODEL_CONFIGS[name]
+                        if kind == "foundry":
+                            raw = os.getenv(endpoint_var, "")
+                            console.print(f"  [dim]  → resolved base_url: {_foundry_base_url(raw)}[/dim]")
                     return None  # Don't retry 4xx (except 429 → RateLimitError above)
             except APIConnectionError as e:
                 delay = BASE_DELAY_S * attempt
