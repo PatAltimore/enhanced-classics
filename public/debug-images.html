@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Debug — Enhanced Classics</title>
+  <style>
+    :root {
+      --ok: #2d8a4e;
+      --warn: #b8860b;
+      --err: #c0392b;
+      --info: #2471a3;
+      --bg: #1a1a2e;
+      --card: #16213e;
+      --border: #0f3460;
+      --text: #e0e0e0;
+      --muted: #888;
+      --gold: #c8a84b;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+      padding: 1rem;
+    }
+
+    h1 { font-size: 1.3rem; color: var(--gold); margin-bottom: 1.5rem; }
+    h2 { font-size: 1rem; color: var(--gold); margin-bottom: .75rem; border-bottom: 1px solid var(--border); padding-bottom: .4rem; }
+    h3 { font-size: .9rem; color: var(--muted); margin-bottom: .5rem; }
+
+    .section { background: var(--card); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; margin-bottom: 1rem; }
+
+    /* Viewport grid */
+    .metrics-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: .5rem; }
+    .metric { background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: .5rem .75rem; }
+    .metric-label { font-size: .7rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+    .metric-value { font-size: 1.2rem; font-weight: 700; font-variant-numeric: tabular-nums; color: var(--text); }
+    .metric-value.ok    { color: var(--ok); }
+    .metric-value.warn  { color: var(--warn); }
+    .metric-value.err   { color: var(--err); }
+    .metric-value.info  { color: var(--info); }
+
+    /* Image test table */
+    .img-tests { display: flex; flex-direction: column; gap: .75rem; }
+    .img-test { background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: .75rem; }
+    .img-test-header { display: flex; align-items: center; gap: .5rem; margin-bottom: .5rem; flex-wrap: wrap; }
+    .img-name { font-weight: 600; font-size: .85rem; }
+    .badge {
+      font-size: .65rem; font-weight: 700; padding: .15rem .45rem; border-radius: 3px;
+      text-transform: uppercase; letter-spacing: .05em;
+    }
+    .badge.loading { background: #333; color: var(--muted); }
+    .badge.loaded  { background: #1a4d2e; color: #4CAF50; }
+    .badge.error   { background: #4d1a1a; color: #f44336; }
+    .img-test-body { display: grid; grid-template-columns: auto 1fr; gap: .75rem; align-items: start; }
+    .img-preview { width: 80px; height: 90px; object-fit: cover; object-position: top center; border-radius: 3px; background: #333; border: 1px solid var(--border); display: block; }
+    .img-details { font-size: .75rem; }
+    .img-details .row { display: flex; gap: .5rem; margin-bottom: .25rem; }
+    .img-details .key { color: var(--muted); min-width: 100px; flex-shrink: 0; }
+    .img-details .val { color: var(--text); word-break: break-all; }
+    .img-details .val.ok  { color: #4CAF50; }
+    .img-details .val.err { color: #f44336; }
+
+    /* Panel simulation */
+    .sim-controls { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+    .sim-btn { background: var(--border); border: 1px solid var(--gold); color: var(--text); padding: .3rem .7rem; border-radius: 4px; cursor: pointer; font-size: .8rem; }
+    .sim-btn.active { background: var(--gold); color: #000; }
+
+    .sim-frame {
+      background: #f5f0e8;
+      color: #1a1410;
+      border-radius: 4px;
+      overflow: hidden;
+      transition: width .3s ease;
+    }
+
+    /* Mirrored from style.css */
+    .sim-panel-body {
+      padding: .75rem 0 1.25rem 1.75rem;
+      display: grid;
+      grid-template-columns: 1fr 160px;
+      gap: 1rem;
+      align-items: start;
+      border-left: 3px solid #c8a84b;
+      font-family: Georgia, serif;
+    }
+    .sim-panel-body.narrow { grid-template-columns: 1fr; }
+    .sim-panel-image { }
+    .sim-panel-image.hidden { display: none; }
+    .sim-panel-image img { width: 160px; height: 180px; object-fit: cover; object-position: top center; border-radius: 4px; display: block; background: #ede7d9; }
+    .sim-panel-image figcaption { font-size: .75rem; color: #6b5d4f; margin-top: .3rem; max-width: 160px; font-family: system-ui, sans-serif; }
+    .sim-panel-text p { line-height: 1.75; font-size: .9rem; color: #1a1410; margin-bottom: .5rem; }
+    .sim-width-label { background: rgba(0,0,0,.1); padding: .3rem .75rem; font-size: .7rem; font-family: system-ui; color: #5c4a2a; text-align: right; }
+
+    /* Details test */
+    .details-tests { display: flex; flex-direction: column; gap: .75rem; }
+    .det-test { background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: .75rem; }
+    .det-label { font-size: .8rem; color: var(--gold); margin-bottom: .5rem; font-weight: 600; }
+    .det-badge { font-size: .7rem; font-weight: 600; padding: .15rem .45rem; border-radius: 3px; margin-left: .5rem; }
+    details.det-panel { background: #1e1e2e; border: 1px solid var(--border); border-radius: 4px; overflow: hidden; }
+    details.det-panel summary { padding: .4rem .75rem; cursor: pointer; font-size: .8rem; color: var(--gold); }
+    details.det-panel > div { padding: .5rem .75rem; display: flex; gap: 1rem; align-items: flex-start; }
+    .det-img { width: 80px; height: 90px; object-fit: cover; object-position: top center; border-radius: 3px; background: #333; border: 1px solid var(--border); }
+    .det-info { font-size: .75rem; }
+    .det-status { margin-top: .25rem; }
+
+    /* CSS Computed */
+    .css-report { font-size: .75rem; }
+    .css-row { display: flex; gap: .5rem; padding: .2rem 0; border-bottom: 1px solid var(--border); }
+    .css-prop { color: var(--muted); min-width: 220px; flex-shrink: 0; }
+    .css-val { color: #4CAF50; }
+
+    /* Orientation indicator */
+    .orient-badge { display: inline-block; padding: .15rem .5rem; border-radius: 3px; font-size: .8rem; font-weight: 600; }
+    .orient-badge.landscape { background: #1a3a4d; color: #5bc8f5; }
+    .orient-badge.portrait  { background: #2d1a4d; color: #b97af5; }
+
+    /* 600px threshold indicator */
+    .threshold-bar { position: relative; height: 24px; background: #222; border-radius: 4px; overflow: hidden; margin-top: .5rem; }
+    .threshold-fill { height: 100%; background: linear-gradient(90deg, #2d8a4e, #b8860b); transition: width .3s; }
+    .threshold-marker { position: absolute; top: 0; bottom: 0; width: 2px; background: #f44336; }
+    .threshold-labels { display: flex; justify-content: space-between; font-size: .65rem; color: var(--muted); margin-top: .2rem; }
+
+    /* Reload button */
+    #reload-btn { background: var(--gold); color: #000; border: none; padding: .4rem 1rem; border-radius: 4px; cursor: pointer; font-size: .85rem; font-weight: 600; margin-bottom: 1rem; }
+
+    /* Sticky header bar */
+    .sticky-bar { position: sticky; top: 0; z-index: 10; background: var(--bg); border-bottom: 2px solid var(--gold); padding: .4rem .75rem; display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; margin: -1rem -1rem 1rem; }
+    .sticky-metric { font-size: .8rem; }
+    .sticky-metric strong { color: var(--gold); }
+  </style>
+</head>
+<body>
+
+<div class="sticky-bar">
+  <strong style="color:var(--gold)">Image Debug</strong>
+  <span class="sticky-metric">W: <strong id="s-w">—</strong></span>
+  <span class="sticky-metric">H: <strong id="s-h">—</strong></span>
+  <span class="sticky-metric">DPR: <strong id="s-dpr">—</strong></span>
+  <span id="s-orient" class="orient-badge">—</span>
+  <span id="s-mq600" class="badge" style="margin-left:auto">—</span>
+</div>
+
+<h1>Mobile Image Debug — Enhanced Classics</h1>
+<button id="reload-btn" onclick="location.reload()">↺ Reload All Tests</button>
+
+<!-- SECTION 1: VIEWPORT -->
+<div class="section">
+  <h2>1. Viewport &amp; Screen Dimensions</h2>
+  <div class="metrics-grid">
+    <div class="metric"><div class="metric-label">window.innerWidth</div><div class="metric-value" id="m-innerW">—</div></div>
+    <div class="metric"><div class="metric-label">window.innerHeight</div><div class="metric-value" id="m-innerH">—</div></div>
+    <div class="metric"><div class="metric-label">clientWidth (html)</div><div class="metric-value" id="m-clientW">—</div></div>
+    <div class="metric"><div class="metric-label">screen.width</div><div class="metric-value" id="m-screenW">—</div></div>
+    <div class="metric"><div class="metric-label">screen.height</div><div class="metric-value" id="m-screenH">—</div></div>
+    <div class="metric"><div class="metric-label">devicePixelRatio</div><div class="metric-value" id="m-dpr">—</div></div>
+    <div class="metric"><div class="metric-label">Orientation</div><div class="metric-value" id="m-orient">—</div></div>
+    <div class="metric"><div class="metric-label">Orientation API</div><div class="metric-value" id="m-orientApi">—</div></div>
+  </div>
+
+  <div style="margin-top:1rem">
+    <div style="font-size:.75rem;color:var(--muted);margin-bottom:.25rem">
+      Viewport width vs. 600px threshold (where image CSS <code>display:none</code> kicks in)
+    </div>
+    <div class="threshold-bar">
+      <div class="threshold-fill" id="thresh-fill"></div>
+      <div class="threshold-marker" id="thresh-marker"></div>
+    </div>
+    <div class="threshold-labels">
+      <span>0px</span>
+      <span>600px (hide threshold)</span>
+      <span id="thresh-max-label">—</span>
+    </div>
+    <div id="thresh-verdict" style="margin-top:.5rem;font-size:.8rem;font-weight:600"></div>
+  </div>
+</div>
+
+<!-- SECTION 2: MEDIA QUERY STATUS -->
+<div class="section">
+  <h2>2. Active Media Queries</h2>
+  <div class="metrics-grid" id="mq-grid"></div>
+</div>
+
+<!-- SECTION 3: IMAGE LOAD TESTS -->
+<div class="section">
+  <h2>3. Image Load Tests</h2>
+  <p style="font-size:.75rem;color:var(--muted);margin-bottom:.75rem">
+    Each image is loaded twice: once <em>directly</em> (as an img tag), once via the <em>prefetch strategy</em>
+    (1px hidden container, then moved to visible). Hover or tap the thumbnail to see original size.
+  </p>
+  <div class="img-tests" id="img-tests"></div>
+</div>
+
+<!-- SECTION 4: PANEL LAYOUT SIMULATION -->
+<div class="section">
+  <h2>4. Panel Layout Simulation</h2>
+  <p style="font-size:.75rem;color:var(--muted);margin-bottom:.75rem">
+    Simulates the exact <code>.panel-body</code> grid from the app. Switch widths to see what changes.
+  </p>
+  <div class="sim-controls">
+    <button class="sim-btn" onclick="setSim(320)">320px (phone portrait)</button>
+    <button class="sim-btn" onclick="setSim(375)">375px (iPhone SE portrait)</button>
+    <button class="sim-btn" onclick="setSim(480)">480px</button>
+    <button class="sim-btn" onclick="setSim(600)">600px (threshold)</button>
+    <button class="sim-btn" onclick="setSim(667)">667px (iPhone SE landscape)</button>
+    <button class="sim-btn" onclick="setSim(768)">768px</button>
+    <button class="sim-btn active" onclick="setSim(0)">Current viewport</button>
+  </div>
+
+  <div id="sim-frame" class="sim-frame">
+    <div class="sim-width-label" id="sim-width-label">—</div>
+    <div id="sim-body"><!-- filled by JS --></div>
+  </div>
+</div>
+
+<!-- SECTION 5: DETAILS ELEMENT TESTS -->
+<div class="section">
+  <h2>5. &lt;details&gt; Element Image Loading</h2>
+  <p style="font-size:.75rem;color:var(--muted);margin-bottom:.75rem">
+    Tests whether the image loads when inside a closed vs. open <code>&lt;details&gt;</code> element.
+    iOS Safari has historically had issues loading images inside closed details panels.
+    Open/close the panels and check the load status below.
+  </p>
+  <div class="details-tests" id="details-tests"></div>
+</div>
+
+<!-- SECTION 6: CSS COMPUTED STYLES -->
+<div class="section">
+  <h2>6. Computed CSS on Live Panel Elements</h2>
+  <p style="font-size:.75rem;color:var(--muted);margin-bottom:.75rem">
+    Open the actual Walden Ch.2 reader page first, then come back here — or check the simulation results below.
+    This section shows computed styles on the panel elements injected into the simulation frame.
+  </p>
+  <div class="css-report" id="css-report"></div>
+</div>
+
+<!-- SECTION 7: URL ANALYSIS -->
+<div class="section">
+  <h2>7. Image URL Analysis</h2>
+  <p style="font-size:.75rem;color:var(--muted);margin-bottom:.75rem">
+    Checks each Wikimedia URL for potential issues: UTM params, redirects, encoding problems.
+  </p>
+  <div id="url-analysis"></div>
+</div>
+
+<!-- SECTION 8: NETWORK TIMING -->
+<div class="section">
+  <h2>8. Connection Info</h2>
+  <div class="metrics-grid" id="net-metrics"></div>
+</div>
+
+<script>
+// ── Image test data ──────────────────────────────────────────────────────────
+const IMAGES = [
+  {
+    name: 'Manu Statue (Walden Ch.2 — reported broken)',
+    chapter: 'Walden Ch.2',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Statue_of_Manu.jpg/330px-Statue_of_Manu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
+    caption: 'Statue of Manu by Augustus Lukeman'
+  },
+  {
+    name: 'Manu Statue — URL without UTM params',
+    chapter: 'Walden Ch.2 (clean URL)',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Statue_of_Manu.jpg/330px-Statue_of_Manu.jpg',
+    caption: 'Statue of Manu (no UTM)'
+  },
+  {
+    name: 'Walden Pond (Ch.1 — for comparison)',
+    chapter: 'Walden Ch.1',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/330px-Walden_Pond_outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
+    caption: 'Walden Pond'
+  },
+  {
+    name: '3 Roads to Eternity (Walden Ch.2)',
+    chapter: 'Walden Ch.2',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Georgin_Fran%C3%A7ois%2C_The_3_Roads_to_Eternity%2C_1825_Cornell_CUL_PJM_1040_01.jpg/330px-Georgin_Fran%C3%A7ois%2C_The_3_Roads_to_Eternity%2C_1825_Cornell_CUL_PJM_1040_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
+    caption: 'The 3 Roads to Eternity (encoded URL)'
+  },
+  {
+    name: 'Circumferentor (Walden Ch.1 — non-thumb URL)',
+    chapter: 'Walden Ch.1',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Circumferentor%2C_Table_of_Surveying%2C_Cyclopaedia%2C_Volume_2.jpg',
+    caption: 'Circumferentor (no thumb, direct)'
+  },
+  {
+    name: 'TTL cover (Twenty Thousand Leagues Ch.1)',
+    chapter: 'TTL Ch.1',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1956_Cover_of_%22Twenty_Thousand_Leagues_Under_the_Seas%22.jpg/330px-1956_Cover_of_%22Twenty_Thousand_Leagues_Under_the_Seas%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail',
+    caption: 'TTL 1956 cover'
+  }
+];
+
+// ── 1. Viewport metrics ──────────────────────────────────────────────────────
+function updateViewport() {
+  const iW = window.innerWidth;
+  const iH = window.innerHeight;
+  const cW = document.documentElement.clientWidth;
+  const sW = screen.width;
+  const sH = screen.height;
+  const dpr = window.devicePixelRatio;
+  const isLandscape = iW > iH;
+  const orientApi = screen.orientation ? screen.orientation.type : 'unsupported';
+
+  document.getElementById('m-innerW').textContent = iW + 'px';
+  document.getElementById('m-innerH').textContent = iH + 'px';
+  document.getElementById('m-clientW').textContent = cW + 'px';
+  document.getElementById('m-screenW').textContent = sW + 'px';
+  document.getElementById('m-screenH').textContent = sH + 'px';
+  document.getElementById('m-dpr').textContent = dpr;
+  document.getElementById('m-orientApi').textContent = orientApi;
+
+  const orientEl = document.getElementById('m-orient');
+  orientEl.textContent = isLandscape ? 'Landscape' : 'Portrait';
+  orientEl.className = 'metric-value ' + (isLandscape ? 'info' : 'warn');
+
+  // sticky bar
+  document.getElementById('s-w').textContent = iW + 'px';
+  document.getElementById('s-h').textContent = iH + 'px';
+  document.getElementById('s-dpr').textContent = dpr;
+  const sOrient = document.getElementById('s-orient');
+  sOrient.textContent = isLandscape ? 'Landscape' : 'Portrait';
+  sOrient.className = 'orient-badge ' + (isLandscape ? 'landscape' : 'portrait');
+
+  // threshold bar
+  const maxW = Math.max(iW, 900);
+  const pct600 = Math.min((600 / maxW) * 100, 100);
+  const pctW   = Math.min((iW  / maxW) * 100, 100);
+  document.getElementById('thresh-fill').style.width = pctW + '%';
+  document.getElementById('thresh-marker').style.left = pct600 + '%';
+  document.getElementById('thresh-max-label').textContent = maxW + 'px';
+
+  const mq600 = window.matchMedia('(max-width: 600px)').matches;
+  document.getElementById('s-mq600').textContent = mq600 ? '⚠ ≤600px: images hidden' : '✓ >600px: images visible';
+  document.getElementById('s-mq600').className = 'badge ' + (mq600 ? 'error' : 'loaded');
+
+  const verdict = document.getElementById('thresh-verdict');
+  if (mq600) {
+    verdict.style.color = 'var(--err)';
+    verdict.textContent = '⚠ Current width (' + iW + 'px) triggers display:none on .panel-image — images are hidden by CSS.';
+  } else {
+    verdict.style.color = 'var(--ok)';
+    verdict.textContent = '✓ Current width (' + iW + 'px) is above threshold — .panel-image should NOT be hidden by the 600px media query.';
+  }
+
+  updateSim(0); // refresh sim with current viewport
+}
+
+// ── 2. Media queries ─────────────────────────────────────────────────────────
+function buildMQGrid() {
+  const mqs = [
+    { label: '(max-width: 480px)',    desc: 'header collapses' },
+    { label: '(max-width: 600px)',    desc: '.panel-image hidden' },
+    { label: '(max-width: 768px)',    desc: 'tablet' },
+    { label: '(orientation: portrait)',   desc: '' },
+    { label: '(orientation: landscape)',  desc: '' },
+    { label: '(hover: none)',             desc: 'touch device' },
+    { label: '(pointer: coarse)',         desc: 'touch input' },
+    { label: '(display-mode: standalone)',desc: 'PWA mode' },
+  ];
+  const grid = document.getElementById('mq-grid');
+  grid.innerHTML = '';
+  mqs.forEach(mq => {
+    const matches = window.matchMedia(mq.label).matches;
+    const el = document.createElement('div');
+    el.className = 'metric';
+    el.innerHTML = `
+      <div class="metric-label">${mq.label}${mq.desc ? '<br><span style="font-size:.6rem;opacity:.6">${mq.desc}</span>' : ''}</div>
+      <div class="metric-value ${matches ? 'ok' : 'err'}">${matches ? '✓ matches' : '✗ no'}</div>`;
+    grid.appendChild(el);
+  });
+}
+
+// ── 3. Image tests ───────────────────────────────────────────────────────────
+function buildImageTests() {
+  const container = document.getElementById('img-tests');
+  container.innerHTML = '';
+
+  IMAGES.forEach((img, i) => {
+    const id = 'img-test-' + i;
+    const div = document.createElement('div');
+    div.className = 'img-test';
+    div.id = id;
+    div.innerHTML = `
+      <div class="img-test-header">
+        <span class="img-name">${img.name}</span>
+        <span class="badge loading" id="badge-direct-${i}">LOADING</span>
+        <span style="font-size:.7rem;color:var(--muted)">(direct)</span>
+        <span class="badge loading" id="badge-prefetch-${i}">LOADING</span>
+        <span style="font-size:.7rem;color:var(--muted)">(prefetch)</span>
+      </div>
+      <div class="img-test-body">
+        <img class="img-preview" id="prev-${i}" src="${img.url}" alt="${img.caption}">
+        <div class="img-details">
+          <div class="row"><span class="key">Status:</span><span class="val" id="status-${i}">Loading…</span></div>
+          <div class="row"><span class="key">Load time:</span><span class="val" id="time-${i}">—</span></div>
+          <div class="row"><span class="key">Natural size:</span><span class="val" id="size-${i}">—</span></div>
+          <div class="row"><span class="key">Rendered size:</span><span class="val" id="rsize-${i}">—</span></div>
+          <div class="row"><span class="key">Has UTM params:</span><span class="val ${img.url.includes('utm_') ? 'warn' : 'ok'}">${img.url.includes('utm_') ? 'Yes' : 'No'}</span></div>
+          <div class="row"><span class="key">URL scheme:</span><span class="val">${img.url.includes('/thumb/') ? 'thumbnail' : 'direct'}</span></div>
+          <div class="row"><span class="key">Prefetch result:</span><span class="val" id="pfstatus-${i}">—</span></div>
+          <div class="row" style="margin-top:.4rem">
+            <span class="key" style="color:var(--muted);font-size:.65rem">URL:</span>
+            <span class="val" style="font-size:.6rem;opacity:.7">${img.url.replace(/\?.*/, '') }</span>
+          </div>
+        </div>
+      </div>`;
+    container.appendChild(div);
+
+    // Direct load test
+    const startTime = performance.now();
+    const imgEl = div.querySelector('#prev-' + i);
+
+    imgEl.addEventListener('load', () => {
+      const elapsed = Math.round(performance.now() - startTime);
+      document.getElementById('badge-direct-' + i).textContent = 'LOADED';
+      document.getElementById('badge-direct-' + i).className = 'badge loaded';
+      document.getElementById('status-' + i).textContent = '✓ Loaded successfully';
+      document.getElementById('status-' + i).className = 'val ok';
+      document.getElementById('time-' + i).textContent = elapsed + 'ms';
+      document.getElementById('size-' + i).textContent = imgEl.naturalWidth + '×' + imgEl.naturalHeight + 'px';
+      document.getElementById('rsize-' + i).textContent = Math.round(imgEl.getBoundingClientRect().width) + '×' + Math.round(imgEl.getBoundingClientRect().height) + 'px';
+    });
+    imgEl.addEventListener('error', () => {
+      document.getElementById('badge-direct-' + i).textContent = 'ERROR';
+      document.getElementById('badge-direct-' + i).className = 'badge error';
+      document.getElementById('status-' + i).textContent = '✗ Failed to load (network error, CORS, or 404)';
+      document.getElementById('status-' + i).className = 'val err';
+    });
+
+    // Prefetch strategy test (mimics app.js prefetch container)
+    const pfContainer = document.createElement('div');
+    pfContainer.style.cssText = 'position:absolute;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none;';
+    const pfImg = document.createElement('img');
+    pfImg.src = img.url;
+    pfImg.loading = 'eager';
+    pfImg.decoding = 'async';
+    pfContainer.appendChild(pfImg);
+    document.body.appendChild(pfContainer);
+
+    pfImg.addEventListener('load', () => {
+      document.getElementById('badge-prefetch-' + i).textContent = 'LOADED';
+      document.getElementById('badge-prefetch-' + i).className = 'badge loaded';
+      document.getElementById('pfstatus-' + i).textContent = '✓ Prefetch loaded';
+      document.getElementById('pfstatus-' + i).className = 'val ok';
+    });
+    pfImg.addEventListener('error', () => {
+      document.getElementById('badge-prefetch-' + i).textContent = 'ERROR';
+      document.getElementById('badge-prefetch-' + i).className = 'badge error';
+      document.getElementById('pfstatus-' + i).textContent = '✗ Prefetch failed';
+      document.getElementById('pfstatus-' + i).className = 'val err';
+    });
+  });
+}
+
+// ── 4. Panel layout simulation ───────────────────────────────────────────────
+function setSim(width) {
+  document.querySelectorAll('.sim-btn').forEach(b => b.classList.remove('active'));
+  const clicked = [...document.querySelectorAll('.sim-btn')].find(b => b.textContent.includes(width === 0 ? 'Current' : width + 'px'));
+  if (clicked) clicked.classList.add('active');
+  updateSim(width);
+}
+
+function updateSim(forceWidth) {
+  const w = forceWidth > 0 ? forceWidth : window.innerWidth;
+  const frame = document.getElementById('sim-frame');
+  frame.style.width = forceWidth > 0 ? forceWidth + 'px' : '100%';
+  frame.style.maxWidth = '100%';
+
+  const mq600 = w <= 600;
+  const mq480 = w <= 480;
+
+  document.getElementById('sim-width-label').textContent =
+    'Simulated width: ' + w + 'px — ' +
+    (mq600 ? '⚠ ≤600px: .panel-image hidden, grid = 1fr' : '✓ >600px: grid = 1fr 160px, image visible');
+
+  const bodyEl = document.getElementById('sim-body');
+  bodyEl.innerHTML = `
+    <div style="padding:1rem">
+      <div style="font-size:.75rem;color:#6b5d4f;margin-bottom:.5rem">
+        Enhancement panel: <em>The Lawgiver Who Wrote the Rules — and the Student He Admired</em>
+      </div>
+      <div class="sim-panel-body${mq600 ? ' narrow' : ''}">
+        <div class="sim-panel-text">
+          <p>The Laws of Manu (<em>Manusmriti</em>) is among the most influential legal texts ever compiled — a vast code governing everything from daily ritual to social hierarchy to spiritual practice, set down between roughly 200 BCE and 200 CE.</p>
+          <p style="font-size:.8rem;color:#5c4a2a">→ <a href="#" style="color:#4a6741">Read more on Wikipedia</a></p>
+        </div>
+        <figure class="sim-panel-image${mq600 ? ' hidden' : ''}">
+          <img src="${IMAGES[0].url}" alt="${IMAGES[0].caption}" id="sim-img">
+          <figcaption>${IMAGES[0].caption} <br><a href="#" style="font-size:.65rem;color:#6b5d4f">via Wikimedia Commons</a></figcaption>
+        </figure>
+      </div>
+    </div>`;
+
+  // Check computed styles on the simulated panel
+  setTimeout(() => {
+    const panelBody = bodyEl.querySelector('.sim-panel-body');
+    const panelImg = bodyEl.querySelector('.sim-panel-image');
+    if (panelBody && panelImg) {
+      const cs = getComputedStyle(panelBody);
+      const imgCs = getComputedStyle(panelImg);
+      const report = document.getElementById('css-report');
+      report.innerHTML = `
+        <div class="css-row"><span class="css-prop">.panel-body grid-template-columns</span><span class="css-val">${cs.gridTemplateColumns}</span></div>
+        <div class="css-row"><span class="css-prop">.panel-image display</span><span class="css-val ${imgCs.display === 'none' ? 'err' : 'ok'}">${imgCs.display}</span></div>
+        <div class="css-row"><span class="css-prop">.panel-image visibility</span><span class="css-val">${imgCs.visibility}</span></div>
+        <div class="css-row"><span class="css-prop">.panel-body gap</span><span class="css-val">${cs.gap}</span></div>
+        <div class="css-row"><span class="css-prop">.panel-body padding</span><span class="css-val">${cs.padding}</span></div>
+        <div class="css-row"><span class="css-prop">Simulated width</span><span class="css-val">${w}px</span></div>
+        <div class="css-row"><span class="css-prop">Image should be visible?</span><span class="css-val ${!mq600 ? 'ok' : 'err'}">${mq600 ? 'NO — hidden by ≤600px media query' : 'YES'}</span></div>`;
+    }
+  }, 100);
+}
+
+// ── 5. Details element tests ─────────────────────────────────────────────────
+function buildDetailsTests() {
+  const container = document.getElementById('details-tests');
+  const manuUrl = IMAGES[0].url;
+  const manuCleanUrl = IMAGES[1].url;
+
+  const tests = [
+    { id: 'det-closed', open: false, url: manuUrl,      label: 'Closed <details> — UTM URL (matches app)', desc: 'Image loads while panel is closed?' },
+    { id: 'det-open',   open: true,  url: manuUrl,      label: 'Open <details> — UTM URL',                 desc: 'Image loads while panel is open?' },
+    { id: 'det-clean',  open: false, url: manuCleanUrl, label: 'Closed <details> — clean URL (no UTM)',    desc: 'Does removing UTM params fix loading?' },
+  ];
+
+  tests.forEach(t => {
+    const div = document.createElement('div');
+    div.className = 'det-test';
+    div.innerHTML = `
+      <div class="det-label">
+        ${t.label}
+        <span class="det-badge badge loading" id="${t.id}-badge">LOADING</span>
+      </div>
+      <p style="font-size:.7rem;color:var(--muted);margin-bottom:.5rem">${t.desc}</p>
+      <details class="det-panel" ${t.open ? 'open' : ''}>
+        <summary>▾ Click to ${t.open ? 'close' : 'open'} panel</summary>
+        <div>
+          <img class="det-img" src="${t.url}" alt="Manu statue" id="${t.id}-img">
+          <div class="det-info">
+            <div class="det-status" id="${t.id}-status">Loading…</div>
+            <div id="${t.id}-size" style="font-size:.65rem;color:var(--muted);margin-top:.2rem"></div>
+            <div id="${t.id}-time" style="font-size:.65rem;color:var(--muted)"></div>
+          </div>
+        </div>
+      </details>`;
+    container.appendChild(div);
+
+    const start = performance.now();
+    const imgEl = div.querySelector('#' + t.id + '-img');
+    imgEl.addEventListener('load', () => {
+      const ms = Math.round(performance.now() - start);
+      document.getElementById(t.id + '-badge').textContent = 'LOADED';
+      document.getElementById(t.id + '-badge').className = 'det-badge badge loaded';
+      document.getElementById(t.id + '-status').innerHTML = '<span style="color:#4CAF50">✓ Loaded in ' + ms + 'ms</span>';
+      document.getElementById(t.id + '-size').textContent = 'Natural: ' + imgEl.naturalWidth + '×' + imgEl.naturalHeight;
+    });
+    imgEl.addEventListener('error', () => {
+      document.getElementById(t.id + '-badge').textContent = 'ERROR';
+      document.getElementById(t.id + '-badge').className = 'det-badge badge error';
+      document.getElementById(t.id + '-status').innerHTML = '<span style="color:#f44336">✗ Failed to load</span>';
+    });
+  });
+}
+
+// ── 7. URL analysis ───────────────────────────────────────────────────────────
+function buildUrlAnalysis() {
+  const container = document.getElementById('url-analysis');
+  let html = '';
+
+  IMAGES.forEach(img => {
+    let url;
+    try { url = new URL(img.url); } catch(e) { return; }
+
+    const issues = [];
+    const notes = [];
+
+    if (url.search.includes('utm_')) {
+      notes.push({ level: 'warn', msg: 'Has UTM tracking params — some mobile browsers may strip or reject' });
+    }
+    if (img.url.includes('%')) {
+      notes.push({ level: 'info', msg: 'URL contains percent-encoded characters' });
+    }
+    if (!img.url.includes('/thumb/')) {
+      notes.push({ level: 'warn', msg: 'Direct image URL (not thumbnail) — may be very large on mobile' });
+    }
+    const thumbMatch = img.url.match(/\/(\d+)px-/);
+    if (thumbMatch) {
+      notes.push({ level: 'ok', msg: 'Thumbnail width: ' + thumbMatch[1] + 'px (300–400px recommended for mobile)' });
+    }
+
+    html += `<div style="background:var(--bg);border:1px solid var(--border);border-radius:4px;padding:.6rem .75rem;margin-bottom:.5rem">
+      <div style="font-size:.8rem;font-weight:600;margin-bottom:.35rem">${img.name}</div>
+      ${notes.map(n => `<div style="font-size:.72rem;margin:.15rem 0;color:${n.level==='warn'?'var(--warn)':n.level==='err'?'var(--err)':'#4CAF50'}">${n.level==='warn'?'⚠':n.level==='err'?'✗':'✓'} ${n.msg}</div>`).join('')}
+    </div>`;
+  });
+
+  container.innerHTML = html;
+}
+
+// ── 8. Network ────────────────────────────────────────────────────────────────
+function buildNetMetrics() {
+  const grid = document.getElementById('net-metrics');
+  const nav = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  const items = [
+    { label: 'Online', value: navigator.onLine ? 'Yes' : 'No', cls: navigator.onLine ? 'ok' : 'err' },
+    { label: 'Connection type', value: nav ? (nav.effectiveType || nav.type || '—') : 'N/A (no API)' },
+    { label: 'Downlink', value: nav && nav.downlink ? nav.downlink + ' Mbps' : '—' },
+    { label: 'RTT', value: nav && nav.rtt ? nav.rtt + 'ms' : '—' },
+    { label: 'Save-data mode', value: nav && nav.saveData ? 'ON ⚠' : 'off', cls: nav && nav.saveData ? 'warn' : '' },
+    { label: 'User agent', value: navigator.userAgent.split(' ').slice(-3).join(' '), title: navigator.userAgent },
+  ];
+  grid.innerHTML = items.map(m => `
+    <div class="metric" ${m.title ? 'title="' + m.title + '"' : ''}>
+      <div class="metric-label">${m.label}</div>
+      <div class="metric-value ${m.cls || ''}" style="font-size:.85rem">${m.value}</div>
+    </div>`).join('');
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+window.addEventListener('resize', () => { updateViewport(); buildMQGrid(); updateSim(0); });
+window.addEventListener('orientationchange', () => setTimeout(() => { updateViewport(); buildMQGrid(); updateSim(0); }, 300));
+
+updateViewport();
+buildMQGrid();
+buildImageTests();
+setSim(0);
+buildDetailsTests();
+buildUrlAnalysis();
+buildNetMetrics();
+</script>
+</body>
+</html>
