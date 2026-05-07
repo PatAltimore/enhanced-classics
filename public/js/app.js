@@ -296,11 +296,18 @@
     if (!p) return;
     p.open = !p.open;
     if (p.open) {
-      // iOS Safari defers painting images inside <details> until a compositing
-      // flush occurs. Reading offsetHeight forces a synchronous reflow which
-      // triggers that flush and makes the image paint immediately.
+      // iOS/WebKit defers painting images inside <details> until a compositing
+      // flush occurs. Reading offsetHeight forces that flush.
+      // If the image is still downloading when the panel opens, the flush must
+      // also run after load completes — otherwise it paints nothing and never
+      // retries.
       var img = p.querySelector('.panel-image img');
-      if (img) img.offsetHeight;
+      if (img) {
+        img.offsetHeight;
+        if (!img.complete) {
+          img.addEventListener('load', function() { img.offsetHeight; }, { once: true });
+        }
+      }
     }
   };
 
