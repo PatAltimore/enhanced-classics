@@ -102,7 +102,7 @@ main { padding: 2rem; }
 @media (max-width: 600px) { .panel-body { grid-template-columns: 1fr; } }
 .panel-text p { font-family: var(--serif); line-height: 1.75; margin-bottom: .75rem; }
 .panel-link a { color: var(--link); font-family: var(--sans); font-size: .875rem; }
-.panel-image img { width: 160px; height: 180px; object-fit: cover; object-position: top center; border-radius: 4px; display: block; background: var(--paper-dark); }
+.panel-image img { width: 160px; height: 180px; object-fit: cover; object-position: top center; border-radius: 4px; display: block; background: var(--paper-dark); -webkit-transform: translateZ(0); transform: translateZ(0); }
 .panel-image figcaption { font-family: var(--sans); font-size: .75rem; color: var(--muted); margin-top: .3rem; max-width: 160px; }
 .commons-link { display: block; font-size: .65rem; color: var(--muted); margin-top: .15rem; opacity: .7; }
 .commons-link:hover { opacity: 1; color: var(--link); }

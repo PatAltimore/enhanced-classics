@@ -293,7 +293,15 @@
 
   window.togglePanel = function (id) {
     const p = document.getElementById('panel-' + id);
-    if (p) p.open = !p.open;
+    if (!p) return;
+    p.open = !p.open;
+    if (p.open) {
+      // iOS Safari defers painting images inside <details> until a compositing
+      // flush occurs. Reading offsetHeight forces a synchronous reflow which
+      // triggers that flush and makes the image paint immediately.
+      var img = p.querySelector('.panel-image img');
+      if (img) img.offsetHeight;
+    }
   };
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }

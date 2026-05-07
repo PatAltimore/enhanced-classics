@@ -149,6 +149,18 @@
 <h1>Mobile Image Debug — Enhanced Classics</h1>
 <button id="reload-btn" onclick="location.reload()">↺ Reload All Tests</button>
 
+<!-- SECTION 0: HTTP STATUS CHECK -->
+<div class="section">
+  <h2>0. HTTP Status Check (Fetch API)</h2>
+  <p style="font-size:.75rem;color:var(--muted);margin-bottom:.75rem">
+    Uses <code>fetch()</code> to probe each URL directly — reports the HTTP status code
+    (200 OK, 404 Not Found, 403 Forbidden, etc.). This is the most direct way to confirm
+    whether images exist on Wikimedia's server. Also tests with
+    <code>referrerpolicy="no-referrer"</code> on the img tag to check for hotlink blocking.
+  </p>
+  <div id="fetch-results"></div>
+</div>
+
 <!-- SECTION 1: VIEWPORT -->
 <div class="section">
   <h2>1. Viewport &amp; Screen Dimensions</h2>
@@ -621,10 +633,96 @@ function buildNetMetrics() {
     </div>`).join('');
 }
 
+// ── 0. Fetch status check ────────────────────────────────────────────────────
+async function fetchStatus(url) {
+  // Try CORS GET first (gives us status code)
+  try {
+    const r = await fetch(url, { method: 'GET', mode: 'cors', cache: 'no-store' });
+    return { method: 'cors GET', status: r.status, ok: r.ok, text: r.status + ' ' + r.statusText };
+  } catch(e) { /* CORS blocked or network fail — try no-cors */ }
+  // no-cors: opaque response, can't read status, but non-throw = server reached
+  try {
+    await fetch(url, { method: 'GET', mode: 'no-cors', cache: 'no-store' });
+    return { method: 'no-cors', status: 0, ok: true, text: 'Opaque (server reachable, status hidden by CORS)' };
+  } catch(e) {
+    return { method: 'no-cors', status: -1, ok: false, text: 'Network error: ' + e.message };
+  }
+}
+
+async function buildFetchResults() {
+  const container = document.getElementById('fetch-results');
+
+  // Also add referrer-policy img tests for each image
+  const refTests = IMAGES.map((img, i) => {
+    const id = 'ref-' + i;
+    return `<div style="margin-bottom:.5rem" id="${id}-row">
+      <div style="font-size:.75rem;font-weight:600;margin-bottom:.3rem">${img.name}</div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:.35rem">
+        <div style="background:var(--bg);border:1px solid var(--border);border-radius:3px;padding:.4rem .6rem;font-size:.7rem">
+          <div style="color:var(--muted)">fetch() HTTP status</div>
+          <div id="${id}-fetch" style="color:var(--warn)">Checking…</div>
+        </div>
+        <div style="background:var(--bg);border:1px solid var(--border);border-radius:3px;padding:.4rem .6rem;font-size:.7rem">
+          <div style="color:var(--muted)">img referrerpolicy="no-referrer"</div>
+          <div id="${id}-noref" style="color:var(--warn)">Loading…</div>
+        </div>
+        <div style="background:var(--bg);border:1px solid var(--border);border-radius:3px;padding:.4rem .6rem;font-size:.7rem">
+          <div style="color:var(--muted)">img referrerpolicy="origin"</div>
+          <div id="${id}-origin" style="color:var(--warn)">Loading…</div>
+        </div>
+        <div style="background:var(--bg);border:1px solid var(--border);border-radius:3px;padding:.4rem .6rem;font-size:.7rem">
+          <div style="color:var(--muted)">img crossorigin="anonymous"</div>
+          <div id="${id}-cors" style="color:var(--warn)">Loading…</div>
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+
+  container.innerHTML = refTests;
+
+  IMAGES.forEach((img, i) => {
+    const id = 'ref-' + i;
+
+    // Fetch status
+    fetchStatus(img.url).then(result => {
+      const el = document.getElementById(id + '-fetch');
+      if (result.ok) {
+        el.style.color = '#4CAF50';
+        el.textContent = '✓ ' + result.text + ' [' + result.method + ']';
+      } else {
+        el.style.color = '#f44336';
+        el.textContent = '✗ ' + result.text + ' [' + result.method + ']';
+      }
+    });
+
+    // referrerpolicy="no-referrer"
+    const imgNoRef = new Image();
+    imgNoRef.referrerPolicy = 'no-referrer';
+    imgNoRef.src = img.url;
+    imgNoRef.onload = () => { const e = document.getElementById(id+'-noref'); e.style.color='#4CAF50'; e.textContent='✓ Loaded ('+imgNoRef.naturalWidth+'×'+imgNoRef.naturalHeight+')'; };
+    imgNoRef.onerror = () => { const e = document.getElementById(id+'-noref'); e.style.color='#f44336'; e.textContent='✗ Error'; };
+
+    // referrerpolicy="origin"
+    const imgOrigin = new Image();
+    imgOrigin.referrerPolicy = 'origin';
+    imgOrigin.src = img.url;
+    imgOrigin.onload = () => { const e = document.getElementById(id+'-origin'); e.style.color='#4CAF50'; e.textContent='✓ Loaded ('+imgOrigin.naturalWidth+'×'+imgOrigin.naturalHeight+')'; };
+    imgOrigin.onerror = () => { const e = document.getElementById(id+'-origin'); e.style.color='#f44336'; e.textContent='✗ Error'; };
+
+    // crossOrigin="anonymous"
+    const imgCors = new Image();
+    imgCors.crossOrigin = 'anonymous';
+    imgCors.src = img.url;
+    imgCors.onload = () => { const e = document.getElementById(id+'-cors'); e.style.color='#4CAF50'; e.textContent='✓ Loaded ('+imgCors.naturalWidth+'×'+imgCors.naturalHeight+')'; };
+    imgCors.onerror = () => { const e = document.getElementById(id+'-cors'); e.style.color='#f44336'; e.textContent='✗ Error'; };
+  });
+}
+
 // ── Init ──────────────────────────────────────────────────────────────────────
 window.addEventListener('resize', () => { updateViewport(); buildMQGrid(); updateSim(0); });
 window.addEventListener('orientationchange', () => setTimeout(() => { updateViewport(); buildMQGrid(); updateSim(0); }, 300));
 
+buildFetchResults();
 updateViewport();
 buildMQGrid();
 buildImageTests();
