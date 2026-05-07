@@ -260,20 +260,18 @@
       '<div class="prose">' + prose + '</div>' +
       summaryHtml + nextHtml + '</div>';
 
+    // Preload all panel images via <link rel="preload"> so mobile browsers
+    // fetch them immediately, before any panel is opened.
+    var head = document.head;
+    document.querySelectorAll('.preload-hint').forEach(function (el) { el.remove(); });
     enhancements.forEach(function (e) {
-      if (e.image_url) new Image().src = e.image_url;
-    });
-
-    document.querySelectorAll('.enhancement-panel').forEach(function (panel) {
-      panel.addEventListener('toggle', function () {
-        if (!panel.open) return;
-        requestAnimationFrame(function () {
-          panel.querySelectorAll('img').forEach(function (img) {
-            var src = img.src;
-            if (src) { img.src = ''; img.src = src; }
-          });
-        });
-      });
+      if (!e.image_url) return;
+      var link = document.createElement('link');
+      link.rel = 'preload';
+      link.as = 'image';
+      link.href = e.image_url;
+      link.className = 'preload-hint';
+      head.appendChild(link);
     });
   }
 
