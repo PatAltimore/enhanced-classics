@@ -22,10 +22,12 @@ header.header-hidden { transform: translateY(-100%); }
 header h1 { font-size: 1.25rem; font-weight: 600; display: flex; flex-direction: column; }
 .header-chapter { font-size: .78rem; font-weight: 400; opacity: .8; font-family: var(--sans); line-height: 1.3; }
 
-#back-btn, #home-btn { background: none; border: 1px solid rgba(255,255,255,.4); color: var(--paper); padding: .3rem .8rem; border-radius: 4px; cursor: pointer; font-family: var(--sans); font-size: .875rem; display: none; }
+#nav-btns { display: flex; align-items: center; gap: .5rem; flex-shrink: 0; }
+#back-btn, #home-btn { background: none; border: 1px solid rgba(255,255,255,.4); color: var(--paper); padding: .3rem .8rem; border-radius: 4px; cursor: pointer; font-family: var(--sans); font-size: .875rem; display: none; white-space: nowrap; }
 #back-btn:hover, #home-btn:hover { background: rgba(255,255,255,.15); }
 
-#font-size-ctrl { margin-left: auto; display: flex; align-items: baseline; gap: .35rem; }
+#header-controls { margin-left: auto; display: flex; align-items: center; gap: .75rem; flex-shrink: 0; }
+#font-size-ctrl { display: flex; align-items: baseline; gap: .35rem; }
 .fs-btn { background: none; border: none; color: rgba(255,255,255,.5); cursor: pointer; padding: .1rem .25rem; font-family: var(--serif); font-weight: 600; line-height: 1; transition: color .15s; }
 .fs-btn:nth-child(1) { font-size: .8rem; }
 .fs-btn:nth-child(2) { font-size: 1rem; }
@@ -41,6 +43,14 @@ body.font-lg { font-size: 1.5rem; }
 .theme-btn[data-theme="theme-white"] { background: #ffffff; color: #111; }
 .theme-btn:hover { border-color: rgba(255,255,255,.55); }
 .theme-btn.active { border-color: var(--gold); }
+
+@media (max-width: 480px) {
+  header { padding: .6rem 1rem; gap: .75rem; }
+  #nav-btns { flex-direction: column; align-items: flex-start; gap: .3rem; }
+  #home-btn .btn-label { display: none; }
+  #header-controls { flex-direction: column; align-items: flex-end; gap: .3rem; }
+  #theme-ctrl { padding-left: 0; border-left: none; }
+}
 
 /* White theme overrides */
 body.theme-white { --ink: #111; --paper: #fff; --paper-dark: #f0f0f0; --accent: #222; --panel-bg: #fafafa; --panel-border: #ccc; --muted: #555; }
