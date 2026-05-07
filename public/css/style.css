@@ -54,7 +54,7 @@ body.font-lg { font-size: 1.5rem; }
 }
 
 @media (max-width: 600px) {
-  .panel-image { display: none; }
+  .panel-image { margin-top: .5rem; }
 }
 
 /* White theme overrides */
