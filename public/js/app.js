@@ -4,6 +4,7 @@
 
   const main        = document.getElementById('main-content');
   const backBtn     = document.getElementById('back-btn');
+  const homeBtn     = document.getElementById('home-btn');
   const headerTitle = document.getElementById('header-title');
   let catalog           = null;
   let scrollHandler     = null;
@@ -44,6 +45,7 @@
   async function showShelf() {
     clearScrollHandler();
     backBtn.style.display = 'none';
+    homeBtn.style.display = 'none';
     headerTitle.textContent = 'Enhanced Classics';
     const cat = await loadCatalog();
     main.innerHTML = '<div id="shelf"><h2>Library</h2>' +
@@ -53,6 +55,9 @@
         '<div class="meta">' + b.author + ' &middot; ' + b.year + '</div>' +
         '<p>' + b.description + '</p></div>'
       ).join('') + '</div>';
+    var saved = localStorage.getItem('scroll_shelf');
+    if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
+    saveScrollFor('scroll_shelf');
   }
 
   /* ── Chapter list ── */
@@ -62,7 +67,8 @@
     const book = cat.books.find(b => b.slug === bookSlug);
     if (!book) { showError('Book not found.'); return; }
     backBtn.style.display = 'inline-block';
-    backBtn.onclick = () => { location.hash = '#/'; };
+    backBtn.onclick = function () { location.hash = '#/'; };
+    homeBtn.style.display = 'none';
     headerTitle.textContent = book.title;
     main.innerHTML = '<div id="chapter-list"><h2>' + book.title + '</h2>' +
       '<div class="book-meta">' + book.author + ' &middot; ' + book.year + '</div>' +
@@ -71,13 +77,18 @@
         '<span class="chapter-num">' + ch.number + '</span>' +
         '<span class="chapter-title">' + ch.title + '</span></div>'
       ).join('') + '</div>';
+    var saved = localStorage.getItem('scroll_list_' + bookSlug);
+    if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
+    saveScrollFor('scroll_list_' + bookSlug);
   }
 
   /* ── Reader ── */
   async function showReader(bookSlug, chapterSlug) {
     main.innerHTML = '<div id="loading">Loading chapter\u2026</div>';
     backBtn.style.display = 'inline-block';
-    backBtn.onclick = () => { location.hash = '#/' + bookSlug; };
+    backBtn.onclick = function () { location.hash = '#/' + bookSlug; };
+    homeBtn.style.display = 'inline-block';
+    homeBtn.onclick = function () { location.hash = '#/'; };
     try {
       const [text, cat] = await Promise.all([
         fetch('/books/' + bookSlug + '/' + chapterSlug + '.md').then(r => r.text()),
@@ -215,7 +226,7 @@
         '<div class="panel-body">' +
         '<div class="panel-text"><p>' + e.content + '</p>' +
         '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
-        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '" loading="eager">' +
+        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '" loading="eager" onerror="this.closest(\'figure\').style.display=\'none\'">' +
         '<figcaption>' + (e.image_caption || '') +
         (commonsUrl(e.image_url) ? ' <a href="' + commonsUrl(e.image_url) + '" target="_blank" rel="noopener" class="commons-link">via Wikimedia Commons</a>' : '') +
         '</figcaption></figure>' : '') +
