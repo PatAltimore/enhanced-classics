@@ -308,3 +308,32 @@ books:
       - number: 22
         title: "Home at Last"
         slug: "chapter-22-home-at-last"
+
+  - slug: "hamlet"
+    title: "Hamlet"
+    author: "William Shakespeare"
+    year: 1603
+    description: >
+      Prince Hamlet of Denmark is visited by his father's ghost, who reveals
+      he was murdered by Hamlet's uncle Claudius, now king. Torn between
+      grief, doubt, and the demand for revenge, Hamlet's hesitation spirals
+      into madness — real and feigned — destroying everyone around him.
+    chapters:
+      - number: 1
+        title: "The Ghost's Warning"
+        slug: "chapter-01-the-ghosts-warning"
+      - number: 2
+        title: "The Players Arrive"
+        slug: "chapter-02-the-players-arrive"
+      - number: 3
+        title: "The Mousetrap"
+        slug: "chapter-03-the-mousetrap"
+      - number: 4
+        title: "The Killing of Polonius"
+        slug: "chapter-04-the-killing-of-polonius"
+      - number: 5
+        title: "Ophelia's Madness"
+        slug: "chapter-05-ophelias-madness"
+      - number: 6
+        title: "The Final Reckoning"
+        slug: "chapter-06-the-final-reckoning"

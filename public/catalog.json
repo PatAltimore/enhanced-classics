@@ -110,6 +110,51 @@
           "number": 1,
           "title": "A Shifting Reef",
           "slug": "chapter-01-a-shifting-reef"
+        },
+        {
+          "number": 2,
+          "title": "The Pros and Cons",
+          "slug": "chapter-02-pros-and-cons"
+        },
+        {
+          "number": 3,
+          "title": "As My Lord Pleases",
+          "slug": "chapter-03-as-my-lord-pleases"
+        },
+        {
+          "number": 4,
+          "title": "Ned Land",
+          "slug": "chapter-04-ned-land"
+        },
+        {
+          "number": 5,
+          "title": "At a Venture",
+          "slug": "chapter-05-at-a-venture"
+        },
+        {
+          "number": 6,
+          "title": "At Full Steam",
+          "slug": "chapter-06-at-full-steam"
+        },
+        {
+          "number": 7,
+          "title": "An Unknown Species of Whale",
+          "slug": "chapter-07-unknown-species"
+        },
+        {
+          "number": 8,
+          "title": "Mobilis in Mobili",
+          "slug": "chapter-08-mobilis-in-mobili"
+        },
+        {
+          "number": 9,
+          "title": "Ned Land's Tempers",
+          "slug": "chapter-09-ned-lands-tempers"
+        },
+        {
+          "number": 10,
+          "title": "The Man of the Seas",
+          "slug": "chapter-10-man-of-the-seas"
         }
       ]
     },
