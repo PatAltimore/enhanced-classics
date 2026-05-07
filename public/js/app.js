@@ -260,19 +260,24 @@
       '<div class="prose">' + prose + '</div>' +
       summaryHtml + nextHtml + '</div>';
 
-    // Preload all panel images via <link rel="preload"> so mobile browsers
-    // fetch them immediately, before any panel is opened.
-    var head = document.head;
-    document.querySelectorAll('.preload-hint').forEach(function (el) { el.remove(); });
+    // Force-fetch all panel images by placing real <img> elements in a
+    // hidden off-screen container. This is more reliable than <link rel="preload">
+    // on iOS Safari for cross-origin images inside closed <details> panels.
+    var old = document.getElementById('img-prefetch');
+    if (old) old.remove();
+    var prefetch = document.createElement('div');
+    prefetch.id = 'img-prefetch';
+    prefetch.setAttribute('aria-hidden', 'true');
+    prefetch.style.cssText = 'position:absolute;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none;';
     enhancements.forEach(function (e) {
       if (!e.image_url) return;
-      var link = document.createElement('link');
-      link.rel = 'preload';
-      link.as = 'image';
-      link.href = e.image_url;
-      link.className = 'preload-hint';
-      head.appendChild(link);
+      var img = document.createElement('img');
+      img.src = e.image_url;
+      img.loading = 'eager';
+      img.decoding = 'async';
+      prefetch.appendChild(img);
     });
+    document.body.appendChild(prefetch);
   }
 
   window.togglePanel = function (id) {
