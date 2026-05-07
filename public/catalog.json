@@ -220,6 +220,75 @@
           "slug": "chapter-16-after-the-story"
         }
       ]
+    },
+    {
+      "slug": "journey-to-the-center-of-the-earth",
+      "title": "Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "year": 1864,
+      "description": "Professor Otto Lidenbrock discovers a cryptic runic message pointing to a passage into the Earth's interior. With his nephew Axel and Icelandic guide Hans, he descends into the volcano Snæfells and journeys through a vast underground world of prehistoric seas, ancient forests, and living monsters beneath the surface.\n",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Professor and His Discovery",
+          "slug": "chapter-01-the-professor"
+        },
+        {
+          "number": 2,
+          "title": "The Runic Manuscript",
+          "slug": "chapter-02-the-runic-manuscript"
+        },
+        {
+          "number": 3,
+          "title": "The Solution of the Cryptogram",
+          "slug": "chapter-03-the-cryptogram"
+        },
+        {
+          "number": 4,
+          "title": "Preparations for Departure",
+          "slug": "chapter-04-preparations"
+        },
+        {
+          "number": 5,
+          "title": "Arriving in Iceland",
+          "slug": "chapter-05-arriving-in-iceland"
+        },
+        {
+          "number": 6,
+          "title": "The Volcano Snæfells",
+          "slug": "chapter-06-the-volcano"
+        },
+        {
+          "number": 7,
+          "title": "The Descent Begins",
+          "slug": "chapter-07-the-descent"
+        },
+        {
+          "number": 8,
+          "title": "Into the Earth",
+          "slug": "chapter-08-into-the-earth"
+        },
+        {
+          "number": 9,
+          "title": "Lost Underground",
+          "slug": "chapter-09-lost-underground"
+        },
+        {
+          "number": 10,
+          "title": "The Fossil Forest",
+          "slug": "chapter-10-the-fossil-forest"
+        },
+        {
+          "number": 11,
+          "title": "The Central Sea",
+          "slug": "chapter-11-the-central-sea"
+        },
+        {
+          "number": 12,
+          "title": "Setting Sail Underground",
+          "slug": "chapter-12-setting-sail"
+        }
+      ]
     }
   ]
 }

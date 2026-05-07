@@ -80,14 +80,21 @@ def main() -> None:
     parser.add_argument("--dry-run", action="store_true", help="Build prompts but skip API calls")
     parser.add_argument("--force", action="store_true", help="Regenerate even if output file exists")
     parser.add_argument("--no-catalog-sync", action="store_true", help="Skip updating catalog.json")
+    parser.add_argument("--sync-catalog", action="store_true", help="Sync catalog.json from disk and exit")
     parser.add_argument("--config", default=str(CONFIG_PATH), help="Path to books.yaml")
     args = parser.parse_args()
 
     config = load_config(Path(args.config))
-    client = ModelClient(config["models"])
     checkpointer = Checkpointer(
         Path(__file__).parent / config["output_dir"]
     )
+
+    if args.sync_catalog:
+        catalog_sync.sync(config, checkpointer)
+        console.print("[green]catalog.json updated[/green]")
+        return
+
+    client = ModelClient(config["models"])
 
     books = config["books"]
     if args.book:
