@@ -47,9 +47,14 @@ body.font-lg { font-size: 1.5rem; }
 @media (max-width: 480px) {
   header { padding: .6rem 1rem; gap: .75rem; }
   #nav-btns { flex-direction: column; align-items: flex-start; gap: .3rem; }
+  #home-btn { order: -1; }
   #home-btn .btn-label { display: none; }
   #header-controls { flex-direction: column; align-items: flex-end; gap: .3rem; }
   #theme-ctrl { padding-left: 0; border-left: none; }
+}
+
+@media (max-width: 600px) {
+  .panel-image { display: none; }
 }
 
 /* White theme overrides */
