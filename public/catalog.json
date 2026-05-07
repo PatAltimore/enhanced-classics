@@ -287,6 +287,56 @@
           "number": 12,
           "title": "Setting Sail Underground",
           "slug": "chapter-12-setting-sail"
+        },
+        {
+          "number": 13,
+          "title": "A Storm on the Underground Sea",
+          "slug": "chapter-13-the-storm"
+        },
+        {
+          "number": 14,
+          "title": "The Battle of the Monsters",
+          "slug": "chapter-14-battle-of-monsters"
+        },
+        {
+          "number": 15,
+          "title": "Axel's Island",
+          "slug": "chapter-15-axels-island"
+        },
+        {
+          "number": 16,
+          "title": "Signals Through the Rock",
+          "slug": "chapter-16-signals-through-rock"
+        },
+        {
+          "number": 17,
+          "title": "The Human Skull",
+          "slug": "chapter-17-the-human-skull"
+        },
+        {
+          "number": 18,
+          "title": "The Shepherd of the Underground",
+          "slug": "chapter-18-the-shepherd"
+        },
+        {
+          "number": 19,
+          "title": "The Geyser",
+          "slug": "chapter-19-the-geyser"
+        },
+        {
+          "number": 20,
+          "title": "The Great Eruption",
+          "slug": "chapter-20-the-great-eruption"
+        },
+        {
+          "number": 21,
+          "title": "Back to the Surface",
+          "slug": "chapter-21-back-to-the-surface"
+        },
+        {
+          "number": 22,
+          "title": "Home at Last",
+          "slug": "chapter-22-home-at-last"
         }
       ]
     }
