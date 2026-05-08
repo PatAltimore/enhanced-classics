@@ -9,173 +9,152 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on his solitude during winter and the absence of visitors."
+  - point: "Thoreau reflects on the solitude of winter and the quiet beauty of snowstorms."
+    link: "https://en.wikipedia.org/wiki/Walden"
+    link_label: "Walden"
+  - point: "He recounts the lives of former inhabitants of Walden Woods, including freed slaves and settlers."
+    link: "https://en.wikipedia.org/wiki/History_of_slavery_in_Massachusetts"
+    link_label: "Slavery in Massachusetts"
+  - point: "Thoreau describes the destruction of Breed’s hut and the tragic history of its occupants."
+    link: "https://en.wikipedia.org/wiki/History_of_New_England"
+    link_label: "New England history"
+  - point: "He observes the resilience of nature, such as lilac bushes and other plants, thriving on abandoned sites."
+    link: "https://en.wikipedia.org/wiki/Lilac"
+    link_label: "Lilac"
+  - point: "Thoreau recounts encounters with visitors during winter, including a poet and a philosopher."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "He recounts the history of former inhabitants of Walden Woods, including enslaved individuals and freedmen."
-    link: "https://en.wikipedia.org/wiki/Walden_Pond"
-    link_label: "Walden Pond"
-  - point: "Thoreau describes the harsh winter conditions and his walks through deep snow."
-    link: "https://en.wikipedia.org/wiki/New_England"
-    link_label: "New England"
-  - point: "He narrates encounters with wildlife, including a barred owl and other animals."
-    link: "https://en.wikipedia.org/wiki/Barred_owl"
-    link_label: "Barred owl"
-  - point: "Thoreau reflects on philosophical conversations with visitors, including a poet and a philosopher."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism"
-  - point: "He contemplates the legacy of past inhabitants and the enduring beauty of nature."
-    link: "https://en.wikipedia.org/wiki/Nature_(essay)"
-    link_label: "Nature"
+  - point: "He reflects on the Vishnu Purana and the duty of hospitality, connecting it to his own experiences."
+    link: "https://en.wikipedia.org/wiki/Vishnu_Purana"
+    link_label: "Vishnu Purana"
 
 enhancements:
   - id: "merry-snow-storms"
     trigger: "merry snow storms"
-    title: "Winter Storms in New England"
+    title: "Why Snowstorms Can Be Merry Moments"
     wikipedia_url: "https://en.wikipedia.org/wiki/Snowstorm"
     image_url: ""
     image_caption: ""
-    content: "Snowstorms are a defining feature of New England winters, shaping the region's culture and landscape. Thoreau's description of 'merry snow storms' reflects his appreciation for the beauty and solitude they bring, as well as their role in his transcendentalist philosophy of finding joy in nature."
+    content: "Thoreau describes the 'merry snow storms' that enlivened his winter evenings at Walden Pond, contrasting the wild chaos outside with the cheerfulness of his fireside solitude. Snowstorms, while often seen as disruptive, have historically been moments of reflection and beauty for many. In literature and culture, snowstorms symbolize both isolation and renewal, forcing people indoors but also creating a pristine, untouched landscape. For Thoreau, these storms were not merely weather events but opportunities to deepen his connection with nature's rhythms. The joy he found in them reflects his broader philosophy: finding contentment in simplicity and embracing the natural world as a source of wonder."
   - id: "hooting-of-the-owl"
     trigger: "hooting of the owl"
-    title: "Symbolism of Owls"
+    title: "Why the Owl’s Hooting Stops in Snowstorms"
     wikipedia_url: "https://en.wikipedia.org/wiki/Owl"
     image_url: ""
     image_caption: ""
-    content: "Owls are often symbolic of wisdom and mystery in literature. Thoreau's mention of the owl's hooting being hushed emphasizes the deep silence of winter nights, enhancing the sense of solitude and introspection in his Walden experience."
-  - id: "oak-leaves-into-my-tracks"
-    trigger: "oak leaves into my tracks"
-    title: "Oak Leaves and Snow"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Oak"
+    content: "Thoreau notes the eerie silence of the owls during snowstorms, a rare absence in the otherwise lively woods. Owls are nocturnal predators, their haunting calls often echoing through forests at night. However, during heavy snow, their activity diminishes as hunting becomes more challenging and energy conservation critical. This silence underscores the profound impact of winter on all living things, a theme Thoreau explores throughout 'Walden.' The muted hoots remind readers of nature’s adaptability and the delicate balance of survival in harsh conditions, mirroring Thoreau’s own efforts to thrive in solitude."
+  - id: "bristers-hill"
+    trigger: "Brister’s Hill"
+    title: "The Legacy of Brister Freeman’s Apple Trees"
+    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_slavery_in_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "Oak leaves, with their ability to absorb sunlight, play a practical role in Thoreau's winter walks by melting snow in his tracks. This detail highlights his keen observation of nature's small but impactful processes."
+    content: "Thoreau recalls Brister Freeman, a freed slave who lived on Brister’s Hill and planted apple trees that still bear fruit, albeit wild and ciderish. Freeman’s story is emblematic of the resilience and contributions of African Americans in early New England. Planting apple trees was both a practical and symbolic act, creating sustenance and leaving a mark on the land. Thoreau’s mention of these trees connects the past to the present, showing how even the simplest acts—like planting—carry forward the stories of those who came before. The wildness of the fruit mirrors the untamed spirit of Freeman’s life in Walden Woods."
   - id: "cato-ingraham"
     trigger: "Cato Ingraham"
-    title: "Cato Ingraham's Legacy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Slavery_in_the_United_States"
+    title: "The Forgotten Life of Cato Ingraham, Concord’s Slave"
+    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_slavery_in_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "Cato Ingraham was a former slave who lived in Walden Woods. His story reflects the complex history of slavery and freedom in early America, as well as the struggles faced by freedmen in establishing their lives."
-  - id: "war-of-1812"
-    trigger: "war of 1812"
-    title: "Impact of the War of 1812"
-    wikipedia_url: "https://en.wikipedia.org/wiki/War_of_1812"
-    image_url: ""
-    image_caption: ""
-    content: "The War of 1812 was a conflict between the United States and Britain that had widespread effects on American society. Thoreau mentions it in the context of Zilpha's house being burned, illustrating the war's reach into civilian lives."
-  - id: "british-grenadiers"
-    trigger: "British grenadiers"
-    title: "British Grenadiers in Concord"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Concord"
-    image_url: ""
-    image_caption: ""
-    content: "The British grenadiers were elite soldiers who fought in the Revolutionary War, including the Battle of Concord. Thoreau's reference connects the history of Walden Woods to the broader narrative of American independence."
+    content: "Thoreau recounts the life of Cato Ingraham, a slave who lived in Walden Woods under the permission of his master, Duncan Ingraham. Cato’s story sheds light on the complex history of slavery in Massachusetts, where enslaved individuals sometimes lived semi-independently but remained under the shadow of ownership. His walnut patch, intended for old age, was taken by a speculator, symbolizing the precariousness of his autonomy. Thoreau’s reflection on Cato’s life highlights the tension between freedom and exploitation, reminding readers of the human stories often buried beneath historical landscapes."
   - id: "new-england-rum"
     trigger: "New-England Rum"
-    title: "Rum in Colonial New England"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rum"
+    title: "The Demon Drink That Haunted New England"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alcohol_in_the_United_States"
     image_url: ""
     image_caption: ""
-    content: "Rum was a significant commodity in colonial New England, often associated with trade and social gatherings. Thoreau critiques its darker legacy, linking it to tragedies and moral decline in the region."
-  - id: "the-codman-place"
-    trigger: "the Codman place"
-    title: "Codman Estate History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Codman_House"
+    content: "Thoreau refers to 'New-England Rum' as a demon responsible for tragedies in the region, including the downfall of families. Rum was a staple of colonial America, deeply tied to the economy and the infamous triangular trade. It was both a social lubricant and a destructive force, leading to alcoholism and domestic ruin. Thoreau’s critique of rum reflects his disdain for excess and moral decay, aligning with his broader philosophy of simplicity and self-reliance. By personifying rum as a demon, he underscores its pervasive and insidious impact on New England communities."
+  - id: "breed-s-hut"
+    trigger: "Breed’s hut"
+    title: "The Election Night Fire That Consumed Breed’s Hut"
+    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_New_England"
     image_url: ""
     image_caption: ""
-    content: "The Codman estate in Lincoln, Massachusetts, is a historic site. Thoreau's mention of it during a fire incident ties his narrative to local landmarks and their evolving stories."
+    content: "Thoreau recounts the destruction of Breed’s hut, set ablaze by mischievous boys on Election night. This small dwelling, similar in size to Thoreau’s own, was a relic of humble living in Walden Woods. Its fiery end symbolizes the fragility of human settlements and the careless destruction wrought by the young and reckless. Thoreau’s detailed account of the fire and its aftermath reflects his fascination with the impermanence of human endeavors and the resilience of nature, which ultimately reclaims the land. The story of Breed’s hut serves as a poignant reminder of the fleeting nature of human legacy."
   - id: "frog-pond"
     trigger: "frog-pond"
-    title: "Frog Ponds in Literature"
+    title: "Could a Frog-Pond Have Saved the Fire?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pond"
     image_url: ""
     image_caption: ""
-    content: "Frog ponds are small bodies of water often associated with rural landscapes. Thoreau's humorous suggestion to use a frog-pond to extinguish a fire reflects his playful engagement with nature."
+    content: "During the fire at Breed’s hut, Thoreau and others consider using a frog-pond to extinguish the flames but ultimately let the structure burn. Frog-ponds, small and often overlooked, are vital ecosystems supporting amphibians and other wildlife. Their mention here highlights the tension between human intervention and nature’s processes. Thoreau’s decision to let the fire burn reflects his philosophy of non-interference and acceptance of natural outcomes. The frog-pond becomes a metaphor for the small, unnoticed elements of nature that sustain life, even as human structures fall to ruin."
   - id: "roman-wormwood"
     trigger: "Roman wormwood"
-    title: "Roman Wormwood Plant"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Artemisia"
+    title: "Why Roman Wormwood Thrives on Abandoned Land"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ambrosia_artemisiifolia"
     image_url: ""
     image_caption: ""
-    content: "Roman wormwood, a type of Artemisia, is known for its medicinal properties and resilience. Thoreau's observation of it in Hugh Quoil's neglected garden highlights nature's persistence amid human decline."
-  - id: "skin-of-a-woodchuck"
-    trigger: "skin of a woodchuck"
-    title: "Woodchuck in New England"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
+    content: "Thoreau observes Roman wormwood growing over the neglected garden of Hugh Quoil, a tragic figure in Walden Woods. This plant, also known as ragweed, is a hardy species that thrives in disturbed soil, often marking abandoned or forgotten spaces. Its presence here symbolizes the resilience of nature, reclaiming human settlements with relentless growth. For Thoreau, Roman wormwood is more than a weed; it is a testament to nature’s ability to endure and adapt, even in the face of human neglect and tragedy. Its stubborn vitality mirrors the themes of survival and renewal woven throughout 'Walden.'"
+  - id: "beggar-ticks"
+    trigger: "beggar-ticks"
+    title: "The Sticky Seeds That Cling to Wanderers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bidens"
     image_url: ""
     image_caption: ""
-    content: "The woodchuck, or groundhog, is a common mammal in New England. Thoreau's mention of its skin as a trophy reflects the survivalist practices of rural inhabitants."
-  - id: "pitch-pine"
-    trigger: "pitch-pine"
-    title: "Pitch Pine Trees"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pitch_pine"
+    content: "Thoreau mentions beggar-ticks, plants whose seeds stick to clothing, as he explores the overgrown garden of Hugh Quoil. These seeds are a marvel of evolutionary design, ensuring dispersal by hitching rides on passing animals and humans. Their persistence mirrors the tenacity of life in Walden Woods, reclaiming spaces abandoned by human hands. Thoreau’s encounter with beggar-ticks highlights his keen observation of nature’s small details, reminding readers that even the most humble plants play a vital role in the ecosystem. Their clinging seeds symbolize the interconnectedness of all life, a theme central to Thoreau’s philosophy."
+  - id: "bristers-spring"
+    trigger: "Brister’s Spring"
+    title: "The Forgotten Waters of Brister’s Spring"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spring_(hydrology)"
     image_url: ""
     image_caption: ""
-    content: "Pitch pine is a hardy tree species native to North America. Thoreau's reference to it occupying former homestead sites symbolizes nature reclaiming abandoned human spaces."
+    content: "Thoreau mentions Brister’s Spring, a natural water source near Walden Pond, as part of the legacy of Brister Freeman. Springs like this were vital to early settlers, providing clean water in an era before modern plumbing. Brister’s Spring, however, remains largely uncelebrated, overshadowed by the stories of its human neighbors. For Thoreau, the spring represents the enduring purity of nature amidst the impermanence of human settlements. Its quiet presence contrasts with the dramatic histories of those who lived nearby, reminding readers of nature’s steadfastness in the face of human change."
   - id: "vivacious-lilac"
     trigger: "vivacious lilac"
-    title: "Lilac's Symbolism"
+    title: "How Lilacs Outlive Generations of Settlers"
     wikipedia_url: "https://en.wikipedia.org/wiki/Lilac"
     image_url: ""
     image_caption: ""
-    content: "Lilacs are often associated with renewal and memory. Thoreau's description of the lilac surviving generations underscores its role as a living testament to past lives and homes."
+    content: "Thoreau marvels at the 'vivacious lilac,' a plant that continues to thrive long after the homes it once adorned have vanished. Lilacs are hardy shrubs, often planted by settlers for their fragrant blooms and resilience. Their survival on abandoned homesteads speaks to the enduring connection between humans and nature. For Thoreau, the lilac is a poignant symbol of memory and continuity, outliving the people who nurtured it and silently telling their stories to future wanderers. Its cheerful blooms amidst ruins reflect Thoreau’s belief in nature’s ability to preserve beauty and meaning even as human life fades away."
+  - id: "the-snow-lay-deepest"
+    trigger: "the snow lay deepest"
+    title: "Surviving the Deepest Snows of Winter"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Snow"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the isolation of his cabin during the deepest snows, likening his snug existence to that of a meadow mouse. Heavy snowfalls have historically challenged settlers, cutting them off from towns and forcing resourcefulness. Thoreau’s ability to thrive in such conditions exemplifies his philosophy of self-reliance and harmony with nature. The snow, while a barrier, also becomes a canvas for his observations and reflections. Its depth and silence amplify the solitude he sought at Walden, transforming hardship into an opportunity for introspection and connection with the natural world."
   - id: "sutton-in-this-state"
     trigger: "Sutton, in this state"
-    title: "Sutton's Great Snow of 1717"
+    title: "The Great Snow of 1717 That Buried Sutton"
     wikipedia_url: "https://en.wikipedia.org/wiki/1717_New_England_snowstorm"
     image_url: ""
     image_caption: ""
-    content: "The Great Snow of 1717 was a historic blizzard that deeply impacted New England. Thoreau's mention of Sutton highlights the resilience of early settlers during extreme weather events."
-  - id: "yellow-birch"
-    trigger: "yellow-birch"
-    title: "Yellow Birch Tree"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Betula_alleghaniensis"
-    image_url: ""
-    image_caption: ""
-    content: "The yellow birch is a native tree species valued for its beauty and utility. Thoreau's appointment with a yellow birch reflects his deep connection to individual elements of nature."
+    content: "Thoreau recalls the legendary Great Snow of 1717, which buried a settler’s cottage in Sutton, Massachusetts, leaving only the chimney’s breath visible. This historic storm was one of the most severe in New England’s history, reshaping landscapes and testing the resilience of early settlers. The story of the Indian finding the buried family highlights the interconnectedness of human survival and community. For Thoreau, such tales are not merely historical anecdotes but reflections of the enduring struggle between humans and nature. They remind readers of the ingenuity and perseverance required to live in harmony with the wilderness."
   - id: "barred-owl-strix-nebulosa"
-    trigger: "barred owl (_Strix nebulosa_)"
-    title: "Barred Owl's Behavior"
+    trigger: "barred owl (Strix nebulosa)"
+    title: "The Silent Flight of the Barred Owl"
     wikipedia_url: "https://en.wikipedia.org/wiki/Barred_owl"
     image_url: ""
     image_caption: ""
-    content: "The barred owl is known for its distinctive call and nocturnal habits. Thoreau's detailed observation of the owl showcases his attentiveness to wildlife and its role in his philosophical musings."
+    content: "Thoreau observes a barred owl in broad daylight, noting its silent flight and dreamlike demeanor. The barred owl, known for its haunting calls and nocturnal habits, is a master of stealth, its feathers adapted to muffle sound during flight. Thoreau’s encounter reveals his deep appreciation for the owl’s mysterious presence, likening it to a 'winged brother of the cat.' This moment underscores his belief in the interconnectedness of all living beings and the beauty of observing nature’s creatures in their element. The owl’s quiet grace mirrors the tranquility Thoreau sought at Walden Pond."
   - id: "skunk-cabbage"
     trigger: "skunk-cabbage"
-    title: "Skunk Cabbage Plant"
+    title: "The Perennial Resilience of Skunk-Cabbage"
     wikipedia_url: "https://en.wikipedia.org/wiki/Symplocarpus_foetidus"
     image_url: ""
     image_caption: ""
-    content: "Skunk cabbage is a hardy wetland plant that emerges early in spring. Thoreau's mention of it in mid-winter highlights its resilience and the subtle signs of life even in harsh conditions."
-  - id: "connecticut"
-    trigger: "Connecticut"
-    title: "Connecticut's Philosophical Legacy"
+    content: "Thoreau finds skunk-cabbage thriving even in mid-winter swamps, a testament to its hardiness. This plant, known for its pungent odor and early bloom, generates heat to melt surrounding snow, allowing it to emerge before other vegetation. Its resilience in harsh conditions mirrors Thoreau’s own determination to embrace solitude and simplicity. The skunk-cabbage becomes a symbol of renewal and adaptation, thriving against the odds and reminding readers of nature’s ability to flourish in unexpected ways. For Thoreau, such discoveries affirm the wonder and vitality of the natural world, even in the depths of winter."
+  - id: "connecticut-gave-him-to-the-world"
+    trigger: "Connecticut gave him to the world"
+    title: "The Philosopher from Connecticut Who Peddled Ideas"
     wikipedia_url: "https://en.wikipedia.org/wiki/Connecticut"
     image_url: ""
     image_caption: ""
-    content: "Connecticut has a rich history of intellectual and cultural contributions. Thoreau's reference to a philosopher from Connecticut underscores the state's role in shaping American thought."
-  - id: "mother-o-pearl-flocks"
-    trigger: "mother-o’-pearl flocks"
-    title: "Mother-of-Pearl Clouds"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Polar_stratospheric_cloud"
-    image_url: ""
-    image_caption: ""
-    content: "Mother-of-pearl clouds, or polar stratospheric clouds, are rare and beautiful phenomena. Thoreau's poetic imagery evokes their delicate appearance and his appreciation for natural wonders."
-  - id: "new-england-nights-entertainment"
+    content: "Thoreau describes a philosopher from Connecticut who visited him during winter evenings, sharing profound ideas. Connecticut, known for its intellectual contributions, has produced many notable thinkers who shaped American culture and philosophy. This visitor embodies the spirit of New England transcendentalism, valuing ideas over material wealth. Thoreau’s admiration for this man reflects his belief in the power of thought to transcend time and place. Their conversations, filled with wit and insight, highlight the importance of intellectual companionship and the exchange of ideas in shaping a meaningful life."
+  - id: "new-england-night-s-entertainment"
     trigger: "New England Night’s Entertainment"
-    title: "New England's Social Gatherings"
+    title: "What Made a New England Night Entertaining?"
     wikipedia_url: "https://en.wikipedia.org/wiki/New_England"
     image_url: ""
     image_caption: ""
-    content: "Social gatherings in New England often involved storytelling and philosophical discussions. Thoreau's reference to a 'Night's Entertainment' reflects the intellectual and communal spirit of the region."
+    content: "Thoreau refers to his conversations with visitors as a 'New England Night’s Entertainment,' blending philosophy, humor, and camaraderie. In the 19th century, entertainment often revolved around storytelling, debates, and shared meals. Thoreau’s evenings were filled with intellectual discourse, reflecting the region’s tradition of valuing thought and community. These gatherings, though modest, were rich in ideas and connection, contrasting with the isolation of his daily life. For Thoreau, such nights were not merely social events but opportunities to explore the depths of human experience and the beauty of shared understanding."
   - id: "vishnu-purana"
     trigger: "Vishnu Purana"
-    title: "Vishnu Purana's Teachings"
+    title: "What the Vishnu Purana Says About Hospitality"
     wikipedia_url: "https://en.wikipedia.org/wiki/Vishnu_Purana"
     image_url: ""
     image_caption: ""
-    content: "The Vishnu Purana is a Hindu scripture that explores cosmology, mythology, and ethics. Thoreau's mention of it highlights his engagement with global philosophies and his appreciation for universal wisdom."
+    content: "Thoreau quotes the Vishnu Purana, which advises householders to wait for guests at eventide. This ancient Hindu text emphasizes the importance of hospitality, viewing it as a sacred duty. Thoreau’s reference connects his solitary life at Walden to universal values of kindness and openness. By waiting for the 'Visitor who never comes,' he aligns his practice with the spiritual traditions of welcoming others, even in solitude. This moment reveals Thoreau’s deep respect for diverse cultures and philosophies, enriching his own transcendentalist perspective with global wisdom."
 ---
 I weathered some **merry snow storms**, and spent some cheerful winter
 evenings by my fire-side, while the snow whirled wildly without, and
@@ -183,7 +162,7 @@ even the **hooting of the owl** was hushed. For many weeks I met no one in
 my walks but those who came occasionally to cut wood and sled it to the
 village. The elements, however, abetted me in making a path through the
 deepest snow in the woods, for when I had once gone through the wind
-blew the **oak leaves into my tracks**, where they lodged, and by absorbing
+blew the oak leaves into my tracks, where they lodged, and by absorbing
 the rays of the sun melted the snow, and so not only made a dry bed for
 my feet, but in the night their dark line was my guide. For human
 society I was obliged to conjure up the former occupants of these
@@ -201,7 +180,7 @@ lingered longer in his memory. Where now firm open fields stretch from
 the village to the woods, it then ran through a maple swamp on a
 foundation of logs, the remnants of which, doubtless, still underlie
 the present dusty highway, from the Stratton, now the Alms House, Farm,
-to Brister’s Hill.
+to **Brister’s Hill**.
 
 East of my bean-field, across the road, lived **Cato Ingraham**, slave of
 Duncan Ingraham, Esquire, gentleman, of Concord village, who built his
@@ -219,7 +198,7 @@ stricta_) grows there luxuriantly.
 Here, by the very corner of my field, still nearer to town, Zilpha, a
 colored woman, had her little house, where she spun linen for the
 townsfolk, making the Walden Woods ring with her shrill singing, for
-she had a loud and notable voice. At length, in the **war of 1812**, her
+she had a loud and notable voice. At length, in the war of 1812, her
 dwelling was set on fire by English soldiers, prisoners on parole, when
 she was away, and her cat and dog and hens were all burned up together.
 She led a hard life, and somewhat inhumane. One old frequenter of these
@@ -232,7 +211,7 @@ Freeman, “a handy Negro,” slave of Squire Cummings once,—there where
 grow still the apple-trees which Brister planted and tended; large old
 trees now, but their fruit still wild and ciderish to my taste. Not
 long since I read his epitaph in the old Lincoln burying-ground, a
-little on one side, near the unmarked graves of some **British grenadiers**
+little on one side, near the unmarked graves of some British grenadiers
 who fell in the retreat from Concord,—where he is styled “Sippio
 Brister,”—Scipio Africanus he had some title to be called,—“a man of
 color,” as if he were discolored. It also told me, with staring
@@ -262,7 +241,7 @@ well the same, which tempered the traveller’s beverage and refreshed
 his steed. Here then men saluted one another, and heard and told the
 news, and went their ways again.
 
-Breed’s hut was standing only a dozen years ago, though it had long
+**Breed’s hut** was standing only a dozen years ago, though it had long
 been unoccupied. It was about the size of mine. It was set on fire by
 mischievous boys, one Election night, if I do not mistake. I lived on
 the edge of the village then, and had just lost myself over Davenant’s
@@ -277,7 +256,7 @@ in hot haste the engines rolled that way, led by a straggling troop of
 men and boys, and I among the foremost, for I had leaped the brook. We
 thought it was far south over the woods,—we who had run to fires
 before,—barn, shop, or dwelling-house, or all together. “It’s Baker’s
-barn,” cried one. “It is **the Codman place**,” affirmed another. And then
+barn,” cried one. “It is the Codman place,” affirmed another. And then
 fresh sparks went up above the wood, as if the roof fell in, and we all
 shouted “Concord to the rescue!” Wagons shot past with furious speed
 and crushing loads, bearing, perchance, among the rest, the agent of
@@ -332,7 +311,7 @@ nearest to the pond, **Wyman the potter** squatted, and furnished his
 townsmen with earthen ware, and left descendants to succeed him.
 Neither were they rich in worldly goods, holding the land by sufferance
 while they lived; and there often the sheriff came in vain to collect
-the taxes, and “**attached a chip**,” for form’s sake, as I have read in
+the taxes, and “attached a chip,” for form’s sake, as I have read in
 his accounts, there being nothing else that he could lay his hands on.
 One day in midsummer, when I was hoeing, a man who was carrying a load
 of pottery to market stopped his horse against my field and inquired
@@ -367,15 +346,15 @@ silent, not even croaking, awaiting Reynard, still went to roost in the
 next apartment. In the rear there was the dim outline of a garden,
 which had been planted but had never received its first hoeing, owing
 to those terrible shaking fits, though it was now harvest time. It was
-over-run with **Roman wormwood** and beggar-ticks, which last stuck to my
-clothes for all fruit. The **skin of a woodchuck** was freshly stretched
+over-run with **Roman wormwood** and **beggar-ticks**, which last stuck to my
+clothes for all fruit. The skin of a woodchuck was freshly stretched
 upon the back of the house, a trophy of his last Waterloo; but no warm
 cap or mittens would he want more.
 
 Now only a dent in the earth marks the site of these dwellings, with
 buried cellar stones, and strawberries, raspberries, thimble-berries,
 hazel-bushes, and sumachs growing in the sunny sward there; some
-**pitch-pine** or gnarled oak occupies what was the chimney nook, and a
+pitch-pine or gnarled oak occupies what was the chimney nook, and a
 sweet-scented black-birch, perhaps, waves where the door-stone was.
 Sometimes the well dent is visible, where once a spring oozed; now dry
 and tearless grass; or it was covered deep,—not to be discovered till
@@ -427,7 +406,7 @@ myself asleep.
 
 
 
-At this season I seldom had a visitor. When the snow lay deepest no
+At this season I seldom had a visitor. When **the snow lay deepest** no
 wanderer ventured near my house for a week or fortnight at a time, but
 there I lived as snug as a meadow mouse, or as cattle and poultry which
 are said to have survived for a long time buried in drifts, even
@@ -453,14 +432,14 @@ the winter reduces us,—yet often they were filled with heaven’s own
 blue. But no weather interfered fatally with my walks, or rather my
 going abroad, for I frequently tramped eight or ten miles through the
 deepest snow to keep an appointment with a beech-tree, or a
-**yellow-birch**, or an old acquaintance among the pines; when the ice and
+yellow-birch, or an old acquaintance among the pines; when the ice and
 snow causing their limbs to droop, and so sharpening their tops, had
 changed the pines into fir-trees; wading to the tops of the highest
 hills when the snow was nearly two feet deep on a level, and shaking
 down another snow-storm on my head at every step; or sometimes creeping
 and floundering thither on my hands and knees, when the hunters had
 gone into winter quarters. One afternoon I amused myself by watching a
-**barred owl (_Strix nebulosa_)** sitting on one of the lower dead limbs of
+**barred owl** (_**Strix nebulosa**_) sitting on one of the lower dead limbs of
 a white-pine, close to the trunk, in broad daylight, I standing within
 a rod of him. He could hear me when I moved and cronched the snow with
 my feet, but could not plainly see me. When I made most noise he would
@@ -531,7 +510,7 @@ I should not forget that during my last winter at the pond there was
 another welcome visitor, who at one time came through the village,
 through snow and rain and darkness, till he saw my lamp through the
 trees, and shared with me some long winter evenings. One of the last of
-the philosophers,—**Connecticut** gave him to the world,—he peddled first
+the philosophers,—**Connecticut gave him to the world**,—he peddled first
 her wares, afterwards, as he declares, his brains. These he peddles
 still, prompting God and disgracing man, bearing for fruit his brain
 only, like the nut its kernel. I think that he must be the man of the
@@ -570,7 +549,7 @@ pumpkin pine. We waded so gently and reverently, or we pulled together
 so smoothly, that the fishes of thought were not scared from the
 stream, nor feared any angler on the bank, but came and went grandly,
 like the clouds which float through the western sky, and the
-**mother-o’-pearl flocks** which sometimes form and dissolve there. There
+mother-o’-pearl flocks which sometimes form and dissolve there. There
 we worked, revising mythology, rounding a fable here and there, and
 building castles in the air for which earth offered no worthy
 foundation. Great Looker! Great Expecter! to converse with whom was a

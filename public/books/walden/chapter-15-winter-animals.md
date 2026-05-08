@@ -9,236 +9,170 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau describes the frozen ponds offering new perspectives and routes, likening Flint's Pond to Baffin's Bay."
+  - point: "Thoreau describes the frozen ponds as offering new routes and perspectives on the landscape."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "He compares Flint’s Pond to Baffin’s Bay, emphasizing its unexpected vastness and strangeness."
     link: "https://en.wikipedia.org/wiki/Baffin_Bay"
     link_label: "Baffin's Bay"
-  - point: "He observes winter wildlife, including muskrats, squirrels, and birds, and reflects on their behaviors and interactions."
+  - point: "Thoreau observes the behavior of various animals, including muskrats, squirrels, chickadees, and foxes, during the winter."
     link: "https://en.wikipedia.org/wiki/Muskrat"
     link_label: "Muskrat"
-  - point: "Thoreau recounts hearing various winter sounds, such as owls, geese, and cracking ice, which evoke the wilderness's vitality."
-    link: "https://en.wikipedia.org/wiki/Owl"
-    link_label: "Owl"
-  - point: "He narrates encounters with foxes and hounds, pondering the instinctive and civilized behaviors of animals."
-    link: "https://en.wikipedia.org/wiki/Fox"
-    link_label: "Fox"
-  - point: "Thoreau reflects on the resilience of rabbits and partridges, symbolizing the enduring spirit of nature."
-    link: "https://en.wikipedia.org/wiki/Partridge"
-    link_label: "Partridge"
-  - point: "He shares anecdotes about hunters and their traditions, including the historical significance of hunting in the region."
-    link: "https://en.wikipedia.org/wiki/Hunting"
-    link_label: "Hunting"
+  - point: "He recounts hunting stories, including tales of foxes, hounds, and legendary hunters like Sam Nutting."
+    link: "https://en.wikipedia.org/wiki/Fox_hunting"
+    link_label: "Fox hunting"
+  - point: "Thoreau reflects on the resilience and indigenous nature of rabbits and partridges, considering them symbols of the natural world."
+    link: "https://en.wikipedia.org/wiki/Ruffed_grouse"
+    link_label: "Ruffed grouse"
 
 enhancements:
-  - id: "flints-pond"
+  - id: "flints-pond-hidden-vastness-in-a-familiar-place"
     trigger: "Flint’s Pond"
-    title: "Flint’s Pond in Concord"
+    title: "Hidden Vastness in a Familiar Place"
     wikipedia_url: "https://en.wikipedia.org/wiki/Flint%27s_Pond"
     image_url: ""
     image_caption: ""
-    content: "Flint’s Pond, located in Lincoln, Massachusetts, is often associated with Walden Pond due to its proximity and similar natural beauty. Thoreau frequently explored the area, using it as a source of inspiration for his reflections on nature and solitude. The pond represents the interconnectedness of local landscapes and the broader themes of exploration and discovery in 'Walden.'"
-  - id: "baffins-bay"
+    content: "Thoreau often paddled and skated on Flint’s Pond, yet when he crossed it covered with snow, its width and strangeness reminded him of Baffin’s Bay. Flint’s Pond, located in Lincoln, Massachusetts, is smaller than Walden Pond but holds its own charm. Historically, it was named after the Flint family, early settlers in the area. This moment underscores Thoreau’s belief that familiarity can obscure the true scale and mystery of nature. By likening the pond to Baffin’s Bay, a vast Arctic sea, he invites readers to reconsider the landscapes they take for granted, suggesting that wonder can be found even in the most ordinary places."
+  - id: "baffins-bay-what-thoreau-saw-in-the-arctic"
     trigger: "Baffin’s Bay"
-    title: "Baffin’s Bay Arctic Waters"
+    title: "What Thoreau Saw in the Arctic"
     wikipedia_url: "https://en.wikipedia.org/wiki/Baffin_Bay"
     image_url: ""
     image_caption: ""
-    content: "Baffin’s Bay is a body of water between Greenland and Canada, known for its icy conditions and Arctic wildlife. Thoreau’s comparison of Flint’s Pond to Baffin’s Bay highlights his imaginative perspective and ability to see the extraordinary in the ordinary, connecting local experiences to distant, exotic places."
-  - id: "lincoln-hills"
+    content: "Crossing Flint’s Pond in winter, Thoreau compares its snowy expanse to Baffin’s Bay, a remote Arctic sea. Baffin’s Bay, named after 17th-century explorer William Baffin, has long been a symbol of isolation and uncharted territory. Its icy waters are home to narwhals and polar bears, and it was a critical route for explorers seeking the Northwest Passage. Thoreau’s comparison is striking: he transforms a local pond into a metaphor for the sublime and the unknown. This reflects his philosophy that every corner of nature, no matter how small, contains the same grandeur as the world’s most distant wildernesses."
+  - id: "lincoln-hills-the-snowy-extremity-of-thoreaus-world"
     trigger: "Lincoln hills"
-    title: "Lincoln Hills Geography"
+    title: "The Snowy Extremity of Thoreau’s World"
     wikipedia_url: "https://en.wikipedia.org/wiki/Lincoln,_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "The Lincoln Hills are part of the landscape surrounding Concord, Massachusetts, and are emblematic of the natural beauty that Thoreau cherished. These hills provide a backdrop for his explorations and reflections, emphasizing the importance of local geography in shaping his philosophical insights."
-  - id: "wolfish-dogs"
+    content: "Thoreau describes the Lincoln hills rising around him as he crosses Flint’s Pond, transforming the snowy landscape into a new and unfamiliar world. Lincoln, Massachusetts, known for its rural charm, was a neighboring town to Concord and a frequent destination for Thoreau’s walks and lectures. The hills, blanketed in snow, become a metaphor for the transformative power of winter, which turns the familiar into the extraordinary. This moment exemplifies Thoreau’s ability to find wonder in the ordinary, suggesting that nature’s beauty is not bound by geography but by perception."
+  - id: "wolfish-dogs-sealers-or-esquimaux-on-the-ice"
     trigger: "wolfish dogs"
-    title: "Wolfish Dogs in Winter"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dog"
+    title: "Sealers or Esquimaux on the Ice?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sled_dog"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s description of 'wolfish dogs' evokes the primal and untamed nature of animals in the wilderness. These dogs, likely used by fishermen or hunters, symbolize the connection between humans and the wild, as well as the survival instincts shared across species."
-  - id: "esquimaux"
-    trigger: "Esquimaux"
-    title: "Esquimaux Indigenous Peoples"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Inuit"
-    image_url: ""
-    image_caption: ""
-    content: "The term 'Esquimaux' is an outdated reference to the Inuit people, indigenous to Arctic regions. Thoreau’s use of the term reflects the cultural perceptions of his time, and his comparison of fishermen to Esquimaux highlights the harsh, survivalist conditions of winter life."
-  - id: "fair-haven"
+    content: "Thoreau observes fishermen with their wolfish dogs moving across the ice, imagining them as sealers or Esquimaux. Sled dogs, often associated with Arctic cultures, have been used for centuries in harsh climates for transportation and hunting. Thoreau’s vision transforms these local fishermen into figures of Arctic exploration, blending reality with imagination. This moment highlights his tendency to see the extraordinary in the mundane, suggesting that the frozen landscape of Concord could evoke the distant and exotic worlds of polar expeditions."
+  - id: "fair-haven-a-goose-honks-in-the-night"
     trigger: "Fair Haven"
-    title: "Fair Haven Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven,_Massachusetts"
+    title: "A Goose Honks in the Night"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven_Bay"
     image_url: ""
     image_caption: ""
-    content: "Fair Haven Pond is another natural feature near Concord, Massachusetts, that Thoreau frequently visited. Its serene environment provided a setting for his observations of wildlife and reflections on the interconnectedness of nature."
-  - id: "cat-owl"
-    trigger: "cat-owl"
-    title: "Cat-Owl Species"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Barred_owl"
-    image_url: ""
-    image_caption: ""
-    content: "The 'cat-owl' likely refers to the barred owl, known for its distinctive hooting call. Thoreau’s encounter with this bird underscores the rich biodiversity of the Walden woods and his deep appreciation for the sounds and sights of wildlife."
-  - id: "hudsons-bay"
-    trigger: "Hudson’s Bay"
-    title: "Hudson’s Bay Trading History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hudson%27s_Bay"
-    image_url: ""
-    image_caption: ""
-    content: "Hudson’s Bay, a large body of water in Canada, is historically significant for its role in the fur trade. Thoreau’s mention of Hudson’s Bay connects the local wildlife to broader historical and economic contexts, emphasizing the global interconnectedness of nature and commerce."
-  - id: "concord-horizon"
-    trigger: "Concord horizon"
-    title: "Concord Horizon Landscape"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
-    image_url: ""
-    image_caption: ""
-    content: "The 'Concord horizon' refers to the expansive view of the natural landscape surrounding Concord, Massachusetts. Thoreau’s reference highlights his intimate connection to the area and its role in shaping his philosophical and literary works."
-  - id: "whooping-of-the-ice"
-    trigger: "whooping of the ice"
-    title: "Whooping Ice Phenomenon"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice"
-    image_url: ""
-    image_caption: ""
-    content: "The 'whooping of the ice' describes the sounds made by expanding and contracting ice on frozen ponds. This natural phenomenon reflects the dynamic and ever-changing aspects of winter landscapes, which Thoreau keenly observed and appreciated."
-  - id: "sciurus-hudsonius"
-    trigger: "Sciurus Hudsonius"
-    title: "Red Squirrel Species"
+    content: "Thoreau recounts the startling honking of geese flying over his house toward Fair Haven. Fairhaven Bay, a quiet inlet of the Sudbury River near Concord, was a frequent site of Thoreau’s explorations. The geese’s flight, seemingly deterred by his light, becomes a moment of connection between the natural and human worlds. Thoreau’s attention to their commodore’s honking rhythm reflects his fascination with nature’s patterns and communication. This episode illustrates his belief in the interconnectedness of all life, where even a goose’s flight carries meaning and mystery."
+  - id: "red-squirrel-the-impudent-acrobat-of-walden"
+    trigger: "red squirrel"
+    title: "The Impudent Acrobat of Walden"
     wikipedia_url: "https://en.wikipedia.org/wiki/American_red_squirrel"
     image_url: ""
     image_caption: ""
-    content: "Sciurus Hudsonius, or the American red squirrel, is a small, energetic rodent native to North America. Thoreau’s observations of their behaviors highlight the intricate and entertaining dynamics of wildlife in the Walden woods."
-  - id: "sweet-corn"
+    content: "Thoreau describes the antics of the red squirrel, which entertained him with its zig-zag course and whimsical maneuvers. The American red squirrel, known for its agility and boldness, is a common sight in New England forests. Thoreau’s detailed observations capture the squirrel’s personality—playful yet industrious, frivolous yet determined. This vivid portrayal reflects his ability to find drama and humor in the smallest creatures, suggesting that even the most ordinary lives are filled with complexity and purpose."
+  - id: "sweet-corn-a-winter-feast-for-wildlife"
     trigger: "sweet-corn"
-    title: "Sweet Corn Agriculture"
+    title: "A Winter Feast for Wildlife"
     wikipedia_url: "https://en.wikipedia.org/wiki/Sweet_corn"
     image_url: ""
     image_caption: ""
-    content: "Sweet corn is a variety of maize cultivated for its sweet kernels. Thoreau’s use of sweet corn to feed wildlife reflects his harmonious relationship with nature and his efforts to coexist with the animals around him."
-  - id: "pitch-pine"
-    trigger: "pitch-pine"
-    title: "Pitch Pine Tree"
+    content: "Thoreau throws half a bushel of ears of sweet-corn onto the snow, attracting squirrels, rabbits, and birds. Sweet corn, a staple of American agriculture, becomes a lifeline for wildlife during the harsh winter months. Thoreau’s act of sharing his surplus reflects his philosophy of coexistence and mutual support between humans and nature. Watching the animals’ varied approaches to the corn, he finds entertainment and insight, illustrating his belief that even simple acts can create profound connections."
+  - id: "pitch-pine-bough-a-thief-choking-on-a-kernel"
+    trigger: "pitch-pine bough"
+    title: "A Thief Choking on a Kernel"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pitch_pine"
     image_url: ""
     image_caption: ""
-    content: "The pitch pine is a resilient tree native to eastern North America. Thoreau’s observations of squirrels climbing pitch pines highlight the tree’s ecological importance and its role in supporting local wildlife."
-  - id: "chickadees"
+    content: "Thoreau observes jays attempting to swallow kernels on a pitch-pine bough, often choking and laboring to crack them. The pitch pine, native to eastern North America, is a hardy tree that thrives in poor soil. Its boughs become a stage for the jays’ clumsy efforts, turning survival into a comedic drama. Thoreau’s disdain for the jays as thieves contrasts with his admiration for the squirrels, revealing his nuanced view of nature’s morality and the struggle for resources."
+  - id: "chickadees-the-little-hammerers-of-walden"
     trigger: "chickadees"
-    title: "Chickadees Small Birds"
+    title: "The Little Hammerers of Walden"
     wikipedia_url: "https://en.wikipedia.org/wiki/Chickadee"
     image_url: ""
     image_caption: ""
-    content: "Chickadees are small, social birds known for their distinctive calls and adaptability. Thoreau’s interactions with chickadees illustrate his close observations of bird behavior and his appreciation for their presence in the Walden woods."
-  - id: "tit-mice"
+    content: "Thoreau watches chickadees pick up crumbs and hammer them on twigs to make them manageable. Chickadees, small songbirds known for their cheerful calls, are a symbol of resilience in winter. Their industrious behavior, hammering crumbs like insects in bark, reflects their adaptability and resourcefulness. Thoreau’s delight in their actions embodies his philosophy of finding joy and meaning in nature’s smallest details, suggesting that even the tiniest lives are worthy of attention and respect."
+  - id: "tit-mice-spring-songs-in-winter-woods"
     trigger: "tit-mice"
-    title: "Titmice Bird Species"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Titmice"
+    title: "Spring Songs in Winter Woods"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Titmouse"
     image_url: ""
     image_caption: ""
-    content: "Titmice are small songbirds found in North America. Thoreau’s descriptions of their feeding habits and calls reflect his detailed study of avian life and his ability to find beauty in their everyday actions."
-  - id: "diet-drink"
-    trigger: "diet-drink"
-    title: "Diet Drink Historical Term"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Diet_drink"
+    content: "Thoreau notes the faint notes and sprightly calls of tit-mice as they pick crumbs from his wood-pile. Titmice, small passerine birds, are known for their lively behavior and varied vocalizations. Their wiry _phe-be_ calls evoke spring even in the depths of winter, offering a reminder of renewal and resilience. Thoreau’s interactions with these birds, including one alighting on his woodpile, reflect his deep connection to the natural world and his appreciation for its subtle signs of life."
+  - id: "wild-apple-trees-partridges-budding-in-the-snow"
+    trigger: "wild apple-trees"
+    title: "Partridges Budding in the Snow"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wild_apple"
     image_url: ""
     image_caption: ""
-    content: "The term 'diet-drink' historically referred to herbal or medicinal beverages. Thoreau’s mention of it in relation to partridges suggests the natural sustenance these birds find in their environment, emphasizing the self-sufficiency of wildlife."
-  - id: "hounding-cry"
-    trigger: "hounding cry"
-    title: "Hounding Cry of Dogs"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hound"
+    content: "Thoreau describes partridges feeding on the buds of wild apple-trees during winter evenings. Wild apple trees, hardy and often untamed, provide sustenance for birds and animals when other food sources are scarce. The partridges’ regular visits to these trees highlight their resourcefulness and the interconnectedness of ecosystems. Thoreau’s observation underscores his admiration for nature’s resilience and its ability to endure even in the harshest conditions."
+  - id: "hunting-horn-the-melody-of-the-chase"
+    trigger: "hunting horn"
+    title: "The Melody of the Chase"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hunting_horn"
     image_url: ""
     image_caption: ""
-    content: "The 'hounding cry' refers to the distinctive sound made by hunting dogs during a chase. Thoreau’s description captures the primal energy of the hunt and the deep connection between humans and their canine companions."
-  - id: "actaeon"
+    content: "Thoreau hears the note of the hunting horn, signaling man’s presence in the woods. The hunting horn, historically used to communicate during hunts, evokes images of tradition and pursuit. Thoreau’s description of its sound, mingling with the cries of hounds, creates a vivid picture of the chase. This moment reflects the tension between human activity and the natural world, as the hunters’ presence disrupts the quiet harmony of the woods."
+  - id: "actaeon-the-fox-that-escaped-the-hounds"
     trigger: "Actæon"
-    title: "Actæon Greek Mythology"
+    title: "The Fox That Escaped the Hounds"
     wikipedia_url: "https://en.wikipedia.org/wiki/Actaeon"
     image_url: ""
     image_caption: ""
-    content: "Actæon is a figure from Greek mythology who was transformed into a stag and hunted by his own hounds. Thoreau’s reference to Actæon underscores the timeless themes of nature, transformation, and the relationship between humans and animals."
-  - id: "lexington"
+    content: "Thoreau compares the hounds chasing a fox to the myth of Actæon, the hunter turned prey. In Greek mythology, Actæon was transformed into a stag and hunted by his own dogs after glimpsing Artemis bathing. Thoreau’s reference adds a layer of irony and tragedy to the fox’s plight, suggesting parallels between human hubris and nature’s relentless cycles. This allusion deepens the narrative, connecting the local hunt to universal themes of power, vulnerability, and transformation."
+  - id: "fox-hound-the-wise-pursuer-of-winter-trails"
+    trigger: "fox-hound"
+    title: "The Wise Pursuer of Winter Trails"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Foxhound"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the fox-hound’s relentless pursuit of its quarry, circling trails and losing scents on icy ponds. Foxhounds, bred for stamina and tracking, are emblematic of the hunt’s determination and strategy. Thoreau’s observations highlight the dog’s instinctive intelligence and the complex dynamics of predator and prey. This moment reveals his fascination with the natural order, where even the chase becomes a dance of survival and cunning."
+  - id: "lexington-the-man-who-lost-a-hound"
     trigger: "Lexington"
-    title: "Lexington Historical Town"
+    title: "The Man Who Lost a Hound"
     wikipedia_url: "https://en.wikipedia.org/wiki/Lexington,_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "Lexington, Massachusetts, is historically significant as the site of the first battle of the American Revolutionary War. Thoreau’s mention of Lexington connects his local observations to broader historical contexts, enriching the narrative of 'Walden.'"
-  - id: "weston-squire"
-    trigger: "Weston Squire"
-    title: "Weston Squire Reference"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Weston,_Massachusetts"
-    image_url: ""
-    image_caption: ""
-    content: "The 'Weston Squire' refers to a resident of Weston, Massachusetts, a town near Concord. Thoreau’s anecdote about the squire highlights the interconnectedness of local communities and their shared traditions, such as hunting."
-  - id: "sam-nutting"
+    content: "A visitor from Lexington comes to Thoreau’s hut seeking his lost hound, interrupting him with questions. Lexington, known for its Revolutionary War history, becomes the backdrop for this humorous encounter. The man’s concern for his dog contrasts with his dismissive attitude toward Thoreau’s life in the woods. This interaction underscores the divide between Thoreau’s philosophy of simplicity and the practical concerns of those around him, offering a subtle critique of societal priorities."
+  - id: "sam-nutting-the-bear-hunter-of-fair-haven-ledges"
     trigger: "Sam Nutting"
-    title: "Sam Nutting Bear Hunter"
+    title: "The Bear Hunter of Fair Haven Ledges"
     wikipedia_url: "https://en.wikipedia.org/wiki/Bear_hunting"
     image_url: ""
     image_caption: ""
-    content: "Sam Nutting was a local hunter known for hunting bears on Fair Haven Ledges. Thoreau’s mention of Nutting reflects the historical significance of hunting in the region and the colorful characters who contributed to its lore."
-  - id: "fair-haven-ledges"
-    trigger: "Fair Haven Ledges"
-    title: "Fair Haven Ledges Geography"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven,_Massachusetts"
+    content: "Thoreau recounts tales of Sam Nutting, who hunted bears on Fair Haven Ledges and traded their skins for rum. Bear hunting, a challenging and dangerous pursuit, was once common in New England’s wilderness. Nutting’s exploits, including his claim of seeing a moose, evoke a bygone era of rugged survival and frontier life. Thoreau’s mention of Nutting adds a historical dimension to his narrative, connecting his solitary observations to the region’s hunting traditions and folklore."
+  - id: "french-war-the-sergeant-and-the-wild-cat-skin"
+    trigger: "French war"
+    title: "The Sergeant and the Wild Cat Skin"
+    wikipedia_url: "https://en.wikipedia.org/wiki/French_and_Indian_War"
     image_url: ""
     image_caption: ""
-    content: "Fair Haven Ledges are rocky outcroppings near Concord, Massachusetts. Thoreau’s reference to them highlights their role as a natural landmark and a site for hunting and exploration in the Walden woods."
-  - id: "burgoyne"
-    trigger: "Burgoyne"
-    title: "Burgoyne Historical Name"
-    wikipedia_url: "https://en.wikipedia.org/wiki/John_Burgoyne"
-    image_url: ""
-    image_caption: ""
-    content: "The name 'Burgoyne' may reference General John Burgoyne, a British officer during the American Revolutionary War. Thoreau’s use of the name for a fox-hound adds a historical and cultural layer to his narrative, connecting local traditions to broader historical figures."
-  - id: "wast-book"
-    trigger: "Wast Book"
-    title: "Wast Book Accounting"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Waste_book"
-    image_url: ""
-    image_caption: ""
-    content: "The 'Wast Book' was a type of accounting ledger used in the 18th century to record transactions. Thoreau’s mention of it provides historical context to the economic activities of the time, including the trade of animal skins."
-  - id: "norwegian-winter"
+    content: "Thoreau mentions a ledger entry crediting a sergeant from the French war for a wild-cat skin. The French and Indian War (1754–1763) was a pivotal conflict in colonial America, shaping the region’s history and economy. The sergeant’s hunting exploits, recorded in a trader’s ledger, reveal the practical and economic significance of wildlife during this era. Thoreau’s inclusion of this detail ties his observations of nature to the broader historical and cultural context of Concord."
+  - id: "norwegian-winter-the-mice-and-the-pine-bark"
     trigger: "Norwegian winter"
-    title: "Norwegian Winter Conditions"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Winter_in_Norway"
+    title: "The Mice and the Pine Bark"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Norway"
     image_url: ""
     image_caption: ""
-    content: "The term 'Norwegian winter' evokes the harsh and snowy conditions typical of Norway. Thoreau’s comparison emphasizes the severity of the winter in Concord and its impact on wildlife, drawing parallels to extreme climates."
-  - id: "lepus-americanus"
+    content: "Thoreau describes a \"Norwegian winter\" for mice, who gnawed pitch-pines for sustenance during deep snow. Norway, known for its harsh winters, becomes a metaphor for the mice’s struggle in Concord’s snowy landscape. Their survival tactics, including girdling trees, highlight the resilience of even the smallest creatures. Thoreau’s observation transforms a seemingly mundane detail into a poignant reflection on nature’s adaptability and the interconnectedness of life."
+  - id: "lepus-americanus-the-hare-under-thoreaus-house"
     trigger: "Lepus Americanus"
-    title: "Lepus Americanus Snowshoe Hare"
+    title: "The Hare Under Thoreau’s House"
     wikipedia_url: "https://en.wikipedia.org/wiki/Snowshoe_hare"
     image_url: ""
     image_caption: ""
-    content: "Lepus Americanus, or the snowshoe hare, is a species adapted to cold climates. Thoreau’s observations of their behaviors and interactions reflect his deep engagement with the natural world and its inhabitants."
-  - id: "potato-parings"
+    content: "Thoreau describes a snowshoe hare living under his house, startling him each morning with its departure. The snowshoe hare, adapted to cold climates with its large feet and seasonal camouflage, is a symbol of resilience in winter. Thoreau’s close encounters with the hare, including its trembling fear and sudden escape, evoke both pity and admiration. This moment captures the delicate balance between vulnerability and strength in nature, reflecting Thoreau’s deep empathy for all living beings."
+  - id: "potato-parings-a-hare-feast-at-dusk"
     trigger: "potato parings"
-    title: "Potato Parings Food Waste"
+    title: "A Hare Feast at Dusk"
     wikipedia_url: "https://en.wikipedia.org/wiki/Potato"
     image_url: ""
     image_caption: ""
-    content: "Potato parings, the discarded skins of potatoes, were used by Thoreau to feed wildlife. This practice reflects his resourcefulness and his commitment to living harmoniously with nature by minimizing waste."
-  - id: "dropsical"
-    trigger: "dropsical"
-    title: "Dropsical Medical Condition"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Edema"
-    image_url: ""
-    image_caption: ""
-    content: "Dropsical refers to edema, a medical condition characterized by swelling due to fluid retention. Thoreau’s use of the term to describe a rabbit’s appearance highlights his keen observational skills and his ability to empathize with the struggles of wildlife."
-  - id: "partridge-bursts-away"
+    content: "Thoreau throws potato parings outside, attracting hares to his door at dusk. Potatoes, a staple crop, become a lifeline for wildlife during the barren winter months. The hares’ cautious approach and sudden escapes illustrate their delicate balance between survival and fear. Thoreau’s act of sharing his scraps reflects his philosophy of coexistence, where even waste becomes a gift to the natural world."
+  - id: "partridge-bursts-away-the-brave-bird-of-winter"
     trigger: "partridge bursts away"
-    title: "Partridge Flight Behavior"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Partridge"
+    title: "The Brave Bird of Winter"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ruffed_grouse"
     image_url: ""
     image_caption: ""
-    content: "The sudden flight of a partridge, described by Thoreau, captures the bird’s instinctive response to danger. This behavior symbolizes the resilience and adaptability of wildlife in the face of environmental challenges."
-  - id: "horse-hair-snares"
-    trigger: "horse-hair snares"
-    title: "Horse-Hair Snares Hunting"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Snare_(hunting)"
-    image_url: ""
-    image_caption: ""
-    content: "Horse-hair snares are traditional hunting tools used to trap small animals. Thoreau’s mention of them reflects the historical practices of hunting and the ingenuity of early settlers in utilizing available resources."
+    content: "Thoreau marvels at the partridge bursting away on whirring wings, jarring snow from the branches. The ruffed grouse, often called partridge in New England, is known for its ability to thrive in harsh winters. Its dramatic flight, shaking snow like golden dust, becomes a symbol of resilience and beauty. Thoreau’s admiration for this bird reflects his belief in nature’s enduring vitality, even in the coldest and darkest seasons."
 ---
 When the ponds were firmly frozen, they afforded not only new and
 shorter routes to many points, but new views from their surfaces of the
@@ -278,12 +212,12 @@ stepping to the door, heard the sound of their wings like a tempest in
 the woods as they flew low over my house. They passed over the pond
 toward **Fair Haven**, seemingly deterred from settling by my light, their
 commodore honking all the while with a regular beat. Suddenly an
-unmistakable **cat-owl** from very near me, with the most harsh and
+unmistakable cat-owl from very near me, with the most harsh and
 tremendous voice I ever heard from any inhabitant of the woods,
 responded at regular intervals to the goose, as if determined to expose
-and disgrace this intruder from **Hudson’s Bay** by exhibiting a greater
+and disgrace this intruder from Hudson’s Bay by exhibiting a greater
 compass and volume of voice in a native, and _boo-hoo_ him out of
-**Concord horizon**. What do you mean by alarming the citadel at this time
+Concord horizon. What do you mean by alarming the citadel at this time
 of night consecrated to me? Do you think I am ever caught napping at
 such an hour, and that I have not got lungs and a larynx as well as
 yourself? _Boo-hoo, boo-hoo, boo-hoo!_ It was one of the most thrilling
@@ -291,7 +225,7 @@ discords I ever heard. And yet, if you had a discriminating ear, there
 were in it the elements of a concord such as these plains never saw nor
 heard.
 
-I also heard the **whooping of the ice** in the pond, my great bed-fellow
+I also heard the whooping of the ice in the pond, my great bed-fellow
 in that part of Concord, as if it were restless in its bed and would
 fain turn over, were troubled with flatulency and had dreams; or I was
 waked by the cracking of the ground by the frost, as if some one had
@@ -309,7 +243,7 @@ standing on their defence, awaiting their transformation. Sometimes one
 came near to my window, attracted by my light, barked a vulpine curse
 at me, and then retreated.
 
-Usually the red squirrel (_**Sciurus Hudsonius**_) waked me in the dawn,
+Usually the **red squirrel** (_**Sciurus Hudsonius**_) waked me in the dawn,
 coursing over the roof and up and down the sides of the house, as if
 sent out of the woods for this purpose. In the course of the winter I
 threw out half a bushel of ears of **sweet-corn**, which had not got ripe,
@@ -318,7 +252,7 @@ of the various animals which were baited by it. In the twilight and the
 night the rabbits came regularly and made a hearty meal. All day long
 the red squirrels came and went, and afforded me much entertainment by
 their manœuvres. One would approach at first warily through the
-**shrub-oaks**, running over the snow crust by fits and starts like a leaf
+shrub-oaks, running over the snow crust by fits and starts like a leaf
 blown by the wind, now a few paces this way, with wonderful speed and
 waste of energy, making inconceivable haste with his “trotters,” as if
 it were for a wager, and now as many paces that way, but never getting
@@ -329,7 +263,7 @@ in the most solitary recesses of the forest, imply spectators as much
 as those of a dancing girl,—wasting more time in delay and
 circumspection than would have sufficed to walk the whole distance,—I
 never saw one walk,—and then suddenly, before you could say Jack
-Robinson, he would be in the top of a young **pitch-pine**, winding up his
+Robinson, he would be in the top of a young pitch-pine, winding up his
 clock and chiding all imaginary spectators, soliloquizing and talking
 to all the universe at the same time,—for no reason that I could ever
 detect, or he himself was aware of, I suspect. At length he would reach
@@ -361,7 +295,7 @@ At length the jays arrive, whose discordant screams were heard long
 before, as they were warily making their approach an eighth of a mile
 off, and in a stealthy and sneaking manner they flit from tree to tree,
 nearer and nearer, and pick up the kernels which the squirrels have
-dropped. Then, sitting on a pitch-pine bough, they attempt to swallow
+dropped. Then, sitting on a **pitch-pine bough**, they attempt to swallow
 in their haste a kernel which is too big for their throats and chokes
 them; and after great labor they disgorge it, and spend an hour in the
 endeavor to crack it by repeated blows with their bills. They were
@@ -396,23 +330,23 @@ for this brave bird is not to be scared by winter. It is frequently
 covered up by drifts, and, it is said, “sometimes plunges from on wing
 into the soft snow, where it remains concealed for a day or two.” I
 used to start them in the open land also, where they had come out of
-the woods at sunset to “bud” the wild apple-trees. They will come
+the woods at sunset to “bud” the **wild apple-trees**. They will come
 regularly every evening to particular trees, where the cunning
 sportsman lies in wait for them, and the distant orchards next the
 woods suffer thus not a little. I am glad that the partridge gets fed,
 at any rate. It is Nature’s own bird which lives on buds and
-**diet-drink**.
+diet-drink.
 
 In dark winter mornings, or in short winter afternoons, I sometimes
-heard a pack of hounds threading all the woods with **hounding cry** and
+heard a pack of hounds threading all the woods with hounding cry and
 yelp, unable to resist the instinct of the chase, and the note of the
-hunting horn at intervals, proving that man was in the rear. The woods
+**hunting horn** at intervals, proving that man was in the rear. The woods
 ring again, and yet no fox bursts forth on to the open level of the
 pond, nor following pack pursuing their **Actæon**. And perhaps at evening
 I see the hunters returning with a single brush trailing from their
 sleigh for a trophy, seeking their inn. They tell me that if the fox
 would remain in the bosom of the frozen earth he would be safe, or if
-he would run in a straight line away no fox-hound could overtake him;
+he would run in a straight line away no **fox-hound** could overtake him;
 but, having left his pursuers far behind, he stops to rest and listen
 till they come up, and when he runs he circles round to his old haunts,
 where the hunters await him. Sometimes, however, he will run upon a
@@ -465,7 +399,7 @@ her pups arrived, and, like their mother, were sobered into silence by
 the mystery. Then the hunter came forward and stood in their midst, and
 the mystery was solved. They waited in silence while he skinned the
 fox, then followed the brush a while, and at length turned off into the
-woods again. That evening a **Weston Squire** came to the Concord hunter’s
+woods again. That evening a Weston Squire came to the Concord hunter’s
 cottage to inquire for his hounds, and told how for a week they had
 been hunting on their own account from Weston woods. The Concord hunter
 told him what he knew and offered him the skin; but the other declined
@@ -478,20 +412,20 @@ The hunter who told me this could remember one **Sam Nutting**, who used to
 hunt bears on **Fair Haven Ledges**, and exchange their skins for rum in
 Concord village; who told him, even, that he had seen a moose there.
 Nutting had a famous fox-hound named **Burgoyne**,—he pronounced it
-Bugine,—which my informant used to borrow. In the “**Wast Book**” of an old
+Bugine,—which my informant used to borrow. In the “Wast Book” of an old
 trader of this town, who was also a captain, town-clerk, and
 representative, I find the following entry. Jan. 18th, 1742–3, “John
 Melven Cr. by 1 Grey Fox 0—2—3;” they are not now found here; and in
 his ledger, Feb. 7th, 1743, Hezekiah Stratton has credit “by ½ a Catt
 skin 0—1—4½;” of course, a wild-cat, for Stratton was a sergeant in the
-old French war, and would not have got credit for hunting less noble
+old **French war**, and would not have got credit for hunting less noble
 game. Credit is given for deer skins also, and they were daily sold.
 One man still preserves the horns of the last deer that was killed in
 this vicinity, and another has told me the particulars of the hunt in
 which his uncle was engaged. The hunters were formerly a numerous and
 merry crew here. I remember well one gaunt Nimrod who would catch up a
 leaf by the road-side and play a strain on it wilder and more
-melodious, if my memory serves me, than any hunting-horn.
+melodious, if my memory serves me, than any **hunting-horn**.
 
 At midnight, when there was a moon, I sometimes met with hounds in my
 path prowling about the woods, which would skulk out of my way, as if
@@ -524,7 +458,7 @@ from me, at first trembling with fear, yet unwilling to move; a poor
 wee thing, lean and bony, with ragged ears and sharp nose, scant tail
 and slender paws. It looked as if Nature no longer contained the breed
 of nobler bloods, but stood on her last toes. Its large eyes appeared
-young and unhealthy, almost **dropsical**. I took a step, and lo, away it
+young and unhealthy, almost dropsical. I took a step, and lo, away it
 scud with an elastic spring over the snow crust, straightening its body
 and its limbs into graceful length, and soon put the forest between me
 and itself,—the wild free venison, asserting its vigor and the dignity
@@ -544,4 +478,4 @@ sprouts and bushes which spring up afford them concealment, and they
 become more numerous than ever. That must be a poor country indeed that
 does not support a hare. Our woods teem with them both, and around
 every swamp may be seen the partridge or rabbit walk, beset with twiggy
-fences and **horse-hair snares**, which some cow-boy tends.
+fences and horse-hair snares, which some cow-boy tends.

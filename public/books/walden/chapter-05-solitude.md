@@ -9,159 +9,159 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the serenity and connection he feels with nature during an evening walk by Walden Pond."
+  - point: "Thoreau reflects on the harmony and serenity of nature during a solitary evening by Walden Pond."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "He observes the sounds of bullfrogs and whippoorwills, which enhance his sense of harmony with the natural world."
+  - point: "He observes the sounds of bullfrogs and whippoorwills as symbols of nature's perpetual activity."
     link: "https://en.wikipedia.org/wiki/Whippoorwill"
     link_label: "Whippoorwill"
-  - point: "Thoreau discusses solitude and the value of living apart from human society, emphasizing the companionship found in nature."
+  - point: "Thoreau discusses solitude and the space he enjoys in nature, contrasting it with human proximity."
     link: "https://en.wikipedia.org/wiki/Solitude"
     link_label: "Solitude"
-  - point: "He contrasts the artificiality of human connections with the purity of natural interactions, finding solace in the simplicity of his environment."
-    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    link_label: "Henry David Thoreau"
-  - point: "Thoreau muses on the philosophical and spiritual significance of solitude and nature's influence on human well-being."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism"
-  - point: "He critiques societal norms and emphasizes the importance of individual thought and connection to the natural world."
-    link: "https://en.wikipedia.org/wiki/Individualism"
-    link_label: "Individualism"
+  - point: "He muses on the historical fear of darkness and the role of Christianity and superstition in dispelling it."
+    link: "https://en.wikipedia.org/wiki/Christianity"
+    link_label: "Christianity"
+  - point: "Thoreau uses the Milky Way as a metaphor for the vastness of space and human connection to the universe."
+    link: "https://en.wikipedia.org/wiki/Milky_Way"
+    link_label: "Milky Way"
+  - point: "He contrasts the solitary life of a Cambridge College student with the farmer's need for human interaction."
+    link: "https://en.wikipedia.org/wiki/Cambridge,_Massachusetts"
+    link_label: "Cambridge College"
 
 enhancements:
   - id: "bullfrogs-trump"
     trigger: "bullfrogs trump"
-    title: "Bullfrogs and Their Calls"
+    title: "Why Bullfrogs Are Nature's Nighttime Heralds"
     wikipedia_url: "https://en.wikipedia.org/wiki/American_bullfrog"
     image_url: ""
     image_caption: ""
-    content: "Bullfrogs are large amphibians known for their deep, resonant calls, often described as 'trumping.' Their vocalizations are a hallmark of wetlands and are used to attract mates and establish territory. Thoreau's mention of bullfrogs highlights his acute awareness of the natural sounds that define the evening ambiance at Walden Pond."
+    content: "Thoreau notes the sound of bullfrogs trumpeting as night falls, a natural symphony that ushers in the evening. The American bullfrog, known for its deep, resonant calls, is a common inhabitant of ponds like Walden. These calls are not random; they serve as mating calls and territorial warnings, creating a soundscape that defines summer nights in New England. Bullfrogs are also fascinating for their adaptability, thriving in diverse environments and even becoming invasive in some regions. Thoreau’s mention of their trumpeting highlights his attunement to the rhythms of nature, where even the smallest creatures contribute to the larger harmony of life around Walden Pond."
   - id: "note-of-the-whippoorwill"
     trigger: "note of the whippoorwill"
-    title: "Whippoorwill's Distinctive Call"
+    title: "The Mysterious Bird That Sings at Dusk"
     wikipedia_url: "https://en.wikipedia.org/wiki/Whippoorwill"
     image_url: ""
     image_caption: ""
-    content: "The whippoorwill is a nocturnal bird known for its repetitive and haunting call, which is often associated with rural and wooded areas. Thoreau's reference to its note underscores the bird's role in creating the tranquil and mysterious atmosphere of the evening."
+    content: "Thoreau hears the whippoorwill's call carried on the evening breeze, a sound that evokes the quiet magic of twilight. The whippoorwill, a nocturnal bird, is famous for its haunting, repetitive song, often associated with folklore and mystery. Native American legends sometimes linked its call to omens or spirits. Scientifically, the whippoorwill’s song is a mating call, and its camouflage makes it nearly invisible during the day. For Thoreau, the whippoorwill’s note is more than just a sound; it’s a symbol of nature’s enduring presence and the interconnectedness of all living things, even in solitude."
+  - id: "railroad-half-a-mile-distant"
+    trigger: "railroad, half a mile distant"
+    title: "How Railroads Changed Rural Solitude Forever"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rail_transport"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the railroad near Walden Pond, a reminder of industrial progress encroaching on natural spaces. Railroads were transformative in 19th-century America, connecting distant regions and accelerating commerce, but they also symbolized the intrusion of modernity into untouched landscapes. The sound and sight of trains disrupted the quietude of places like Walden. For Thoreau, the railroad serves as a metaphor for humanity’s restless drive to conquer nature, contrasting sharply with his vision of harmonious coexistence. This tension between progress and preservation is central to Walden’s themes."
   - id: "lingering-odor-of-a-cigar"
     trigger: "lingering odor of a cigar"
-    title: "Scent as a Marker of Presence"
+    title: "What a Cigar’s Scent Reveals About Visitors"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cigar"
     image_url: ""
     image_caption: ""
-    content: "The lingering scent of a cigar serves as a subtle reminder of human presence in Thoreau's otherwise solitary environment. This detail illustrates his sensitivity to the traces left by visitors and his ability to interpret them as part of his connection to the world."
+    content: "Thoreau detects the lingering odor of a cigar, a trace left by a passerby near his home. Cigars, often symbols of leisure and affluence, were popular in 19th-century America, but their scent also carried social connotations—marking the presence of someone who might not share Thoreau’s ascetic values. This olfactory detail underscores Thoreau’s acute awareness of human impact on nature, even in subtle ways. It also reflects his philosophical stance: solitude allows him to notice and interpret these traces, reinforcing his belief in the richness of a life attuned to nature."
   - id: "witches-are-all-hung"
     trigger: "witches are all hung"
-    title: "Witch Trials in History"
+    title: "The Dark Legacy of Salem’s Witch Trials"
     wikipedia_url: "https://en.wikipedia.org/wiki/Salem_witch_trials"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's mention of witches being 'all hung' refers to the historical witch trials, such as those in Salem, Massachusetts. This remark contrasts the superstitions of the past with the enlightenment brought by Christianity and modernity, emphasizing humanity's evolving relationship with fear and darkness."
+    content: "Thoreau remarks that men still fear the dark, even though 'witches are all hung.' This reference evokes the Salem witch trials, a dark chapter in Massachusetts history when fear and superstition led to the execution of innocent people. By the 19th century, such fears had largely subsided, replaced by the rationalism of Christianity and Enlightenment ideals. Yet Thoreau’s comment suggests that irrational fears persist, even in the face of progress. For him, the woods and the night are not places of terror but of profound connection and reflection—an antidote to the lingering shadows of superstition."
   - id: "christianity-and-candles"
     trigger: "Christianity and candles"
-    title: "Symbolism of Light in Christianity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Light_in_Christianity"
+    title: "How Faith and Light Banished the Dark"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Christianity"
     image_url: ""
     image_caption: ""
-    content: "Christianity often uses light as a metaphor for divine presence and guidance. Thoreau's reference to candles symbolizes the illumination of human understanding and the dispelling of ignorance, aligning with his transcendentalist views on enlightenment."
-  - id: "beans-and-keeps-me-in-the-house"
-    trigger: "beans and keeps me in the house"
-    title: "Thoreau's Bean Field"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden#The_Bean-Field"
+    content: "Thoreau juxtaposes Christianity and candles as forces that dispelled fear of the dark. Candles, once the primary source of artificial light, symbolized human ingenuity in overcoming natural limitations. Christianity, with its emphasis on moral and spiritual illumination, played a similar role in dispelling the fears associated with night and darkness. Yet Thoreau’s tone suggests ambivalence; while these forces brought comfort, they also distanced humanity from the raw, unmediated experience of nature. In solitude, Thoreau finds a deeper, more primal connection to the night, untainted by artificial light or imposed beliefs."
+  - id: "gentle-rain-beans-keeps-me-in-the-house"
+    trigger: "gentle rain which waters my beans and keeps me in the house"
+    title: "Why Rain Is More Valuable Than Hoeing"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rain"
     image_url: ""
     image_caption: ""
-    content: "Thoreau cultivated a bean field during his time at Walden Pond, which became a metaphor for his connection to the land and self-sufficiency. The rain preventing him from hoeing reflects his acceptance of nature's rhythms and priorities over human effort."
+    content: "Thoreau reflects on the gentle rain that nourishes his beans and keeps him indoors. For him, this rain is not an inconvenience but a blessing, a reminder of nature’s cycles that sustain life. Beans, a staple crop for Thoreau, symbolize self-reliance and simplicity. The rain’s interruption of his work becomes an opportunity for reflection, underscoring his belief that nature’s rhythms are more important than human schedules. This moment encapsulates the philosophy of Walden: finding value in what others might overlook and embracing the unexpected gifts of the natural world."
   - id: "milky-way"
     trigger: "Milky Way"
-    title: "The Milky Way Galaxy"
+    title: "The Galaxy That Puts Human Solitude in Perspective"
     wikipedia_url: "https://en.wikipedia.org/wiki/Milky_Way"
     image_url: ""
     image_caption: ""
-    content: "The Milky Way is the galaxy that contains our solar system, visible as a band of light in the night sky. Thoreau's reference to it emphasizes the vastness of the universe and humanity's place within it, reinforcing his themes of solitude and cosmic connection."
+    content: "Thoreau invokes the Milky Way as a metaphor for the vastness of space and human insignificance. Visible as a luminous band across the night sky, the Milky Way is a reminder of the universe’s enormity and our place within it. In the 19th century, its mysteries were only beginning to be unraveled by astronomers. For Thoreau, the Milky Way is not just a scientific phenomenon but a symbol of connection to something greater. It reinforces his belief that solitude is not loneliness but an opportunity to align oneself with the infinite and timeless."
   - id: "beacon-hill"
     trigger: "Beacon Hill"
-    title: "Beacon Hill, Boston"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Beacon_Hill,_Boston"
+    title: "The Boston Landmark That Represents Human Clustering"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Beacon_Hill"
     image_url: ""
     image_caption: ""
-    content: "Beacon Hill is a historic neighborhood in Boston, known for its Federal-style architecture and cultural significance. Thoreau contrasts urban centers like Beacon Hill with the solitude and simplicity of his life at Walden Pond."
-  - id: "subtile-powers-of-heaven"
-    trigger: "subtile powers of Heaven"
-    title: "Subtle Forces in Nature"
+    content: "Thoreau contrasts Beacon Hill, a densely populated area in Boston, with the solitude of Walden Pond. Beacon Hill, known for its historic architecture and affluent residents, symbolizes the human tendency to congregate in urban centers. For Thoreau, such clustering diminishes individuality and the ability to connect deeply with nature. His rejection of Beacon Hill’s social environment underscores his preference for the physical and spiritual expansiveness of the woods, where he feels truly free and unencumbered by societal expectations."
+  - id: "brighton-or-bright-town"
+    trigger: "Brighton,—or Bright-town"
+    title: "The Market Town That Reflects Urban Commerce"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brighton,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Brighton, a bustling market town, as a destination for a farmer driving cattle to market. Brighton, now part of Boston, was a hub for livestock trading in the 19th century. Its name, playfully altered by Thoreau to 'Bright-town,' reflects the urbanization and commercialization of rural life. For Thoreau, Brighton represents the contrast between his simple, self-sufficient lifestyle and the complexities of economic systems. This brief mention highlights the tension between rural independence and the encroachment of urban commerce."
+  - id: "subtile-powers-of-heaven-and-earth"
+    trigger: "subtile powers of Heaven and of Earth"
+    title: "The Invisible Forces That Shape the Universe"
     wikipedia_url: "https://en.wikipedia.org/wiki/Natural_philosophy"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's mention of 'subtile powers' refers to the unseen forces that govern the natural world, a concept rooted in natural philosophy. These forces symbolize the interconnectedness and harmony of the universe, central to his transcendentalist beliefs."
-  - id: "virtue-does-not-remain-as-an-abandoned-orphan"
-    trigger: "Virtue does not remain as an abandoned orphan"
-    title: "Confucian Philosophy on Virtue"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Confucianism"
-    image_url: ""
-    image_caption: ""
-    content: "This quote reflects Confucian ideals that virtue naturally attracts companionship and support. Thoreau uses it to highlight the inherent value of moral integrity and its ability to foster meaningful connections, even in solitude."
+    content: "Thoreau marvels at the 'subtile powers of Heaven and of Earth,' unseen forces that govern existence. These powers, akin to natural laws, were a subject of fascination in 19th-century natural philosophy. Thoreau’s poetic description suggests a reverence for the interconnectedness of all things, from the movement of planets to the growth of plants. This perspective aligns with his transcendentalist belief in the unity of nature and spirit. By acknowledging these subtile powers, Thoreau invites readers to see the world not as a collection of isolated phenomena but as a harmonious whole."
   - id: "indra-in-the-sky"
     trigger: "Indra in the sky"
-    title: "Indra, Hindu God of the Sky"
+    title: "The Hindu God Who Watches from Above"
     wikipedia_url: "https://en.wikipedia.org/wiki/Indra"
     image_url: ""
     image_caption: ""
-    content: "Indra is a deity in Hindu mythology associated with the sky, storms, and rain. Thoreau's reference to Indra symbolizes a detached perspective, observing life from above, aligning with his transcendentalist view of self-awareness and reflection."
+    content: "Thoreau compares himself to Indra, the Hindu deity who rules the heavens. Indra, often depicted as a warrior and rainmaker, symbolizes power and perspective. By invoking Indra, Thoreau aligns himself with a cosmic vantage point, suggesting that solitude allows him to observe life with clarity and detachment. This reference reflects Thoreau’s broad intellectual curiosity and his willingness to draw from diverse cultural traditions. It also underscores the transcendentalist idea that solitude connects individuals to universal truths, elevating their perspective beyond the mundane."
   - id: "spectator-goes-his-way"
     trigger: "spectator goes his way"
-    title: "Philosophical Duality of Self"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dualism"
+    title: "The Inner Observer Who Watches Life’s Drama"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Self-awareness"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's idea of the 'spectator' represents the duality of human consciousness, where one part observes and critiques the other. This concept is central to philosophical discussions on self-awareness and the nature of identity."
+    content: "Thoreau describes a 'spectator' within himself who observes life’s events with detachment. This concept resonates with transcendentalist ideas of self-awareness and duality, where the individual is both participant and observer in the world. Philosophers have long grappled with this notion, exploring the tension between experience and reflection. For Thoreau, this inner spectator allows him to maintain perspective, even in moments of intense emotion or solitude. It’s a reminder that self-reflection is a tool for understanding life’s deeper meanings and navigating its complexities."
   - id: "cambridge-college"
     trigger: "Cambridge College"
-    title: "Cambridge and Academic Solitude"
-    wikipedia_url: "https://en.wikipedia.org/wiki/University_of_Cambridge"
+    title: "The Hive of Scholars Who Work Alone Together"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Harvard_University"
     image_url: ""
     image_caption: ""
-    content: "Cambridge College, likely referring to the University of Cambridge, is renowned for its academic rigor. Thoreau uses it as a metaphor for intellectual solitude, comparing the isolation of a diligent student to his own experience at Walden Pond."
-  - id: "dervish-in-the-desert"
-    trigger: "dervish in the desert"
-    title: "Dervishes and Mystical Solitude"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dervish"
+    content: "Thoreau compares the solitary work of a Cambridge College student to the farmer’s labor in the field. Cambridge, home to Harvard University, was a center of intellectual activity in Thoreau’s time. Yet, despite the proximity of minds, the act of studying is deeply solitary, requiring focus and introspection. This parallel highlights Thoreau’s belief that meaningful work—whether academic or agricultural—is inherently individual. It also underscores his broader argument that solitude is not isolation but a necessary condition for creativity and self-discovery."
+  - id: "walden-pond"
+    trigger: "Walden Pond"
+    title: "The Pond That Inspired a Revolution in Thought"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: ""
     image_caption: ""
-    content: "Dervishes are Sufi mystics known for their ascetic practices and spiritual devotion. Thoreau's comparison highlights the profound solitude and focus required for both spiritual enlightenment and intellectual pursuits."
+    content: "Thoreau refers to Walden Pond as his companion in solitude. This small glacial lake in Concord, Massachusetts, became the setting for his experiment in simple living. Walden Pond is not just a physical location; it’s a symbol of introspection, self-reliance, and harmony with nature. Its serene waters mirror Thoreau’s philosophical quest for clarity and purpose. By choosing this site for his retreat, Thoreau transformed an ordinary pond into a literary and philosophical landmark, inviting readers to reconsider their relationship with the natural world."
   - id: "blue-angels"
     trigger: "blue angels"
-    title: "Symbolism of Blue Angels"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Angel"
+    title: "The Azure Spirits Hidden in Walden’s Waters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Color_blue"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's mention of 'blue angels' in Walden Pond symbolizes purity, tranquility, and divine presence. This imagery reflects his view of nature as a source of spiritual and emotional solace."
-  - id: "mock-sun"
-    trigger: "mock sun"
-    title: "Mock Sun Phenomenon"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sun_dog"
+    content: "Thoreau poetically describes the 'blue angels' in Walden Pond’s azure waters. Blue, often associated with tranquility and depth, reflects the pond’s serene and meditative qualities. The term 'blue angels' suggests a spiritual presence, an embodiment of nature’s purity and grace. In literature, blue frequently symbolizes the infinite or the divine, aligning with Thoreau’s transcendentalist views. By invoking these 'angels,' Thoreau elevates the pond from a mere body of water to a sacred space, a source of inspiration and connection to the sublime."
+  - id: "mill-brook"
+    trigger: "Mill Brook"
+    title: "The Humble Stream That Mirrors Human Solitude"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brook"
     image_url: ""
     image_caption: ""
-    content: "A 'mock sun,' or sun dog, is an atmospheric optical phenomenon caused by sunlight interacting with ice crystals. Thoreau's reference underscores his keen observation of natural phenomena and their metaphorical significance."
-  - id: "vegetable-mould"
-    trigger: "vegetable mould"
-    title: "Vegetable Mould and Soil"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Soil"
+    content: "Thoreau likens his solitude to that of Mill Brook, a small stream near Walden Pond. Brooks, often overlooked, play vital roles in ecosystems, supporting diverse life forms. Their quiet persistence mirrors Thoreau’s philosophy of understated yet profound existence. By comparing himself to Mill Brook, Thoreau emphasizes the value of simplicity and the interconnectedness of all things. This metaphor invites readers to find beauty and significance in the seemingly mundane, reinforcing the transcendentalist belief in nature as a source of wisdom and solace."
+  - id: "acheron-and-the-dead-sea"
+    trigger: "Acheron and the Dead Sea"
+    title: "Two Waters That Symbolize Death and Despair"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Acheron"
     image_url: ""
     image_caption: ""
-    content: "Vegetable mould refers to the organic matter in soil formed by decomposed plant material. Thoreau's identification with it symbolizes humanity's connection to the earth and the cycles of life and decay."
-  - id: "hygeia"
-    trigger: "Hygeia"
-    title: "Hygeia, Goddess of Health"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hygieia"
-    image_url: ""
-    image_caption: ""
-    content: "Hygeia, the Greek goddess of health, represents cleanliness and well-being. Thoreau contrasts her with Hebe to emphasize his preference for youthful vitality and natural health over artificial remedies."
+    content: "Thoreau contrasts the vitality of morning air with the stagnant waters of Acheron and the Dead Sea. Acheron, a river in Greek mythology, was associated with the underworld, while the Dead Sea’s high salinity makes it inhospitable to life. These waters symbolize death and despair, standing in stark opposition to the life-giving freshness of nature. Thoreau’s rejection of these quack remedies underscores his belief in the healing power of natural simplicity. By embracing morning air, he advocates for a return to elemental truths, away from artificial cures and distractions."
   - id: "cupbearer-to-jupiter"
     trigger: "cupbearer to Jupiter"
-    title: "Hebe, Cupbearer to Jupiter"
+    title: "Hebe: The Goddess Who Restored Youth"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hebe_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "Hebe, the Greek goddess of youth, served as cupbearer to Jupiter (Zeus). Thoreau admires her vitality and connection to nature, aligning with his transcendentalist ideals of renewal and harmony."
+    content: "Thoreau invokes Hebe, the cupbearer to Jupiter, as a symbol of vitality and renewal. In Greek mythology, Hebe was the goddess of youth, serving ambrosia to the gods to maintain their immortality. Her association with wild lettuce, a plant linked to health and vigor, underscores her role as a bringer of vitality. For Thoreau, Hebe represents the rejuvenating power of nature—springtime, fresh air, and simple living. By aligning himself with Hebe rather than Hygeia, the goddess of health, Thoreau emphasizes the importance of natural, unmediated experiences over artificial remedies."
 ---
 This is a delicious evening, when the whole body is one sense, and
 imbibes delight through every pore. I go and come with a strange
@@ -191,7 +191,7 @@ dropped it on my table. I could always tell if visitors had called in
 my absence, either by the bended twigs or grass, or the print of their
 shoes, and generally of what sex or age or quality they were by some
 slight trace left, as a flower dropped, or a bunch of grass plucked and
-thrown away, even as far off as the railroad, half a mile distant, or
+thrown away, even as far off as the **railroad, half a mile distant**, or
 by the **lingering odor of a cigar** or pipe. Nay, I was frequently
 notified of the passage of a traveller along the highway sixty rods off
 by the scent of his pipe.
@@ -228,7 +228,7 @@ his senses still. There was never yet such a storm but it was Æolian
 music to a healthy and innocent ear. Nothing can rightly compel a
 simple and brave man to a vulgar sadness. While I enjoy the friendship
 of the seasons I trust that nothing can make life a burden to me. The
-gentle rain which waters my **beans and keeps me in the house** to-day is
+**gentle rain** which waters my **beans and keeps me in the house** to-day is
 not drear and melancholy, but good for me too. Though it prevents my
 hoeing them, it is of far more worth than my hoeing. If it should
 continue so long as to cause the seeds to rot in the ground and destroy
@@ -291,7 +291,7 @@ to many men surely, the depot, the post-office, the bar-room, the
 meeting-house, the school-house, the grocery, **Beacon Hill**, or the Five
 Points, where men most congregate, but to the perennial source of our
 life, whence in all our experience we have found that to issue, as the
-willow stands near the water and sends out its roots in that direction.
+**willow stands near the water** and sends out its roots in that direction.
 This will vary with different natures, but this is the place where a
 wise man will dig his cellar.... I one evening overtook one of my
 townsmen, who has accumulated what is called “a handsome
@@ -300,7 +300,7 @@ driving a pair of cattle to market, who inquired of me how I could
 bring my mind to give up so many of the comforts of life. I answered
 that I was very sure I liked it passably well; I was not joking. And so
 I went home to my bed, and left him to pick his way through the
-darkness and the mud to Brighton,—or Bright-town,—which place he would
+darkness and the mud to **Brighton,—or Bright-town**,—which place he would
 reach some time in the morning.
 
 Any prospect of awakening or coming to life to a dead man makes
@@ -329,7 +329,7 @@ right; they environ us on all sides.”
 We are the subjects of an experiment which is not a little interesting
 to me. Can we not do without the society of our gossips a little while
 under these circumstances,—have our own thoughts to cheer us? Confucius
-says truly, “**Virtue does not remain as an abandoned orphan**; it must of
+says truly, “Virtue does not remain as an abandoned orphan; it must of
 necessity have neighbors.”
 
 With thinking we may be beside ourselves in a sane sense. By a
@@ -358,7 +358,7 @@ men than when we stay in our chambers. A man thinking or working is
 always alone, let him be where he will. Solitude is not measured by the
 miles of space that intervene between a man and his fellows. The really
 diligent student in one of the crowded hives of **Cambridge College** is as
-solitary as a **dervish in the desert**. The farmer can work alone in the
+solitary as a dervish in the desert. The farmer can work alone in the
 field or the woods all day, hoeing or chopping, and not feel lonesome,
 because he is employed; but when he comes home at night he cannot sit
 down in a room alone, at the mercy of his thoughts, but must be where
@@ -397,15 +397,15 @@ that we are never alone.
 I have a great deal of company in my house; especially in the morning,
 when nobody calls. Let me suggest a few comparisons, that some one may
 convey an idea of my situation. I am no more lonely than the loon in
-the pond that laughs so loud, or than Walden Pond itself. What company
+the pond that laughs so loud, or than **Walden Pond** itself. What company
 has that lonely lake, I pray? And yet it has not the blue devils, but
 the **blue angels** in it, in the azure tint of its waters. The sun is
 alone, except in thick weather, when there sometimes appear to be two,
-but one is a **mock sun**. God is alone,—but the devil, he is far from
+but one is a mock sun. God is alone,—but the devil, he is far from
 being alone; he sees a great deal of company; he is legion. I am no
 more lonely than a single mullein or dandelion in a pasture, or a bean
 leaf, or sorrel, or a horse-fly, or a bumble-bee. I am no more lonely
-than the Mill Brook, or a weathercock, or the north star, or the south
+than the **Mill Brook**, or a weathercock, or the north star, or the south
 wind, or an April shower, or a January thaw, or the first spider in a
 new house.
 
@@ -434,14 +434,14 @@ Nature would be affected, and the sun’s brightness fade, and the winds
 would sigh humanely, and the clouds rain tears, and the woods shed
 their leaves and put on mourning in midsummer, if any man should ever
 for a just cause grieve. Shall I not have intelligence with the earth?
-Am I not partly leaves and **vegetable mould** myself?
+Am I not partly leaves and vegetable mould myself?
 
 What is the pill which will keep us well, serene, contented? Not my or
 thy great-grandfather’s, but our great-grandmother Nature’s universal,
 vegetable, botanic medicines, by which she has kept herself young
 always, outlived so many old Parrs in her day, and fed her health with
 their decaying fatness. For my panacea, instead of one of those quack
-vials of a mixture dipped from Acheron and the Dead Sea, which come out
+vials of a mixture dipped from **Acheron and the Dead Sea**, which come out
 of those long shallow black-schooner looking wagons which we sometimes
 see made to carry bottles, let me have a draught of undiluted morning
 air. Morning air! If men will not drink of this at the fountain-head of
@@ -450,7 +450,7 @@ shops, for the benefit of those who have lost their subscription ticket
 to morning time in this world. But remember, it will not keep quite
 till noon-day even in the coolest cellar, but drive out the stopples
 long ere that and follow westward the steps of Aurora. I am no
-worshipper of **Hygeia**, who was the daughter of that old herb-doctor
+worshipper of Hygeia, who was the daughter of that old herb-doctor
 Æsculapius, and who is represented on monuments holding a serpent in
 one hand, and in the other a cup out of which the serpent sometimes
 drinks; but rather of Hebe, **cupbearer to Jupiter**, who was the daughter

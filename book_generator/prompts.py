@@ -50,12 +50,57 @@ Given a chapter of text, produce a JSON object with two keys:
 "enhancements": array of 16–24 objects — include ALL bolded phrases distributed across the full chapter — each with:
   - "id":            unique kebab-case identifier
   - "trigger":       the exact phrase as it appears in the text (no ** markers)
-  - "title":         readable card title (3–6 words)
+  - "title":         captivating, curiosity-driven title (6–10 words) that makes a reader \
+want to open the card — use intrigue, surprise, or a compelling question. \
+Avoid dry encyclopedic labels. \
+Examples of GOOD titles: "The Pond That Quietly Changed American Literature", \
+"Why Priests Voluntarily Sat Between Four Fires", \
+"The Book Adam Smith Never Expected to Matter This Much", \
+"What Thoreau Got Wrong About Money (And Right About Everything Else)". \
+Examples of BAD titles: "Walden Pond's Historical Significance", "Brahmin Ascetic Practices".
   - "wikipedia_url": real Wikipedia URL for this topic
   - "image_url":     always use "" — image URLs cannot be reliably verified at generation time
   - "image_caption": always use ""
-  - "content":       100–200 word educational explanation of why this topic \
-matters — its history, significance, and connection to the chapter
+  - "content":       200–300 word documentary-style narrative structured in three beats: \
+BEAT 1 — Open by anchoring to the exact moment in this chapter. Quote or closely \
+paraphrase the specific line. Do NOT open with a definition or "X is a Y." \
+BEAT 2 — Deliver context the reader almost certainly does not know: a surprising \
+historical fact, a scientific explanation, a cultural detail, or an irony. This beat \
+should make the reader think "I had no idea." \
+BEAT 3 — Close by returning to the book. Show what this context reveals about the \
+author's intent, the chapter's deeper meaning, or the work's themes. \
+Write in the style of a great documentary narrator — vivid, specific, and building \
+toward insight. Every sentence must earn its place. Aim for 250–300 words. \
+FORBIDDEN closings — never end a card with any of these phrases: \
+"This underscores...", "This highlights...", "This reflects...", "This reinforces...", \
+"This aligns with...", "This exemplifies...". These are clichés that kill the \
+narrative. End instead with a concrete implication, a provocative observation, or \
+a final image that lingers. \
+EXAMPLE (Benvenuto Cellini, Walden Ch.10): \
+"When Thoreau stands in the arch of a rainbow and notices a faint halo encircling his \
+own shadow, he reaches for the most audacious comparison he can think of: Benvenuto \
+Cellini. Cellini was the 16th-century Florentine goldsmith who gave the world some of \
+the Renaissance's most dazzling metalwork — and one of history's most outrageously \
+self-aggrandizing memoirs. While imprisoned in Castel Sant'Angelo on charges of robbery, \
+he claimed a radiant aureole appeared around his shadow every morning at sunrise — proof, \
+he declared, of divine election. Modern optics has a name for what Cellini saw: a Brocken \
+spectre, a magnified shadow projected onto mist with a halo of diffracted light around it. \
+It is real, rare, and genuinely awe-inspiring. Thoreau almost certainly knew this. His \
+comparison is not random; it is a philosophical argument. The same transcendent \
+experiences that Renaissance artists located in courts and cathedrals, Thoreau finds \
+beside a Massachusetts pond. Nature, he is saying, is the only studio that matters." \
+EXAMPLE (pickerel-weed, Walden Ch.10): \
+"Standing in the shallows, water up to his middle, casting over the pickerel-weed to \
+reach the fish below, Thoreau is doing something more deliberate than it looks. \
+Pickerelweed — Pontederia cordata — is one of the most recognizable aquatic plants in \
+New England, its purple flower spikes rising above slow water all summer. It takes its \
+common name from the pickerel fish that shelter beneath it, and Indigenous peoples used \
+its seeds as grain and its leaves as greens. It is, in other words, a food system hiding \
+in plain sight — an ecosystem of interdependence that the casual fisherman walks right \
+past. Thoreau sees it. To him, the plant, the fish, and the man are all threads in the \
+same net, and the act of standing waist-deep in cold water is not deprivation but \
+participation. This is the argument of the entire chapter in miniature: the life \
+everyone else calls poor, Thoreau experiences as abundance."
 
 Respond ONLY with the raw JSON object. No markdown fences, no commentary.\
 """

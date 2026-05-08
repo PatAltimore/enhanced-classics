@@ -147,7 +147,7 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
 
     console.print(f"    [cyan]Pass 2:[/cyan] generating summary + enhancements ...")
     enh_messages     = build_enhancements_prompt(book, chapter, text)
-    enhancements_raw = client.complete(enh_messages, temperature=0.2, max_tokens=8192)
+    enhancements_raw = client.complete(enh_messages, temperature=0.4, max_tokens=12000)
 
     return format_chapter(book, chapter, text, enhancements_raw)
 
