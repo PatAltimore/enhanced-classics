@@ -92,7 +92,7 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
 
         console.print(f"    [cyan]→ Pass 1:[/cyan] identifying annotation phrases …")
         phrase_messages = build_phrase_prompt(book, chapter, original_text)
-        phrases_raw     = client.complete(phrase_messages, temperature=0.1, max_tokens=512)
+        phrases_raw     = client.complete(phrase_messages, temperature=0.1, max_tokens=1024)
 
         try:
             phrases_raw_clean = phrases_raw.strip()
@@ -119,7 +119,7 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
 
     console.print(f"    [cyan]→ Pass 2:[/cyan] generating summary + enhancements …")
     enh_messages     = build_enhancements_prompt(book, chapter, text)
-    enhancements_raw = client.complete(enh_messages, temperature=0.2, max_tokens=4096)
+    enhancements_raw = client.complete(enh_messages, temperature=0.2, max_tokens=8192)
 
     return format_chapter(book, chapter, text, enhancements_raw)
 
