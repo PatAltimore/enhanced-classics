@@ -9,112 +9,189 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the serene beauty of nature during a winter morning at Walden Pond."
-    link: "https://en.wikipedia.org/wiki/Walden_Pond"
-    link_label: "Walden Pond"
-  - point: "He describes the transformation of the pond's surface into solid ice, which supports human activity like fishing and ice-cutting."
+  - point: "Thoreau reflects on awakening to nature's serene presence and its lack of questions or answers."
+    link: "https://en.wikipedia.org/wiki/Nature_(essay)"
+    link_label: "Nature"
+  - point: "He describes the process of cutting through snow and ice to access the pond's water in winter."
     link: "https://en.wikipedia.org/wiki/Ice_fishing"
     link_label: "Ice fishing"
-  - point: "Thoreau observes the primitive fishing methods used by locals and their connection to nature."
-    link: "https://en.wikipedia.org/wiki/Fishing"
-    link_label: "Fishing"
-  - point: "He recounts his survey of Walden Pond's depth and dispels myths about its supposed bottomlessness."
-    link: "https://en.wikipedia.org/wiki/Limnology"
-    link_label: "Limnology"
-  - point: "Thoreau philosophizes about the interconnectedness of nature, ethics, and human character, using the pond as a metaphor."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism"
-  - point: "He muses on the global journey of Walden's ice and water, connecting it to ancient philosophies and distant cultures."
-    link: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
-    link_label: "Bhagavad Gita"
+  - point: "Thoreau observes fishermen catching pickerel and perch, marveling at their connection to nature."
+    link: "https://en.wikipedia.org/wiki/Pickerel"
+    link_label: "Pickerel"
+  - point: "He surveys Walden Pond, dispelling myths about its bottomlessness and mapping its depth."
+    link: "https://en.wikipedia.org/wiki/Bathymetry"
+    link_label: "Bathymetry"
+  - point: "Thoreau philosophizes about the harmony of nature and its parallels in human character and ethics."
+    link: "https://en.wikipedia.org/wiki/Ethics"
+    link_label: "Ethics"
+  - point: "He connects Walden Pond's water to global locations, blending natural and mythical imagery."
+    link: "https://en.wikipedia.org/wiki/Atlantis"
+    link_label: "Atlantis"
 
 enhancements:
-  - id: "nature-puts-no-question"
-    trigger: "Nature puts no question"
-    title: "Nature's Silent Wisdom"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nature"
+  - id: "broad-windows"
+    trigger: "broad windows"
+    title: "Thoreau's Broad Windows"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "Thoreau emphasizes the silent, resolute nature of the natural world, contrasting it with human curiosity and questioning. This idea reflects the Transcendentalist belief in nature as a source of truth and inspiration, encouraging individuals to seek harmony with the environment rather than impose their own inquiries upon it."
+    content: "Thoreau's cabin at Walden Pond featured large windows that allowed him to observe nature closely. These windows symbolized his openness to the natural world and his desire to integrate his life with its rhythms. The broad windows provided a literal and metaphorical perspective on the environment, emphasizing the importance of direct experience in understanding nature."
+  - id: "divining-rod"
+    trigger: "divining rod"
+    title: "Divining Rods in History"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dowsing"
+    image_url: ""
+    image_caption: ""
+    content: "A divining rod, traditionally used to locate water underground, is referenced metaphorically by Thoreau to highlight the challenge of finding water in winter. This tool has been part of folklore and pseudoscience, often associated with mystical practices, though it lacks scientific validation."
+  - id: "amber-twilight-sky"
+    trigger: "amber twilight sky"
+    title: "Amber Twilight Imagery"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Twilight"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the phrase 'amber twilight sky' to describe the serene underwater world of Walden Pond during winter. Twilight, a transitional time between day and night, often symbolizes reflection and calm, aligning with Thoreau's meditative observations of nature."
   - id: "pickerel-and-perch"
     trigger: "pickerel and perch"
-    title: "Fishing in Walden Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_fishing"
+    title: "Pickerel and Perch Fishing"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pickerel"
     image_url: ""
     image_caption: ""
-    content: "Pickerel and perch are common freshwater fish, often caught in icy conditions during winter. Thoreau's description of fishing at Walden Pond highlights the resourcefulness of local fishermen and their deep connection to nature, showcasing a simpler, self-sufficient way of life."
-  - id: "primitive-mode"
-    trigger: "primitive mode"
-    title: "Primitive Fishing Techniques"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fishing"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau observes rudimentary fishing methods, such as using alder branches and oak leaves as indicators. These techniques reflect a closer relationship with nature and a reliance on ingenuity rather than modern tools, underscoring the simplicity of life around Walden Pond."
-  - id: "arabia-to-our-concord-life"
-    trigger: "Arabia to our Concord life"
-    title: "Arabia's Exotic Imagery"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Arabia"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau compares the dazzling beauty of Walden's pickerel to the exotic allure of Arabia, emphasizing their rarity and transcendence. This metaphor highlights the contrast between the mundane and the extraordinary, inviting readers to appreciate the unique wonders of nature."
+    content: "Pickerel and perch are freshwater fish commonly found in North American ponds and lakes. Thoreau's description of fishermen catching these species highlights the seasonal activities at Walden Pond and the connection between humans and aquatic ecosystems."
   - id: "bottomlessness-of-a-pond"
     trigger: "bottomlessness of a pond"
     title: "Myth of Bottomless Ponds"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Limnology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lake"
     image_url: ""
     image_caption: ""
-    content: "Thoreau debunks the myth of bottomless ponds, a common folklore in many regions. His scientific approach to measuring Walden Pond's depth reflects his commitment to understanding nature through observation and inquiry, bridging the gap between myth and reality."
+    content: "The idea of bottomless ponds is a common myth, often fueled by local folklore and imagination. Thoreau debunks this myth through his meticulous survey of Walden Pond, emphasizing the importance of empirical observation over superstition."
   - id: "william-gilpin"
     trigger: "William Gilpin"
     title: "William Gilpin's Landscape Theory"
-    wikipedia_url: "https://en.wikipedia.org/wiki/William_Gilpin_(artist)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Gilpin_(clergyman)"
     image_url: ""
     image_caption: ""
-    content: "William Gilpin was an 18th-century artist and writer known for his theories on picturesque landscapes. Thoreau references Gilpin to explore the geological history of ponds and valleys, connecting aesthetic appreciation with scientific inquiry."
+    content: "William Gilpin was an 18th-century English clergyman and artist known for his theories on the picturesque in landscape aesthetics. Thoreau references Gilpin to contrast the dramatic geological formations of Loch Fyne with the serene regularity of Walden Pond."
+  - id: "diluvian-crash"
+    trigger: "diluvian crash"
+    title: "Diluvian Crash and Geology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Great_Flood_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "The term 'diluvian crash' refers to catastrophic floods, often linked to myths like Noah's Ark or geological events shaping landscapes. Thoreau uses this imagery to evoke the dramatic origins of natural formations, contrasting them with the tranquil beauty of Walden Pond."
   - id: "loch-fyne"
     trigger: "Loch Fyne"
-    title: "Loch Fyne's Geological Depth"
+    title: "Loch Fyne in Scotland"
     wikipedia_url: "https://en.wikipedia.org/wiki/Loch_Fyne"
     image_url: ""
     image_caption: ""
-    content: "Loch Fyne, a sea loch in Scotland, serves as a comparison for Walden Pond's depth and geological features. Thoreau uses it to illustrate the dramatic changes in landscapes over time, blending natural history with poetic imagination."
+    content: "Loch Fyne is a sea loch in Scotland known for its depth and scenic beauty. Thoreau compares its dramatic geological features to the more subdued and regular contours of Walden Pond, illustrating the diversity of natural landscapes."
+  - id: "primitive-lake"
+    trigger: "primitive lake"
+    title: "Formation of Primitive Lakes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lake_formation"
+    image_url: ""
+    image_caption: ""
+    content: "Primitive lakes are formed by geological processes such as glacial activity, tectonic movements, or volcanic eruptions. Thoreau's reference underscores the ancient origins of Walden Pond and its role as a symbol of natural purity and timelessness."
+  - id: "white-pond"
+    trigger: "White Pond"
+    title: "White Pond Near Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/White_Pond_(Concord,_Massachusetts)"
+    image_url: ""
+    image_caption: ""
+    content: "White Pond, located near Walden Pond, is another glacial kettle pond in Concord, Massachusetts. Thoreau uses it as a comparative study to understand the depth and contours of Walden, showcasing his methodical approach to natural observation."
+  - id: "law-of-average"
+    trigger: "law of average"
+    title: "Law of Average in Nature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Law_of_averages"
+    image_url: ""
+    image_caption: ""
+    content: "The 'law of average' refers to statistical principles predicting outcomes over time. Thoreau applies this concept metaphorically to human character and ethics, suggesting that individual behaviors aggregate to reveal deeper truths about a person."
+  - id: "achillean-shore"
+    trigger: "Achillean shore"
+    title: "Achillean Shore Symbolism"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Achilles"
+    image_url: ""
+    image_caption: ""
+    content: "The 'Achillean shore' evokes the legendary Greek hero Achilles, symbolizing strength and depth. Thoreau uses this imagery to describe how surrounding circumstances reflect and shape the inner character of individuals."
+  - id: "rain-and-snow-and-evaporation"
+    trigger: "rain and snow and evaporation"
+    title: "Natural Water Cycle"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Water_cycle"
+    image_url: ""
+    image_caption: ""
+    content: "Rain, snow, and evaporation are key components of the Earth's water cycle. Thoreau observes these processes at Walden Pond, emphasizing the interconnectedness of natural phenomena and their role in sustaining ecosystems."
+  - id: "leach-hole"
+    trigger: "leach hole"
+    title: "Leach Holes in Ponds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sinkhole"
+    image_url: ""
+    image_caption: ""
+    content: "A 'leach hole' refers to a cavity or sinkhole through which water escapes. Thoreau discusses this phenomenon in Walden Pond, illustrating his curiosity about its hydrology and the unseen connections between water bodies."
+  - id: "ice-rosettes"
+    trigger: "ice rosettes"
+    title: "Formation of Ice Rosettes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ice"
+    image_url: ""
+    image_caption: ""
+    content: "Ice rosettes are patterns formed by water freezing in specific conditions. Thoreau marvels at these natural designs, showcasing his appreciation for the beauty and complexity of winter phenomena at Walden Pond."
+  - id: "terra-firma"
+    trigger: "terra firma"
+    title: "Terra Firma: Solid Ground"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Terra_firma"
+    image_url: ""
+    image_caption: ""
+    content: "Terra firma, Latin for 'solid ground,' contrasts with the fluidity of water. Thoreau uses this term to describe the icy surface of Walden Pond, blending scientific observation with poetic language."
+  - id: "fresh-pond"
+    trigger: "Fresh Pond"
+    title: "Fresh Pond in Cambridge"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fresh_Pond_(Cambridge,_Massachusetts)"
+    image_url: ""
+    image_caption: ""
+    content: "Fresh Pond is a reservoir in Cambridge, Massachusetts, known for its historical significance and use as an ice source. Thoreau references it to highlight the enduring quality of frozen water and its practical applications."
   - id: "bhagvat-geeta"
     trigger: "Bhagvat Geeta"
-    title: "Bhagavad Gita's Timeless Philosophy"
+    title: "Bhagavad Gita Philosophy"
     wikipedia_url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     image_url: ""
     image_caption: ""
-    content: "The Bhagavad Gita, a sacred Hindu text, offers profound philosophical insights into life, duty, and spirituality. Thoreau's admiration for its wisdom reflects the Transcendentalist embrace of global philosophies and their relevance to personal and ethical growth."
-  - id: "brahma-and-vishnu-and-indra"
-    trigger: "Brahma and Vishnu and Indra"
-    title: "Hindu Deities and Cosmology"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hindu_deities"
-    image_url: ""
-    image_caption: ""
-    content: "Brahma, Vishnu, and Indra are central figures in Hindu mythology, representing creation, preservation, and power. Thoreau's reference to these deities underscores his fascination with Eastern spirituality and its alignment with his philosophical worldview."
+    content: "The Bhagavad Gita is a sacred Hindu scripture offering profound philosophical insights. Thoreau admires its timeless wisdom, connecting its spiritual teachings to his contemplative life at Walden Pond."
   - id: "fabulous-islands-of-atlantis"
     trigger: "fabulous islands of Atlantis"
-    title: "The Myth of Atlantis"
+    title: "Myth of Atlantis"
     wikipedia_url: "https://en.wikipedia.org/wiki/Atlantis"
     image_url: ""
     image_caption: ""
-    content: "Atlantis, a legendary island described by Plato, symbolizes advanced civilizations lost to history. Thoreau invokes this myth to highlight the interconnectedness of Walden's water with global narratives, blending natural observation with imaginative storytelling."
+    content: "Atlantis is a legendary island described by Plato, symbolizing advanced civilization and its downfall. Thoreau invokes this myth to emphasize the interconnectedness of Walden's water with global and mythical realms."
   - id: "hesperides"
     trigger: "Hesperides"
     title: "Hesperides in Greek Mythology"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hesperides"
     image_url: ""
     image_caption: ""
-    content: "The Hesperides were nymphs in Greek mythology who tended a garden of golden apples. Thoreau's mention of them enriches his narrative with mythological imagery, connecting the purity of Walden's water to legendary realms of beauty and abundance."
+    content: "The Hesperides are nymphs in Greek mythology guarding a garden of golden apples. Thoreau's reference ties Walden Pond to mythical imagery, enriching his narrative with layers of cultural symbolism."
+  - id: "periplus-of-hanno"
+    trigger: "periplus of Hanno"
+    title: "Periplus of Hanno's Voyage"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Periplus_of_Hanno"
+    image_url: ""
+    image_caption: ""
+    content: "The Periplus of Hanno is an ancient Carthaginian account of exploration along Africa's coast. Thoreau uses this historical reference to connect Walden Pond's water to global journeys and discoveries."
+  - id: "indian-seas"
+    trigger: "Indian seas"
+    title: "Indian Ocean Trade Routes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Indian_Ocean"
+    image_url: ""
+    image_caption: ""
+    content: "The Indian seas refer to the Indian Ocean, a hub of ancient trade and cultural exchange. Thoreau's mention evokes the vast interconnectedness of waterways, linking Walden Pond to distant lands and histories."
 ---
 After a still winter night I awoke with the impression that some
 question had been put to me, which I had been endeavoring in vain to
 answer in my sleep, as what—how—when—where? But there was dawning
-Nature, in whom all creatures live, looking in at my broad windows with
+Nature, in whom all creatures live, looking in at my **broad windows** with
 serene and satisfied face, and no question on _her_ lips. I awoke to an
 answered question, to Nature and daylight. The snow lying deep on the
 earth dotted with young pines, and the very slope of the hill on which
-my house is placed, seemed to say, Forward! **Nature puts no question** and
+my house is placed, seemed to say, Forward! Nature puts no question and
 answers none which we mortals ask. She has long ago taken her
 resolution. “O Prince, our eyes contemplate with admiration and
 transmit to the soul the wonderful and varied spectacle of this
@@ -124,7 +201,7 @@ from earth even into the plains of the ether.”
 
 Then to my morning work. First I take an axe and pail and go in search
 of water, if that be not a dream. After a cold and snowy night it
-needed a divining rod to find it. Every winter the liquid and trembling
+needed a **divining rod** to find it. Every winter the liquid and trembling
 surface of the pond, which was so sensitive to every breath, and
 reflected every light and shadow, becomes solid to the depth of a foot
 or a foot and a half, so that it will support the heaviest teams, and
@@ -137,7 +214,7 @@ ice, and open a window under my feet, where, kneeling to drink, I look
 down into the quiet parlor of the fishes, pervaded by a softened light
 as through a window of ground glass, with its bright sanded floor the
 same as in summer; there a perennial waveless serenity reigns as in the
-amber twilight sky, corresponding to the cool and even temperament of
+**amber twilight sky**, corresponding to the cool and even temperament of
 the inhabitants. Heaven is under our feet as well as over our heads.
 
 Early in the morning, while all things are crisp with frost, men come
@@ -165,7 +242,7 @@ pickerel swallows the perch, and the fisher-man swallows the pickerel;
 and so all the chinks in the scale of being are filled.
 
 When I strolled around the pond in misty weather I was sometimes amused
-by the **primitive mode** which some ruder fisherman had adopted. He would
+by the primitive mode which some ruder fisherman had adopted. He would
 perhaps have placed alder branches over the narrow holes in the ice,
 which were four or five rods apart and an equal distance from the
 shore, and having fastened the end of the line to a stick to prevent
@@ -179,7 +256,7 @@ Ah, the pickerel of Walden! when I see them lying on the ice, or in the
 well which the fisherman cuts in the ice, making a little hole to admit
 the water, I am always surprised by their rare beauty, as if they were
 fabulous fishes, they are so foreign to the streets, even to the woods,
-foreign as **Arabia to our Concord life**. They possess a quite dazzling
+foreign as Arabia to our Concord life. They possess a quite dazzling
 and transcendent beauty which separates them by a wide interval from
 the cadaverous cod and haddock whose fame is trumpeted in our streets.
 They are not green like the pines, nor gray like the stones, nor blue
@@ -201,7 +278,7 @@ walden_pond_map
 
 
 
-As I was desirous to recover the long lost bottom of **Walden Pond**, I
+As I was desirous to recover the long lost bottom of Walden Pond, I
 surveyed it carefully, before the ice broke up, early in ’46, with
 compass and chain and sounding line. There have been many stories told
 about the bottom, or rather no bottom, of this pond, which certainly
@@ -246,7 +323,7 @@ to landscapes, and usually so correct, standing at the head of Loch
 Fyne, in Scotland, which he describes as “a bay of salt water, sixty or
 seventy fathoms deep, four miles in breadth,” and about fifty miles
 long, surrounded by mountains, observes, “If we could have seen it
-immediately after the diluvian crash, or whatever convulsion of Nature
+immediately after the **diluvian crash**, or whatever convulsion of Nature
 occasioned it, before the waters gushed in, what a horrid chasm must it
 have appeared!
 
@@ -262,7 +339,7 @@ Fyne when emptied. No doubt many a smiling valley with its stretching
 cornfields occupies exactly such a “horrid chasm,” from which the
 waters have receded, though it requires the insight and the far sight
 of the geologist to convince the unsuspecting inhabitants of this fact.
-Often an inquisitive eye may detect the shores of a primitive lake in
+Often an inquisitive eye may detect the shores of a **primitive lake** in
 the low horizon hills, and no subsequent elevation of the plain has
 been necessary to conceal their history. But it is easiest, as they who
 work on the highways know, to find the hollows by the puddles after a
@@ -317,7 +394,7 @@ a formula for all cases.
 
 In order to see how nearly I could guess, with this experience, at the
 deepest point in a pond, by observing the outlines of its surface and
-the character of its shores alone, I made a plan of White Pond, which
+the character of its shores alone, I made a plan of **White Pond**, which
 contains about forty-one acres, and, like this, has no island in it,
 nor any visible inlet or outlet; and as the line of greatest breadth
 fell very near the line of least breadth, where two opposite capes
@@ -344,14 +421,14 @@ absolutely but one form. Even when cleft or bored through it is not
 comprehended in its entireness.
 
 What I have observed of the pond is no less true in ethics. It is the
-law of average. Such a rule of the two diameters not only guides us
+**law of average**. Such a rule of the two diameters not only guides us
 toward the sun in the system and the heart in man, but draw lines
 through the length and breadth of the aggregate of a man’s particular
 daily behaviors and waves of life into his coves and inlets, and where
 they intersect will be the height or depth of his character. Perhaps we
 need only to know how his shores trend and his adjacent country or
 circumstances, to infer his depth and concealed bottom. If he is
-surrounded by mountainous circumstances, an Achillean shore, whose
+surrounded by mountainous circumstances, an **Achillean shore**, whose
 peaks overshadow and are reflected in his bosom, they suggest a
 corresponding depth in him. But a low and smooth shore proves him
 shallow on that side. In our bodies, a bold projecting brow falls off
@@ -376,7 +453,7 @@ merely refit for this world, and no natural currents concur to
 individualize them.
 
 As for the inlet or outlet of Walden, I have not discovered any but
-rain and snow and evaporation, though perhaps, with a thermometer and a
+**rain and snow and evaporation**, though perhaps, with a thermometer and a
 line, such places may be found, for where the water flows into the pond
 it will probably be coldest in summer and warmest in winter. When the
 ice-men were at work here in ’46–7, the cakes sent to the shore were
@@ -385,7 +462,7 @@ thick enough to lie side by side with the rest; and the cutters thus
 discovered that the ice over a small space was two or three inches
 thinner than elsewhere, which made them think that there was an inlet
 there. They also showed me in another place what they thought was a
-“leach hole,” through which the pond leaked out under a hill into a
+“**leach hole**,” through which the pond leaked out under a hill into a
 neighboring meadow, pushing me out on a cake of ice to see it. It was a
 small cavity under ten feet of water; but I think that I can warrant
 the pond not to need soldering till they find a worse leak than that.
@@ -416,7 +493,7 @@ the ice. This was somewhat like cutting a hole in the bottom of a ship
 to let the water out. When such holes freeze, and a rain succeeds, and
 finally a new freezing forms a fresh smooth ice over all, it is
 beautifully mottled internally by dark figures, shaped somewhat like a
-spider’s web, what you may call ice rosettes, produced by the channels
+spider’s web, what you may call **ice rosettes**, produced by the channels
 worn by the water flowing from all sides to a centre. Sometimes, also,
 when the ice was covered with shallow puddles, I saw a double shadow of
 myself, one standing on the head of the other, one on the ice, the
@@ -457,7 +534,7 @@ they were bent on making this a model farm; but when I was looking
 sharp to see what kind of seed they dropped into the furrow, a gang of
 fellows by my side suddenly began to hook up the virgin mould itself,
 with a peculiar jerk, clean down to the sand, or rather the water,—for
-it was a very springy soil,—indeed all the _terra firma_ there was,—and
+it was a very springy soil,—indeed all the _**terra firma**_ there was,—and
 haul it away on sleds, and then I guessed that they must be cutting
 peat in a bog. So they came and went every day, with a peculiar shriek
 from the locomotive, from and to some point of the polar regions, as it
@@ -505,7 +582,7 @@ off, the rest remaining exposed to the sun, it stood over that summer
 and the next winter, and was not quite melted till September 1848. Thus
 the pond recovered the greater part.
 
-Like the water, the Walden ice, seen near at hand, has a green tint,
+Like the water, the Walden ice, seen near at hand, has a **green tint**,
 but at a distance is beautifully blue, and you can easily tell it from
 the white ice of the river, or the merely greenish ice of some ponds, a
 quarter of a mile off. Sometimes one of those great cakes slips from
@@ -518,7 +595,7 @@ with a greenish water somewhat like its own, but the next day will have
 frozen blue. Perhaps the blue color of water and ice is due to the
 light and air they contain, and the most transparent is the bluest. Ice
 is an interesting subject for contemplation. They told me that they had
-some in the ice-houses at Fresh Pond five years old which was as good
+some in the ice-houses at **Fresh Pond** five years old which was as good
 as ever. Why is it that a bucket of water soon becomes putrid, but
 frozen remains sweet forever? It is commonly said that this is the
 difference between the affections and the intellect.
@@ -546,13 +623,13 @@ its literature seem puny and trivial; and I doubt if that philosophy is
 not to be referred to a previous state of existence, so remote is its
 sublimity from our conceptions. I lay down the book and go to my well
 for water, and lo! there I meet the servant of the Bramin, priest of
-**Brahma and Vishnu and Indra**, who still sits in his temple on the Ganges
+Brahma and Vishnu and Indra, who still sits in his temple on the Ganges
 reading the Vedas, or dwells at the root of a tree with his crust and
 water jug. I meet his servant come to draw water for his master, and
 our buckets as it were grate together in the same well. The pure Walden
 water is mingled with the sacred water of the Ganges. With favoring
 winds it is wafted past the site of the **fabulous islands of Atlantis**
 and the **Hesperides**, makes the **periplus of Hanno**, and, floating by
-Ternate and Tidore and the mouth of the **Persian Gulf**, melts in the
-tropic gales of the Indian seas, and is landed in ports of which
+Ternate and Tidore and the mouth of the Persian Gulf, melts in the
+tropic gales of the **Indian seas**, and is landed in ports of which
 Alexander only heard the names.

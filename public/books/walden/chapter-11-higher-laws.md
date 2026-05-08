@@ -9,98 +9,175 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the duality of human nature, balancing spiritual aspirations with primal instincts."
+  - point: "Thoreau reflects on the tension between spiritual life and primal instincts, emphasizing the importance of both."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "He discusses the role of hunting and fishing in connecting humans to nature and their primitive roots."
+  - point: "He discusses the role of hunting and fishing in connecting humans to nature and their primal roots."
     link: "https://en.wikipedia.org/wiki/Hunting"
     link_label: "Hunting"
-  - point: "Thoreau critiques the consumption of animal food, advocating for a simpler, plant-based diet."
+  - point: "Thoreau critiques the consumption of animal food, advocating for a simpler and more ethical diet."
     link: "https://en.wikipedia.org/wiki/Vegetarianism"
     link_label: "Vegetarianism"
-  - point: "He explores the concept of purity, linking it to spiritual growth and the rejection of sensuality."
+  - point: "He explores the idea of purity and chastity as essential virtues for spiritual and moral growth."
     link: "https://en.wikipedia.org/wiki/Chastity"
     link_label: "Chastity"
-  - point: "Thoreau emphasizes the importance of individual effort and self-discipline in achieving higher principles."
-    link: "https://en.wikipedia.org/wiki/Self-discipline"
-    link_label: "Self-discipline"
-  - point: "He concludes with a meditation on the transformative power of art and music in elevating the human spirit."
+  - point: "Thoreau emphasizes the importance of listening to one's genius and living in harmony with higher principles."
+    link: "https://en.wikipedia.org/wiki/Genius"
+    link_label: "Genius"
+  - point: "The chapter concludes with a reflection on the transformative power of art and music in elevating the human spirit."
     link: "https://en.wikipedia.org/wiki/Music"
     link_label: "Music"
 
 enhancements:
-  - id: "string-of-fish"
-    trigger: "string of fish"
-    title: "Fishing as a Primitive Connection"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fishing"
-    image_url: ""
-    image_caption: ""
-    content: "Fishing has been a fundamental human activity for millennia, connecting people to nature and their primal instincts. In 'Walden,' Thoreau uses fishing as a metaphor for engaging with the wild and untamed aspects of life. This practice not only provided sustenance but also served as a way to observe and appreciate the natural world. Thoreau's reflections highlight the tension between the simplicity of nature and the complexities of modern life."
-  - id: "spiritual-life"
-    trigger: "spiritual life"
-    title: "Pursuit of Spiritual Life"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Spirituality"
-    image_url: ""
-    image_caption: ""
-    content: "Spiritual life refers to the pursuit of higher, non-material values and principles. Thoreau contrasts this with the primal instincts that humans also possess, suggesting that both are integral to human experience. His writings often explore how individuals can transcend their physical existence to achieve a deeper connection with the universe and their own inner selves."
   - id: "primitive-rank-and-savage"
     trigger: "primitive rank and savage"
-    title: "Primitive Instincts in Humans"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Primal_instinct"
+    title: "Primitive Rank and Savage Instincts"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Primitivism"
     image_url: ""
     image_caption: ""
-    content: "Thoreau acknowledges the 'primitive rank and savage' instincts within humans, which connect them to their ancestral past. These instincts, such as hunting and survival, are contrasted with the pursuit of higher ideals. Thoreau's exploration of this duality reflects his belief in the importance of embracing both the wild and the refined aspects of human nature."
+    content: "Thoreau's mention of 'primitive rank and savage' instincts reflects his exploration of humanity's primal connection to nature. Primitivism, a philosophical and artistic movement, often romanticizes the simplicity and authenticity of early human life. Thoreau's reverence for these instincts highlights his belief in the importance of balancing modern spirituality with primal vitality."
   - id: "falls-of-st-mary"
     trigger: "Falls of St. Mary"
-    title: "Falls of St. Mary: A Fishing Haven"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sault_Ste._Marie"
+    title: "Falls of St. Mary"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sault_Sainte_Marie"
     image_url: ""
     image_caption: ""
-    content: "The Falls of St. Mary, located in Sault Ste. Marie, Michigan, are historically significant as a fishing site for Indigenous peoples and early settlers. Thoreau mentions this location to illustrate the connection between geography and human activities like fishing, emphasizing how natural landscapes shape cultural practices and survival strategies."
-  - id: "fowling-piece"
-    trigger: "fowling piece"
-    title: "The Fowling Piece in Hunting"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fowling_piece"
-    image_url: ""
-    image_caption: ""
-    content: "A fowling piece is a type of firearm used for hunting birds. Thoreau references it to discuss the role of hunting in the education and development of young boys in New England. This tool symbolizes the connection between humans and their environment, as well as the ethical considerations of hunting for sport versus necessity."
+    content: "The Falls of St. Mary, located in Sault Sainte Marie, Michigan, are a historically significant site for fishing and trade. Thoreau uses this location to illustrate the connection between human activity and natural landscapes, emphasizing the role of fishermen and hunters in understanding and appreciating nature."
   - id: "humane-society"
     trigger: "Humane Society"
-    title: "Humane Society and Animal Welfare"
+    title: "Humane Society"
     wikipedia_url: "https://en.wikipedia.org/wiki/Humane_society"
     image_url: ""
     image_caption: ""
-    content: "The Humane Society is an organization dedicated to the welfare and protection of animals. Thoreau mentions it to critique the changing attitudes toward hunting and the scarcity of game. His reflections highlight the ethical dilemmas surrounding human interactions with animals and the evolving concept of humanity."
-  - id: "entomologists"
-    trigger: "entomologists"
-    title: "Entomologists and Insect Study"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Entomology"
+    content: "The Humane Society is an organization dedicated to the welfare of animals. Thoreau's reference underscores the evolving attitudes toward animal rights and the ethical considerations of hunting and fishing, reflecting his own philosophical struggle with the morality of consuming animal products."
+  - id: "chaucer-nun"
+    trigger: "Chaucer’s nun"
+    title: "Chaucer’s Nun"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Prioress%27s_Tale"
     image_url: ""
     image_caption: ""
-    content: "Entomologists study insects, which play crucial roles in ecosystems. Thoreau references their findings to draw parallels between the life cycles of insects and human dietary habits. This comparison underscores his philosophical musings on simplicity, consumption, and the natural order."
+    content: "Thoreau references Chaucer’s nun from 'The Canterbury Tales,' who dismisses the idea that hunters cannot be holy men. This allusion highlights the tension between spiritual pursuits and primal activities, a recurring theme in Thoreau's writing."
+  - id: "voracious-caterpillar"
+    trigger: "voracious caterpillar"
+    title: "Voracious Caterpillar"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Caterpillar"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the metaphor of the 'voracious caterpillar' to illustrate the transformation from a base, consuming state to a higher, more refined existence, akin to the metamorphosis of a caterpillar into a butterfly. This reflects his belief in personal and spiritual growth."
   - id: "gross-feeder"
     trigger: "gross feeder"
-    title: "Gross Feeder: A Metaphor for Excess"
+    title: "Gross Feeder"
     wikipedia_url: "https://en.wikipedia.org/wiki/Gluttony"
     image_url: ""
     image_caption: ""
-    content: "Thoreau uses the term 'gross feeder' to critique excessive consumption and its impact on the human spirit. Gluttony, historically viewed as a vice, is contrasted with temperance and moderation. This metaphor reflects Thoreau's broader philosophy of simplicity and self-restraint as pathways to higher living."
-  - id: "builder-of-a-temple"
-    trigger: "builder of a temple"
-    title: "Body as a Temple"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Body_as_a_temple"
+    content: "The term 'gross feeder' critiques excessive consumption and gluttony, which Thoreau sees as a hindrance to spiritual and intellectual development. He advocates for moderation and simplicity in diet as a means to elevate one's imagination and moral sensibilities."
+  - id: "nations-without-fancy-or-imagination"
+    trigger: "nations without fancy or imagination"
+    title: "Nations Without Imagination"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Imagination"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's metaphor of the body as a temple emphasizes the importance of self-care and purity. This concept, rooted in various religious and philosophical traditions, suggests that individuals should treat their bodies with reverence and align their physical actions with their spiritual values."
+    content: "Thoreau laments the lack of imagination in certain societies, which he believes leads to a stagnant and materialistic existence. Imagination, for Thoreau, is a vital faculty that connects humans to higher truths and creative potential."
+  - id: "snaring-rabbits"
+    trigger: "snaring rabbits"
+    title: "Snaring Rabbits"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Snare_(hunting)"
+    image_url: ""
+    image_caption: ""
+    content: "Snaring rabbits is a traditional hunting method that involves trapping animals using loops of wire or cord. Thoreau uses this example to critique the ethical implications of hunting and to advocate for a more humane and sustainable way of living."
+  - id: "leave-off-eating-animals"
+    trigger: "leave off eating animals"
+    title: "Leaving Off Eating Animals"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Vegetarianism"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau predicts that humanity will eventually abandon the consumption of animal products as part of its moral and spiritual evolution. This aligns with the principles of vegetarianism, which advocate for ethical, environmental, and health-related benefits."
+  - id: "faintest-but-constant-suggestions-of-his-genius"
+    trigger: "faintest but constant suggestions of his genius"
+    title: "Suggestions of Genius"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Genius"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau emphasizes the importance of listening to the subtle guidance of one's genius, which he sees as a divine or higher force leading individuals toward truth and fulfillment. This concept underscores his belief in intuition and personal authenticity."
+  - id: "segment-of-the-rainbow"
+    trigger: "segment of the rainbow"
+    title: "Segment of the Rainbow"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rainbow"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the 'segment of the rainbow' as a metaphor for the fleeting and intangible beauty of life’s highest moments. Rainbows symbolize hope and transcendence, aligning with Thoreau's philosophical ideals."
+  - id: "opium-eaters-heaven"
+    trigger: "opium-eater’s heaven"
+    title: "Opium-Eater’s Heaven"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau contrasts his preference for sobriety with the artificial and fleeting pleasures described in Thomas De Quincey’s 'Confessions of an English Opium-Eater.' This highlights his advocacy for natural and enduring sources of joy."
+  - id: "infinite-degrees-of-drunkenness"
+    trigger: "infinite degrees of drunkenness"
+    title: "Infinite Degrees of Drunkenness"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alcohol_intoxication"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau critiques the various forms of intoxication, whether through substances or sensory indulgence, as distractions from higher pursuits. He advocates for clarity and moderation as pathways to wisdom and virtue."
+  - id: "time-of-distress"
+    trigger: "time of distress"
+    title: "Time of Distress"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Vedas"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau references the Vedic concept of 'time of distress,' which permits certain actions under dire circumstances. This reflects his nuanced view of morality, acknowledging the complexity of ethical decisions in challenging situations."
+  - id: "thseng-tseu"
+    trigger: "Thseng-tseu"
+    title: "Thseng-tseu"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Zengzi"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes Thseng-tseu (Zengzi), a Confucian philosopher, to emphasize mindfulness and the importance of savoring life’s experiences. This aligns with Thoreau’s transcendentalist values of living deliberately and appreciating the present moment."
+  - id: "brown-bread-crust"
+    trigger: "brown-bread crust"
+    title: "Brown-Bread Crust"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brown_bread"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the humble 'brown-bread crust' to critique the gross appetites of those who consume without mindfulness. Brown bread, a staple of simple living, symbolizes his advocacy for moderation and intentionality in daily life."
+  - id: "hunter-has-a-taste-for-mud-turtles"
+    trigger: "hunter has a taste for mud-turtles"
+    title: "Hunter’s Taste for Mud-Turtles"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Turtle"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau contrasts the hunter’s taste for mud-turtles with the refined preferences of others, illustrating the diversity of human appetites and the ethical considerations of consuming animals. This reflects his broader critique of dietary habits."
+  - id: "goodness-is-the-only-investment"
+    trigger: "Goodness is the only investment"
+    title: "Goodness as an Investment"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ethics"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s assertion that 'goodness is the only investment' underscores his belief in the enduring value of virtue and moral integrity. This aligns with his transcendentalist philosophy, which prioritizes ethical living over material gain."
+  - id: "john-farmer"
+    trigger: "John Farmer"
+    title: "John Farmer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/John_Farmer_(historian)"
+    image_url: ""
+    image_caption: ""
+    content: "John Farmer, a fictional character in Thoreau’s narrative, represents the contemplative individual seeking higher truths. His reflection on life’s simplicity and the transformative power of music mirrors Thoreau’s own transcendentalist ideals."
   - id: "notes-of-the-flute"
     trigger: "notes of the flute"
-    title: "Flute Music and Transcendence"
+    title: "Notes of the Flute"
     wikipedia_url: "https://en.wikipedia.org/wiki/Flute"
     image_url: ""
     image_caption: ""
-    content: "The flute, often associated with serenity and introspection, serves as a symbol of transcendence in Thoreau's narrative. Its music inspires John Farmer to reflect on his life and consider higher aspirations. This moment illustrates the transformative power of art in connecting individuals to their inner selves and the universe."
+    content: "The 'notes of the flute' symbolize the transcendent and harmonious connection to nature and the divine. Thoreau uses this imagery to illustrate the power of art and music in elevating the human spirit."
+  - id: "why-do-you-stay-here"
+    trigger: "Why do you stay here"
+    title: "Why Do You Stay Here?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s rhetorical question challenges individuals to break free from mundane routines and pursue a 'glorious existence.' This reflects the transcendentalist call to live authentically and in harmony with higher principles."
 ---
-As I came home through the woods with my **string of fish**, trailing my
+As I came home through the woods with my string of fish, trailing my
 pole, it being now quite dark, I caught a glimpse of a woodchuck
 stealing across my path, and felt a strange thrill of savage delight,
 and was strongly tempted to seize and devour him raw; not that I was
@@ -110,7 +187,7 @@ woods, like a half-starved hound, with a strange abandonment, seeking
 some kind of venison which I might devour, and no morsel could have
 been too savage for me. The wildest scenes had become unaccountably
 familiar. I found in myself, and still find, an instinct toward a
-higher, or, as it is named, **spiritual life**, as do most men, and another
+higher, or, as it is named, spiritual life, as do most men, and another
 toward a **primitive rank and savage** one, and I reverence them both. I
 love the wild not less than the good. The wildness and adventure that
 are in fishing still recommended it to me. I like sometimes to take
@@ -136,7 +213,7 @@ has not so many public holidays, and men and boys do not play so many
 games as they do in England, for here the more primitive but solitary
 amusements of hunting fishing and the like have not yet given place to
 the former. Almost every New England boy among my contemporaries
-shouldered a **fowling piece** between the ages of ten and fourteen; and
+shouldered a fowling piece between the ages of ten and fourteen; and
 his hunting and fishing grounds were not limited, like the preserves of
 an English nobleman, but were more boundless even than those of a
 savage. No wonder, then, that he did not oftener stay to play on the
@@ -166,14 +243,14 @@ I have answered, yes,—remembering that it was one of the best parts of
 my education,—_make_ them hunters, though sportsmen only at first, if
 possible, mighty hunters at last, so that they shall not find game
 large enough for them in this or any vegetable wilderness,—hunters as
-well as fishers of men. Thus far I am of the opinion of Chaucer’s nun,
+well as fishers of men. Thus far I am of the opinion of **Chaucer’s nun**,
 who
 
      “yave not of the text a pulled hen
      That saith that hunters ben not holy men.”
 
 There is a period in the history of the individual, as of the race,
-when the hunters are the “best men,” as the **Algonquins called them**. We
+when the hunters are the “best men,” as the Algonquins called them. We
 cannot but pity the boy who has never fired a gun; he is no more
 humane, while his education has been sadly neglected. This was my
 answer with respect to those youths who were bent on this pursuit,
@@ -205,7 +282,7 @@ for they went a-fishing there when they were boys; but now they are too
 old and dignified to go a-fishing, and so they know it no more forever.
 Yet even they expect to go to heaven at last. If the legislature
 regards it, it is chiefly to regulate the number of hooks to be used
-there; but they know nothing about the hook of hooks with which to
+there; but they know nothing about the **hook of hooks** with which to
 angle for the pond itself, impaling the legislature for a bait. Thus,
 even in civilized communities, the embryo man passes through the hunter
 stage of development.
@@ -242,17 +319,17 @@ though I never did so, I went far enough to please my imagination. I
 believe that every man who has ever been earnest to preserve his higher
 or poetic faculties in the best condition has been particularly
 inclined to abstain from animal food, and from much food of any kind.
-It is a significant fact, stated by **entomologists**, I find it in Kirby
+It is a significant fact, stated by entomologists, I find it in Kirby
 and Spence, that “some insects in their perfect state, though furnished
 with organs of feeding, make no use of them;” and they lay it down as
 “a general rule, that almost all insects in this state eat much less
-than in that of larvæ. The voracious caterpillar when transformed into
+than in that of larvæ. The **voracious caterpillar** when transformed into
 a butterfly,” . . “and the gluttonous maggot when become a fly,”
 content themselves with a drop or two of honey or some other sweet
 liquid. The abdomen under the wings of the butterfly still represents
 the larva. This is the tid-bit which tempts his insectivorous fate. The
 **gross feeder** is a man in the larva state; and there are whole nations
-in that condition, nations without fancy or imagination, whose vast
+in that condition, **nations without fancy or imagination**, whose vast
 abdomens betray them.
 
 It is hard to provide and cook so simple and clean a diet as will not
@@ -270,16 +347,16 @@ is to be made. It may be vain to ask why the imagination will not be
 reconciled to flesh and fat. I am satisfied that it is not. Is it not a
 reproach that man is a carnivorous animal? True, he can and does live,
 in a great measure, by preying on other animals; but this is a
-miserable way,—as any one who will go to snaring rabbits, or
+miserable way,—as any one who will go to **snaring rabbits**, or
 slaughtering lambs, may learn,—and he will be regarded as a benefactor
 of his race who shall teach man to confine himself to a more innocent
 and wholesome diet. Whatever my own practice may be, I have no doubt
 that it is a part of the destiny of the human race, in its gradual
-improvement, to leave off eating animals, as surely as the savage
+improvement, to **leave off eating animals**, as surely as the savage
 tribes have left off eating each other when they came in contact with
 the more civilized.
 
-If one listens to the faintest but constant suggestions of his genius,
+If one listens to the **faintest but constant suggestions of his genius**,
 which are certainly true, he sees not to what extremes, or even
 insanity, it may lead him; and yet that way, as he grows more resolute
 and faithful, his road lies. The faintest assured objection which one
@@ -297,13 +374,13 @@ We soon forget them. They are the highest reality. Perhaps the facts
 most astounding and most real are never communicated by man to man. The
 true harvest of my daily life is somewhat as intangible and
 indescribable as the tints of morning or evening. It is a little
-star-dust caught, a segment of the rainbow which I have clutched.
+star-dust caught, a **segment of the rainbow** which I have clutched.
 
 Yet, for my part, I was never unusually squeamish; I could sometimes
 eat a fried rat with a good relish, if it were necessary. I am glad to
 have drunk water so long, for the same reason that I prefer the natural
-sky to an opium-eater’s heaven. I would fain keep sober always; and
-there are infinite degrees of drunkenness. I believe that water is the
+sky to an **opium-eater’s heaven**. I would fain keep sober always; and
+there are **infinite degrees of drunkenness**. I believe that water is the
 only drink for a wise man; wine is not so noble a liquor; and think of
 dashing the hopes of a morning with a cup of warm coffee, or of an
 evening with a dish of tea! Ah, how low I fall when I am tempted by
@@ -324,31 +401,31 @@ says, that “he who has true faith in the Omnipresent Supreme Being may
 eat all that exists,” that is, is not bound to inquire what is his
 food, or who prepares it; and even in their case it is to be observed,
 as a Hindoo commentator has remarked, that the Vedant limits this
-privilege to “the time of distress.”
+privilege to “the **time of distress**.”
 
 Who has not sometimes derived an inexpressible satisfaction from his
 food in which appetite had no share? I have been thrilled to think that
 I owed a mental perception to the commonly gross sense of taste, that I
 have been inspired through the palate, that some berries which I had
 eaten on a hill-side had fed my genius. “The soul not being mistress of
-herself,” says Thseng-tseu, “one looks, and one does not see; one
+herself,” says **Thseng-tseu**, “one looks, and one does not see; one
 listens, and one does not hear; one eats, and one does not know the
 savor of food.” He who distinguishes the true savor of his food can
 never be a glutton; he who does not cannot be otherwise. A puritan may
-go to his brown-bread crust with as gross an appetite as ever an
+go to his **brown-bread crust** with as gross an appetite as ever an
 alderman to his turtle. Not that food which entereth into the mouth
 defileth a man, but the appetite with which it is eaten. It is neither
 the quality nor the quantity, but the devotion to sensual savors; when
 that which is eaten is not a viand to sustain our animal, or inspire
 our spiritual life, but food for the worms that possess us. If the
-hunter has a taste for mud-turtles, muskrats, and other such savage
+**hunter has a taste for mud-turtles**, muskrats, and other such savage
 tid-bits, the fine lady indulges a taste for jelly made of a calf’s
 foot, or for sardines from over the sea, and they are even. He goes to
 the mill-pond, she to her preserve-pot. The wonder is how they, how you
 and I, can live this slimy, beastly life, eating and drinking.
 
 Our whole life is startlingly moral. There is never an instant’s truce
-between virtue and vice. Goodness is the only investment that never
+between virtue and vice. **Goodness is the only investment** that never
 fails. In the music of the harp which trembles round the world it is
 the insisting on this which thrills us. The harp is the travelling
 patterer for the Universe’s Insurance Company, recommending its laws,
@@ -370,7 +447,7 @@ we may be well, yet not pure. The other day I picked up the lower jaw
 of a hog, with white and sound teeth and tusks, which suggested that
 there was an animal health and vigor distinct from the spiritual. This
 creature succeeded by other means than temperance and purity. “That in
-which men differ from brute beasts,” says Mencius, “is a thing very
+which men differ from brute beasts,” says **Mencius**, “is a thing very
 inconsiderable; the common herd lose it very soon; superior men
 preserve it carefully.” Who knows what sort of life would result if we
 had attained to purity? If I knew so wise a man as could teach me
@@ -379,9 +456,9 @@ and over the external senses of the body, and good acts, are declared
 by the Ved to be indispensable in the mind’s approximation to God.” Yet
 the spirit can for the time pervade and control every member and
 function of the body, and transmute what in form is the grossest
-sensuality into purity and devotion. The generative energy, which, when
+sensuality into purity and devotion. The **generative energy**, which, when
 we are loose, dissipates and makes us unclean, when we are continent
-invigorates and inspires us. Chastity is the flowering of man; and what
+invigorates and inspires us. **Chastity is the flowering of man**; and what
 are called Genius, Heroism, Holiness, and the like, are but various
 fruits which succeed it. Man flows at once to God when the channel of
 purity is open. By turns our purity inspires and our impurity casts us
@@ -435,13 +512,13 @@ to eat, drink, cohabit, void excrement and urine, and the like,
 elevating what is mean, and does not falsely excuse himself by calling
 these things trifles.
 
-Every man is the **builder of a temple**, called his body, to the god he
+Every man is the builder of a temple, called his body, to the god he
 worships, after a style purely his own, nor can he get off by hammering
 marble instead. We are all sculptors and painters, and our material is
 our own flesh and blood and bones. Any nobleness begins at once to
 refine a man’s features, any meanness or sensuality to imbrute them.
 
-John Farmer sat at his door one September evening, after a hard day’s
+**John Farmer** sat at his door one September evening, after a hard day’s
 work, his mind still running on his labor more or less. Having bathed,
 he sat down to re-create his intellectual man. It was a rather cool
 evening, and some of his neighbors were apprehending a frost. He had
@@ -455,7 +532,7 @@ off. But the **notes of the flute** came home to his ears out of a
 different sphere from that he worked in, and suggested work for certain
 faculties which slumbered in him. They gently did away with the street,
 and the village, and the state in which he lived. A voice said to
-him,—Why do you stay here and live this mean moiling life, when a
+him,—**Why do you stay here** and live this mean moiling life, when a
 glorious existence is possible for you? Those same stars twinkle over
 other fields than these.—But how to come out of this condition and
 actually migrate thither? All that he could think of was to practise

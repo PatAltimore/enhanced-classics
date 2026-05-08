@@ -9,96 +9,166 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau contrasts the language of books with the universal language of nature and events."
-    link: "https://en.wikipedia.org/wiki/Walden"
-    link_label: "Walden"
-  - point: "He reflects on the value of contemplation and solitude over physical labor or societal routines."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism"
-  - point: "Thoreau describes his connection to nature and the simplicity of his home and surroundings."
+  - point: "Thoreau reflects on the importance of observing nature over relying solely on books and structured learning."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "The chapter explores the impact of the Fitchburg Railroad on his solitude and its symbolic significance."
+  - point: "He describes his contemplative mornings spent in solitude, appreciating the natural world around him."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "Thoreau contrasts his simple, self-sufficient lifestyle with the bustling activity of commerce and railroads."
     link: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
     link_label: "Fitchburg Railroad"
-  - point: "Thoreau observes the natural sounds and rhythms of the wilderness, contrasting them with human activity."
-    link: "https://en.wikipedia.org/wiki/Nature_writing"
-    link_label: "Nature writing"
-  - point: "He reflects on the interconnectedness of commerce, nature, and human enterprise."
-    link: "https://en.wikipedia.org/wiki/Commerce"
-    link_label: "Commerce"
+  - point: "He observes the sounds of nature, including birds, owls, and bullfrogs, as integral to his experience of living at Walden Pond."
+    link: "https://en.wikipedia.org/wiki/Bullfrog"
+    link_label: "Bullfrog"
+  - point: "Thoreau reflects on the transformative power of solitude and the connection between man and nature."
+    link: "https://en.wikipedia.org/wiki/Transcendentalism"
+    link_label: "Transcendentalism"
+  - point: "He critiques industrialization and commerce, pondering their impact on society and nature."
+    link: "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    link_label: "Industrial Revolution"
 
 enhancements:
   - id: "orientals-contemplation"
     trigger: "the Orientals mean by contemplation"
-    title: "Eastern Philosophy and Contemplation"
+    title: "Eastern Philosophy of Contemplation"
     wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_philosophy"
     image_url: ""
     image_caption: ""
-    content: "Thoreau refers to Eastern philosophies that emphasize meditation and detachment from worldly activities. This reflects the influence of Hindu and Buddhist thought on Transcendentalism, which values inner peace and spiritual growth. Such philosophies advocate for mindfulness and living in harmony with nature, aligning with Thoreau's ideals in Walden."
-  - id: "puri-indians-time"
-    trigger: "the Puri Indians"
-    title: "Puri Indians and Time Perception"
+    content: "Eastern philosophies often emphasize contemplation and meditation as paths to enlightenment and self-realization. Thoreau's reference to 'Orientals' reflects his interest in transcendental ideas and the value of introspection, aligning with his broader philosophy of simplicity and connection to nature."
+  - id: "puri-indians-time-concept"
+    trigger: "Puri Indians"
+    title: "Puri Indians' Concept of Time"
     wikipedia_url: "https://en.wikipedia.org/wiki/Puri_people"
     image_url: ""
     image_caption: ""
-    content: "Thoreau admires the Puri Indians' unique concept of time, where past, present, and future are expressed through gestures rather than distinct words. This perspective challenges Western notions of linear time and resonates with Thoreau's emphasis on living in the moment and rejecting rigid societal structures."
+    content: "The Puri Indians, indigenous to South America, had a unique concept of time, using a single word to denote yesterday, today, and tomorrow, with gestures to indicate temporal context. Thoreau admired their simplicity, contrasting it with the regimented timekeeping of industrialized societies."
+  - id: "life-everlasting-plant"
+    trigger: "life-everlasting grows under the table"
+    title: "Life-Everlasting Plant"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gnaphalium"
+    image_url: ""
+    image_caption: ""
+    content: "Life-everlasting, a type of flowering plant in the Gnaphalium genus, symbolizes endurance and immortality. Thoreau's mention of it highlights his appreciation for the resilience and beauty of nature, even in the smallest details of his surroundings."
+  - id: "cerasus-pumila"
+    trigger: "Cerasus pumila"
+    title: "Sand Cherry (Cerasus pumila)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Prunus_pumila"
+    image_url: ""
+    image_caption: ""
+    content: "Cerasus pumila, or sand cherry, is a shrub native to North America, known for its delicate flowers and edible fruit. Thoreau's observation of its growth and seasonal changes reflects his deep engagement with the natural world around Walden Pond."
+  - id: "rhus-glabra"
+    trigger: "Rhus glabra"
+    title: "Smooth Sumac (Rhus glabra)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rhus_glabra"
+    image_url: ""
+    image_caption: ""
+    content: "Rhus glabra, or smooth sumac, is a deciduous shrub native to North America. Its vibrant red berries and tropical-looking leaves fascinated Thoreau, symbolizing the dynamic and magical growth of nature."
   - id: "fitchburg-railroad"
-    trigger: "the Fitchburg Railroad"
-    title: "Fitchburg Railroad's Role in Walden"
+    trigger: "Fitchburg Railroad"
+    title: "Fitchburg Railroad"
     wikipedia_url: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
     image_url: ""
     image_caption: ""
-    content: "The Fitchburg Railroad, which passed near Walden Pond, symbolizes industrial progress and its intrusion into natural solitude. Thoreau uses the railroad as a metaphor for human ambition and the tension between nature and technology, reflecting broader themes of 19th-century industrialization."
-  - id: "scream-of-a-hawk"
-    trigger: "the scream of a hawk"
-    title: "Hawk Screams and Symbolism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hawk"
+    content: "The Fitchburg Railroad was a significant transportation route in 19th-century Massachusetts. Thoreau's proximity to the railroad allowed him to observe its impact on society and nature, serving as a metaphor for industrial progress and its consequences."
+  - id: "whistle-of-locomotive"
+    trigger: "whistle of the locomotive"
+    title: "Locomotive Whistle"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Train_whistle"
     image_url: ""
     image_caption: ""
-    content: "Thoreau compares the whistle of the locomotive to the scream of a hawk, blending natural imagery with industrial sounds. Hawks often symbolize freedom and vision, contrasting with the mechanical and constrained nature of the railroad, highlighting Thoreau's ambivalence toward progress."
+    content: "The whistle of a locomotive was a hallmark of industrialization, signaling the arrival of goods and people. Thoreau uses it as a symbol of the restless energy of commerce and its intrusion into the quietude of nature."
+  - id: "cloud-compeller"
+    trigger: "cloud-compeller"
+    title: "Cloud-Compeller Metaphor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Zeus"
+    image_url: ""
+    image_caption: ""
+    content: "The term 'cloud-compeller' is often associated with Zeus, the Greek god of the sky. Thoreau uses it metaphorically to describe the locomotive, likening its steam clouds to divine power and industrial might."
   - id: "iron-horse"
-    trigger: "the iron horse"
-    title: "The Iron Horse: Railroads in Mythology"
-    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_rail_transport"
+    trigger: "iron horse"
+    title: "Iron Horse Symbolism"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Iron_horse"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's metaphor of the 'iron horse' captures the transformative impact of railroads on society. Railroads were seen as symbols of progress and power during the 19th century, reshaping landscapes and economies. Thoreau critiques their relentless pace and questions their alignment with noble human endeavors."
-  - id: "great-snow"
-    trigger: "the Great Snow"
-    title: "The Great Snow and Resilience"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Blizzard"
+    content: "The 'iron horse' is a poetic term for trains, symbolizing the power and speed of industrial progress. Thoreau critiques its relentless pace and questions whether humanity's use of technology aligns with noble purposes."
+  - id: "atropos-fate"
+    trigger: "Atropos"
+    title: "Atropos in Greek Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Atropos"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's mention of the 'Great Snow' evokes the harsh New England winters and the resilience required to endure them. Snowstorms symbolize nature's power and unpredictability, challenging human enterprise and reflecting themes of survival and adaptation in Walden."
-  - id: "long-wharf-lake-champlain"
+    content: "Atropos, one of the three Fates in Greek mythology, was responsible for cutting the thread of life. Thoreau uses this reference to highlight the inevitability and precision of industrial schedules, likening them to a predetermined fate."
+  - id: "sons-of-tell"
+    trigger: "sons of Tell"
+    title: "William Tell Reference"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Tell"
+    image_url: ""
+    image_caption: ""
+    content: "William Tell, a Swiss folk hero, symbolizes independence and precision. Thoreau's reference to 'sons of Tell' underscores the importance of staying true to one's path amidst the pressures of industrialization."
+  - id: "buena-vista-battle"
+    trigger: "Buena Vista"
+    title: "Battle of Buena Vista"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Buena_Vista"
+    image_url: ""
+    image_caption: ""
+    content: "The Battle of Buena Vista was a key conflict in the Mexican-American War. Thoreau contrasts the heroism of soldiers with the quiet courage of workers enduring harsh conditions, emphasizing different forms of valor."
+  - id: "long-wharf-commerce"
     trigger: "Long Wharf to Lake Champlain"
-    title: "Trade Routes and Connectivity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lake_Champlain"
+    title: "Long Wharf and Lake Champlain"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Long_Wharf_(Boston)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau references the trade route from Long Wharf in Boston to Lake Champlain, highlighting the interconnectedness of commerce and nature. These routes facilitated economic growth and cultural exchange, shaping the development of New England and its relationship with the broader world."
+    content: "Long Wharf in Boston was a hub of maritime commerce, connecting New England to distant markets. Thoreau uses this imagery to reflect on the global reach of trade and its impact on local life."
   - id: "manilla-hemp"
     trigger: "Manilla hemp"
-    title: "Manilla Hemp and Global Trade"
+    title: "Manilla Hemp"
     wikipedia_url: "https://en.wikipedia.org/wiki/Abac%C3%A1"
     image_url: ""
     image_caption: ""
-    content: "Manilla hemp, derived from the abacá plant, was a key export from the Philippines and widely used for ropes and textiles. Its mention in Walden underscores the global reach of commerce and the diverse origins of goods that shaped 19th-century economies and lifestyles."
-  - id: "spanish-hides"
-    trigger: "Spanish hides"
-    title: "Spanish Hides and Leather Trade"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Leather"
+    content: "Manilla hemp, derived from the abacá plant, was a valuable material for ropes and textiles. Thoreau's mention of it evokes the interconnectedness of global trade and the natural resources that fuel commerce."
+  - id: "thomaston-lime"
+    trigger: "Thomaston lime"
+    title: "Thomaston Lime Industry"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Thomaston,_Maine"
     image_url: ""
     image_caption: ""
-    content: "Spanish hides were a significant commodity in the leather trade, reflecting the agricultural and commercial practices of the Spanish colonies. Thoreau uses them as a metaphor for stubbornness and unchangeable human nature, tying commerce to philosophical observations."
-  - id: "lincoln-woods"
-    trigger: "the Lincoln woods"
-    title: "Lincoln Woods and Local Geography"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lincoln,_Massachusetts"
+    content: "Thomaston, Maine, was known for its lime production, essential for construction and agriculture. Thoreau's reference highlights the movement of natural resources through industrial networks."
+  - id: "trump-of-bullfrogs"
+    trigger: "trump of bullfrogs"
+    title: "Bullfrog Sounds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bullfrog"
     image_url: ""
     image_caption: ""
-    content: "The Lincoln woods near Walden Pond represent the untouched natural landscapes that Thoreau cherished. Lincoln, Massachusetts, was part of the rural environment that inspired his reflections on solitude, nature, and the encroachment of industrialization."
+    content: "The bullfrog's deep, resonant call is a defining sound of wetlands. Thoreau uses their 'trump' to personify them as ancient revelers, adding a humorous and vivid dimension to his observations of nature."
+  - id: "wild-indian-pheasant"
+    trigger: "wild Indian pheasant"
+    title: "Wild Indian Pheasant"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Red_junglefowl"
+    image_url: ""
+    image_caption: ""
+    content: "The 'wild Indian pheasant' refers to the red junglefowl, the ancestor of domestic chickens. Thoreau imagines its crowing as a natural alarm, inspiring early rising and a connection to the rhythms of nature."
+  - id: "chanticleer-symbolism"
+    trigger: "Chanticleer"
+    title: "Chanticleer in Literature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chanticleer"
+    image_url: ""
+    image_caption: ""
+    content: "Chanticleer, a rooster character in fables and literature, symbolizes vigilance and vitality. Thoreau admires its crowing as a call to action and a celebration of life."
+  - id: "whippoorwill-habits"
+    trigger: "whippoorwill on the ridge pole"
+    title: "Whippoorwill Habits"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Whip-poor-will"
+    image_url: ""
+    image_caption: ""
+    content: "The whippoorwill is a nocturnal bird known for its distinctive call. Thoreau's observations of its habits reflect his deep engagement with the rhythms of nature and his appreciation for its subtle beauty."
+  - id: "laughing-loon"
+    trigger: "laughing loon on the pond"
+    title: "Laughing Loon"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Common_loon"
+    image_url: ""
+    image_caption: ""
+    content: "The common loon, known for its haunting calls, is a symbol of wilderness and solitude. Thoreau's mention of the 'laughing loon' underscores his connection to the untamed beauty of Walden Pond."
 ---
 But while we are confined to books, though the most select and classic,
 and read only particular written languages, which are themselves but
@@ -136,7 +206,7 @@ As the sparrow had its trill, sitting on the hickory before my door, so
 had I my chuckle or suppressed warble which he might hear out of my
 nest. My days were not days of the week, bearing the stamp of any
 heathen deity, nor were they minced into hours and fretted by the
-ticking of a clock; for I lived like **the Puri Indians**, of whom it is
+ticking of a clock; for I lived like the **Puri Indians**, of whom it is
 said that “for yesterday, to-day, and to-morrow they have only one
 word, and they express the variety of meaning by pointing backward for
 yesterday, forward for to-morrow, and overhead for the passing day.”
@@ -169,7 +239,7 @@ tempted to stretch an awning over them and take my seat there. It was
 worth the while to see the sun shine on these things, and hear the free
 wind blow on them; so much more interesting most familiar objects look
 out of doors than in the house. A bird sits on the next bough,
-life-everlasting grows under the table, and blackberry vines run round
+**life-everlasting grows under the table**, and blackberry vines run round
 its legs; pine cones, chestnut burs, and strawberry leaves are strewn
 about. It looked as if this was the way these forms came to be
 transferred to our furniture, to tables, chairs, and bedsteads,—because
@@ -181,12 +251,12 @@ hickories, and half a dozen rods from the pond, to which a narrow
 footpath led down the hill. In my front yard grew the strawberry,
 blackberry, and life-everlasting, johnswort and goldenrod, shrub-oaks
 and sand-cherry, blueberry and groundnut. Near the end of May, the
-sand-cherry (_Cerasus pumila_,) adorned the sides of the path with its
+sand-cherry (_**Cerasus pumila**_,) adorned the sides of the path with its
 delicate flowers arranged in umbels cylindrically about its short
 stems, which last, in the fall, weighed down with good sized and
 handsome cherries, fell over in wreaths like rays on every side. I
 tasted them out of compliment to Nature, though they were scarcely
-palatable. The sumach (_Rhus glabra_,) grew luxuriantly about the
+palatable. The sumach (_**Rhus glabra**_,) grew luxuriantly about the
 house, pushing up through the embankment which I had made, and growing
 five or six feet the first season. Its broad pinnate tropical leaf was
 pleasant though strange to look on. The large buds, suddenly pushing
@@ -231,8 +301,8 @@ old acquaintance, they pass me so often, and apparently they take me
 for an employee; and so I am. I too would fain be a track-repairer
 somewhere in the orbit of the earth.
 
-The whistle of the locomotive penetrates my woods summer and winter,
-sounding like **the scream of a hawk** sailing over some farmer’s yard,
+The **whistle of the locomotive** penetrates my woods summer and winter,
+sounding like the scream of a hawk sailing over some farmer’s yard,
 informing me that many restless city merchants are arriving within the
 circle of the town, or adventurous country traders from the other side.
 As they come under one horizon, they shout their warning to get off the
@@ -255,8 +325,8 @@ since its orbit does not look like a returning curve,—with its steam
 cloud like a banner streaming behind in golden and silver wreaths, like
 many a downy cloud which I have seen, high in the heavens, unfolding
 its masses to the light,—as if this travelling demigod, this
-cloud-compeller, would ere long take the sunset sky for the livery of
-his train; when I hear **the iron horse** make the hills echo with his
+**cloud-compeller**, would ere long take the sunset sky for the livery of
+his train; when I hear the **iron horse** make the hills echo with his
 snort like thunder, shaking the earth with his feet, and breathing fire
 and smoke from his nostrils, (what kind of winged horse or fiery dragon
 they will put into the new Mythology I don’t know), it seems as if the
@@ -310,12 +380,12 @@ conveyance, are on hand when the bell rings. To do things “railroad
 fashion” is now the by-word; and it is worth the while to be warned so
 often and so sincerely by any power to get off its track. There is no
 stopping to read the riot act, no firing over the heads of the mob, in
-this case. We have constructed a fate, an _Atropos_, that never turns
+this case. We have constructed a fate, an _**Atropos**_, that never turns
 aside. (Let that be the name of your engine.) Men are advertised that
 at a certain hour and minute these bolts will be shot toward particular
 points of the compass; yet it interferes with no man’s business, and
 the children go to school on the other track. We live the steadier for
-it. We are all educated thus to be sons of Tell. The air is full of
+it. We are all educated thus to be **sons of Tell**. The air is full of
 invisible bolts. Every path but your own is the path of fate. Keep on
 your own track, then.
 
@@ -324,13 +394,13 @@ not clasp its hands and pray to Jupiter. I see these men every day go
 about their business with more or less courage and content, doing more
 even than they suspect, and perchance better employed than they could
 have consciously devised. I am less affected by their heroism who stood
-up for half an hour in the front line at Buena Vista, than by the
+up for half an hour in the front line at **Buena Vista**, than by the
 steady and cheerful valor of the men who inhabit the snow-plough for
 their winter quarters; who have not merely the three-o’-clock in the
 morning courage, which Bonaparte thought was the rarest, but whose
 courage does not go to rest so early, who go to sleep only when the
 storm sleeps or the sinews of their iron steed are frozen. On this
-morning of **the Great Snow**, perchance, which is still raging and
+morning of the Great Snow, perchance, which is still raging and
 chilling men’s blood, I hear the muffled tone of their engine bell from
 out the fog bank of their chilled breath, which announces that the cars
 _are coming_, without long delay, notwithstanding the veto of a New
@@ -345,7 +415,7 @@ unwearied. It is very natural in its methods withal, far more so than
 many fantastic enterprises and sentimental experiments, and hence its
 singular success. I am refreshed and expanded when the freight train
 rattles past me, and I smell the stores which go dispensing their odors
-all the way from **Long Wharf** to **Lake Champlain**, reminding me of foreign
+all the way from **Long Wharf to Lake Champlain**, reminding me of foreign
 parts, of coral reefs, and Indian oceans, and tropical climes, and the
 extent of the globe. I feel more like a citizen of the world at the
 sight of the palm-leaf which will cover so many flaxen New England
@@ -421,7 +491,7 @@ car-load of drovers, too, in the midst, on a level with their droves
 now, their vocation gone, but still clinging to their useless sticks as
 their badge of office. But their dogs, where are they? It is a stampede
 to them; they are quite thrown out; they have lost the scent. Methinks
-I hear them barking behind the Peterboro’ Hills, or panting up the
+I hear them barking behind the **Peterboro’ Hills**, or panting up the
 western slope of the Green Mountains. They will not be in at the death.
 Their vocation, too, is gone. Their fidelity and sagacity are below par
 now. They will slink back to their kennels in disgrace, or perchance
@@ -509,7 +579,7 @@ been bor-r-r-r-n!_ sighs one on this side of the pond, and circles with
 the restlessness of despair to some new perch on the gray oaks.
 Then—_that I never had been bor-r-r-r-n!_ echoes another on the farther
 side with tremulous sincerity, and—_bor-r-r-r-n!_ comes faintly from
-far in **the Lincoln woods**.
+far in the Lincoln woods.
 
 I was also serenaded by a hooting owl. Near at hand you could fancy it
 the most melancholy sound in Nature, as if she meant by this to
@@ -540,7 +610,7 @@ Late in the evening I heard the distant rumbling of wagons over
 bridges,—a sound heard farther than almost any other at night,—the
 baying of dogs, and sometimes again the lowing of some disconsolate cow
 in a distant barn-yard. In the mean while all the shore rang with the
-trump of bullfrogs, the sturdy spirits of ancient wine-bibbers and
+**trump of bullfrogs**, the sturdy spirits of ancient wine-bibbers and
 wassailers, still unrepentant, trying to sing a catch in their Stygian
 lake,—if the Walden nymphs will pardon the comparison, for though there
 are almost no weeds, there are frogs there,—who would fain keep up the
@@ -552,7 +622,7 @@ mere saturation and waterloggedness and distention. The most
 aldermanic, with his chin upon a heart-leaf, which serves for a napkin
 to his drooling chaps, under this northern shore quaffs a deep draught
 of the once scorned water, and passes round the cup with the
-ejaculation _tr-r-r-oonk, tr-r-r-oonk, tr-r-r-oonk!_ and straightway
+ejaculation _**tr-r-r-oonk**, tr-r-r-oonk, tr-r-r-oonk!_ and straightway
 comes over the water from some distant cove the same password repeated,
 where the next in seniority and girth has gulped down to his mark; and
 when this observance has made the circuit of the shores, then
@@ -566,7 +636,7 @@ bellowing _troonk_ from time to time, and pausing for a reply.
 I am not sure that I ever heard the sound of cock-crowing from my
 clearing, and I thought that it might be worth the while to keep a
 cockerel for his music merely, as a singing bird. The note of this once
-wild Indian pheasant is certainly the most remarkable of any bird’s,
+**wild Indian pheasant** is certainly the most remarkable of any bird’s,
 and if they could be naturalized without being domesticated, it would
 soon become the most famous sound in our woods, surpassing the clangor
 of the goose and the hooting of the owl; and then imagine the cackling
@@ -580,7 +650,7 @@ put nations on the alert. Who would not be early to rise, and rise
 earlier and earlier every successive day of his life, till he became
 unspeakably healthy, wealthy, and wise? This foreign bird’s note is
 celebrated by the poets of all countries along with the notes of their
-native songsters. All climates agree with brave Chanticleer. He is more
+native songsters. All climates agree with brave **Chanticleer**. He is more
 indigenous even than the natives. His health is ever good, his lungs
 are sound, his spirits never flag. Even the sailor on the Atlantic and
 Pacific is awakened by his voice; but its shrill sound never roused me
@@ -591,9 +661,9 @@ nor the hissing of the urn, nor children crying, to comfort one. An
 old-fashioned man would have lost his senses or died of ennui before
 this. Not even rats in the wall, for they were starved out, or rather
 were never baited in,—only squirrels on the roof and under the floor, a
-whippoorwill on the ridge pole, a blue-jay screaming beneath the
+**whippoorwill on the ridge pole**, a blue-jay screaming beneath the
 window, a hare or woodchuck under the house, a screech-owl or a cat-owl
-behind it, a flock of wild geese or a laughing loon on the pond, and a
+behind it, a flock of wild geese or a **laughing loon on the pond**, and a
 fox to bark in the night. Not even a lark or an oriole, those mild
 plantation birds, ever visited my clearing. No cockerels to crow nor
 hens to cackle in the yard. No yard! but unfenced Nature reaching up to

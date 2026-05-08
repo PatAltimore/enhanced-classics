@@ -9,101 +9,157 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau observes the effects of ice-cutters on ponds and contrasts Walden's resilience due to its depth and lack of streams."
+  - point: "Thoreau observes the impact of ice-cutters on ponds and compares Walden's ice melting patterns to other nearby ponds."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "Thoreau compares the thawing process of Walden Pond to other ponds like Flint’s Pond and Fair-Haven, noting differences in ice thickness and temperature."
-    link: "https://en.wikipedia.org/wiki/Flint%27s_Pond"
-    link_label: "Flint's Pond"
-  - point: "Thoreau describes the arrival of spring through natural phenomena, including the chirping of birds like the bluebird, song-sparrow, and red-wing."
-    link: "https://en.wikipedia.org/wiki/Bluebird"
-    link_label: "Bluebird"
-  - point: "Thoreau marvels at the sand foliage formed by thawing sand and clay, likening it to organic and artistic forms."
-    link: "https://en.wikipedia.org/wiki/Sand"
-    link_label: "Sand"
-  - point: "Thoreau reflects on the transition from winter to spring, emphasizing nature's vitality and the interconnectedness of all life."
+  - point: "Thoreau describes the seasonal changes in temperature and the phenomena of ice cracking and booming on ponds."
+    link: "https://en.wikipedia.org/wiki/Season"
+    link_label: "Seasonal changes"
+  - point: "Thoreau reflects on the arrival of spring, noting the melting snow, longer days, and the return of birds and animals."
     link: "https://en.wikipedia.org/wiki/Spring_(season)"
-    link_label: "Spring"
-  - point: "Thoreau concludes with reflections on his first year at Walden and the cyclical beauty of nature as seasons change."
-    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    link_label: "Henry David Thoreau"
+    link_label: "Spring season"
+  - point: "Thoreau marvels at the thawing sand and clay formations, likening them to natural artistry and geological processes."
+    link: "https://en.wikipedia.org/wiki/Geology"
+    link_label: "Geology"
+  - point: "Thoreau discusses the interconnectedness of nature, comparing the thawing earth to the human body and the cycle of life."
+    link: "https://en.wikipedia.org/wiki/Ecological_cycle"
+    link_label: "Ecological cycle"
+  - point: "Thoreau reflects on the renewal of life in spring, emphasizing nature's vitality and humanity's need for wildness."
+    link: "https://en.wikipedia.org/wiki/Wilderness"
+    link_label: "Wilderness"
 
 enhancements:
   - id: "ice-cutters"
     trigger: "ice-cutters"
-    title: "Ice-Cutters and Their Impact"
+    title: "Ice-Cutters and Their Role"
     wikipedia_url: "https://en.wikipedia.org/wiki/Ice_harvesting"
     image_url: ""
     image_caption: ""
-    content: "Ice-cutters were workers who harvested ice from frozen ponds and lakes for storage and use before refrigeration was invented. This practice was common in the 19th century and had significant effects on local ecosystems. Thoreau's observation highlights how human activity can alter natural processes, such as the thawing of ponds, by disrupting the ice's natural cycle."
-  - id: "walden"
-    trigger: "Walden"
-    title: "Walden Pond's Unique Ecology"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
-    image_url: ""
-    image_caption: ""
-    content: "Walden Pond, located in Concord, Massachusetts, is famous for its deep waters and historical significance as the site of Thoreau's experiment in simple living. Its depth and lack of streams contribute to its slower thawing compared to other ponds, making it a natural indicator of seasonal change."
+    content: "Ice-cutters were workers who harvested ice from frozen ponds and lakes during the 19th century, primarily for refrigeration purposes before modern technology. This practice was essential for preserving food and other goods. Thoreau's observation highlights how human activity can influence natural processes, such as the melting of ice on ponds."
   - id: "flints-pond"
     trigger: "Flint’s Pond"
-    title: "Flint's Pond and Local Geography"
+    title: "Flint’s Pond in Concord"
     wikipedia_url: "https://en.wikipedia.org/wiki/Flint%27s_Pond"
     image_url: ""
     image_caption: ""
-    content: "Flint's Pond, also known as Sandy Pond, is another body of water near Walden Pond. Thoreau often compared its seasonal changes to those of Walden, noting differences in depth and ice behavior. Such comparisons illustrate the diversity of natural phenomena within a small geographic area."
+    content: "Flint’s Pond, located near Walden Pond in Concord, Massachusetts, is another body of water that Thoreau frequently referenced. It serves as a comparison point for Walden's unique characteristics, such as its depth and ice-melting patterns. Flint’s Pond illustrates the diversity of natural phenomena in the region."
+  - id: "fair-haven"
+    trigger: "Fair-Haven"
+    title: "Fair-Haven Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Fair-Haven Pond is another nearby pond that Thoreau mentions in his writings. Its ice melts earlier than Walden's due to its shallower depth and other environmental factors. Thoreau's observations of Fair-Haven contribute to his broader study of seasonal changes and natural cycles."
   - id: "thermometer-thrust"
     trigger: "thermometer thrust"
     title: "Measuring Pond Temperatures"
     wikipedia_url: "https://en.wikipedia.org/wiki/Thermometer"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's use of a thermometer to measure water temperatures in different parts of ponds reflects his scientific approach to understanding nature. This method provided insights into how depth and location affect temperature, influencing the thawing process and ecological dynamics."
-  - id: "striped-squirrel"
-    trigger: "striped squirrel"
-    title: "Striped Squirrel Behavior"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_chipmunk"
+    content: "Thoreau used a thermometer to measure the temperature differences in Walden and Flint’s Pond, noting variations between shallow and deep water. This scientific approach underscores his meticulous observation of nature and its processes, contributing to his philosophical reflections on seasonal change."
+  - id: "sudbury"
+    trigger: "Sudbury"
+    title: "Sudbury, Massachusetts"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sudbury,_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "The striped squirrel, likely referring to the Eastern chipmunk, is a small rodent native to North America. Thoreau's mention of its chirping signals the arrival of spring and the depletion of its winter food stores, highlighting the interconnectedness of seasonal cycles and animal behavior."
-  - id: "bluebird"
-    trigger: "bluebird"
-    title: "Bluebird: A Harbinger of Spring"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Bluebird"
+    content: "Sudbury is a historic town in Massachusetts near Concord. Thoreau mentions it as the starting point for a journey to Fair-Haven Pond. The town's proximity to natural landscapes made it a significant location for Thoreau's explorations and observations."
+  - id: "thawing-sand"
+    trigger: "thawing sand"
+    title: "Thawing Sand Phenomenon"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sand"
     image_url: ""
     image_caption: ""
-    content: "The bluebird is often associated with happiness and the arrival of spring. Its appearance and song mark the transition from winter to warmer days, symbolizing renewal and hope in Thoreau's observations of nature."
+    content: "Thoreau describes the thawing sand and clay formations as resembling natural artistry, likening them to leaves and coral. This phenomenon illustrates the dynamic processes of erosion and sedimentation, offering insight into the geological changes that occur during spring."
+  - id: "sand-foliage"
+    trigger: "sand foliage"
+    title: "Sand Foliage Patterns"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sediment"
+    image_url: ""
+    image_caption: ""
+    content: "Sand foliage refers to the intricate patterns formed by thawing sand and clay as they flow down slopes. Thoreau marvels at these formations, comparing them to leaves and other natural shapes. This observation highlights the aesthetic and scientific significance of sedimentary processes."
+  - id: "champollion"
+    trigger: "Champollion"
+    title: "Jean-François Champollion"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion"
+    image_url: ""
+    image_caption: ""
+    content: "Jean-François Champollion was a French scholar known for deciphering the Rosetta Stone, unlocking the secrets of Egyptian hieroglyphs. Thoreau invokes Champollion metaphorically, suggesting the need for someone to interpret the 'hieroglyphics' of nature, revealing deeper truths about the world."
+  - id: "frost-coming-out"
+    trigger: "frost coming out"
+    title: "Spring Thaw and Frost"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Frost"
+    image_url: ""
+    image_caption: ""
+    content: "The 'frost coming out' of the ground symbolizes the transition from winter to spring. Thoreau uses this imagery to describe the earth's renewal and the dynamic processes that accompany seasonal change, emphasizing nature's vitality and interconnectedness."
   - id: "life-everlasting"
     trigger: "life-everlasting"
     title: "Life-Everlasting Plant"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pearly_everlasting"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Anaphalis"
     image_url: ""
     image_caption: ""
-    content: "Life-everlasting, or pearly everlasting, is a hardy plant known for its ability to endure harsh conditions. Thoreau's admiration for its resilience reflects his broader appreciation for nature's ability to thrive despite challenges, mirroring his own philosophy of simple living."
-  - id: "wool-grass"
-    trigger: "wool-grass"
-    title: "Wool-Grass and Its Aesthetic Appeal"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Scirpus_cyperinus"
+    content: "Life-everlasting refers to plants in the genus Anaphalis, known for their resilience and ability to endure harsh conditions. Thoreau admires these plants as symbols of endurance and beauty, even in winter, reflecting his appreciation for nature's adaptability."
+  - id: "golden-age"
+    trigger: "Golden Age"
+    title: "The Golden Age Concept"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Golden_Age"
     image_url: ""
     image_caption: ""
-    content: "Wool-grass, a type of sedge, is notable for its sheaf-like appearance and soft texture. Thoreau's description of its artistic form underscores his belief in nature as a source of inspiration for human creativity and design."
+    content: "The Golden Age is a mythical period of peace, prosperity, and harmony in human history. Thoreau references this concept to evoke the idealized renewal and innocence of spring, drawing parallels between nature's cycles and humanity's aspirations."
   - id: "nine-acre-corner-bridge"
     trigger: "Nine-Acre-Corner bridge"
     title: "Nine-Acre-Corner Bridge"
     wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "The Nine-Acre-Corner bridge in Concord, Massachusetts, is a location Thoreau frequented during his time at Walden. It serves as a backdrop for his observations of nature, including birdwatching and fishing, emphasizing the interplay between human activity and the natural world."
-  - id: "honking"
-    trigger: "honking"
-    title: "Honking Geese in Migration"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Canada_goose"
+    content: "The Nine-Acre-Corner bridge is a location near Concord, Massachusetts, where Thoreau observed nature and fished. It represents his connection to the local landscape and his practice of immersing himself in the natural world."
+  - id: "leuciscus"
+    trigger: "leuciscus"
+    title: "Leuciscus Fish"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Leuciscus"
     image_url: ""
     image_caption: ""
-    content: "The honking of geese is a familiar sound during their seasonal migrations. Thoreau's description of their flight over Walden Pond captures the vitality and rhythm of nature, symbolizing the cyclical patterns of life and renewal."
+    content: "Leuciscus is a genus of freshwater fish found in Europe and Asia. Thoreau compares the shimmering surface of Walden Pond to the scales of a leuciscus, emphasizing the pond's vitality and the beauty of its spring transformation."
+  - id: "martins-twittering"
+    trigger: "martins twittering"
+    title: "Martins and Their Songs"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Martin_(bird)"
+    image_url: ""
+    image_caption: ""
+    content: "Martins are small birds known for their melodic songs and aerial acrobatics. Thoreau notes their return in spring, symbolizing renewal and the interconnectedness of life. Their presence enriches the natural soundscape of Walden."
+  - id: "golden-age-poetry"
+    trigger: "Golden Age"
+    title: "Golden Age in Poetry"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Golden_Age_(metaphor)"
+    image_url: ""
+    image_caption: ""
+    content: "The Golden Age metaphor in poetry often represents an idyllic time of harmony and prosperity. Thoreau uses this imagery to describe the renewal of spring, drawing parallels between nature's cycles and humanity's longing for perfection."
+  - id: "whippoorwill"
+    trigger: "whippoorwill"
+    title: "Whippoorwill Bird"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Whippoorwill"
+    image_url: ""
+    image_caption: ""
+    content: "The whippoorwill is a nocturnal bird known for its distinctive call. Thoreau mentions its arrival in spring, symbolizing the seasonal transition and the richness of the natural world. Its presence adds to the vibrant soundscape of Walden."
+  - id: "brown-thrasher"
+    trigger: "brown-thrasher"
+    title: "Brown Thrasher Bird"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brown_thrasher"
+    image_url: ""
+    image_caption: ""
+    content: "The brown thrasher is a songbird native to North America, admired for its complex vocalizations. Thoreau notes its return in spring, emphasizing the renewal of life and the interconnectedness of nature's cycles."
+  - id: "sacontala"
+    trigger: "Sacontala"
+    title: "Sacontala Drama"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Shakuntala"
+    image_url: ""
+    image_caption: ""
+    content: "Sacontala is a classical Sanskrit drama by Kalidasa, celebrated for its poetic beauty and exploration of nature and human emotions. Thoreau references it to draw parallels between the natural phenomena he observes and the artistic expressions of ancient cultures."
 ---
 The opening of large tracts by the **ice-cutters** commonly causes a pond
 to break up earlier; for the water, agitated by the wind, even in cold
 weather, wears away the surrounding ice. But such was not the effect on
-**Walden** that year, for she had soon got a thick new garment to take the
+Walden that year, for she had soon got a thick new garment to take the
 place of the old. This pond never breaks up so soon as the others in
 this neighborhood, on account both of its greater depth and its having
 no stream passing through it to melt or wear away the ice. I never knew
@@ -193,10 +249,10 @@ walk. Fogs and rains and warmer suns are gradually melting the snow;
 the days have grown sensibly longer; and I see how I shall get through
 the winter without adding to my wood-pile, for large fires are no
 longer necessary. I am on the alert for the first signs of spring, to
-hear the chance note of some arriving bird, or the **striped squirrel**’s
+hear the chance note of some arriving bird, or the striped squirrel’s
 chirp, for his stores must be now nearly exhausted, or see the
 woodchuck venture out of his winter quarters. On the 13th of March,
-after I had heard the **bluebird**, **song-sparrow**, and **red-wing**, the ice was
+after I had heard the bluebird, song-sparrow, and red-wing, the ice was
 still nearly a foot thick. As the weather grew warmer it was not
 sensibly worn away by the water, nor broken up and floated off as in
 rivers, but, though it was completely melted for half a rod in width
@@ -226,8 +282,8 @@ express wonder at any of Nature’s operations, for I thought that there
 were no secrets between them, that one spring day he took his gun and
 boat, and thought that he would have a little sport with the ducks.
 There was ice still on the meadows, but it was all gone out of the
-river, and he dropped down without obstruction from Sudbury, where he
-lived, to Fair-Haven Pond, which he found, unexpectedly, covered for
+river, and he dropped down without obstruction from **Sudbury**, where he
+lived, to **Fair-Haven Pond**, which he found, unexpectedly, covered for
 the most part with a firm field of ice. It was a warm day, and he was
 surprised to see so great a body of ice remaining. Not seeing any
 ducks, he hid his boat on the north or back side of an island in the
@@ -257,7 +313,7 @@ whose veins are filled with the blood of winter which they are bearing
 off.
 
 Few phenomena gave me more delight than to observe the forms which
-thawing sand and clay assume in flowing down the sides of a deep cut on
+**thawing sand** and clay assume in flowing down the sides of a deep cut on
 the railroad through which I passed on my way to the village, a
 phenomenon not very common on so large a scale, though the number of
 freshly exposed banks of the right material must have been greatly
@@ -294,7 +350,7 @@ of vegetation are lost in the ripple marks on the bottom.
 The whole bank, which is from twenty to forty feet high, is sometimes
 overlaid with a mass of this kind of foliage, or sandy rupture, for a
 quarter of a mile on one or both sides, the produce of one spring day.
-What makes this sand foliage remarkable is its springing into existence
+What makes this **sand foliage** remarkable is its springing into existence
 thus suddenly. When I see on the one side the inert bank,—for the sun
 acts on one side first,—and on the other this luxuriant foliage, the
 creation of an hour, I am affected as if in a peculiar sense I stood in
@@ -339,7 +395,7 @@ silvery stream glancing like lightning from one stage of pulpy leaves
 or branches to another, and ever and anon swallowed up in the sand. It
 is wonderful how rapidly yet perfectly the sand organizes itself as it
 flows, using the best material its mass affords to form the sharp edges
-of its channel. Such are the sources of rivers. In the silicious matter
+of its channel. Such are the **sources of rivers**. In the **silicious matter**
 which the water deposits is perhaps the bony system, and in the still
 finer soil and organic matter the fleshy fibre or cellular tissue. What
 is man but a mass of thawing clay? The ball of the human finger is but
@@ -361,13 +417,13 @@ farther.
 
 Thus it seemed that this one hillside illustrated the principle of all
 the operations of Nature. The Maker of this earth but patented a leaf.
-What Champollion will decipher this hieroglyphic for us, that we may
+What **Champollion** will decipher this hieroglyphic for us, that we may
 turn over a new leaf at last? This phenomenon is more exhilarating to
 me than the luxuriance and fertility of vineyards. True, it is somewhat
 excrementitious in its character, and there is no end to the heaps of
 liver lights and bowels, as if the globe were turned wrong side
 outward; but this suggests at least that Nature has some bowels, and
-there again is mother of humanity. This is the frost coming out of the
+there again is mother of humanity. This is the **frost coming out** of the
 ground; this is Spring. It precedes the green and flowery spring, as
 mythology precedes regular poetry. I know of nothing more purgative of
 winter fumes and indigestions. It convinces me that Earth is still in
@@ -406,7 +462,7 @@ cat-tails, mulleins, johnswort, hard-hack, meadow-sweet, and other
 strong stemmed plants, those unexhausted granaries which entertain the
 earliest birds,—decent weeds, at least, which widowed Nature wears. I
 am particularly attracted by the arching and sheaf-like top of the
-**wool-grass**; it brings back the summer to our winter memories, and is
+wool-grass; it brings back the summer to our winter memories, and is
 among the forms which art loves to copy, and which, in the vegetable
 kingdom, have the same relation to types already in the mind of man
 that astronomy has. It is an antique style older than Greek or
@@ -415,7 +471,7 @@ inexpressible tenderness and fragile delicacy. We are accustomed to
 hear this king described as a rude and boisterous tyrant; but with the
 gentleness of a lover he adorns the tresses of Summer.
 
-At the approach of spring the red-squirrels got under my house, two at
+At the approach of spring the **red-squirrels** got under my house, two at
 a time, directly under my feet as I sat reading or writing, and kept up
 the queerest chuckling and chirruping and vocal pirouetting and
 gurgling sounds that ever were heard; and when I stamped they only
@@ -430,10 +486,10 @@ ever! The faint silvery warblings heard over the partially bare and
 moist fields from the blue-bird, the song-sparrow, and the red-wing, as
 if the last flakes of winter tinkled as they fell! What at such a time
 are histories, chronologies, traditions, and all written revelations?
-The brooks sing carols and glees to the spring. The marsh-hawk sailing
+The brooks sing carols and glees to the spring. The **marsh-hawk** sailing
 low over the meadow is already seeking the first slimy life that
 awakes. The sinking sound of melting snow is heard in all dells, and
-the ice dissolves apace in the ponds. The grass flames up on the
+the ice dissolves apace in the ponds. The **grass flames** up on the
 hillsides like a spring fire,—“et primitus oritur herba imbribus
 primoribus evocata,”—as if the earth sent forth an inward heat to greet
 the returning sun; not yellow but green is the color of its flame;—the
@@ -461,7 +517,7 @@ eastward over its opaque surface in vain, till it reaches the living
 surface beyond. It is glorious to behold this ribbon of water sparkling
 in the sun, the bare face of the pond full of glee and youth, as if it
 spoke the joy of the fishes within it, and of the sands on its shore,—a
-silvery sheen as from the scales of a _leuciscus_, as it were all one
+silvery sheen as from the scales of a _**leuciscus**_, as it were all one
 active fish. Such is the contrast between winter and spring. Walden was
 dead and is alive again. But this spring it broke up more steadily, as
 I have said.
@@ -510,7 +566,7 @@ For a week I heard the circling, groping clangor of some solitary goose
 in the foggy mornings, seeking its companion, and still peopling the
 woods with the sound of a larger life than they could sustain. In April
 the pigeons were seen again flying express in small flocks, and in due
-time I heard the martins twittering over my clearing, though it had not
+time I heard the **martins twittering** over my clearing, though it had not
 seemed that the township contained so many that it could afford me any,
 and I fancied that they were peculiarly of the ancient race that dwelt
 in hollow trees ere white men came. In almost all climes the tortoise
@@ -521,7 +577,7 @@ preserve the equilibrium of Nature.
 
 As every season seems best to us in its turn, so the coming in of
 spring is like the creation of Cosmos out of Chaos and the realization
-of the Golden Age.—
+of the **Golden Age**.—
 
      “Eurus ad Auroram Nabathæaque regna recessit,
      Persidaque, et radiis juga subdita matutinis.”
@@ -667,7 +723,7 @@ brightness like sunshine to the landscape, especially in cloudy days,
 as if the sun were breaking through mists and shining faintly on the
 hill-sides here and there. On the third or fourth of May I saw a loon
 in the pond, and during the first week of the month I heard the
-whippoorwill, the brown-thrasher, the veery, the wood-pewee, the
+**whippoorwill**, the **brown-thrasher**, the veery, the wood-pewee, the
 chewink, and other birds. I had heard the wood-thrush long before. The
 phœbe had already come once more and looked in at my door and window,
 to see if my house was cavern-like enough for her, sustaining herself
@@ -675,7 +731,7 @@ on humming wings with clinched talons, as if she held by the air, while
 she surveyed the premises. The sulphur-like pollen of the pitch-pine
 soon covered the pond and the stones and rotten wood along the shore,
 so that you could have collected a barrel-ful. This is the “sulphur
-showers” we hear of. Even in Calidas’ drama of Sacontala, we read of
+showers” we hear of. Even in Calidas’ drama of **Sacontala**, we read of
 “rills dyed yellow with the golden dust of the lotus.” And so the
 seasons went rolling on into summer, as one rambles into higher and
 higher grass.

@@ -12,21 +12,21 @@ summary:
   - point: "Thoreau reflects on his labor-intensive bean cultivation and its connection to the earth."
     link: "https://en.wikipedia.org/wiki/Walden"
     link_label: "Walden"
-  - point: "He compares his strength gained from working the land to the mythological figure Antæus."
+  - point: "He compares his strength gained from farming to the mythological figure Antæus."
     link: "https://en.wikipedia.org/wiki/Antaeus"
     link_label: "Antæus"
-  - point: "Thoreau discovers arrowheads in the soil, hinting at ancient Native American agriculture."
-    link: "https://en.wikipedia.org/wiki/Arrowhead_(artifact)"
+  - point: "Thoreau discovers arrowheads while hoeing, hinting at the land's ancient history."
+    link: "https://en.wikipedia.org/wiki/Arrowhead_(archaeology)"
     link_label: "Arrowheads"
-  - point: "He contrasts his simple farming methods with the industrialized agriculture of his contemporaries."
-    link: "https://en.wikipedia.org/wiki/Agriculture"
-    link_label: "Agriculture"
-  - point: "Thoreau critiques the modern farmer's focus on profit over the sacredness of husbandry."
+  - point: "He observes the natural world, including birds like the brown-thrasher and night-hawk, while working in the field."
+    link: "https://en.wikipedia.org/wiki/Brown_Thrasher"
+    link_label: "Brown Thrasher"
+  - point: "Thoreau critiques modern farming practices and reflects on the sacredness of agriculture."
     link: "https://en.wikipedia.org/wiki/Ceres_(mythology)"
     link_label: "Ceres"
-  - point: "He philosophizes about the interconnectedness of nature and the broader purpose of cultivation."
-    link: "https://en.wikipedia.org/wiki/Ecological_philosophy"
-    link_label: "Ecological philosophy"
+  - point: "He contrasts the infernal Plutus with the terrestrial Jove, emphasizing the moral degradation of farming."
+    link: "https://en.wikipedia.org/wiki/Plutus"
+    link_label: "Plutus"
 
 enhancements:
   - id: "antaeus-mythological-strength"
@@ -35,70 +35,147 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Antaeus"
     image_url: ""
     image_caption: ""
-    content: "Antæus was a figure in Greek mythology, a giant who derived his strength from contact with the earth. Thoreau uses this metaphor to describe how his labor in the bean field connects him to the earth and revitalizes him. This myth underscores the idea of grounding oneself in nature for strength and resilience, a theme central to Thoreau's philosophy in 'Walden.'"
-  - id: "cinquefoil-wild-plant"
+    content: "Antæus was a figure in Greek mythology, a giant who gained strength from contact with the earth. Thoreau uses this metaphor to describe how his labor in the bean-field connects him to the earth and revitalizes him. This comparison underscores the physical and spiritual nourishment he derives from his agricultural work."
+  - id: "cinquefoil-plant-species"
     trigger: "cinquefoil"
-    title: "Cinquefoil: A Wild Plant"
+    title: "Cinquefoil: Plant Species"
     wikipedia_url: "https://en.wikipedia.org/wiki/Potentilla"
     image_url: ""
     image_caption: ""
-    content: "Cinquefoil refers to plants in the genus Potentilla, known for their five-petaled flowers. Thoreau mentions it as part of the wild flora he displaced to grow beans, symbolizing the tension between wild nature and cultivated land. This plant is often associated with resilience and adaptability, mirroring Thoreau's themes of self-reliance and harmony with nature."
-  - id: "johnswort-invasive-plant"
+    content: "Cinquefoil refers to plants in the genus Potentilla, often found in wild and uncultivated areas. Thoreau mentions it as part of the natural flora he displaced to grow beans, highlighting the tension between cultivation and wilderness in his experiment at Walden Pond."
+  - id: "johnswort-wildflower"
     trigger: "johnswort"
-    title: "Johnswort: Invasive Plant"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hypericum"
+    title: "Johnswort: Wildflower"
+    wikipedia_url: "https://en.wikipedia.org/wiki/St_John%27s_wort"
     image_url: ""
     image_caption: ""
-    content: "Johnswort, commonly known as St. John's Wort, is a plant with medicinal properties but can also be invasive. Thoreau's mention of it highlights his awareness of the ecological impact of farming and the ethical considerations of displacing native plants for agriculture."
-  - id: "woodchucks-pests-in-agriculture"
+    content: "Johnswort, commonly known as St. John's Wort, is a wildflower with medicinal properties. Thoreau's mention of it reflects his awareness of the natural biodiversity he replaced with cultivated crops, raising questions about human intervention in nature."
+  - id: "woodchucks-pest-in-agriculture"
     trigger: "woodchucks"
-    title: "Woodchucks: Pests in Agriculture"
+    title: "Woodchucks: Pest in Agriculture"
     wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
     image_url: ""
     image_caption: ""
-    content: "Woodchucks, or groundhogs, are burrowing rodents that can cause significant damage to crops. Thoreau's struggle with woodchucks in his bean field illustrates the challenges of farming and the constant battle between humans and wildlife over land use."
-  - id: "arrowheads-native-american-history"
+    content: "Woodchucks, also known as groundhogs, are rodents that can damage crops by eating tender plants. Thoreau's struggle with woodchucks in his bean-field illustrates the challenges of farming and the constant battle between humans and wildlife."
+  - id: "arrowheads-ancient-tools"
     trigger: "arrowheads"
-    title: "Arrowheads: Native American History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Arrowhead_(artifact)"
+    title: "Arrowheads: Ancient Tools"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Arrowhead_(archaeology)"
     image_url: ""
     image_caption: ""
-    content: "Arrowheads are stone tools used by Native Americans for hunting and warfare. Thoreau's discovery of them in his bean field connects his agricultural efforts to the historical presence of indigenous peoples, reminding readers of the long-standing relationship between humans and the land."
-  - id: "ranz-des-vaches-swiss-pastoral-music"
+    content: "Arrowheads are prehistoric tools used for hunting and warfare. Thoreau's discovery of arrowheads while hoeing connects his agricultural labor to the history of indigenous peoples who once lived on the land, emphasizing the continuity of human interaction with the earth."
+  - id: "plastic-artist-metaphor"
+    trigger: "plastic artist"
+    title: "Plastic Artist: Metaphor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Plastic_arts"
+    image_url: ""
+    image_caption: ""
+    content: "The term 'plastic artist' refers to creators in the visual arts, such as sculptors. Thoreau uses this metaphor to describe his tactile engagement with the soil, likening his farming to an artistic act that shapes and transforms the earth."
+  - id: "ranz-des-vaches-swiss-song"
     trigger: "Ranz des Vaches"
-    title: "Ranz des Vaches: Swiss Pastoral Music"
+    title: "Ranz des Vaches: Swiss Song"
     wikipedia_url: "https://en.wikipedia.org/wiki/Ranz_des_Vaches"
     image_url: ""
     image_caption: ""
-    content: "The 'Ranz des Vaches' is a traditional Swiss melody associated with herding cows. Thoreau likens his hoeing rhythm to this pastoral tune, emphasizing the harmony between his labor and the natural world. This reference enriches the text with cultural depth and underscores the meditative quality of his work."
+    content: "Ranz des Vaches is a traditional Swiss herding song that evokes pastoral life. Thoreau's reference to it while hoeing beans suggests a harmony between his labor and the natural world, akin to the idyllic imagery of Swiss shepherds."
   - id: "brown-thrasher-songbird"
     trigger: "brown-thrasher"
-    title: "Brown Thrasher: A Songbird"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Brown_thrasher"
+    title: "Brown Thrasher: Songbird"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brown_Thrasher"
     image_url: ""
     image_caption: ""
-    content: "The brown thrasher is a North American songbird known for its complex and varied vocalizations. Thoreau's observation of its behavior while he works in the field highlights his attentiveness to nature and the interconnectedness of all living things in his environment."
-  - id: "pythagorean-dietary-philosophy"
+    content: "The brown thrasher is a North American songbird known for its complex vocalizations. Thoreau observes this bird while working in his bean-field, appreciating its presence as part of the natural symphony that accompanies his labor."
+  - id: "indian-fires-archaeological-traces"
+    trigger: "Indian fires"
+    title: "Indian Fires: Archaeological Traces"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fire_in_archaeology"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions stones bearing marks of Indian fires, referring to evidence of past indigenous habitation. These traces remind readers of the long history of human interaction with the land, predating European settlement."
+  - id: "night-hawk-aerial-predator"
+    trigger: "night-hawk"
+    title: "Night-Hawk: Aerial Predator"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Common_nighthawk"
+    image_url: ""
+    image_caption: ""
+    content: "The night-hawk is a nocturnal bird known for its aerial acrobatics and distinctive calls. Thoreau's observation of this bird adds to his vivid depiction of the natural world surrounding his bean-field."
+  - id: "spotted-salamander-amphibian"
+    trigger: "spotted salamander"
+    title: "Spotted Salamander: Amphibian"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spotted_salamander"
+    image_url: ""
+    image_caption: ""
+    content: "The spotted salamander is a species of amphibian found in North America. Thoreau's encounter with one while hoeing highlights the biodiversity of his environment and his fascination with the creatures that share the land."
+  - id: "martial-music-military-tradition"
+    trigger: "martial music"
+    title: "Martial Music: Military Tradition"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Military_music"
+    image_url: ""
+    image_caption: ""
+    content: "Martial music refers to compositions associated with military events and ceremonies. Thoreau hears distant martial music while working, reflecting on its ability to inspire and evoke thoughts of heroism and historical significance."
+  - id: "middlesex-hive-local-history"
+    trigger: "Middlesex hive"
+    title: "Middlesex Hive: Local History"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Middlesex_County,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "The term 'Middlesex hive' metaphorically refers to Middlesex County, Massachusetts, where Thoreau lived. It symbolizes the collective activity and industriousness of the community, contrasting with Thoreau's solitary labor in the bean-field."
+  - id: "pythagorean-philosophy-and-diet"
     trigger: "Pythagorean"
-    title: "Pythagorean: Dietary Philosophy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pythagorean_diet"
+    title: "Pythagorean: Philosophy and Diet"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pythagoreanism"
     image_url: ""
     image_caption: ""
-    content: "The Pythagorean diet, inspired by the teachings of Pythagoras, emphasizes vegetarianism and abstinence from beans due to their symbolic association with the soul. Thoreau's reference reflects his philosophical approach to life and his exploration of ethical eating and self-discipline."
-  - id: "ceres-roman-goddess-of-agriculture"
-    trigger: "Ceres and the Terrestrial Jove"
-    title: "Ceres: Roman Goddess of Agriculture"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ceres_(mythology)"
+    content: "Pythagoreanism is a philosophical tradition founded by Pythagoras, emphasizing mathematics, harmony, and vegetarianism. Thoreau identifies with the Pythagorean avoidance of beans, linking his farming experiment to broader philosophical and ethical considerations."
+  - id: "sir-kenelm-digby-natural-philosophy"
+    trigger: "Sir Kenelm Digby"
+    title: "Sir Kenelm Digby: Natural Philosophy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Kenelm_Digby"
     image_url: ""
     image_caption: ""
-    content: "Ceres, the Roman goddess of agriculture, symbolizes the sacredness of farming and the nurturing of life. Thoreau contrasts this reverence with the modern farmer's focus on profit, critiquing the loss of spiritual connection to the land."
+    content: "Sir Kenelm Digby was a 17th-century English philosopher and scientist. Thoreau references Digby's ideas about 'vital spirits' in the air, connecting them to the rejuvenation of worn-out fields, blending scientific and mystical perspectives."
+  - id: "terrestrial-jove-roman-mythology"
+    trigger: "Terrestrial Jove"
+    title: "Terrestrial Jove: Roman Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "The Terrestrial Jove refers to Jupiter, the Roman god of the sky and agriculture. Thoreau contrasts this deity with Plutus, critiquing the shift from reverence for nature to greed-driven farming practices."
+  - id: "infernal-plutus-god-of-wealth"
+    trigger: "infernal Plutus"
+    title: "Infernal Plutus: God of Wealth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Plutus"
+    image_url: ""
+    image_caption: ""
+    content: "Plutus is the Greek god of wealth, often associated with greed. Thoreau uses this figure to critique the materialistic motivations behind modern agriculture, contrasting it with the sacred origins of farming."
+  - id: "king-saturn-golden-age"
+    trigger: "King Saturn"
+    title: "King Saturn: Golden Age"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Saturn_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "King Saturn, a Roman deity, symbolizes the Golden Age of peace and abundance. Thoreau invokes Saturn to idealize a time when agriculture was considered a sacred and harmonious practice."
   - id: "spica-ear-of-wheat"
     trigger: "spica"
     title: "Spica: Ear of Wheat"
     wikipedia_url: "https://en.wikipedia.org/wiki/Spica"
     image_url: ""
     image_caption: ""
-    content: "Spica, Latin for 'ear of wheat,' symbolizes hope and agricultural abundance. Thoreau uses this term to reflect on the broader purpose of farming, suggesting that cultivation should extend beyond material gain to spiritual and ecological enrichment."
+    content: "Spica, meaning 'ear of wheat,' symbolizes hope and agricultural abundance. Thoreau uses this term to reflect on the broader significance of farming beyond mere crop yields, emphasizing its spiritual and ecological dimensions."
+  - id: "granum-kernel-of-grain"
+    trigger: "granum"
+    title: "Granum: Kernel of Grain"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Grain_(agriculture)"
+    image_url: ""
+    image_caption: ""
+    content: "Granum, Latin for 'grain,' represents the core of agricultural production. Thoreau's mention of it highlights the essential role of seeds in sustaining life and the interconnectedness of farming with natural cycles."
+  - id: "true-husbandman-ideal-farmer"
+    trigger: "true husbandman"
+    title: "True Husbandman: Ideal Farmer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Agriculture"
+    image_url: ""
+    image_caption: ""
+    content: "The 'true husbandman' embodies the ideal farmer who works harmoniously with nature. Thoreau contrasts this figure with those driven by profit, advocating for a more ethical and ecological approach to agriculture."
 ---
 Meanwhile my beans, the length of whose rows, added together, was seven
 miles already planted, were impatient to be hoed, for the earliest had
@@ -147,7 +224,7 @@ sun had got above the shrub oaks, while all the dew was on, though the
 farmers warned me against it,—I would advise you to do all your work if
 possible while the dew is on,—I began to level the ranks of haughty
 weeds in my bean-field and throw dust upon their heads. Early in the
-morning I worked barefooted, dabbling like a plastic artist in the dewy
+morning I worked barefooted, dabbling like a **plastic artist** in the dewy
 and crumbling sand, but later in the day the sun blistered my feet.
 There the sun lighted me to hoe beans, pacing slowly backward and
 forward over that yellow gravelly upland, between the long green rows,
@@ -212,7 +289,7 @@ the ashes of unchronicled nations who in primeval years lived under
 these heavens, and their small implements of war and hunting were
 brought to the light of this modern day. They lay mingled with other
 natural stones, some of which bore the marks of having been burned by
-Indian fires, and some by the sun, and also bits of pottery and glass
+**Indian fires**, and some by the sun, and also bits of pottery and glass
 brought hither by the recent cultivators of the soil. When my hoe
 tinkled against the stones, that music echoed to the woods and the sky,
 and was an accompaniment to my labor which yielded an instant and
@@ -235,13 +312,13 @@ descending, approaching, and leaving one another, as if they were the
 embodiment of my own thoughts. Or I was attracted by the passage of
 wild pigeons from this wood to that, with a slight quivering winnowing
 sound and carrier haste; or from under a rotten stump my hoe turned up
-a sluggish portentous and outlandish spotted salamander, a trace of
+a sluggish portentous and outlandish **spotted salamander**, a trace of
 Egypt and the Nile, yet our contemporary. When I paused to lean on my
 hoe, these sounds and sights I heard and saw anywhere in the row, a
 part of the inexhaustible entertainment which the country offers.
 
 On gala days the town fires its great guns, which echo like popguns to
-these woods, and some waifs of martial music occasionally penetrate
+these woods, and some waifs of **martial music** occasionally penetrate
 thus far. To me, away there in my bean-field at the other end of the
 town, the big guns sounded as if a puffball had burst; and when there
 was a military turnout of which I was ignorant, I have sometimes had a
@@ -255,7 +332,7 @@ Virgil’s advice, by a faint _tintinnabulum_ upon the most sonorous of
 their domestic utensils, were endeavoring to call them down into the
 hive again. And when the sound died quite away, and the hum had ceased,
 and the most favorable breezes told no tale, I knew that they had got
-the last drone of them all safely into the Middlesex hive, and that now
+the last drone of them all safely into the **Middlesex hive**, and that now
 their minds were bent on the honey with which it was smeared.
 
 I felt proud to know that the liberties of Massachusetts and of our
@@ -288,7 +365,7 @@ various kinds of weeds,—it will bear some iteration in the account, for
 there was no little iteration in the labor,—disturbing their delicate
 organizations so ruthlessly, and making such invidious distinctions
 with his hoe, levelling whole ranks of one species, and sedulously
-cultivating another. That’s Roman wormwood,—that’s pigweed,—that’s
+cultivating another. That’s **Roman wormwood**,—that’s pigweed,—that’s
 sorrel,—that’s piper-grass,—have at him, chop him up, turn his roots
 upward to the sun, don’t let him have a fibre in the shade, if you do
 he’ll turn himself t’other side up and be as green as a leek in two
@@ -339,7 +416,7 @@ outgoes were,—
                                                 ————
         In all,................................. $14.72½
 
-My income was (patrem familias vendacem, non emacem esse oportet),
+My income was (**patrem familias vendacem**, non emacem esse oportet),
 from
 
     Nine bushels and twelve quarts of beans sold,. $16.94
@@ -417,7 +494,7 @@ have no festival, nor procession, nor ceremony, not excepting our
 Cattle-shows and so called Thanksgivings, by which the farmer expresses
 a sense of the sacredness of his calling, or is reminded of its sacred
 origin. It is the premium and the feast which tempt him. He sacrifices
-not to **Ceres and the Terrestrial Jove**, but to the **infernal Plutus**
+not to Ceres and the **Terrestrial Jove**, but to the **infernal Plutus**
 rather. By avarice and selfishness, and a grovelling habit, from which
 none of us is free, of regarding the soil as property, or the means of
 acquiring property chiefly, the landscape is deformed, husbandry is
@@ -441,11 +518,11 @@ from me to influences more genial to it, which water and make it green.
 These beans have results which are not harvested by me. Do they not
 grow for woodchucks partly? The ear of wheat (in Latin _**spica**_,
 obsoletely _speca_, from _spe_, hope) should not be the only hope of
-the husbandman; its kernel or grain (_granum_ from _gerendo_, bearing)
+the husbandman; its kernel or grain (_**granum**_ from _gerendo_, bearing)
 is not all that it bears. How, then, can our harvest fail? Shall I not
 rejoice also at the abundance of the weeds whose seeds are the granary
 of the birds? It matters little comparatively whether the fields fill
-the farmer’s barns. The true husbandman will cease from anxiety, as the
+the farmer’s barns. The **true husbandman** will cease from anxiety, as the
 squirrels manifest no concern whether the woods will bear chestnuts
 this year or not, and finish his labor with every day, relinquishing
 all claim to the produce of his fields, and sacrificing in his mind not

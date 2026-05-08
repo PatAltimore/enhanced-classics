@@ -12,96 +12,173 @@ summary:
   - point: "Thoreau reflects on his love for society and his readiness to engage with visitors despite his solitary lifestyle."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "He describes the three chairs in his house, symbolizing solitude, friendship, and society."
+  - point: "He describes the simplicity of his home, including the three chairs he kept for solitude, friendship, and society."
     link: "https://en.wikipedia.org/wiki/Walden"
     link_label: "Walden"
-  - point: "Thoreau recounts the story of Winslow's visit to Massasoit, highlighting cultural differences in hospitality."
-    link: "https://en.wikipedia.org/wiki/Massasoit"
-    link_label: "Massasoit"
-  - point: "A Canadian woodchopper visits Thoreau, embodying simplicity and a connection to nature."
-    link: "https://en.wikipedia.org/wiki/Canadian_history"
-    link_label: "Canadian history"
-  - point: "Thoreau assists a runaway slave on his journey to freedom, emphasizing his moral stance against slavery."
+  - point: "Thoreau recounts hosting visitors in his small house and contrasts it with the extravagance of larger homes."
+    link: "https://en.wikipedia.org/wiki/Astor_House_(New_York_City)"
+    link_label: "Astor House"
+  - point: "He shares anecdotes about his guests, including a Canadian woodchopper and a runaway slave seeking freedom."
     link: "https://en.wikipedia.org/wiki/Underground_Railroad"
     link_label: "Underground Railroad"
-  - point: "He observes the diverse visitors to his cabin, from children to philosophers, and reflects on their varied motivations."
+  - point: "Thoreau discusses the philosophical and practical aspects of solitude and human interaction."
     link: "https://en.wikipedia.org/wiki/Transcendentalism"
     link_label: "Transcendentalism"
+  - point: "He reflects on the diversity of visitors, from reformers to children, and their varying perspectives on life and nature."
+    link: "https://en.wikipedia.org/wiki/Nature_(essay)"
+    link_label: "Nature"
 
 enhancements:
+  - id: "bloodsucker-for-the-time"
+    trigger: "bloodsucker for the time"
+    title: "Bloodsucker Metaphor in Society"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Metaphor"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the metaphor of a 'bloodsucker' to describe his temporary attachment to visitors, emphasizing his willingness to engage deeply with others despite his solitary lifestyle. This metaphor highlights the intensity of human connection and the transient nature of social interactions."
   - id: "three-chairs-in-my-house"
     trigger: "three chairs in my house"
     title: "Symbolism of Three Chairs"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's three chairs symbolize different modes of human interaction: solitude, friendship, and society. This metaphor reflects his philosophy of balancing individual reflection with social engagement. It underscores the minimalist lifestyle he embraced at Walden Pond, where simplicity facilitated deeper connections with nature and humanity."
+    content: "Thoreau's three chairs symbolize the progression of human interaction: solitude, friendship, and society. This simple yet profound arrangement reflects his philosophy of balancing individual reflection with communal engagement."
   - id: "pine-wood-behind-my-house"
     trigger: "pine wood behind my house"
-    title: "Thoreau's Outdoor Retreat"
+    title: "Thoreau's Natural Retreat"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: ""
     image_caption: ""
-    content: "The pine wood behind Thoreau's house served as his 'best room,' a natural space for reflection and hosting guests. This choice highlights his belief in nature as a sanctuary and a source of inspiration, aligning with the transcendentalist view of the spiritual significance of the natural world."
+    content: "The pine wood behind Thoreau's house served as his 'best room,' a natural sanctuary for hosting distinguished guests. This choice underscores his preference for nature over conventional domestic spaces, aligning with his transcendentalist ideals."
+  - id: "lines-of-spenser"
+    trigger: "lines of Spenser"
+    title: "Edmund Spenser's Influence"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Edmund_Spenser"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes Edmund Spenser to encapsulate his philosophy of simple living and contentment. Spenser's poetry often explores themes of pastoral simplicity, resonating with Thoreau's ideals in 'Walden.'"
   - id: "winslow-governor-plymouth-colony"
     trigger: "Winslow, afterward governor of the Plymouth Colony"
-    title: "Edward Winslow and Plymouth Colony"
+    title: "Edward Winslow's Legacy"
     wikipedia_url: "https://en.wikipedia.org/wiki/Edward_Winslow"
     image_url: ""
     image_caption: ""
-    content: "Edward Winslow was a key figure in the early history of Plymouth Colony, serving as its governor and fostering relations with Native American leaders like Massasoit. His visit to Massasoit, as recounted by Thoreau, illustrates the challenges and cultural exchanges between settlers and indigenous peoples in colonial America."
-  - id: "canadian-woodchopper-post-maker"
-    trigger: "Canadian, a woodchopper and post-maker"
-    title: "The Canadian Woodchopper"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Canadian_history"
+    content: "Edward Winslow was a prominent figure in the Plymouth Colony, known for his diplomatic relations with Native Americans. Thoreau references Winslow's visit to Massasoit to illustrate historical examples of hospitality and cultural exchange."
+  - id: "visit-of-ceremony-to-massasoit"
+    trigger: "visit of ceremony to Massasoit"
+    title: "Massasoit and Pilgrim Relations"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Massasoit"
     image_url: ""
     image_caption: ""
-    content: "The Canadian woodchopper represents the rugged, self-sufficient individual who lives in harmony with nature. His simplicity and contentment contrast with the complexities of modern life, embodying the transcendentalist ideal of finding fulfillment through a connection to the natural world."
+    content: "Massasoit was the leader of the Wampanoag Confederacy and played a crucial role in aiding the Pilgrims. Thoreau recounts Winslow's visit to highlight the challenges and mutual respect in early colonial interactions."
+  - id: "great-ocean-of-solitude"
+    trigger: "great ocean of solitude"
+    title: "Thoreau's Solitude Metaphor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Solitude"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes his isolation as a 'great ocean of solitude,' emphasizing the depth and expansiveness of his withdrawal from society. This metaphor reflects his transcendentalist belief in the value of introspection and connection with nature."
   - id: "achilles-reproof-to-patroclus"
     trigger: "Achilles’ reproof to Patroclus"
     title: "Achilles and Patroclus in Homer"
     wikipedia_url: "https://en.wikipedia.org/wiki/Achilles"
     image_url: ""
     image_caption: ""
-    content: "Achilles and Patroclus are central figures in Homer's 'Iliad,' representing themes of friendship, loyalty, and heroism. Thoreau's reference to their dialogue underscores his appreciation for classical literature and its enduring relevance to human emotions and relationships."
-  - id: "bean-field"
-    trigger: "bean-field"
-    title: "Thoreau's Bean Field"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
+    content: "Thoreau references Achilles' rebuke to Patroclus from Homer's 'Iliad,' showcasing his engagement with classical literature. This moment underscores themes of friendship, loyalty, and emotional expression in ancient Greek culture."
+  - id: "menoetius-son-of-actor"
+    trigger: "Menœtius lives yet, son of Actor"
+    title: "Menœtius in Greek Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Menoetius"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's cultivation of a bean field at Walden Pond symbolizes his commitment to self-reliance and his connection to the land. It reflects his philosophy of living simply and sustainably, as well as his belief in the spiritual value of manual labor."
-  - id: "platos-definition-of-a-man"
+    content: "Menœtius, the father of Patroclus, is a minor figure in Greek mythology. Thoreau's mention of him highlights his familiarity with Homeric epics and their exploration of familial bonds and heroism."
+  - id: "cold-woodchucks"
+    trigger: "cold woodchucks"
+    title: "Woodchucks in Rural Diets"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's mention of 'cold woodchucks' reflects the practical and resourceful dietary habits of rural workers. Groundhogs, or woodchucks, were commonly hunted and consumed in 19th-century America."
+  - id: "canadian-french"
+    trigger: "Canadian French"
+    title: "Canadian French Language"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Canadian_French"
+    image_url: ""
+    image_caption: ""
+    content: "Canadian French is a distinct dialect spoken in Quebec and other parts of Canada. Thoreau's interaction with the woodchopper highlights the cultural diversity and linguistic heritage of his visitors."
+  - id: "soaked-hemlock-leaves-in-water"
+    trigger: "soaked hemlock leaves in water"
+    title: "Hemlock Tea in Folk Practices"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hemlock"
+    image_url: ""
+    image_caption: ""
+    content: "Hemlock leaves, though potentially toxic in some species, were sometimes used in folk remedies and beverages. Thoreau's mention illustrates the resourcefulness and experimentation of rural life."
+  - id: "pecunia"
+    trigger: "pecunia"
+    title: "Origin of Pecunia"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pecunia"
+    image_url: ""
+    image_caption: ""
+    content: "The Latin word 'pecunia,' meaning money, derives from 'pecus,' meaning cattle, reflecting the historical use of livestock as currency. Thoreau's discussion ties economic systems to their practical origins."
+  - id: "plato-definition-of-a-man"
     trigger: "Plato’s definition of a man"
-    title: "Plato's Definition of Man"
+    title: "Plato's Featherless Biped"
     wikipedia_url: "https://en.wikipedia.org/wiki/Plato"
     image_url: ""
     image_caption: ""
-    content: "Plato humorously defined man as a 'featherless biped,' a definition critiqued by Diogenes with a plucked chicken. Thoreau's mention of this anecdote highlights his engagement with philosophical ideas and his ability to find humor and insight in classical thought."
-  - id: "runaway-slaves"
-    trigger: "runaway slaves"
-    title: "Runaway Slaves and Freedom"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Underground_Railroad"
+    content: "Plato humorously defined man as a 'featherless biped,' prompting Diogenes to present a plucked chicken as 'Plato's man.' Thoreau uses this anecdote to explore the simplicity and humor in philosophical definitions."
+  - id: "walden-pond-was-thought-to-be"
+    trigger: "Walden Pond was thought to be"
+    title: "Depth of Walden Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's assistance to runaway slaves reflects his strong abolitionist stance and moral commitment to justice. His actions align with the broader efforts of the Underground Railroad, a network that helped enslaved individuals escape to freedom in the northern United States and Canada."
+    content: "Walden Pond, central to Thoreau's experiment in simplicity, was once thought to be bottomless. This belief symbolizes the mysterious and profound connection between humans and nature."
+  - id: "wit-the-theme-of-our-conversation"
+    trigger: "wit the theme of our conversation"
+    title: "Wit in Social Interaction"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wit"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau valued wit as a means of engaging with visitors, finding wisdom even in the simplest exchanges. Wit, as a form of intellectual humor, enriches human connection and dialogue."
+  - id: "metaphysical-puzzle"
+    trigger: "metaphysical puzzle"
+    title: "Metaphysical Puzzles in Philosophy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Metaphysics"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes a simple-minded visitor as a 'metaphysical puzzle,' highlighting the complexity and depth of human existence. Metaphysics explores fundamental questions about reality, existence, and consciousness."
   - id: "northstar"
     trigger: "northstar"
-    title: "The North Star's Symbolism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Polaris"
+    title: "North Star and Freedom"
+    wikipedia_url: "https://en.wikipedia.org/wiki/North_Star"
     image_url: ""
     image_caption: ""
-    content: "The North Star, or Polaris, served as a guiding symbol for freedom seekers on the Underground Railroad. Its constancy in the night sky made it a reliable navigational aid for those escaping slavery, embodying hope and direction in their perilous journeys."
-  - id: "white-mountains"
-    trigger: "White Mountains"
-    title: "The White Mountains"
-    wikipedia_url: "https://en.wikipedia.org/wiki/White_Mountains_(New_Hampshire)"
+    content: "The North Star symbolized freedom for runaway slaves navigating the Underground Railroad. Thoreau's assistance reflects his commitment to abolitionist principles and human rights."
+  - id: "self-styled-reformers"
+    trigger: "self-styled reformers"
+    title: "Critique of Reformers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Reform_movement"
     image_url: ""
     image_caption: ""
-    content: "The White Mountains of New Hampshire are a prominent natural landmark in the northeastern United States. Known for their rugged beauty and recreational opportunities, they symbolize the transcendentalist appreciation for nature and its role in spiritual and physical renewal."
+    content: "Thoreau critiques 'self-styled reformers' for their intrusive and often superficial approaches to change. His transcendentalist philosophy emphasizes individual transformation over societal imposition."
+  - id: "railroad-men-taking-a-sunday-morning-walk"
+    trigger: "railroad men taking a Sunday morning walk"
+    title: "Railroad Workers and Leisure"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rail_transport"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau observes railroad workers enjoying leisure time, reflecting on the balance between labor and relaxation. Railroads were a symbol of industrial progress during Thoreau's era."
+  - id: "welcome-englishmen"
+    trigger: "Welcome, Englishmen!"
+    title: "Thoreau's Greeting to Visitors"
+    wikipedia_url: "https://en.wikipedia.org/wiki/English_people"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's welcoming phrase, 'Welcome, Englishmen!' underscores his openness to diverse visitors and his recognition of shared humanity. It reflects his appreciation for cultural exchange and individual stories."
 ---
 I think that I love society as much as most, and am ready enough to
-fasten myself like a bloodsucker for the time to any full-blooded man
+fasten myself like a **bloodsucker for the time** to any full-blooded man
 that comes in my way. I am naturally no hermit, but might possibly sit
 out the sturdiest frequenter of the bar-room, if my business called me
 thither.
@@ -178,7 +255,7 @@ effectually deterred from frequenting a man’s house, by any kind of
 Cerberus whatever, as by the parade one made about dining me, which I
 took to be a very polite and roundabout hint never to trouble him so
 again. I think I shall never revisit those scenes. I should be proud to
-have for the motto of my cabin those lines of Spenser which one of my
+have for the motto of my cabin those **lines of Spenser** which one of my
 visitors inscribed on a yellow walnut leaf for a card:—
 
      “Arrivéd there, the little house they fill,
@@ -187,7 +264,7 @@ visitors inscribed on a yellow walnut leaf for a card:—
          The noblest mind the best contentment has.”
 
 When **Winslow, afterward governor of the Plymouth Colony**, went with a
-companion on a visit of ceremony to **Massasoit** on foot through the
+companion on a **visit of ceremony to Massasoit** on foot through the
 woods, and arrived tired and hungry at his lodge, they were well
 received by the king, but nothing was said about eating that day. When
 the night arrived, to quote their own words,—“He laid us on the bed
@@ -217,7 +294,7 @@ while I lived in the woods than at any other period in my life; I mean
 that I had some. I met several there under more favorable circumstances
 than I could any where else. But fewer came to see me on trivial
 business. In this respect, my company was winnowed by my mere distance
-from town. I had withdrawn so far within the great ocean of solitude,
+from town. I had withdrawn so far within the **great ocean of solitude**,
 into which the rivers of society empty, that for the most part, so far
 as my needs were concerned, only the finest sediment was deposited
 around me. Beside, there were wafted to me evidences of unexplored and
@@ -225,7 +302,7 @@ uncultivated continents on the other side.
 
 Who should come to my lodge this morning but a true Homeric or
 Paphlagonian man,—he had so suitable and poetic a name that I am sorry
-I cannot print it here,—a **Canadian, a woodchopper and post-maker**, who
+I cannot print it here,—a Canadian, a woodchopper and post-maker, who
 can hole fifty posts in a day, who made his last supper on a woodchuck
 which his dog caught. He, too, has heard of Homer, and, “if it were not
 for books,” would “not know what to do rainy days,” though perhaps he
@@ -236,7 +313,7 @@ him, while he holds the book, **Achilles’ reproof to Patroclus** for his
 sad countenance.—“Why are you in tears, Patroclus, like a young girl?”—
 
      “Or have you alone heard some news from Phthia?
-     They say that Menœtius lives yet, son of Actor,
+     They say that **Menœtius lives yet, son of Actor**,
      And Peleus lives, son of Æacus, among the Myrmidons,
      Either of whom having died, we should greatly grieve.”
 
@@ -255,10 +332,10 @@ bushy hair, and dull sleepy blue eyes, which were occasionally lit up
 with expression. He wore a flat gray cloth cap, a dingy wool-colored
 greatcoat, and cowhide boots. He was a great consumer of meat, usually
 carrying his dinner to his work a couple of miles past my house,—for he
-chopped all summer,—in a tin pail; cold meats, often cold woodchucks,
+chopped all summer,—in a tin pail; cold meats, often **cold woodchucks**,
 and coffee in a stone bottle which dangled by a string from his belt;
 and sometimes he offered me a drink. He came along early, crossing my
-**bean-field**, though without anxiety or haste to get to his work, such as
+bean-field, though without anxiety or haste to get to his work, such as
 Yankees exhibit. He wasn’t a-going to hurt himself. He didn’t care if
 he only earned his board. Frequently he would leave his dinner in the
 bushes, when his dog had caught a woodchuck by the way, and go back a
@@ -282,7 +359,7 @@ He interested me because he was so quiet and solitary and so happy
 withal; a well of good humor and contentment which overflowed at his
 eyes. His mirth was without alloy. Sometimes I saw him at his work in
 the woods, felling trees, and he would greet me with a laugh of
-inexpressible satisfaction, and a salutation in Canadian French, though
+inexpressible satisfaction, and a salutation in **Canadian French**, though
 he spoke English as well. When I approached him he would suspend his
 work, and with half-suppressed mirth lie along the trunk of a pine
 which he had felled, and, peeling off the inner bark, roll it up into a
@@ -309,7 +386,7 @@ in that innocent and ineffectual way in which the Catholic priests
 teach the aborigines, by which the pupil is never educated to the
 degree of consciousness, but only to the degree of trust and reverence,
 and a child is not made a man, but kept a child. When Nature made him,
-she gave him a strong body and contentment for his portion, and propped
+she gave him a strong body and **contentment for his portion**, and propped
 him on every side with reverence and reliance, that he might live out
 his threescore years and ten a child. He was so genuine and
 unsophisticated that no introduction would serve to introduce him, more
@@ -356,11 +433,11 @@ simple and practical light. He had never heard of such things before.
 Could he do without factories? I asked. He had worn the home-made
 Vermont gray, he said, and that was good. Could he dispense with tea
 and coffee? Did this country afford any beverage beside water? He had
-soaked hemlock leaves in water and drank it, and thought that was
+**soaked hemlock leaves in water** and drank it, and thought that was
 better than water in warm weather. When I asked him if he could do
 without money, he showed the convenience of money in such a way as to
 suggest and coincide with the most philosophical accounts of the origin
-of this institution, and the very derivation of the word _pecunia_. If
+of this institution, and the very derivation of the word _**pecunia**_. If
 an ox were his property, and he wished to get needles and thread at the
 store, he thought it would be inconvenient and impossible soon to go on
 mortgaging some portion of the creature each time to that amount. He
@@ -403,7 +480,7 @@ learned man’s, it rarely ripened to any thing which can be reported. He
 suggested that there might be men of genius in the lowest grades of
 life, however permanently humble and illiterate, who take their own
 view always, or do not pretend to see at all; who are as bottomless
-even as Walden Pond was thought to be, though they may be dark and
+even as **Walden Pond was thought to be**, though they may be dark and
 muddy.
 
 
@@ -417,7 +494,7 @@ when every body is on the move; and I had my share of good luck, though
 there were some curious specimens among my visitors. Half-witted men
 from the almshouse and elsewhere came to see me; but I endeavored to
 make them exercise all the wit they had, and make their confessions to
-me; in such cases making wit the theme of our conversation; and so was
+me; in such cases making **wit the theme of our conversation**; and so was
 compensated. Indeed, I found some of them to be wiser than the so
 called _overseers_ of the poor and selectmen of the town, and thought
 it was time that the tables were turned. With respect to wit, I learned
@@ -433,7 +510,7 @@ Lord cared as much for him as for another. “I have always been so,”
 said he, “from my childhood; I never had much mind; I was not like
 other children; I am weak in the head. It was the Lord’s will, I
 suppose.” And there he was to prove the truth of his words. He was a
-metaphysical puzzle to me. I have rarely met a fellow-man on such
+**metaphysical puzzle** to me. I have rarely met a fellow-man on such
 promising ground,—it was so simple and sincere and so true all that he
 said. And, true enough, in proportion as he appeared to humble himself
 was he exalted. I did not know at first but it was the result of a wise
@@ -452,7 +529,7 @@ world, however he got it. Objects of charity are not guests. Men who
 did not know when their visit had terminated, though I went about my
 business again, answering them from greater and greater remoteness. Men
 of almost every degree of wit called on me in the migrating season.
-Some who had more wits than they knew what to do with; **runaway slaves**
+Some who had more wits than they knew what to do with; runaway slaves
 with plantation manners, who listened from time to time, like the fox
 in the fable, as if they heard the hounds a-baying on their track, and
 looked at me beseechingly, as much as to say,—
@@ -467,7 +544,7 @@ one bug, a score of them lost in every morning’s dew,—and become
 frizzled and mangy in consequence; men of ideas instead of legs, a sort
 of intellectual centipede that made you crawl all over. One man
 proposed a book in which visitors should write their names, as at the
-**White Mountains**; but, alas! I have too good a memory to make that
+White Mountains; but, alas! I have too good a memory to make that
 necessary.
 
 I could not but notice some of the peculiarities of my visitors. Girls
@@ -491,11 +568,11 @@ there if you don’t think of any?—and they thought that a prudent man
 would carefully select the safest position, where Dr. B. might be on
 hand at a moment’s warning. To them the village was literally a
 _com-munity_, a league for mutual defence, and you would suppose that
-they would not go a-**huckleberrying** without a medicine chest. The amount
+they would not go a-huckleberrying without a medicine chest. The amount
 of it is, if a man is alive, there is always _danger_ that he may die,
 though the danger must be allowed to be less in proportion as he is
 dead-and-alive to begin with. A man sits as many risks as he runs.
-Finally, there were the self-styled reformers, the greatest bores of
+Finally, there were the **self-styled reformers**, the greatest bores of
 all, who thought that I was forever singing,—
 
      This is the house that I built;
@@ -510,8 +587,8 @@ I did not fear the hen-harriers, for I kept no chickens; but I feared
 the men-harriers rather.
 
 I had more cheering visitors than the last. Children come a-berrying,
-railroad men taking a Sunday morning walk in clean shirts, fishermen
+**railroad men taking a Sunday morning walk** in clean shirts, fishermen
 and hunters, poets and philosophers; in short, all honest pilgrims, who
 came out to the woods for freedom’s sake, and really left the village
-behind, I was ready to greet with,—“Welcome, Englishmen! welcome,
+behind, I was ready to greet with,—“**Welcome, Englishmen!** welcome,
 Englishmen!” for I had had communication with that race.

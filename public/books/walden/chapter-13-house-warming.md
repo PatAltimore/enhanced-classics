@@ -9,102 +9,151 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau describes gathering cranberries and chestnuts in the autumn, admiring their beauty and reflecting on their use in commerce."
-    link: "https://en.wikipedia.org/wiki/Cranberry"
-    link_label: "Cranberry"
-  - point: "He discovers the ground-nut, a tuber once significant to Native Americans, and reflects on its historical and ecological importance."
-    link: "https://en.wikipedia.org/wiki/Apios_americana"
-    link_label: "Ground-nut"
-  - point: "Thoreau builds his chimney using second-hand bricks and reflects on ancient masonry practices, including those in Mesopotamia and Babylon."
-    link: "https://en.wikipedia.org/wiki/Mesopotamia"
-    link_label: "Mesopotamia"
-  - point: "He observes the freezing of Walden Pond and compares it to other local ponds, noting the beauty and scientific interest of ice formation."
+  - point: "Thoreau reflects on the beauty and utility of nature's harvest, including cranberries and chestnuts."
+    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    link_label: "Henry David Thoreau"
+  - point: "He describes the process of building his chimney and the significance of its construction."
+    link: "https://en.wikipedia.org/wiki/Chimney"
+    link_label: "Chimney"
+  - point: "Thoreau discusses the freezing of Walden Pond and the onset of winter."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "Thoreau sacrifices an old forest fence to Vulcan and reflects on the Roman reverence for sacred groves."
-    link: "https://en.wikipedia.org/wiki/Vulcan_(mythology)"
-    link_label: "Vulcan"
-  - point: "He laments the loss of traditional cooking methods, such as roasting potatoes in ashes, and reflects on the cultural shift brought by modern stoves."
-    link: "https://en.wikipedia.org/wiki/Native_American_cuisine"
-    link_label: "Native American cuisine"
+  - point: "He reflects on the value of wood and its historical significance for fuel and construction."
+    link: "https://en.wikipedia.org/wiki/Firewood"
+    link_label: "Firewood"
+  - point: "Thoreau contrasts the poetic nature of open fireplaces with the utilitarian nature of stoves."
+    link: "https://en.wikipedia.org/wiki/Fireplace"
+    link_label: "Fireplace"
+  - point: "He laments the loss of connection to nature and tradition in modern cooking methods."
+    link: "https://en.wikipedia.org/wiki/Cooking"
+    link_label: "Cooking"
 
 enhancements:
+  - id: "the-farmer-plucks-with-an-ugly-rake"
+    trigger: "the farmer plucks with an ugly rake"
+    title: "Cranberry Harvesting Methods"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cranberry"
+    image_url: ""
+    image_caption: ""
+    content: "Cranberries are traditionally harvested using specialized tools, including rakes, which can disrupt the natural environment. Thoreau critiques the farmer's utilitarian approach, emphasizing the aesthetic and ecological value of the meadow. Cranberries have long been a staple in American agriculture and cuisine, particularly in New England."
   - id: "ground-nut-apios-tuberosa"
     trigger: "ground-nut (_Apios tuberosa_)"
-    title: "Ground-nut: Indigenous Staple Food"
+    title: "Groundnut: Indigenous Food Source"
     wikipedia_url: "https://en.wikipedia.org/wiki/Apios_americana"
     image_url: ""
     image_caption: ""
-    content: "The ground-nut, also known as Apios americana, was a vital food source for Native Americans and early settlers. Its tubers are rich in nutrients and were often boiled or roasted. Today, it is largely forgotten due to agricultural cultivation of other crops, but it remains a symbol of sustainable and indigenous food practices."
-  - id: "mesopotamia-second-hand-bricks"
-    trigger: "Mesopotamia"
-    title: "Mesopotamia's Ancient Bricks"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mesopotamia"
+    content: "The groundnut, also known as Apios americana, was a vital food source for Native Americans. Thoreau highlights its historical significance and potential as a resilient crop. Its cultivation has declined due to modern agricultural practices, but it remains an important symbol of sustainable food systems."
+  - id: "old-fire-dogs"
+    trigger: "old fire-dogs"
+    title: "Fire-Dogs: Hearth Tools"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Andiron"
     image_url: ""
     image_caption: ""
-    content: "Mesopotamia, often called the 'Cradle of Civilization,' was home to advanced architectural techniques, including the use of bricks. Many villages reused bricks from Babylon's ruins, showcasing the durability and ingenuity of ancient construction methods."
-  - id: "ruins-of-babylon"
-    trigger: "ruins of Babylon"
-    title: "Ruins of Babylon: Ancient Legacy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Babylon"
+    content: "Fire-dogs, or andirons, are metal supports used to hold logs in a fireplace. They improve airflow and ensure efficient burning. Thoreau's use of old fire-dogs reflects his resourcefulness and connection to traditional methods of heating and cooking."
+  - id: "cato-says-the-master-of-a-family"
+    trigger: "Cato says, the master of a family"
+    title: "Cato's Rustic Villa Advice"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cato_the_Elder"
     image_url: ""
     image_caption: ""
-    content: "Babylon, one of the most famous cities of ancient Mesopotamia, was known for its impressive architecture, including the Hanging Gardens. Its ruins have provided insights into ancient urban planning and construction techniques, influencing cultures for millennia."
-  - id: "nebuchadnezzar-bricks"
-    trigger: "Nebuchadnezzar"
-    title: "Nebuchadnezzar's Architectural Influence"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nebuchadnezzar_II"
+    content: "Cato the Elder, a Roman statesman, emphasized self-sufficiency and preparedness in his writings on agriculture. Thoreau references Cato's advice to highlight the importance of simplicity and virtue in domestic life, aligning with his own philosophy of minimalism."
+  - id: "the-parlor-is-so-far-from-the-kitchen"
+    trigger: "the parlor is so far from the kitchen"
+    title: "Separation of Spaces in Homes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Parlor"
     image_url: ""
     image_caption: ""
-    content: "Nebuchadnezzar II, the Babylonian king, is renowned for his ambitious building projects, including the Hanging Gardens and city walls. His reign marked a peak in Babylonian architectural and cultural achievements."
-  - id: "indian-summer-weather"
-    trigger: "Indian summer"
-    title: "Indian Summer: A Weather Phenomenon"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Indian_summer"
+    content: "Thoreau critiques the physical and symbolic distance between the parlor and kitchen in modern homes, reflecting on how this separation diminishes connection to nature and practical living. Historically, the parlor was a formal space for entertaining, while the kitchen was utilitarian."
+  - id: "walden-froze-entirely-over"
+    trigger: "Walden froze entirely over"
+    title: "Walden Pond Freezing"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: ""
     image_caption: ""
-    content: "An Indian summer refers to a period of unseasonably warm weather in autumn, often accompanied by clear skies. This phenomenon has been observed worldwide and is celebrated for its beauty and reprieve before winter."
-  - id: "flints-pond-freezing"
-    trigger: "Flint’s and other shallower ponds"
-    title: "Flint's Pond and Seasonal Changes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Flint%27s_Pond"
+    content: "The freezing of Walden Pond marks the transition to winter and serves as a metaphor for Thoreau's introspection and connection to nature. The pond's seasonal changes are central to his observations and writings in 'Walden.'"
+  - id: "the-scenery-of-winter"
+    trigger: "the scenery of winter"
+    title: "Winter's Transformative Beauty"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Winter"
     image_url: ""
     image_caption: ""
-    content: "Flint's Pond, near Walden Pond, is a smaller body of water that freezes earlier due to its shallower depth. Observations of its freezing patterns provide insights into local climate and ecological dynamics."
-  - id: "vulcan-sacrifice"
-    trigger: "Vulcan"
-    title: "Vulcan: Roman God of Fire"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Vulcan_(mythology)"
+    content: "Winter scenery, with its snow-covered landscapes, symbolizes purity and renewal. Thoreau's description of winter reflects his appreciation for nature's cycles and the introspection they inspire."
+  - id: "the-drift-wood-of-the-pond"
+    trigger: "the drift-wood of the pond"
+    title: "Driftwood as Resource"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Driftwood"
     image_url: ""
     image_caption: ""
-    content: "Vulcan, the Roman god of fire and craftsmanship, was associated with both destructive and creative forces. Sacrifices to Vulcan were common in ancient Rome, reflecting the importance of fire in daily life and industry."
-  - id: "terminus-roman-god"
-    trigger: "god Terminus"
-    title: "Terminus: Roman Boundary God"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Terminus_(god)"
+    content: "Driftwood, carried by water currents, is often repurposed for fuel or construction. Thoreau's use of driftwood underscores his resourcefulness and commitment to sustainable living."
+  - id: "pitch-pine-logs"
+    trigger: "pitch-pine logs"
+    title: "Pitch Pine: Durable Wood"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pitch_pine"
     image_url: ""
     image_caption: ""
-    content: "Terminus was the Roman god of boundaries and landmarks. His worship emphasized the sanctity of property lines and the importance of respecting territorial limits, reflecting the structured nature of Roman society."
-  - id: "lucum-conlucare-sacred-groves"
+    content: "Pitch pine is known for its resilience and high resin content, making it ideal for fuel and construction. Thoreau's discovery of pitch-pine logs highlights his ingenuity in utilizing natural resources."
+  - id: "gilpin-in-his-account-of-the-forest-borderers"
+    trigger: "Gilpin, in his account of the forest borderers"
+    title: "Gilpin on Forest Borderers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Gilpin_(artist)"
+    image_url: ""
+    image_caption: ""
+    content: "William Gilpin, an English writer, explored the aesthetics of landscapes and the impact of human activity on forests. Thoreau references Gilpin to critique the exploitation of natural spaces and advocate for conservation."
+  - id: "purprestures"
+    trigger: "purprestures"
+    title: "Purprestures: Forest Law Violations"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Purpresture"
+    image_url: ""
+    image_caption: ""
+    content: "Purprestures refer to illegal encroachments on public or protected lands. Thoreau uses this term to emphasize the importance of preserving natural spaces and respecting their ecological and cultural significance."
+  - id: "lucum-conlucare"
     trigger: "lucum conlucare"
-    title: "Lucum Conlucare: Sacred Groves"
+    title: "Roman Sacred Groves"
     wikipedia_url: "https://en.wikipedia.org/wiki/Sacred_grove"
     image_url: ""
     image_caption: ""
-    content: "The Roman practice of 'lucum conlucare' involved thinning sacred groves with reverence and offerings to the gods. These groves were seen as divine spaces, and their preservation reflected the Romans' deep connection to nature and spirituality."
-  - id: "native-american-cooking"
-    trigger: "Indian fashion"
-    title: "Native American Cooking Traditions"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Native_American_cuisine"
+    content: "Sacred groves were revered in Roman culture, often associated with deities and rituals. Thoreau invokes this tradition to highlight the spiritual and ecological value of forests, advocating for their preservation."
+  - id: "michaux-more-than-thirty-years-ago"
+    trigger: "Michaux, more than thirty years ago"
+    title: "François André Michaux: Forest Studies"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Andr%C3%A9_Michaux"
     image_url: ""
     image_caption: ""
-    content: "Native American cuisine included techniques like roasting potatoes in ashes, which preserved flavor and nutrients. These methods highlight the ingenuity and resourcefulness of indigenous peoples in utilizing natural resources for sustenance."
+    content: "François André Michaux was a French botanist who studied North American forests. Thoreau references Michaux's observations on the value of wood to underscore its enduring importance in human life and industry."
+  - id: "fat-pine-roots"
+    trigger: "fat pine roots"
+    title: "Fat Pine: Resin-Rich Wood"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pine"
+    image_url: ""
+    image_caption: ""
+    content: "Fat pine, rich in resin, burns efficiently and is highly valued for kindling. Thoreau's exploration of fat pine roots reflects his resourcefulness and appreciation for nature's hidden treasures."
+  - id: "light-winged-smoke-icarian-bird"
+    trigger: "Light-winged Smoke, Icarian bird"
+    title: "Smoke as a Poetic Symbol"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Smoke"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses smoke as a metaphor for transcendence and connection to the divine. Its ephemeral nature symbolizes the fleeting beauty of life and the interconnectedness of all things."
+  - id: "roast-potatoes-in-the-ashes"
+    trigger: "roast potatoes in the ashes"
+    title: "Traditional Potato Roasting"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Potato"
+    image_url: ""
+    image_caption: ""
+    content: "Roasting potatoes in ashes is a simple, traditional cooking method that connects people to the earth and its resources. Thoreau laments the loss of such practices in the face of modern conveniences."
+  - id: "never-bright-flame-may-be-denied-to-me"
+    trigger: "Never, bright flame, may be denied to me"
+    title: "Fire as a Symbol of Life"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fire"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau reflects on the symbolic and practical importance of fire, which represents warmth, life, and human connection. He contrasts the poetic nature of open flames with the utilitarian function of stoves."
 ---
 In October I went a-graping to the river meadows, and loaded myself
 with clusters more precious for their beauty and fragrance than for
 food. There too I admired, though I did not gather, the cranberries,
 small waxen gems, pendants of the meadow grass, pearly and red, which
-the farmer plucks with an ugly rake, leaving the smooth meadow in a
+**the farmer plucks with an ugly rake**, leaving the smooth meadow in a
 snarl, heedlessly measuring them by the bushel and the dollar only, and
 sells the spoils of the meads to Boston and New York; destined to be
 _jammed_, to satisfy the tastes of lovers of Nature there. So butchers
@@ -187,13 +236,13 @@ mortar on them was fifty years old, and was said to be still growing
 harder; but this is one of those sayings which men love to repeat
 whether they are true or not. Such sayings themselves grow harder and
 adhere more firmly with age, and it would take many blows with a trowel
-to clean an old wiseacre of them. Many of the villages of **Mesopotamia**
+to clean an old wiseacre of them. Many of the villages of Mesopotamia
 are built of second-hand bricks of a very good quality, obtained from
-the **ruins of Babylon**, and the cement on them is older and probably
+the ruins of Babylon, and the cement on them is older and probably
 harder still. However that may be, I was struck by the peculiar
 toughness of the steel which bore so many violent blows without being
 worn out. As my bricks had been in a chimney before, though I did not
-read the name of **Nebuchadnezzar** on them, I picked out as many
+read the name of Nebuchadnezzar on them, I picked out as many
 fire-place bricks as I could find, to save work and waste, and I filled
 the spaces between the bricks about the fire-place with stones from the
 pond shore, and also made my mortar with the white sand from the same
@@ -229,7 +278,7 @@ shadows may play at evening about the rafters? These forms are more
 agreeable to the fancy and imagination than fresco paintings or other
 the most expensive furniture. I now first began to inhabit my house, I
 may say, when I began to use it for warmth as well as shelter. I had
-got a couple of old fire-dogs to keep the wood from the hearth, and it
+got a couple of **old fire-dogs** to keep the wood from the hearth, and it
 did me good to see the soot form on the back of the chimney which I had
 built, and I poked the fire with more right and more satisfaction than
 usual. My dwelling was small, and I could hardly entertain an echo in
@@ -237,7 +286,7 @@ it; but it seemed larger for being a single apartment and remote from
 neighbors. All the attractions of a house were concentrated in one
 room; it was kitchen, chamber, parlor, and keeping-room; and whatever
 satisfaction parent or child, master or servant, derive from living in
-a house, I enjoyed it all. Cato says, the master of a family
+a house, I enjoyed it all. **Cato says, the master of a family**
 (_patremfamilias_) must have in his rustic villa “cellam oleariam,
 vinariam, dolia multa, uti lubeat caritatem expectare, et rei, et
 virtuti, et gloriæ erit,” that is, “an oil and wine cellar, many casks,
@@ -295,7 +344,7 @@ It would seem as if the very language of our parlors would lose all its
 nerve and degenerate into _palaver_ wholly, our lives pass at such
 remoteness from its symbols, and its metaphors and tropes are
 necessarily so far fetched, through slides and dumb-waiters, as it
-were; in other words, the parlor is so far from the kitchen and
+were; in other words, **the parlor is so far from the kitchen** and
 workshop. The dinner even is only the parable of a dinner, commonly. As
 if only the savage dwelt near enough to Nature and Truth to borrow a
 trope from them. How can the scholar, who dwells away in the North West
@@ -346,7 +395,7 @@ of the water, and study the bottom at your leisure, only two or three
 inches distant, like a picture behind a glass, and the water is
 necessarily always smooth then. There are many furrows in the sand
 where some creature has travelled about and doubled on its tracks; and,
-for wrecks, it is strewn with the cases of cadis worms made of minute
+for wrecks, it is strewn with the **cases of cadis worms** made of minute
 grains of white quartz. Perhaps these have creased it, for you find
 some of their cases in the furrows, though they are deep and broad for
 them to make. But the ice itself is the object of most interest, though
@@ -361,7 +410,7 @@ your face reflected in them through the ice. There may be thirty or
 forty of them to a square inch. There are also already within the ice
 narrow oblong perpendicular bubbles about half an inch long, sharp
 cones with the apex upward; or oftener, if the ice is quite fresh,
-minute spherical bubbles one directly above another, like a string of
+**minute spherical bubbles** one directly above another, like a string of
 beads. But these within the ice are not so numerous nor obvious as
 those beneath. I sometimes used to cast on stones to try the strength
 of the ice, and those which broke through carried in air with them,
@@ -369,7 +418,7 @@ which formed very large and conspicuous white bubbles beneath. One day
 when I came to the same place forty-eight hours afterward, I found that
 those large bubbles were still perfect, though an inch more of ice had
 formed, as I could see distinctly by the seam in the edge of a cake.
-But as the last two days had been very warm, like an **Indian summer**, the
+But as the last two days had been very warm, like an Indian summer, the
 ice was not now transparent, showing the dark green color of the water,
 and the bottom, but opaque and whitish or gray, and though twice as
 thick was hardly stronger than before, for the air bubbles had greatly
@@ -409,26 +458,26 @@ Several times, when returning from the village at ten or eleven o’clock
 at night, I heard the tread of a flock of geese, or else ducks, on the
 dry leaves in the woods by a pond-hole behind my dwelling, where they
 had come up to feed, and the faint honk or quack of their leader as
-they hurried off. In 1845 Walden froze entirely over for the first time
-on the night of the 22d of December, **Flint’s and other shallower ponds**
+they hurried off. In 1845 **Walden froze entirely over** for the first time
+on the night of the 22d of December, Flint’s and other shallower ponds
 and the river having been frozen ten days or more; in ’46, the 16th; in
 ’49, about the 31st; and in ’50, about the 27th of December; in ’52,
 the 5th of January; in ’53, the 31st of December. The snow had already
 covered the ground since the 25th of November, and surrounded me
-suddenly with the scenery of winter. I withdrew yet farther into my
+suddenly with **the scenery of winter**. I withdrew yet farther into my
 shell, and endeavored to keep a bright fire both within my house and
 within my breast. My employment out of doors now was to collect the
 dead wood in the forest, bringing it in my hands or on my shoulders, or
 sometimes trailing a dead pine tree under each arm to my shed. An old
 forest fence which had seen its best days was a great haul for me. I
-sacrificed it to **Vulcan**, for it was past serving the **god Terminus**. How
+sacrificed it to Vulcan, for it was past serving the god Terminus. How
 much more interesting an event is that man’s supper who has just been
 forth in the snow to hunt, nay, you might say, steal, the fuel to cook
 it with! His bread and meat are sweet. There are enough fagots and
 waste wood of all kinds in the forests of most of our towns to support
 many fires, but which at present warm none, and, some think, hinder the
-growth of the young wood. There was also the drift-wood of the pond. In
-the course of the summer I had discovered a raft of pitch-pine logs
+growth of the young wood. There was also **the drift-wood of the pond**. In
+the course of the summer I had discovered a raft of **pitch-pine logs**
 with the bark on, pinned together by the Irish when the railroad was
 built. This I hauled up partly on the shore. After soaking two years
 and then lying high six months it was perfectly sound, though
@@ -442,11 +491,11 @@ not only burned long, but made a very hot fire; nay, I thought that
 they burned better for the soaking, as if the pitch, being confined by
 the water, burned longer, as in a lamp.
 
-Gilpin, in his account of the forest borderers of England, says that
+**Gilpin, in his account of the forest borderers** of England, says that
 “the encroachments of trespassers, and the houses and fences thus
 raised on the borders of the forest,” were “considered as great
 nuisances by the old forest law, and were severely punished under the
-name of _purprestures_, as tending _ad terrorem ferarum—ad nocumentum
+name of **_purprestures_**, as tending _ad terrorem ferarum—ad nocumentum
 forestæ_, &c.,” to the frightening of the game and the detriment of the
 forest. But I was interested in the preservation of the venison and the
 vert more than the hunters or woodchoppers, and as much as though I had
@@ -466,7 +515,7 @@ and in this new country, a value more permanent and universal than that
 of gold. After all our discoveries and inventions no man will go by a
 pile of wood. It is as precious to us as it was to our Saxon and Norman
 ancestors. If they made their bows of it, we make our gun-stocks of it.
-**Michaux**, more than thirty years ago, says that the price of wood for
+**Michaux, more than thirty years ago**, says that the price of wood for
 fuel in New York and Philadelphia “nearly equals, and sometimes
 exceeds, that of the best wood in Paris, though this immense capital
 annually requires more than three hundred thousand cords, and is
@@ -500,7 +549,7 @@ A few pieces of fat pine were a great treasure. It is interesting to
 remember how much of this food for fire is still concealed in the
 bowels of the earth. In previous years I had often gone “prospecting”
 over some bare hill-side, where a pitch-pine wood had formerly stood,
-and got out the fat pine roots. They are almost indestructible. Stumps
+and got out the **fat pine roots**. They are almost indestructible. Stumps
 thirty or forty years old, at least, will still be sound at the core,
 though the sapwood has all become vegetable mould, as appears by the
 scales of the thick bark forming a ring level with the earth four or
@@ -515,7 +564,7 @@ fires beyond the horizon, I too gave notice to the various wild
 inhabitants of Walden vale, by a smoky streamer from my chimney, that I
 was awake.—
 
-     Light-winged Smoke, Icarian bird,
+     **Light-winged Smoke, Icarian bird**,
      Melting thy pinions in thy upward flight,
      Lark without song, and messenger of dawn,
      Circling above the hamlets as thy nest;
@@ -560,7 +609,7 @@ recovered my faculties and prolonged my life. But the most luxuriously
 housed has little to boast of in this respect, nor need we trouble
 ourselves to speculate how the human race may be at last destroyed. It
 would be easy to cut their threads any time with a little sharper blast
-from the north. We go on dating from **Cold Fridays and Great Snows**; but
+from the north. We go on dating from Cold Fridays and Great Snows; but
 a little colder Friday, or greater snow, would put a period to man’s
 existence on the globe.
 
@@ -568,8 +617,8 @@ The next winter I used a small cooking-stove for economy, since I did
 not own the forest; but it did not keep fire so well as the open
 fire-place. Cooking was then, for the most part, no longer a poetic,
 but merely a chemic process. It will soon be forgotten, in these days
-of stoves, that we used to roast potatoes in the ashes, after the
-**Indian fashion**. The stove not only took up room and scented the house,
+of stoves, that we used to **roast potatoes in the ashes**, after the
+Indian fashion. The stove not only took up room and scented the house,
 but it concealed the fire, and I felt as if I had lost a companion. You
 can always see a face in the fire. The laborer, looking into it at
 evening, purifies his thoughts of the dross and earthiness which they
@@ -577,7 +626,7 @@ have accumulated during the day. But I could no longer sit and look
 into the fire, and the pertinent words of a poet recurred to me with
 new force.—
 
-     “Never, bright flame, may be denied to me
+     “**Never, bright flame, may be denied to me**
      Thy dear, life imaging, close sympathy.
      What but my hopes shot upward e’er so bright?
      What but my fortunes sunk so low in night?

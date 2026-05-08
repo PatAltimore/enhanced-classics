@@ -9,21 +9,24 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau describes his rambles through pine groves and cedar woods, comparing them to sacred and mythological places."
+  - point: "Thoreau reflects on the beauty of nature, including pine groves and swamps, comparing them to sacred spaces."
     link: "https://en.wikipedia.org/wiki/Druid"
     link_label: "Druids"
-  - point: "He reflects on natural phenomena like rainbows and halos, drawing parallels to historical accounts and personal experiences."
-    link: "https://en.wikipedia.org/wiki/Benvenuto_Cellini"
-    link_label: "Benvenuto Cellini"
-  - point: "Thoreau visits Baker Farm and interacts with John Field, an Irish immigrant struggling to make a living."
-    link: "https://en.wikipedia.org/wiki/Baker_Farm_(Walden)"
-    link_label: "Baker Farm"
-  - point: "He contrasts his simple lifestyle with Field's labor-intensive one, advocating for self-reliance and simplicity."
-    link: "https://en.wikipedia.org/wiki/Self-reliance"
-    link_label: "Self-reliance"
-  - point: "Thoreau reflects on the importance of living adventurously and connecting with nature rather than being tied to material pursuits."
+  - point: "He describes his encounter with John Field, an Irish immigrant, and contrasts their lifestyles and philosophies."
+    link: "https://en.wikipedia.org/wiki/Irish_Americans"
+    link_label: "Irish Americans"
+  - point: "Thoreau shares his observations on natural phenomena, such as rainbows and halos of light, and their philosophical implications."
+    link: "https://en.wikipedia.org/wiki/Rainbow"
+    link_label: "Rainbow"
+  - point: "He critiques materialism and advocates for a simpler, self-sufficient way of living."
+    link: "https://en.wikipedia.org/wiki/Simple_living"
+    link_label: "Simple living"
+  - point: "Thoreau emphasizes the importance of adventure, exploration, and living in harmony with nature."
     link: "https://en.wikipedia.org/wiki/Transcendentalism"
     link_label: "Transcendentalism"
+  - point: "He reflects on the struggles of immigrants like John Field and their attempts to adapt to life in America."
+    link: "https://en.wikipedia.org/wiki/Immigration_to_the_United_States"
+    link_label: "Immigration to the United States"
 
 enhancements:
   - id: "pine-groves"
@@ -32,97 +35,202 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Pine"
     image_url: ""
     image_caption: ""
-    content: "Pine groves have long been associated with tranquility and spirituality. In literature, they are often depicted as places of reflection and connection to nature. Thoreau's comparison of pine groves to temples highlights their serene and sacred qualities, aligning with his transcendentalist philosophy of finding divinity in the natural world."
+    content: "Pine groves are often associated with tranquility and natural beauty. In literature, they are sometimes likened to sacred spaces or temples, as Thoreau does here. Pines are evergreen trees that symbolize resilience and longevity, and their groves have been revered in various cultures for their serene and majestic presence."
   - id: "druids"
     trigger: "Druids"
     title: "Ancient Celtic Priests"
     wikipedia_url: "https://en.wikipedia.org/wiki/Druid"
     image_url: ""
     image_caption: ""
-    content: "Druids were the priestly class in ancient Celtic societies, known for their connection to nature and spiritual practices. Thoreau's mention of Druids evokes their reverence for sacred groves, emphasizing his view of nature as a spiritual sanctuary."
+    content: "Druids were members of the learned class in ancient Celtic cultures, often serving as priests, poets, and scholars. They are closely associated with oak trees, which were sacred in their rituals. Thoreau's comparison of pine groves to spaces Druids might worship in highlights the spiritual connection he feels with nature."
   - id: "flints-pond"
     trigger: "Flint’s Pond"
-    title: "Flint’s Pond in Concord"
+    title: "Flint's Pond in Lincoln, MA"
     wikipedia_url: "https://en.wikipedia.org/wiki/Flint%27s_Pond"
     image_url: ""
     image_caption: ""
-    content: "Flint’s Pond, located near Walden Pond, is another natural landmark in Concord, Massachusetts. Thoreau often explored its surroundings, finding inspiration in its beauty and solitude. The pond symbolizes the untouched wilderness that Thoreau cherished."
-  - id: "valhalla"
-    trigger: "Valhalla"
-    title: "Norse Mythological Heaven"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Valhalla"
-    image_url: ""
-    image_caption: ""
-    content: "Valhalla is the hall of slain warriors in Norse mythology, ruled by Odin. Thoreau’s reference to Valhalla underscores the majestic and otherworldly quality of the cedar woods, elevating them to a mythic status in his imagination."
+    content: "Flint's Pond, located near Walden Pond in Lincoln, Massachusetts, is another body of water Thoreau explored during his time at Walden. It is known for its serene environment and natural beauty, offering a glimpse into the landscapes that inspired Thoreau's reflections on nature and simplicity."
   - id: "usnea-lichen"
     trigger: "usnea lichen"
-    title: "Usnea: The Beard Lichen"
+    title: "Usnea Lichen's Ecological Role"
     wikipedia_url: "https://en.wikipedia.org/wiki/Usnea"
     image_url: ""
     image_caption: ""
-    content: "Usnea is a type of lichen commonly found hanging from trees in damp environments. Known for its medicinal properties, it symbolizes the interconnectedness of life in ecosystems, a theme central to Thoreau's observations of nature."
-  - id: "white-spruce-trees"
-    trigger: "white-spruce trees"
-    title: "White Spruce Trees"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Picea_glauca"
+    content: "Usnea is a type of lichen that grows on trees and is often referred to as 'beard lichen' due to its appearance. It plays a vital role in ecosystems by providing habitat for small organisms and contributing to nutrient cycles. Thoreau's mention of it underscores his keen observation of the intricate details of nature."
+  - id: "wild-holly-berries"
+    trigger: "wild-holly berries"
+    title: "Symbolism of Holly Berries"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Holly"
     image_url: ""
     image_caption: ""
-    content: "White spruce trees are native to North America and are valued for their resilience and beauty. Thoreau’s description of them adorned with lichen and fungi highlights their role in supporting diverse life forms in the swamp ecosystem."
+    content: "Holly berries are often associated with winter and Christmas traditions, symbolizing hope and renewal. In Thoreau's description, their beauty captivates the observer, illustrating nature's ability to inspire and distract from mundane concerns."
+  - id: "black-birch"
+    trigger: "black-birch"
+    title: "Black Birch Trees"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Betula_lenta"
+    image_url: ""
+    image_caption: ""
+    content: "The black birch, or Betula lenta, is a deciduous tree native to eastern North America. Known for its aromatic bark and resilience, it has been used historically for medicinal purposes and as a source of birch oil. Thoreau's admiration for its beauty reflects his deep appreciation for diverse tree species."
+  - id: "rainbows-arch"
+    trigger: "rainbow’s arch"
+    title: "Rainbows in Nature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rainbow"
+    image_url: ""
+    image_caption: ""
+    content: "Rainbows are optical phenomena caused by the refraction, dispersion, and reflection of light in water droplets. They have been symbols of hope and beauty across cultures. Thoreau's experience of standing within a rainbow's arch highlights his transcendental connection to nature's wonders."
   - id: "benvenuto-cellini"
     trigger: "Benvenuto Cellini"
-    title: "Renaissance Artist and Memoirist"
+    title: "Renaissance Artist Benvenuto Cellini"
     wikipedia_url: "https://en.wikipedia.org/wiki/Benvenuto_Cellini"
     image_url: ""
     image_caption: ""
-    content: "Benvenuto Cellini was a renowned Italian sculptor and goldsmith of the Renaissance. His memoirs recount vivid experiences, including supernatural phenomena. Thoreau draws a parallel between Cellini’s halo and his own observations of light, blending art, history, and nature."
+    content: "Benvenuto Cellini was a renowned Italian sculptor and goldsmith of the Renaissance. His memoirs recount vivid experiences, including supernatural visions. Thoreau references Cellini to draw parallels between artistic imagination and the perception of natural phenomena."
   - id: "castle-of-st-angelo"
     trigger: "castle of St. Angelo"
-    title: "Historic Roman Fortress"
+    title: "Castle of St. Angelo in Rome"
     wikipedia_url: "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
     image_url: ""
     image_caption: ""
-    content: "The Castel Sant'Angelo in Rome has served as a mausoleum, fortress, and prison. Cellini’s imprisonment there adds a dramatic historical layer to Thoreau’s reflections on light phenomena and human perception."
-  - id: "pleasant-meadow"
-    trigger: "Pleasant Meadow"
-    title: "Pleasant Meadow at Baker Farm"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Baker_Farm_(Walden)"
+    content: "The Castel Sant'Angelo in Rome was originally built as a mausoleum for Emperor Hadrian and later repurposed as a fortress and prison. Cellini's imprisonment there is a notable episode in his memoirs, illustrating the intersection of history, art, and personal struggle."
+  - id: "fair-haven"
+    trigger: "Fair-Haven"
+    title: "Fair-Haven Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven,_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "Pleasant Meadow, part of Baker Farm, represents the pastoral beauty of rural Concord. Thoreau’s musings on its landscape reflect his deep appreciation for the simplicity and richness of nature."
+    content: "Fair-Haven Pond is another natural site near Walden Pond that Thoreau visited. Its tranquil setting provided inspiration for his reflections on simplicity and self-reliance. The name evokes a sense of peaceful refuge, aligning with Thoreau's philosophy."
+  - id: "pleasant-meadow"
+    trigger: "Pleasant Meadow"
+    title: "Pleasant Meadow's Role"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Meadow"
+    image_url: ""
+    image_caption: ""
+    content: "Meadows are open habitats characterized by grasses and wildflowers. Pleasant Meadow, mentioned by Thoreau, symbolizes the idyllic and untouched landscapes he cherished. Such spaces are vital for biodiversity and serve as a metaphor for natural simplicity."
+  - id: "baker-farm"
+    trigger: "Baker Farm"
+    title: "Baker Farm's Legacy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
+    image_url: ""
+    image_caption: ""
+    content: "Baker Farm was a site near Walden Pond that Thoreau considered living on before choosing Walden. It represents the rural simplicity and connection to nature that he sought. The farm's depiction in this chapter contrasts the poetical ideal with the harsh realities faced by its inhabitants."
+  - id: "musquash"
+    trigger: "musquash"
+    title: "Musquash: The Muskrat"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Muskrat"
+    image_url: ""
+    image_caption: ""
+    content: "Musquash is another name for the muskrat, a semi-aquatic rodent native to North America. Known for its adaptability, the muskrat plays a crucial role in wetland ecosystems. Thoreau's mention of it highlights his attention to the diverse wildlife of the region."
   - id: "pickerel-weed"
     trigger: "pickerel-weed"
-    title: "Aquatic Pickerel Weed"
+    title: "Pickerel Weed's Ecology"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pontederia_cordata"
     image_url: ""
     image_caption: ""
-    content: "Pickerel weed is a flowering aquatic plant native to North America. Its presence in Thoreau’s fishing scene highlights the biodiversity of the ponds and wetlands he explored, underscoring his commitment to observing and preserving nature."
+    content: "Pickerel weed is an aquatic plant native to North America, often found in wetlands and ponds. Its vibrant purple flowers attract pollinators, contributing to the ecosystem's health. Thoreau's encounter with it reflects his immersion in the natural world."
+  - id: "thunder-began-to-rumble"
+    trigger: "thunder began to rumble"
+    title: "Thunderstorms in Nature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Thunderstorm"
+    image_url: ""
+    image_caption: ""
+    content: "Thunderstorms are powerful weather phenomena characterized by lightning, thunder, and heavy rain. They symbolize nature's raw energy and unpredictability. Thoreau's experience during the storm underscores his awe and respect for nature's forces."
+  - id: "john-field"
+    trigger: "John Field"
+    title: "John Field: Irish Immigrant"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Irish_Americans"
+    image_url: ""
+    image_caption: ""
+    content: "John Field represents the struggles of Irish immigrants in 19th-century America. His hard work and poverty contrast with Thoreau's philosophy of simplicity and self-reliance. Field's story highlights the challenges of adapting to a new country while maintaining hope for a better future."
+  - id: "sibyl-like"
+    trigger: "sibyl-like"
+    title: "Sibyls in Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sibyl"
+    image_url: ""
+    image_caption: ""
+    content: "Sibyls were ancient prophetesses in Greek and Roman mythology, known for their cryptic predictions. Thoreau's description of the infant as 'sibyl-like' evokes a sense of mystery and wisdom, contrasting the child's innocence with the family's hardships."
+  - id: "bog-hoe"
+    trigger: "bog hoe"
+    title: "Bog Hoe: Farming Tool"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hoe_(tool)"
+    image_url: ""
+    image_caption: ""
+    content: "A bog hoe is a specialized tool used for digging and turning soil in wetland areas. It symbolizes the hard labor required in farming, particularly in challenging environments. Thoreau's mention of it underscores the physical toil endured by John Field."
+  - id: "tea-and-coffee-and-butter"
+    trigger: "tea, and coffee, and butter"
+    title: "Materialism and Diet"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Simple_living"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau critiques the consumption of tea, coffee, butter, and other luxuries as emblematic of materialism. He advocates for a simpler diet that aligns with his philosophy of self-reliance and minimalism, emphasizing the freedom gained from reducing dependence on such commodities."
+  - id: "slavery-and-war"
+    trigger: "slavery and war"
+    title: "Slavery and War in Society"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Slavery"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau connects the consumption of luxuries to societal issues like slavery and war, suggesting that materialism indirectly supports these injustices. His critique aligns with his broader philosophy of ethical living and resistance to societal norms."
+  - id: "moral-bog-hoe"
+    trigger: "moral bog hoe"
+    title: "Metaphor of Moral Labor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Morality"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the metaphor of a 'moral bog hoe' to describe the effort required to cultivate virtue and wisdom. This imagery reflects his belief in the importance of personal growth and ethical living, even in challenging circumstances."
+  - id: "shiners-with-fish-worms"
+    trigger: "shiners with fish-worms"
+    title: "Fishing Techniques"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fishing_bait"
+    image_url: ""
+    image_caption: ""
+    content: "Using shiners (small fish) with worms as bait is a common fishing technique. Thoreau's discussion of fishing methods highlights his practical knowledge and connection to nature, as well as the contrast between his approach and John Field's struggles."
+  - id: "rainbow-above-the-eastern-woods"
+    trigger: "rainbow above the eastern woods"
+    title: "Rainbows in Literature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rainbow"
+    image_url: ""
+    image_caption: ""
+    content: "Rainbows often symbolize hope, renewal, and the beauty of nature in literature. Thoreau's observation of the rainbow above the woods reflects his transcendental appreciation for natural phenomena and their ability to inspire philosophical reflection."
+  - id: "reddening-west"
+    trigger: "reddening west"
+    title: "Sunset's Symbolism"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sunset"
+    image_url: ""
+    image_caption: ""
+    content: "The 'reddening west' refers to the colors of the sunset, a powerful symbol of endings and transitions. Thoreau's description evokes the beauty of nature and the fleeting moments that inspire reflection and gratitude."
+  - id: "guy-faux-of-the-state"
+    trigger: "Guy Faux of the state"
+    title: "Guy Fawkes and Rebellion"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Guy_Fawkes"
+    image_url: ""
+    image_caption: ""
+    content: "Guy Fawkes was a member of the Gunpowder Plot, an attempt to overthrow the English government in 1605. Thoreau's reference to 'Guy Faux of the state' suggests rebellion against societal norms and injustices, aligning with his philosophy of civil disobedience."
   - id: "talaria"
     trigger: "talaria"
-    title: "Winged Sandals of Hermes"
+    title: "Talaria: Winged Sandals"
     wikipedia_url: "https://en.wikipedia.org/wiki/Talaria"
     image_url: ""
     image_caption: ""
-    content: "Talaria are the winged sandals worn by Hermes in Greek mythology, symbolizing swiftness and freedom. Thoreau’s use of this term metaphorically suggests the potential for transcendence and liberation from poverty and hardship."
+    content: "Talaria are the winged sandals of Hermes in Greek mythology, symbolizing swiftness and freedom. Thoreau's use of this term metaphorically suggests the potential for transcendence and liberation from life's struggles, particularly for John Field and his family."
 ---
 Sometimes I rambled to **pine groves**, standing like temples, or like
 fleets at sea, full-rigged, with wavy boughs, and rippling with light,
 so soft and green and shady that the **Druids** would have forsaken their
 oaks to worship in them; or to the cedar wood beyond **Flint’s Pond**,
 where the trees, covered with hoary blue berries, spiring higher and
-higher, are fit to stand before **Valhalla**, and the creeping juniper
+higher, are fit to stand before Valhalla, and the creeping juniper
 covers the ground with wreaths full of fruit; or to swamps where the
-**usnea lichen** hangs in festoons from the **white-spruce trees**, and
+**usnea lichen** hangs in festoons from the white-spruce trees, and
 toad-stools, round tables of the swamp gods, cover the ground, and more
 beautiful fungi adorn the stumps, like butterflies or shells, vegetable
 winkles; where the swamp-pink and dogwood grow, the red alder-berry
 glows like eyes of imps, the waxwork grooves and crushes the hardest
-woods in its folds, and the wild-holly berries make the beholder forget
+woods in its folds, and the **wild-holly berries** make the beholder forget
 his home with their beauty, and he is dazzled and tempted by nameless
 other wild forbidden fruits, too fair for mortal taste. Instead of
 calling on some scholar, I paid many a visit to particular trees, of
 kinds which are rare in this neighborhood, standing far away in the
 middle of some pasture, or in the depths of a wood or swamp, or on a
-hill-top; such as the black-birch, of which we have some handsome
+hill-top; such as the **black-birch**, of which we have some handsome
 specimens two feet in diameter; its cousin, the yellow birch, with its
 loose golden vest, perfumed like the first; the beech, which has so
 neat a bole and beautifully lichen-painted, perfect in all its details,
@@ -136,7 +244,7 @@ shingle tree, or a more perfect hemlock than usual, standing like a
 pagoda in the midst of the woods; and many others I could mention.
 These were the shrines I visited both summer and winter.
 
-Once it chanced that I stood in the very abutment of a rainbow’s arch,
+Once it chanced that I stood in the very abutment of a **rainbow’s arch**,
 which filled the lower stratum of the atmosphere, tinging the grass and
 leaves around, and dazzling me as if I looked through colored crystal.
 It was a lake of rainbow light, in which, for a short while, I lived
@@ -160,7 +268,7 @@ distinguished who are conscious that they are regarded at all?
 
 
 
-I set out one afternoon to go a-fishing to Fair-Haven, through the
+I set out one afternoon to go a-fishing to **Fair-Haven**, through the
 woods, to eke out my scanty fare of vegetables. My way led through
 **Pleasant Meadow**, an adjunct of the **Baker Farm**, that retreat of which a
 poet has since sung, beginning,—
@@ -168,7 +276,7 @@ poet has since sung, beginning,—
      “Thy entry is a pleasant field,
      Which some mossy fruit trees yield
      Partly to a ruddy brook,
-     By gliding musquash undertook,
+     By gliding **musquash** undertook,
      And mercurial trout,
      Darting about.”
 
@@ -179,9 +287,9 @@ which many events may happen, a large portion of our natural life,
 though it was already half spent when I started. By the way there came
 up a shower, which compelled me to stand half an hour under a pine,
 piling boughs over my head, and wearing my handkerchief for a shed; and
-when at length I had made one cast over the **pickerel-weed**, standing up
+when at length I had made one cast over the ****pickerel**-weed**, standing up
 to my middle in water, I found myself suddenly in the shadow of a
-cloud, and the thunder began to rumble with such emphasis that I could
+cloud, and the **thunder began to rumble** with such emphasis that I could
 do no more than listen to it. The gods must be proud, thought I, with
 such forked flashes to rout a poor unarmed fisherman. So I made haste
 for shelter to the nearest hut, which stood half a mile from any road,
@@ -195,7 +303,7 @@ but so much the nearer to the pond, and had long been uninhabited:—
 So the Muse fables. But therein, as I found, dwelt now **John Field**, an
 Irishman, and his wife, and several children, from the broad-faced boy
 who assisted his father at his work, and now came running by his side
-from the bog to escape the rain, to the wrinkled, sibyl-like,
+from the bog to escape the rain, to the wrinkled, **sibyl-like**,
 cone-headed infant that sat upon its father’s knee as in the palaces of
 nobles, and looked out from its home in the midst of wet and hunger
 inquisitively upon the stranger, with the privilege of infancy, not
@@ -226,7 +334,7 @@ to; and how, if he chose, he might in a month or two build himself a
 palace of his own; that I did not use tea, nor coffee, nor butter, nor
 milk, nor fresh meat, and so did not have to work to get them; again,
 as I did not work hard, I did not have to eat hard, and it cost me but
-a trifle for my food; but as he began with tea, and coffee, and butter,
+a trifle for my food; but as he began with **tea, and coffee, and butter**,
 and milk, and beef, he had to work hard to pay for them, and when he
 had worked hard he had to eat hard again to repair the waste of his
 system,—and so it was as broad as it was long, indeed it was broader
@@ -235,7 +343,7 @@ bargain; and yet he had rated it as a gain in coming to America, that
 here you could get tea, and coffee, and meat every day. But the only
 true America is that country where you are at liberty to pursue such a
 mode of life as may enable you to do without these, and where the state
-does not endeavor to compel you to sustain the slavery and war and
+does not endeavor to compel you to sustain the **slavery and war** and
 other superfluous expenses which directly or indirectly result from the
 use of such things. For I purposely talked to him as if he were a
 philosopher, or desired to be one. I should be glad if all the meadows
@@ -243,7 +351,7 @@ on the earth were left in a wild state, if that were the consequence of
 men’s beginning to redeem themselves. A man will not need to study
 history to find out what is best for his own culture. But alas! the
 culture of an Irishman is an enterprise to be undertaken with a sort of
-moral bog hoe. I told him, that as he worked so hard at bogging, he
+**moral bog hoe**. I told him, that as he worked so hard at bogging, he
 required thick boots and stout clothing, which yet were soon soiled and
 worn out, but I wore light shoes and thin clothing, which cost not half
 so much, though he might think that I was dressed like a gentleman,
@@ -265,7 +373,7 @@ arithmetic, and failing so.
 
 “Do you ever fish?” I asked. “Oh yes, I catch a mess now and then when
 I am lying by; good perch I catch.” “What’s your bait?” “I catch
-shiners with fish-worms, and bait the perch with them.” “You’d better
+**shiners with fish-worms**, and bait the perch with them.” “You’d better
 go now, John,” said his wife, with glistening and hopeful face; but
 John demurred.
 
@@ -286,7 +394,7 @@ As I was leaving the Irishman’s roof after the rain, bending my steps
 again to the pond, my haste to catch pickerel, wading in retired
 meadows, in sloughs and bog-holes, in forlorn and savage places,
 appeared for an instant trivial to me who had been sent to school and
-college; but as I ran down the hill toward the reddening west, with the
+college; but as I ran down the hill toward the **reddening west**, with the
 rainbow over my shoulder, and some faint tinkling sounds borne to my
 ear through the cleansed air, from I know not what quarter, my Good
 Genius seemed to say,—Go fish and hunt far and wide day by day,—farther
@@ -319,7 +427,7 @@ O Baker Farm!
      “Come ye who love,
          And ye who hate,
      Children of the Holy Dove,
-         And Guy Faux of the state,
+         And **Guy Faux of the state**,
      And hang conspiracies
      From the tough rafters of the trees!”
 
@@ -339,6 +447,6 @@ this, unless he will improve by it,—thinking to live by some derivative
 old country mode in this primitive new country,—to catch perch with
 shiners. It is good bait sometimes, I allow. With his horizon all his
 own, yet he a poor man, born to be poor, with his inherited Irish
-poverty or poor life, his Adam’s grandmother and boggy ways, not to
+poverty or poor life, his Adam’s grandmother and **boggy ways**, not to
 rise in this world, he nor his posterity, till their wading webbed
 bog-trotting feet get _**talaria**_ to their heels.

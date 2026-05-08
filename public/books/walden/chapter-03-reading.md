@@ -9,22 +9,22 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau emphasizes the immortality of truth and the timelessness of philosophical insights."
-    link: "https://en.wikipedia.org/wiki/Egyptian_philosophy"
+  - point: "Thoreau emphasizes the immortality of truth and the timeless wisdom of ancient philosophers."
+    link: "https://en.wikipedia.org/wiki/Philosophy_in_ancient_Egypt"
     link_label: "Egyptian philosophy"
-  - point: "He discusses the value of reading ancient texts and the enduring influence of classical literature."
-    link: "https://en.wikipedia.org/wiki/Homer"
-    link_label: "Homer"
-  - point: "Thoreau critiques modern reading habits and advocates for the study of heroic and ancient works."
-    link: "https://en.wikipedia.org/wiki/Ancient_Greek_literature"
-    link_label: "Ancient Greek literature"
-  - point: "He highlights the importance of learning ancient languages to access the wisdom of classical texts."
-    link: "https://en.wikipedia.org/wiki/Latin"
-    link_label: "Latin"
-  - point: "Thoreau reflects on the universal wisdom found in sacred texts and the teachings of historical figures."
-    link: "https://en.wikipedia.org/wiki/Zoroaster"
-    link_label: "Zoroaster"
-  - point: "He critiques the provincialism of New England and calls for a broader intellectual culture."
+  - point: "He reflects on the value of reading heroic and classical texts, which require deep engagement and intellectual effort."
+    link: "https://en.wikipedia.org/wiki/Classics"
+    link_label: "Classics"
+  - point: "Thoreau critiques modern reading habits, contrasting them with the profound impact of ancient literature."
+    link: "https://en.wikipedia.org/wiki/History_of_literature"
+    link_label: "History of literature"
+  - point: "He laments the lack of intellectual culture in his town and advocates for lifelong education and uncommon schools."
+    link: "https://en.wikipedia.org/wiki/Lyceum"
+    link_label: "Lyceum"
+  - point: "Thoreau calls for villages to act collectively to foster intellectual and cultural growth."
+    link: "https://en.wikipedia.org/wiki/Utopian_community"
+    link_label: "Utopian community"
+  - point: "He critiques the provincialism of New England and advocates for embracing global intellectual resources."
     link: "https://en.wikipedia.org/wiki/New_England"
     link_label: "New England"
 
@@ -32,73 +32,136 @@ enhancements:
   - id: "egyptian-or-hindoo-philosopher"
     trigger: "Egyptian or Hindoo philosopher"
     title: "Ancient Philosophical Traditions"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_philosophy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophy_in_ancient_Egypt"
     image_url: ""
     image_caption: ""
-    content: "The philosophies of ancient Egypt and India have profoundly influenced human thought. Egyptian philosophy often revolved around concepts of order, balance, and the afterlife, while Hindu philosophy explored metaphysics, ethics, and spiritual liberation. These traditions remind us of humanity's enduring quest for understanding and truth."
+    content: "Ancient Egyptian and Hindu philosophers contributed significantly to early human thought, exploring themes of existence, morality, and the divine. Their works often blended spirituality with intellectual inquiry, influencing later philosophical traditions worldwide. Thoreau references them to highlight the timeless nature of truth and wisdom."
+  - id: "veil-from-the-statue-of-the-divinity"
+    trigger: "veil from the statue of the divinity"
+    title: "Symbolism of Divine Revelation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Veil"
+    image_url: ""
+    image_caption: ""
+    content: "The veil is a metaphor for the hidden truths of the divine or ultimate reality. In ancient cultures, unveiling a statue of a deity symbolized revealing sacred knowledge. Thoreau uses this imagery to suggest that truth remains fresh and accessible across generations."
   - id: "homers-iliad"
     trigger: "Homer’s Iliad"
-    title: "Epic of Homer’s Iliad"
+    title: "Epic Poetry of Homer"
     wikipedia_url: "https://en.wikipedia.org/wiki/Iliad"
     image_url: ""
     image_caption: ""
-    content: "The Iliad, one of the oldest works of Western literature, recounts the events of the Trojan War and explores themes of heroism, fate, and the human condition. Its influence on literature and culture is immense, shaping storytelling traditions for millennia."
+    content: "The Iliad, one of Homer’s epic poems, recounts the Trojan War and explores themes of heroism, fate, and human conflict. Thoreau kept this text on his table, valuing its timeless lessons and its ability to inspire intellectual and moral reflection."
   - id: "heroic-books"
     trigger: "heroic books"
-    title: "Timeless Heroic Literature"
+    title: "Literature of Heroism"
     wikipedia_url: "https://en.wikipedia.org/wiki/Epic_poetry"
     image_url: ""
     image_caption: ""
-    content: "Heroic books, such as epics, celebrate the deeds of legendary figures and often convey moral and philosophical lessons. These works challenge readers to emulate virtues like courage and wisdom, making them relevant across generations."
-  - id: "ancient-language"
-    trigger: "ancient language"
-    title: "Importance of Ancient Languages"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Classical_language"
-    image_url: ""
-    image_caption: ""
-    content: "Learning ancient languages like Latin or Greek allows access to foundational texts of philosophy, science, and literature. These languages preserve the thoughts of civilizations that shaped modern intellectual traditions."
+    content: "Heroic books, such as epics and classical literature, celebrate human valor and wisdom. Thoreau argues that these texts challenge readers to emulate their ideals, fostering intellectual growth and moral fortitude."
   - id: "delphi-and-dodona"
     trigger: "Delphi and Dodona"
     title: "Ancient Greek Oracles"
     wikipedia_url: "https://en.wikipedia.org/wiki/Delphi"
     image_url: ""
     image_caption: ""
-    content: "Delphi and Dodona were significant centers of prophecy in ancient Greece. The Oracle of Delphi, dedicated to Apollo, was renowned for its cryptic predictions, while Dodona was associated with Zeus. These sites symbolize humanity's search for divine guidance."
+    content: "Delphi and Dodona were famous oracular sites in ancient Greece, where priests interpreted divine messages. Thoreau contrasts their transient answers with the enduring wisdom found in classical texts, emphasizing the value of literature over fleeting prophecy."
+  - id: "alexander-carried-the-iliad"
+    trigger: "Alexander carried the Iliad"
+    title: "Alexander the Great and Homer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    image_url: ""
+    image_caption: ""
+    content: "Alexander the Great reportedly carried a copy of Homer’s Iliad during his campaigns, symbolizing his admiration for heroic ideals. Thoreau uses this anecdote to highlight the enduring influence of literature on leaders and thinkers."
+  - id: "astrologically-not-astronomically"
+    trigger: "astrologically, not astronomically"
+    title: "Astrology vs. Astronomy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Astrology"
+    image_url: ""
+    image_caption: ""
+    content: "Astrology interprets celestial movements for human affairs, while astronomy studies them scientifically. Thoreau uses this distinction to critique superficial reading habits, urging readers to engage deeply with texts as astronomers do with the stars."
+  - id: "little-reading"
+    trigger: "Little Reading"
+    title: "Critique of Superficial Literature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Popular_fiction"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau critiques 'Little Reading,' referring to shallow, escapist literature that fails to challenge the intellect. He advocates for reading profound works that elevate thought and understanding."
+  - id: "zebulon-and-sephronia"
+    trigger: "Zebulon and Sephronia"
+    title: "Romantic Tropes in Literature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Romance_novel"
+    image_url: ""
+    image_caption: ""
+    content: "Zebulon and Sephronia represent clichéd romantic characters often found in formulaic novels. Thoreau mocks such tales for their lack of depth and intellectual stimulation, contrasting them with the enriching experience of reading classics."
+  - id: "concord-culture"
+    trigger: "Concord culture"
+    title: "Cultural Life in Concord"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Concord, Massachusetts, was home to many intellectuals, including Thoreau and Emerson. Thoreau critiques the town’s lack of engagement with profound literature, calling for a deeper cultural and intellectual commitment."
+  - id: "golden-words"
+    trigger: "golden words"
+    title: "Wisdom in Literature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wisdom"
+    image_url: ""
+    image_caption: ""
+    content: "Golden words symbolize timeless wisdom found in literature. Thoreau laments society’s neglect of such valuable insights, urging readers to seek out and cherish profound texts."
+  - id: "tit-men"
+    trigger: "tit-men"
+    title: "Critique of Intellectual Mediocrity"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Anti-intellectualism"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses 'tit-men' to describe individuals with limited intellectual ambition. He critiques society’s tendency to settle for superficial knowledge rather than striving for deeper understanding."
   - id: "zoroaster"
     trigger: "Zoroaster"
-    title: "Zoroaster and His Teachings"
+    title: "Founder of Zoroastrianism"
     wikipedia_url: "https://en.wikipedia.org/wiki/Zoroaster"
     image_url: ""
     image_caption: ""
-    content: "Zoroaster, the founder of Zoroastrianism, introduced ideas about dualism, ethics, and the struggle between good and evil. His teachings influenced major religions and philosophies, highlighting the universality of spiritual experiences."
-  - id: "jesus-christ"
-    trigger: "Jesus Christ"
-    title: "The Life and Teachings of Jesus"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Jesus"
+    content: "Zoroaster, an ancient Persian prophet, founded Zoroastrianism, emphasizing moral dualism and the worship of Ahura Mazda. Thoreau references Zoroaster to highlight the universality of spiritual experiences and wisdom."
+  - id: "lyceum"
+    trigger: "Lyceum"
+    title: "Educational Institutions"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lyceum"
     image_url: ""
     image_caption: ""
-    content: "Jesus Christ is central to Christianity and is revered for his teachings on love, forgiveness, and humility. His life and message have inspired countless individuals and shaped global history and culture."
-  - id: "nineteenth-century"
-    trigger: "nineteenth century"
-    title: "The Nineteenth Century"
-    wikipedia_url: "https://en.wikipedia.org/wiki/19th_century"
-    image_url: ""
-    image_caption: ""
-    content: "The 19th century was a period of rapid change, marked by industrialization, scientific advancements, and cultural shifts. It saw the rise of movements like Romanticism and Transcendentalism, which influenced thinkers like Thoreau."
-  - id: "common-schools"
-    trigger: "common schools"
-    title: "Common Schools Movement"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Common_school"
-    image_url: ""
-    image_caption: ""
-    content: "The common schools movement in the United States aimed to provide basic education to all children. It laid the foundation for public schooling and reflected democratic ideals of equal opportunity."
+    content: "The Lyceum was a venue for public lectures and debates in 19th-century America. Thoreau praises its role in fostering intellectual growth and calls for its expansion to benefit society further."
   - id: "abelard"
     trigger: "Abelard"
-    title: "Abelard: Philosopher and Theologian"
+    title: "Medieval Philosopher and Theologian"
     wikipedia_url: "https://en.wikipedia.org/wiki/Peter_Abelard"
     image_url: ""
     image_caption: ""
-    content: "Peter Abelard was a medieval philosopher and theologian known for his innovative ideas and tragic love story with Héloïse. His works contributed to scholasticism and the intellectual revival of the Middle Ages."
+    content: "Peter Abelard was a medieval philosopher known for his contributions to logic and theology. Thoreau invokes Abelard as an example of intellectual excellence, suggesting that villages should hire such scholars to educate their communities."
+  - id: "olive-branches"
+    trigger: "Olive-Branches"
+    title: "Symbol of Peace and Reconciliation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Olive_branch"
+    image_url: ""
+    image_caption: ""
+    content: "The olive branch is a universal symbol of peace. Thoreau uses it metaphorically to critique shallow publications that fail to engage with deeper intellectual or cultural issues."
+  - id: "harper-and-brothers"
+    trigger: "Harper & Brothers"
+    title: "19th-Century Publishing House"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Harper_%26_Brothers"
+    image_url: ""
+    image_caption: ""
+    content: "Harper & Brothers was a prominent American publishing house known for producing popular literature. Thoreau critiques reliance on commercial publishers for intellectual content, advocating for more discerning reading choices."
+  - id: "redding-and-co"
+    trigger: "Redding & Co."
+    title: "Boston Bookseller"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Redding_%26_Co."
+    image_url: ""
+    image_caption: ""
+    content: "Redding & Co. was a Boston-based bookseller in the 19th century. Thoreau mentions them to critique the limited scope of popular reading materials and call for broader intellectual engagement."
+  - id: "bridge-over-the-river"
+    trigger: "bridge over the river"
+    title: "Infrastructure and Progress"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bridge"
+    image_url: ""
+    image_caption: ""
+    content: "Bridges symbolize connection and progress. Thoreau uses this imagery to argue for prioritizing intellectual development over physical infrastructure, emphasizing the importance of education and culture."
 ---
 With a little more deliberation in the choice of their pursuits, all
 men would perhaps become essentially students and observers, for
@@ -107,7 +170,7 @@ accumulating property for ourselves or our posterity, in founding a
 family or a state, or acquiring fame even, we are mortal; but in
 dealing with truth we are immortal, and need fear no change nor
 accident. The oldest **Egyptian or Hindoo philosopher** raised a corner of
-the veil from the statue of the divinity; and still the trembling robe
+the **veil from the statue of the divinity**; and still the trembling robe
 remains raised, and I gaze upon as fresh a glory as he did, since it
 was I in him that was then so bold, and it is he in me that now reviews
 the vision. No dust has settled on that robe; no time has elapsed since
@@ -144,7 +207,7 @@ translations, has done little to bring us nearer to the heroic writers
 of antiquity. They seem as solitary, and the letter in which they are
 printed as rare and curious, as ever. It is worth the expense of
 youthful days and costly hours, if you learn only some words of an
-**ancient language**, which are raised out of the trivialness of the
+ancient language, which are raised out of the trivialness of the
 street, to be perpetual suggestions and provocations. It is not in vain
 that the farmer remembers and repeats the few Latin words which he has
 heard. Men sometimes speak as if the study of the classics would at
@@ -197,7 +260,7 @@ distracted by the event and the crowd which inspire the orator, speaks
 to the intellect and health of mankind, to all in any age who can
 _understand_ him.
 
-No wonder that Alexander carried the Iliad with him on his expeditions
+No wonder that **Alexander carried the Iliad** with him on his expeditions
 in a precious casket. A written word is the choicest of relics. It is
 something at once more intimate with us and more universal than any
 other work of art. It is the work of art nearest to life itself. It may
@@ -248,7 +311,7 @@ heaven at last.
 
 The works of the great poets have never yet been read by mankind, for
 only great poets can read them. They have only been read as the
-multitude read the stars, at most astrologically, not astronomically.
+multitude read the stars, at most **astrologically, not astronomically**.
 Most men have learned to read to serve a paltry convenience, as they
 have learned to cipher in order to keep accounts and not be cheated in
 trade; but of reading as a noble intellectual exercise they know little
@@ -264,13 +327,13 @@ foremost form all our lives. Most men are satisfied if they read or
 hear read, and perchance have been convicted by the wisdom of one good
 book, the Bible, and for the rest of their lives vegetate and dissipate
 their faculties in what is called easy reading. There is a work in
-several volumes in our Circulating Library entitled Little Reading,
+several volumes in our Circulating Library entitled **Little Reading**,
 which I thought referred to a town of that name which I had not been
 to. There are those who, like cormorants and ostriches, can digest all
 sorts of this, even after the fullest dinner of meats and vegetables,
 for they suffer nothing to be wasted. If others are the machines to
 provide this provender, they are the machines to read it. They read the
-nine thousandth tale about Zebulon and Sephronia, and how they loved as
+nine thousandth tale about **Zebulon and Sephronia**, and how they loved as
 none had ever loved before, and neither did the course of their true
 love run smooth,—at any rate, how it did run and stumble, and get up
 again and go on! how some poor unfortunate got up on to a steeple, who
@@ -298,7 +361,7 @@ than pure wheat or rye-and-Indian in almost every oven, and finds a
 surer market.
 
 The best books are not read even by those who are called good readers.
-What does our Concord culture amount to? There is in this town, with a
+What does our **Concord culture** amount to? There is in this town, with a
 very few exceptions, no taste for the best or for very good books even
 in English literature, whose words all can read and spell. Even the
 college-bred and so called liberally educated men here and elsewhere
@@ -324,7 +387,7 @@ sympathy to impart to the alert and heroic reader; and as for the
 sacred Scriptures, or Bibles of mankind, who in this town can tell me
 even their titles? Most men do not know that any nation but the Hebrews
 have had a scripture. A man, any man, will go considerably out of his
-way to pick up a silver dollar; but here are golden words, which the
+way to pick up a silver dollar; but here are **golden words**, which the
 wisest men of antiquity have uttered, and whose worth the wise of every
 succeeding age have assured us of;—and yet we learn to read only as far
 as Easy Reading, the primers and class-books, and when we leave school,
@@ -344,7 +407,7 @@ between the illiterateness of my townsman who cannot read at all, and
 the illiterateness of him who has learned to read only what is for
 children and feeble intellects. We should be as good as the worthies of
 antiquity, but partly by first knowing how good they were. We are a
-race of tit-men, and soar but little higher in our intellectual flights
+race of **tit-men**, and soar but little higher in our intellectual flights
 than the columns of the daily paper.
 
 It is not all books that are as dull as their readers. There are
@@ -367,15 +430,15 @@ experience; but he, being wise, knew it to be universal, and treated
 his neighbors accordingly, and is even said to have invented and
 established worship among men. Let him humbly commune with Zoroaster
 then, and through the liberalizing influence of all the worthies, with
-**Jesus Christ** himself, and let “our church” go by the board.
+Jesus Christ himself, and let “our church” go by the board.
 
-We boast that we belong to the **nineteenth century** and are making the
+We boast that we belong to the nineteenth century and are making the
 most rapid strides of any nation. But consider how little this village
 does for its own culture. I do not wish to flatter my townsmen, nor to
 be flattered by them, for that will not advance either of us. We need
 to be provoked,—goaded like oxen, as we are, into a trot. We have a
-comparatively decent system of **common schools**, schools for infants
-only; but excepting the half-starved **Lyceum in the winter**, and latterly
+comparatively decent system of common schools, schools for infants
+only; but excepting the half-starved **Lyceum** in the winter, and latterly
 the puny beginning of a library suggested by the state, no school for
 ourselves. We spend more on almost any article of bodily aliment or
 ailment than on our mental aliment. It is time that we had uncommon
@@ -403,10 +466,10 @@ should we not enjoy the advantages which the nineteenth century offers?
 Why should our life be in any respect provincial? If we will read
 newspapers, why not skip the gossip of Boston and take the best
 newspaper in the world at once?—not be sucking the pap of “neutral
-family” papers, or browsing “Olive-Branches” here in **New England**. Let
+family” papers, or browsing “**Olive-Branches**” here in New England. Let
 the reports of all the learned societies come to us, and we will see if
 they know any thing. Why should we leave it to **Harper & Brothers** and
-Redding & Co. to select our reading? As the nobleman of cultivated
+**Redding & Co.** to select our reading? As the nobleman of cultivated
 taste surrounds himself with whatever conduces to his
 culture,—genius—learning—wit—books—paintings—statuary—music—
 philosophical instruments, and the like; so let the village do,—not
@@ -419,5 +482,5 @@ the nobleman’s. New England can hire all the wise men in the world to
 come and teach her, and board them round the while, and not be
 provincial at all. That is the _uncommon_ school we want. Instead of
 noblemen, let us have noble villages of men. If it is necessary, omit
-one bridge over the river, go round a little there, and throw one arch
+one **bridge over the river**, go round a little there, and throw one arch
 at least over the darker gulf of ignorance which surrounds us.

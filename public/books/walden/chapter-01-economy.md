@@ -9,173 +9,173 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau begins by describing his solitary life at Walden Pond and his reasons for writing about it."
+  - point: "Thoreau begins by describing his solitary life at Walden Pond in Concord, Massachusetts, where he lived for over two years in a self-built house."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "He reflects on the societal pressures and inquiries about his unconventional lifestyle in Concord, Massachusetts."
-    link: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
-    link_label: "Concord, Massachusetts"
-  - point: "Thoreau critiques the labor and materialism of his neighbors, comparing their struggles to mythical and historical penances."
-    link: "https://en.wikipedia.org/wiki/Twelve_Labours_of_Hercules"
+  - point: "He critiques societal norms, comparing the labor of his neighbors to the twelve labors of Hercules, emphasizing the endless toil of modern life."
+    link: "https://en.wikipedia.org/wiki/Labours_of_Hercules"
     link_label: "Twelve Labors of Hercules"
-  - point: "He contrasts the simplicity of ancient cultures, such as the Brahmins and Sandwich Islanders, with the complexity of modern life."
-    link: "https://en.wikipedia.org/wiki/Brahmin"
-    link_label: "Brahmins"
-  - point: "Thoreau discusses the necessity of basic human needs like food, shelter, and clothing, and critiques societal excess."
-    link: "https://en.wikipedia.org/wiki/Rumford_fireplace"
-    link_label: "Rumford fireplace"
-  - point: "He emphasizes self-reliance and simplicity, advocating for a life free from unnecessary possessions and societal expectations."
-    link: "https://en.wikipedia.org/wiki/Self-reliance"
-    link_label: "Self-reliance"
+  - point: "Thoreau reflects on the myth of Deucalion and Pyrrha, using it as a metaphor for human resilience and the hardships of life."
+    link: "https://en.wikipedia.org/wiki/Deucalion"
+    link_label: "Deucalion and Pyrrha"
+  - point: "He discusses the necessity of shelter and references Samuel Laing's observations of Laplanders surviving extreme cold."
+    link: "https://en.wikipedia.org/wiki/Samuel_Laing_(travel_writer)"
+    link_label: "Samuel Laing"
+  - point: "Thoreau recounts his experience building his house and acquiring materials, including James Collins' shanty near the Fitchburg Railroad."
+    link: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
+    link_label: "Fitchburg Railroad"
+  - point: "He explores the philosophy of living simply, referencing works like Adam Smith's and Ricardo's economic theories."
+    link: "https://en.wikipedia.org/wiki/Adam_Smith"
+    link_label: "Adam Smith"
 
 enhancements:
   - id: "walden-pond"
     trigger: "Walden Pond"
-    title: "Walden Pond's Natural Beauty"
+    title: "Walden Pond's Historical Significance"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: ""
     image_caption: ""
-    content: "Walden Pond, located in Concord, Massachusetts, is a glacial kettle-hole pond famous for being the site of Henry David Thoreau's experiment in simple living. Thoreau built a small cabin on its shores and lived there for two years, documenting his experiences in 'Walden.' The pond symbolizes the harmony between nature and human existence, inspiring generations of environmentalists and writers."
+    content: "Walden Pond, located in Concord, Massachusetts, is famous as the site where Henry David Thoreau lived for two years while writing his seminal work, 'Walden.' The pond symbolizes simplicity, self-reliance, and a connection to nature, themes central to Thoreau's philosophy. Today, it is a popular destination for visitors seeking to experience the tranquility that inspired Thoreau."
   - id: "concord-massachusetts"
     trigger: "Concord, Massachusetts"
-    title: "Historic Concord, Massachusetts"
+    title: "Concord's Role in American History"
     wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "Concord, Massachusetts, is a town rich in American history and culture. It was the site of the first battle of the American Revolutionary War and home to many prominent writers, including Thoreau, Emerson, and Hawthorne. Concord's intellectual and natural environment deeply influenced Thoreau's philosophy and writings, making it a hub of transcendentalist thought."
-  - id: "chinese"
-    trigger: "Chinese"
-    title: "Cultural Reference to China"
-    wikipedia_url: "https://en.wikipedia.org/wiki/China"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau mentions the Chinese to highlight cultural contrasts and the universality of human conditions. China, with its ancient civilization and philosophies like Confucianism, serves as a counterpoint to Western materialism, emphasizing values like harmony and simplicity that resonate with Thoreau's ideals."
-  - id: "sandwich-islanders"
-    trigger: "Sandwich Islanders"
-    title: "The Hawaiian Islands"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hawaiian_Islands"
-    image_url: ""
-    image_caption: ""
-    content: "The Sandwich Islands, now known as the Hawaiian Islands, were named by Captain James Cook in honor of the Earl of Sandwich. Thoreau references them to illustrate the simplicity of indigenous lifestyles compared to the complexities of industrialized societies, aligning with his critique of modern excess."
+    content: "Concord, Massachusetts, is a town rich in American history, known for its role in the Revolutionary War and as a hub for transcendentalist thinkers like Thoreau, Emerson, and Hawthorne. It was the site of the Battle of Concord and is home to landmarks like the Old North Bridge and Walden Pond."
   - id: "brahmins-sitting-exposed-to-four-fires"
     trigger: "Brahmins sitting exposed to four fires"
-    title: "Brahmin Rituals of Asceticism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Brahmin"
+    title: "Brahmin Ascetic Practices"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tapas_(Sanskrit)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau refers to the ascetic practices of Brahmins, such as enduring extreme physical conditions, to draw parallels with the self-imposed hardships of his neighbors. Brahmins, as members of the priestly caste in Hinduism, often engage in rituals to achieve spiritual enlightenment, embodying the discipline Thoreau admired."
+    content: "The reference to Brahmins sitting exposed to four fires is an allusion to ancient Hindu ascetic practices, where individuals undergo extreme physical trials to achieve spiritual enlightenment. These practices symbolize discipline and the pursuit of higher truths, themes that resonate with Thoreau's own philosophical explorations."
   - id: "twelve-labors-of-hercules"
     trigger: "twelve labors of Hercules"
-    title: "Hercules' Legendary Tasks"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Twelve_Labours_of_Hercules"
+    title: "The Twelve Labors of Hercules"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Labours_of_Hercules"
     image_url: ""
     image_caption: ""
-    content: "The Twelve Labors of Hercules are a series of tasks performed by the Greek hero as penance for his sins. Thoreau uses this myth to critique the endless toil of his neighbors, suggesting their labors lack the purpose and resolution found in Hercules' story, thus reflecting the futility of modern material pursuits."
+    content: "The Twelve Labors of Hercules are a series of tasks performed by the Greek hero Hercules as penance for his sins. Thoreau uses this myth to critique the endless and often fruitless toil of modern life, contrasting it with the finite and heroic nature of Hercules' labors."
   - id: "deucalion-and-pyrrha"
     trigger: "Deucalion and Pyrrha"
-    title: "Greek Myth of Renewal"
+    title: "Deucalion and Pyrrha: Greek Mythology"
     wikipedia_url: "https://en.wikipedia.org/wiki/Deucalion"
     image_url: ""
     image_caption: ""
-    content: "Deucalion and Pyrrha are figures from Greek mythology who repopulated the earth after a great flood by throwing stones that transformed into humans. Thoreau uses this myth to critique blind obedience to tradition and the burdens of inherited labor, advocating for thoughtful, purposeful living."
-  - id: "aes-alienum"
-    trigger: "æs alienum"
-    title: "Latin for 'Another's Brass'"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Debt"
-    image_url: ""
-    image_caption: ""
-    content: "The Latin term 'æs alienum' refers to debt, symbolizing the burdens of financial obligations. Thoreau critiques the societal obsession with wealth and the moral compromises made to escape debt, advocating for simplicity and self-reliance as solutions to economic enslavement."
+    content: "Deucalion and Pyrrha are figures from Greek mythology who repopulated the earth after a great flood by throwing stones that transformed into humans. Thoreau uses their story to illustrate themes of renewal and resilience, aligning with his belief in the transformative power of simplicity and self-reliance."
   - id: "confirmed-desperation"
     trigger: "confirmed desperation"
     title: "Lives of Quiet Desperation"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "Thoreau famously describes the 'mass of men' as leading lives of quiet desperation, highlighting the pervasive dissatisfaction and resignation in society. This phrase encapsulates his critique of materialism and his call for individuals to seek meaningful, authentic lives."
+    content: "Thoreau's phrase 'confirmed desperation' critiques the resignation and unfulfilled lives of many people. It reflects his belief that individuals should strive for authenticity and purpose rather than conforming to societal expectations."
   - id: "catechism"
     trigger: "catechism"
-    title: "Religious Catechism"
+    title: "Catechism: Religious Instruction"
     wikipedia_url: "https://en.wikipedia.org/wiki/Catechism"
     image_url: ""
     image_caption: ""
-    content: "A catechism is a summary of religious doctrine often used for instruction. Thoreau references it to question the 'chief end of man,' challenging traditional teachings and encouraging readers to critically evaluate their beliefs and life choices."
+    content: "A catechism is a summary of religious doctrine often used for instruction. Thoreau references it to question the 'chief end of man,' urging readers to reconsider societal norms and embrace a simpler, more meaningful existence."
+  - id: "samuel-laing"
+    trigger: "Samuel Laing"
+    title: "Samuel Laing: Travel Writer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Samuel_Laing_(travel_writer)"
+    image_url: ""
+    image_caption: ""
+    content: "Samuel Laing was a 19th-century travel writer who documented the lives of Laplanders and other cultures. Thoreau cites Laing's observations to highlight the adaptability and resilience of humans in extreme conditions, paralleling his own minimalist lifestyle."
   - id: "penobscot-indians"
     trigger: "Penobscot Indians"
     title: "Penobscot Tribe of Maine"
     wikipedia_url: "https://en.wikipedia.org/wiki/Penobscot"
     image_url: ""
     image_caption: ""
-    content: "The Penobscot are a Native American tribe from Maine, known for their resourcefulness and adaptation to harsh climates. Thoreau admires their simple, resilient lifestyle, contrasting it with the excesses of modern civilization."
-  - id: "rumford-fireplace"
-    trigger: "Rumford fireplace"
-    title: "Efficient Heating Design"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rumford_fireplace"
+    content: "The Penobscot Indians are a Native American tribe from Maine. Thoreau mentions them to illustrate the simplicity and adaptability of indigenous lifestyles, contrasting them with the complexities of modern civilization."
+  - id: "fitchburg-railroad"
+    trigger: "Fitchburg Railroad"
+    title: "Fitchburg Railroad: Industrial Progress"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
     image_url: ""
     image_caption: ""
-    content: "The Rumford fireplace, invented by Sir Benjamin Thompson, is designed for efficient heating and reduced smoke. Thoreau mentions it to critique the comforts of modern homes, questioning whether such advancements truly improve human life."
-  - id: "momus"
-    trigger: "Momus"
-    title: "Greek God of Criticism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Momus"
+    content: "The Fitchburg Railroad was a key transportation route in 19th-century Massachusetts. Thoreau references it to critique industrialization and its impact on society, emphasizing the importance of living deliberately and in harmony with nature."
+  - id: "james-collins-shanty"
+    trigger: "James Collins’ shanty"
+    title: "James Collins' Shanty Purchase"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "Momus, the Greek god of satire and criticism, is invoked by Thoreau to critique the immovable nature of modern houses. He uses this mythological figure to highlight the constraints imposed by material possessions and societal norms."
-  - id: "silent-poor"
-    trigger: "silent poor"
-    title: "The Invisible Struggles of Poverty"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Poverty"
+    content: "Thoreau purchased James Collins' shanty to repurpose its materials for his cabin at Walden Pond. This act symbolizes his commitment to frugality, resourcefulness, and living simply, key themes in 'Walden.'"
+  - id: "adam-smith"
+    trigger: "Adam Smith"
+    title: "Adam Smith: Father of Economics"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Adam_Smith"
     image_url: ""
     image_caption: ""
-    content: "Thoreau refers to the 'silent poor' to emphasize the hidden struggles of those living in poverty. He critiques societal structures that perpetuate inequality and calls for a deeper understanding of the human condition."
+    content: "Adam Smith was an 18th-century economist known for his work 'The Wealth of Nations,' which laid the foundation for modern capitalism. Thoreau critiques economic systems that prioritize material wealth over spiritual and personal fulfillment."
+  - id: "ricardo"
+    trigger: "Ricardo"
+    title: "David Ricardo: Economic Theorist"
+    wikipedia_url: "https://en.wikipedia.org/wiki/David_Ricardo"
+    image_url: ""
+    image_caption: ""
+    content: "David Ricardo was a British economist known for his theories on comparative advantage and labor value. Thoreau references Ricardo to question the societal focus on economic productivity at the expense of individual well-being."
+  - id: "arthur-young"
+    trigger: "Arthur Young"
+    title: "Arthur Young: Agricultural Reformer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Arthur_Young_(agriculturist)"
+    image_url: ""
+    image_caption: ""
+    content: "Arthur Young was an 18th-century English agriculturist and writer. Thoreau mentions him to critique traditional farming practices and advocate for simpler, more sustainable methods of cultivation."
+  - id: "bhagvat-geeta"
+    trigger: "Bhagvat-Geeta"
+    title: "Bhagavad Gita: Hindu Scripture"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    image_url: ""
+    image_caption: ""
+    content: "The Bhagavad Gita is a sacred Hindu text that explores themes of duty, spirituality, and the nature of existence. Thoreau admired its philosophical depth and incorporated its teachings into his own transcendentalist beliefs."
   - id: "busk"
     trigger: "busk"
-    title: "Busk Ceremony of Renewal"
+    title: "Busk Ceremony: Renewal Ritual"
     wikipedia_url: "https://en.wikipedia.org/wiki/Green_Corn_Ceremony"
     image_url: ""
     image_caption: ""
-    content: "The busk, or Green Corn Ceremony, is a Native American ritual of renewal and purification. Thoreau admires this tradition for its symbolic rejection of excess and its focus on starting anew, aligning with his philosophy of simplicity."
-  - id: "bartram"
-    trigger: "Bartram"
-    title: "John Bartram, Naturalist"
-    wikipedia_url: "https://en.wikipedia.org/wiki/John_Bartram"
-    image_url: ""
-    image_caption: ""
-    content: "John Bartram was an American botanist and explorer who documented Native American customs and natural phenomena. Thoreau references Bartram's observations to highlight indigenous practices that embody simplicity and harmony with nature."
+    content: "The busk ceremony, practiced by Native American tribes like the Muscogee, is a ritual of renewal and purification. Thoreau references it to advocate for periodic self-reflection and the shedding of unnecessary possessions."
   - id: "mucclasse-indians"
     trigger: "Mucclasse Indians"
-    title: "Muscogee (Creek) People"
+    title: "Mucclasse Indians: Cultural Practices"
     wikipedia_url: "https://en.wikipedia.org/wiki/Muscogee"
     image_url: ""
     image_caption: ""
-    content: "The Mucclasse Indians, part of the Muscogee (Creek) Nation, practiced rituals of renewal and purification. Thoreau uses their traditions as an example of living in harmony with nature and rejecting material excess, reflecting his transcendentalist ideals."
+    content: "The Mucclasse Indians, part of the Muscogee Creek Nation, practiced rituals like the busk to symbolize renewal and community harmony. Thoreau uses their traditions to highlight the value of simplicity and spiritual cleansing."
   - id: "gulistan"
     trigger: "Gulistan"
-    title: "Gulistan by Saadi"
+    title: "Gulistan: Persian Literature"
     wikipedia_url: "https://en.wikipedia.org/wiki/Gulistan_(book)"
     image_url: ""
     image_caption: ""
-    content: "The Gulistan, or 'Flower Garden,' is a classic Persian text by Saadi, offering moral and philosophical insights. Thoreau references it to emphasize the value of independence and simplicity, drawing parallels to his own philosophy."
+    content: "The Gulistan, written by Persian poet Saadi, is a collection of moral stories and reflections. Thoreau references it to underscore themes of independence and the transient nature of material possessions."
   - id: "sheik-sadi-of-shiraz"
     trigger: "Sheik Sadi of Shiraz"
-    title: "Persian Poet Saadi"
+    title: "Saadi: Persian Poet"
     wikipedia_url: "https://en.wikipedia.org/wiki/Saadi_Shirazi"
     image_url: ""
     image_caption: ""
-    content: "Saadi Shirazi was a Persian poet known for his wisdom and humanistic themes. Thoreau cites Saadi to underscore the importance of living a flourishing, independent life, free from the constraints of materialism."
-  - id: "azad"
-    trigger: "azad"
-    title: "Azad: The Free Spirit"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Azad"
-    image_url: ""
-    image_caption: ""
-    content: "The term 'azad' refers to freedom and independence, often associated with spiritual liberation. Thoreau uses it to advocate for a life unbound by societal expectations, emphasizing the timeless value of inner freedom."
+    content: "Saadi Shirazi was a 13th-century Persian poet known for his wisdom and eloquence. Thoreau draws on Saadi's teachings to emphasize the importance of spiritual independence and the fleeting nature of worldly attachments."
   - id: "dijlah-or-tigris"
     trigger: "Dijlah, or Tigris"
-    title: "The Tigris River"
+    title: "Tigris River: Historical Significance"
     wikipedia_url: "https://en.wikipedia.org/wiki/Tigris"
     image_url: ""
     image_caption: ""
-    content: "The Tigris River, flowing through Iraq, symbolizes continuity and resilience. Thoreau references it to highlight the enduring nature of the world, contrasting it with the transient pursuits of human ambition."
+    content: "The Tigris River, flowing through Iraq, has been central to civilizations like Mesopotamia. Thoreau uses it as a metaphor for continuity and the enduring nature of natural elements compared to human constructs."
+  - id: "cambridge-college"
+    trigger: "Cambridge College"
+    title: "Cambridge College: Academic Tradition"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Harvard_University"
+    image_url: ""
+    image_caption: ""
+    content: "Cambridge College, likely referring to Harvard University, represents traditional education systems. Thoreau critiques the expense and inefficiency of formal education, advocating for experiential learning and self-reliance."
 ---
 When I wrote the following pages, or rather the bulk of them, I lived
 alone, in the woods, a mile from any neighbor, in a house which I had
@@ -210,8 +210,8 @@ they will accept such portions as apply to them. I trust that none will
 stretch the seams in putting on the coat, for it may do good service to
 him whom it fits.
 
-I would fain say something, not so much concerning the **Chinese** and
-**Sandwich Islanders** as you who read these pages, who are said to live in
+I would fain say something, not so much concerning the Chinese and
+Sandwich Islanders as you who read these pages, who are said to live in
 New England; something about your condition, especially your outward
 condition or circumstances in this world, in this town, what it is,
 whether it is necessary that it be as bad as it is, whether it cannot
@@ -294,7 +294,7 @@ or stolen time, robbing your creditors of an hour. It is very evident
 what mean and sneaking lives many of you live, for my sight has been
 whetted by experience; always on the limits, trying to get into
 business and trying to get out of debt, a very ancient slough, called
-by the Latins _**æs alienum**_, another’s brass, for some of their coins
+by the Latins _æs alienum_, another’s brass, for some of their coins
 were made of brass; still living, and dying, and buried by this other’s
 brass; always promising to pay, promising to pay, tomorrow, and dying
 today, insolvent; seeking to curry favor, to get custom, by how many
@@ -886,7 +886,7 @@ aim at something high.
 
 As for a Shelter, I will not deny that this is now a necessary of life,
 though there are instances of men having done without it for long
-periods in colder countries than this. Samuel Laing says that “the
+periods in colder countries than this. **Samuel Laing** says that “the
 Laplander in his skin dress, and in a skin bag which he puts over his
 head and shoulders, will sleep night after night on the snow—in a
 degree of cold which would extinguish the life of one exposed to it in
@@ -992,7 +992,7 @@ tax the poor civilized man secures an abode which is a palace compared
 with the savage’s. An annual rent of from twenty-five to a hundred
 dollars, these are the country rates, entitles him to the benefit of
 the improvements of centuries, spacious apartments, clean paint and
-paper, **Rumford fireplace**, back plastering, Venetian blinds, copper
+paper, Rumford fireplace, back plastering, Venetian blinds, copper
 pump, spring lock, a commodious cellar, and many other things. But how
 happens it that he who is said to enjoy these things is so commonly a
 _poor_ civilized man, while the savage, who has them not, is rich as a
@@ -1077,7 +1077,7 @@ Chapman sings,—
 
 And when the farmer has got his house, he may not be the richer but the
 poorer for it, and it be the house that has got him. As I understand
-it, that was a valid objection urged by **Momus** against the house which
+it, that was a valid objection urged by Momus against the house which
 Minerva made, that she “had not made it movable, by which means a bad
 neighborhood might be avoided;” and it may still be urged, for our
 houses are such unwieldy property that we are often imprisoned rather
@@ -1100,7 +1100,7 @@ But how do the poor minority fare? Perhaps it will be found, that just
 in proportion as some have been placed in outward circumstances above
 the savage, others have been degraded below him. The luxury of one
 class is counterbalanced by the indigence of another. On the one side
-is the palace, on the other are the almshouse and “**silent poor**.” The
+is the palace, on the other are the almshouse and “silent poor.” The
 myriads who built the pyramids to be the tombs of the Pharaohs were fed
 on garlic, and it may be were not decently buried themselves. The mason
 who finishes the cornice of the palace returns at night perchance to a
@@ -1341,7 +1341,7 @@ over the chips which I had made.
 By the middle of April, for I made no haste in my work, but rather made
 the most of it, my house was framed and ready for the raising. I had
 already bought the shanty of James Collins, an Irishman who worked on
-the Fitchburg Railroad, for boards. James Collins’ shanty was
+the **Fitchburg Railroad**, for boards. **James Collins’ shanty** was
 considered an uncommonly fine one. When I called to see it he was not
 at home. I walked about the outside, at first unobserved from within,
 the window was so deep and high. It was of small dimensions, with a
@@ -1552,7 +1552,7 @@ difficult to separate from my wheat, but for which I am as sorry as any
 man,—I will breathe freely and stretch myself in this respect, it is
 such a relief to both the moral and physical system; and I am resolved
 that I will not through humility become the devil’s attorney. I will
-endeavor to speak a good word for the truth. At Cambridge College the
+endeavor to speak a good word for the truth. At **Cambridge College** the
 mere rent of a student’s room, which is only a little larger than my
 own, is thirty dollars each year, though the corporation had the
 advantage of building thirty-two side by side and under one roof, and
@@ -1610,7 +1610,7 @@ turn down the harbor I should have known more about it. Even the _poor_
 student studies and is taught only _political_ economy, while that
 economy of living which is synonymous with philosophy is not even
 sincerely professed in our colleges. The consequence is, that while he
-is reading Adam Smith, Ricardo, and Say, he runs his father in debt
+is reading **Adam Smith**, **Ricardo**, and Say, he runs his father in debt
 irretrievably.
 
 As with our colleges, so with a hundred “modern improvements”; there is
@@ -1716,7 +1716,7 @@ better than any farmer in Concord did that year.
 The next year I did better still, for I spaded up all the land which I
 required, about a third of an acre, and I learned from the experience
 of both years, not being in the least awed by many celebrated works on
-husbandry, Arthur Young among the rest, that if one would live simply
+husbandry, **Arthur Young** among the rest, that if one would live simply
 and eat only the crop which he raised, and raise no more than he ate,
 and not exchange it for an insufficient quantity of more luxurious and
 expensive things, he would need to cultivate only a few rods of ground,
@@ -1764,7 +1764,7 @@ is not behindhand in its public buildings; but there are very few halls
 for free worship or free speech in this county. It should not be by
 their architecture, but why not even by their power of abstract
 thought, that nations should seek to commemorate themselves? How much
-more admirable the Bhagvat-Geeta than all the ruins of the East! Towers
+more admirable the **Bhagvat-Geeta** than all the ruins of the East! Towers
 and temples are the luxury of princes. A simple and independent mind
 does not toil at the bidding of any prince. Genius is not a retainer to
 any emperor, nor is its material silver, or gold, or marble, except to
@@ -2092,7 +2092,7 @@ The customs of some savage nations might, perchance, be profitably
 imitated by us, for they at least go through the semblance of casting
 their slough annually; they have the idea of the thing, whether they
 have the reality or not. Would it not be well if we were to celebrate
-such a “**busk**,” or “feast of first fruits,” as **Bartram** describes to have
+such a “**busk**,” or “feast of first fruits,” as Bartram describes to have
 been the custom of the **Mucclasse Indians**? “When a town celebrates the
 busk,” says he, “having previously provided themselves with new
 clothes, new pots, pans, and other household utensils and furniture,
@@ -2413,7 +2413,7 @@ of the world.
 I read in the **Gulistan**, or Flower Garden, of **Sheik Sadi of Shiraz**, that
 “They asked a wise man, saying; Of the many celebrated trees which the
 Most High God has created lofty and umbrageous, they call none **azad**, or
-free, excepting the **cypress**, which bears no fruit; what mystery is
+free, excepting the cypress, which bears no fruit; what mystery is
 there in this? He replied; Each has its appropriate produce, and
 appointed season, during the continuance of which it is fresh and
 blooming, and during their absence dry and withered; to neither of

@@ -9,96 +9,201 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on his imaginative exploration of local farms and his philosophical approach to ownership."
+  - point: "Thoreau reflects on the idea of surveying land and imagining potential homes, emphasizing simplicity and connection to nature."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "He describes his brief ownership of the Hollowell place and the philosophical lessons he learned from the experience."
+  - point: "He recounts his near-purchase of the Hollowell place, highlighting his philosophy of valuing experiences over material possessions."
     link: "https://en.wikipedia.org/wiki/Walden"
     link_label: "Walden"
-  - point: "Thoreau recounts his decision to live deliberately in the woods, starting on Independence Day, 1845."
-    link: "https://en.wikipedia.org/wiki/Fourth_of_July"
-    link_label: "Fourth of July"
-  - point: "He emphasizes the importance of simplicity and rejecting societal excess, likening his approach to Spartan ideals."
-    link: "https://en.wikipedia.org/wiki/Sparta"
-    link_label: "Sparta"
-  - point: "Thoreau critiques the hurried pace of modern life and advocates for deliberate living and connection to nature."
+  - point: "Thoreau describes his cabin near Walden Pond and his deliberate choice to live simply and deliberately."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "He emphasizes the importance of awakening to life and living deliberately, rejecting societal distractions and superficiality."
     link: "https://en.wikipedia.org/wiki/Transcendentalism"
     link_label: "Transcendentalism"
-  - point: "He reflects on the concept of time and eternity, using the metaphor of fishing in a stream to explore deeper truths."
-    link: "https://en.wikipedia.org/wiki/Philosophy_of_time"
-    link_label: "Philosophy of time"
+  - point: "Thoreau critiques modern life’s complexity and advocates for simplicity and self-reliance."
+    link: "https://en.wikipedia.org/wiki/Self-reliance"
+    link_label: "Self-reliance"
+  - point: "He concludes with reflections on time, eternity, and the pursuit of deeper truths."
+    link: "https://en.wikipedia.org/wiki/Eternity"
+    link_label: "Eternity"
 
 enhancements:
-  - id: "real-estate-broker"
-    trigger: "real-estate broker"
-    title: "Role of Real Estate Brokers"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Real_estate_broker"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau humorously refers to himself as a 'real-estate broker' due to his imaginative exploration of local farms. Real estate brokers are professionals who facilitate property transactions, often serving as intermediaries between buyers and sellers. Thoreau's philosophical musings contrast sharply with the commercial nature of real estate, highlighting his rejection of materialism and ownership."
-  - id: "sedes"
+  - id: "sedes-seat"
     trigger: "sedes"
-    title: "Latin Origins of 'Sedes'"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Latin"
+    title: "Sedes: Latin for Seat"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sedes"
     image_url: ""
     image_caption: ""
-    content: "Thoreau uses the Latin term 'sedes,' meaning 'seat,' to describe a house. This reflects his classical education and the influence of ancient languages on his writing. Latin has historically been a language of scholarship and philosophy, and its use here underscores Thoreau's intellectual approach to simple living."
+    content: "The term 'sedes' is Latin for 'seat,' often used metaphorically to describe a place of residence or authority. Thoreau uses this term to emphasize the simplicity of a house as merely a seat within nature, reflecting his minimalist philosophy."
+  - id: "orchard-woodlot-pasture"
+    trigger: "orchard, woodlot, and pasture"
+    title: "Land Use in Rural America"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Land_use"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's division of land into orchard, woodlot, and pasture reflects traditional rural land use practices in 19th-century America. These divisions were essential for self-sufficient farming and demonstrate his connection to the agrarian lifestyle."
   - id: "hollowell-place"
     trigger: "Hollowell place"
     title: "The Hollowell Place"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "The Hollowell place was a farm Thoreau briefly owned but never fully possessed. This anecdote illustrates his philosophical stance on ownership and material wealth. The farm's rural isolation and natural beauty appealed to Thoreau's transcendentalist ideals, emphasizing simplicity and connection to nature."
-  - id: "atlas"
+    content: "The Hollowell place was a farm Thoreau considered purchasing but ultimately did not. This anecdote illustrates his philosophy of valuing experiences and landscapes over material ownership, a recurring theme in 'Walden.'"
+  - id: "atlas-world-on-shoulders"
     trigger: "Atlas"
-    title: "Atlas in Greek Mythology"
+    title: "Atlas: The Titan of Burden"
     wikipedia_url: "https://en.wikipedia.org/wiki/Atlas_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau invokes the image of Atlas, the Titan condemned to hold up the heavens. This mythological reference symbolizes the burden of responsibility and the weight of the world, paralleling Thoreau's philosophical exploration of self-reliance and deliberate living."
-  - id: "de-re-rustica"
-    trigger: "De Re Rusticâ"
-    title: "Cato's 'De Re Rustica'"
-    wikipedia_url: "https://en.wikipedia.org/wiki/De_agri_cultura"
+    content: "In Greek mythology, Atlas was condemned to hold up the heavens for eternity. Thoreau invokes Atlas to symbolize the weight of responsibility and the effort required to live deliberately and unburdened by societal expectations."
+  - id: "old-cato-de-re-rustica"
+    trigger: "Old Cato"
+    title: "Cato the Elder and Farming Wisdom"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cato_the_Elder"
     image_url: ""
     image_caption: ""
-    content: "Thoreau references 'De Re Rustica,' an ancient Roman agricultural text by Cato the Elder. This work provides practical advice on farming and reflects the Roman emphasis on self-sufficiency and stewardship of the land, aligning with Thoreau's ideals of simplicity and deliberate living."
+    content: "Cato the Elder was a Roman statesman and author of 'De Re Rustica,' a treatise on agriculture. Thoreau references Cato to highlight timeless wisdom about land stewardship and the importance of thoughtful decision-making in farming."
+  - id: "harivansa-birds-and-abodes"
+    trigger: "Harivansa"
+    title: "Harivansa: Ancient Indian Text"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Harivamsa"
+    image_url: ""
+    image_caption: ""
+    content: "The 'Harivansa' is an ancient Sanskrit text that complements the Mahabharata. Thoreau quotes it to emphasize the importance of living in harmony with nature, as symbolized by the presence of birds near one's abode."
+  - id: "wood-thrush-songbird"
+    trigger: "wood-thrush"
+    title: "Wood Thrush: Forest Songbird"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wood_thrush"
+    image_url: ""
+    image_caption: ""
+    content: "The wood thrush is a North American songbird known for its melodic calls. Thoreau admired its song as a symbol of the natural beauty and serenity of the forest, aligning with his transcendentalist ideals."
+  - id: "scarlet-tanager-bird"
+    trigger: "scarlet tanager"
+    title: "Scarlet Tanager: Vibrant Bird"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Scarlet_tanager"
+    image_url: ""
+    image_caption: ""
+    content: "The scarlet tanager is a strikingly colorful bird found in North America. Its presence near Thoreau's cabin symbolizes the richness of the natural environment he sought to immerse himself in."
+  - id: "sudbury-meadows"
+    trigger: "Sudbury meadows"
+    title: "Sudbury Meadows: Wetland Ecosystem"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sudbury,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Sudbury Meadows refers to the wetlands near Sudbury, Massachusetts. Thoreau's observations of this area reflect his appreciation for the interconnectedness of water and land in shaping the natural world."
   - id: "cassiopeias-chair"
     trigger: "Cassiopeia’s Chair"
-    title: "Cassiopeia Constellation"
+    title: "Cassiopeia: Constellation in the Sky"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
     image_url: ""
     image_caption: ""
-    content: "Cassiopeia is a prominent constellation in the northern sky, named after a queen in Greek mythology. Thoreau's reference to it symbolizes his philosophical exploration of celestial and remote realms, emphasizing his connection to the universe and the transcendentalist pursuit of higher truths."
-  - id: "pleiades"
+    content: "Cassiopeia is a prominent constellation in the northern sky. Thoreau uses it metaphorically to describe the celestial remoteness and tranquility of his chosen living space."
+  - id: "pleiades-star-cluster"
     trigger: "Pleiades"
-    title: "The Pleiades Star Cluster"
+    title: "Pleiades: Star Cluster"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pleiades"
     image_url: ""
     image_caption: ""
-    content: "The Pleiades are a star cluster visible to the naked eye, often associated with mythology and navigation. Thoreau's mention of the Pleiades reflects his fascination with astronomy and the transcendentalist idea of finding meaning in the natural world."
-  - id: "aurora"
+    content: "The Pleiades is a star cluster visible to the naked eye. Thoreau references it to evoke a sense of cosmic connection and the vastness of the universe surrounding his simple life."
+  - id: "hyades-star-cluster"
+    trigger: "Hyades"
+    title: "Hyades: Star Cluster"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hyades_(star_cluster)"
+    image_url: ""
+    image_caption: ""
+    content: "The Hyades is another star cluster in the constellation Taurus. Thoreau's mention of it underscores his fascination with celestial phenomena and their metaphorical significance."
+  - id: "aldebaran-star"
+    trigger: "Aldebaran"
+    title: "Aldebaran: Bright Star"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Aldebaran"
+    image_url: ""
+    image_caption: ""
+    content: "Aldebaran is a bright star in the Taurus constellation. Thoreau uses it as a symbol of distant beauty and the sublime, aligning with his transcendentalist perspective."
+  - id: "aurora-goddess-of-dawn"
     trigger: "Aurora"
-    title: "Aurora in Greek Mythology"
+    title: "Aurora: Goddess of Dawn"
     wikipedia_url: "https://en.wikipedia.org/wiki/Aurora_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "Aurora, the Roman goddess of dawn, symbolizes renewal and awakening. Thoreau's admiration for Aurora reflects his belief in the transformative power of morning and its connection to intellectual and spiritual awakening, central themes in his philosophy."
-  - id: "spartan-like"
-    trigger: "Spartan-like"
-    title: "Spartan Philosophy and Lifestyle"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sparta"
+    content: "Aurora is the Roman goddess of dawn. Thoreau's admiration for Aurora reflects his reverence for morning as a time of renewal and inspiration, central to his philosophy of living deliberately."
+  - id: "king-tching-thang"
+    trigger: "king Tching-thang"
+    title: "King Tching-Thang: Chinese Wisdom"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Shang_dynasty"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's reference to living 'Spartan-like' evokes the austere and disciplined lifestyle of ancient Sparta. This aligns with his advocacy for simplicity and focus on essential truths, rejecting the excesses of modern society."
-  - id: "memnon"
+    content: "King Tching-Thang was a ruler of the Shang dynasty in ancient China. Thoreau references him to highlight the importance of daily renewal and self-improvement, a theme in his philosophy."
+  - id: "memnon-son-of-aurora"
     trigger: "Memnon"
-    title: "Memnon in Greek Mythology"
+    title: "Memnon: Son of Aurora"
     wikipedia_url: "https://en.wikipedia.org/wiki/Memnon_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "Memnon, a hero of the Trojan War, was said to emit music at sunrise. Thoreau uses this mythological figure to emphasize the connection between morning and creativity, reflecting his transcendentalist belief in the inspirational power of nature."
+    content: "Memnon, a figure in Greek mythology, was the son of Aurora and known for his heroic deeds. Thoreau uses Memnon to symbolize the connection between dawn and the awakening of human potential."
+  - id: "marrow-of-life"
+    trigger: "marrow of life"
+    title: "Marrow of Life: Essence of Living"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's phrase 'marrow of life' signifies the pursuit of life's essential truths and experiences. It encapsulates his desire to live deeply and authentically, free from superficial distractions."
+  - id: "spartan-like"
+    trigger: "Spartan-like"
+    title: "Spartan Simplicity"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sparta"
+    image_url: ""
+    image_caption: ""
+    content: "The Spartans were known for their austere lifestyle and discipline. Thoreau invokes their example to advocate for simplicity and focus in life, rejecting unnecessary luxuries."
+  - id: "german-confederacy"
+    trigger: "German Confederacy"
+    title: "German Confederacy: Historical Union"
+    wikipedia_url: "https://en.wikipedia.org/wiki/German_Confederation"
+    image_url: ""
+    image_caption: ""
+    content: "The German Confederacy was a loose association of states in 19th-century Europe. Thoreau uses it as a metaphor for the complexity and inefficiency of modern life, advocating for simplicity instead."
+  - id: "saint-vitus-dance"
+    trigger: "Saint Vitus’ dance"
+    title: "Saint Vitus’ Dance: Neurological Disorder"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sydenham%27s_chorea"
+    image_url: ""
+    image_caption: ""
+    content: "Saint Vitus’ dance, or Sydenham's chorea, is a neurological disorder causing involuntary movements. Thoreau uses it metaphorically to describe society's restless and unproductive busyness."
+  - id: "western-railroad"
+    trigger: "Western Railroad"
+    title: "Western Railroad: Early American Railways"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Western_Railroad_of_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "The Western Railroad was a significant early railway in Massachusetts. Thoreau critiques the societal obsession with progress and technology, symbolized by the railroad, as detracting from meaningful living."
+  - id: "don-carlos-infanta"
+    trigger: "Don Carlos and the Infanta"
+    title: "Don Carlos and Infanta: Spanish Royal Figures"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Don_Carlos_(drama)"
+    image_url: ""
+    image_caption: ""
+    content: "Don Carlos and the Infanta are figures from Spanish history and literature. Thoreau humorously references them to critique the repetitive and superficial nature of news reporting."
+  - id: "nilometer"
+    trigger: "Nilometer"
+    title: "Nilometer: Measuring Nile Floods"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nilometer"
+    image_url: ""
+    image_caption: ""
+    content: "A Nilometer was an ancient device used to measure the Nile's water levels. Thoreau uses it metaphorically to suggest the need for a tool to measure the depth of societal illusions and realities."
+  - id: "time-stream"
+    trigger: "Time is but the stream"
+    title: "Time as a Stream"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's metaphor of time as a stream reflects his philosophical view of life as fleeting yet connected to eternity. It underscores his desire to live deliberately and deeply."
+  - id: "divining-rod"
+    trigger: "divining-rod"
+    title: "Divining Rod: Mystical Tool"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Divining_rod"
+    image_url: ""
+    image_caption: ""
+    content: "A divining rod is traditionally used to locate water or minerals underground. Thoreau uses it metaphorically to describe his intuitive search for deeper truths and life's richest experiences."
 ---
 At a certain season of our life we are accustomed to consider every
 spot as the possible site of a house. I have thus surveyed the country
@@ -111,7 +216,7 @@ price on it,—took everything but a deed of it,—took his word for his
 deed, for I dearly love to talk,—cultivated it, and him too to some
 extent, I trust, and withdrew when I had enjoyed it long enough,
 leaving him to carry it on. This experience entitled me to be regarded
-as a sort of **real-estate broker** by my friends. Wherever I sat, there I
+as a sort of real-estate broker by my friends. Wherever I sat, there I
 might live, and the landscape radiated from me accordingly. What is a
 house but a _**sedes**_, a seat?—better if a country seat. I discovered
 many a site for a house not likely to be soon improved, which some
@@ -121,7 +226,7 @@ live, for an hour, a summer and a winter life; saw how I could let the
 years run off, buffet the winter through, and see the spring come in.
 The future inhabitants of this region, wherever they may place their
 houses, may be sure that they have been anticipated. An afternoon
-sufficed to lay out the land into orchard, woodlot, and pasture, and to
+sufficed to lay out the land into **orchard, woodlot, and pasture**, and to
 decide what fine oaks or pines should be left to stand before the door,
 and whence each blasted tree could be seen to the best advantage; and
 then I let it lie, fallow perchance, for a man is rich in proportion to
@@ -188,7 +293,7 @@ to my fellows, once for all, As long as possible live free and
 uncommitted. It makes but little difference whether you are committed
 to a farm or the county jail.
 
-Old Cato, whose “**De Re Rusticâ**” is my “Cultivator,” says, and the only
+**Old Cato**, whose “**De Re Rusticâ**” is my “Cultivator,” says, and the only
 translation I have seen makes sheer nonsense of the passage, “When you
 think of getting a farm, turn it thus in your mind, not to buy
 greedily; nor spare your pains to look at it, and do not think it
@@ -207,7 +312,7 @@ standing on his roost, if only to wake my neighbors up.
 
 When first I took up my abode in the woods, that is, began to spend my
 nights as well as days there, which, by accident, was on Independence
-Day, or the **Fourth of July, 1845**, my house was not finished for winter,
+Day, or the Fourth of July, 1845, my house was not finished for winter,
 but was merely a defence against the rain, without plastering or
 chimney, the walls being of rough, weather-stained boards, with wide
 chinks, which made it cool at night. The upright white hewn studs and
@@ -234,14 +339,14 @@ crystallization around me, and reacted on the builder. It was
 suggestive somewhat as a picture in outlines. I did not need to go
 outdoors to take the air, for the atmosphere within had lost none of
 its freshness. It was not so much within doors as behind a door where I
-sat, even in the rainiest weather. The Harivansa says, “An abode
+sat, even in the rainiest weather. The **Harivansa** says, “An abode
 without birds is like a meat without seasoning.” Such was not my abode,
 for I found myself suddenly neighbor to the birds; not by having
 imprisoned one, but having caged myself near them. I was not only
 nearer to some of those which commonly frequent the garden and the
 orchard, but to those wilder and more thrilling songsters of the forest
-which never, or rarely, serenade a villager,—the wood-thrush, the
-veery, the scarlet tanager, the field-sparrow, the whippoorwill, and
+which never, or rarely, serenade a villager,—the **wood-thrush**, the
+veery, the **scarlet tanager**, the field-sparrow, the whippoorwill, and
 many others.
 
 I was seated by the shore of a small pond, about a mile and a half
@@ -283,7 +388,7 @@ is well to have some water in your neighborhood, to give buoyancy to
 and float the earth. One value even of the smallest well is, that when
 you look into it you see that earth is not continent but insular. This
 is as important as that it keeps butter cool. When I looked across the
-pond from this peak toward the Sudbury meadows, which in time of flood
+pond from this peak toward the **Sudbury meadows**, which in time of flood
 I distinguished elevated perhaps by a mirage in their seething valley,
 like a coin in a basin, all the earth beyond the pond appeared like a
 thin crust insulated and floated even by this small sheet of
@@ -308,7 +413,7 @@ constellation of **Cassiopeia’s Chair**, far from noise and disturbance. I
 discovered that my house actually had its site in such a withdrawn, but
 forever new and unprofaned, part of the universe. If it were worth the
 while to settle in those parts near to the **Pleiades** or the **Hyades**, to
-**Aldebaran** or **Altair**, then I was really there, or at an equal remoteness
+**Aldebaran** or Altair, then I was really there, or at an equal remoteness
 from the life which I had left behind, dwindled and twinkling with as
 fine a ray to my nearest neighbor, and to be seen only in moonless
 nights by him. Such was that part of creation where I had squatted;—
@@ -326,7 +431,7 @@ simplicity, and I may say innocence, with Nature herself. I have been
 as sincere a worshipper of **Aurora** as the Greeks. I got up early and
 bathed in the pond; that was a religious exercise, and one of the best
 things which I did. They say that characters were engraven on the
-bathing tub of king Tching-thang to this effect: “Renew thyself
+bathing tub of **king Tching-thang** to this effect: “Renew thyself
 completely each day; do it again, and again, and forever again.” I can
 understand that. Morning brings back the heroic ages. I was as much
 affected by the faint hum of a mosquito making its invisible and
@@ -388,7 +493,7 @@ only the essential facts of life, and see if I could not learn what it
 had to teach, and not, when I came to die, discover that I had not
 lived. I did not wish to live what was not life, living is so dear; nor
 did I wish to practise resignation, unless it was quite necessary. I
-wanted to live deep and suck out all the marrow of life, to live so
+wanted to live deep and suck out all the **marrow of life**, to live so
 sturdily and **Spartan-like** as to put to rout all that was not life, to
 cut a broad swath and shave close, to drive life into a corner, and
 reduce it to its lowest terms, and, if it proved to be mean, why then
@@ -415,7 +520,7 @@ and not make his port at all, by dead reckoning, and he must be a great
 calculator indeed who succeeds. Simplify, simplify. Instead of three
 meals a day, if it be necessary eat but one; instead of a hundred
 dishes, five; and reduce other things in proportion. Our life is like a
-German Confederacy, made up of petty states, with its boundary forever
+**German Confederacy**, made up of petty states, with its boundary forever
 fluctuating, so that even a German cannot tell you how it is bounded at
 any moment. The nation itself, with all its so called internal
 improvements, which, by the way, are all external and superficial, is
@@ -451,7 +556,7 @@ Why should we live with such hurry and waste of life? We are determined
 to be starved before we are hungry. Men say that a stitch in time saves
 nine, and so they take a thousand stitches to-day to save nine
 to-morrow. As for _work_, we haven’t any of any consequence. We have
-the Saint Vitus’ dance, and cannot possibly keep our heads still. If I
+the **Saint Vitus’ dance**, and cannot possibly keep our heads still. If I
 should only give a few pulls at the parish bell-rope, as for a fire,
 that is, without setting the bell, there is hardly a man on his farm in
 the outskirts of Concord, notwithstanding that press of engagements
@@ -482,7 +587,7 @@ that penny for his thoughts which is so often safely offered in jest.
 And I am sure that I never read any memorable news in a newspaper. If
 we read of one man robbed, or murdered, or killed by accident, or one
 house burned, or one vessel wrecked, or one steamboat blown up, or one
-cow run over on the Western Railroad, or one mad dog killed, or one lot
+cow run over on the **Western Railroad**, or one mad dog killed, or one lot
 of grasshoppers in the winter,—we never need read of another. One is
 enough. If you are acquainted with the principle, what do you care for
 a myriad instances and applications? To a philosopher all _news_, as it
@@ -493,7 +598,7 @@ foreign news by the last arrival, that several large squares of plate
 glass belonging to the establishment were broken by the pressure,—news
 which I seriously think a ready wit might write a twelve-month, or
 twelve years, beforehand with sufficient accuracy. As for Spain, for
-instance, if you know how to throw in Don Carlos and the Infanta, and
+instance, if you know how to throw in **Don Carlos** and the **Infanta**, and
 Don Pedro and Seville and Granada, from time to time in the right
 proportions,—they may have changed the names a little since I saw the
 papers,—and serve up a bull-fight when other entertainments fail, it
@@ -588,7 +693,7 @@ come to a hard bottom and rocks in place, which we can call _reality_,
 and say, This is, and no mistake; and then begin, having a _point
 d’appui_, below freshet and frost and fire, a place where you might
 found a wall or a state, or set a lamp-post safely, or perhaps a gauge,
-not a Nilometer, but a Realometer, that future ages might know how deep
+not a **Nilometer**, but a **Realometer**, that future ages might know how deep
 a freshet of shams and appearances had gathered from time to time. If
 you stand right fronting and face to face to a fact, you will see the
 sun glimmer on both its surfaces, as if it were a cimeter, and feel its
@@ -598,7 +703,7 @@ reality. If we are really dying, let us hear the rattle in our throats
 and feel cold in the extremities; if we are alive, let us go about our
 business.
 
-Time is but the stream I go a-fishing in. I drink at it; but while I
+**Time is but the stream** I go a-fishing in. I drink at it; but while I
 drink I see the sandy bottom and detect how shallow it is. Its thin
 current slides away, but eternity remains. I would drink deeper; fish
 in the sky, whose bottom is pebbly with stars. I cannot count one. I
@@ -610,5 +715,5 @@ head is hands and feet. I feel all my best faculties concentrated in
 it. My instinct tells me that my head is an organ for burrowing, as
 some creatures use their snout and fore-paws, and with it I would mine
 and burrow my way through these hills. I think that the richest vein is
-somewhere hereabouts; so by the divining-rod and thin rising vapors I
+somewhere hereabouts; so by the **divining-rod** and thin rising vapors I
 judge; and here I will begin to mine.
