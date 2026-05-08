@@ -9,130 +9,399 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau observes how winter brings wild creatures closer to his dwelling, fostering a sense of connection with nature."
-    link: "https://en.wikipedia.org/wiki/Walden"
-    link_label: "Walden"
-  - point: "The red squirrel and gray squirrel exhibit contrasting behaviors in their winter activities, reflecting their adaptability."
-    link: "https://en.wikipedia.org/wiki/Squirrel"
-    link_label: "Squirrel"
-  - point: "Thoreau describes the dormant woodchuck as a symbol of the cyclical rhythm of life in the forest."
-    link: "https://en.wikipedia.org/wiki/Groundhog"
-    link_label: "Groundhog"
-  - point: "The fox's cry and tracks illustrate its solitary yet interconnected existence within the winter landscape."
-    link: "https://en.wikipedia.org/wiki/Fox"
-    link_label: "Fox"
-  - point: "Thoreau reflects on the ice covering Walden Pond as a paradoxical symbol of nature's power to transform and preserve."
+  - point: "Thoreau describes the frozen ponds providing new routes and perspectives on the landscape."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "Winter solitude becomes a form of communion for Thoreau, as he learns resilience and beauty from the forest's creatures."
-    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    link_label: "Henry David Thoreau"
+  - point: "Thoreau compares Flint’s Pond to Baffin’s Bay, highlighting its unexpected vastness and strangeness."
+    link: "https://en.wikipedia.org/wiki/Baffin_Bay"
+    link_label: "Baffin Bay"
+  - point: "Thoreau observes fishermen on the ice and likens them to Esquimaux or mythical creatures."
+    link: "https://en.wikipedia.org/wiki/Inuit"
+    link_label: "Esquimaux (Inuit)"
+  - point: "Thoreau recounts the melodious hooting of owls in Walden Wood during winter nights."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Wood"
+  - point: "Thoreau describes the arrival of various animals, including muskrats, squirrels, chickadees, and hares, near his home during winter."
+    link: "https://en.wikipedia.org/wiki/Muskrat"
+    link_label: "Muskrats"
+  - point: "Thoreau recalls the hunting traditions of the region, including stories of Sam Nutting hunting bears on Fair Haven Ledges."
+    link: "https://en.wikipedia.org/wiki/Bear_hunting"
+    link_label: "Bear hunting"
 
 enhancements:
-  - id: "wild-creatures"
-    trigger: "wild creatures"
-    title: "Wildlife in Winter"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Wildlife"
+  - id: "flints-pond"
+    trigger: "Flint’s Pond"
+    title: "Flint’s Pond in Concord"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flint%27s_Pond"
     image_url: ""
     image_caption: ""
-    content: "Wild creatures play a vital role in ecosystems, adapting to seasonal changes in remarkable ways. In winter, many animals alter their behaviors to survive harsh conditions, such as migrating, hibernating, or foraging differently. Thoreau's observations highlight the interconnectedness of humans and wildlife, emphasizing the importance of understanding and respecting these adaptations. His reflections remind us of the resilience and ingenuity of nature, even in its most challenging seasons."
-  - id: "red-squirrel"
-    trigger: "red squirrel"
-    title: "The Red Squirrel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Red_squirrel"
+    content: "Flint’s Pond, located near Walden Pond in Concord, Massachusetts, is a smaller body of water that Thoreau often visited. It served as a source of inspiration for his observations of nature and its transformations across seasons. The pond's frozen surface in winter provided Thoreau with new perspectives on the landscape, emphasizing his theme of finding beauty and novelty in familiar surroundings."
+  - id: "baffins-bay"
+    trigger: "Baffin’s Bay"
+    title: "Baffin’s Bay: Arctic Waters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Baffin_Bay"
     image_url: ""
     image_caption: ""
-    content: "The red squirrel (Sciurus vulgaris) is a small, agile rodent known for its vibrant reddish fur and energetic behavior. Native to Eurasia, it has become a symbol of adaptability and resourcefulness. In Thoreau's narrative, the red squirrel's lively movements and chattering reflect the vitality of the forest even in winter. Observing such creatures allows us to appreciate the intricate balance of ecosystems and the survival strategies of wildlife."
-  - id: "woodchuck"
-    trigger: "woodchuck"
-    title: "The Woodchuck's Hibernation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
+    content: "Baffin’s Bay is a body of water located between Greenland and Canada in the Arctic. Thoreau’s comparison of Flint’s Pond to Baffin’s Bay underscores his imaginative approach to nature, where even local landscapes evoke distant and exotic places. This reflects his ability to see the extraordinary in the ordinary, a central theme in 'Walden.'"
+  - id: "lincoln-hills"
+    trigger: "Lincoln hills"
+    title: "Lincoln Hills in Massachusetts"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lincoln,_Massachusetts"
     image_url: ""
     image_caption: ""
-    content: "The woodchuck, also known as the groundhog (Marmota monax), is a burrowing rodent famous for its hibernation habits. During winter, it enters a state of torpor, significantly reducing its metabolic rate to conserve energy. Thoreau uses the woodchuck as a metaphor for the cyclical rhythms of nature, reminding readers of the interconnectedness of life and the importance of seasonal adaptation in the animal kingdom."
-  - id: "fox"
-    trigger: "fox"
-    title: "The Fox in Folklore and Nature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fox"
+    content: "The Lincoln Hills are part of the town of Lincoln, Massachusetts, near Concord. Thoreau often explored this area during his walks and lectures. The hills provided a vantage point for observing the snowy plains and were integral to his experience of the winter landscape, showcasing his deep connection to the local geography."
+  - id: "esquimaux"
+    trigger: "Esquimaux"
+    title: "Esquimaux: Indigenous Arctic Peoples"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Inuit"
     image_url: ""
     image_caption: ""
-    content: "Foxes are cunning and adaptable predators found across the globe. Known for their solitary habits and sharp cries, they have inspired countless myths and stories in human culture. Thoreau's depiction of the fox in winter underscores its resilience and resourcefulness, qualities that have made it a symbol of survival and ingenuity. Observing foxes in their natural habitat offers insights into the delicate balance of predator-prey relationships in ecosystems."
-  - id: "partridge"
-    trigger: "partridge"
-    title: "The Ruffed Grouse"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ruffed_grouse"
-    image_url: ""
-    image_caption: ""
-    content: "The ruffed grouse (Bonasa umbellus), often referred to as a partridge, is a bird native to North America. Known for its sudden, explosive flight, it thrives in wooded areas and adapts well to winter conditions by burrowing into snow for warmth. Thoreau's encounter with the grouse highlights the vitality and resilience of wildlife, even in the harshest seasons, serving as a reminder of nature's enduring beauty and complexity."
-  - id: "rabbit"
-    trigger: "rabbit"
-    title: "Rabbits in Winter"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rabbit"
-    image_url: ""
-    image_caption: ""
-    content: "Rabbits are small mammals known for their agility and cautious behavior, especially during winter when food is scarce. They often feed on bark and twigs, adapting their diet to survive. Thoreau's observation of the rabbit's tracks and movements reflects the quiet dignity of survival in the wild. Rabbits play a crucial role in ecosystems as prey for predators and as seed dispersers, maintaining the balance of their habitats."
-  - id: "owl"
-    trigger: "owl"
-    title: "Owls: Silent Hunters"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Owl"
-    image_url: ""
-    image_caption: ""
-    content: "Owls are nocturnal birds of prey, renowned for their silent flight and keen vision. They are symbols of wisdom and mystery in various cultures. Thoreau's description of the owl surveying the winter landscape captures its contemplative presence and vital role as a predator. Owls help control rodent populations, contributing to ecological balance. Their haunting calls add to the atmosphere of the wilderness, connecting the present to ancient natural rhythms."
-  - id: "muskrat"
-    trigger: "muskrat"
-    title: "The Industrious Muskrat"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Muskrat"
-    image_url: ""
-    image_caption: ""
-    content: "The muskrat (Ondatra zibethicus) is a semi-aquatic rodent known for its adaptability to wetland environments. It builds lodges from reeds and mud, showcasing remarkable engineering skills. Thoreau's observation of the muskrat gathering materials highlights its industrious nature and resilience in winter. Muskrats play a vital role in maintaining wetland ecosystems, creating habitats for other species and contributing to biodiversity."
-  - id: "chickadees-and-nuthatches"
-    trigger: "chickadees and nuthatches"
-    title: "Winter Birds: Chickadees and Nuthatches"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Chickadee"
-    image_url: ""
-    image_caption: ""
-    content: "Chickadees and nuthatches are small songbirds that remain active during winter, providing a cheerful presence in snowy landscapes. Chickadees are known for their distinctive calls, while nuthatches are skilled at climbing tree trunks in search of food. Thoreau's interaction with these birds reflects the mutual trust between humans and wildlife, emphasizing the importance of coexistence and the resilience of nature in the face of adversity."
-  - id: "weasel"
-    trigger: "weasel"
-    title: "The Elusive Weasel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Weasel"
-    image_url: ""
-    image_caption: ""
-    content: "Weasels are small, carnivorous mammals known for their slender bodies and stealthy movements. They are efficient hunters, preying on rodents and other small animals. Thoreau's depiction of the weasel highlights its cunning and urgency during winter, a time when survival requires constant vigilance. Weasels play a key role in controlling rodent populations, contributing to the ecological balance of their habitats."
-  - id: "ice-on-walden-pond"
-    trigger: "ice on Walden Pond"
-    title: "Walden Pond's Winter Ice"
+    content: "The term 'Esquimaux' refers to the Inuit, indigenous peoples of the Arctic regions. Thoreau’s use of this term reflects 19th-century terminology and his tendency to draw parallels between local fishermen and distant cultures. This comparison highlights his imaginative engagement with the natural world and its inhabitants."
+  - id: "walden-wood"
+    trigger: "Walden Wood"
+    title: "Walden Wood: Thoreau’s Sanctuary"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: ""
     image_caption: ""
-    content: "The ice on Walden Pond serves as a powerful symbol in Thoreau's narrative, representing both the fragility and endurance of nature. The pond's frozen surface reflects the sky, creating a mirror-like effect that connects the terrestrial and celestial realms. Thoreau's reverence for the ice underscores his deep appreciation for the transformative power of winter, as well as the interconnectedness of all elements in the natural world."
+    content: "Walden Wood surrounds Walden Pond and served as Thoreau’s retreat during his experiment in simple living. The wood was a source of inspiration and a setting for his observations of wildlife, including the hooting owl he describes. It symbolizes the harmony between humanity and nature that Thoreau sought to achieve."
+  - id: "fair-haven"
+    trigger: "Fair Haven"
+    title: "Fair Haven Bay"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven_Bay"
+    image_url: ""
+    image_caption: ""
+    content: "Fair Haven Bay is a part of the Sudbury River near Concord, Massachusetts. Thoreau mentions it as a destination for geese and hunters, reflecting its role as a habitat for wildlife. The bay’s inclusion in 'Walden' highlights Thoreau’s detailed observations of the interconnectedness of ecosystems."
+  - id: "hudsons-bay"
+    trigger: "Hudson’s Bay"
+    title: "Hudson’s Bay: Canadian Waters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hudson_Bay"
+    image_url: ""
+    image_caption: ""
+    content: "Hudson’s Bay is a large body of water in northeastern Canada. Thoreau references it to contrast the native owl’s voice with the honking of geese from distant regions. This juxtaposition emphasizes his appreciation for the local wildlife and its dominance in the Concord landscape."
+  - id: "sciurus-hudsonius"
+    trigger: "Sciurus Hudsonius"
+    title: "Red Squirrel: Sciurus Hudsonius"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_red_squirrel"
+    image_url: ""
+    image_caption: ""
+    content: "The American red squirrel, Sciurus Hudsonius, is a small tree squirrel native to North America. Thoreau’s detailed observations of their behavior, including their zig-zag movements and food habits, reflect his fascination with the minutiae of animal life. These squirrels are an integral part of the forest ecosystem, contributing to seed dispersal and biodiversity."
+  - id: "lepus-americanus"
+    trigger: "Lepus Americanus"
+    title: "Snowshoe Hare: Lepus Americanus"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Snowshoe_hare"
+    image_url: ""
+    image_caption: ""
+    content: "The snowshoe hare, Lepus Americanus, is a species adapted to cold climates, with large hind feet that help it move across snow. Thoreau’s encounters with hares near his home illustrate his empathy for wildlife and his recognition of their resilience in harsh conditions. The hare’s ability to thrive in winter symbolizes nature’s adaptability."
+  - id: "fair-haven-ledges"
+    trigger: "Fair Haven Ledges"
+    title: "Fair Haven Ledges"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven_Bay"
+    image_url: ""
+    image_caption: ""
+    content: "Fair Haven Ledges are rocky outcroppings near Fair Haven Bay in Concord. Thoreau recounts tales of Sam Nutting hunting bears in this area, reflecting the historical significance of hunting in the region. These ledges are part of the natural landscape that Thoreau admired and documented in his writings."
 ---
-When the pond is covered with ice, the **wild creatures** of the surrounding woods seem to draw closer to my dwelling, as if the frost had bridged the gap between our lives. The snow, pure and untrodden save for the tracks of the inhabitants of the forest, tells a story of their daily existence, and I find myself more attuned to their ways than ever. I observe them not as an intruder upon their domain, but as a neighbor, sharing this common wilderness. 
+When the ponds were firmly frozen, they afforded not only new and
+shorter routes to many points, but new views from their surfaces of the
+familiar landscape around them. When I crossed **Flint’s Pond**, after it
+was covered with snow, though I had often paddled about and skated over
+it, it was so unexpectedly wide and so strange that I could think of
+nothing but **Baffin’s Bay**. The **Lincoln hills** rose up around me at the
+extremity of a snowy plain, in which I did not remember to have stood
+before; and the fishermen, at an indeterminable distance over the ice,
+moving slowly about with their wolfish dogs, passed for sealers or
+**Esquimaux**, or in misty weather loomed like fabulous creatures, and I
+did not know whether they were giants or pygmies. I took this course
+when I went to lecture in Lincoln in the evening, travelling in no road
+and passing no house between my own hut and the lecture room. In Goose
+Pond, which lay in my way, a colony of **muskrats** dwelt, and raised their
+cabins high above the ice, though none could be seen abroad when I
+crossed it. Walden, being like the rest usually bare of snow, or with
+only shallow and interrupted drifts on it, was my yard, where I could
+walk freely when the snow was nearly two feet deep on a level elsewhere
+and the villagers were confined to their streets. There, far from the
+village street, and except at very long intervals, from the jingle of
+sleigh-bells, I slid and skated, as in a vast moose-yard well trodden,
+overhung by oak woods and solemn pines bent down with snow or bristling
+with icicles.
 
-The **red squirrel**, that nimble harlequin of the trees, darts across the crusted surface of the snow, chattering as if to warn me of his approach. He pauses on the edge of a stump, tail flicking, eyes bright and full of mischief, before disappearing into the underbrush. His energy is inexhaustible, his movements precise and purposeful. The gray squirrel, by contrast, is more deliberate in his manner, often stopping to dig into the snow for acorns remembered from the autumn, his faith in nature's provisions unwavering.
+For sounds in winter nights, and often in winter days, I heard the
+forlorn but melodious note of a hooting owl indefinitely far; such a
+sound as the frozen earth would yield if struck with a suitable
+plectrum, the very _lingua vernacula_ of **Walden Wood**, and quite
+familiar to me at last, though I never saw the bird while it was making
+it. I seldom opened my door in a winter evening without hearing it;
+_Hoo hoo hoo, hoorer, hoo,_ sounded sonorously, and the first three
+syllables accented somewhat like _how der do_; or sometimes _hoo hoo_
+only. One night in the beginning of winter, before the pond froze over,
+about nine o’clock, I was startled by the loud honking of a goose, and,
+stepping to the door, heard the sound of their wings like a tempest in
+the woods as they flew low over my house. They passed over the pond
+toward **Fair Haven**, seemingly deterred from settling by my light, their
+commodore honking all the while with a regular beat. Suddenly an
+unmistakable cat-owl from very near me, with the most harsh and
+tremendous voice I ever heard from any inhabitant of the woods,
+responded at regular intervals to the goose, as if determined to expose
+and disgrace this intruder from **Hudson’s Bay** by exhibiting a greater
+compass and volume of voice in a native, and _boo-hoo_ him out of
+Concord horizon. What do you mean by alarming the citadel at this time
+of night consecrated to me? Do you think I am ever caught napping at
+such an hour, and that I have not got lungs and a larynx as well as
+yourself? _Boo-hoo, boo-hoo, boo-hoo!_ It was one of the most thrilling
+discords I ever heard. And yet, if you had a discriminating ear, there
+were in it the elements of a concord such as these plains never saw nor
+heard.
 
-Beneath the snow, the **woodchuck** lies dormant, his burrow a snug retreat against the icy onslaught of the season. He dreams, perhaps, of the tender clover shoots and fresh grasses that will emerge when the frost recedes. Yet, even in his absence, his presence is felt, for the hollow mound that marks his dwelling serves as a reminder of the cyclical rhythm of life in these woods.
+I also heard the whooping of the ice in the pond, my great bed-fellow
+in that part of Concord, as if it were restless in its bed and would
+fain turn over, were troubled with flatulency and had dreams; or I was
+waked by the cracking of the ground by the frost, as if some one had
+driven a team against my door, and in the morning would find a crack in
+the earth a quarter of a mile long and a third of an inch wide.
 
-In the evenings, I hear the cry of the **fox**, sharp and clear against the still air, a note that seems to pierce the very fabric of winter. His tracks meander through the snow, weaving a tale of solitary wanderings, yet he is never truly alone. The forest is his companion, its shadows his refuge, its bounty his sustenance. I sense in him a kinship, for he, too, is a creature of the margins, thriving on the edges of the human realm.
+Sometimes I heard the foxes as they ranged over the snow crust, in
+moonlight nights, in search of a partridge or other game, barking
+raggedly and demoniacally like forest dogs, as if laboring with some
+anxiety, or seeking expression, struggling for light and to be dogs
+outright and run freely in the streets; for if we take the ages into
+our account, may there not be a civilization going on among brutes as
+well as men? They seemed to me to be rudimental, burrowing men, still
+standing on their defence, awaiting their transformation. Sometimes one
+came near to my window, attracted by my light, barked a vulpine curse
+at me, and then retreated.
 
-The **partridge**, or ruffed grouse, bursts forth in sudden flight from beneath the snow-laden hemlocks, startling me from my reverie. Her wings beat the air with a sound like rushing water, a reminder of the vitality that persists even in the heart of winter. She leaves behind a trail of feathers and tracks, a fleeting glimpse of her domain. I follow her traces for a time, marveling at the delicate imprint of her claws upon the snow's surface.
+Usually the **red squirrel** (_**Sciurus Hudsonius**_) waked me in the dawn,
+coursing over the roof and up and down the sides of the house, as if
+sent out of the woods for this purpose. In the course of the winter I
+threw out half a bushel of ears of sweet-corn, which had not got ripe,
+on to the snow crust by my door, and was amused by watching the motions
+of the various animals which were baited by it. In the twilight and the
+night the rabbits came regularly and made a hearty meal. All day long
+the red squirrels came and went, and afforded me much entertainment by
+their manœuvres. One would approach at first warily through the
+shrub-oaks, running over the snow crust by fits and starts like a leaf
+blown by the wind, now a few paces this way, with wonderful speed and
+waste of energy, making inconceivable haste with his “trotters,” as if
+it were for a wager, and now as many paces that way, but never getting
+on more than half a rod at a time; and then suddenly pausing with a
+ludicrous expression and a gratuitous somerset, as if all the eyes in
+the universe were fixed on him,—for all the motions of a squirrel, even
+in the most solitary recesses of the forest, imply spectators as much
+as those of a dancing girl,—wasting more time in delay and
+circumspection than would have sufficed to walk the whole distance,—I
+never saw one walk,—and then suddenly, before you could say Jack
+Robinson, he would be in the top of a young pitch-pine, winding up his
+clock and chiding all imaginary spectators, soliloquizing and talking
+to all the universe at the same time,—for no reason that I could ever
+detect, or he himself was aware of, I suspect. At length he would reach
+the corn, and selecting a suitable ear, frisk about in the same
+uncertain trigonometrical way to the top-most stick of my wood-pile,
+before my window, where he looked me in the face, and there sit for
+hours, supplying himself with a new ear from time to time, nibbling at
+first voraciously and throwing the half-naked cobs about; till at
+length he grew more dainty still and played with his food, tasting only
+the inside of the kernel, and the ear, which was held balanced over the
+stick by one paw, slipped from his careless grasp and fell to the
+ground, when he would look over at it with a ludicrous expression of
+uncertainty, as if suspecting that it had life, with a mind not made up
+whether to get it again, or a new one, or be off; now thinking of corn,
+then listening to hear what was in the wind. So the little impudent
+fellow would waste many an ear in a forenoon; till at last, seizing
+some longer and plumper one, considerably bigger than himself, and
+skilfully balancing it, he would set out with it to the woods, like a
+tiger with a buffalo, by the same zig-zag course and frequent pauses,
+scratching along with it as if it were too heavy for him and falling
+all the while, making its fall a diagonal between a perpendicular and
+horizontal, being determined to put it through at any rate;—a
+singularly frivolous and whimsical fellow;—and so he would get off with
+it to where he lived, perhaps carry it to the top of a pine tree forty
+or fifty rods distant, and I would afterwards find the cobs strewn
+about the woods in various directions.
 
-The **rabbit**, shy and soft-footed, ventures close to my cabin under the cover of twilight, nibbling at the bark of young saplings. His movements are cautious, his ears ever alert to the sounds of the forest. There is a quiet dignity in his actions, a patience born of necessity. His tracks, too, tell a story, looping and doubling back upon themselves in patterns that speak of both caution and curiosity.
+At length the jays arrive, whose discordant screams were heard long
+before, as they were warily making their approach an eighth of a mile
+off, and in a stealthy and sneaking manner they flit from tree to tree,
+nearer and nearer, and pick up the kernels which the squirrels have
+dropped. Then, sitting on a pitch-pine bough, they attempt to swallow
+in their haste a kernel which is too big for their throats and chokes
+them; and after great labor they disgorge it, and spend an hour in the
+endeavor to crack it by repeated blows with their bills. They were
+manifestly thieves, and I had not much respect for them; but the
+squirrels, though at first shy, went to work as if they were taking
+what was their own.
 
-The **owl**, silent and majestic, surveys the landscape from his perch atop a bare branch, his eyes gleaming like twin moons. The stillness of his vigil is profound, and I feel that he is not merely observing, but contemplating the essence of the world laid bare before him. His hoot, low and resonant, carries through the night like an ancient chant, binding the present to the distant past.
+Meanwhile also came the **chickadees** in flocks, which, picking up the
+crumbs the squirrels had dropped, flew to the nearest twig, and,
+placing them under their claws, hammered away at them with their little
+bills, as if it were an insect in the bark, till they were sufficiently
+reduced for their slender throats. A little flock of these tit-mice
+came daily to pick a dinner out of my wood-pile, or the crumbs at my
+door, with faint flitting lisping notes, like the tinkling of icicles
+in the grass, or else with sprightly _day day day_, or more rarely, in
+spring-like days, a wiry summery _phe-be_ from the wood-side. They were
+so familiar that at length one alighted on an armful of wood which I
+was carrying in, and pecked at the sticks without fear. I once had a
+sparrow alight upon my shoulder for a moment while I was hoeing in a
+village garden, and I felt that I was more distinguished by that
+circumstance than I should have been by any epaulet I could have worn.
+The squirrels also grew at last to be quite familiar, and occasionally
+stepped upon my shoe, when that was the nearest way.
 
-The **muskrat**, dwelling in his watery domain, is undeterred by the freeze. He navigates the pond's icy edges with ease, his sleek form cutting through the cold with a confidence born of adaptation. I watch him as he gathers reeds for his lodge, his industry a reminder of the ceaseless labor required to endure the season's hardships.
+When the ground was not yet quite covered, and again near the end of
+winter, when the snow was melted on my south hill-side and about my
+wood-pile, the partridges came out of the woods morning and evening to
+feed there. Whichever side you walk in the woods the partridge bursts
+away on whirring wings, jarring the snow from the dry leaves and twigs
+on high, which comes sifting down in the sun-beams like golden dust;
+for this brave bird is not to be scared by winter. It is frequently
+covered up by drifts, and, it is said, “sometimes plunges from on wing
+into the soft snow, where it remains concealed for a day or two.” I
+used to start them in the open land also, where they had come out of
+the woods at sunset to “bud” the wild apple-trees. They will come
+regularly every evening to particular trees, where the cunning
+sportsman lies in wait for them, and the distant orchards next the
+woods suffer thus not a little. I am glad that the partridge gets fed,
+at any rate. It is Nature’s own bird which lives on buds and
+diet-drink.
 
-As the snow deepens, the **chickadees** and **nuthatches** flit about the woods, their songs a welcome melody against the winter's silence. They are small and unassuming, yet their cheerfulness seems to defy the bleakness of the landscape. Their resilience is a lesson, their presence a comfort. I scatter crumbs near my cabin door, and they come closer, their trust a gift freely given.
+In dark winter mornings, or in short winter afternoons, I sometimes
+heard a pack of hounds threading all the woods with hounding cry and
+yelp, unable to resist the instinct of the chase, and the note of the
+hunting horn at intervals, proving that man was in the rear. The woods
+ring again, and yet no fox bursts forth on to the open level of the
+pond, nor following pack pursuing their Actæon. And perhaps at evening
+I see the hunters returning with a single brush trailing from their
+sleigh for a trophy, seeking their inn. They tell me that if the fox
+would remain in the bosom of the frozen earth he would be safe, or if
+he would run in a straight line away no fox-hound could overtake him;
+but, having left his pursuers far behind, he stops to rest and listen
+till they come up, and when he runs he circles round to his old haunts,
+where the hunters await him. Sometimes, however, he will run upon a
+wall many rods, and then leap off far to one side, and he appears to
+know that water will not retain his scent. A hunter told me that he
+once saw a fox pursued by hounds burst out on to Walden when the ice
+was covered with shallow puddles, run part way across, and then return
+to the same shore. Ere long the hounds arrived, but here they lost the
+scent. Sometimes a pack hunting by themselves would pass my door, and
+circle round my house, and yelp and hound without regarding me, as if
+afflicted by a species of madness, so that nothing could divert them
+from the pursuit. Thus they circle until they fall upon the recent
+trail of a fox, for a wise hound will forsake every thing else for
+this. One day a man came to my hut from Lexington to inquire after his
+hound that made a large track, and had been hunting for a week by
+himself. But I fear that he was not the wiser for all I told him, for
+every time I attempted to answer his questions he interrupted me by
+asking, “What do you do here?” He had lost a dog, but found a man.
 
-Even the **weasel**, that cunning and elusive hunter, makes his appearance, his slender form darting across the snow with an urgency that speaks of hunger. He is a creature of stealth, his movements nearly imperceptible save for the faintest trace of his passage. Yet his eyes, bright and calculating, betray a mind ever vigilant, ever engaged in the pursuit of survival.
+One old hunter who has a dry tongue, who used to come to bathe in
+Walden once every year when the water was warmest, and at such times
+looked in upon me, told me that many years ago he took his gun one
+afternoon and went out for a cruise in Walden Wood; and as he walked
+the Wayland road he heard the cry of hounds approaching, and ere long a
+fox leaped the wall into the road, and as quick as thought leaped the
+other wall out of the road, and his swift bullet had not touched him.
+Some way behind came an old hound and her three pups in full pursuit,
+hunting on their own account, and disappeared again in the woods. Late
+in the afternoon, as he was resting in the thick woods south of Walden,
+he heard the voice of the hounds far over toward Fair Haven still
+pursuing the fox; and on they came, their hounding cry which made all
+the woods ring sounding nearer and nearer, now from Well-Meadow, now
+from the Baker Farm. For a long time he stood still and listened to
+their music, so sweet to a hunter’s ear, when suddenly the fox
+appeared, threading the solemn aisles with an easy coursing pace, whose
+sound was concealed by a sympathetic rustle of the leaves, swift and
+still, keeping the ground, leaving his pursuers far behind; and,
+leaping upon a rock amid the woods, he sat erect and listening, with
+his back to the hunter. For a moment compassion restrained the latter’s
+arm; but that was a short-lived mood, and as quick as thought can
+follow thought his piece was levelled, and _whang!_—the fox rolling
+over the rock lay dead on the ground. The hunter still kept his place
+and listened to the hounds. Still on they came, and now the near woods
+resounded through all their aisles with their demoniac cry. At length
+the old hound burst into view with muzzle to the ground, and snapping
+the air as if possessed, and ran directly to the rock; but spying the
+dead fox she suddenly ceased her hounding as if struck dumb with
+amazement, and walked round and round him in silence; and one by one
+her pups arrived, and, like their mother, were sobered into silence by
+the mystery. Then the hunter came forward and stood in their midst, and
+the mystery was solved. They waited in silence while he skinned the
+fox, then followed the brush a while, and at length turned off into the
+woods again. That evening a Weston Squire came to the Concord hunter’s
+cottage to inquire for his hounds, and told how for a week they had
+been hunting on their own account from Weston woods. The Concord hunter
+told him what he knew and offered him the skin; but the other declined
+it and departed. He did not find his hounds that night, but the next
+day learned that they had crossed the river and put up at a farm-house
+for the night, whence, having been well fed, they took their departure
+early in the morning.
 
-In this season of scarcity, the forest is alive with activity, its inhabitants bound together by the shared struggle against the cold. Each creature bears the mark of winter, whether in the hoardings of the squirrel, the slumber of the woodchuck, or the wary footsteps of the fox. I, too, am a part of this landscape, a witness to its trials, a participant in its rhythms. The snow is not merely a barrier but a canvas upon which life writes its enduring tale.
+The hunter who told me this could remember one **Sam Nutting**, who used to
+hunt bears on **Fair Haven Ledges**, and exchange their skins for rum in
+Concord village; who told him, even, that he had seen a moose there.
+Nutting had a famous fox-hound named Burgoyne,—he pronounced it
+Bugine,—which my informant used to borrow. In the “Wast Book” of an old
+trader of this town, who was also a captain, town-clerk, and
+representative, I find the following entry. Jan. 18th, 1742–3, “John
+Melven Cr. by 1 Grey Fox 0—2—3;” they are not now found here; and in
+his ledger, Feb. 7th, 1743, Hezekiah Stratton has credit “by ½ a Catt
+skin 0—1—4½;” of course, a wild-cat, for Stratton was a sergeant in the
+old French war, and would not have got credit for hunting less noble
+game. Credit is given for deer skins also, and they were daily sold.
+One man still preserves the horns of the last deer that was killed in
+this vicinity, and another has told me the particulars of the hunt in
+which his uncle was engaged. The hunters were formerly a numerous and
+merry crew here. I remember well one gaunt Nimrod who would catch up a
+leaf by the road-side and play a strain on it wilder and more
+melodious, if my memory serves me, than any hunting-horn.
 
-The **ice on Walden Pond**, thick and unyielding, seems to hold within it the essence of the season. It is a mirror of the sky, reflecting the pale light of the sun and the cold gleam of the stars. I tread upon its surface with reverence, aware of the depth beneath my feet, the silent world that lies suspended in a crystalline embrace. The ice is a paradox—fragile, yet enduring, transparent, yet concealing. It is a testament to the power of nature to transform and preserve, to challenge and sustain.
+At midnight, when there was a moon, I sometimes met with hounds in my
+path prowling about the woods, which would skulk out of my way, as if
+afraid, and stand silent amid the bushes till I had passed.
 
-As I sit by my fireside, the sounds of the forest come to me like echoes of a distant symphony. The howl of the wind through the trees, the rustle of branches heavy with snow, the calls of the creatures that inhabit this frozen world—all weave together into a tapestry of winter. I am not apart from it, but within it, my own breath mingling with the frost, my own pulse beating in time with the rhythm of the woods.
+Squirrels and wild mice disputed for my store of nuts. There were
+scores of pitch-pines around my house, from one to four inches in
+diameter, which had been gnawed by mice the previous winter,—a
+Norwegian winter for them, for the snow lay long and deep, and they
+were obliged to mix a large proportion of pine bark with their other
+diet. These trees were alive and apparently flourishing at mid-summer,
+and many of them had grown a foot, though completely girdled; but after
+another winter such were without exception dead. It is remarkable that
+a single mouse should thus be allowed a whole pine tree for its dinner,
+gnawing round instead of up and down it; but perhaps it is necessary in
+order to thin these trees, which are wont to grow up densely.
 
-In this season, solitude is not loneliness, but communion. The creatures of the forest are my companions, their struggles a mirror of my own. I learn from their patience, their ingenuity, their tenacity. They remind me that life persists, even in the harshest of conditions, and that beauty can be found in the simplest of moments—a squirrel's leap, a rabbit's pause, an owl's gaze. Winter, though austere, is not barren; it is rich with the quiet drama of survival, the subtle poetry of existence.
+The hares (_**Lepus Americanus**_) were very familiar. One had her form
+under my house all winter, separated from me only by the flooring, and
+she startled me each morning by her hasty departure when I began to
+stir,—thump, thump, thump, striking her head against the floor timbers
+in her hurry. They used to come round my door at dusk to nibble the
+potato parings which I had thrown out, and were so nearly the color of
+the ground that they could hardly be distinguished when still.
+Sometimes in the twilight I alternately lost and recovered sight of one
+sitting motionless under my window. When I opened my door in the
+evening, off they would go with a squeak and a bounce. Near at hand
+they only excited my pity. One evening one sat by my door two paces
+from me, at first trembling with fear, yet unwilling to move; a poor
+wee thing, lean and bony, with ragged ears and sharp nose, scant tail
+and slender paws. It looked as if Nature no longer contained the breed
+of nobler bloods, but stood on her last toes. Its large eyes appeared
+young and unhealthy, almost dropsical. I took a step, and lo, away it
+scud with an elastic spring over the snow crust, straightening its body
+and its limbs into graceful length, and soon put the forest between me
+and itself,—the wild free venison, asserting its vigor and the dignity
+of Nature. Not without reason was its slenderness. Such then was its
+nature. (_Lepus_, _levipes_, light-foot, some think.)
 
-Thus, as the days grow shorter and the nights colder, I find myself more deeply connected to the world around me. The snow, the ice, the creatures—all are part of the same great cycle, the same enduring truth. And as I listen to the call of the fox or watch the flight of the partridge, I feel that I am not merely observing, but participating in the life of this winter wilderness, a life that is as timeless as the forest itself.
+What is a country without rabbits and partridges? They are among the
+most simple and indigenous animal products; ancient and venerable
+families known to antiquity as to modern times; of the very hue and
+substance of Nature, nearest allied to leaves and to the ground,—and to
+one another; it is either winged or it is legged. It is hardly as if
+you had seen a wild creature when a rabbit or a partridge bursts away,
+only a natural one, as much to be expected as rustling leaves. The
+partridge and the rabbit are still sure to thrive, like true natives of
+the soil, whatever revolutions occur. If the forest is cut off, the
+sprouts and bushes which spring up afford them concealment, and they
+become more numerous than ever. That must be a poor country indeed that
+does not support a hare. Our woods teem with them both, and around
+every swamp may be seen the partridge or rabbit walk, beset with twiggy
+fences and horse-hair snares, which some cow-boy tends.

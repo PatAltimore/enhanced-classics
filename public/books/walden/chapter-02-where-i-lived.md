@@ -9,121 +9,606 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau almost bought the Hollowell farm — then realized he had already possessed it fully through attention alone, without needing the deed."
-    link: "https://en.wikipedia.org/wiki/Walden"
-    link_label: "Walden on Wikipedia"
-  - point: "Morning is the most important hour. To be truly awake — alert, expectant, alive to possibility — is a form of genius most adults surrender before breakfast."
+  - point: "Thoreau reflects on his imaginative exploration of local farms and his philosophical approach to ownership."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    link_label: "Henry David Thoreau on Wikipedia"
-  - point: "\"I went to the woods because I wished to live deliberately\" — the most radical act Thoreau could imagine was simply paying full attention to his own life."
+    link_label: "Henry David Thoreau"
+  - point: "He describes his brief ownership of the Hollowell place and the philosophical lessons he learned from the experience."
     link: "https://en.wikipedia.org/wiki/Walden"
-    link_label: "Walden on Wikipedia"
-  - point: "Thoreau read the Harivansa, the Bhagavad Gita, and the Laws of Manu in his cabin — finding in Hindu scripture a vision of time and self-discipline unlike anything in Western tradition."
+    link_label: "Walden"
+  - point: "Thoreau recounts his decision to live deliberately in the woods, starting on Independence Day, 1845."
+    link: "https://en.wikipedia.org/wiki/Fourth_of_July"
+    link_label: "Fourth of July"
+  - point: "He emphasizes the importance of simplicity and rejecting societal excess, likening his approach to Spartan ideals."
+    link: "https://en.wikipedia.org/wiki/Sparta"
+    link_label: "Sparta"
+  - point: "Thoreau critiques the hurried pace of modern life and advocates for deliberate living and connection to nature."
     link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism on Wikipedia"
-  - point: "\"Time is but the stream I go a-fishing in\" — the eternal present is always available, always being missed by those too busy to stop and feel it."
-    link: "https://en.wikipedia.org/wiki/Eternity"
-    link_label: "Eternity on Wikipedia"
-  - point: "Hindu cosmology imagines a single day in Brahma's life as 4.32 billion years — longer than our sun will burn. Thoreau used this scale to put human urgency in its proper place."
-    link: "https://en.wikipedia.org/wiki/Brahma"
-    link_label: "Brahma on Wikipedia"
+    link_label: "Transcendentalism"
+  - point: "He reflects on the concept of time and eternity, using the metaphor of fishing in a stream to explore deeper truths."
+    link: "https://en.wikipedia.org/wiki/Philosophy_of_time"
+    link_label: "Philosophy of time"
 
 enhancements:
-  - id: "hollowell-farm"
-    trigger: "Hollowell farm"
-    title: "The Farm He Almost Bought — and Why He Was Glad He Didn't"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Walden_Colorado_Main_Street.jpg/330px-Walden_Colorado_Main_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Main street Walden, Colorado (CC BY-SA 3.0)"
-    content: "The farmer's name was Hollowell, and he had agreed to sell. Thoreau had made his deposit. He was already mentally planting his garden, already imagining his life in the farmhouse, already possessing the place in every sense that mattered. Then the farmer's wife changed her mind. The deal collapsed. And Thoreau, sitting with the ruins of the transaction, realized something that struck him as genuinely amusing: he had possessed the farm more completely during those weeks of anticipation than the farmer had in years of actual ownership. What Thoreau understood — and what would take economists another century to begin to theorize — is that ownership and possession are different things entirely. You own a thing through legal documents and property tax. You possess it through attention, through knowing it, through having it change you. The man who has walked every acre of a woodlot in all four seasons possesses it more completely than the man who holds the deed and has never left the road."
-  - id: "morning-wakefulness"
-    trigger: "morning"
-    title: "The Hour Everything Depends On"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    image_url: ""
-    image_caption: "Sunrise — the hour Thoreau called the most important of the day"
-    content: "Every day at Walden began the same way. Thoreau rose before dawn, walked to the pond, stripped, and swam. The water was cold even in summer. He was in the water before most of his Concord neighbors had opened their eyes. This was not asceticism — it was strategy. He had concluded, through careful observation of his own mind, that the hours immediately after waking were the clearest, most alive, most capable of genuine thought. Morning was when he wrote, when he thought best, when he felt most himself. Every afternoon was a slight falling away from that morning standard. He organized his entire life to protect those first hours. The Vedas say: all intelligences awake with the morning. Poetry and art, and the fairest and most memorable of the actions of men, date from such an hour. To be awakened by a mechanical alarm, Thoreau felt, was to start the day already defeated — to have surrendered the most important moment before it arrived."
-  - id: "chanticleer"
-    trigger: "Chanticleer"
-    title: "The Rooster Who Wakes the World"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nun%27s_Priest%27s_Tale"
-    image_url: ""
-    image_caption: "A domestic rooster — the animal Thoreau chose as his symbol for Walden"
-    content: "Chanticleer is the rooster in Chaucer's Canterbury Tales — a bird of enormous self-regard who believes, not entirely without justification, that his crowing causes the sun to rise. Thoreau borrowed him as a self-portrait: a man crowing loudly in the woods, possibly delusional about his own importance, but crowing nonetheless because the day demands it. The rooster's crow is one of the oldest human alarm clocks — before mechanical timekeeping, before church bells, before any of the machinery of scheduled civilization, there was a bird whose body was attuned to the pre-dawn light and who announced it loudly to anyone within range. Thoreau crows too, but for a different kind of waking. Not the waking of bodies that need to get to work, but the waking of minds that have been half-asleep for years, going through the motions of a life they never consciously chose. He is under no illusion that everyone will thank him for it."
-  - id: "live-deliberately"
-    trigger: "live deliberately"
-    title: "Two Words That Changed How a Generation Thought About Life"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
-    image_url: ""
-    image_caption: "Mahatma Gandhi at his spinning wheel, 1942 — a direct inheritor of Thoreau's philosophy"
-    content: "The phrase sits at the center of Walden like a hinge. Everything before it is diagnosis — the problem of unconscious, inherited, unconsidered lives. Everything after it is prescription — here is what a different kind of life might look like. To live deliberately means to make conscious choices rather than to let circumstance and convention choose for you. It is not the same as living simply, or living in the woods, or owning few possessions — those are instruments, not ends. The end is awareness: to know why you are doing what you are doing, and to have chosen it. Mahatma Gandhi read Walden in a South African jail in 1908 and wrote about it immediately. He recognized in Thoreau's phrase a description of what he was trying to build: a movement of people who had examined their own complicity in an unjust system and chosen, deliberately, to stop cooperating. The phrase has since traveled through every generation of Americans who felt that something important was missing from the life they had been handed."
-  - id: "simplicity-ch2"
-    trigger: "Simplicity, simplicity, simplicity!"
-    title: "The Attention Economy Thoreau Could Not Have Imagined — and Perfectly Described"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Attention_economy"
+  - id: "real-estate-broker"
+    trigger: "real-estate broker"
+    title: "Role of Real Estate Brokers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Real_estate_broker"
     image_url: ""
     image_caption: ""
-    content: "Thoreau was writing about the complexity of 1845 New England — a world of farms, mortgages, railroads, and dry-goods accounts. The average Concord household managed perhaps a dozen ongoing obligations. By that standard, the complexity he urged his neighbors to simplify was almost quaint. Every app on a modern phone is designed by teams of behavioral scientists specifically to prevent simplicity — to multiply choices, multiply notifications, multiply obligations, multiply reasons to look again and stay longer. Thoreau's prescription — let your affairs be as two or three, not a hundred or a thousand — has never been more radical or more difficult to follow. The machinery of modern life is not accidentally complicated. Complexity is a product, engineered and sold to you at every moment of the day. Thoreau saw the mechanism before the machine was built: that a life divided into a thousand small demands is a life that belongs to those making the demands, not to the person living it."
-  - id: "concord-river"
-    trigger: "Concord River"
-    title: "The River That Taught Two Writers How to See"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Concord_River"
+    content: "Thoreau humorously refers to himself as a 'real-estate broker' due to his imaginative exploration of local farms. Real estate brokers are professionals who facilitate property transactions, often serving as intermediaries between buyers and sellers. Thoreau's philosophical musings contrast sharply with the commercial nature of real estate, highlighting his rejection of materialism and ownership."
+  - id: "sedes"
+    trigger: "sedes"
+    title: "Latin Origins of 'Sedes'"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Latin"
     image_url: ""
-    image_caption: "The Concord River, Massachusetts"
-    content: "In 1839, six years before Thoreau moved to Walden, he and his brother John built a wooden boat and spent two weeks paddling the Concord and Merrimack Rivers. He kept careful notes. A Week on the Concord and Merrimack Rivers (1849) was the first book he published — and nearly his last, since it sold poorly and left him in debt for years. The Concord River had been an artery for indigenous peoples for thousands of years before the English arrived; its banks were farmed by the Musketaquid people, whose name for the river means grassy ground. By the 1840s it was partly industrial — mill dams had lowered the water table, draining meadows the original farmers had relied on. Thoreau recorded these changes meticulously in his journals, tracking water levels, plant species, and bird migrations over decades. He was practicing what would later be called ecology — the study of living systems as integrated wholes — before the word existed."
-  - id: "harivansa"
-    trigger: "Harivansa"
-    title: "The Sanskrit Epic That Found Its Way to a Massachusetts Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Harivamsa"
+    image_caption: ""
+    content: "Thoreau uses the Latin term 'sedes,' meaning 'seat,' to describe a house. This reflects his classical education and the influence of ancient languages on his writing. Latin has historically been a language of scholarship and philosophy, and its use here underscores Thoreau's intellectual approach to simple living."
+  - id: "hollowell-place"
+    trigger: "Hollowell place"
+    title: "The Hollowell Place"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
-    image_caption: "A 19th-century Bhagavad Gita manuscript — one of the Sanskrit texts Thoreau studied at Walden"
-    content: "The Harivansa is a vast Sanskrit poem — an appendix to the Mahabharata, running to nearly 16,000 verses — that tells the story of the god Krishna's earthly life. Thoreau read it in a French translation borrowed from Emerson, sitting in his cabin through the winters of 1845 to 1847. He was one of a very small number of Americans who had access to Hindu scripture at that time; most translations had been made by European Orientalist scholars and were barely available outside academic libraries. What Thoreau found in the Harivansa — and in the Bhagavad Gita, and in the Laws of Manu — was a framework for thinking about consciousness, time, and the obligations of a human life that felt more precise and more honest than anything he had encountered in the Western tradition. He was not converting to Hinduism. He was using Sanskrit philosophy the way a carpenter uses the best available tool: for what it could actually do."
-  - id: "manu"
-    trigger: "Manu"
-    title: "The Lawgiver Who Wrote the Rules — and the Student He Admired"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Manu_(Hinduism)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Statue_of_Manu.jpg/330px-Statue_of_Manu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Statue of Manu by Augustus Lukeman (Public domain)"
-    content: "The Laws of Manu — compiled sometime between 200 BCE and 200 CE — is one of the foundational texts of Hindu jurisprudence and social organization. It codifies duties for each stage of life, rules for diet and conduct, and elaborate provisions for the social hierarchy that governed Indian society for centuries. Thoreau read it carefully. He was drawn above all to its prescriptions for the brahmacharya stage of life — the student phase, characterized by study, self-discipline, and the cultivation of inner life before taking on worldly obligations. He saw his Walden years as a version of this: a deliberate withdrawal from the economy of conventional life for the purpose of learning what life actually required. Manu prescribes that the student examine his own conduct every evening as carefully as a physician examines a patient. Thoreau found this intensely practical. Convention provides so many defaults that to actually look at your own life requires the courage of a stranger arriving for the first time."
-  - id: "brahma"
-    trigger: "Brahma"
-    title: "The Creator Who Measures Time in Billions of Years"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Brahma"
+    image_caption: ""
+    content: "The Hollowell place was a farm Thoreau briefly owned but never fully possessed. This anecdote illustrates his philosophical stance on ownership and material wealth. The farm's rural isolation and natural beauty appealed to Thoreau's transcendentalist ideals, emphasizing simplicity and connection to nature."
+  - id: "atlas"
+    trigger: "Atlas"
+    title: "Atlas in Greek Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Atlas_(mythology)"
     image_url: ""
-    image_caption: "Brahma, ceiling relief, Huchchappaiyya Gudi temple, Karnataka, 7th century"
-    content: "In Hindu cosmology, Brahma is the creator deity — one of the Trimurti alongside Vishnu the preserver and Shiva the destroyer. What fascinated Thoreau was the scale of time that Hindu cosmology proposed. A single day in Brahma's life — called a Kalpa — lasts 4.32 billion years. A human lifetime, by this measure, is not even a blink. The age of the universe as understood by modern physics is approximately 13.8 billion years — roughly three Brahma days. When Thoreau read this in his Walden cabin, he felt something he struggled to put into words: a sudden loosening of the grip that daily urgency held on him. If you are a temporary organism on a temporary planet in a universe measuring time in billions of years, the question of whether to plant beans or pay debts ceases to feel pressing in the way convention insists it should. This is what Thoreau meant by eternity — not a long time, but a completely different relationship to time."
-  - id: "time-stream"
-    trigger: "stream I go a-fishing in"
-    title: "The Present Moment Is All There Is — and You Are Already Missing It"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eternity"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Georgin_Fran%C3%A7ois%2C_The_3_Roads_to_Eternity%2C_1825_Cornell_CUL_PJM_1040_01.jpg/330px-Georgin_Fran%C3%A7ois%2C_The_3_Roads_to_Eternity%2C_1825_Cornell_CUL_PJM_1040_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "This is a folk-art allegorical map based on Matthew 7:13-14 Bible Gateway by the woodcutter Georgin François in 1825. (Public domain)"
-    content: "The most famous line in this chapter is also its strangest. Time is but the stream I go a-fishing in reads like a Zen koan — something that seems to make sense, and then, if you hold it long enough, opens into a puzzle. The stream is time: it flows, you stand in it, you draw things from it. But the fisherman who drinks from the stream sees the sandy bottom — how shallow it is. Time, Thoreau is saying, is not the deep thing it seems. Eternity is the bottom. The present moment — this specific instant of experience — is where eternity lives. Not in the future, which has not arrived; not in the past, which is gone. Here, now, in the pond, in the morning light, in the feel of cold water. Every major contemplative tradition converges on some version of this insight: Buddhism, Stoicism, the Quakers who lived near Thoreau, the Hindu philosophy he read through long New England winters. The difficulty is not understanding it. The difficulty is that everything in modern life is engineered to make you live somewhere other than the present moment."
+    image_caption: ""
+    content: "Thoreau invokes the image of Atlas, the Titan condemned to hold up the heavens. This mythological reference symbolizes the burden of responsibility and the weight of the world, paralleling Thoreau's philosophical exploration of self-reliance and deliberate living."
+  - id: "de-re-rustica"
+    trigger: "De Re Rusticâ"
+    title: "Cato's 'De Re Rustica'"
+    wikipedia_url: "https://en.wikipedia.org/wiki/De_agri_cultura"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau references 'De Re Rustica,' an ancient Roman agricultural text by Cato the Elder. This work provides practical advice on farming and reflects the Roman emphasis on self-sufficiency and stewardship of the land, aligning with Thoreau's ideals of simplicity and deliberate living."
+  - id: "cassiopeias-chair"
+    trigger: "Cassiopeia’s Chair"
+    title: "Cassiopeia Constellation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
+    image_url: ""
+    image_caption: ""
+    content: "Cassiopeia is a prominent constellation in the northern sky, named after a queen in Greek mythology. Thoreau's reference to it symbolizes his philosophical exploration of celestial and remote realms, emphasizing his connection to the universe and the transcendentalist pursuit of higher truths."
+  - id: "pleiades"
+    trigger: "Pleiades"
+    title: "The Pleiades Star Cluster"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pleiades"
+    image_url: ""
+    image_caption: ""
+    content: "The Pleiades are a star cluster visible to the naked eye, often associated with mythology and navigation. Thoreau's mention of the Pleiades reflects his fascination with astronomy and the transcendentalist idea of finding meaning in the natural world."
+  - id: "aurora"
+    trigger: "Aurora"
+    title: "Aurora in Greek Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Aurora_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "Aurora, the Roman goddess of dawn, symbolizes renewal and awakening. Thoreau's admiration for Aurora reflects his belief in the transformative power of morning and its connection to intellectual and spiritual awakening, central themes in his philosophy."
+  - id: "spartan-like"
+    trigger: "Spartan-like"
+    title: "Spartan Philosophy and Lifestyle"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sparta"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's reference to living 'Spartan-like' evokes the austere and disciplined lifestyle of ancient Sparta. This aligns with his advocacy for simplicity and focus on essential truths, rejecting the excesses of modern society."
+  - id: "memnon"
+    trigger: "Memnon"
+    title: "Memnon in Greek Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Memnon_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "Memnon, a hero of the Trojan War, was said to emit music at sunrise. Thoreau uses this mythological figure to emphasize the connection between morning and creativity, reflecting his transcendentalist belief in the inspirational power of nature."
 ---
-At a certain season of our life we are accustomed to consider every spot as the possible site of a house. I have thus surveyed the country on every side within a dozen miles of where I live. In imagination I have bought all the farms in succession, for all were to be bought, and I knew their price.
+At a certain season of our life we are accustomed to consider every
+spot as the possible site of a house. I have thus surveyed the country
+on every side within a dozen miles of where I live. In imagination I
+have bought all the farms in succession, for all were to be bought, and
+I knew their price. I walked over each farmer’s premises, tasted his
+wild apples, discoursed on husbandry with him, took his farm at his
+price, at any price, mortgaging it to him in my mind; even put a higher
+price on it,—took everything but a deed of it,—took his word for his
+deed, for I dearly love to talk,—cultivated it, and him too to some
+extent, I trust, and withdrew when I had enjoyed it long enough,
+leaving him to carry it on. This experience entitled me to be regarded
+as a sort of **real-estate broker** by my friends. Wherever I sat, there I
+might live, and the landscape radiated from me accordingly. What is a
+house but a _**sedes**_, a seat?—better if a country seat. I discovered
+many a site for a house not likely to be soon improved, which some
+might have thought too far from the village, but to my eyes the village
+was too far from it. Well, there I might live, I said; and there I did
+live, for an hour, a summer and a winter life; saw how I could let the
+years run off, buffet the winter through, and see the spring come in.
+The future inhabitants of this region, wherever they may place their
+houses, may be sure that they have been anticipated. An afternoon
+sufficed to lay out the land into orchard, woodlot, and pasture, and to
+decide what fine oaks or pines should be left to stand before the door,
+and whence each blasted tree could be seen to the best advantage; and
+then I let it lie, fallow perchance, for a man is rich in proportion to
+the number of things which he can afford to let alone.
 
-I once had it in mind to purchase the **Hollowell farm**, and had begun to sort my seeds. The owner agreed to sell. I had made my deposit. But before the owner gave me a deed, his wife — every man has such a wife — changed her mind and wished to keep it. Before I knew what had happened, I found I had been a rich man without any damage to my poverty. The virtue of possession is in the possessing, not the owning. I had carried it far enough.
+My imagination carried me so far that I even had the refusal of several
+farms,—the refusal was all I wanted,—but I never got my fingers burned
+by actual possession. The nearest that I came to actual possession was
+when I bought the **Hollowell place**, and had begun to sort my seeds, and
+collected materials with which to make a wheelbarrow to carry it on or
+off with; but before the owner gave me a deed of it, his wife—every man
+has such a wife—changed her mind and wished to keep it, and he offered
+me ten dollars to release him. Now, to speak the truth, I had but ten
+cents in the world, and it surpassed my arithmetic to tell, if I was
+that man who had ten cents, or who had a farm, or ten dollars, or all
+together. However, I let him keep the ten dollars and the farm too, for
+I had carried it far enough; or rather, to be generous, I sold him the
+farm for just what I gave for it, and, as he was not a rich man, made
+him a present of ten dollars, and still had my ten cents, and seeds,
+and materials for a wheelbarrow left. I found thus that I had been a
+rich man without any damage to my poverty. But I retained the
+landscape, and I have since annually carried off what it yielded
+without a wheelbarrow. With respect to landscapes,—
 
-What I wished to possess was not a legal description but the particular slant of light across the south pasture, the way the old apple trees threw their shadows in July, the sound of the river against the bank on a still night. These things I had possessed completely during my weeks of anticipation. The deed would have added nothing.
+     “I am monarch of all I _survey_,
+     My right there is none to dispute.”
 
-I determined to go to the Walden woods, and to build a small house on the shore of the pond where I had already spent so many mornings. It was a pleasant hillside where I worked, covered with pine woods, through which I looked out on the pond, and a small open field in the woods where pines and hickories were springing up.
+I have frequently seen a poet withdraw, having enjoyed the most
+valuable part of a farm, while the crusty farmer supposed that he had
+got a few wild apples only. Why, the owner does not know it for many
+years when a poet has put his farm in rhyme, the most admirable kind of
+invisible fence, has fairly impounded it, milked it, skimmed it, and
+got all the cream, and left the farmer only the skimmed milk.
 
-**Every morning** was a cheerful invitation to make my life of equal simplicity with Nature herself. I have been as sincere a worshipper of Aurora as the Greeks. I got up early and bathed in the pond; that was a religious exercise, and one of the best things which I did. They say that characters were engraved on the bathing tub of King Tching-thang to this effect: "Renew thyself completely each day; do it again, and again, and forever again." Morning brings back the heroic ages. Little is to be expected of that day to which we are not awakened by our own Genius, but by the mechanical nudgings of a servitor.
+The real attractions of the Hollowell farm, to me, were; its complete
+retirement, being, about two miles from the village, half a mile from
+the nearest neighbor, and separated from the highway by a broad field;
+its bounding on the river, which the owner said protected it by its
+fogs from frosts in the spring, though that was nothing to me; the gray
+color and ruinous state of the house and barn, and the dilapidated
+fences, which put such an interval between me and the last occupant;
+the hollow and lichen-covered apple trees, gnawed by rabbits, showing
+what kind of neighbors I should have; but above all, the recollection I
+had of it from my earliest voyages up the river, when the house was
+concealed behind a dense grove of red maples, through which I heard the
+house-dog bark. I was in haste to buy it, before the proprietor
+finished getting out some rocks, cutting down the hollow apple trees,
+and grubbing up some young birches which had sprung up in the pasture,
+or, in short, had made any more of his improvements. To enjoy these
+advantages I was ready to carry it on; like **Atlas**, to take the world on
+my shoulders,—I never heard what compensation he received for that,—and
+do all those things which had no other motive or excuse but that I
+might pay for it and be unmolested in my possession of it; for I knew
+all the while that it would yield the most abundant crop of the kind I
+wanted if I could only afford to let it alone. But it turned out as I
+have said.
 
-I propose to brag as lustily as a **Chanticleer** in the morning, standing on his roost, if only to wake my neighbors up. To be awake is to be alive. I have never yet met a man who was quite awake. How could I have looked him in the face?
+All that I could say, then, with respect to farming on a large scale,
+(I have always cultivated a garden,) was, that I had had my seeds
+ready. Many think that seeds improve with age. I have no doubt that
+time discriminates between the good and the bad; and when at last I
+shall plant, I shall be less likely to be disappointed. But I would say
+to my fellows, once for all, As long as possible live free and
+uncommitted. It makes but little difference whether you are committed
+to a farm or the county jail.
 
-I went to the woods because I wished to **live deliberately**, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practice resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, and not, when I had come to die, discover that I had not lived.
+Old Cato, whose “**De Re Rusticâ**” is my “Cultivator,” says, and the only
+translation I have seen makes sheer nonsense of the passage, “When you
+think of getting a farm, turn it thus in your mind, not to buy
+greedily; nor spare your pains to look at it, and do not think it
+enough to go round it once. The oftener you go there the more it will
+please you, if it is good.” I think I shall not buy greedily, but go
+round and round it as long as I live, and be buried in it first, that
+it may please me the more at last.
 
-Our life is frittered away by detail. An honest man has hardly need to count more than his ten fingers, and lump the rest. **Simplicity, simplicity, simplicity!** I say, let your affairs be as two or three, and not a hundred or a thousand; instead of a million count half a dozen, and keep your accounts on your thumb-nail. In the midst of this chopping sea of civilized life, such are the clouds and storms and quicksands and thousand-and-one items to be allowed for, that a man has to live by dead reckoning, and he must be a great calculator indeed who succeeds. Simplify, simplify.
 
-The **Concord River** had its own voice after dark — the frog's splash near the bank, the irregular conversation of the owls, the soft percussion of water against stone. These sounds, which I did not hear in the town, seemed to me the foundation on which ordinary language was built. I began to hear, underneath the noise of the century, something older and more patient.
 
-Let us settle ourselves, and work and wedge our feet downward through the mud and slush of opinion, and prejudice, and tradition, and delusion, and appearance, that alluvion which covers the globe, through Paris and London, through New York and Boston and Concord, through Church and State, through poetry and philosophy and religion, till we come to a hard bottom and rocks in place, which we can call reality, and say, This is, and no mistake.
+The present was my next experiment of this kind, which I purpose to
+describe more at length; for convenience, putting the experience of two
+years into one. As I have said, I do not propose to write an ode to
+dejection, but to brag as lustily as chanticleer in the morning,
+standing on his roost, if only to wake my neighbors up.
 
-The **Harivansa** says: "An abode without birds is like a meat without seasoning." Such was not my abode, for I found myself suddenly neighbor to the birds; not by having imprisoned one, but by having caged myself near them. Reading those Sanskrit verses by lamplight, after a day of beans and solitude, I felt I had found a tradition that had worked out, with great care, the questions I was beginning to ask.
+When first I took up my abode in the woods, that is, began to spend my
+nights as well as days there, which, by accident, was on Independence
+Day, or the **Fourth of July, 1845**, my house was not finished for winter,
+but was merely a defence against the rain, without plastering or
+chimney, the walls being of rough, weather-stained boards, with wide
+chinks, which made it cool at night. The upright white hewn studs and
+freshly planed door and window casings gave it a clean and airy look,
+especially in the morning, when its timbers were saturated with dew, so
+that I fancied that by noon some sweet gum would exude from them. To my
+imagination it retained throughout the day more or less of this auroral
+character, reminding me of a certain house on a mountain which I had
+visited the year before. This was an airy and unplastered cabin, fit to
+entertain a travelling god, and where a goddess might trail her
+garments. The winds which passed over my dwelling were such as sweep
+over the ridges of mountains, bearing the broken strains, or celestial
+parts only, of terrestrial music. The morning wind forever blows, the
+poem of creation is uninterrupted; but few are the ears that hear it.
+Olympus is but the outside of the earth every where.
 
-The ancient lawgiver **Manu** prescribes for the student a discipline that struck me as intensely practical: examine your own conduct every evening as carefully as a physician examines a patient. What had you actually needed today? What had you actually felt? Convention provides so many defaults that to actually look at your own life requires the courage of a stranger arriving for the first time.
+The only house I had been the owner of before, if I except a boat, was
+a tent, which I used occasionally when making excursions in the summer,
+and this is still rolled up in my garret; but the boat, after passing
+from hand to hand, has gone down the stream of time. With this more
+substantial shelter about me, I had made some progress toward settling
+in the world. This frame, so slightly clad, was a sort of
+crystallization around me, and reacted on the builder. It was
+suggestive somewhat as a picture in outlines. I did not need to go
+outdoors to take the air, for the atmosphere within had lost none of
+its freshness. It was not so much within doors as behind a door where I
+sat, even in the rainiest weather. The Harivansa says, “An abode
+without birds is like a meat without seasoning.” Such was not my abode,
+for I found myself suddenly neighbor to the birds; not by having
+imprisoned one, but having caged myself near them. I was not only
+nearer to some of those which commonly frequent the garden and the
+orchard, but to those wilder and more thrilling songsters of the forest
+which never, or rarely, serenade a villager,—the wood-thrush, the
+veery, the scarlet tanager, the field-sparrow, the whippoorwill, and
+many others.
 
-The old philosopher **Brahma** — who is said to have dreamed the world into existence, and for whom a single day lasts longer than the age of our solar system — gave me the most useful gift of all: a different way of measuring. Set against Brahma's calendar, the mortgage comes due in approximately no time at all. The urgency that drives most men from bed to grave is, on this scale, indistinguishable from no urgency at all. I am not sure this perspective is comfortable. I am sure it is clarifying.
+I was seated by the shore of a small pond, about a mile and a half
+south of the village of Concord and somewhat higher than it, in the
+midst of an extensive wood between that town and Lincoln, and about two
+miles south of that our only field known to fame, Concord Battle
+Ground; but I was so low in the woods that the opposite shore, half a
+mile off, like the rest, covered with wood, was my most distant
+horizon. For the first week, whenever I looked out on the pond it
+impressed me like a tarn high up on the side of a mountain, its bottom
+far above the surface of other lakes, and, as the sun arose, I saw it
+throwing off its nightly clothing of mist, and here and there, by
+degrees, its soft ripples or its smooth reflecting surface was
+revealed, while the mists, like ghosts, were stealthily withdrawing in
+every direction into the woods, as at the breaking up of some nocturnal
+conventicle. The very dew seemed to hang upon the trees later into the
+day than usual, as on the sides of mountains.
 
-Time is but the **stream I go a-fishing in**. I drink at it; but while I drink I see the sandy bottom and detect how shallow it is. Its thin current slides away, but eternity remains. I would drink deeper; fish in the sky, whose bottom is pebbly with stars. I cannot count one. I know not the first letter of the alphabet. I have always been regretting that I was not as wise as the day I was born. The intellect is a cleaver; it discerns and rifts its way into the secret of things.
+This small lake was of most value as a neighbor in the intervals of a
+gentle rain storm in August, when, both air and water being perfectly
+still, but the sky overcast, mid-afternoon had all the serenity of
+evening, and the wood-thrush sang around, and was heard from shore to
+shore. A lake like this is never smoother than at such a time; and the
+clear portion of the air above it being shallow and darkened by clouds,
+the water, full of light and reflections, becomes a lower heaven itself
+so much the more important. From a hill top near by, where the wood had
+been recently cut off, there was a pleasing vista southward across the
+pond, through a wide indentation in the hills which form the shore
+there, where their opposite sides sloping toward each other suggested a
+stream flowing out in that direction through a wooded valley, but
+stream there was none. That way I looked between and over the near
+green hills to some distant and higher ones in the horizon, tinged with
+blue. Indeed, by standing on tiptoe I could catch a glimpse of some of
+the peaks of the still bluer and more distant mountain ranges in the
+north-west, those true-blue coins from heaven’s own mint, and also of
+some portion of the village. But in other directions, even from this
+point, I could not see over or beyond the woods which surrounded me. It
+is well to have some water in your neighborhood, to give buoyancy to
+and float the earth. One value even of the smallest well is, that when
+you look into it you see that earth is not continent but insular. This
+is as important as that it keeps butter cool. When I looked across the
+pond from this peak toward the Sudbury meadows, which in time of flood
+I distinguished elevated perhaps by a mirage in their seething valley,
+like a coin in a basin, all the earth beyond the pond appeared like a
+thin crust insulated and floated even by this small sheet of
+interverting water, and I was reminded that this on which I dwelt was
+but _dry land_.
+
+Though the view from my door was still more contracted, I did not feel
+crowded or confined in the least. There was pasture enough for my
+imagination. The low shrub-oak plateau to which the opposite shore
+arose, stretched away toward the prairies of the West and the steppes
+of Tartary, affording ample room for all the roving families of men.
+“There are none happy in the world but beings who enjoy freely a vast
+horizon,”—said Damodara, when his herds required new and larger
+pastures.
+
+Both place and time were changed, and I dwelt nearer to those parts of
+the universe and to those eras in history which had most attracted me.
+Where I lived was as far off as many a region viewed nightly by
+astronomers. We are wont to imagine rare and delectable places in some
+remote and more celestial corner of the system, behind the
+constellation of **Cassiopeia’s Chair**, far from noise and disturbance. I
+discovered that my house actually had its site in such a withdrawn, but
+forever new and unprofaned, part of the universe. If it were worth the
+while to settle in those parts near to the **Pleiades** or the **Hyades**, to
+**Aldebaran** or **Altair**, then I was really there, or at an equal remoteness
+from the life which I had left behind, dwindled and twinkling with as
+fine a ray to my nearest neighbor, and to be seen only in moonless
+nights by him. Such was that part of creation where I had squatted;—
+
+     “There was a shepherd that did live,
+         And held his thoughts as high
+     As were the mounts whereon his flocks
+         Did hourly feed him by.”
+
+What should we think of the shepherd’s life if his flocks always
+wandered to higher pastures than his thoughts?
+
+Every morning was a cheerful invitation to make my life of equal
+simplicity, and I may say innocence, with Nature herself. I have been
+as sincere a worshipper of **Aurora** as the Greeks. I got up early and
+bathed in the pond; that was a religious exercise, and one of the best
+things which I did. They say that characters were engraven on the
+bathing tub of king Tching-thang to this effect: “Renew thyself
+completely each day; do it again, and again, and forever again.” I can
+understand that. Morning brings back the heroic ages. I was as much
+affected by the faint hum of a mosquito making its invisible and
+unimaginable tour through my apartment at earliest dawn, when I was
+sitting with door and windows open, as I could be by any trumpet that
+ever sang of fame. It was Homer’s requiem; itself an Iliad and Odyssey
+in the air, singing its own wrath and wanderings. There was something
+cosmical about it; a standing advertisement, till forbidden, of the
+everlasting vigor and fertility of the world. The morning, which is the
+most memorable season of the day, is the awakening hour. Then there is
+least somnolence in us; and for an hour, at least, some part of us
+awakes which slumbers all the rest of the day and night. Little is to
+be expected of that day, if it can be called a day, to which we are not
+awakened by our Genius, but by the mechanical nudgings of some
+servitor, are not awakened by our own newly-acquired force and
+aspirations from within, accompanied by the undulations of celestial
+music, instead of factory bells, and a fragrance filling the air—to a
+higher life than we fell asleep from; and thus the darkness bear its
+fruit, and prove itself to be good, no less than the light. That man
+who does not believe that each day contains an earlier, more sacred,
+and auroral hour than he has yet profaned, has despaired of life, and
+is pursuing a descending and darkening way. After a partial cessation
+of his sensuous life, the soul of man, or its organs rather, are
+reinvigorated each day, and his Genius tries again what noble life it
+can make. All memorable events, I should say, transpire in morning time
+and in a morning atmosphere. The Vedas say, “All intelligences awake
+with the morning.” Poetry and art, and the fairest and most memorable
+of the actions of men, date from such an hour. All poets and heroes,
+like **Memnon**, are the children of Aurora, and emit their music at
+sunrise. To him whose elastic and vigorous thought keeps pace with the
+sun, the day is a perpetual morning. It matters not what the clocks say
+or the attitudes and labors of men. Morning is when I am awake and
+there is a dawn in me. Moral reform is the effort to throw off sleep.
+Why is it that men give so poor an account of their day if they have
+not been slumbering? They are not such poor calculators. If they had
+not been overcome with drowsiness, they would have performed something.
+The millions are awake enough for physical labor; but only one in a
+million is awake enough for effective intellectual exertion, only one
+in a hundred millions to a poetic or divine life. To be awake is to be
+alive. I have never yet met a man who was quite awake. How could I have
+looked him in the face?
+
+We must learn to reawaken and keep ourselves awake, not by mechanical
+aids, but by an infinite expectation of the dawn, which does not
+forsake us in our soundest sleep. I know of no more encouraging fact
+than the unquestionable ability of man to elevate his life by a
+conscious endeavor. It is something to be able to paint a particular
+picture, or to carve a statue, and so to make a few objects beautiful;
+but it is far more glorious to carve and paint the very atmosphere and
+medium through which we look, which morally we can do. To affect the
+quality of the day, that is the highest of arts. Every man is tasked to
+make his life, even in its details, worthy of the contemplation of his
+most elevated and critical hour. If we refused, or rather used up, such
+paltry information as we get, the oracles would distinctly inform us
+how this might be done.
+
+I went to the woods because I wished to live deliberately, to front
+only the essential facts of life, and see if I could not learn what it
+had to teach, and not, when I came to die, discover that I had not
+lived. I did not wish to live what was not life, living is so dear; nor
+did I wish to practise resignation, unless it was quite necessary. I
+wanted to live deep and suck out all the marrow of life, to live so
+sturdily and **Spartan-like** as to put to rout all that was not life, to
+cut a broad swath and shave close, to drive life into a corner, and
+reduce it to its lowest terms, and, if it proved to be mean, why then
+to get the whole and genuine meanness of it, and publish its meanness
+to the world; or if it were sublime, to know it by experience, and be
+able to give a true account of it in my next excursion. For most men,
+it appears to me, are in a strange uncertainty about it, whether it is
+of the devil or of God, and have _somewhat hastily_ concluded that it
+is the chief end of man here to “glorify God and enjoy him forever.”
+
+Still we live meanly, like ants; though the fable tells us that we were
+long ago changed into men; like pygmies we fight with cranes; it is
+error upon error, and clout upon clout, and our best virtue has for its
+occasion a superfluous and evitable wretchedness. Our life is frittered
+away by detail. An honest man has hardly need to count more than his
+ten fingers, or in extreme cases he may add his ten toes, and lump the
+rest. Simplicity, simplicity, simplicity! I say, let your affairs be as
+two or three, and not a hundred or a thousand; instead of a million
+count half a dozen, and keep your accounts on your thumb nail. In the
+midst of this chopping sea of civilized life, such are the clouds and
+storms and quicksands and thousand-and-one items to be allowed for,
+that a man has to live, if he would not founder and go to the bottom
+and not make his port at all, by dead reckoning, and he must be a great
+calculator indeed who succeeds. Simplify, simplify. Instead of three
+meals a day, if it be necessary eat but one; instead of a hundred
+dishes, five; and reduce other things in proportion. Our life is like a
+German Confederacy, made up of petty states, with its boundary forever
+fluctuating, so that even a German cannot tell you how it is bounded at
+any moment. The nation itself, with all its so called internal
+improvements, which, by the way, are all external and superficial, is
+just such an unwieldy and overgrown establishment, cluttered with
+furniture and tripped up by its own traps, ruined by luxury and
+heedless expense, by want of calculation and a worthy aim, as the
+million households in the land; and the only cure for it as for them is
+in a rigid economy, a stern and more than Spartan simplicity of life
+and elevation of purpose. It lives too fast. Men think that it is
+essential that the _Nation_ have commerce, and export ice, and talk
+through a telegraph, and ride thirty miles an hour, without a doubt,
+whether _they_ do or not; but whether we should live like baboons or
+like men, is a little uncertain. If we do not get out sleepers, and
+forge rails, and devote days and nights to the work, but go to
+tinkering upon our _lives_ to improve _them_, who will build railroads?
+And if railroads are not built, how shall we get to heaven in season?
+But if we stay at home and mind our business, who will want railroads?
+We do not ride on the railroad; it rides upon us. Did you ever think
+what those sleepers are that underlie the railroad? Each one is a man,
+an Irish-man, or a Yankee man. The rails are laid on them, and they are
+covered with sand, and the cars run smoothly over them. They are sound
+sleepers, I assure you. And every few years a new lot is laid down and
+run over; so that, if some have the pleasure of riding on a rail,
+others have the misfortune to be ridden upon. And when they run over a
+man that is walking in his sleep, a supernumerary sleeper in the wrong
+position, and wake him up, they suddenly stop the cars, and make a hue
+and cry about it, as if this were an exception. I am glad to know that
+it takes a gang of men for every five miles to keep the sleepers down
+and level in their beds as it is, for this is a sign that they may
+sometime get up again.
+
+Why should we live with such hurry and waste of life? We are determined
+to be starved before we are hungry. Men say that a stitch in time saves
+nine, and so they take a thousand stitches to-day to save nine
+to-morrow. As for _work_, we haven’t any of any consequence. We have
+the Saint Vitus’ dance, and cannot possibly keep our heads still. If I
+should only give a few pulls at the parish bell-rope, as for a fire,
+that is, without setting the bell, there is hardly a man on his farm in
+the outskirts of Concord, notwithstanding that press of engagements
+which was his excuse so many times this morning, nor a boy, nor a
+woman, I might almost say, but would forsake all and follow that sound,
+not mainly to save property from the flames, but, if we will confess
+the truth, much more to see it burn, since burn it must, and we, be it
+known, did not set it on fire,—or to see it put out, and have a hand in
+it, if that is done as handsomely; yes, even if it were the parish
+church itself. Hardly a man takes a half hour’s nap after dinner, but
+when he wakes he holds up his head and asks, “What’s the news?” as if
+the rest of mankind had stood his sentinels. Some give directions to be
+waked every half hour, doubtless for no other purpose; and then, to pay
+for it, they tell what they have dreamed. After a night’s sleep the
+news is as indispensable as the breakfast. “Pray tell me any thing new
+that has happened to a man any where on this globe,”—and he reads it
+over his coffee and rolls, that a man has had his eyes gouged out this
+morning on the Wachito River; never dreaming the while that he lives in
+the dark unfathomed mammoth cave of this world, and has but the
+rudiment of an eye himself.
+
+For my part, I could easily do without the post-office. I think that
+there are very few important communications made through it. To speak
+critically, I never received more than one or two letters in my life—I
+wrote this some years ago—that were worth the postage. The penny-post
+is, commonly, an institution through which you seriously offer a man
+that penny for his thoughts which is so often safely offered in jest.
+And I am sure that I never read any memorable news in a newspaper. If
+we read of one man robbed, or murdered, or killed by accident, or one
+house burned, or one vessel wrecked, or one steamboat blown up, or one
+cow run over on the Western Railroad, or one mad dog killed, or one lot
+of grasshoppers in the winter,—we never need read of another. One is
+enough. If you are acquainted with the principle, what do you care for
+a myriad instances and applications? To a philosopher all _news_, as it
+is called, is gossip, and they who edit and read it are old women over
+their tea. Yet not a few are greedy after this gossip. There was such a
+rush, as I hear, the other day at one of the offices to learn the
+foreign news by the last arrival, that several large squares of plate
+glass belonging to the establishment were broken by the pressure,—news
+which I seriously think a ready wit might write a twelve-month, or
+twelve years, beforehand with sufficient accuracy. As for Spain, for
+instance, if you know how to throw in Don Carlos and the Infanta, and
+Don Pedro and Seville and Granada, from time to time in the right
+proportions,—they may have changed the names a little since I saw the
+papers,—and serve up a bull-fight when other entertainments fail, it
+will be true to the letter, and give us as good an idea of the exact
+state or ruin of things in Spain as the most succinct and lucid reports
+under this head in the newspapers: and as for England, almost the last
+significant scrap of news from that quarter was the revolution of 1649;
+and if you have learned the history of her crops for an average year,
+you never need attend to that thing again, unless your speculations are
+of a merely pecuniary character. If one may judge who rarely looks into
+the newspapers, nothing new does ever happen in foreign parts, a French
+revolution not excepted.
+
+What news! how much more important to know what that is which was never
+old! “Kieou-he-yu (great dignitary of the state of Wei) sent a man to
+Khoung-tseu to know his news. Khoung-tseu caused the messenger to be
+seated near him, and questioned him in these terms: What is your master
+doing? The messenger answered with respect: My master desires to
+diminish the number of his faults, but he cannot come to the end of
+them. The messenger being gone, the philosopher remarked: What a worthy
+messenger! What a worthy messenger!” The preacher, instead of vexing
+the ears of drowsy farmers on their day of rest at the end of the
+week,—for Sunday is the fit conclusion of an ill-spent week, and not
+the fresh and brave beginning of a new one,—with this one other
+draggle-tail of a sermon, should shout with thundering voice, “Pause!
+Avast! Why so seeming fast, but deadly slow?”
+
+Shams and delusions are esteemed for soundest truths, while reality is
+fabulous. If men would steadily observe realities only, and not allow
+themselves to be deluded, life, to compare it with such things as we
+know, would be like a fairy tale and the Arabian Nights’
+Entertainments. If we respected only what is inevitable and has a right
+to be, music and poetry would resound along the streets. When we are
+unhurried and wise, we perceive that only great and worthy things have
+any permanent and absolute existence,—that petty fears and petty
+pleasures are but the shadow of the reality. This is always
+exhilarating and sublime. By closing the eyes and slumbering, and
+consenting to be deceived by shows, men establish and confirm their
+daily life of routine and habit everywhere, which still is built on
+purely illusory foundations. Children, who play life, discern its true
+law and relations more clearly than men, who fail to live it worthily,
+but who think that they are wiser by experience, that is, by failure. I
+have read in a Hindoo book, that “there was a king’s son, who, being
+expelled in infancy from his native city, was brought up by a forester,
+and, growing up to maturity in that state, imagined himself to belong
+to the barbarous race with which he lived. One of his father’s
+ministers having discovered him, revealed to him what he was, and the
+misconception of his character was removed, and he knew himself to be a
+prince. So soul,” continues the Hindoo philosopher, “from the
+circumstances in which it is placed, mistakes its own character, until
+the truth is revealed to it by some holy teacher, and then it knows
+itself to be _Brahme_.” I perceive that we inhabitants of New England
+live this mean life that we do because our vision does not penetrate
+the surface of things. We think that that _is_ which _appears_ to be.
+If a man should walk through this town and see only the reality, where,
+think you, would the “Mill-dam” go to? If he should give us an account
+of the realities he beheld there, we should not recognize the place in
+his description. Look at a meeting-house, or a court-house, or a jail,
+or a shop, or a dwelling-house, and say what that thing really is
+before a true gaze, and they would all go to pieces in your account of
+them. Men esteem truth remote, in the outskirts of the system, behind
+the farthest star, before Adam and after the last man. In eternity
+there is indeed something true and sublime. But all these times and
+places and occasions are now and here. God himself culminates in the
+present moment, and will never be more divine in the lapse of all the
+ages. And we are enabled to apprehend at all what is sublime and noble
+only by the perpetual instilling and drenching of the reality that
+surrounds us. The universe constantly and obediently answers to our
+conceptions; whether we travel fast or slow, the track is laid for us.
+Let us spend our lives in conceiving then. The poet or the artist never
+yet had so fair and noble a design but some of his posterity at least
+could accomplish it.
+
+Let us spend one day as deliberately as Nature, and not be thrown off
+the track by every nutshell and mosquito’s wing that falls on the
+rails. Let us rise early and fast, or break fast, gently and without
+perturbation; let company come and let company go, let the bells ring
+and the children cry,—determined to make a day of it. Why should we
+knock under and go with the stream? Let us not be upset and overwhelmed
+in that terrible rapid and whirlpool called a dinner, situated in the
+meridian shallows. Weather this danger and you are safe, for the rest
+of the way is down hill. With unrelaxed nerves, with morning vigor,
+sail by it, looking another way, tied to the mast like Ulysses. If the
+engine whistles, let it whistle till it is hoarse for its pains. If the
+bell rings, why should we run? We will consider what kind of music they
+are like. Let us settle ourselves, and work and wedge our feet downward
+through the mud and slush of opinion, and prejudice, and tradition, and
+delusion, and appearance, that alluvion which covers the globe, through
+Paris and London, through New York and Boston and Concord, through
+church and state, through poetry and philosophy and religion, till we
+come to a hard bottom and rocks in place, which we can call _reality_,
+and say, This is, and no mistake; and then begin, having a _point
+d’appui_, below freshet and frost and fire, a place where you might
+found a wall or a state, or set a lamp-post safely, or perhaps a gauge,
+not a Nilometer, but a Realometer, that future ages might know how deep
+a freshet of shams and appearances had gathered from time to time. If
+you stand right fronting and face to face to a fact, you will see the
+sun glimmer on both its surfaces, as if it were a cimeter, and feel its
+sweet edge dividing you through the heart and marrow, and so you will
+happily conclude your mortal career. Be it life or death, we crave only
+reality. If we are really dying, let us hear the rattle in our throats
+and feel cold in the extremities; if we are alive, let us go about our
+business.
+
+Time is but the stream I go a-fishing in. I drink at it; but while I
+drink I see the sandy bottom and detect how shallow it is. Its thin
+current slides away, but eternity remains. I would drink deeper; fish
+in the sky, whose bottom is pebbly with stars. I cannot count one. I
+know not the first letter of the alphabet. I have always been
+regretting that I was not as wise as the day I was born. The intellect
+is a cleaver; it discerns and rifts its way into the secret of things.
+I do not wish to be any more busy with my hands than is necessary. My
+head is hands and feet. I feel all my best faculties concentrated in
+it. My instinct tells me that my head is an organ for burrowing, as
+some creatures use their snout and fore-paws, and with it I would mine
+and burrow my way through these hills. I think that the richest vein is
+somewhere hereabouts; so by the divining-rod and thin rising vapors I
+judge; and here I will begin to mine.

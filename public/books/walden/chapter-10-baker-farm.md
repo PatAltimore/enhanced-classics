@@ -9,111 +9,336 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau describes the Baker Farm as a modest yet rich land, cultivated by its tenant farmer, John Field."
-    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    link_label: "Henry David Thoreau"
-  - point: "John Field and his family live in poverty but exhibit dignity and resilience in their daily lives."
-    link: "https://en.wikipedia.org/wiki/Poverty"
-    link_label: "Poverty"
-  - point: "Thoreau observes Field working in the meadow, reflecting on the farmer's labor and connection to the land."
-    link: "https://en.wikipedia.org/wiki/Agriculture"
-    link_label: "Agriculture"
-  - point: "Field shares his struggles with taxes, debt, and the cost of farming, yet remains hopeful about improving his circumstances."
-    link: "https://en.wikipedia.org/wiki/Debt"
-    link_label: "Debt"
-  - point: "Thoreau contrasts Field's life of necessity with his own chosen simplicity at Walden Pond, pondering freedom and contentment."
-    link: "https://en.wikipedia.org/wiki/Walden_Pond"
-    link_label: "Walden Pond"
-  - point: "The Baker Farm serves as a metaphor for the balance between hardship and beauty, ambition and acceptance in life."
+  - point: "Thoreau describes his rambles through pine groves and cedar woods, comparing them to sacred and mythological places."
+    link: "https://en.wikipedia.org/wiki/Druid"
+    link_label: "Druids"
+  - point: "He reflects on natural phenomena like rainbows and halos, drawing parallels to historical accounts and personal experiences."
+    link: "https://en.wikipedia.org/wiki/Benvenuto_Cellini"
+    link_label: "Benvenuto Cellini"
+  - point: "Thoreau visits Baker Farm and interacts with John Field, an Irish immigrant struggling to make a living."
+    link: "https://en.wikipedia.org/wiki/Baker_Farm_(Walden)"
+    link_label: "Baker Farm"
+  - point: "He contrasts his simple lifestyle with Field's labor-intensive one, advocating for self-reliance and simplicity."
+    link: "https://en.wikipedia.org/wiki/Self-reliance"
+    link_label: "Self-reliance"
+  - point: "Thoreau reflects on the importance of living adventurously and connecting with nature rather than being tied to material pursuits."
     link: "https://en.wikipedia.org/wiki/Transcendentalism"
     link_label: "Transcendentalism"
 
 enhancements:
-  - id: "orchard"
-    trigger: "orchard"
-    title: "Orchards in Agriculture"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Orchard"
+  - id: "pine-groves"
+    trigger: "pine groves"
+    title: "Sacred Pine Groves"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pine"
     image_url: ""
     image_caption: ""
-    content: "An orchard is a deliberate planting of trees or shrubs maintained for food production, typically fruits. Orchards have been a vital part of agriculture for centuries, providing sustenance and economic value to communities. In Thoreau's description, the orchard symbolizes abundance and the harmony between human labor and nature. Orchards often require careful planning and maintenance, reflecting the farmer's dedication and connection to the land. Their presence on the Baker Farm highlights the richness of the soil and the labor invested in cultivating it."
-  - id: "cornfields"
-    trigger: "cornfields"
-    title: "Cornfields and Their Significance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Maize"
+    content: "Pine groves have long been associated with tranquility and spirituality. In literature, they are often depicted as places of reflection and connection to nature. Thoreau's comparison of pine groves to temples highlights their serene and sacred qualities, aligning with his transcendentalist philosophy of finding divinity in the natural world."
+  - id: "druids"
+    trigger: "Druids"
+    title: "Ancient Celtic Priests"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Druid"
     image_url: ""
     image_caption: ""
-    content: "Cornfields, where maize is cultivated, are emblematic of agricultural life and sustenance. Corn has been a staple crop in many cultures, particularly in the Americas, where it originated. Thoreau's depiction of cornfields waving in the breeze evokes the vitality and promise of harvest, as well as the farmer's reliance on nature's cycles. Cornfields also represent the intersection of human effort and natural processes, a recurring theme in Thoreau's reflections on labor and simplicity."
-  - id: "tenant-farmer"
-    trigger: "tenant farmer"
-    title: "Tenant Farming in History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tenant_farming"
+    content: "Druids were the priestly class in ancient Celtic societies, known for their connection to nature and spiritual practices. Thoreau's mention of Druids evokes their reverence for sacred groves, emphasizing his view of nature as a spiritual sanctuary."
+  - id: "flints-pond"
+    trigger: "Flint’s Pond"
+    title: "Flint’s Pond in Concord"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flint%27s_Pond"
     image_url: ""
     image_caption: ""
-    content: "Tenant farming refers to an agricultural system where farmers rent land from a landowner and cultivate it, often paying rent in cash or a share of the crops. This system has been prevalent in various societies, particularly during times of economic disparity. John Field, the tenant farmer at Baker Farm, embodies the struggles and resilience of those who work the land without owning it. Tenant farming highlights issues of economic inequality and the challenges faced by laborers striving for independence and security."
-  - id: "meadow"
-    trigger: "meadow"
-    title: "Meadows in Ecology and Agriculture"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Meadow"
+    content: "Flint’s Pond, located near Walden Pond, is another natural landmark in Concord, Massachusetts. Thoreau often explored its surroundings, finding inspiration in its beauty and solitude. The pond symbolizes the untouched wilderness that Thoreau cherished."
+  - id: "valhalla"
+    trigger: "Valhalla"
+    title: "Norse Mythological Heaven"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Valhalla"
     image_url: ""
     image_caption: ""
-    content: "A meadow is a field habitat dominated by grass and other non-woody plants, often used for grazing or hay production. Meadows are ecologically significant, supporting diverse flora and fauna. In Thoreau's narrative, the meadow serves as a setting for John Field's labor, symbolizing the farmer's intimate relationship with the land. Meadows also represent the seasonal rhythms of agricultural life, where human effort aligns with natural cycles to sustain livelihoods."
-  - id: "potatoes"
-    trigger: "potatoes"
-    title: "Potatoes as a Staple Crop"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Potato"
+    content: "Valhalla is the hall of slain warriors in Norse mythology, ruled by Odin. Thoreau’s reference to Valhalla underscores the majestic and otherworldly quality of the cedar woods, elevating them to a mythic status in his imagination."
+  - id: "usnea-lichen"
+    trigger: "usnea lichen"
+    title: "Usnea: The Beard Lichen"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Usnea"
     image_url: ""
     image_caption: ""
-    content: "Potatoes are a versatile and nutritious crop that has been a staple food in many cultures worldwide. Originating in South America, they became a vital part of European and American diets after their introduction in the 16th century. For John Field, potatoes represent both sustenance and economic hope, as their yield directly impacts his family's well-being. Potatoes are emblematic of the farmer's reliance on the land and the delicate balance between effort and reward in agriculture."
-  - id: "beans"
-    trigger: "beans"
-    title: "Beans in Agriculture and Nutrition"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Bean"
+    content: "Usnea is a type of lichen commonly found hanging from trees in damp environments. Known for its medicinal properties, it symbolizes the interconnectedness of life in ecosystems, a theme central to Thoreau's observations of nature."
+  - id: "white-spruce-trees"
+    trigger: "white-spruce trees"
+    title: "White Spruce Trees"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Picea_glauca"
     image_url: ""
     image_caption: ""
-    content: "Beans are a protein-rich legume cultivated worldwide for food and soil enrichment. They are often associated with sustainable farming practices due to their ability to fix nitrogen in the soil. Thoreau himself grew beans during his time at Walden Pond, using them as a metaphor for self-reliance and the simplicity of life. For John Field, beans represent both a practical crop and a source of pride, reflecting the farmer's connection to the land and his aspirations for a better future."
-  - id: "walden-pond"
-    trigger: "Walden Pond"
-    title: "Walden Pond and Its Legacy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
+    content: "White spruce trees are native to North America and are valued for their resilience and beauty. Thoreau’s description of them adorned with lichen and fungi highlights their role in supporting diverse life forms in the swamp ecosystem."
+  - id: "benvenuto-cellini"
+    trigger: "Benvenuto Cellini"
+    title: "Renaissance Artist and Memoirist"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Benvenuto_Cellini"
     image_url: ""
     image_caption: ""
-    content: "Walden Pond is a small body of water in Concord, Massachusetts, made famous by Henry David Thoreau's book \"Walden.\" Thoreau lived by the pond for two years, seeking simplicity and self-reliance. Walden Pond has become a symbol of transcendentalist philosophy, emphasizing the importance of nature, individualism, and reflection. In this chapter, Thoreau contrasts his chosen solitude at Walden Pond with the labor-driven life of John Field, exploring themes of freedom, contentment, and the human condition."
-  - id: "taxes"
-    trigger: "taxes"
-    title: "Taxes and Economic Burden"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tax"
+    content: "Benvenuto Cellini was a renowned Italian sculptor and goldsmith of the Renaissance. His memoirs recount vivid experiences, including supernatural phenomena. Thoreau draws a parallel between Cellini’s halo and his own observations of light, blending art, history, and nature."
+  - id: "castle-of-st-angelo"
+    trigger: "castle of St. Angelo"
+    title: "Historic Roman Fortress"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
     image_url: ""
     image_caption: ""
-    content: "Taxes are mandatory financial charges imposed by governments to fund public services and infrastructure. For farmers like John Field, taxes represent a significant economic burden, often exacerbating the challenges of poverty and debt. Thoreau himself was critical of taxation, famously refusing to pay a poll tax as an act of civil disobedience against slavery and the Mexican-American War. Taxes in this chapter highlight the systemic pressures faced by laborers and the broader societal structures that impact individual lives."
-  - id: "fields"
-    trigger: "fields"
-    title: "Fields in Agriculture and Symbolism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Field_(agriculture)"
+    content: "The Castel Sant'Angelo in Rome has served as a mausoleum, fortress, and prison. Cellini’s imprisonment there adds a dramatic historical layer to Thoreau’s reflections on light phenomena and human perception."
+  - id: "pleasant-meadow"
+    trigger: "Pleasant Meadow"
+    title: "Pleasant Meadow at Baker Farm"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Baker_Farm_(Walden)"
     image_url: ""
     image_caption: ""
-    content: "Fields are areas of land used for agricultural purposes, often symbolizing human effort and the cycles of nature. In Thoreau's narrative, the fields at Baker Farm represent both the physical labor of farming and the aspirations tied to the land. Fields are a recurring motif in literature, symbolizing growth, potential, and the interplay between human ambition and natural forces. They serve as a backdrop for Thoreau's reflections on the interconnectedness of life and the value of simplicity."
-  - id: "bird"
-    trigger: "bird"
-    title: "Birds in Literature and Nature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Bird"
+    content: "Pleasant Meadow, part of Baker Farm, represents the pastoral beauty of rural Concord. Thoreau’s musings on its landscape reflect his deep appreciation for the simplicity and richness of nature."
+  - id: "pickerel-weed"
+    trigger: "pickerel-weed"
+    title: "Aquatic Pickerel Weed"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pontederia_cordata"
     image_url: ""
     image_caption: ""
-    content: "Birds are often used in literature as symbols of freedom, transcendence, and connection to nature. Their presence in Thoreau's walk back to Walden Pond underscores the tranquility and harmony of the natural world. Birds also play a crucial ecological role, contributing to pollination, seed dispersal, and pest control. In transcendentalist thought, birds embody the spiritual connection between humans and the environment, reminding readers of the beauty and simplicity found in nature."
+    content: "Pickerel weed is a flowering aquatic plant native to North America. Its presence in Thoreau’s fishing scene highlights the biodiversity of the ponds and wetlands he explored, underscoring his commitment to observing and preserving nature."
+  - id: "talaria"
+    trigger: "talaria"
+    title: "Winged Sandals of Hermes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Talaria"
+    image_url: ""
+    image_caption: ""
+    content: "Talaria are the winged sandals worn by Hermes in Greek mythology, symbolizing swiftness and freedom. Thoreau’s use of this term metaphorically suggests the potential for transcendence and liberation from poverty and hardship."
 ---
-It was pleasant to walk over the plateau of the Baker Farm in summer, when the **orchard** trees were heavy with fruit and the **cornfields** waved in the breeze, their golden tassels catching the sun like an offering to the heavens. The land, though not extensive, was rich with the labor of its tenant, and the air seemed to hum with the quiet zest of life. There was a charm in its simplicity, a raw and earnest quality that bespoke the toil of generations. Here, on the slope of a hill, the modest farmhouse stood, its roof low and weathered, its walls gray with age and experience, as if they had soaked up the stories of all those who had lived within.
+Sometimes I rambled to **pine groves**, standing like temples, or like
+fleets at sea, full-rigged, with wavy boughs, and rippling with light,
+so soft and green and shady that the **Druids** would have forsaken their
+oaks to worship in them; or to the cedar wood beyond **Flint’s Pond**,
+where the trees, covered with hoary blue berries, spiring higher and
+higher, are fit to stand before **Valhalla**, and the creeping juniper
+covers the ground with wreaths full of fruit; or to swamps where the
+**usnea lichen** hangs in festoons from the **white-spruce trees**, and
+toad-stools, round tables of the swamp gods, cover the ground, and more
+beautiful fungi adorn the stumps, like butterflies or shells, vegetable
+winkles; where the swamp-pink and dogwood grow, the red alder-berry
+glows like eyes of imps, the waxwork grooves and crushes the hardest
+woods in its folds, and the wild-holly berries make the beholder forget
+his home with their beauty, and he is dazzled and tempted by nameless
+other wild forbidden fruits, too fair for mortal taste. Instead of
+calling on some scholar, I paid many a visit to particular trees, of
+kinds which are rare in this neighborhood, standing far away in the
+middle of some pasture, or in the depths of a wood or swamp, or on a
+hill-top; such as the black-birch, of which we have some handsome
+specimens two feet in diameter; its cousin, the yellow birch, with its
+loose golden vest, perfumed like the first; the beech, which has so
+neat a bole and beautifully lichen-painted, perfect in all its details,
+of which, excepting scattered specimens, I know but one small grove of
+sizable trees left in the township, supposed by some to have been
+planted by the pigeons that were once baited with beech nuts near by;
+it is worth the while to see the silver grain sparkle when you split
+this wood; the bass; the hornbeam; the _Celtis occidentalis_, or false
+elm, of which we have but one well-grown; some taller mast of a pine, a
+shingle tree, or a more perfect hemlock than usual, standing like a
+pagoda in the midst of the woods; and many others I could mention.
+These were the shrines I visited both summer and winter.
 
-I visited the Baker Farm often during my sojourn at Walden, drawn not so much by the place as by the people who called it home. The **tenant farmer**, John Field, and his family lived there in a condition not far removed from poverty, yet they bore their lot with a quiet dignity that made me reflect on the nature of wealth and contentment. John Field himself was a man of rugged appearance and coarse manners, yet his heart seemed warm and honest. His wife, worn and weary from years of labor, carried an air of resigned endurance, her hands busy even during conversation, mending clothes or preparing food for her children.
+Once it chanced that I stood in the very abutment of a rainbow’s arch,
+which filled the lower stratum of the atmosphere, tinging the grass and
+leaves around, and dazzling me as if I looked through colored crystal.
+It was a lake of rainbow light, in which, for a short while, I lived
+like a dolphin. If it had lasted longer it might have tinged my
+employments and life. As I walked on the railroad causeway, I used to
+wonder at the halo of light around my shadow, and would fain fancy
+myself one of the elect. One who visited me declared that the shadows
+of some Irishmen before him had no halo about them, that it was only
+natives that were so distinguished. **Benvenuto Cellini** tells us in his
+memoirs, that, after a certain terrible dream or vision which he had
+during his confinement in the **castle of St. Angelo**, a resplendent light
+appeared over the shadow of his head at morning and evening, whether he
+was in Italy or France, and it was particularly conspicuous when the
+grass was moist with dew. This was probably the same phenomenon to
+which I have referred, which is especially observed in the morning, but
+also at other times, and even by moonlight. Though a constant one, it
+is not commonly noticed, and, in the case of an excitable imagination
+like Cellini’s, it would be basis enough for superstition. Beside, he
+tells us that he showed it to very few. But are they not indeed
+distinguished who are conscious that they are regarded at all?
 
-On one particular visit, I found Field out in the **meadow**, where he was cutting hay with a scythe that glinted in the sunlight. The rhythm of his work was steady, almost hypnotic, and I paused to watch him before approaching. He greeted me with a nod and wiped his forehead with the back of his hand, his face marked by the lines of a life spent under the open sky. I asked him about his crops, and he spoke of the **potatoes** and the **beans** he had planted, his voice tinged with both pride and worry as he calculated the yield they might bring.
 
-We walked together to his house, where his wife was stirring a pot over the hearth. The room was small and dimly lit, the few pieces of furniture worn with use but clean and orderly. The children played quietly in the corner, their laughter subdued as if they understood the gravity of their circumstances. Field invited me to sit, and we spoke of his plans to improve his lot, to save enough to purchase land of his own where he could raise his family with greater security. He dreamed of a better life, yet his efforts seemed weighed down by the ceaseless demands of his current existence.
 
-As we talked, I could not help but reflect on the contrast between his life and my own. Here was a man bound by necessity, his days dictated by the cycles of planting and harvest, his nights filled with the worry of providing for his family. And yet, I wondered, was he truly less free than I, who had chosen to strip away the trappings of society and live simply by the shores of **Walden Pond**? Was his toil any less noble than my solitude? These questions lingered in my mind as I watched the flickering light of the fire play across his face.
+I set out one afternoon to go a-fishing to Fair-Haven, through the
+woods, to eke out my scanty fare of vegetables. My way led through
+**Pleasant Meadow**, an adjunct of the **Baker Farm**, that retreat of which a
+poet has since sung, beginning,—
 
-Field spoke of the challenges he faced, the relentless march of expenses that seemed to outpace his earnings no matter how hard he worked. He lamented the high cost of **taxes**, the necessity of purchasing tools and seed, the ever-present specter of debt that loomed over him. His words painted a picture of struggle, yet there was a note of hope in his voice, a belief that with enough effort, he could rise above his circumstances. I admired his determination, though I could not help but question the system that demanded such sacrifices from those who labored most.
+     “Thy entry is a pleasant field,
+     Which some mossy fruit trees yield
+     Partly to a ruddy brook,
+     By gliding musquash undertook,
+     And mercurial trout,
+     Darting about.”
 
-As I took my leave, I walked again through the **fields**, where the crops stood in neat rows like soldiers awaiting orders. The sun was setting, and the sky burned with hues of orange and gold, casting long shadows across the land. I thought of the Baker Farm and its inhabitants, of the life they led and the lessons it held. It was a place of contradictions, where hardship and beauty coexisted, where dreams were both nurtured and thwarted by the soil itself. It reminded me of the delicate balance we all must strike, the interplay between ambition and acceptance, between striving and surrender.
+I thought of living there before I went to Walden. I “hooked” the
+apples, leaped the brook, and scared the musquash and the trout. It was
+one of those afternoons which seem indefinitely long before one, in
+which many events may happen, a large portion of our natural life,
+though it was already half spent when I started. By the way there came
+up a shower, which compelled me to stand half an hour under a pine,
+piling boughs over my head, and wearing my handkerchief for a shed; and
+when at length I had made one cast over the **pickerel-weed**, standing up
+to my middle in water, I found myself suddenly in the shadow of a
+cloud, and the thunder began to rumble with such emphasis that I could
+do no more than listen to it. The gods must be proud, thought I, with
+such forked flashes to rout a poor unarmed fisherman. So I made haste
+for shelter to the nearest hut, which stood half a mile from any road,
+but so much the nearer to the pond, and had long been uninhabited:—
 
-The walk back to my cabin was quiet, save for the rustle of leaves and the occasional call of a **bird** in the trees. I felt the cool evening air on my skin and marveled at the peace that seemed to settle over the land as the day came to a close. In the fading light, I saw the outline of Walden Pond, its waters still and reflective, a mirror to the thoughts that swirled within me. Life, I realized, was not so much a matter of wealth or poverty, but of perspective, of the ability to find contentment in the moment, regardless of one's circumstances.
+     “And here a poet builded,
+         In the completed years,
+     For behold a trivial cabin
+         That to destruction steers.”
 
-The Baker Farm remained a touchstone for me during my time at Walden, a reminder of the interconnectedness of all lives and the shared struggles that defined our existence. It was a place that called me to consider the deeper truths of human labor and aspiration, to weigh the value of my own choices against the backdrop of a world that continued to turn, indifferent to the ambitions and worries of its inhabitants. In its simplicity, the farm spoke volumes, and in its quiet, I heard the echoes of wisdom that can only be found in the unvarnished reality of life.
+So the Muse fables. But therein, as I found, dwelt now **John Field**, an
+Irishman, and his wife, and several children, from the broad-faced boy
+who assisted his father at his work, and now came running by his side
+from the bog to escape the rain, to the wrinkled, sibyl-like,
+cone-headed infant that sat upon its father’s knee as in the palaces of
+nobles, and looked out from its home in the midst of wet and hunger
+inquisitively upon the stranger, with the privilege of infancy, not
+knowing but it was the last of a noble line, and the hope and cynosure
+of the world, instead of John Field’s poor starveling brat. There we
+sat together under that part of the roof which leaked the least, while
+it showered and thundered without. I had sat there many times of old
+before the ship was built that floated his family to America. An
+honest, hard-working, but shiftless man plainly was John Field; and his
+wife, she too was brave to cook so many successive dinners in the
+recesses of that lofty stove; with round greasy face and bare breast,
+still thinking to improve her condition one day; with the never absent
+mop in one hand, and yet no effects of it visible anywhere. The
+chickens, which had also taken shelter here from the rain, stalked
+about the room like members of the family, too humanized methought to
+roast well. They stood and looked in my eye or pecked at my shoe
+significantly. Meanwhile my host told me his story, how hard he worked
+“bogging” for a neighboring farmer, turning up a meadow with a spade or
+**bog hoe** at the rate of ten dollars an acre and the use of the land with
+manure for one year, and his little broad-faced son worked cheerfully
+at his father’s side the while, not knowing how poor a bargain the
+latter had made. I tried to help him with my experience, telling him
+that he was one of my nearest neighbors, and that I too, who came
+a-fishing here, and looked like a loafer, was getting my living like
+himself; that I lived in a tight, light, and clean house, which hardly
+cost more than the annual rent of such a ruin as his commonly amounts
+to; and how, if he chose, he might in a month or two build himself a
+palace of his own; that I did not use tea, nor coffee, nor butter, nor
+milk, nor fresh meat, and so did not have to work to get them; again,
+as I did not work hard, I did not have to eat hard, and it cost me but
+a trifle for my food; but as he began with tea, and coffee, and butter,
+and milk, and beef, he had to work hard to pay for them, and when he
+had worked hard he had to eat hard again to repair the waste of his
+system,—and so it was as broad as it was long, indeed it was broader
+than it was long, for he was discontented and wasted his life into the
+bargain; and yet he had rated it as a gain in coming to America, that
+here you could get tea, and coffee, and meat every day. But the only
+true America is that country where you are at liberty to pursue such a
+mode of life as may enable you to do without these, and where the state
+does not endeavor to compel you to sustain the slavery and war and
+other superfluous expenses which directly or indirectly result from the
+use of such things. For I purposely talked to him as if he were a
+philosopher, or desired to be one. I should be glad if all the meadows
+on the earth were left in a wild state, if that were the consequence of
+men’s beginning to redeem themselves. A man will not need to study
+history to find out what is best for his own culture. But alas! the
+culture of an Irishman is an enterprise to be undertaken with a sort of
+moral bog hoe. I told him, that as he worked so hard at bogging, he
+required thick boots and stout clothing, which yet were soon soiled and
+worn out, but I wore light shoes and thin clothing, which cost not half
+so much, though he might think that I was dressed like a gentleman,
+(which, however, was not the case,) and in an hour or two, without
+labor, but as a recreation, I could, if I wished, catch as many fish as
+I should want for two days, or earn enough money to support me a week.
+If he and his family would live simply, they might all go
+a-huckleberrying in the summer for their amusement. John heaved a sigh
+at this, and his wife stared with arms a-kimbo, and both appeared to be
+wondering if they had capital enough to begin such a course with, or
+arithmetic enough to carry it through. It was sailing by dead reckoning
+to them, and they saw not clearly how to make their port so; therefore
+I suppose they still take life bravely, after their fashion, face to
+face, giving it tooth and nail, not having skill to split its massive
+columns with any fine entering wedge, and rout it in detail;—thinking
+to deal with it roughly, as one should handle a thistle. But they fight
+at an overwhelming disadvantage,—living, John Field, alas! without
+arithmetic, and failing so.
+
+“Do you ever fish?” I asked. “Oh yes, I catch a mess now and then when
+I am lying by; good perch I catch.” “What’s your bait?” “I catch
+shiners with fish-worms, and bait the perch with them.” “You’d better
+go now, John,” said his wife, with glistening and hopeful face; but
+John demurred.
+
+The shower was now over, and a **rainbow above the eastern woods** promised
+a fair evening; so I took my departure. When I had got without I asked
+for a drink, hoping to get a sight of the well bottom, to complete my
+survey of the premises; but there, alas! are shallows and quicksands,
+and rope broken withal, and bucket irrecoverable. Meanwhile the right
+culinary vessel was selected, water was seemingly distilled, and after
+consultation and long delay passed out to the thirsty one,—not yet
+suffered to cool, not yet to settle. Such gruel sustains life here, I
+thought; so, shutting my eyes, and excluding the motes by a skilfully
+directed under-current, I drank to genuine hospitality the heartiest
+draught I could. I am not squeamish in such cases when manners are
+concerned.
+
+As I was leaving the Irishman’s roof after the rain, bending my steps
+again to the pond, my haste to catch pickerel, wading in retired
+meadows, in sloughs and bog-holes, in forlorn and savage places,
+appeared for an instant trivial to me who had been sent to school and
+college; but as I ran down the hill toward the reddening west, with the
+rainbow over my shoulder, and some faint tinkling sounds borne to my
+ear through the cleansed air, from I know not what quarter, my Good
+Genius seemed to say,—Go fish and hunt far and wide day by day,—farther
+and wider,—and rest thee by many brooks and hearth-sides without
+misgiving. Remember thy Creator in the days of thy youth. Rise free
+from care before the dawn, and seek adventures. Let the noon find thee
+by other lakes, and the night overtake thee everywhere at home. There
+are no larger fields than these, no worthier games than may here be
+played. Grow wild according to thy nature, like these sedges and
+brakes, which will never become English hay. Let the thunder rumble;
+what if it threaten ruin to farmers’ crops? that is not its errand to
+thee. Take shelter under the cloud, while they flee to carts and sheds.
+Let not to get a living be thy trade, but thy sport. Enjoy the land,
+but own it not. Through want of enterprise and faith men are where they
+are, buying and selling, and spending their lives like serfs.
+
+O Baker Farm!
+
+     “Landscape where the richest element
+     Is a little sunshine innocent.” * *
+
+     “No one runs to revel
+     On thy rail-fenced lea.” * *
+
+     “Debate with no man hast thou,
+         With questions art never perplexed,
+     As tame at the first sight as now,
+         In thy plain russet gabardine dressed.” * *
+
+     “Come ye who love,
+         And ye who hate,
+     Children of the Holy Dove,
+         And Guy Faux of the state,
+     And hang conspiracies
+     From the tough rafters of the trees!”
+
+Men come tamely home at night only from the next field or street, where
+their household echoes haunt, and their life pines because it breathes
+its own breath over again; their shadows morning and evening reach
+farther than their daily steps. We should come home from far, from
+adventures, and perils, and discoveries every day, with new experience
+and character.
+
+Before I had reached the pond some fresh impulse had brought out John
+Field, with altered mind, letting go “bogging” ere this sunset. But he,
+poor man, disturbed only a couple of fins while I was catching a fair
+string, and he said it was his luck; but when we changed seats in the
+boat luck changed seats too. Poor John Field!—I trust he does not read
+this, unless he will improve by it,—thinking to live by some derivative
+old country mode in this primitive new country,—to catch perch with
+shiners. It is good bait sometimes, I allow. With his horizon all his
+own, yet he a poor man, born to be poor, with his inherited Irish
+poverty or poor life, his Adam’s grandmother and boggy ways, not to
+rise in this world, he nor his posterity, till their wading webbed
+bog-trotting feet get _**talaria**_ to their heels.

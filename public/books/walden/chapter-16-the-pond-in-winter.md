@@ -9,131 +9,550 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the earth's winter face and explores Walden Pond during its icy slumber."
+  - point: "Thoreau reflects on the serene beauty of nature during a winter morning at Walden Pond."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "He observes the pond's crystalline armor and the stark beauty of winter's austerity."
-    link: "https://en.wikipedia.org/wiki/Ice"
-    link_label: "Ice"
-  - point: "Thoreau measures the depth of Walden Pond, debunking myths of its bottomless nature."
-    link: "https://en.wikipedia.org/wiki/Glacial_lake"
-    link_label: "Glacial lake"
-  - point: "He watches ice harvesters at work, reflecting on human labor and nature's bounty."
-    link: "https://en.wikipedia.org/wiki/Ice_harvesting"
-    link_label: "Ice harvesting"
-  - point: "Thoreau contemplates the cycles of nature and the enduring wisdom of Walden Pond."
-    link: "https://en.wikipedia.org/wiki/Natural_cycle"
-    link_label: "Natural cycle"
-  - point: "He finds peace in winter's simplicity and the lessons of patience and endurance it offers."
-    link: "https://en.wikipedia.org/wiki/Winter"
-    link_label: "Winter"
+  - point: "He describes the transformation of the pond's surface into solid ice, which supports human activity like fishing and ice-cutting."
+    link: "https://en.wikipedia.org/wiki/Ice_fishing"
+    link_label: "Ice fishing"
+  - point: "Thoreau observes the primitive fishing methods used by locals and their connection to nature."
+    link: "https://en.wikipedia.org/wiki/Fishing"
+    link_label: "Fishing"
+  - point: "He recounts his survey of Walden Pond's depth and dispels myths about its supposed bottomlessness."
+    link: "https://en.wikipedia.org/wiki/Limnology"
+    link_label: "Limnology"
+  - point: "Thoreau philosophizes about the interconnectedness of nature, ethics, and human character, using the pond as a metaphor."
+    link: "https://en.wikipedia.org/wiki/Transcendentalism"
+    link_label: "Transcendentalism"
+  - point: "He muses on the global journey of Walden's ice and water, connecting it to ancient philosophies and distant cultures."
+    link: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    link_label: "Bhagavad Gita"
 
 enhancements:
-  - id: "winter-face"
-    trigger: "winter face"
-    title: "Winter's Transformative Beauty"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Winter"
+  - id: "nature-puts-no-question"
+    trigger: "Nature puts no question"
+    title: "Nature's Silent Wisdom"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nature"
     image_url: ""
     image_caption: ""
-    content: "Winter transforms the landscape, stripping it of excess and revealing its elemental simplicity. For Thoreau, observing the earth's 'winter face' is an opportunity to reflect on nature's cycles and the stark beauty of the season. Winter has long been a symbol of dormancy and renewal, offering a time for introspection and quiet study. In literature and art, winter often represents clarity and endurance, themes central to Thoreau's philosophy in 'Walden.'"
-  - id: "walden-pond"
-    trigger: "Walden Pond"
-    title: "Walden Pond's Legacy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
+    content: "Thoreau emphasizes the silent, resolute nature of the natural world, contrasting it with human curiosity and questioning. This idea reflects the Transcendentalist belief in nature as a source of truth and inspiration, encouraging individuals to seek harmony with the environment rather than impose their own inquiries upon it."
+  - id: "pickerel-and-perch"
+    trigger: "pickerel and perch"
+    title: "Fishing in Walden Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_fishing"
     image_url: ""
     image_caption: ""
-    content: "Walden Pond, located in Concord, Massachusetts, is a glacial lake famous for its association with Henry David Thoreau. It served as the setting for his experiment in simple living and inspired his seminal work, 'Walden.' The pond's natural beauty and tranquil surroundings have made it a symbol of solitude and reflection. Today, Walden Pond is a protected site, attracting visitors who seek to connect with Thoreau's legacy and the enduring wisdom of nature."
-  - id: "crystalline-armor"
-    trigger: "crystalline armor"
-    title: "Ice as Nature's Shield"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice"
+    content: "Pickerel and perch are common freshwater fish, often caught in icy conditions during winter. Thoreau's description of fishing at Walden Pond highlights the resourcefulness of local fishermen and their deep connection to nature, showcasing a simpler, self-sufficient way of life."
+  - id: "primitive-mode"
+    trigger: "primitive mode"
+    title: "Primitive Fishing Techniques"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fishing"
     image_url: ""
     image_caption: ""
-    content: "Ice, often referred to as nature's armor, plays a crucial role in the environment. During winter, it encases bodies of water, preserving aquatic ecosystems and insulating them from extreme cold. Thoreau's description of Walden Pond's 'crystalline armor' highlights the interplay between fragility and strength in nature. Ice has also been a source of fascination in science and culture, symbolizing purity, resilience, and the passage of time."
-  - id: "silver-filigree"
-    trigger: "silver filigree"
-    title: "Frost's Ornamental Beauty"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Frost"
+    content: "Thoreau observes rudimentary fishing methods, such as using alder branches and oak leaves as indicators. These techniques reflect a closer relationship with nature and a reliance on ingenuity rather than modern tools, underscoring the simplicity of life around Walden Pond."
+  - id: "arabia-to-our-concord-life"
+    trigger: "Arabia to our Concord life"
+    title: "Arabia's Exotic Imagery"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Arabia"
     image_url: ""
     image_caption: ""
-    content: "Frost forms intricate patterns on surfaces during cold weather, creating a delicate and ornamental appearance. Thoreau likens frost-coated branches to 'silver filigree,' emphasizing the aesthetic beauty of winter. Frost has been admired for its artistic qualities and studied for its scientific properties, including its role in the water cycle and its impact on agriculture. In literature, frost often symbolizes transience and the fleeting nature of beauty."
-  - id: "winter-sky"
-    trigger: "winter sky"
-    title: "The Clarity of Winter Skies"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sky"
+    content: "Thoreau compares the dazzling beauty of Walden's pickerel to the exotic allure of Arabia, emphasizing their rarity and transcendence. This metaphor highlights the contrast between the mundane and the extraordinary, inviting readers to appreciate the unique wonders of nature."
+  - id: "bottomlessness-of-a-pond"
+    trigger: "bottomlessness of a pond"
+    title: "Myth of Bottomless Ponds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Limnology"
     image_url: ""
     image_caption: ""
-    content: "The winter sky, often clear and blue, provides a stark contrast to the muted tones of the season. Thoreau's observation of the 'cold clarity' of the winter sky reflects his appreciation for nature's simplicity and purity. The sky has been a source of inspiration for poets, artists, and scientists, symbolizing vastness, freedom, and the interconnectedness of the universe. In winter, its clarity serves as a reminder of the season's quiet beauty."
-  - id: "winters-chill"
-    trigger: "winter’s chill"
-    title: "The Physical and Symbolic Cold"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Winter"
+    content: "Thoreau debunks the myth of bottomless ponds, a common folklore in many regions. His scientific approach to measuring Walden Pond's depth reflects his commitment to understanding nature through observation and inquiry, bridging the gap between myth and reality."
+  - id: "william-gilpin"
+    trigger: "William Gilpin"
+    title: "William Gilpin's Landscape Theory"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Gilpin_(artist)"
     image_url: ""
     image_caption: ""
-    content: "Winter's chill is both a physical sensation and a symbolic element in literature and culture. It represents the harshness of the season but also its capacity for renewal and introspection. Thoreau's experience of 'winter’s chill' while measuring Walden Pond's depth underscores the interplay between human endurance and nature's challenges. The cold has inspired innovations in survival and adaptation, as well as artistic expressions of resilience and transformation."
-  - id: "springs"
-    trigger: "springs"
-    title: "Springs: Nature's Hidden Wells"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Spring_(hydrology)"
+    content: "William Gilpin was an 18th-century artist and writer known for his theories on picturesque landscapes. Thoreau references Gilpin to explore the geological history of ponds and valleys, connecting aesthetic appreciation with scientific inquiry."
+  - id: "loch-fyne"
+    trigger: "Loch Fyne"
+    title: "Loch Fyne's Geological Depth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Loch_Fyne"
     image_url: ""
     image_caption: ""
-    content: "Springs are natural outlets where groundwater emerges, often feeding lakes and rivers. Thoreau notes that Walden Pond is replenished by unseen springs, highlighting the hidden processes that sustain ecosystems. Springs have been vital sources of fresh water for human civilizations and are often associated with purity and renewal. Their presence in Walden Pond underscores the interconnectedness of natural systems and the enduring vitality of the environment."
-  - id: "bottomless-nature"
-    trigger: "bottomless nature"
-    title: "Debunking Bottomless Myths"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Bottomless_pit"
+    content: "Loch Fyne, a sea loch in Scotland, serves as a comparison for Walden Pond's depth and geological features. Thoreau uses it to illustrate the dramatic changes in landscapes over time, blending natural history with poetic imagination."
+  - id: "bhagvat-geeta"
+    trigger: "Bhagvat Geeta"
+    title: "Bhagavad Gita's Timeless Philosophy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     image_url: ""
     image_caption: ""
-    content: "The idea of 'bottomless' bodies of water has fascinated and mystified people for centuries, often appearing in folklore and mythology. Thoreau's measurement of Walden Pond debunks the myth of its bottomless nature, revealing the truth through careful observation. Such myths often symbolize the unknown or the infinite, but Thoreau's approach emphasizes the importance of seeking factual understanding of the natural world."
-  - id: "ice-harvesters"
-    trigger: "ice harvesters"
-    title: "Ice Harvesting in History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_harvesting"
+    content: "The Bhagavad Gita, a sacred Hindu text, offers profound philosophical insights into life, duty, and spirituality. Thoreau's admiration for its wisdom reflects the Transcendentalist embrace of global philosophies and their relevance to personal and ethical growth."
+  - id: "brahma-and-vishnu-and-indra"
+    trigger: "Brahma and Vishnu and Indra"
+    title: "Hindu Deities and Cosmology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hindu_deities"
     image_url: ""
     image_caption: ""
-    content: "Ice harvesting was a vital industry in the 19th century, providing ice for refrigeration before modern technology. Thoreau's depiction of ice harvesters at Walden Pond illustrates the interplay between human labor and nature's resources. This practice required skill and coordination, and the harvested ice was transported to cities and stored for use in warmer months. Ice harvesting reflects the ingenuity of adapting to seasonal cycles and the reliance on natural bounty."
-  - id: "windows-to-another-world"
-    trigger: "windows to another world"
-    title: "Ice as a Lens to Nature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice"
+    content: "Brahma, Vishnu, and Indra are central figures in Hindu mythology, representing creation, preservation, and power. Thoreau's reference to these deities underscores his fascination with Eastern spirituality and its alignment with his philosophical worldview."
+  - id: "fabulous-islands-of-atlantis"
+    trigger: "fabulous islands of Atlantis"
+    title: "The Myth of Atlantis"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Atlantis"
     image_url: ""
     image_caption: ""
-    content: "Thoreau describes ice blocks as 'windows to another world,' emphasizing their clarity and ability to refract light. Ice has long been admired for its transparency and beauty, serving as a metaphor for insight and revelation. In science, ice provides valuable information about climate history through trapped air bubbles. Its aesthetic and functional qualities make it a fascinating subject in both natural and cultural contexts."
-  - id: "cycles-of-nature"
-    trigger: "cycles of nature"
-    title: "Nature's Rhythmic Patterns"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Natural_cycle"
+    content: "Atlantis, a legendary island described by Plato, symbolizes advanced civilizations lost to history. Thoreau invokes this myth to highlight the interconnectedness of Walden's water with global narratives, blending natural observation with imaginative storytelling."
+  - id: "hesperides"
+    trigger: "Hesperides"
+    title: "Hesperides in Greek Mythology"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hesperides"
     image_url: ""
     image_caption: ""
-    content: "The cycles of nature, including the changing seasons, are fundamental to life on Earth. Thoreau reflects on these cycles at Walden Pond, finding peace in their predictability and wisdom. Natural cycles govern ecosystems, agriculture, and even human behavior, reminding us of our connection to the environment. They symbolize renewal and continuity, themes central to Thoreau's philosophy of living in harmony with nature."
-  - id: "winters-breath"
-    trigger: "winter’s breath"
-    title: "Winter's Atmospheric Presence"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Winter"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau's description of 'winter’s breath' evokes the season's quiet and pervasive presence. Winter's atmospheric qualities, such as cold air and snow, shape the landscape and influence human activity. In literature, winter often symbolizes introspection, endurance, and the passage of time. Thoreau's poetic imagery captures the essence of winter as both a physical reality and a source of profound reflection."
+    content: "The Hesperides were nymphs in Greek mythology who tended a garden of golden apples. Thoreau's mention of them enriches his narrative with mythological imagery, connecting the purity of Walden's water to legendary realms of beauty and abundance."
 ---
-The surface of the earth is soft and impressible by the feet of men; and so with the paths which the mind travels. How worn and dusty, then, must be the highways of the world—how deep the ruts of tradition and conformity! I went to the woods to see the earth’s **winter face**, to explore how its features change when veiled by frost and snow, and to sound the depths of **Walden Pond** in its icy slumber.
+After a still winter night I awoke with the impression that some
+question had been put to me, which I had been endeavoring in vain to
+answer in my sleep, as what—how—when—where? But there was dawning
+Nature, in whom all creatures live, looking in at my broad windows with
+serene and satisfied face, and no question on _her_ lips. I awoke to an
+answered question, to Nature and daylight. The snow lying deep on the
+earth dotted with young pines, and the very slope of the hill on which
+my house is placed, seemed to say, Forward! **Nature puts no question** and
+answers none which we mortals ask. She has long ago taken her
+resolution. “O Prince, our eyes contemplate with admiration and
+transmit to the soul the wonderful and varied spectacle of this
+universe. The night veils without doubt a part of this glorious
+creation; but day comes to reveal to us this great work, which extends
+from earth even into the plains of the ether.”
 
-The snow had fallen steadily, layering the world in a clean white sheet, and I walked out upon the frozen crust with a sense of novelty and wonder. The pond, so full of life and motion in the summer, lay silent now, encased in its **crystalline armor**, a testament to nature’s cycles. As I approached its shores, I could hear beneath the ice the faint murmurs of water, a reminder that the heart of the pond still beat, albeit slower, hidden from view.
+Then to my morning work. First I take an axe and pail and go in search
+of water, if that be not a dream. After a cold and snowy night it
+needed a divining rod to find it. Every winter the liquid and trembling
+surface of the pond, which was so sensitive to every breath, and
+reflected every light and shadow, becomes solid to the depth of a foot
+or a foot and a half, so that it will support the heaviest teams, and
+perchance the snow covers it to an equal depth, and it is not to be
+distinguished from any level field. Like the marmots in the surrounding
+hills, it closes its eye-lids and becomes dormant for three months or
+more. Standing on the snow-covered plain, as if in a pasture amid the
+hills, I cut my way first through a foot of snow, and then a foot of
+ice, and open a window under my feet, where, kneeling to drink, I look
+down into the quiet parlor of the fishes, pervaded by a softened light
+as through a window of ground glass, with its bright sanded floor the
+same as in summer; there a perennial waveless serenity reigns as in the
+amber twilight sky, corresponding to the cool and even temperament of
+the inhabitants. Heaven is under our feet as well as over our heads.
 
-There is a peculiar beauty in winter’s austerity, in the way the land sheds its ornament and stands forth in its elemental simplicity. The trees, stripped of their leaves, possess a stark dignity; their branches, coated with frost, glitter in the weak sunlight like **silver filigree**. The pond itself, wrapped in its frozen mantle, seemed to me a mirror of the heavens, reflecting not the clouds but the cold clarity of the **winter sky**, blue and unbroken.
+Early in the morning, while all things are crisp with frost, men come
+with fishing reels and slender lunch, and let down their fine lines
+through the snowy field to take **pickerel and perch**; wild men, who
+instinctively follow other fashions and trust other authorities than
+their townsmen, and by their goings and comings stitch towns together
+in parts where else they would be ripped. They sit and eat their
+luncheon in stout fear-naughts on the dry oak leaves on the shore, as
+wise in natural lore as the citizen is in artificial. They never
+consulted with books, and know and can tell much less than they have
+done. The things which they practise are said not yet to be known. Here
+is one fishing for pickerel with grown perch for bait. You look into
+his pail with wonder as into a summer pond, as if he kept summer locked
+up at home, or knew where she had retreated. How, pray, did he get
+these in mid-winter? O, he got worms out of rotten logs since the
+ground froze, and so he caught them. His life itself passes deeper in
+Nature than the studies of the naturalist penetrate; himself a subject
+for the naturalist. The latter raises the moss and bark gently with his
+knife in search of insects; the former lays open logs to their core
+with his axe, and moss and bark fly far and wide. He gets his living by
+barking trees. Such a man has some right to fish, and I love to see
+Nature carried out in him. The perch swallows the grub-worm, the
+pickerel swallows the perch, and the fisher-man swallows the pickerel;
+and so all the chinks in the scale of being are filled.
 
-I had often wondered about the depth of Walden Pond and its hidden secrets. I was resolved to measure its profundity, to ascertain whether it was indeed bottomless as some of the villagers claimed. Armed with an axe, I cut through the ice, which was nearly a foot thick, and lowered my sounding line. As I leaned over the opening, the cold radiated upward, and I felt the breath of **winter’s chill** upon my face.
+When I strolled around the pond in misty weather I was sometimes amused
+by the **primitive mode** which some ruder fisherman had adopted. He would
+perhaps have placed alder branches over the narrow holes in the ice,
+which were four or five rods apart and an equal distance from the
+shore, and having fastened the end of the line to a stick to prevent
+its being pulled through, have passed the slack line over a twig of the
+alder, a foot or more above the ice, and tied a dry oak leaf to it,
+which, being pulled down, would show when he had a bite. These alders
+loomed through the mist at regular intervals as you walked half way
+round the pond.
 
-The line descended slowly, its weight pulling it deeper and deeper into the pond’s unseen depths. At length, I felt it touch the bottom, and I marked the spot: one hundred and two feet. Walden was no mere puddle; it was an ancient basin, carved by the hands of glaciers and filled by **springs** unseen. Its waters, even in the dead of winter, maintained their purity, resisting the decay that so often taints the stagnant pools of the world.
+Ah, the pickerel of Walden! when I see them lying on the ice, or in the
+well which the fisherman cuts in the ice, making a little hole to admit
+the water, I am always surprised by their rare beauty, as if they were
+fabulous fishes, they are so foreign to the streets, even to the woods,
+foreign as **Arabia to our Concord life**. They possess a quite dazzling
+and transcendent beauty which separates them by a wide interval from
+the cadaverous cod and haddock whose fame is trumpeted in our streets.
+They are not green like the pines, nor gray like the stones, nor blue
+like the sky; but they have, to my eyes, if possible, yet rarer colors,
+like flowers and precious stones, as if they were the pearls, the
+animalized _nuclei_ or crystals of the Walden water. They, of course,
+are Walden all over and all through; are themselves small Waldens in
+the animal kingdom, Waldenses. It is surprising that they are caught
+here,—that in this deep and capacious spring, far beneath the rattling
+teams and chaises and tinkling sleighs that travel the Walden road,
+this great gold and emerald fish swims. I never chanced to see its kind
+in any market; it would be the cynosure of all eyes there. Easily, with
+a few convulsive quirks, they give up their watery ghosts, like a
+mortal translated before his time to the thin air of heaven.
 
-The villagers, in their ignorance, had long told tales of the pond’s **bottomless nature**, imagining it as a portal to some underworld or as the dwelling place of spirits. But I found no mystery here, only the steady truth of nature, which yields its secrets to those who seek them with patience and care. Walden is not infinite, but its depths are sufficient to humble and awe. It is a true wellspring, one that nourishes the spirit of those who come to its shores with open hearts.
 
-As I stood there, contemplating the pond and its frozen expanse, I watched as the **ice harvesters** arrived, armed with their tools. These men, dressed in thick wool and leather, worked swiftly and methodically, cutting blocks of ice to store for the summer months. Their task seemed both mundane and monumental, a reminder of the interdependence between human labor and the earth’s bounty. They chipped away at the frozen surface, each blow of their axes ringing out like the toll of a bell, echoing across the snowy landscape.
 
-The ice, once removed, revealed the pond’s hidden world, a dark and liquid realm beneath the frozen crust. I thought of the fish that lay dormant in those waters, their movements slowed by the cold, yet still alive, waiting for the renewal of spring. Life persists even in the harshest conditions, adapting to the rhythms of the seasons. In this way, the pond serves as a microcosm of the natural world, embodying the cycles of growth, decay, and rebirth.
+walden_pond_map
 
-I watched as the men loaded the ice onto sleds, their horses straining against the weight. The blocks, so clear and perfect, seemed like **windows to another world**, their surfaces capturing the light and refracting it into rainbows. The harvesters spoke little, their breaths visible in the cold air, and their silence seemed fitting in the presence of such pristine beauty.
 
-As the day waned, I walked back to my cabin, the light of the setting sun casting long shadows across the snow. The pond, now quiet and still once more, seemed to retreat into itself, its secrets preserved until spring’s thaw. I thought of the **cycles of nature**, of the way the earth continually renews itself, and I felt a sense of peace, knowing that I was but a small part of this vast and intricate web.
 
-Winter at Walden Pond is a time of reflection, a season for quiet study and contemplation. The land, stripped of its excess, reveals its essential truths, and in its austerity, there is beauty. I am reminded that simplicity is not poverty; it is clarity. The pond, in its frozen state, mirrors this principle, offering a lesson in patience and endurance. It is a teacher, if one is willing to listen, and its wisdom is profound.
+As I was desirous to recover the long lost bottom of **Walden Pond**, I
+surveyed it carefully, before the ice broke up, early in ’46, with
+compass and chain and sounding line. There have been many stories told
+about the bottom, or rather no bottom, of this pond, which certainly
+had no foundation for themselves. It is remarkable how long men will
+believe in the **bottomlessness of a pond** without taking the trouble to
+sound it. I have visited two such Bottomless Ponds in one walk in this
+neighborhood. Many have believed that Walden reached quite through to
+the other side of the globe. Some who have lain flat on the ice for a
+long time, looking down through the illusive medium, perchance with
+watery eyes into the bargain, and driven to hasty conclusions by the
+fear of catching cold in their breasts, have seen vast holes “into
+which a load of hay might be driven,” if there were any body to drive
+it, the undoubted source of the Styx and entrance to the Infernal
+Regions from these parts. Others have gone down from the village with a
+“fifty-six” and a wagon load of inch rope, but yet have failed to find
+any bottom; for while the “fifty-six” was resting by the way, they were
+paying out the rope in the vain attempt to fathom their truly
+immeasurable capacity for marvellousness. But I can assure my readers
+that Walden has a reasonably tight bottom at a not unreasonable, though
+at an unusual, depth. I fathomed it easily with a cod-line and a stone
+weighing about a pound and a half, and could tell accurately when the
+stone left the bottom, by having to pull so much harder before the
+water got underneath to help me. The greatest depth was exactly one
+hundred and two feet; to which may be added the five feet which it has
+risen since, making one hundred and seven. This is a remarkable depth
+for so small an area; yet not an inch of it can be spared by the
+imagination. What if all ponds were shallow? Would it not react on the
+minds of men? I am thankful that this pond was made deep and pure for a
+symbol. While men believe in the infinite some ponds will be thought to
+be bottomless.
 
-The snow began to fall again as I approached my cabin, its flakes swirling in the air like **winter’s breath**, soft and silent. The pond lay behind me, its depths measured but its mysteries still intact, a reminder of the inexhaustible richness of the natural world. I stepped inside and closed the door, leaving the cold behind, but carrying with me the quiet strength of the earth in winter. In the stillness of my small room, I pondered the lessons of the day and felt gratitude for the enduring presence of Walden Pond, a companion in solitude and a source of perpetual wonder.
+A factory owner, hearing what depth I had found, thought that it could
+not be true, for, judging from his acquaintance with dams, sand would
+not lie at so steep an angle. But the deepest ponds are not so deep in
+proportion to their area as most suppose, and, if drained, would not
+leave very remarkable valleys. They are not like cups between the
+hills; for this one, which is so unusually deep for its area, appears
+in a vertical section through its centre not deeper than a shallow
+plate. Most ponds, emptied, would leave a meadow no more hollow than we
+frequently see. **William Gilpin**, who is so admirable in all that relates
+to landscapes, and usually so correct, standing at the head of Loch
+Fyne, in Scotland, which he describes as “a bay of salt water, sixty or
+seventy fathoms deep, four miles in breadth,” and about fifty miles
+long, surrounded by mountains, observes, “If we could have seen it
+immediately after the diluvian crash, or whatever convulsion of Nature
+occasioned it, before the waters gushed in, what a horrid chasm must it
+have appeared!
+
+     So high as heaved the tumid hills, so low
+     Down sunk a hollow bottom broad and deep,
+     Capacious bed of waters—.”
+
+But if, using the shortest diameter of **Loch Fyne**, we apply these
+proportions to Walden, which, as we have seen, appears already in a
+vertical section only like a shallow plate, it will appear four times
+as shallow. So much for the _increased_ horrors of the chasm of Loch
+Fyne when emptied. No doubt many a smiling valley with its stretching
+cornfields occupies exactly such a “horrid chasm,” from which the
+waters have receded, though it requires the insight and the far sight
+of the geologist to convince the unsuspecting inhabitants of this fact.
+Often an inquisitive eye may detect the shores of a primitive lake in
+the low horizon hills, and no subsequent elevation of the plain has
+been necessary to conceal their history. But it is easiest, as they who
+work on the highways know, to find the hollows by the puddles after a
+shower. The amount of it is, the imagination give it the least license,
+dives deeper and soars higher than Nature goes. So, probably, the depth
+of the ocean will be found to be very inconsiderable compared with its
+breadth.
+
+As I sounded through the ice I could determine the shape of the bottom
+with greater accuracy than is possible in surveying harbors which do
+not freeze over, and I was surprised at its general regularity. In the
+deepest part there are several acres more level than almost any field
+which is exposed to the sun wind and plough. In one instance, on a line
+arbitrarily chosen, the depth did not vary more than one foot in thirty
+rods; and generally, near the middle, I could calculate the variation
+for each one hundred feet in any direction beforehand within three or
+four inches. Some are accustomed to speak of deep and dangerous holes
+even in quiet sandy ponds like this, but the effect of water under
+these circumstances is to level all inequalities. The regularity of the
+bottom and its conformity to the shores and the range of the
+neighboring hills were so perfect that a distant promontory betrayed
+itself in the soundings quite across the pond, and its direction could
+be determined by observing the opposite shore. Cape becomes bar, and
+plain shoal, and valley and gorge deep water and channel.
+
+When I had mapped the pond by the scale of ten rods to an inch, and put
+down the soundings, more than a hundred in all, I observed this
+remarkable coincidence. Having noticed that the number indicating the
+greatest depth was apparently in the centre of the map, I laid a rule
+on the map lengthwise, and then breadthwise, and found, to my surprise,
+that the line of greatest length intersected the line of greatest
+breadth _exactly_ at the point of greatest depth, notwithstanding that
+the middle is so nearly level, the outline of the pond far from
+regular, and the extreme length and breadth were got by measuring into
+the coves; and I said to myself, Who knows but this hint would conduct
+to the deepest part of the ocean as well as of a pond or puddle? Is not
+this the rule also for the height of mountains, regarded as the
+opposite of valleys? We know that a hill is not highest at its
+narrowest part.
+
+Of five coves, three, or all which had been sounded, were observed to
+have a bar quite across their mouths and deeper water within, so that
+the bay tended to be an expansion of water within the land not only
+horizontally but vertically, and to form a basin or independent pond,
+the direction of the two capes showing the course of the bar. Every
+harbor on the sea-coast, also, has its bar at its entrance. In
+proportion as the mouth of the cove was wider compared with its length,
+the water over the bar was deeper compared with that in the basin.
+Given, then, the length and breadth of the cove, and the character of
+the surrounding shore, and you have almost elements enough to make out
+a formula for all cases.
+
+In order to see how nearly I could guess, with this experience, at the
+deepest point in a pond, by observing the outlines of its surface and
+the character of its shores alone, I made a plan of White Pond, which
+contains about forty-one acres, and, like this, has no island in it,
+nor any visible inlet or outlet; and as the line of greatest breadth
+fell very near the line of least breadth, where two opposite capes
+approached each other and two opposite bays receded, I ventured to mark
+a point a short distance from the latter line, but still on the line of
+greatest length, as the deepest. The deepest part was found to be
+within one hundred feet of this, still farther in the direction to
+which I had inclined, and was only one foot deeper, namely, sixty feet.
+Of course, a stream running through, or an island in the pond, would
+make the problem much more complicated.
+
+If we knew all the laws of Nature, we should need only one fact, or the
+description of one actual phenomenon, to infer all the particular
+results at that point. Now we know only a few laws, and our result is
+vitiated, not, of course, by any confusion or irregularity in Nature,
+but by our ignorance of essential elements in the calculation. Our
+notions of law and harmony are commonly confined to those instances
+which we detect; but the harmony which results from a far greater
+number of seemingly conflicting, but really concurring, laws, which we
+have not detected, is still more wonderful. The particular laws are as
+our points of view, as, to the traveller, a mountain outline varies
+with every step, and it has an infinite number of profiles, though
+absolutely but one form. Even when cleft or bored through it is not
+comprehended in its entireness.
+
+What I have observed of the pond is no less true in ethics. It is the
+law of average. Such a rule of the two diameters not only guides us
+toward the sun in the system and the heart in man, but draw lines
+through the length and breadth of the aggregate of a man’s particular
+daily behaviors and waves of life into his coves and inlets, and where
+they intersect will be the height or depth of his character. Perhaps we
+need only to know how his shores trend and his adjacent country or
+circumstances, to infer his depth and concealed bottom. If he is
+surrounded by mountainous circumstances, an Achillean shore, whose
+peaks overshadow and are reflected in his bosom, they suggest a
+corresponding depth in him. But a low and smooth shore proves him
+shallow on that side. In our bodies, a bold projecting brow falls off
+to and indicates a corresponding depth of thought. Also there is a bar
+across the entrance of our every cove, or particular inclination; each
+is our harbor for a season, in which we are detained and partially
+land-locked. These inclinations are not whimsical usually, but their
+form, size, and direction are determined by the promontories of the
+shore, the ancient axes of elevation. When this bar is gradually
+increased by storms, tides, or currents, or there is a subsidence of
+the waters, so that it reaches to the surface, that which was at first
+but an inclination in the shore in which a thought was harbored becomes
+an individual lake, cut off from the ocean, wherein the thought secures
+its own conditions, changes, perhaps, from salt to fresh, becomes a
+sweet sea, dead sea, or a marsh. At the advent of each individual into
+this life, may we not suppose that such a bar has risen to the surface
+somewhere? It is true, we are such poor navigators that our thoughts,
+for the most part, stand off and on upon a harborless coast, are
+conversant only with the bights of the bays of poesy, or steer for the
+public ports of entry, and go into the dry docks of science, where they
+merely refit for this world, and no natural currents concur to
+individualize them.
+
+As for the inlet or outlet of Walden, I have not discovered any but
+rain and snow and evaporation, though perhaps, with a thermometer and a
+line, such places may be found, for where the water flows into the pond
+it will probably be coldest in summer and warmest in winter. When the
+ice-men were at work here in ’46–7, the cakes sent to the shore were
+one day rejected by those who were stacking them up there, not being
+thick enough to lie side by side with the rest; and the cutters thus
+discovered that the ice over a small space was two or three inches
+thinner than elsewhere, which made them think that there was an inlet
+there. They also showed me in another place what they thought was a
+“leach hole,” through which the pond leaked out under a hill into a
+neighboring meadow, pushing me out on a cake of ice to see it. It was a
+small cavity under ten feet of water; but I think that I can warrant
+the pond not to need soldering till they find a worse leak than that.
+One has suggested, that if such a “leach hole” should be found, its
+connection with the meadow, if any existed, might be proved by
+conveying some colored powder or sawdust to the mouth of the hole, and
+then putting a strainer over the spring in the meadow, which would
+catch some of the particles carried through by the current.
+
+While I was surveying, the ice, which was sixteen inches thick,
+undulated under a slight wind like water. It is well known that a level
+cannot be used on ice. At one rod from the shore its greatest
+fluctuation, when observed by means of a level on land directed toward
+a graduated staff on the ice, was three quarters of an inch, though the
+ice appeared firmly attached to the shore. It was probably greater in
+the middle. Who knows but if our instruments were delicate enough we
+might detect an undulation in the crust of the earth? When two legs of
+my level were on the shore and the third on the ice, and the sights
+were directed over the latter, a rise or fall of the ice of an almost
+infinitesimal amount made a difference of several feet on a tree across
+the pond. When I began to cut holes for sounding, there were three or
+four inches of water on the ice under a deep snow which had sunk it
+thus far; but the water began immediately to run into these holes, and
+continued to run for two days in deep streams, which wore away the ice
+on every side, and contributed essentially, if not mainly, to dry the
+surface of the pond; for, as the water ran in, it raised and floated
+the ice. This was somewhat like cutting a hole in the bottom of a ship
+to let the water out. When such holes freeze, and a rain succeeds, and
+finally a new freezing forms a fresh smooth ice over all, it is
+beautifully mottled internally by dark figures, shaped somewhat like a
+spider’s web, what you may call ice rosettes, produced by the channels
+worn by the water flowing from all sides to a centre. Sometimes, also,
+when the ice was covered with shallow puddles, I saw a double shadow of
+myself, one standing on the head of the other, one on the ice, the
+other on the trees or hill-side.
+
+
+
+While yet it is cold January, and snow and ice are thick and solid, the
+prudent landlord comes from the village to get ice to cool his summer
+drink; impressively, even pathetically wise, to foresee the heat and
+thirst of July now in January,—wearing a thick coat and mittens! when
+so many things are not provided for. It may be that he lays up no
+treasures in this world which will cool his summer drink in the next.
+He cuts and saws the solid pond, unroofs the house of fishes, and carts
+off their very element and air, held fast by chains and stakes like
+corded wood, through the favoring winter air, to wintry cellars, to
+underlie the summer there. It looks like solidified azure, as, far off,
+it is drawn through the streets. These ice-cutters are a merry race,
+full of jest and sport, and when I went among them they were wont to
+invite me to saw pit-fashion with them, I standing underneath.
+
+In the winter of ’46–7 there came a hundred men of Hyperborean
+extraction swoop down on to our pond one morning, with many car-loads
+of ungainly-looking farming tools, sleds, ploughs, drill-barrows,
+turf-knives, spades, saws, rakes, and each man was armed with a
+double-pointed pike-staff, such as is not described in the New-England
+Farmer or the Cultivator. I did not know whether they had come to sow a
+crop of winter rye, or some other kind of grain recently introduced
+from Iceland. As I saw no manure, I judged that they meant to skim the
+land, as I had done, thinking the soil was deep and had lain fallow
+long enough. They said that a gentleman farmer, who was behind the
+scenes, wanted to double his money, which, as I understood, amounted to
+half a million already; but in order to cover each one of his dollars
+with another, he took off the only coat, ay, the skin itself, of Walden
+Pond in the midst of a hard winter. They went to work at once,
+ploughing, harrowing, rolling, furrowing, in admirable order, as if
+they were bent on making this a model farm; but when I was looking
+sharp to see what kind of seed they dropped into the furrow, a gang of
+fellows by my side suddenly began to hook up the virgin mould itself,
+with a peculiar jerk, clean down to the sand, or rather the water,—for
+it was a very springy soil,—indeed all the _terra firma_ there was,—and
+haul it away on sleds, and then I guessed that they must be cutting
+peat in a bog. So they came and went every day, with a peculiar shriek
+from the locomotive, from and to some point of the polar regions, as it
+seemed to me, like a flock of arctic snow-birds. But sometimes Squaw
+Walden had her revenge, and a hired man, walking behind his team,
+slipped through a crack in the ground down toward Tartarus, and he who
+was so brave before suddenly became but the ninth part of a man, almost
+gave up his animal heat, and was glad to take refuge in my house, and
+acknowledged that there was some virtue in a stove; or sometimes the
+frozen soil took a piece of steel out of a ploughshare, or a plough got
+set in the furrow and had to be cut out.
+
+To speak literally, a hundred Irishmen, with Yankee overseers, came
+from Cambridge every day to get out the ice. They divided it into cakes
+by methods too well known to require description, and these, being
+sledded to the shore, were rapidly hauled off on to an ice platform,
+and raised by grappling irons and block and tackle, worked by horses,
+on to a stack, as surely as so many barrels of flour, and there placed
+evenly side by side, and row upon row, as if they formed the solid base
+of an obelisk designed to pierce the clouds. They told me that in a
+good day they could get out a thousand tons, which was the yield of
+about one acre. Deep ruts and “cradle holes” were worn in the ice, as
+on _terra firma_, by the passage of the sleds over the same track, and
+the horses invariably ate their oats out of cakes of ice hollowed out
+like buckets. They stacked up the cakes thus in the open air in a pile
+thirty-five feet high on one side and six or seven rods square, putting
+hay between the outside layers to exclude the air; for when the wind,
+though never so cold, finds a passage through, it will wear large
+cavities, leaving slight supports or studs only here and there, and
+finally topple it down. At first it looked like a vast blue fort or
+Valhalla; but when they began to tuck the coarse meadow hay into the
+crevices, and this became covered with rime and icicles, it looked like
+a venerable moss-grown and hoary ruin, built of azure-tinted marble,
+the abode of Winter, that old man we see in the almanac,—his shanty, as
+if he had a design to estivate with us. They calculated that not
+twenty-five per cent of this would reach its destination, and that two
+or three per cent would be wasted in the cars. However, a still greater
+part of this heap had a different destiny from what was intended; for,
+either because the ice was found not to keep so well as was expected,
+containing more air than usual, or for some other reason, it never got
+to market. This heap, made in the winter of ’46–7 and estimated to
+contain ten thousand tons, was finally covered with hay and boards; and
+though it was unroofed the following July, and a part of it carried
+off, the rest remaining exposed to the sun, it stood over that summer
+and the next winter, and was not quite melted till September 1848. Thus
+the pond recovered the greater part.
+
+Like the water, the Walden ice, seen near at hand, has a green tint,
+but at a distance is beautifully blue, and you can easily tell it from
+the white ice of the river, or the merely greenish ice of some ponds, a
+quarter of a mile off. Sometimes one of those great cakes slips from
+the ice-man’s sled into the village street, and lies there for a week
+like a great emerald, an object of interest to all passers. I have
+noticed that a portion of Walden which in the state of water was green
+will often, when frozen, appear from the same point of view blue. So
+the hollows about this pond will, sometimes, in the winter, be filled
+with a greenish water somewhat like its own, but the next day will have
+frozen blue. Perhaps the blue color of water and ice is due to the
+light and air they contain, and the most transparent is the bluest. Ice
+is an interesting subject for contemplation. They told me that they had
+some in the ice-houses at Fresh Pond five years old which was as good
+as ever. Why is it that a bucket of water soon becomes putrid, but
+frozen remains sweet forever? It is commonly said that this is the
+difference between the affections and the intellect.
+
+Thus for sixteen days I saw from my window a hundred men at work like
+busy husbandmen, with teams and horses and apparently all the
+implements of farming, such a picture as we see on the first page of
+the almanac; and as often as I looked out I was reminded of the fable
+of the lark and the reapers, or the parable of the sower, and the like;
+and now they are all gone, and in thirty days more, probably, I shall
+look from the same window on the pure sea-green Walden water there,
+reflecting the clouds and the trees, and sending up its evaporations in
+solitude, and no traces will appear that a man has ever stood there.
+Perhaps I shall hear a solitary loon laugh as he dives and plumes
+himself, or shall see a lonely fisher in his boat, like a floating
+leaf, beholding his form reflected in the waves, where lately a hundred
+men securely labored.
+
+Thus it appears that the sweltering inhabitants of Charleston and New
+Orleans, of Madras and Bombay and Calcutta, drink at my well. In the
+morning I bathe my intellect in the stupendous and cosmogonal
+philosophy of the **Bhagvat Geeta**, since whose composition years of the
+gods have elapsed, and in comparison with which our modern world and
+its literature seem puny and trivial; and I doubt if that philosophy is
+not to be referred to a previous state of existence, so remote is its
+sublimity from our conceptions. I lay down the book and go to my well
+for water, and lo! there I meet the servant of the Bramin, priest of
+**Brahma and Vishnu and Indra**, who still sits in his temple on the Ganges
+reading the Vedas, or dwells at the root of a tree with his crust and
+water jug. I meet his servant come to draw water for his master, and
+our buckets as it were grate together in the same well. The pure Walden
+water is mingled with the sacred water of the Ganges. With favoring
+winds it is wafted past the site of the **fabulous islands of Atlantis**
+and the **Hesperides**, makes the **periplus of Hanno**, and, floating by
+Ternate and Tidore and the mouth of the **Persian Gulf**, melts in the
+tropic gales of the Indian seas, and is landed in ports of which
+Alexander only heard the names.

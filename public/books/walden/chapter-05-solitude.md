@@ -9,78 +9,389 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau was genuinely delighted by solitude rather than merely resigned to it. He describes the experience of being alone in the woods as 'a most pleasing companionship' — a position most of his contemporaries found incomprehensible."
-    link: "https://en.wikipedia.org/wiki/Solitude"
-    link_label: "Solitude on Wikipedia"
-  - point: "He returns from town at night in rain and darkness, finding the cabin by touch and memory. He enters, lights a lamp, and feels not loneliness but the comfort of his own company — a thing he does not think most people experience."
+  - point: "Thoreau reflects on the sensory pleasures of solitude in nature and the harmony he feels with the environment."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    link_label: "Henry David Thoreau on Wikipedia"
-  - point: "The nearest neighbor was a mile away. Thoreau argues this is not isolation but independence — you learn to carry your civilization inside you rather than borrowing it from the crowd."
+    link_label: "Henry David Thoreau"
+  - point: "He describes the sounds of bullfrogs and whippoorwills as part of the evening's natural symphony."
+    link: "https://en.wikipedia.org/wiki/Whippoorwill"
+    link_label: "Whippoorwill"
+  - point: "Thoreau notes the traces left by visitors to his cabin, including marks on yellow walnut leaves and other objects."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
-    link_label: "Walden Pond on Wikipedia"
-  - point: "Every element of the pond — the rain, the frogs, the wind — was company enough. Nature was never indifferent to him, as it appeared from a distance. It was attentive and various and alive."
-    link: "https://en.wikipedia.org/wiki/Walden_Pond"
-    link_label: "Walden Pond on Wikipedia"
-  - point: "Thoreau describes a doubling of self: even alone, he was aware of something in him that watched and commented on what he did, a 'spectator' that was not quite himself. He found this less disturbing than most people would."
-    link: "https://en.wikipedia.org/wiki/Self-awareness"
-    link_label: "Self-awareness on Wikipedia"
-  - point: "He asks: what is the point of human company that does not refresh? Hours spent making conversation that matters to no one present — the exhaustion of society performed for its own sake."
-    link: "https://en.wikipedia.org/wiki/Thoreau%27s_cabin"
-    link_label: "Thoreau's Cabin on Wikipedia"
+    link_label: "Walden Pond"
+  - point: "He contrasts solitude with the crowded spaces of society, such as Beacon Hill and the Five Points."
+    link: "https://en.wikipedia.org/wiki/Beacon_Hill,_Boston"
+    link_label: "Beacon Hill"
+  - point: "Thoreau meditates on the cosmic perspective, referencing the Milky Way and humanity's place in the universe."
+    link: "https://en.wikipedia.org/wiki/Milky_Way"
+    link_label: "Milky Way"
+  - point: "He emphasizes the restorative power of nature, likening it to a universal medicine and contrasting it with artificial remedies."
+    link: "https://en.wikipedia.org/wiki/Hygeia"
+    link_label: "Hygeia"
 
 enhancements:
-  - id: "night-rain"
-    trigger: "night rain"
-    title: "Coming Home in the Dark — Thoreau's Account of Finding His Cabin"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/330px-Walden_Pond_outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "An outlook of Walden Pond. (CC BY-SA 4.0)"
-    content: "Thoreau describes returning to his cabin on a rainy night without a lantern, finding his way through the dark woods by memory. The path was roughly a mile from the village. He had walked it enough times that he could navigate it even when he could not see. Inside, he lit a lamp and found the space — small, spare, familiar — entirely sufficient. What is interesting about this passage is not the hardship but the absence of it. A person conditioned to comfort would have found the return miserable: wet clothes, dark path, cold cabin, no one waiting. Thoreau found it ordinary and agreeable. He had recalibrated what he needed. The cabin was not a deprivation but a minimum — the smallest viable space from which he could still do everything he wanted to do. That recalibration — figuring out what you genuinely need versus what you have simply come to expect — was one of the central experiments of Walden."
-  - id: "loneliness"
-    trigger: "loneliness"
-    title: "The Difference Between Solitude and Loneliness — Why Thoreau Wasn't Suffering"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Loneliness"
+  - id: "bullfrogs-trump"
+    trigger: "bullfrogs trump"
+    title: "Bullfrogs in Nature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_bullfrog"
     image_url: ""
     image_caption: ""
-    content: "Loneliness is the pain of unwanted solitude. Solitude is the chosen state of being alone, which can range from neutral to deeply pleasurable. Thoreau was careful to distinguish between them. He was not lonely at Walden because he did not experience his aloneness as a deprivation. He had chosen it, he wanted it, and he found it productive. This is the opposite of loneliness. Contemporary research on loneliness confirms the distinction: the damage done by loneliness is primarily caused not by the objective fact of being alone but by the feeling that one is not wanted, or that connection is unavailable. A person who is alone by choice and content with that choice is not lonely in any meaningful sense. Thoreau was unusually well-suited to solitude by temperament, and he knew this. He did not recommend his experiment to everyone. He recommended only that each person figure out what they genuinely needed rather than assuming they needed what everyone around them seemed to need."
-  - id: "rain-on-pond"
-    trigger: "rain on the pond"
-    title: "What Rain Sounds Like — The Acoustics of Water on Water"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rain"
+    content: "The American bullfrog is a large amphibian native to North America, known for its deep, resonant croak. Its vocalizations are often associated with summer evenings and wetland habitats. Thoreau's mention of bullfrogs highlights his attunement to the natural rhythms of Walden Pond, where these creatures are part of the ecosystem's soundscape."
+  - id: "note-of-the-whippoorwill"
+    trigger: "note of the whippoorwill"
+    title: "Whippoorwill's Nocturnal Song"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Whippoorwill"
     image_url: ""
-    image_caption: "Rain falling on a pond surface — a sound Thoreau described as a 'kindred melody'"
-    content: "Rain on a pond surface produces a complex, layered sound: the initial impact of drops, the ring of small wavelets spreading outward, the overlapping harmonics of thousands of simultaneous impacts. It is measurably different from rain on soil, on leaves, on a roof. Water-on-water has a particular brightness and sustained quality. Thoreau wrote about this with the attention of someone who had listened to it hundreds of times from a few feet away, from behind a cabin door or under the overhang. For him, rain was not weather that kept you inside but a specific acoustic event. He described it as 'a kindred melody' — something that resonated with the same part of him that enjoyed music. This quality of attention — applying to rain the same faculty you would apply to a symphony — was characteristic of his method. He was always listening for what was actually there, not simply noting that weather was occurring."
-  - id: "spectator-self"
-    trigger: "spectator"
-    title: "The Watcher Within — Thoreau and the Psychology of Self-Observation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Metacognition"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Metacognition_%26_Self-Regulated_Learning.png/330px-Metacognition_%26_Self-Regulated_Learning.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Metacognition &amp; Self-Regulated Learning (CC BY-SA 4.0)"
-    content: "Thoreau writes in Solitude about being aware of 'a certain doubleness' in himself: that even when alone, he seemed to observe his own actions and thoughts from a slight remove, as if there were a spectator who was not quite himself. He found this interesting rather than disturbing. What he was describing is now studied under the name of metacognition — thinking about thinking — and self-awareness more broadly. The capacity to observe your own mental states rather than simply experiencing them is associated with greater emotional stability, better decision-making, and stronger resistance to social pressure. Thoreau had developed this capacity to an unusual degree, partly through his journal practice: he had been writing daily observations of his own life and thoughts for fifteen years before Walden was published. The journal trained him to be a reliable witness to his own experience, which meant he could trust his own account of that experience more than most people can. When he said he was not lonely, he had some reason to believe he was telling the truth."
-  - id: "hermit-tradition"
-    trigger: "hermit"
-    title: "The Long Tradition of Deliberate Withdrawal — From Simeon to Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hermit"
+    image_caption: ""
+    content: "The whippoorwill is a nocturnal bird known for its repetitive and haunting call, often heard at dusk or night. Its presence in Thoreau's writing symbolizes the serenity and mystery of the natural world. The bird's call has inspired folklore and poetry, emphasizing its cultural and ecological significance."
+  - id: "yellow-walnut-leaf"
+    trigger: "yellow walnut leaf"
+    title: "Walnut Trees and Their Leaves"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Juglans"
     image_url: ""
-    image_caption: "Saint Jerome in the Wilderness, Hieronymus Bosch, c. 1505 — the hermit-scholar tradition Thoreau inherited"
-    content: "The decision to withdraw from society for a period of deliberate isolation has a history at least as old as written records. The Desert Fathers of 3rd-century Egypt went into the wilderness to escape the corruption of Roman civilization. The Christian hermit tradition produced figures like Simeon Stylites, who lived on top of a pillar for 37 years, and the anchorites who were walled into small rooms attached to churches. In Asia, the tradition of the forest-dwelling recluse or the mountain sage was similarly ancient. What distinguished Thoreau from most of this tradition was his secular purpose: he was not withdrawing to achieve spiritual purity or escape temptation. He was withdrawing to conduct an experiment — to see what life reduced to its essentials actually looked like. He was also, importantly, not actually withdrawing: he visited Concord regularly, received visitors, borrowed tools, and had his laundry done by his mother. The Walden experiment was deliberate simplification, not total renunciation. This is one reason it has remained more available to readers than the lives of genuine hermits."
+    image_caption: ""
+    content: "Walnut trees, belonging to the genus Juglans, are valued for their wood and nuts. Their leaves are pinnate and often used in folk crafts or as natural markers, as Thoreau observed. The yellowing of walnut leaves signals seasonal change, aligning with Thoreau's themes of nature's cycles."
+  - id: "railroad-half-a-mile-distant"
+    trigger: "railroad, half a mile distant"
+    title: "Railroads in the 19th Century"
+    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_rail_transport_in_the_United_States"
+    image_url: ""
+    image_caption: ""
+    content: "Railroads were transformative in 19th-century America, symbolizing industrial progress and connectivity. Thoreau's mention of the railroad near Walden Pond contrasts the solitude of nature with the encroachment of human technology, reflecting his ambivalence toward industrialization."
+  - id: "witches-are-all-hung"
+    trigger: "witches are all hung"
+    title: "Salem Witch Trials"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Salem_witch_trials"
+    image_url: ""
+    image_caption: ""
+    content: "The Salem witch trials were a series of hearings and prosecutions in colonial Massachusetts during the late 17th century. Thoreau's reference underscores the historical fear of the unknown and contrasts it with the enlightenment brought by Christianity and candles, symbolizing reason and light."
+  - id: "christianity-and-candles"
+    trigger: "Christianity and candles"
+    title: "Symbolism of Light in Christianity"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Light_in_Christianity"
+    image_url: ""
+    image_caption: ""
+    content: "Light is a central metaphor in Christianity, representing divine presence, guidance, and truth. Thoreau uses this imagery to contrast the superstition of the past with the clarity and illumination brought by modern faith and technology."
+  - id: "milky-way"
+    trigger: "Milky Way"
+    title: "The Milky Way Galaxy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Milky_Way"
+    image_url: ""
+    image_caption: ""
+    content: "The Milky Way is the galaxy that contains our solar system, visible as a band of light in the night sky. Thoreau's reference to the Milky Way reflects his cosmic perspective, emphasizing humanity's smallness and interconnectedness within the vast universe."
+  - id: "beacon-hill"
+    trigger: "Beacon Hill"
+    title: "Beacon Hill, Boston"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Beacon_Hill,_Boston"
+    image_url: ""
+    image_caption: ""
+    content: "Beacon Hill is a historic neighborhood in Boston, known for its Federal-style architecture and cultural significance. Thoreau contrasts this urban hub with the solitude of Walden Pond, highlighting the tension between societal life and individual retreat."
+  - id: "walden-pond"
+    trigger: "Walden Pond"
+    title: "Walden Pond's Legacy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
+    image_url: ""
+    image_caption: ""
+    content: "Walden Pond, located in Concord, Massachusetts, is famous for its association with Thoreau's experiment in simple living. It serves as a symbol of natural beauty, reflection, and transcendentalist ideals, central to Thoreau's philosophy."
+  - id: "hygeia"
+    trigger: "Hygeia"
+    title: "Hygeia, Goddess of Health"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hygeia"
+    image_url: ""
+    image_caption: ""
+    content: "Hygeia, in Greek mythology, is the goddess of health and hygiene, often depicted with a serpent and a cup. Thoreau contrasts her with Hebe to emphasize natural vitality over artificial remedies, aligning with his celebration of nature's restorative powers."
 ---
-This is a delicious evening, when the whole body is one sense, and imbibes delight through every pore. I go and come with a strange liberty in Nature, a part of herself. As I walk along the stony shore of the pond in my shirt-sleeves, though it is cool as well as cloudy and windy, and I see nothing special to attract me, all the elements are unusually congenial to me.
+This is a delicious evening, when the whole body is one sense, and
+imbibes delight through every pore. I go and come with a strange
+liberty in Nature, a part of herself. As I walk along the stony shore
+of the pond in my shirt sleeves, though it is cool as well as cloudy
+and windy, and I see nothing special to attract me, all the elements
+are unusually congenial to me. The **bullfrogs trump** to usher in the
+night, and the **note of the whippoorwill** is borne on the rippling wind
+from over the water. Sympathy with the fluttering alder and poplar
+leaves almost takes away my breath; yet, like the lake, my serenity is
+rippled but not ruffled. These small waves raised by the evening wind
+are as remote from storm as the smooth reflecting surface. Though it is
+now dark, the wind still blows and roars in the wood, the waves still
+dash, and some creatures lull the rest with their notes. The repose is
+never complete. The wildest animals do not repose, but seek their prey
+now; the fox, and skunk, and rabbit, now roam the fields and woods
+without fear. They are Nature’s watchmen,—links which connect the days
+of animated life.
 
-The bullfrogs trump to usher in the night, and the note of the **whippoorwill** is borne on the rippling wind from over the water. Sympathy with the fluttering alder and poplar leaves almost takes away my breath; yet, like the lake, my serenity is rippled but not ruffled.
+When I return to my house I find that visitors have been there and left
+their cards, either a bunch of flowers, or a wreath of evergreen, or a
+name in pencil on a **yellow walnut leaf** or a chip. They who come rarely
+to the woods take some little piece of the forest into their hands to
+play with by the way, which they leave, either intentionally or
+accidentally. One has peeled a willow wand, woven it into a ring, and
+dropped it on my table. I could always tell if visitors had called in
+my absence, either by the bended twigs or grass, or the print of their
+shoes, and generally of what sex or age or quality they were by some
+slight trace left, as a flower dropped, or a bunch of grass plucked and
+thrown away, even as far off as the **railroad, half a mile distant**, or
+by the lingering odor of a cigar or pipe. Nay, I was frequently
+notified of the passage of a traveller along the highway sixty rods off
+by the scent of his pipe.
 
-I find it wholesome to be alone the greater part of the time. To be in company, even with the best, is soon wearisome and dissipating. I love to be alone. I never found the companion that was so companionable as solitude. We are for the most part more lonely when we go abroad among men than when we stay in our chambers. A man thinking or working is always alone, let him be where he will. **Loneliness** is not measured by miles.
+There is commonly sufficient space about us. Our horizon is never quite
+at our elbows. The thick wood is not just at our door, nor the pond,
+but somewhat is always clearing, familiar and worn by us, appropriated
+and fenced in some way, and reclaimed from Nature. For what reason have
+I this vast range and circuit, some square miles of unfrequented
+forest, for my privacy, abandoned to me by men? My nearest neighbor is
+a mile distant, and no house is visible from any place but the
+hill-tops within half a mile of my own. I have my horizon bounded by
+woods all to myself; a distant view of the railroad where it touches
+the pond on the one hand, and of the fence which skirts the woodland
+road on the other. But for the most part it is as solitary where I live
+as on the prairies. It is as much Asia or Africa as New England. I
+have, as it were, my own sun and moon and stars, and a little world all
+to myself. At night there was never a traveller passed my house, or
+knocked at my door, more than if I were the first or last man; unless
+it were in the spring, when at long intervals some came from the
+village to fish for pouts,—they plainly fished much more in the Walden
+Pond of their own natures, and baited their hooks with darkness,—but
+they soon retreated, usually with light baskets, and left “the world to
+darkness and to me,” and the black kernel of the night was never
+profaned by any human neighborhood. I believe that men are generally
+still a little afraid of the dark, though the **witches are all hung**, and
+**Christianity and candles** have been introduced.
 
-When I returned to my house late at night, after walking through the **night rain** a mile from the village to my cabin without a lantern, I did not feel lonely. I found it quite natural to find my doorstep in the dark by the sound of my own footsteps in the leaves. Inside, with the lamp lit, with the **rain on the pond** audible through the open door, the small space was fully sufficient. The universe was as large as it always was.
+Yet I experienced sometimes that the most sweet and tender, the most
+innocent and encouraging society may be found in any natural object,
+even for the poor misanthrope and most melancholy man. There can be no
+very black melancholy to him who lives in the midst of Nature and has
+his senses still. There was never yet such a storm but it was Æolian
+music to a healthy and innocent ear. Nothing can rightly compel a
+simple and brave man to a vulgar sadness. While I enjoy the friendship
+of the seasons I trust that nothing can make life a burden to me. The
+gentle rain which waters my beans and keeps me in the house to-day is
+not drear and melancholy, but good for me too. Though it prevents my
+hoeing them, it is of far more worth than my hoeing. If it should
+continue so long as to cause the seeds to rot in the ground and destroy
+the potatoes in the low lands, it would still be good for the grass on
+the uplands, and, being good for the grass, it would be good for me.
+Sometimes, when I compare myself with other men, it seems as if I were
+more favored by the gods than they, beyond any deserts that I am
+conscious of; as if I had a warrant and surety at their hands which my
+fellows have not, and were especially guided and guarded. I do not
+flatter myself, but if it be possible they flatter me. I have never
+felt lonesome, or in the least oppressed by a sense of solitude, but
+once, and that was a few weeks after I came to the woods, when, for an
+hour, I doubted if the near neighborhood of man was not essential to a
+serene and healthy life. To be alone was something unpleasant. But I
+was at the same time conscious of a slight insanity in my mood, and
+seemed to foresee my recovery. In the midst of a gentle rain while
+these thoughts prevailed, I was suddenly sensible of such sweet and
+beneficent society in Nature, in the very pattering of the drops, and
+in every sound and sight around my house, an infinite and unaccountable
+friendliness all at once like an atmosphere sustaining me, as made the
+fancied advantages of human neighborhood insignificant, and I have
+never thought of them since. Every little pine needle expanded and
+swelled with sympathy and befriended me. I was so distinctly made aware
+of the presence of something kindred to me, even in scenes which we are
+accustomed to call wild and dreary, and also that the nearest of blood
+to me and humanest was not a person nor a villager, that I thought no
+place could ever be strange to me again.—
 
-I have a great deal of company in my house; especially in the morning, when nobody calls. Let me suggest a few comparisons, that some one may convey an idea of my situation. In the midst of a gentle rain while these thoughts prevailed, I was suddenly sensible of such sweet and beneficent society in Nature, in the very pattering of the drops, and in every sound and sight around my house, an infinite and unaccountable friendliness all at once like an atmosphere sustaining me, as made the fancied advantages of human neighborhood insignificant.
+     “Mourning untimely consumes the sad;
+     Few are their days in the land of the living,
+     Beautiful daughter of Toscar.”
 
-I have never felt lonesome, or in the least oppressed by a sense of solitude, but once, and that was a few weeks after I came to the woods, when, for an hour, I doubted if the near neighborhood of man was not essential to a serene and healthy life. To be alone was something unpleasant. But I was at the same time conscious of a slight insanity in my mood, and seemed to foresee my recovery.
+Some of my pleasantest hours were during the long rain storms in the
+spring or fall, which confined me to the house for the afternoon as
+well as the forenoon, soothed by their ceaseless roar and pelting; when
+an early twilight ushered in a long evening in which many thoughts had
+time to take root and unfold themselves. In those driving north-east
+rains which tried the village houses so, when the maids stood ready
+with mop and pail in front entries to keep the deluge out, I sat behind
+my door in my little house, which was all entry, and thoroughly enjoyed
+its protection. In one heavy thunder shower the lightning struck a
+large pitch-pine across the pond, making a very conspicuous and
+perfectly regular spiral groove from top to bottom, an inch or more
+deep, and four or five inches wide, as you would groove a
+walking-stick. I passed it again the other day, and was struck with awe
+on looking up and beholding that mark, now more distinct than ever,
+where a terrific and resistless bolt came down out of the harmless sky
+eight years ago. Men frequently say to me, “I should think you would
+feel lonesome down there, and want to be nearer to folks, rainy and
+snowy days and nights especially.” I am tempted to reply to such,—This
+whole earth which we inhabit is but a point in space. How far apart,
+think you, dwell the two most distant inhabitants of yonder star, the
+breadth of whose disk cannot be appreciated by our instruments? Why
+should I feel lonely? is not our planet in the **Milky Way**? This which
+you put seems to me not to be the most important question. What sort of
+space is that which separates a man from his fellows and makes him
+solitary? I have found that no exertion of the legs can bring two minds
+much nearer to one another. What do we want most to dwell near to? Not
+to many men surely, the depot, the post-office, the bar-room, the
+meeting-house, the school-house, the grocery, **Beacon Hill**, or the Five
+Points, where men most congregate, but to the perennial source of our
+life, whence in all our experience we have found that to issue, as the
+willow stands near the water and sends out its roots in that direction.
+This will vary with different natures, but this is the place where a
+wise man will dig his cellar.... I one evening overtook one of my
+townsmen, who has accumulated what is called “a handsome
+property,”—though I never got a _fair_ view of it,—on the Walden road,
+driving a pair of cattle to market, who inquired of me how I could
+bring my mind to give up so many of the comforts of life. I answered
+that I was very sure I liked it passably well; I was not joking. And so
+I went home to my bed, and left him to pick his way through the
+darkness and the mud to Brighton,—or Bright-town,—which place he would
+reach some time in the morning.
 
-There is a certain kind of **loneliness** more complete in a crowd than in the woods — the loneliness of not being heard, of performing speech for people who are not listening. In the woods I was not performing for anyone. I was simply present, which is the opposite of lonely.
+Any prospect of awakening or coming to life to a dead man makes
+indifferent all times and places. The place where that may occur is
+always the same, and indescribably pleasant to all our senses. For the
+most part we allow only outlying and transient circumstances to make
+our occasions. They are, in fact, the cause of our distraction. Nearest
+to all things is that power which fashions their being. _Next_ to us
+the grandest laws are continually being executed. _Next_ to us is not
+the workman whom we have hired, with whom we love so well to talk, but
+the workman whose work we are.
 
-I was not aware of any separation from the world. There was a curious **spectator** in me, an observer who noted what I did with a kind of ironic detachment — not critical, just watchful. I had read enough about this in the eastern scriptures to know it was not uncommon. But I had never experienced it as clearly as I did in solitude.
+“How vast and profound is the influence of the subtile powers of Heaven
+and of Earth!”
 
-Why should I feel lonely? Is not our planet in the Milky Way? The question is not whether I am in good society now, but whether there was ever a good society to be in. My nearest neighbor is a mile away, and this fact, which most people would consider a deficiency, I consider a convenience. When I come in from the fields, I am not coming in from loneliness. I am coming in from everywhere.
+“We seek to perceive them, and we do not see them; we seek to hear
+them, and we do not hear them; identified with the substance of things,
+they cannot be separated from them.”
 
-What sort of space is that which separates a man from his fellows and makes him solitary? I have found that no exertion of the legs can bring two minds much nearer to one another. The **hermit** who has withdrawn precisely so that his thinking is not disturbed will tell you that he is better company to himself than most people are to each other.
+“They cause that in all the universe men purify and sanctify their
+hearts, and clothe themselves in their holiday garments to offer
+sacrifices and oblations to their ancestors. It is an ocean of subtile
+intelligences. They are every where, above us, on our left, on our
+right; they environ us on all sides.”
+
+We are the subjects of an experiment which is not a little interesting
+to me. Can we not do without the society of our gossips a little while
+under these circumstances,—have our own thoughts to cheer us? Confucius
+says truly, “Virtue does not remain as an abandoned orphan; it must of
+necessity have neighbors.”
+
+With thinking we may be beside ourselves in a sane sense. By a
+conscious effort of the mind we can stand aloof from actions and their
+consequences; and all things, good and bad, go by us like a torrent. We
+are not wholly involved in Nature. I may be either the drift-wood in
+the stream, or Indra in the sky looking down on it. I _may_ be affected
+by a theatrical exhibition; on the other hand, I _may not_ be affected
+by an actual event which appears to concern me much more. I only know
+myself as a human entity; the scene, so to speak, of thoughts and
+affections; and am sensible of a certain doubleness by which I can
+stand as remote from myself as from another. However intense my
+experience, I am conscious of the presence and criticism of a part of
+me, which, as it were, is not a part of me, but spectator, sharing no
+experience, but taking note of it; and that is no more I than it is
+you. When the play, it may be the tragedy, of life is over, the
+spectator goes his way. It was a kind of fiction, a work of the
+imagination only, so far as he was concerned. This doubleness may
+easily make us poor neighbors and friends sometimes.
+
+I find it wholesome to be alone the greater part of the time. To be in
+company, even with the best, is soon wearisome and dissipating. I love
+to be alone. I never found the companion that was so companionable as
+solitude. We are for the most part more lonely when we go abroad among
+men than when we stay in our chambers. A man thinking or working is
+always alone, let him be where he will. Solitude is not measured by the
+miles of space that intervene between a man and his fellows. The really
+diligent student in one of the crowded hives of Cambridge College is as
+solitary as a dervish in the desert. The farmer can work alone in the
+field or the woods all day, hoeing or chopping, and not feel lonesome,
+because he is employed; but when he comes home at night he cannot sit
+down in a room alone, at the mercy of his thoughts, but must be where
+he can “see the folks,” and recreate, and as he thinks remunerate
+himself for his day’s solitude; and hence he wonders how the student
+can sit alone in the house all night and most of the day without ennui
+and “the blues;” but he does not realize that the student, though in
+the house, is still at work in _his_ field, and chopping in _his_
+woods, as the farmer in his, and in turn seeks the same recreation and
+society that the latter does, though it may be a more condensed form of
+it.
+
+Society is commonly too cheap. We meet at very short intervals, not
+having had time to acquire any new value for each other. We meet at
+meals three times a day, and give each other a new taste of that old
+musty cheese that we are. We have had to agree on a certain set of
+rules, called etiquette and politeness, to make this frequent meeting
+tolerable and that we need not come to open war. We meet at the
+post-office, and at the sociable, and about the fireside every night;
+we live thick and are in each other’s way, and stumble over one
+another, and I think that we thus lose some respect for one another.
+Certainly less frequency would suffice for all important and hearty
+communications. Consider the girls in a factory,—never alone, hardly in
+their dreams. It would be better if there were but one inhabitant to a
+square mile, as where I live. The value of a man is not in his skin,
+that we should touch him.
+
+I have heard of a man lost in the woods and dying of famine and
+exhaustion at the foot of a tree, whose loneliness was relieved by the
+grotesque visions with which, owing to bodily weakness, his diseased
+imagination surrounded him, and which he believed to be real. So also,
+owing to bodily and mental health and strength, we may be continually
+cheered by a like but more normal and natural society, and come to know
+that we are never alone.
+
+I have a great deal of company in my house; especially in the morning,
+when nobody calls. Let me suggest a few comparisons, that some one may
+convey an idea of my situation. I am no more lonely than the loon in
+the pond that laughs so loud, or than **Walden Pond** itself. What company
+has that lonely lake, I pray? And yet it has not the blue devils, but
+the blue angels in it, in the azure tint of its waters. The sun is
+alone, except in thick weather, when there sometimes appear to be two,
+but one is a mock sun. God is alone,—but the devil, he is far from
+being alone; he sees a great deal of company; he is legion. I am no
+more lonely than a single mullein or dandelion in a pasture, or a bean
+leaf, or sorrel, or a horse-fly, or a bumble-bee. I am no more lonely
+than the Mill Brook, or a weathercock, or the north star, or the south
+wind, or an April shower, or a January thaw, or the first spider in a
+new house.
+
+I have occasional visits in the long winter evenings, when the snow
+falls fast and the wind howls in the wood, from an old settler and
+original proprietor, who is reported to have dug Walden Pond, and
+stoned it, and fringed it with pine woods; who tells me stories of old
+time and of new eternity; and between us we manage to pass a cheerful
+evening with social mirth and pleasant views of things, even without
+apples or cider,—a most wise and humorous friend, whom I love much, who
+keeps himself more secret than ever did Goffe or Whalley; and though he
+is thought to be dead, none can show where he is buried. An elderly
+dame, too, dwells in my neighborhood, invisible to most persons, in
+whose odorous herb garden I love to stroll sometimes, gathering simples
+and listening to her fables; for she has a genius of unequalled
+fertility, and her memory runs back farther than mythology, and she can
+tell me the original of every fable, and on what fact every one is
+founded, for the incidents occurred when she was young. A ruddy and
+lusty old dame, who delights in all weathers and seasons, and is likely
+to outlive all her children yet.
+
+The indescribable innocence and beneficence of Nature,—of sun and wind
+and rain, of summer and winter,—such health, such cheer, they afford
+forever! and such sympathy have they ever with our race, that all
+Nature would be affected, and the sun’s brightness fade, and the winds
+would sigh humanely, and the clouds rain tears, and the woods shed
+their leaves and put on mourning in midsummer, if any man should ever
+for a just cause grieve. Shall I not have intelligence with the earth?
+Am I not partly leaves and vegetable mould myself?
+
+What is the pill which will keep us well, serene, contented? Not my or
+thy great-grandfather’s, but our great-grandmother Nature’s universal,
+vegetable, botanic medicines, by which she has kept herself young
+always, outlived so many old Parrs in her day, and fed her health with
+their decaying fatness. For my panacea, instead of one of those quack
+vials of a mixture dipped from Acheron and the Dead Sea, which come out
+of those long shallow black-schooner looking wagons which we sometimes
+see made to carry bottles, let me have a draught of undiluted morning
+air. Morning air! If men will not drink of this at the fountain-head of
+the day, why, then, we must even bottle up some and sell it in the
+shops, for the benefit of those who have lost their subscription ticket
+to morning time in this world. But remember, it will not keep quite
+till noon-day even in the coolest cellar, but drive out the stopples
+long ere that and follow westward the steps of Aurora. I am no
+worshipper of Hygeia, who was the daughter of that old herb-doctor
+Æsculapius, and who is represented on monuments holding a serpent in
+one hand, and in the other a cup out of which the serpent sometimes
+drinks; but rather of Hebe, cupbearer to Jupiter, who was the daughter
+of Juno and wild lettuce, and who had the power of restoring gods and
+men to the vigor of youth. She was probably the only thoroughly
+sound-conditioned, healthy, and robust young lady that ever walked the
+globe, and wherever she came it was spring.

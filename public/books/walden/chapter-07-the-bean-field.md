@@ -9,133 +9,444 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the labor-intensive process of cultivating his bean-field, which spans seven miles in row length."
+  - point: "Thoreau reflects on his labor-intensive bean cultivation and its connection to the earth."
     link: "https://en.wikipedia.org/wiki/Walden"
     link_label: "Walden"
-  - point: "He considers the economic value of his crop and contrasts it with the philosophical satisfaction derived from honest toil."
+  - point: "He compares his strength gained from working the land to the mythological figure Antæus."
+    link: "https://en.wikipedia.org/wiki/Antaeus"
+    link_label: "Antæus"
+  - point: "Thoreau discovers arrowheads in the soil, hinting at ancient Native American agriculture."
+    link: "https://en.wikipedia.org/wiki/Arrowhead_(artifact)"
+    link_label: "Arrowheads"
+  - point: "He contrasts his simple farming methods with the industrialized agriculture of his contemporaries."
     link: "https://en.wikipedia.org/wiki/Agriculture"
     link_label: "Agriculture"
-  - point: "Thoreau finds companionship in the solitude of his work, connecting deeply with nature and the rhythm of the earth."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism"
-  - point: "The bean-field serves as a microcosm of nature, allowing Thoreau to study the interplay of natural elements without artificial interference."
-    link: "https://en.wikipedia.org/wiki/Ecology"
-    link_label: "Ecology"
-  - point: "He reflects on agricultural traditions and humanity's historical relationship with the earth."
-    link: "https://en.wikipedia.org/wiki/History_of_agriculture"
-    link_label: "History of agriculture"
-  - point: "The bean-field becomes a metaphor for life's journey, emphasizing simplicity, harmony, and connection with nature."
-    link: "https://en.wikipedia.org/wiki/Nature_writing"
-    link_label: "Nature writing"
+  - point: "Thoreau critiques the modern farmer's focus on profit over the sacredness of husbandry."
+    link: "https://en.wikipedia.org/wiki/Ceres_(mythology)"
+    link_label: "Ceres"
+  - point: "He philosophizes about the interconnectedness of nature and the broader purpose of cultivation."
+    link: "https://en.wikipedia.org/wiki/Ecological_philosophy"
+    link_label: "Ecological philosophy"
 
 enhancements:
-  - id: "seven-miles"
-    trigger: "seven miles"
-    title: "Seven Miles of Bean Rows"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
+  - id: "antaeus-mythological-strength"
+    trigger: "Antæus"
+    title: "Antæus: Mythological Strength"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Antaeus"
     image_url: ""
     image_caption: ""
-    content: "The mention of 'seven miles' of bean rows highlights the scale of Thoreau's agricultural endeavor at Walden Pond. While the actual physical dimensions of the bean-field were modest, the cumulative length of the rows underscores the meticulous care and effort he invested in his work. This detail serves as a metaphor for the expansive nature of his philosophical exploration, where even small, deliberate actions can have profound significance. Thoreau's bean-field was not just a source of sustenance but a canvas for his reflections on labor, nature, and self-reliance, central themes in his transcendentalist philosophy."
-  - id: "corn-and-beans-staple"
-    trigger: "corn and beans were a staple of the market"
-    title: "Corn and Beans in Agriculture"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Agriculture"
+    content: "Antæus was a figure in Greek mythology, a giant who derived his strength from contact with the earth. Thoreau uses this metaphor to describe how his labor in the bean field connects him to the earth and revitalizes him. This myth underscores the idea of grounding oneself in nature for strength and resilience, a theme central to Thoreau's philosophy in 'Walden.'"
+  - id: "cinquefoil-wild-plant"
+    trigger: "cinquefoil"
+    title: "Cinquefoil: A Wild Plant"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Potentilla"
     image_url: ""
     image_caption: ""
-    content: "Corn and beans have been staple crops in agriculture for centuries, particularly in the Americas. These crops are often grown together in a method known as companion planting, which benefits both plants and the soil. Thoreau's reference to these staples reflects his awareness of their economic and cultural significance, even as he questions the value of market-driven farming. His focus on growing beans for personal fulfillment rather than profit aligns with his broader critique of industrialization and materialism, emphasizing the importance of simplicity and self-reliance."
-  - id: "sense-of-companionship"
-    trigger: "sense of companionship"
-    title: "Companionship in Solitude"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
+    content: "Cinquefoil refers to plants in the genus Potentilla, known for their five-petaled flowers. Thoreau mentions it as part of the wild flora he displaced to grow beans, symbolizing the tension between wild nature and cultivated land. This plant is often associated with resilience and adaptability, mirroring Thoreau's themes of self-reliance and harmony with nature."
+  - id: "johnswort-invasive-plant"
+    trigger: "johnswort"
+    title: "Johnswort: Invasive Plant"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hypericum"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's 'sense of companionship' in the solitude of his bean-field reflects a key transcendentalist belief in the interconnectedness of all life. For Thoreau, the act of cultivating beans was not merely agricultural labor but a spiritual practice that connected him to the earth and its rhythms. This companionship with nature provided solace and meaning, illustrating how solitude can foster a deeper connection with the world. Such reflections are central to transcendentalist thought, which values individual intuition and harmony with the natural environment."
-  - id: "microcosm-of-nature"
-    trigger: "microcosm of nature"
-    title: "The Bean-Field as Microcosm"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ecology"
+    content: "Johnswort, commonly known as St. John's Wort, is a plant with medicinal properties but can also be invasive. Thoreau's mention of it highlights his awareness of the ecological impact of farming and the ethical considerations of displacing native plants for agriculture."
+  - id: "woodchucks-pests-in-agriculture"
+    trigger: "woodchucks"
+    title: "Woodchucks: Pests in Agriculture"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's bean-field serves as a 'microcosm of nature,' a small-scale representation of the complex interactions within ecosystems. By observing the interplay of sun, rain, soil, and plants, Thoreau engages in an early form of ecological study, emphasizing the importance of understanding natural processes. His decision to avoid artificial fertilizers and rely on the field's inherent fertility reflects his commitment to living in harmony with nature. This microcosmic perspective aligns with his broader philosophical quest to find universal truths in the particulars of his immediate environment."
-  - id: "observation-and-experience"
-    trigger: "observation and experience"
-    title: "Learning Through Observation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Empiricism"
+    content: "Woodchucks, or groundhogs, are burrowing rodents that can cause significant damage to crops. Thoreau's struggle with woodchucks in his bean field illustrates the challenges of farming and the constant battle between humans and wildlife over land use."
+  - id: "arrowheads-native-american-history"
+    trigger: "arrowheads"
+    title: "Arrowheads: Native American History"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Arrowhead_(artifact)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's reliance on 'observation and experience' rather than books or external advice highlights his empirical approach to learning. Empiricism, the philosophical belief that knowledge comes primarily from sensory experience, is evident in Thoreau's hands-on engagement with his bean-field. This method allowed him to develop a deep understanding of natural processes and agricultural practices, reinforcing his transcendentalist belief in the value of direct, personal interaction with the world. His approach serves as a critique of overly theoretical or detached forms of knowledge, advocating for experiential learning as a path to wisdom."
-  - id: "philosophical-satisfaction"
-    trigger: "philosophical satisfaction"
-    title: "Philosophy in Labor"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophy"
+    content: "Arrowheads are stone tools used by Native Americans for hunting and warfare. Thoreau's discovery of them in his bean field connects his agricultural efforts to the historical presence of indigenous peoples, reminding readers of the long-standing relationship between humans and the land."
+  - id: "ranz-des-vaches-swiss-pastoral-music"
+    trigger: "Ranz des Vaches"
+    title: "Ranz des Vaches: Swiss Pastoral Music"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ranz_des_Vaches"
     image_url: ""
     image_caption: ""
-    content: "The 'philosophical satisfaction' Thoreau finds in his struggle with weeds reflects his ability to derive deeper meaning from ordinary tasks. For Thoreau, labor is not merely a means to an end but an opportunity for reflection and growth. This perspective aligns with his transcendentalist belief that every aspect of life, including its challenges, can offer insights into larger truths. By framing his agricultural work as a philosophical endeavor, Thoreau elevates the mundane to the profound, demonstrating how deliberate engagement with life's struggles can lead to wisdom and fulfillment."
-  - id: "agricultural-traditions"
-    trigger: "agricultural traditions"
-    title: "Ancient Farming Practices"
-    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_agriculture"
+    content: "The 'Ranz des Vaches' is a traditional Swiss melody associated with herding cows. Thoreau likens his hoeing rhythm to this pastoral tune, emphasizing the harmony between his labor and the natural world. This reference enriches the text with cultural depth and underscores the meditative quality of his work."
+  - id: "brown-thrasher-songbird"
+    trigger: "brown-thrasher"
+    title: "Brown Thrasher: A Songbird"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brown_thrasher"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's reflection on 'agricultural traditions' connects his bean-field to the broader history of humanity's relationship with the earth. Agriculture has been a cornerstone of civilization, shaping societies and economies for millennia. By engaging in farming, Thoreau participates in this age-old practice, linking his individual efforts to a collective human endeavor. His focus on traditional methods and avoidance of industrial techniques underscores his critique of modernity and his commitment to simplicity. This connection to agricultural heritage enriches his philosophical exploration of self-reliance and harmony with nature."
-  - id: "hands-of-a-child"
-    trigger: "hands of a child"
-    title: "Childlike Growth and Wonder"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Child_development"
+    content: "The brown thrasher is a North American songbird known for its complex and varied vocalizations. Thoreau's observation of its behavior while he works in the field highlights his attentiveness to nature and the interconnectedness of all living things in his environment."
+  - id: "pythagorean-dietary-philosophy"
+    trigger: "Pythagorean"
+    title: "Pythagorean: Dietary Philosophy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pythagorean_diet"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's comparison of bean tendrils to the 'hands of a child' evokes the innocence and potential inherent in growth. This metaphor highlights the delicate beauty and vitality of the beans, which, like children, reach upward toward life and light. The imagery underscores Thoreau's reverence for nature and its processes, reflecting his belief in the interconnectedness of all living things. By likening the beans to children, he emphasizes the nurturing aspect of his labor and the joy found in witnessing growth and development, both in plants and in life."
-  - id: "intricate-design"
-    trigger: "intricate design"
-    title: "Complexity in Nature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Biodiversity"
+    content: "The Pythagorean diet, inspired by the teachings of Pythagoras, emphasizes vegetarianism and abstinence from beans due to their symbolic association with the soul. Thoreau's reference reflects his philosophical approach to life and his exploration of ethical eating and self-discipline."
+  - id: "ceres-roman-goddess-of-agriculture"
+    trigger: "Ceres and the Terrestrial Jove"
+    title: "Ceres: Roman Goddess of Agriculture"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ceres_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau's observation of the 'intricate design' of birds and insects in his bean-field reflects his appreciation for the complexity and beauty of biodiversity. These creatures play essential roles in ecosystems, contributing to pollination, pest control, and nutrient cycling. By pausing to marvel at their design, Thoreau underscores the interconnectedness of all life and the importance of preserving natural habitats. His reflections align with ecological principles, emphasizing the need to understand and respect the delicate balance of nature, a theme central to his philosophy and writings."
-  - id: "quiet-wisdom"
-    trigger: "quiet wisdom"
-    title: "Wisdom from Solitude"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Solitude"
+    content: "Ceres, the Roman goddess of agriculture, symbolizes the sacredness of farming and the nurturing of life. Thoreau contrasts this reverence with the modern farmer's focus on profit, critiquing the loss of spiritual connection to the land."
+  - id: "spica-ear-of-wheat"
+    trigger: "spica"
+    title: "Spica: Ear of Wheat"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spica"
     image_url: ""
     image_caption: ""
-    content: "The 'quiet wisdom' Thoreau finds in his bean-field highlights the transformative power of solitude and reflection. For Thoreau, the field becomes a sanctuary where he can escape societal distractions and engage deeply with his thoughts and surroundings. This wisdom, born of simplicity and direct experience, contrasts with the noise and complexity of modern life. Thoreau's emphasis on solitude aligns with transcendentalist ideals, which value introspection and personal connection with nature as pathways to understanding and enlightenment."
-  - id: "sacred-dance"
-    trigger: "sacred dance"
-    title: "Nature's Sacred Dance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Harmony_(philosophy)"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau's description of the 'sacred dance' of the earth and sky, sun and rain, reflects his view of nature as a harmonious and interconnected system. This metaphor captures the beauty and balance of natural processes, which Thoreau sees as a source of spiritual insight. By participating in this dance through his labor, he aligns himself with the rhythms of the natural world, finding meaning and fulfillment in his work. This perspective underscores the transcendentalist belief in the sacredness of nature and the importance of living in harmony with it."
-  - id: "beauty-and-wisdom"
-    trigger: "beauty and wisdom"
-    title: "Lessons from Nature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nature_writing"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau's bean-field embodies 'beauty and wisdom,' serving as both a physical space and a metaphor for life's deeper truths. The beauty lies in the simplicity and elegance of natural processes, while the wisdom comes from the lessons learned through observation, labor, and reflection. For Thoreau, the field is a microcosm of the larger world, offering insights into the interconnectedness of life and the importance of living deliberately. This duality of beauty and wisdom is central to Thoreau's philosophy, emphasizing the value of finding meaning in the ordinary and the natural."
+    content: "Spica, Latin for 'ear of wheat,' symbolizes hope and agricultural abundance. Thoreau uses this term to reflect on the broader purpose of farming, suggesting that cultivation should extend beyond material gain to spiritual and ecological enrichment."
 ---
-Meanwhile my beans, the length of whose rows, added together, was **seven miles**, already yielded me an honest return, for they grew well, and required only constant vigilance to keep the earth about them loose and to eradicate the weeds. It was a narrow but well-trodden field upon which much labor had been bestowed for so small a crop, and I often thought it must have cost more than it came to, even if **corn and beans were a staple of the market**. But it was the best crop I could raise, and it afforded me the opportunity for honest, manly toil, which some philosophers have thought to be a curse, but which I found to be anything but that.
+Meanwhile my beans, the length of whose rows, added together, was seven
+miles already planted, were impatient to be hoed, for the earliest had
+grown considerably before the latest were in the ground; indeed they
+were not easily to be put off. What was the meaning of this so steady
+and self-respecting, this small Herculean labor, I knew not. I came to
+love my rows, my beans, though so many more than I wanted. They
+attached me to the earth, and so I got strength like **Antæus**. But why
+should I raise them? Only Heaven knows. This was my curious labor all
+summer,—to make this portion of the earth’s surface, which had yielded
+only **cinquefoil**, blackberries, **johnswort**, and the like, before, sweet
+wild fruits and pleasant flowers, produce instead this pulse. What
+shall I learn of beans or beans of me? I cherish them, I hoe them,
+early and late I have an eye to them; and this is my day’s work. It is
+a fine broad leaf to look on. My auxiliaries are the dews and rains
+which water this dry soil, and what fertility is in the soil itself,
+which for the most part is lean and effete. My enemies are worms, cool
+days, and most of all **woodchucks**. The last have nibbled for me a
+quarter of an acre clean. But what right had I to oust johnswort and
+the rest, and break up their ancient herb garden? Soon, however, the
+remaining beans will be too tough for them, and go forward to meet new
+foes.
 
-I cultivated the field with my own hands, and made the earth say beans when it would otherwise have said grass. This was my work, and it was well done. There were pleasures in the labor itself, and in the thought that it was done for its own sake, and not for a reward. I watched the growth of the beans as one watches the progress of a child, and their tender leaves and blossoms filled me with a **sense of companionship** in the solitude of my labor. When I hoed, I felt I was part of a larger rhythm—the pulse of the earth itself—and this awareness carried me above the petty cares of life, beyond the boundaries of commerce and industry.
+When I was four years old, as I well remember, I was brought from
+Boston to this my native town, through these very woods and this field,
+to the pond. It is one of the oldest scenes stamped on my memory. And
+now to-night my flute has waked the echoes over that very water. The
+pines still stand here older than I; or, if some have fallen, I have
+cooked my supper with their stumps, and a new growth is rising all
+around, preparing another aspect for new infant eyes. Almost the same
+johnswort springs from the same perennial root in this pasture, and
+even I have at length helped to clothe that fabulous landscape of my
+infant dreams, and one of the results of my presence and influence is
+seen in these bean leaves, corn blades, and potato vines.
 
-The soil of my bean-field was sandy and poor, and to make it produce was my first object. It was no more than fifteen rods long by four rods wide, yet it was a **microcosm of nature**, where I could study the intricate interplay of sun, rain, and soil. I had no manure to enrich it, and I used no artificial means to encourage the growth of the beans. The field was virgin, untouched, and its yield depended on its own inherent fertility and the care I bestowed upon it. My tools were simple—a hoe and a spade—and my knowledge was gathered from **observation and experience**, rather than from books or the advice of others.
+I planted about two acres and a half of upland; and as it was only
+about fifteen years since the land was cleared, and I myself had got
+out two or three cords of stumps, I did not give it any manure; but in
+the course of the summer it appeared by the **arrowheads** which I turned
+up in hoeing, that an extinct nation had anciently dwelt here and
+planted corn and beans ere white men came to clear the land, and so, to
+some extent, had exhausted the soil for this very crop.
 
-The weeds, however, were a constant source of trouble. They grew with a wild luxuriance that seemed to mock my efforts to keep them in check. Every morning, I would go out to the field and wage war upon them, pulling them out by the roots and leaving them to wither in the sun. The battle was unending, for as soon as I had cleared one part of the field, the weeds would spring up again in another, as if the earth itself were conspiring against me. Yet, in the midst of this labor, I found a **philosophical satisfaction**, for I was engaged in a struggle with nature that mirrored the larger struggles of life.
+Before yet any woodchuck or squirrel had run across the road, or the
+sun had got above the shrub oaks, while all the dew was on, though the
+farmers warned me against it,—I would advise you to do all your work if
+possible while the dew is on,—I began to level the ranks of haughty
+weeds in my bean-field and throw dust upon their heads. Early in the
+morning I worked barefooted, dabbling like a plastic artist in the dewy
+and crumbling sand, but later in the day the sun blistered my feet.
+There the sun lighted me to hoe beans, pacing slowly backward and
+forward over that yellow gravelly upland, between the long green rows,
+fifteen rods, the one end terminating in a shrub oak copse where I
+could rest in the shade, the other in a blackberry field where the
+green berries deepened their tints by the time I had made another bout.
+Removing the weeds, putting fresh soil about the bean stems, and
+encouraging this weed which I had sown, making the yellow soil express
+its summer thought in bean leaves and blossoms rather than in wormwood
+and piper and millet grass, making the earth say beans instead of
+grass,—this was my daily work. As I had little aid from horses or
+cattle, or hired men or boys, or improved implements of husbandry, I
+was much slower, and became much more intimate with my beans than
+usual. But labor of the hands, even when pursued to the verge of
+drudgery, is perhaps never the worst form of idleness. It has a
+constant and imperishable moral, and to the scholar it yields a classic
+result. A very _agricola laboriosus_ was I to travellers bound westward
+through Lincoln and Wayland to nobody knows where; they sitting at
+their ease in gigs, with elbows on knees, and reins loosely hanging in
+festoons; I the home-staying, laborious native of the soil. But soon my
+homestead was out of their sight and thought. It was the only open and
+cultivated field for a great distance on either side of the road; so
+they made the most of it; and sometimes the man in the field heard more
+of travellers’ gossip and comment than was meant for his ear: “Beans so
+late! peas so late!”—for I continued to plant when others had begun to
+hoe,—the ministerial husbandman had not suspected it. “Corn, my boy,
+for fodder; corn for fodder.” “Does he _live_ there?” asks the black
+bonnet of the gray coat; and the hard-featured farmer reins up his
+grateful dobbin to inquire what you are doing where he sees no manure
+in the furrow, and recommends a little chip dirt, or any little waste
+stuff, or it may be ashes or plaster. But here were two acres and a
+half of furrows, and only a hoe for cart and two hands to draw
+it,—there being an aversion to other carts and horses,—and chip dirt
+far away. Fellow-travellers as they rattled by compared it aloud with
+the fields which they had passed, so that I came to know how I stood in
+the agricultural world. This was one field not in Mr. Coleman’s report.
+And, by the way, who estimates the value of the crop which nature
+yields in the still wilder fields unimproved by man? The crop of
+_English_ hay is carefully weighed, the moisture calculated, the
+silicates and the potash; but in all dells and pond holes in the woods
+and pastures and swamps grows a rich and various crop only unreaped by
+man. Mine was, as it were, the connecting link between wild and
+cultivated fields; as some states are civilized, and others
+half-civilized, and others savage or barbarous, so my field was, though
+not in a bad sense, a half-cultivated field. They were beans cheerfully
+returning to their wild and primitive state that I cultivated, and my
+hoe played the _**Ranz des Vaches**_ for them.
 
-I often thought of the many farmers who had tilled the soil before me, and of the ancient **agricultural traditions** that had been handed down from generation to generation. My bean-field was part of a larger story—a story of humanity's attempt to wrest sustenance from the earth. I was not merely growing beans; I was participating in an age-old drama, a ritual as old as civilization itself. And as I worked, I imagined the voices of those who had gone before me, singing their songs of labor and toil, their hymns to the earth and the sky.
+Near at hand, upon the topmost spray of a birch, sings the
+**brown-thrasher**—or red mavis, as some love to call him—all the morning,
+glad of your society, that would find out another farmer’s field if
+yours were not here. While you are planting the seed, he cries,—“Drop
+it, drop it,—cover it up, cover it up,—pull it up, pull it up, pull it
+up.” But this was not corn, and so it was safe from such enemies as he.
+You may wonder what his rigmarole, his amateur Paganini performances on
+one string or on twenty, have to do with your planting, and yet prefer
+it to leached ashes or plaster. It was a cheap sort of top dressing in
+which I had entire faith.
 
-The beans themselves were a source of wonder to me. Their growth was slow and steady, and their leaves had a delicate, almost ethereal beauty that seemed to speak of a higher order of existence. I watched them as they reached upward toward the sun, their tendrils curling and unfurling like the **hands of a child**, seeking warmth and life. Their blossoms were small and white, and they had a fragrance that was faint but sweet, like the breath of the earth itself. They were the fruit of my labor, and I loved them as one loves the work of his own hands.
+As I drew a still fresher soil about the rows with my hoe, I disturbed
+the ashes of unchronicled nations who in primeval years lived under
+these heavens, and their small implements of war and hunting were
+brought to the light of this modern day. They lay mingled with other
+natural stones, some of which bore the marks of having been burned by
+Indian fires, and some by the sun, and also bits of pottery and glass
+brought hither by the recent cultivators of the soil. When my hoe
+tinkled against the stones, that music echoed to the woods and the sky,
+and was an accompaniment to my labor which yielded an instant and
+immeasurable crop. It was no longer beans that I hoed, nor I that hoed
+beans; and I remembered with as much pity as pride, if I remembered at
+all, my acquaintances who had gone to the city to attend the oratorios.
+The **night-hawk** circled overhead in the sunny afternoons—for I sometimes
+made a day of it—like a mote in the eye, or in heaven’s eye, falling
+from time to time with a swoop and a sound as if the heavens were rent,
+torn at last to very rags and tatters, and yet a seamless cope
+remained; small imps that fill the air and lay their eggs on the ground
+on bare sand or rocks on the tops of hills, where few have found them;
+graceful and slender like ripples caught up from the pond, as leaves
+are raised by the wind to float in the heavens; such kindredship is in
+Nature. The hawk is aerial brother of the wave which he sails over and
+surveys, those his perfect air-inflated wings answering to the
+elemental unfledged pinions of the sea. Or sometimes I watched a pair
+of hen-hawks circling high in the sky, alternately soaring and
+descending, approaching, and leaving one another, as if they were the
+embodiment of my own thoughts. Or I was attracted by the passage of
+wild pigeons from this wood to that, with a slight quivering winnowing
+sound and carrier haste; or from under a rotten stump my hoe turned up
+a sluggish portentous and outlandish spotted salamander, a trace of
+Egypt and the Nile, yet our contemporary. When I paused to lean on my
+hoe, these sounds and sights I heard and saw anywhere in the row, a
+part of the inexhaustible entertainment which the country offers.
 
-The field was alive with other forms of life as well. Birds sang in the trees that bordered it, and insects buzzed among the beans, their wings shimmering in the sunlight. I often stopped my work to watch them, to marvel at their beauty and their **intricate design**. They were part of the larger web of life, and their presence reminded me of the interconnectedness of all things. The field was not mine alone; it belonged to the birds and the insects, to the sky and the earth, to the sun and the rain.
+On gala days the town fires its great guns, which echo like popguns to
+these woods, and some waifs of martial music occasionally penetrate
+thus far. To me, away there in my bean-field at the other end of the
+town, the big guns sounded as if a puffball had burst; and when there
+was a military turnout of which I was ignorant, I have sometimes had a
+vague sense all the day of some sort of itching and disease in the
+horizon, as if some eruption would break out there soon, either
+scarlatina or canker-rash, until at length some more favorable puff of
+wind, making haste over the fields and up the Wayland road, brought me
+information of the “trainers.” It seemed by the distant hum as if
+somebody’s bees had swarmed, and that the neighbors, according to
+Virgil’s advice, by a faint _tintinnabulum_ upon the most sonorous of
+their domestic utensils, were endeavoring to call them down into the
+hive again. And when the sound died quite away, and the hum had ceased,
+and the most favorable breezes told no tale, I knew that they had got
+the last drone of them all safely into the Middlesex hive, and that now
+their minds were bent on the honey with which it was smeared.
 
-As the summer wore on, the beans grew tall and strong, their leaves darkening and their pods swelling with the promise of a harvest. I felt a deep satisfaction in knowing that my labor had not been in vain, that the earth had rewarded me for my care and diligence. The harvest, when it came, was modest, but it was enough to sustain me, and it taught me lessons that were more valuable than any material gain. It taught me the value of patience and perseverance, the importance of simplicity and humility, and the necessity of living in harmony with the natural world.
+I felt proud to know that the liberties of Massachusetts and of our
+fatherland were in such safe keeping; and as I turned to my hoeing
+again I was filled with an inexpressible confidence, and pursued my
+labor cheerfully with a calm trust in the future.
 
-I spent many hours in the field, not merely working but thinking, dreaming, and observing. It was a place of solitude and reflection, a sanctuary where I could escape the noise and confusion of the world. There, amidst the beans and the weeds, I found a **quiet wisdom**, a clarity of thought that was born of the earth itself. The field was my teacher, and I its humble student, learning lessons that could not be taught in schools or books.
+When there were several bands of musicians, it sounded as if all the
+village was a vast bellows, and all the buildings expanded and
+collapsed alternately with a din. But sometimes it was a really noble
+and inspiring strain that reached these woods, and the trumpet that
+sings of fame, and I felt as if I could spit a Mexican with a good
+relish,—for why should we always stand for trifles?—and looked round
+for a woodchuck or a skunk to exercise my chivalry upon. These martial
+strains seemed as far away as Palestine, and reminded me of a march of
+crusaders in the horizon, with a slight tantivy and tremulous motion of
+the elm-tree tops which overhang the village. This was one of the
+_great_ days; though the sky had from my clearing only the same
+everlastingly great look that it wears daily, and I saw no difference
+in it.
 
-In the evenings, as the sun set and the shadows lengthened, I would sit on the edge of the field and watch the light fade from the sky. The beans would rustle softly in the breeze, and the birds would sing their last songs before nightfall. It was a time of peace and contentment, a moment of connection with the larger rhythms of life. And in those moments, I felt that I was part of something eternal, something beautiful and profound, something that transcended the boundaries of time and space.
+It was a singular experience that long acquaintance which I cultivated
+with beans, what with planting, and hoeing, and harvesting, and
+threshing, and picking over and selling them,—the last was the hardest
+of all,—I might add eating, for I did taste. I was determined to know
+beans. When they were growing, I used to hoe from five o’clock in the
+morning till noon, and commonly spent the rest of the day about other
+affairs. Consider the intimate and curious acquaintance one makes with
+various kinds of weeds,—it will bear some iteration in the account, for
+there was no little iteration in the labor,—disturbing their delicate
+organizations so ruthlessly, and making such invidious distinctions
+with his hoe, levelling whole ranks of one species, and sedulously
+cultivating another. That’s Roman wormwood,—that’s pigweed,—that’s
+sorrel,—that’s piper-grass,—have at him, chop him up, turn his roots
+upward to the sun, don’t let him have a fibre in the shade, if you do
+he’ll turn himself t’other side up and be as green as a leek in two
+days. A long war, not with cranes, but with weeds, those Trojans who
+had sun and rain and dews on their side. Daily the beans saw me come to
+their rescue armed with a hoe, and thin the ranks of their enemies,
+filling up the trenches with weedy dead. Many a lusty crest-waving
+Hector, that towered a whole foot above his crowding comrades, fell
+before my weapon and rolled in the dust.
 
-The bean-field was, in many ways, a microcosm of my life at Walden. It was a place of labor and learning, of growth and reflection, of connection and solitude. It was a place where the simple act of growing beans became a metaphor for the larger journey of life—a journey that was not about accumulation or achievement, but about understanding and harmony. It was a place where the earth and the sky, the sun and the rain, the birds and the insects, all came together in a **sacred dance**, a dance that I was fortunate enough to witness and to be a part of.
+Those summer days which some of my contemporaries devoted to the fine
+arts in Boston or Rome, and others to contemplation in India, and
+others to trade in London or New York, I thus, with the other farmers
+of New England, devoted to husbandry. Not that I wanted beans to eat,
+for I am by nature a **Pythagorean**, so far as beans are concerned,
+whether they mean porridge or voting, and exchanged them for rice; but,
+perchance, as some must work in fields if only for the sake of tropes
+and expression, to serve a parable-maker one day. It was on the whole a
+rare amusement, which, continued too long, might have become a
+dissipation. Though I gave them no manure, and did not hoe them all
+once, I hoed them unusually well as far as I went, and was paid for it
+in the end, “there being in truth,” as Evelyn says, “no compost or
+lætation whatsoever comparable to this continual motion, repastination,
+and turning of the mould with the spade.” “The earth,” he adds
+elsewhere, “especially if fresh, has a certain magnetism in it, by
+which it attracts the salt, power, or virtue (call it either) which
+gives it life, and is the logic of all the labor and stir we keep about
+it, to sustain us; all dungings and other sordid temperings being but
+the vicars succedaneous to this improvement.” Moreover, this being one
+of those “worn-out and exhausted lay fields which enjoy their sabbath,”
+had perchance, as **Sir Kenelm Digby** thinks likely, attracted “vital
+spirits” from the air. I harvested twelve bushels of beans.
 
-As I worked in the field, I often thought of the larger world beyond Walden Pond—the world of cities and commerce, of factories and railroads, of politics and progress. It seemed distant and alien to me, a world that was disconnected from the rhythms of nature and the wisdom of the earth. My bean-field was a refuge from that world, a place where I could live simply and deliberately, where I could find meaning in the smallest things. It was a place where I could be truly free.
+But to be more particular, for it is complained that Mr. Coleman has
+reported chiefly the expensive experiments of gentlemen farmers, my
+outgoes were,—
 
-And so, the bean-field became a symbol of my life at Walden—a life of simplicity, of reflection, of connection with nature. It was a place of labor and learning, of peace and contentment, of growth and renewal. It was a place where I could live deliberately, where I could learn the lessons of the earth and the sky, where I could find a deeper understanding of myself and the world around me. It was, in the truest sense, a place of **beauty and wisdom**, a place where the simple act of growing beans became a metaphor for the larger journey of life.
+
+    For a hoe,.................................. $ 0.54
+    Ploughing, harrowing, and furrowing,.........  7.50  Too much.
+    Beans for seed,..............................  3.12½
+    Potatoes for seed,...........................  1.33
+    Peas for seed,...............................  0.40
+    Turnip seed,.................................  0.06
+    White line for crow fence,...................  0.02
+    Horse cultivator and boy three hours,........  1.00
+    Horse and cart to get crop,..................  0.75
+                                                ————
+        In all,................................. $14.72½
+
+My income was (patrem familias vendacem, non emacem esse oportet),
+from
+
+    Nine bushels and twelve quarts of beans sold,. $16.94
+    Five    "    large potatoes,.................... 2.50
+    Nine    "    small,............................. 2.25
+    Grass,.......................................... 1.00
+    Stalks,......................................... 0.75
+                                                  ————
+        In all,................................... $23.44
+    Leaving a pecuniary profit,
+        as I have elsewhere said, of..............  $8.71½.
+
+This is the result of my experience in raising beans. Plant the common
+small white bush bean about the first of June, in rows three feet by
+eighteen inches apart, being careful to select fresh round and unmixed
+seed. First look out for worms, and supply vacancies by planting anew.
+Then look out for woodchucks, if it is an exposed place, for they will
+nibble off the earliest tender leaves almost clean as they go; and
+again, when the young tendrils make their appearance, they have notice
+of it, and will shear them off with both buds and young pods, sitting
+erect like a squirrel. But above all harvest as early as possible, if
+you would escape frosts and have a fair and salable crop; you may save
+much loss by this means.
+
+This further experience also I gained. I said to myself, I will not
+plant beans and corn with so much industry another summer, but such
+seeds, if the seed is not lost, as sincerity, truth, simplicity, faith,
+innocence, and the like, and see if they will not grow in this soil,
+even with less toil and manurance, and sustain me, for surely it has
+not been exhausted for these crops. Alas! I said this to myself; but
+now another summer is gone, and another, and another, and I am obliged
+to say to you, Reader, that the seeds which I planted, if indeed they
+_were_ the seeds of those virtues, were wormeaten or had lost their
+vitality, and so did not come up. Commonly men will only be brave as
+their fathers were brave, or timid. This generation is very sure to
+plant corn and beans each new year precisely as the Indians did
+centuries ago and taught the first settlers to do, as if there were a
+fate in it. I saw an old man the other day, to my astonishment, making
+the holes with a hoe for the seventieth time at least, and not for
+himself to lie down in! But why should not the New Englander try new
+adventures, and not lay so much stress on his grain, his potato and
+grass crop, and his orchards,—raise other crops than these? Why concern
+ourselves so much about our beans for seed, and not be concerned at all
+about a new generation of men? We should really be fed and cheered if
+when we met a man we were sure to see that some of the qualities which
+I have named, which we all prize more than those other productions, but
+which are for the most part broadcast and floating in the air, had
+taken root and grown in him. Here comes such a subtile and ineffable
+quality, for instance, as truth or justice, though the slightest amount
+or new variety of it, along the road. Our ambassadors should be
+instructed to send home such seeds as these, and Congress help to
+distribute them over all the land. We should never stand upon ceremony
+with sincerity. We should never cheat and insult and banish one another
+by our meanness, if there were present the kernel of worth and
+friendliness. We should not meet thus in haste. Most men I do not meet
+at all, for they seem not to have time; they are busy about their
+beans. We would not deal with a man thus plodding ever, leaning on a
+hoe or a spade as a staff between his work, not as a mushroom, but
+partially risen out of the earth, something more than erect, like
+swallows alighted and walking on the ground:—
+
+     “And as he spake, his wings would now and then
+     Spread, as he meant to fly, then close again,”
+
+so that we should suspect that we might be conversing with an angel.
+Bread may not always nourish us; but it always does us good, it even
+takes stiffness out of our joints, and makes us supple and buoyant,
+when we knew not what ailed us, to recognize any generosity in man or
+Nature, to share any unmixed and heroic joy.
+
+Ancient poetry and mythology suggest, at least, that husbandry was once
+a sacred art; but it is pursued with irreverent haste and heedlessness
+by us, our object being to have large farms and large crops merely. We
+have no festival, nor procession, nor ceremony, not excepting our
+Cattle-shows and so called Thanksgivings, by which the farmer expresses
+a sense of the sacredness of his calling, or is reminded of its sacred
+origin. It is the premium and the feast which tempt him. He sacrifices
+not to **Ceres and the Terrestrial Jove**, but to the **infernal Plutus**
+rather. By avarice and selfishness, and a grovelling habit, from which
+none of us is free, of regarding the soil as property, or the means of
+acquiring property chiefly, the landscape is deformed, husbandry is
+degraded with us, and the farmer leads the meanest of lives. He knows
+Nature but as a robber. Cato says that the profits of agriculture are
+particularly pious or just, (_maximeque pius quæstus_), and according
+to Varro the old Romans “called the same earth Mother and Ceres, and
+thought that they who cultivated it led a pious and useful life, and
+that they alone were left of the race of **King Saturn**.”
+
+We are wont to forget that the sun looks on our cultivated fields and
+on the prairies and forests without distinction. They all reflect and
+absorb his rays alike, and the former make but a small part of the
+glorious picture which he beholds in his daily course. In his view the
+earth is all equally cultivated like a garden. Therefore we should
+receive the benefit of his light and heat with a corresponding trust
+and magnanimity. What though I value the seed of these beans, and
+harvest that in the fall of the year? This broad field which I have
+looked at so long looks not to me as the principal cultivator, but away
+from me to influences more genial to it, which water and make it green.
+These beans have results which are not harvested by me. Do they not
+grow for woodchucks partly? The ear of wheat (in Latin _**spica**_,
+obsoletely _speca_, from _spe_, hope) should not be the only hope of
+the husbandman; its kernel or grain (_granum_ from _gerendo_, bearing)
+is not all that it bears. How, then, can our harvest fail? Shall I not
+rejoice also at the abundance of the weeds whose seeds are the granary
+of the birds? It matters little comparatively whether the fields fill
+the farmer’s barns. The true husbandman will cease from anxiety, as the
+squirrels manifest no concern whether the woods will bear chestnuts
+this year or not, and finish his labor with every day, relinquishing
+all claim to the produce of his fields, and sacrificing in his mind not
+only his first but his last fruits also.

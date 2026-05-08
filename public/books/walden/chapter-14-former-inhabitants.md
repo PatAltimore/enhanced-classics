@@ -9,131 +9,509 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the lives of former inhabitants of Walden Pond, whose stories are intertwined with the land's history."
+  - point: "Thoreau reflects on the solitude of winter and his connection to nature during snowstorms."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "The Field family lived humbly on the southern slope of Walden Pond, embodying thrift and perseverance."
-    link: "https://en.wikipedia.org/wiki/Thrift"
-    link_label: "Thrift"
-  - point: "Brister Freeman, a former slave, sought solitude and independence in the woods near Walden Pond."
-    link: "https://en.wikipedia.org/wiki/Brister_Freeman"
-    link_label: "Brister Freeman"
-  - point: "Irish laborers left a lasting impact on Walden during the construction of the railroad."
-    link: "https://en.wikipedia.org/wiki/Irish_immigration_to_America"
-    link_label: "Irish immigration"
-  - point: "Winter visitors to Walden included hunters, fishermen, and philosophers, each drawn to the pond for different reasons."
-    link: "https://en.wikipedia.org/wiki/Hunting"
-    link_label: "Hunting"
-  - point: "Thoreau emphasizes the enduring connection between humanity and nature through the stories of Walden's inhabitants."
-    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    link_label: "Henry David Thoreau"
+  - point: "He recounts the history of former inhabitants of Walden Woods, including slaves and freedmen like Cato Ingraham and Brister Freeman."
+    link: "https://en.wikipedia.org/wiki/History_of_slavery_in_Massachusetts"
+    link_label: "History of slavery in Massachusetts"
+  - point: "Thoreau describes the destruction of Zilpha's home during the War of 1812 and the hardships she faced."
+    link: "https://en.wikipedia.org/wiki/War_of_1812"
+    link_label: "War of 1812"
+  - point: "He observes the remnants of former homes and gardens, noting how nature has reclaimed these spaces."
+    link: "https://en.wikipedia.org/wiki/Ecological_succession"
+    link_label: "Ecological succession"
+  - point: "Thoreau recounts encounters with wildlife, including a barred owl, and reflects on its behavior and symbolism."
+    link: "https://en.wikipedia.org/wiki/Barred_owl"
+    link_label: "Barred owl"
+  - point: "He muses on the philosophical and social conversations he shared with visitors, including a poet and a philosopher."
+    link: "https://en.wikipedia.org/wiki/Transcendentalism"
+    link_label: "Transcendentalism"
 
 enhancements:
-  - id: "wind-moaned"
-    trigger: "wind moaned"
-    title: "Wind as a Literary Symbol"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Wind"
-    image_url: ""
-    image_caption: ""
-    content: "Wind is often used in literature as a symbol of change, mystery, or the passage of time. In Thoreau's writing, the moaning wind evokes a sense of solitude and the natural world's dynamic presence. This imagery sets the tone for the chapter, emphasizing the interplay between nature and human history. Wind's role in literature spans cultures, appearing in works like Shakespeare's 'King Lear' and Homeric epics, where it signifies turmoil or divine intervention."
-  - id: "walden-pond"
-    trigger: "Walden Pond"
-    title: "Walden Pond's Historical Significance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
-    image_url: ""
-    image_caption: ""
-    content: "Walden Pond, located in Concord, Massachusetts, is famous for its association with Henry David Thoreau, who lived there for two years while writing 'Walden.' The pond symbolizes simplicity, self-reliance, and the transcendentalist philosophy of finding truth in nature. It has inspired countless visitors and remains a site of historical and ecological importance, protected as part of the Walden Pond State Reservation."
-  - id: "field-family"
-    trigger: "Field family"
-    title: "The Field Family's Legacy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Thrift"
-    image_url: ""
-    image_caption: ""
-    content: "The Field family represents the archetype of rural resilience and simplicity. Their life on the sandy slopes of Walden Pond highlights the challenges of subsistence living in the 19th century. Thoreau's depiction of their thrift and perseverance aligns with his broader themes of self-reliance and harmony with nature, offering a glimpse into the lives of early settlers who shaped the area's history."
-  - id: "thrift-and-perseverance"
-    trigger: "thrift and perseverance"
-    title: "Virtues of Thrift and Perseverance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Thrift"
-    image_url: ""
-    image_caption: ""
-    content: "Thrift and perseverance are virtues often celebrated in literature and philosophy, particularly in the context of rural or pioneer life. Thoreau admired these qualities as essential to living a meaningful and sustainable life. These virtues reflect the transcendentalist belief in self-reliance and the ability to overcome adversity through inner strength and resourcefulness."
-  - id: "brewer-farm"
-    trigger: "Brewer farm"
-    title: "The Brewer Farm's Decline"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Farming"
-    image_url: ""
-    image_caption: ""
-    content: "The Brewer farm serves as a poignant example of the challenges faced by early agricultural endeavors in New England. Shallow, rocky soil often made farming difficult, leading many families to abandon their efforts. Thoreau uses the farm's decline to illustrate the impermanence of human attempts to tame nature, a recurring theme in his work."
-  - id: "brister-freeman"
-    trigger: "Brister Freeman"
-    title: "Brister Freeman's Resilience"
+  - id: "bristers-hill"
+    trigger: "Brister’s Hill"
+    title: "Brister's Hill History"
     wikipedia_url: "https://en.wikipedia.org/wiki/Brister_Freeman"
     image_url: ""
     image_caption: ""
-    content: "Brister Freeman was a former slave who lived near Walden Pond, embodying independence and resilience. His life reflects the struggles and triumphs of African Americans seeking freedom in the 19th century. Freeman's connection to nature and his unique habits made him a figure of curiosity and respect, symbolizing the transcendentalist ideal of self-reliance and harmony with the natural world."
-  - id: "irish-laborers"
-    trigger: "Irish laborers"
-    title: "Irish Immigrants and Railroads"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Irish_immigration_to_America"
+    content: "Brister’s Hill was named after Brister Freeman, a freed slave who lived in Walden Woods. Freeman was known for planting apple trees and tending them, leaving a legacy of wild fruit trees in the area. His epitaph in the Lincoln burying-ground highlights his life and contributions. This site reflects the intersection of personal history and the broader narrative of African American life in early America."
+  - id: "cato-ingraham"
+    trigger: "Cato Ingraham"
+    title: "Cato Ingraham's Legacy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Slavery_in_the_United_States"
     image_url: ""
     image_caption: ""
-    content: "Irish laborers played a crucial role in building America's infrastructure during the 19th century, including railroads near Walden Pond. Their work was physically demanding and often dangerous, yet it laid the foundation for economic growth and connectivity. Thoreau's acknowledgment of their impact highlights the contributions of immigrant communities to the nation's development."
-  - id: "hollowell-family"
-    trigger: "Hollowell family"
-    title: "The Hollowell Family's Perseverance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Perseverance"
+    content: "Cato Ingraham was a slave of Duncan Ingraham, Esquire, who lived in Walden Woods. His story illustrates the complex history of slavery in New England, where enslaved individuals were sometimes granted small patches of land. Cato's cellar hole, now overgrown, serves as a poignant reminder of his life and the systemic inequalities of the time."
+  - id: "walden-woods"
+    trigger: "Walden Woods"
+    title: "Walden Woods Ecosystem"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Woods"
     image_url: ""
     image_caption: ""
-    content: "The Hollowell family, known for their perseverance, represents the rugged determination of early settlers. Samuel Hollowell's legendary bear wrestling and Abigail's medicinal herb garden illustrate their resourcefulness and strength. Their story underscores the transcendentalist admiration for self-reliance and the ability to thrive in harmony with nature."
-  - id: "itinerant-poet"
-    trigger: "itinerant poet"
-    title: "The Role of Itinerant Poets"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Poetry"
+    content: "Walden Woods is the area surrounding Walden Pond, famously associated with Henry David Thoreau's experiment in simple living. The woods have been a site of ecological and historical significance, reflecting the interplay between human habitation and natural reclamation. Conservation efforts continue to preserve its unique biodiversity and cultural heritage."
+  - id: "roman-wormwood"
+    trigger: "Roman wormwood"
+    title: "Roman Wormwood Plant"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ambrosia_artemisiifolia"
     image_url: ""
     image_caption: ""
-    content: "Itinerant poets, like the one described by Thoreau, were often inspired by nature and solitude. Their work reflects the Romantic and transcendentalist belief in the power of creativity and the connection between humanity and the natural world. These poets contributed to the cultural tapestry of their time, capturing fleeting moments of beauty and introspection."
-  - id: "hunters"
-    trigger: "hunters"
-    title: "Hunters in American History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hunting"
+    content: "Roman wormwood, also known as ragweed, is a plant native to North America. It is known for its resilience and ability to thrive in disturbed soils, often marking abandoned or neglected areas. Its presence in Walden Woods symbolizes nature's ability to reclaim human-altered landscapes."
+  - id: "beggar-ticks"
+    trigger: "beggar-ticks"
+    title: "Beggar-Ticks Plant"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bidens"
     image_url: ""
     image_caption: ""
-    content: "Hunting has been a significant part of American history, serving both as a means of survival and a cultural tradition. The hunters described by Thoreau represent the human interaction with nature, where skill and patience are required to navigate the wilderness. Hunting also raises questions about conservation and the ethical relationship between humans and wildlife."
-  - id: "fishermen"
-    trigger: "fishermen"
-    title: "Ice Fishing Traditions"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_fishing"
+    content: "Beggar-ticks are a genus of flowering plants known for their clinging seeds, which attach to clothing and animal fur. These plants are common in disturbed areas and serve as a reminder of the ecological shifts that occur when human activity ceases. They are part of the natural succession process in abandoned spaces."
+  - id: "barred-owl"
+    trigger: "barred owl (_Strix nebulosa_)"
+    title: "Barred Owl Behavior"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Barred_owl"
     image_url: ""
     image_caption: ""
-    content: "Ice fishing, as practiced by the fishermen at Walden Pond, is a tradition that combines patience, skill, and resilience. This activity reflects humanity's ability to adapt to harsh conditions and find sustenance in nature. Ice fishing has cultural significance in many regions, symbolizing the connection between humans and the environment even in the depths of winter."
-  - id: "philosophers"
-    trigger: "philosophers"
-    title: "Philosophers and Solitude"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophy"
+    content: "The barred owl is a nocturnal bird known for its distinctive hooting call and silent flight. Thoreau's observation of the owl in daylight highlights its adaptability and the quiet beauty of its movements. Owls are often seen as symbols of wisdom and mystery, fitting themes in Thoreau's reflections on nature."
+  - id: "bristers-spring"
+    trigger: "Brister’s Spring"
+    title: "Brister's Spring Significance"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spring_(hydrology)"
     image_url: ""
     image_caption: ""
-    content: "Philosophers have long sought solitude as a means of deep contemplation and self-discovery. The philosophers visiting Walden Pond embody the transcendentalist idea that nature provides a space for reflection and insight. Their presence underscores the pond's reputation as a haven for introspection and intellectual exploration."
+    content: "Brister’s Spring is a natural water source near Walden Pond, named after Brister Freeman. Springs like this were vital for early settlers, providing fresh water in an era before modern plumbing. Its mention underscores the importance of natural resources in sustaining life and the historical connection to the land."
+  - id: "vishnu-purana"
+    trigger: "Vishnu Purana"
+    title: "Vishnu Purana Text"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Vishnu_Purana"
+    image_url: ""
+    image_caption: ""
+    content: "The Vishnu Purana is one of the ancient Hindu texts, detailing cosmology, mythology, and religious practices. Thoreau's reference to it reflects his interest in Eastern philosophy and its emphasis on hospitality and mindfulness. This connection highlights the universality of certain values across cultures and eras."
+  - id: "war-of-1812"
+    trigger: "War of 1812"
+    title: "War of 1812 Impact"
+    wikipedia_url: "https://en.wikipedia.org/wiki/War_of_1812"
+    image_url: ""
+    image_caption: ""
+    content: "The War of 1812 was a conflict between the United States and Britain, with significant effects on American society. Zilpha's home being burned by English soldiers illustrates the war's reach into civilian life and its lasting scars. This anecdote ties personal tragedy to broader historical events."
+  - id: "transcendentalism"
+    trigger: "philosopher"
+    title: "Philosophy and Transcendentalism"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
+    image_url: ""
+    image_caption: ""
+    content: "Transcendentalism was a philosophical movement emphasizing individual intuition and the connection between humanity and nature. Thoreau's conversations with a philosopher reflect this ideology, showcasing the importance of intellectual exchange and the pursuit of higher truths in shaping personal and societal progress."
 ---
-In the twilight of a December evening, as the frost clung to the windowpanes and the **wind moaned** gently through the pines, I found myself pondering the lives of those who had once called the shores of **Walden Pond** their home. Though the land is now quiet, its past inhabitants whisper through the rustling leaves and the shifting snow—a collective memory imprinted upon this soil. I would like to recount the stories of some of these individuals, whose lives, though simple and often humble, are woven into the fabric of this place.
+I weathered some merry snow storms, and spent some cheerful winter
+evenings by my fire-side, while the snow whirled wildly without, and
+even the hooting of the owl was hushed. For many weeks I met no one in
+my walks but those who came occasionally to cut wood and sled it to the
+village. The elements, however, abetted me in making a path through the
+deepest snow in the woods, for when I had once gone through the wind
+blew the oak leaves into my tracks, where they lodged, and by absorbing
+the rays of the sun melted the snow, and so not only made a dry bed for
+my feet, but in the night their dark line was my guide. For human
+society I was obliged to conjure up the former occupants of these
+woods. Within the memory of many of my townsmen the road near which my
+house stands resounded with the laugh and gossip of inhabitants, and
+the woods which border it were notched and dotted here and there with
+their little gardens and dwellings, though it was then much more shut
+in by the forest than now. In some places, within my own remembrance,
+the pines would scrape both sides of a chaise at once, and women and
+children who were compelled to go this way to Lincoln alone and on foot
+did it with fear, and often ran a good part of the distance. Though
+mainly but a humble route to neighboring villages, or for the woodman’s
+team, it once amused the traveller more than now by its variety, and
+lingered longer in his memory. Where now firm open fields stretch from
+the village to the woods, it then ran through a maple swamp on a
+foundation of logs, the remnants of which, doubtless, still underlie
+the present dusty highway, from the Stratton, now the Alms House, Farm,
+to **Brister’s Hill**.
 
-The first to come to mind is the **Field family**, whose name lingers still in the local lore. They lived on the southern slope of the hill, where the soil was sandy and ungrateful, far less suited to the plow than to the bare footsteps of children running wild. Their house was a modest affair, a cabin of rough-hewn logs, its chimney built of stones gathered from the surrounding woods. The father was a trapper and a hunter, a man who lived close to nature, and his wife, though frail in stature, was a woman of indefatigable spirit. They raised their children here, teaching them through necessity the virtues of **thrift and perseverance**.
+East of my bean-field, across the road, lived **Cato Ingraham**, slave of
+Duncan Ingraham, Esquire, gentleman, of Concord village, who built his
+slave a house, and gave him permission to live in **Walden Woods**;—Cato,
+not Uticensis, but Concordiensis. Some say that he was a Guinea Negro.
+There are a few who remember his little patch among the walnuts, which
+he let grow up till he should be old and need them; but a younger and
+whiter speculator got them at last. He too, however, occupies an
+equally narrow house at present. Cato’s half-obliterated cellar hole
+still remains, though known to few, being concealed from the traveller
+by a fringe of pines. It is now filled with the smooth sumach (_Rhus
+glabra_,) and one of the earliest species of golden-rod (_Solidago
+stricta_) grows there luxuriantly.
 
-Not far from their dwelling stood the remains of the **Brewer farm**, an enterprise that, while ambitious in its inception, eventually succumbed to the relentless march of time. The Brewer family had sought to cultivate the land, to tame its wildness, and for a while, their fields bore crops and their livestock grazed contentedly. Yet the soil, shallow and rocky, proved stubborn, and the family departed, leaving behind only the faint scars of furrows and the crumbled foundation of their barn.
+Here, by the very corner of my field, still nearer to town, **Zilpha**, a
+colored woman, had her little house, where she spun linen for the
+townsfolk, making the Walden Woods ring with her shrill singing, for
+she had a loud and notable voice. At length, in the war of 1812, her
+dwelling was set on fire by English soldiers, prisoners on parole, when
+she was away, and her cat and dog and hens were all burned up together.
+She led a hard life, and somewhat inhumane. One old frequenter of these
+woods remembers, that as he passed her house one noon he heard her
+muttering to herself over her gurgling pot,—“Ye are all bones, bones!”
+I have seen bricks amid the oak copse there.
 
-In the woods to the east, there lived for a time an eccentric man whom the townsfolk called **Brister Freeman**. He was a former slave, a man who, having tasted freedom, sought solitude in the embrace of the forest. His hut was constructed with his own two hands, a crude shelter that spoke of his independence and his resilience. Freeman was known for his peculiar habits; he conversed with the birds and knew the names of every tree. To some, he was an object of curiosity, while others regarded him with quiet respect.
+Down the road, on the right hand, on Brister’s Hill, lived Brister
+Freeman, “a handy Negro,” slave of Squire Cummings once,—there where
+grow still the apple-trees which Brister planted and tended; large old
+trees now, but their fruit still wild and ciderish to my taste. Not
+long since I read his epitaph in the old Lincoln burying-ground, a
+little on one side, near the unmarked graves of some British grenadiers
+who fell in the retreat from Concord,—where he is styled “Sippio
+Brister,”—Scipio Africanus he had some title to be called,—“a man of
+color,” as if he were discolored. It also told me, with staring
+emphasis, when he died; which was but an indirect way of informing me
+that he ever lived. With him dwelt Fenda, his hospitable wife, who told
+fortunes, yet pleasantly,—large, round, and black, blacker than any of
+the children of night, such a dusky orb as never rose on Concord before
+or since.
 
-The **Irish laborers** who camped near Walden during the construction of the railroad left their mark as well. They were a transient group, hardy men who swung their picks and wielded their shovels with vigor, carving a path through the wilderness. At night, their fires burned brightly, and their laughter echoed through the trees. Though their presence was brief, it was not without impact; the tracks they laid became a vein through which the lifeblood of commerce and communication would later flow.
+Farther down the hill, on the left, on the old road in the woods, are
+marks of some homestead of the Stratton family; whose orchard once
+covered all the slope of Brister’s Hill, but was long since killed out
+by pitch pines, excepting a few stumps, whose old roots furnish still
+the wild stocks of many a thrifty village tree.
 
-One cannot speak of Walden's former inhabitants without mentioning the **Hollowell family**, whose name is synonymous with perseverance. They lived on the northern edge of the pond, where the land slopes gently toward the water. Their dwelling was modest, but their hearts were grand. It is said that the patriarch, Samuel Hollowell, once wrestled a bear with his bare hands, a feat that earned him the admiration of his peers. His wife, Abigail, was known for her medicinal herb garden, which provided remedies to neighbors near and far.
+Nearer yet to town, you come to Breed’s location, on the other side of
+the way, just on the edge of the wood; ground famous for the pranks of
+a demon not distinctly named in old mythology, who has acted a
+prominent and astounding part in our New England life, and deserves, as
+much as any mythological character, to have his biography written one
+day; who first comes in the guise of a friend or hired man, and then
+robs and murders the whole family,—New-England Rum. But history must
+not yet tell the tragedies enacted here; let time intervene in some
+measure to assuage and lend an azure tint to them. Here the most
+indistinct and dubious tradition says that once a tavern stood; the
+well the same, which tempered the traveller’s beverage and refreshed
+his steed. Here then men saluted one another, and heard and told the
+news, and went their ways again.
 
-The woods themselves have been visited by many wanderers, some seeking solitude, others seeking adventure. Among them was an **itinerant poet**, a man who carried with him a notebook and ink-stained fingers. He spent his days beneath the sprawling limbs of an ancient oak, composing verses inspired by the natural beauty surrounding him. His words, though ephemeral to those who heard them, seemed to linger in the air, a testament to the power of human creativity.
+Breed’s hut was standing only a dozen years ago, though it had long
+been unoccupied. It was about the size of mine. It was set on fire by
+mischievous boys, one Election night, if I do not mistake. I lived on
+the edge of the village then, and had just lost myself over Davenant’s
+Gondibert, that winter that I labored with a lethargy,—which, by the
+way, I never knew whether to regard as a family complaint, having an
+uncle who goes to sleep shaving himself, and is obliged to sprout
+potatoes in a cellar Sundays, in order to keep awake and keep the
+Sabbath, or as the consequence of my attempt to read Chalmers’
+collection of English poetry without skipping. It fairly overcame my
+Nervii. I had just sunk my head on this when the bells rung fire, and
+in hot haste the engines rolled that way, led by a straggling troop of
+men and boys, and I among the foremost, for I had leaped the brook. We
+thought it was far south over the woods,—we who had run to fires
+before,—barn, shop, or dwelling-house, or all together. “It’s Baker’s
+barn,” cried one. “It is the Codman place,” affirmed another. And then
+fresh sparks went up above the wood, as if the roof fell in, and we all
+shouted “Concord to the rescue!” Wagons shot past with furious speed
+and crushing loads, bearing, perchance, among the rest, the agent of
+the Insurance Company, who was bound to go however far; and ever and
+anon the engine bell tinkled behind, more slow and sure; and rearmost
+of all, as it was afterward whispered, came they who set the fire and
+gave the alarm. Thus we kept on like true idealists, rejecting the
+evidence of our senses, until at a turn in the road we heard the
+crackling and actually felt the heat of the fire from over the wall,
+and realized, alas! that we were there. The very nearness of the fire
+but cooled our ardor. At first we thought to throw a frog-pond on to
+it; but concluded to let it burn, it was so far gone and so worthless.
+So we stood round our engine, jostled one another, expressed our
+sentiments through speaking-trumpets, or in lower tone referred to the
+great conflagrations which the world has witnessed, including Bascom’s
+shop, and, between ourselves, we thought that, were we there in season
+with our “tub,” and a full frog-pond by, we could turn that threatened
+last and universal one into another flood. We finally retreated without
+doing any mischief,—returned to sleep and Gondibert. But as for
+Gondibert, I would except that passage in the preface about wit being
+the soul’s powder,—“but most of mankind are strangers to wit, as
+Indians are to powder.”
 
-As winter deepened, my thoughts turned to the visitors who graced Walden during the colder months. There were the **hunters**, clad in thick coats and armed with rifles, who came seeking game among the snow-covered woods. Their breath hung in the air like smoke, and their eyes glimmered with the thrill of the chase. The deer, wary and graceful, evaded their pursuit with an elegance that spoke of nature's cunning.
+It chanced that I walked that way across the fields the following
+night, about the same hour, and hearing a low moaning at this spot, I
+drew near in the dark, and discovered the only survivor of the family
+that I know, the heir of both its virtues and its vices, who alone was
+interested in this burning, lying on his stomach and looking over the
+cellar wall at the still smouldering cinders beneath, muttering to
+himself, as is his wont. He had been working far off in the river
+meadows all day, and had improved the first moments that he could call
+his own to visit the home of his fathers and his youth. He gazed into
+the cellar from all sides and points of view by turns, always lying
+down to it, as if there was some treasure, which he remembered,
+concealed between the stones, where there was absolutely nothing but a
+heap of bricks and ashes. The house being gone, he looked at what there
+was left. He was soothed by the sympathy which my mere presence
+implied, and showed me, as well as the darkness permitted, where the
+well was covered up; which, thank Heaven, could never be burned; and he
+groped long about the wall to find the well-sweep which his father had
+cut and mounted, feeling for the iron hook or staple by which a burden
+had been fastened to the heavy end,—all that he could now cling to,—to
+convince me that it was no common “rider.” I felt it, and still remark
+it almost daily in my walks, for by it hangs the history of a family.
 
-Then there were the **fishermen**, who braved the icy pond to cast their lines through holes drilled with painstaking effort. I often marveled at their patience, their willingness to endure the biting cold for the promise of a catch. Some came alone, preferring the quiet companionship of the wilderness, while others arrived in groups, their laughter carrying across the frozen surface of the water.
+Once more, on the left, where are seen the well and lilac bushes by the
+wall, in the now open field, lived Nutting and Le Grosse. But to return
+toward Lincoln.
 
-Even in winter, Walden had its share of **philosophers**—men who came to the woods not to labor, but to contemplate. They wandered among the trees, hands clasped behind their backs, their brows furrowed in thought. Some were locals, while others traveled from afar, drawn by the pond's reputation as a haven for introspection. They sought answers to questions that had plagued them, and though the woods offered no spoken responses, the rustling leaves and the sighing wind provided wisdom in their own way.
+Farther in the woods than any of these, where the road approaches
+nearest to the pond, Wyman the potter squatted, and furnished his
+townsmen with earthen ware, and left descendants to succeed him.
+Neither were they rich in worldly goods, holding the land by sufferance
+while they lived; and there often the sheriff came in vain to collect
+the taxes, and “attached a chip,” for form’s sake, as I have read in
+his accounts, there being nothing else that he could lay his hands on.
+One day in midsummer, when I was hoeing, a man who was carrying a load
+of pottery to market stopped his horse against my field and inquired
+concerning Wyman the younger. He had long ago bought a potter’s wheel
+of him, and wished to know what had become of him. I had read of the
+potter’s clay and wheel in Scripture, but it had never occurred to me
+that the pots we use were not such as had come down unbroken from those
+days, or grown on trees like gourds somewhere, and I was pleased to
+hear that so fictile an art was ever practiced in my neighborhood.
 
-Each of these visitors, whether permanent or transient, added to the rich tapestry of Walden's history. Their lives, their struggles, their fleeting moments of joy and sorrow, are a testament to the enduring spirit of humanity. Though the land may seem still and silent, it is alive with memories—an archive of existence etched into the earth itself.
+The last inhabitant of these woods before me was an Irishman, Hugh
+Quoil (if I have spelt his name with coil enough,) who occupied Wyman’s
+tenement,—Col. Quoil, he was called. Rumor said that he had been a
+soldier at Waterloo. If he had lived I should have made him fight his
+battles over again. His trade here was that of a ditcher. Napoleon went
+to St. Helena; Quoil came to Walden Woods. All I know of him is tragic.
+He was a man of manners, like one who had seen the world, and was
+capable of more civil speech than you could well attend to. He wore a
+great coat in mid-summer, being affected with the trembling delirium,
+and his face was the color of carmine. He died in the road at the foot
+of Brister’s Hill shortly after I came to the woods, so that I have not
+remembered him as a neighbor. Before his house was pulled down, when
+his comrades avoided it as “an unlucky castle,” I visited it. There lay
+his old clothes curled up by use, as if they were himself, upon his
+raised plank bed. His pipe lay broken on the hearth, instead of a bowl
+broken at the fountain. The last could never have been the symbol of
+his death, for he confessed to me that, though he had heard of
+**Brister’s Spring**, he had never seen it; and soiled cards, kings of
+diamonds spades and hearts, were scattered over the floor. One black
+chicken which the administrator could not catch, black as night and as
+silent, not even croaking, awaiting Reynard, still went to roost in the
+next apartment. In the rear there was the dim outline of a garden,
+which had been planted but had never received its first hoeing, owing
+to those terrible shaking fits, though it was now harvest time. It was
+over-run with **Roman wormwood** and **beggar-ticks**, which last stuck to my
+clothes for all fruit. The skin of a woodchuck was freshly stretched
+upon the back of the house, a trophy of his last Waterloo; but no warm
+cap or mittens would he want more.
 
-As I sat by the fire, the flames casting flickering shadows upon the walls, I felt a kinship with those who had come before me. We were, all of us, seekers in our own way, drawn to this place by a primal yearning for connection—with nature, with ourselves, and with something greater than either. The stories of Walden's former inhabitants and winter visitors remind us that even in solitude, we are never truly alone. The land carries us, as we carry it, forward into the unknown.
+Now only a dent in the earth marks the site of these dwellings, with
+buried cellar stones, and strawberries, raspberries, thimble-berries,
+hazel-bushes, and sumachs growing in the sunny sward there; some
+pitch-pine or gnarled oak occupies what was the chimney nook, and a
+sweet-scented black-birch, perhaps, waves where the door-stone was.
+Sometimes the well dent is visible, where once a spring oozed; now dry
+and tearless grass; or it was covered deep,—not to be discovered till
+some late day,—with a flat stone under the sod, when the last of the
+race departed. What a sorrowful act must that be,—the covering up of
+wells! coincident with the opening of wells of tears. These cellar
+dents, like deserted fox burrows, old holes, are all that is left where
+once were the stir and bustle of human life, and “fate, free-will,
+foreknowledge absolute,” in some form and dialect or other were by
+turns discussed. But all I can learn of their conclusions amounts to
+just this, that “Cato and Brister pulled wool;” which is about as
+edifying as the history of more famous schools of philosophy.
+
+Still grows the vivacious lilac a generation after the door and lintel
+and the sill are gone, unfolding its sweet-scented flowers each spring,
+to be plucked by the musing traveller; planted and tended once by
+children’s hands, in front-yard plots,—now standing by wall-sides in
+retired pastures, and giving place to new-rising forests;—the last of
+that stirp, sole survivor of that family. Little did the dusky children
+think that the puny slip with its two eyes only, which they stuck in
+the ground in the shadow of the house and daily watered, would root
+itself so, and outlive them, and house itself in the rear that shaded
+it, and grown man’s garden and orchard, and tell their story faintly to
+the lone wanderer a half century after they had grown up and
+died,—blossoming as fair, and smelling as sweet, as in that first
+spring. I mark its still tender, civil, cheerful, lilac colors.
+
+But this small village, germ of something more, why did it fail while
+Concord keeps its ground? Were there no natural advantages,—no water
+privileges, forsooth? Ay, the deep Walden Pond and cool Brister’s
+Spring,—privilege to drink long and healthy draughts at these, all
+unimproved by these men but to dilute their glass. They were
+universally a thirsty race. Might not the basket, stable-broom,
+mat-making, corn-parching, linen-spinning, and pottery business have
+thrived here, making the wilderness to blossom like the rose, and a
+numerous posterity have inherited the land of their fathers? The
+sterile soil would at least have been proof against a low-land
+degeneracy. Alas! how little does the memory of these human inhabitants
+enhance the beauty of the landscape! Again, perhaps, Nature will try,
+with me for a first settler, and my house raised last spring to be the
+oldest in the hamlet.
+
+I am not aware that any man has ever built on the spot which I occupy.
+Deliver me from a city built on the site of a more ancient city, whose
+materials are ruins, whose gardens cemeteries. The soil is blanched and
+accursed there, and before that becomes necessary the earth itself will
+be destroyed. With such reminiscences I repeopled the woods and lulled
+myself asleep.
+
+
+
+At this season I seldom had a visitor. When the snow lay deepest no
+wanderer ventured near my house for a week or fortnight at a time, but
+there I lived as snug as a meadow mouse, or as cattle and poultry which
+are said to have survived for a long time buried in drifts, even
+without food; or like that early settler’s family in the town of
+Sutton, in this state, whose cottage was completely covered by the
+great snow of 1717 when he was absent, and an Indian found it only by
+the hole which the chimney’s breath made in the drift, and so relieved
+the family. But no friendly Indian concerned himself about me; nor
+needed he, for the master of the house was at home. The Great Snow! How
+cheerful it is to hear of! When the farmers could not get to the woods
+and swamps with their teams, and were obliged to cut down the shade
+trees before their houses, and when the crust was harder, cut off the
+trees in the swamps, ten feet from the ground, as it appeared the next
+spring.
+
+In the deepest snows, the path which I used from the highway to my
+house, about half a mile long, might have been represented by a
+meandering dotted line, with wide intervals between the dots. For a
+week of even weather I took exactly the same number of steps, and of
+the same length, coming and going, stepping deliberately and with the
+precision of a pair of dividers in my own deep tracks,—to such routine
+the winter reduces us,—yet often they were filled with heaven’s own
+blue. But no weather interfered fatally with my walks, or rather my
+going abroad, for I frequently tramped eight or ten miles through the
+deepest snow to keep an appointment with a beech-tree, or a
+yellow-birch, or an old acquaintance among the pines; when the ice and
+snow causing their limbs to droop, and so sharpening their tops, had
+changed the pines into fir-trees; wading to the tops of the highest
+hills when the snow was nearly two feet deep on a level, and shaking
+down another snow-storm on my head at every step; or sometimes creeping
+and floundering thither on my hands and knees, when the hunters had
+gone into winter quarters. One afternoon I amused myself by watching a
+**barred owl (_Strix nebulosa_)** sitting on one of the lower dead limbs of
+a white-pine, close to the trunk, in broad daylight, I standing within
+a rod of him. He could hear me when I moved and cronched the snow with
+my feet, but could not plainly see me. When I made most noise he would
+stretch out his neck, and erect his neck feathers, and open his eyes
+wide; but their lids soon fell again, and he began to nod. I too felt a
+slumberous influence after watching him half an hour, as he sat thus
+with his eyes half open, like a cat, winged brother of the cat. There
+was only a narrow slit left between their lids, by which he preserved a
+peninsular relation to me; thus, with half-shut eyes, looking out from
+the land of dreams, and endeavoring to realize me, vague object or mote
+that interrupted his visions. At length, on some louder noise or my
+nearer approach, he would grow uneasy and sluggishly turn about on his
+perch, as if impatient at having his dreams disturbed; and when he
+launched himself off and flapped through the pines, spreading his wings
+to unexpected breadth, I could not hear the slightest sound from them.
+Thus, guided amid the pine boughs rather by a delicate sense of their
+neighborhood than by sight, feeling his twilight way as it were with
+his sensitive pinions, he found a new perch, where he might in peace
+await the dawning of his day.
+
+As I walked over the long causeway made for the railroad through the
+meadows, I encountered many a blustering and nipping wind, for nowhere
+has it freer play; and when the frost had smitten me on one cheek,
+heathen as I was, I turned to it the other also. Nor was it much better
+by the carriage road from Brister’s Hill. For I came to town still,
+like a friendly Indian, when the contents of the broad open fields were
+all piled up between the walls of the Walden road, and half an hour
+sufficed to obliterate the tracks of the last traveller. And when I
+returned new drifts would have formed, through which I floundered,
+where the busy north-west wind had been depositing the powdery snow
+round a sharp angle in the road, and not a rabbit’s track, nor even the
+fine print, the small type, of a meadow mouse was to be seen. Yet I
+rarely failed to find, even in mid-winter, some warm and springly swamp
+where the grass and the skunk-cabbage still put forth with perennial
+verdure, and some hardier bird occasionally awaited the return of
+spring.
+
+Sometimes, notwithstanding the snow, when I returned from my walk at
+evening I crossed the deep tracks of a woodchopper leading from my
+door, and found his pile of whittlings on the hearth, and my house
+filled with the odor of his pipe. Or on a Sunday afternoon, if I
+chanced to be at home, I heard the cronching of the snow made by the
+step of a long-headed farmer, who from far through the woods sought my
+house, to have a social “crack;” one of the few of his vocation who are
+“men on their farms;” who donned a frock instead of a professor’s gown,
+and is as ready to extract the moral out of church or state as to haul
+a load of manure from his barn-yard. We talked of rude and simple
+times, when men sat about large fires in cold bracing weather, with
+clear heads; and when other dessert failed, we tried our teeth on many
+a nut which wise squirrels have long since abandoned, for those which
+have the thickest shells are commonly empty.
+
+The one who came from farthest to my lodge, through deepest snows and
+most dismal tempests, was a poet. A farmer, a hunter, a soldier, a
+reporter, even a philosopher, may be daunted; but nothing can deter a
+poet, for he is actuated by pure love. Who can predict his comings and
+goings? His business calls him out at all hours, even when doctors
+sleep. We made that small house ring with boisterous mirth and resound
+with the murmur of much sober talk, making amends then to Walden vale
+for the long silences. Broadway was still and deserted in comparison.
+At suitable intervals there were regular salutes of laughter, which
+might have been referred indifferently to the last uttered or the
+forth-coming jest. We made many a “bran new” theory of life over a thin
+dish of gruel, which combined the advantages of conviviality with the
+clear-headedness which philosophy requires.
+
+I should not forget that during my last winter at the pond there was
+another welcome visitor, who at one time came through the village,
+through snow and rain and darkness, till he saw my lamp through the
+trees, and shared with me some long winter evenings. One of the last of
+the philosophers,—Connecticut gave him to the world,—he peddled first
+her wares, afterwards, as he declares, his brains. These he peddles
+still, prompting God and disgracing man, bearing for fruit his brain
+only, like the nut its kernel. I think that he must be the man of the
+most faith of any alive. His words and attitude always suppose a better
+state of things than other men are acquainted with, and he will be the
+last man to be disappointed as the ages revolve. He has no venture in
+the present. But though comparatively disregarded now, when his day
+comes, laws unsuspected by most will take effect, and masters of
+families and rulers will come to him for advice.—
+
+     “How blind that cannot see serenity!”
+
+
+A true friend of man; almost the only friend of human progress. An Old
+Mortality, say rather an Immortality, with unwearied patience and faith
+making plain the image engraven in men’s bodies, the God of whom they
+are but defaced and leaning monuments. With his hospitable intellect he
+embraces children, beggars, insane, and scholars, and entertains the
+thought of all, adding to it commonly some breadth and elegance. I
+think that he should keep a caravansary on the world’s highway, where
+philosophers of all nations might put up, and on his sign should be
+printed, “Entertainment for man, but not for his beast. Enter ye that
+have leisure and a quiet mind, who earnestly seek the right road.” He
+is perhaps the sanest man and has the fewest crotchets of any I chance
+to know; the same yesterday and tomorrow. Of yore we had sauntered and
+talked, and effectually put the world behind us; for he was pledged to
+no institution in it, freeborn, _ingenuus_. Whichever way we turned, it
+seemed that the heavens and the earth had met together, since he
+enhanced the beauty of the landscape. A blue-robed man, whose fittest
+roof is the overarching sky which reflects his serenity. I do not see
+how he can ever die; Nature cannot spare him.
+
+Having each some shingles of thought well dried, we sat and whittled
+them, trying our knives, and admiring the clear yellowish grain of the
+pumpkin pine. We waded so gently and reverently, or we pulled together
+so smoothly, that the fishes of thought were not scared from the
+stream, nor feared any angler on the bank, but came and went grandly,
+like the clouds which float through the western sky, and the
+mother-o’-pearl flocks which sometimes form and dissolve there. There
+we worked, revising mythology, rounding a fable here and there, and
+building castles in the air for which earth offered no worthy
+foundation. Great Looker! Great Expecter! to converse with whom was a
+New England Night’s Entertainment. Ah! such discourse we had, hermit
+and philosopher, and the old settler I have spoken of,—we three,—it
+expanded and racked my little house; I should not dare to say how many
+pounds’ weight there was above the atmospheric pressure on every
+circular inch; it opened its seams so that they had to be calked with
+much dulness thereafter to stop the consequent leak;—but I had enough
+of that kind of oakum already picked.
+
+There was one other with whom I had “solid seasons,” long to be
+remembered, at his house in the village, and who looked in upon me from
+time to time; but I had no more for society there.
+
+There too, as every where, I sometimes expected the Visitor who never
+comes. The **Vishnu Purana** says, “The house-holder is to remain at
+eventide in his court-yard as long as it takes to milk a cow, or longer
+if he pleases, to await the arrival of a guest.” I often performed this
+duty of hospitality, waited long enough to milk a whole herd of cows,
+but did not see the man approaching from the town.

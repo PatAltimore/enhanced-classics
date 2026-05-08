@@ -9,84 +9,455 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the value of solitude and its role in fostering deep thought and productivity."
-    link: "https://en.wikipedia.org/wiki/Solitude"
-    link_label: "Solitude"
-  - point: "He contrasts the solitude of a student in Cambridge with the solitude of a farmer in the field, emphasizing the mental engagement of both."
-    link: "https://en.wikipedia.org/wiki/Cambridge,_Massachusetts"
-    link_label: "Cambridge, Massachusetts"
-  - point: "Thoreau describes his life as an ongoing, self-sustaining source of amusement and fulfillment."
+  - point: "Thoreau reflects on the duality of human nature, balancing spiritual aspirations with primal instincts."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "He expresses a desire to simplify his life further, exploring primitive and minimalist living."
-    link: "https://en.wikipedia.org/wiki/Minimalism"
-    link_label: "Minimalism"
-  - point: "Thoreau recounts an interaction with John Field, an Irish laborer, highlighting contrasting perspectives on work and life."
-    link: "https://en.wikipedia.org/wiki/Irish_Americans"
-    link_label: "Irish Americans"
+  - point: "He discusses the role of hunting and fishing in connecting humans to nature and their primitive roots."
+    link: "https://en.wikipedia.org/wiki/Hunting"
+    link_label: "Hunting"
+  - point: "Thoreau critiques the consumption of animal food, advocating for a simpler, plant-based diet."
+    link: "https://en.wikipedia.org/wiki/Vegetarianism"
+    link_label: "Vegetarianism"
+  - point: "He explores the concept of purity, linking it to spiritual growth and the rejection of sensuality."
+    link: "https://en.wikipedia.org/wiki/Chastity"
+    link_label: "Chastity"
+  - point: "Thoreau emphasizes the importance of individual effort and self-discipline in achieving higher principles."
+    link: "https://en.wikipedia.org/wiki/Self-discipline"
+    link_label: "Self-discipline"
+  - point: "He concludes with a meditation on the transformative power of art and music in elevating the human spirit."
+    link: "https://en.wikipedia.org/wiki/Music"
+    link_label: "Music"
 
 enhancements:
-  - id: "epic-poem"
-    trigger: "epic"
-    title: "Epic Poetry in Literature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Epic_poetry"
+  - id: "string-of-fish"
+    trigger: "string of fish"
+    title: "Fishing as a Primitive Connection"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fishing"
     image_url: ""
     image_caption: ""
-    content: "Epic poetry is a genre of narrative poetry that recounts heroic deeds and events significant to a culture or nation. Examples include Homer's 'Iliad' and 'Odyssey,' which are foundational texts of Western literature. Thoreau's use of 'epic' metaphorically suggests that his life at Walden Pond was a grand, continuous narrative filled with meaning and purpose. This reflects his transcendentalist belief in the profound significance of individual experience."
-  - id: "organic-life"
-    trigger: "organic"
-    title: "Organic Living Philosophy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Organic_farming"
+    content: "Fishing has been a fundamental human activity for millennia, connecting people to nature and their primal instincts. In 'Walden,' Thoreau uses fishing as a metaphor for engaging with the wild and untamed aspects of life. This practice not only provided sustenance but also served as a way to observe and appreciate the natural world. Thoreau's reflections highlight the tension between the simplicity of nature and the complexities of modern life."
+  - id: "spiritual-life"
+    trigger: "spiritual life"
+    title: "Pursuit of Spiritual Life"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spirituality"
     image_url: ""
     image_caption: ""
-    content: "The term 'organic' often refers to natural processes or living in harmony with nature. In the 19th century, it also carried philosophical connotations of interconnectedness and authenticity. Thoreau's description of his life as 'organic' underscores his commitment to living deliberately and in tune with the natural world, a central theme of his transcendentalist philosophy."
-  - id: "wholesome-living"
-    trigger: "wholesome"
-    title: "Wholesome Living Ideals"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Well-being"
+    content: "Spiritual life refers to the pursuit of higher, non-material values and principles. Thoreau contrasts this with the primal instincts that humans also possess, suggesting that both are integral to human experience. His writings often explore how individuals can transcend their physical existence to achieve a deeper connection with the universe and their own inner selves."
+  - id: "primitive-rank-and-savage"
+    trigger: "primitive rank and savage"
+    title: "Primitive Instincts in Humans"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Primal_instinct"
     image_url: ""
     image_caption: ""
-    content: "Wholesome living involves maintaining physical, mental, and emotional health through balanced and ethical practices. Thoreau's use of 'wholesome' reflects his belief that simplicity, self-reliance, and a connection to nature contribute to a fulfilling and healthy life. This aligns with his transcendentalist ideals and his critique of materialism and societal complexity."
-  - id: "solitary-life"
-    trigger: "solitary"
-    title: "Solitary Living and Reflection"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Solitude"
+    content: "Thoreau acknowledges the 'primitive rank and savage' instincts within humans, which connect them to their ancestral past. These instincts, such as hunting and survival, are contrasted with the pursuit of higher ideals. Thoreau's exploration of this duality reflects his belief in the importance of embracing both the wild and the refined aspects of human nature."
+  - id: "falls-of-st-mary"
+    trigger: "Falls of St. Mary"
+    title: "Falls of St. Mary: A Fishing Haven"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sault_Ste._Marie"
     image_url: ""
     image_caption: ""
-    content: "Solitary living allows individuals to focus on introspection and personal growth. Thoreau's embrace of solitude at Walden Pond was not isolation but a deliberate choice to engage deeply with his thoughts and the natural world. This practice is central to transcendentalist philosophy, which values self-reliance and the pursuit of higher truths."
-  - id: "simpler-still"
-    trigger: "simpler still"
-    title: "The Pursuit of Simplicity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Simple_living"
+    content: "The Falls of St. Mary, located in Sault Ste. Marie, Michigan, are historically significant as a fishing site for Indigenous peoples and early settlers. Thoreau mentions this location to illustrate the connection between geography and human activities like fishing, emphasizing how natural landscapes shape cultural practices and survival strategies."
+  - id: "fowling-piece"
+    trigger: "fowling piece"
+    title: "The Fowling Piece in Hunting"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fowling_piece"
     image_url: ""
     image_caption: ""
-    content: "Simple living involves minimizing material possessions and focusing on essentials to achieve greater clarity and purpose. Thoreau's quest for a 'simpler still' life reflects his transcendentalist belief in stripping away distractions to connect with nature and the self. This philosophy has influenced movements like minimalism and sustainable living."
-  - id: "primitive-living"
-    trigger: "primitive"
-    title: "Primitive Living and Self-Reliance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Primitive_technology"
+    content: "A fowling piece is a type of firearm used for hunting birds. Thoreau references it to discuss the role of hunting in the education and development of young boys in New England. This tool symbolizes the connection between humans and their environment, as well as the ethical considerations of hunting for sport versus necessity."
+  - id: "humane-society"
+    trigger: "Humane Society"
+    title: "Humane Society and Animal Welfare"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Humane_society"
     image_url: ""
     image_caption: ""
-    content: "Primitive living refers to a lifestyle that relies on basic tools and techniques, often inspired by early human societies. Thoreau's exploration of primitive living was an experiment in self-reliance and simplicity, aiming to understand life's essentials. This approach reflects his transcendentalist ideals and critiques of industrialization and modern complexity."
-  - id: "satisfactory-life"
-    trigger: "satisfactory"
-    title: "Satisfaction in Simplicity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Satisfaction_(emotion)"
+    content: "The Humane Society is an organization dedicated to the welfare and protection of animals. Thoreau mentions it to critique the changing attitudes toward hunting and the scarcity of game. His reflections highlight the ethical dilemmas surrounding human interactions with animals and the evolving concept of humanity."
+  - id: "entomologists"
+    trigger: "entomologists"
+    title: "Entomologists and Insect Study"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Entomology"
     image_url: ""
     image_caption: ""
-    content: "Satisfaction is a state of contentment and fulfillment. Thoreau's description of his life as 'satisfactory' highlights his belief that simplicity and deliberate living can lead to profound happiness. This contrasts with societal norms that equate satisfaction with material wealth and external achievements."
-  - id: "john-field"
-    trigger: "John Field"
-    title: "John Field: Symbol of Labor"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Irish_Americans"
+    content: "Entomologists study insects, which play crucial roles in ecosystems. Thoreau references their findings to draw parallels between the life cycles of insects and human dietary habits. This comparison underscores his philosophical musings on simplicity, consumption, and the natural order."
+  - id: "gross-feeder"
+    trigger: "gross feeder"
+    title: "Gross Feeder: A Metaphor for Excess"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gluttony"
     image_url: ""
     image_caption: ""
-    content: "John Field represents the hardworking immigrant laborer, a common figure in 19th-century America. His interaction with Thoreau highlights contrasting worldviews: Field's focus on material success versus Thoreau's emphasis on spiritual and intellectual fulfillment. This encounter underscores themes of class, labor, and the pursuit of happiness in 'Walden.'"
+    content: "Thoreau uses the term 'gross feeder' to critique excessive consumption and its impact on the human spirit. Gluttony, historically viewed as a vice, is contrasted with temperance and moderation. This metaphor reflects Thoreau's broader philosophy of simplicity and self-restraint as pathways to higher living."
+  - id: "builder-of-a-temple"
+    trigger: "builder of a temple"
+    title: "Body as a Temple"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Body_as_a_temple"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's metaphor of the body as a temple emphasizes the importance of self-care and purity. This concept, rooted in various religious and philosophical traditions, suggests that individuals should treat their bodies with reverence and align their physical actions with their spiritual values."
+  - id: "notes-of-the-flute"
+    trigger: "notes of the flute"
+    title: "Flute Music and Transcendence"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flute"
+    image_url: ""
+    image_caption: ""
+    content: "The flute, often associated with serenity and introspection, serves as a symbol of transcendence in Thoreau's narrative. Its music inspires John Farmer to reflect on his life and consider higher aspirations. This moment illustrates the transformative power of art in connecting individuals to their inner selves and the universe."
 ---
-I find it wholesome to be alone the greater part of the time. To be in company, even with the best, is soon wearisome and dissipating. I love to be alone. I never found the companion that was so companionable as solitude. We are for the most part more lonely when we go abroad among men than when we stay in our chambers. A man thinking or working is always alone, let him be where he will. Solitude is not measured by the miles of space that intervene between a man and his fellows. The really diligent student in one of the crowded hives of Cambridge College is as solitary as a dervish in the desert. The farmer can work alone in the field or the woods all day, hoeing or chopping, and not feel lonesome, because he is employed; but when he comes home at night he cannot sit down in a room alone, at the mercy of his thoughts, but must be where he can "see the folks," and recreate, and, as he thinks, remunerate himself for his day's solitude; and hence he wonders how the student can sit alone in the house all night and most of the day without ennui and "the blues;" but he does not realize that the student, though in the house, is still at work in his field, and chopping in his woods, as the farmer in his, and in turn seeks the same recreation and society that the latter does, though it be a more condensed form of it.
+As I came home through the woods with my **string of fish**, trailing my
+pole, it being now quite dark, I caught a glimpse of a woodchuck
+stealing across my path, and felt a strange thrill of savage delight,
+and was strongly tempted to seize and devour him raw; not that I was
+hungry then, except for that wildness which he represented. Once or
+twice, however, while I lived at the pond, I found myself ranging the
+woods, like a half-starved hound, with a strange abandonment, seeking
+some kind of venison which I might devour, and no morsel could have
+been too savage for me. The wildest scenes had become unaccountably
+familiar. I found in myself, and still find, an instinct toward a
+higher, or, as it is named, **spiritual life**, as do most men, and another
+toward a **primitive rank and savage** one, and I reverence them both. I
+love the wild not less than the good. The wildness and adventure that
+are in fishing still recommended it to me. I like sometimes to take
+rank hold on life and spend my day more as the animals do. Perhaps I
+have owed to this employment and to hunting, when quite young, my
+closest acquaintance with Nature. They early introduce us to and detain
+us in scenery with which otherwise, at that age, we should have little
+acquaintance. Fishermen, hunters, woodchoppers, and others, spending
+their lives in the fields and woods, in a peculiar sense a part of
+Nature themselves, are often in a more favorable mood for observing
+her, in the intervals of their pursuits, than philosophers or poets
+even, who approach her with expectation. She is not afraid to exhibit
+herself to them. The traveller on the prairie is naturally a hunter, on
+the head waters of the Missouri and Columbia a trapper, and at the
+**Falls of St. Mary** a fisherman. He who is only a traveller learns things
+at second-hand and by the halves, and is poor authority. We are most
+interested when science reports what those men already know practically
+or instinctively, for that alone is a true _humanity_, or account of
+human experience.
 
-I had this advantage, at least, in my mode of life, over those who were obliged to look abroad for amusement, to society and the theater, that my life itself was become my amusement and never ceased to be novel. It was a drama of many scenes and without an intermission, an unending **epic** poem. And I can say, though my life was not an easy one, that it had become more **organic** than most men's, and that it was **wholesome** to live in all its parts. It is not necessary to be bitter in your life to be sweet in your thoughts.
+They mistake who assert that the Yankee has few amusements, because he
+has not so many public holidays, and men and boys do not play so many
+games as they do in England, for here the more primitive but solitary
+amusements of hunting fishing and the like have not yet given place to
+the former. Almost every New England boy among my contemporaries
+shouldered a **fowling piece** between the ages of ten and fourteen; and
+his hunting and fishing grounds were not limited, like the preserves of
+an English nobleman, but were more boundless even than those of a
+savage. No wonder, then, that he did not oftener stay to play on the
+common. But already a change is taking place, owing, not to an
+increased humanity, but to an increased scarcity of game, for perhaps
+the hunter is the greatest friend of the animals hunted, not excepting
+the **Humane Society**.
 
-But while I was living thus **solitary**, and with a glad and thankful heart, I was determined to see if I could not discover a mode of life that was **simpler still**, and more **primitive** than anything I had yet tried. I have made some progress in that direction. Having completed my house, and my furniture, and my planting, and my harvesting, and begun to keep a journal, and read, and write, and receive visitors, and collect materials for future experiments, I began to live in earnest, and found my mode of life quite **satisfactory** for my present purposes. But one day, as I was hoeing, I was interrupted by one of the Irish laborers, who came along, and who was employed by a neighboring farmer, and who, seeing me at work in my field alone, seemed disposed to look upon me as an idler, and to think that I was doing something out of the ordinary course, and that I was not working at all, or not working in earnest. **John Field**, first name John, was his name. He was a hardy, sunburnt man, and he was dressed in the ordinary clothes of his class. He had been to the city only once or twice in his life, and he knew nothing of the people who lived there. He was a man of the soil, and he seemed to belong to the same soil, and to be as much a part of it as the trees and the rocks and the grasses. He was a man of few words, and he seemed to have a great deal of time on his hands.
+Moreover, when at the pond, I wished sometimes to add fish to my fare
+for variety. I have actually fished from the same kind of necessity
+that the first fishers did. Whatever humanity I might conjure up
+against it was all factitious, and concerned my philosophy more than my
+feelings. I speak of fishing only now, for I had long felt differently
+about fowling, and sold my gun before I went to the woods. Not that I
+am less humane than others, but I did not perceive that my feelings
+were much affected. I did not pity the fishes nor the worms. This was
+habit. As for fowling, during the last years that I carried a gun my
+excuse was that I was studying ornithology, and sought only new or rare
+birds. But I confess that I am now inclined to think that there is a
+finer way of studying ornithology than this. It requires so much closer
+attention to the habits of the birds, that, if for that reason only, I
+have been willing to omit the gun. Yet notwithstanding the objection on
+the score of humanity, I am compelled to doubt if equally valuable
+sports are ever substituted for these; and when some of my friends have
+asked me anxiously about their boys, whether they should let them hunt,
+I have answered, yes,—remembering that it was one of the best parts of
+my education,—_make_ them hunters, though sportsmen only at first, if
+possible, mighty hunters at last, so that they shall not find game
+large enough for them in this or any vegetable wilderness,—hunters as
+well as fishers of men. Thus far I am of the opinion of Chaucer’s nun,
+who
 
-He asked me what I was doing, and I told him that I was hoeing, and he said that he thought I was not working very hard, and he asked me if I had anything to do, and I told him that I had a great deal to do, and he said that he did not know what I could be doing, and he said that he thought I was not doing anything, and he asked me if I had any money, and I told him that I had no money, and he said that he thought I ought to have some money, and he asked me if I had any property, and I told him that I had no property, and he said that he thought I ought to have some property, and he asked me if I had any friends, and I told him that I had no friends, and he said that he thought I ought to have some friends, and he asked me if I had any family, and I told him that I had no family, and he said that he thought I ought to have some family, and he asked me if I had any religion, and I told him that I had no religion, and he said that he thought I ought to have some religion, and he asked me if I had any education, and I told him that I had no education, and he said that he thought I ought to have some education, and he asked me if I had any occupation, and I told him that I had no occupation, and he said that he thought I ought to have some occupation, and he asked me if I had any ambition, and I told him that I had no ambition, and he said that he thought I ought to have some ambition, and he asked me if I had any desires, and I told him that I had no desires, and he said that he thought I ought to have some desires, and he asked me if I had any hopes, and I told him that I had no hopes, and he said that he thought I ought to have some hopes, and he asked me if I had any plans, and I told him that I had no plans, and he said that he thought I ought to have some plans, and he asked me if I had any ideas, and I told him that I had no ideas, and he said that he thought I ought to have some ideas, and he asked me if I had any ideals, and I told him that I had no ideals, and he said that he thought I ought to have some ideals, and he asked me if I had any principles, and I told him that I had no principles, and he said that he thought I ought to have some principles, and he asked me if I had any morals, and I told him that I had no morals, and he said that he thought I ought to have some morals, and he asked me if I had any virtues, and I told him that I had no virtues, and he said that he thought I ought to have some virtues, and he asked me if I had any values, and I told him that I had no values, and he said that he thought I ought to have some values, and he asked me if I had any character, and I told him that I had no character, and he said that he thought I ought to have some character, and he asked me if I had any spirit, and I told him that I had no spirit, and he said that he thought I ought to have some spirit, and he asked me if I had any soul, and I told him that I had no soul, and he said that he thought I ought to have some soul, and he asked me if I had any mind, and I told him that I had no mind, and he said that he thought I ought to have some mind, and he asked me if I had any heart, and I told him that I had no heart, and he said that he thought I ought to have some heart, and he asked me if I had any love, and I told him that I had no love, and he said that he thought I ought to have some love, and he asked me if I had any hope, and I told him that I had no hope, and he said that he thought I ought to have some hope, and he asked me if I had any patience, and I told him that I had no patience, and he said that he thought I ought to have some patience, and he asked me if I had any fortitude, and I told him that I had no fortitude, and he said that he thought I ought to have some fortitude, and he asked me if I had any courage, and I told him that I had no courage, and he said that he thought I ought to have some courage, and he asked me if I had any strength, and I told him that I had no strength, and he said that he thought I ought to have some strength, and he asked me if I had any power, and I told him that I had no power, and he said that he thought I ought to have some power, and he asked me if I had any will, and I told him that I had no will, and he said that he thought I ought to have some will, and he asked me if I had any energy, and I told him that I had no energy, and he said that he thought I ought to have some energy, and he asked me if I had any force, and I told him that I had no force, and he said that he thought I ought to have some force, and he asked me if I had any vigor, and I told him that I had no vigor, and he said that he thought I ought to have some vigor, and he asked me if I had any vitality, and I told him that I had no vitality, and he said that he thought I ought to have some vitality, and he asked me if I had any life, and I told him that I had no life, and he said that he thought I ought to have some life.
+     “yave not of the text a pulled hen
+     That saith that hunters ben not holy men.”
+
+There is a period in the history of the individual, as of the race,
+when the hunters are the “best men,” as the **Algonquins called them**. We
+cannot but pity the boy who has never fired a gun; he is no more
+humane, while his education has been sadly neglected. This was my
+answer with respect to those youths who were bent on this pursuit,
+trusting that they would soon outgrow it. No humane being, past the
+thoughtless age of boyhood, will wantonly murder any creature which
+holds its life by the same tenure that he does. The hare in its
+extremity cries like a child. I warn you, mothers, that my sympathies
+do not always make the usual phil-_anthropic_ distinctions.
+
+Such is oftenest the young man’s introduction to the forest, and the
+most original part of himself. He goes thither at first as a hunter and
+fisher, until at last, if he has the seeds of a better life in him, he
+distinguishes his proper objects, as a poet or naturalist it may be,
+and leaves the gun and fish-pole behind. The mass of men are still and
+always young in this respect. In some countries a hunting parson is no
+uncommon sight. Such a one might make a good shepherd’s dog, but is far
+from being the Good Shepherd. I have been surprised to consider that
+the only obvious employment, except wood-chopping, ice-cutting, or the
+like business, which ever to my knowledge detained at Walden Pond for a
+whole half day any of my fellow-citizens, whether fathers or children
+of the town, with just one exception, was fishing. Commonly they did
+not think that they were lucky, or well paid for their time, unless
+they got a long string of fish, though they had the opportunity of
+seeing the pond all the while. They might go there a thousand times
+before the sediment of fishing would sink to the bottom and leave their
+purpose pure; but no doubt such a clarifying process would be going on
+all the while. The governor and his council faintly remember the pond,
+for they went a-fishing there when they were boys; but now they are too
+old and dignified to go a-fishing, and so they know it no more forever.
+Yet even they expect to go to heaven at last. If the legislature
+regards it, it is chiefly to regulate the number of hooks to be used
+there; but they know nothing about the hook of hooks with which to
+angle for the pond itself, impaling the legislature for a bait. Thus,
+even in civilized communities, the embryo man passes through the hunter
+stage of development.
+
+I have found repeatedly, of late years, that I cannot fish without
+falling a little in self-respect. I have tried it again and again. I
+have skill at it, and, like many of my fellows, a certain instinct for
+it, which revives from time to time, but always when I have done I feel
+that it would have been better if I had not fished. I think that I do
+not mistake. It is a faint intimation, yet so are the first streaks of
+morning. There is unquestionably this instinct in me which belongs to
+the lower orders of creation; yet with every year I am less a
+fisherman, though without more humanity or even wisdom; at present I am
+no fisherman at all. But I see that if I were to live in a wilderness I
+should again be tempted to become a fisher and hunter in earnest.
+Beside, there is something essentially unclean about this diet and all
+flesh, and I began to see where housework commences, and whence the
+endeavor, which costs so much, to wear a tidy and respectable
+appearance each day, to keep the house sweet and free from all ill
+odors and sights. Having been my own butcher and scullion and cook, as
+well as the gentleman for whom the dishes were served up, I can speak
+from an unusually complete experience. The practical objection to
+animal food in my case was its uncleanness; and, besides, when I had
+caught and cleaned and cooked and eaten my fish, they seemed not to
+have fed me essentially. It was insignificant and unnecessary, and cost
+more than it came to. A little bread or a few potatoes would have done
+as well, with less trouble and filth. Like many of my contemporaries, I
+had rarely for many years used animal food, or tea, or coffee, &c.; not
+so much because of any ill effects which I had traced to them, as
+because they were not agreeable to my imagination. The repugnance to
+animal food is not the effect of experience, but is an instinct. It
+appeared more beautiful to live low and fare hard in many respects; and
+though I never did so, I went far enough to please my imagination. I
+believe that every man who has ever been earnest to preserve his higher
+or poetic faculties in the best condition has been particularly
+inclined to abstain from animal food, and from much food of any kind.
+It is a significant fact, stated by **entomologists**, I find it in Kirby
+and Spence, that “some insects in their perfect state, though furnished
+with organs of feeding, make no use of them;” and they lay it down as
+“a general rule, that almost all insects in this state eat much less
+than in that of larvæ. The voracious caterpillar when transformed into
+a butterfly,” . . “and the gluttonous maggot when become a fly,”
+content themselves with a drop or two of honey or some other sweet
+liquid. The abdomen under the wings of the butterfly still represents
+the larva. This is the tid-bit which tempts his insectivorous fate. The
+**gross feeder** is a man in the larva state; and there are whole nations
+in that condition, nations without fancy or imagination, whose vast
+abdomens betray them.
+
+It is hard to provide and cook so simple and clean a diet as will not
+offend the imagination; but this, I think, is to be fed when we feed
+the body; they should both sit down at the same table. Yet perhaps this
+may be done. The fruits eaten temperately need not make us ashamed of
+our appetites, nor interrupt the worthiest pursuits. But put an extra
+condiment into your dish, and it will poison you. It is not worth the
+while to live by rich cookery. Most men would feel shame if caught
+preparing with their own hands precisely such a dinner, whether of
+animal or vegetable food, as is every day prepared for them by others.
+Yet till this is otherwise we are not civilized, and, if gentlemen and
+ladies, are not true men and women. This certainly suggests what change
+is to be made. It may be vain to ask why the imagination will not be
+reconciled to flesh and fat. I am satisfied that it is not. Is it not a
+reproach that man is a carnivorous animal? True, he can and does live,
+in a great measure, by preying on other animals; but this is a
+miserable way,—as any one who will go to snaring rabbits, or
+slaughtering lambs, may learn,—and he will be regarded as a benefactor
+of his race who shall teach man to confine himself to a more innocent
+and wholesome diet. Whatever my own practice may be, I have no doubt
+that it is a part of the destiny of the human race, in its gradual
+improvement, to leave off eating animals, as surely as the savage
+tribes have left off eating each other when they came in contact with
+the more civilized.
+
+If one listens to the faintest but constant suggestions of his genius,
+which are certainly true, he sees not to what extremes, or even
+insanity, it may lead him; and yet that way, as he grows more resolute
+and faithful, his road lies. The faintest assured objection which one
+healthy man feels will at length prevail over the arguments and customs
+of mankind. No man ever followed his genius till it misled him. Though
+the result were bodily weakness, yet perhaps no one can say that the
+consequences were to be regretted, for these were a life in conformity
+to higher principles. If the day and the night are such that you greet
+them with joy, and life emits a fragrance like flowers and
+sweet-scented herbs, is more elastic, more starry, more immortal,—that
+is your success. All nature is your congratulation, and you have cause
+momentarily to bless yourself. The greatest gains and values are
+farthest from being appreciated. We easily come to doubt if they exist.
+We soon forget them. They are the highest reality. Perhaps the facts
+most astounding and most real are never communicated by man to man. The
+true harvest of my daily life is somewhat as intangible and
+indescribable as the tints of morning or evening. It is a little
+star-dust caught, a segment of the rainbow which I have clutched.
+
+Yet, for my part, I was never unusually squeamish; I could sometimes
+eat a fried rat with a good relish, if it were necessary. I am glad to
+have drunk water so long, for the same reason that I prefer the natural
+sky to an opium-eater’s heaven. I would fain keep sober always; and
+there are infinite degrees of drunkenness. I believe that water is the
+only drink for a wise man; wine is not so noble a liquor; and think of
+dashing the hopes of a morning with a cup of warm coffee, or of an
+evening with a dish of tea! Ah, how low I fall when I am tempted by
+them! Even music may be intoxicating. Such apparently slight causes
+destroyed Greece and Rome, and will destroy England and America. Of all
+ebriosity, who does not prefer to be intoxicated by the air he
+breathes? I have found it to be the most serious objection to coarse
+labors long continued, that they compelled me to eat and drink coarsely
+also. But to tell the truth, I find myself at present somewhat less
+particular in these respects. I carry less religion to the table, ask
+no blessing; not because I am wiser than I was, but, I am obliged to
+confess, because, however much it is to be regretted, with years I have
+grown more coarse and indifferent. Perhaps these questions are
+entertained only in youth, as most believe of poetry. My practice is
+“nowhere,” my opinion is here. Nevertheless I am far from regarding
+myself as one of those privileged ones to whom the Ved refers when it
+says, that “he who has true faith in the Omnipresent Supreme Being may
+eat all that exists,” that is, is not bound to inquire what is his
+food, or who prepares it; and even in their case it is to be observed,
+as a Hindoo commentator has remarked, that the Vedant limits this
+privilege to “the time of distress.”
+
+Who has not sometimes derived an inexpressible satisfaction from his
+food in which appetite had no share? I have been thrilled to think that
+I owed a mental perception to the commonly gross sense of taste, that I
+have been inspired through the palate, that some berries which I had
+eaten on a hill-side had fed my genius. “The soul not being mistress of
+herself,” says Thseng-tseu, “one looks, and one does not see; one
+listens, and one does not hear; one eats, and one does not know the
+savor of food.” He who distinguishes the true savor of his food can
+never be a glutton; he who does not cannot be otherwise. A puritan may
+go to his brown-bread crust with as gross an appetite as ever an
+alderman to his turtle. Not that food which entereth into the mouth
+defileth a man, but the appetite with which it is eaten. It is neither
+the quality nor the quantity, but the devotion to sensual savors; when
+that which is eaten is not a viand to sustain our animal, or inspire
+our spiritual life, but food for the worms that possess us. If the
+hunter has a taste for mud-turtles, muskrats, and other such savage
+tid-bits, the fine lady indulges a taste for jelly made of a calf’s
+foot, or for sardines from over the sea, and they are even. He goes to
+the mill-pond, she to her preserve-pot. The wonder is how they, how you
+and I, can live this slimy, beastly life, eating and drinking.
+
+Our whole life is startlingly moral. There is never an instant’s truce
+between virtue and vice. Goodness is the only investment that never
+fails. In the music of the harp which trembles round the world it is
+the insisting on this which thrills us. The harp is the travelling
+patterer for the Universe’s Insurance Company, recommending its laws,
+and our little goodness is all the assessment that we pay. Though the
+youth at last grows indifferent, the laws of the universe are not
+indifferent, but are forever on the side of the most sensitive. Listen
+to every zephyr for some reproof, for it is surely there, and he is
+unfortunate who does not hear it. We cannot touch a string or move a
+stop but the charming moral transfixes us. Many an irksome noise, go a
+long way off, is heard as music, a proud sweet satire on the meanness
+of our lives.
+
+We are conscious of an animal in us, which awakens in proportion as our
+higher nature slumbers. It is reptile and sensual, and perhaps cannot
+be wholly expelled; like the worms which, even in life and health,
+occupy our bodies. Possibly we may withdraw from it, but never change
+its nature. I fear that it may enjoy a certain health of its own; that
+we may be well, yet not pure. The other day I picked up the lower jaw
+of a hog, with white and sound teeth and tusks, which suggested that
+there was an animal health and vigor distinct from the spiritual. This
+creature succeeded by other means than temperance and purity. “That in
+which men differ from brute beasts,” says Mencius, “is a thing very
+inconsiderable; the common herd lose it very soon; superior men
+preserve it carefully.” Who knows what sort of life would result if we
+had attained to purity? If I knew so wise a man as could teach me
+purity I would go to seek him forthwith. “A command over our passions,
+and over the external senses of the body, and good acts, are declared
+by the Ved to be indispensable in the mind’s approximation to God.” Yet
+the spirit can for the time pervade and control every member and
+function of the body, and transmute what in form is the grossest
+sensuality into purity and devotion. The generative energy, which, when
+we are loose, dissipates and makes us unclean, when we are continent
+invigorates and inspires us. Chastity is the flowering of man; and what
+are called Genius, Heroism, Holiness, and the like, are but various
+fruits which succeed it. Man flows at once to God when the channel of
+purity is open. By turns our purity inspires and our impurity casts us
+down. He is blessed who is assured that the animal is dying out in him
+day by day, and the divine being established. Perhaps there is none but
+has cause for shame on account of the inferior and brutish nature to
+which he is allied. I fear that we are such gods or demigods only as
+fauns and satyrs, the divine allied to beasts, the creatures of
+appetite, and that, to some extent, our very life is our disgrace.—
+
+     “How happy’s he who hath due place assigned
+     To his beasts and disafforested his mind!
+                *    *    *    *    *
+     Can use this horse, goat, wolf, and ev’ry beast,
+     And is not ass himself to all the rest!
+     Else man not only is the herd of swine,
+     But he’s those devils too which did incline
+     Them to a headlong rage, and made them worse.”
+
+All sensuality is one, though it takes many forms; all purity is one.
+It is the same whether a man eat, or drink, or cohabit, or sleep
+sensually. They are but one appetite, and we only need to see a person
+do any one of these things to know how great a sensualist he is. The
+impure can neither stand nor sit with purity. When the reptile is
+attacked at one mouth of his burrow, he shows himself at another. If
+you would be chaste, you must be temperate. What is chastity? How shall
+a man know if he is chaste? He shall not know it. We have heard of this
+virtue, but we know not what it is. We speak conformably to the rumor
+which we have heard. From exertion come wisdom and purity; from sloth
+ignorance and sensuality. In the student sensuality is a sluggish habit
+of mind. An unclean person is universally a slothful one, one who sits
+by a stove, whom the sun shines on prostrate, who reposes without being
+fatigued. If you would avoid uncleanness, and all the sins, work
+earnestly, though it be at cleaning a stable. Nature is hard to be
+overcome, but she must be overcome. What avails it that you are
+Christian, if you are not purer than the heathen, if you deny yourself
+no more, if you are not more religious? I know of many systems of
+religion esteemed heathenish whose precepts fill the reader with shame,
+and provoke him to new endeavors, though it be to the performance of
+rites merely.
+
+I hesitate to say these things, but it is not because of the subject,—I
+care not how obscene my _words_ are,—but because I cannot speak of them
+without betraying my impurity. We discourse freely without shame of one
+form of sensuality, and are silent about another. We are so degraded
+that we cannot speak simply of the necessary functions of human nature.
+In earlier ages, in some countries, every function was reverently
+spoken of and regulated by law. Nothing was too trivial for the Hindoo
+lawgiver, however offensive it may be to modern taste. He teaches how
+to eat, drink, cohabit, void excrement and urine, and the like,
+elevating what is mean, and does not falsely excuse himself by calling
+these things trifles.
+
+Every man is the **builder of a temple**, called his body, to the god he
+worships, after a style purely his own, nor can he get off by hammering
+marble instead. We are all sculptors and painters, and our material is
+our own flesh and blood and bones. Any nobleness begins at once to
+refine a man’s features, any meanness or sensuality to imbrute them.
+
+John Farmer sat at his door one September evening, after a hard day’s
+work, his mind still running on his labor more or less. Having bathed,
+he sat down to re-create his intellectual man. It was a rather cool
+evening, and some of his neighbors were apprehending a frost. He had
+not attended to the train of his thoughts long when he heard some one
+playing on a flute, and that sound harmonized with his mood. Still he
+thought of his work; but the burden of his thought was, that though
+this kept running in his head, and he found himself planning and
+contriving it against his will, yet it concerned him very little. It
+was no more than the scurf of his skin, which was constantly shuffled
+off. But the **notes of the flute** came home to his ears out of a
+different sphere from that he worked in, and suggested work for certain
+faculties which slumbered in him. They gently did away with the street,
+and the village, and the state in which he lived. A voice said to
+him,—Why do you stay here and live this mean moiling life, when a
+glorious existence is possible for you? Those same stars twinkle over
+other fields than these.—But how to come out of this condition and
+actually migrate thither? All that he could think of was to practise
+some new austerity, to let his mind descend into his body and redeem
+it, and treat himself with ever increasing respect.

@@ -9,92 +9,415 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reads Homer and the Greek classics in the original language — not as a display of learning, but because translations lose the essential music and precision that make the works worth reading."
+  - point: "Thoreau emphasizes the immortality of truth and the timelessness of philosophical insights."
+    link: "https://en.wikipedia.org/wiki/Egyptian_philosophy"
+    link_label: "Egyptian philosophy"
+  - point: "He discusses the value of reading ancient texts and the enduring influence of classical literature."
     link: "https://en.wikipedia.org/wiki/Homer"
-    link_label: "Homer on Wikipedia"
-  - point: "\"The works of the great poets have never yet been read by mankind, for only great poets can read them.\" Most reading is passive entertainment, not the effortful engagement great books require."
-    link: "https://en.wikipedia.org/wiki/Iliad"
-    link_label: "The Iliad on Wikipedia"
-  - point: "The printing press made books available to everyone in 1450. The capacity to read them deeply has not kept pace — and Thoreau considered shallow reading worse than no reading at all."
-    link: "https://en.wikipedia.org/wiki/Printing_press"
-    link_label: "Printing Press on Wikipedia"
-  - point: "Thoreau contrasts heroic books with newspapers: the telegraph carries news across a continent in seconds, but speed is meaningless if nothing important is being communicated."
-    link: "https://en.wikipedia.org/wiki/Newspaper"
-    link_label: "Newspaper on Wikipedia"
-  - point: "Every New England village ought to be a university town. Thoreau's argument for public intellectual culture was radical in 1854 and remains largely unfinished."
-    link: "https://en.wikipedia.org/wiki/Harvard_University"
-    link_label: "Harvard University on Wikipedia"
-  - point: "Sanskrit, Greek, Latin — Thoreau spent years learning dead languages so he could read the greatest books in the form their authors wrote them. He found no shortcut worth taking."
-    link: "https://en.wikipedia.org/wiki/Classical_antiquity"
-    link_label: "Classical Antiquity on Wikipedia"
+    link_label: "Homer"
+  - point: "Thoreau critiques modern reading habits and advocates for the study of heroic and ancient works."
+    link: "https://en.wikipedia.org/wiki/Ancient_Greek_literature"
+    link_label: "Ancient Greek literature"
+  - point: "He highlights the importance of learning ancient languages to access the wisdom of classical texts."
+    link: "https://en.wikipedia.org/wiki/Latin"
+    link_label: "Latin"
+  - point: "Thoreau reflects on the universal wisdom found in sacred texts and the teachings of historical figures."
+    link: "https://en.wikipedia.org/wiki/Zoroaster"
+    link_label: "Zoroaster"
+  - point: "He critiques the provincialism of New England and calls for a broader intellectual culture."
+    link: "https://en.wikipedia.org/wiki/New_England"
+    link_label: "New England"
 
 enhancements:
-  - id: "homer"
-    trigger: "Homer"
-    title: "The Blind Poet Who Invented Western Literature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Homer"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg/330px-Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Winslow Homer - The Gulf Stream - Metropolitan Museum of Art (Public domain)"
-    content: "No one knows if Homer was a single person or a tradition of oral poets who composed under a single name. Ancient Greeks believed he was a blind bard from Chios or Smyrna who lived sometime in the 8th or 9th century BC — a generation or two after the events he described. The Iliad and the Odyssey were not written down for centuries after they were first performed; they were memorized and recited by professional singers called aoidoi, who could perform an entire epic from memory before an audience that knew the stories by heart. The poems were finally transcribed in Athens in the 6th century BC under the tyrant Peisistratos, who wanted a standardized version for the Panathenaic Games. Thoreau had a copy of the Iliad on his cabin shelf and considered it the single most important object in the room. He read it in Greek because he had concluded that Pope's famous English translation — elegant as it was — had converted a warrior's stark bronze into something decorative and comfortable. The original, he felt, was still dangerous."
-  - id: "iliad"
-    trigger: "Iliad"
-    title: "The Oldest Story We Still Cannot Stop Reading"
+  - id: "egyptian-or-hindoo-philosopher"
+    trigger: "Egyptian or Hindoo philosopher"
+    title: "Ancient Philosophical Traditions"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_philosophy"
+    image_url: ""
+    image_caption: ""
+    content: "The philosophies of ancient Egypt and India have profoundly influenced human thought. Egyptian philosophy often revolved around concepts of order, balance, and the afterlife, while Hindu philosophy explored metaphysics, ethics, and spiritual liberation. These traditions remind us of humanity's enduring quest for understanding and truth."
+  - id: "homers-iliad"
+    trigger: "Homer’s Iliad"
+    title: "Epic of Homer’s Iliad"
     wikipedia_url: "https://en.wikipedia.org/wiki/Iliad"
     image_url: ""
-    image_caption: "Lines 468-473 of Book I of the Iliad, written in ink on wood, Roman Egypt, 1st-2nd century AD"
-    content: "The Iliad opens in the tenth year of the Trojan War, in the middle of a quarrel between the Greek commander Agamemnon and his greatest warrior, Achilles. It is not a story of glory. It is a story of rage, waste, and the grinding machinery of war — of men dying for a cause that was stupid at the beginning and remains stupid at the end. Homer is not on either side. He grieves for the Trojans as clearly as for the Greeks. In Book VI, Hector says goodbye to his wife and infant son, knowing he will die, and the moment is as precise and unbearable as anything in modern literature. Thoreau kept coming back to the Iliad because he found in it something he did not find in the pious literature of his own era: honesty about what human life actually is. No consolation is offered that wasn't earned. No death is prettified. Twenty-seven centuries after it was composed, it still reads like a dispatch from somewhere just outside the city walls."
-  - id: "printing-press"
-    trigger: "printing press"
-    title: "The Machine That Made Mass Literacy — and Mass Distraction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Printing_press"
+    image_caption: ""
+    content: "The Iliad, one of the oldest works of Western literature, recounts the events of the Trojan War and explores themes of heroism, fate, and the human condition. Its influence on literature and culture is immense, shaping storytelling traditions for millennia."
+  - id: "heroic-books"
+    trigger: "heroic books"
+    title: "Timeless Heroic Literature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Epic_poetry"
     image_url: ""
-    image_caption: "A replica of Gutenberg's printing press at the International Printing Museum"
-    content: "Johannes Gutenberg's press began operating in Mainz around 1450. Within fifty years, an estimated eight million books had been printed in Europe — more than all the scribes of the previous thousand years had produced. The Bible was the first major work printed, but within a generation the press was producing everything: legal documents, pamphlets, devotional books, scientific treatises, pornography. The Church recognized the threat immediately and established systems of censorship. Governments recognized it too. The printing press did not simply make books cheaper; it changed who got to speak and who got to be heard. Martin Luther's 95 Theses spread across Germany in weeks because of print. The scientific revolution depended on scientists being able to read each other's work across national borders. For Thoreau, writing four centuries after Gutenberg, the press had solved the problem of access while creating a new one: most of what it produced was not worth reading. The press had democratized information without democratizing wisdom."
-  - id: "alexandrian-library"
-    trigger: "Alexandrian library"
-    title: "The Greatest Library Ever Built — and What Its Destruction Cost Us"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Library_of_Alexandria"
+    image_caption: ""
+    content: "Heroic books, such as epics, celebrate the deeds of legendary figures and often convey moral and philosophical lessons. These works challenge readers to emulate virtues like courage and wisdom, making them relevant across generations."
+  - id: "ancient-language"
+    trigger: "ancient language"
+    title: "Importance of Ancient Languages"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Classical_language"
     image_url: ""
-    image_caption: "Nineteenth-century illustration of the Library of Alexandria"
-    content: "The Library of Alexandria was founded in the 3rd century BC under Ptolemy I, conceived as a repository for all human knowledge. At its peak it may have held 400,000 to 700,000 scrolls — the largest collection in the ancient world. Scholars came from across the Mediterranean to study there: Euclid worked out the geometry that still appears in school textbooks. Eratosthenes calculated the circumference of the earth to within a few hundred miles using a stick and the angle of shadows. Archimedes developed principles of physics that would not be systematically extended for fifteen centuries. The library did not burn in a single dramatic conflagration, as legend has it. It declined gradually through neglect, underfunding, and the political disruptions of the late Roman period — the slow death of an institution that nobody valued enough to defend. Thoreau's argument for building libraries and universities in every American village was, among other things, an argument against repeating that particular mistake. The knowledge Alexandria lost is mostly gone. We do not know what we lost."
-  - id: "sanskrit"
-    trigger: "Sanskrit"
-    title: "The Dead Language That Rewired How Europeans Understood Language Itself"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sanskrit"
+    image_caption: ""
+    content: "Learning ancient languages like Latin or Greek allows access to foundational texts of philosophy, science, and literature. These languages preserve the thoughts of civilizations that shaped modern intellectual traditions."
+  - id: "delphi-and-dodona"
+    trigger: "Delphi and Dodona"
+    title: "Ancient Greek Oracles"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Delphi"
     image_url: ""
-    image_caption: "19th-century illustrated Sanskrit manuscript of the Bhagavad Gita"
-    content: "When European scholars began seriously studying Sanskrit in the late 18th century, they made a discovery that upended everything they thought they knew about language. Sanskrit — the ancient literary language of India, no longer spoken as a mother tongue but preserved in thousands of years of scripture and scholarship — was structurally related to Latin, Greek, Persian, and the Germanic languages. They all descended from a common ancestor. This finding founded the field of comparative linguistics and demonstrated that the human family was older and more connected than anyone had supposed. Thoreau studied Sanskrit not as a linguist but as a reader. He wanted access to the Vedas, the Upanishads, and the Bhagavad Gita in their original form — to reach, as he put it, behind the translations to the thought itself. He learned enough Sanskrit to read the Laws of Manu in the original and to track the specific words the translators had struggled with. For Thoreau, language was not a transparent medium for meaning. It was the meaning. Getting the words wrong was getting the thought wrong."
-  - id: "newspapers"
-    trigger: "newspapers"
-    title: "The First Attention Economy — and the Man Who Refused to Participate"
-    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_journalism_in_the_United_States"
+    image_caption: ""
+    content: "Delphi and Dodona were significant centers of prophecy in ancient Greece. The Oracle of Delphi, dedicated to Apollo, was renowned for its cryptic predictions, while Dodona was associated with Zeus. These sites symbolize humanity's search for divine guidance."
+  - id: "zoroaster"
+    trigger: "Zoroaster"
+    title: "Zoroaster and His Teachings"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Zoroaster"
     image_url: ""
-    image_caption: "New York Times front page, November 11, 1918 — the end of World War I"
-    content: "The penny press arrived in the 1830s, a decade before Thoreau went to Walden. The New York Sun, The New York Herald, and their imitators sold papers for one cent — a fraction of the six-cent price of the established papers — and filled them with crime, scandal, human interest stories, and sensation. Circulation exploded. By the 1840s, American newspapers were among the most widely read in the world, and Thoreau was already convinced they were doing more harm than good. Not because the facts were wrong, but because the facts were trivial. He made his argument with a precision that has only become more relevant: the telegraph now carries news from Maine to Texas instantaneously. But Maine and Texas, it may be, have nothing important to communicate. The problem was not the speed of information transmission. The problem was the quality of what was being transmitted. Every hour spent reading about what someone had done to someone else in a city you would never visit was an hour not spent reading Homer. Thoreau was not against information. He was against the pretense that all information was equally worth having."
-  - id: "parthenon"
-    trigger: "Parthenon"
-    title: "The Building That Defined Western Civilization — and What It Cost"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Parthenon"
+    image_caption: ""
+    content: "Zoroaster, the founder of Zoroastrianism, introduced ideas about dualism, ethics, and the struggle between good and evil. His teachings influenced major religions and philosophies, highlighting the universality of spiritual experiences."
+  - id: "jesus-christ"
+    trigger: "Jesus Christ"
+    title: "The Life and Teachings of Jesus"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jesus"
     image_url: ""
-    image_caption: "The Parthenon, Athens, built 447–432 BC"
-    content: "The Parthenon was completed in 432 BC, at the height of Athenian power, as a temple to Athena and a monument to the city's victory over Persia. It was built in less than fifteen years by a workforce that included free citizens, resident foreigners, and slaves — financed in part by tribute extracted from the Delian League, the alliance of Greek city-states that Athens had effectively turned into an empire. The architecture is a study in optical refinement: the columns bulge slightly at their centers and lean inward by fractions of a degree, corrections that make the building appear more perfectly straight to the human eye than actual straight lines would. The frieze depicted the Panathenaic procession in sculpted relief — the largest continuous narrative sculpture in the ancient world. Thoreau invoked the Parthenon and classical Athens not as nostalgia but as a standard: a civilization that built this also produced Homer, Sophocles, Thucydides, and Plato in the same century. He wanted to know why his own civilization, so proud of its progress, had produced nothing of comparable permanence."
+    image_caption: ""
+    content: "Jesus Christ is central to Christianity and is revered for his teachings on love, forgiveness, and humility. His life and message have inspired countless individuals and shaped global history and culture."
+  - id: "nineteenth-century"
+    trigger: "nineteenth century"
+    title: "The Nineteenth Century"
+    wikipedia_url: "https://en.wikipedia.org/wiki/19th_century"
+    image_url: ""
+    image_caption: ""
+    content: "The 19th century was a period of rapid change, marked by industrialization, scientific advancements, and cultural shifts. It saw the rise of movements like Romanticism and Transcendentalism, which influenced thinkers like Thoreau."
+  - id: "common-schools"
+    trigger: "common schools"
+    title: "Common Schools Movement"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Common_school"
+    image_url: ""
+    image_caption: ""
+    content: "The common schools movement in the United States aimed to provide basic education to all children. It laid the foundation for public schooling and reflected democratic ideals of equal opportunity."
+  - id: "abelard"
+    trigger: "Abelard"
+    title: "Abelard: Philosopher and Theologian"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Peter_Abelard"
+    image_url: ""
+    image_caption: ""
+    content: "Peter Abelard was a medieval philosopher and theologian known for his innovative ideas and tragic love story with Héloïse. His works contributed to scholasticism and the intellectual revival of the Middle Ages."
 ---
-In my experience, a taste for the classical is not merely a scholarly affectation but a practical necessity. I kept on my table a few books, which I did not care to crowd into my small space, yet which were more real to me than any furniture. The Iliad I had left on the table, and in the evening I read it.
+With a little more deliberation in the choice of their pursuits, all
+men would perhaps become essentially students and observers, for
+certainly their nature and destiny are interesting to all alike. In
+accumulating property for ourselves or our posterity, in founding a
+family or a state, or acquiring fame even, we are mortal; but in
+dealing with truth we are immortal, and need fear no change nor
+accident. The oldest **Egyptian or Hindoo philosopher** raised a corner of
+the veil from the statue of the divinity; and still the trembling robe
+remains raised, and I gaze upon as fresh a glory as he did, since it
+was I in him that was then so bold, and it is he in me that now reviews
+the vision. No dust has settled on that robe; no time has elapsed since
+that divinity was revealed. That time which we really improve, or which
+is improvable, is neither past, present, nor future.
 
-Books are the treasured wealth of the world and the fit inheritance of generations and nations. Those who have not learned to read the ancient classics in the language in which they were written must have a very imperfect knowledge of the history of the human race; for it is remarkable that no transcript of them has ever been made into any modern tongue that preserves what actually made them worth reading.
+My residence was more favorable, not only to thought, but to serious
+reading, than a university; and though I was beyond the range of the
+ordinary circulating library, I had more than ever come within the
+influence of those books which circulate round the world, whose
+sentences were first written on bark, and are now merely copied from
+time to time on to linen paper. Says the poet Mîr Camar Uddîn Mast,
+“Being seated to run through the region of the spiritual world; I have
+had this advantage in books. To be intoxicated by a single glass of
+wine; I have experienced this pleasure when I have drunk the liquor of
+the esoteric doctrines.” I kept **Homer’s Iliad** on my table through the
+summer, though I looked at his page only now and then. Incessant labor
+with my hands, at first, for I had my house to finish and my beans to
+hoe at the same time, made more study impossible. Yet I sustained
+myself by the prospect of such reading in future. I read one or two
+shallow books of travel in the intervals of my work, till that
+employment made me ashamed of myself, and I asked where it was then
+that _I_ lived.
 
-**Homer** has never yet been printed in England. The rhymed versions of his translators — however skillfully executed — have transformed a warrior's spare bronze into drawing-room ornament. The noble books remain in their original form, as remote as the **Parthenon** on its hill, available only to those who learn the language the author wrote in. I learned Greek because I wished to read the **Iliad** in the words in which it was set down.
+The student may read Homer or Æschylus in the Greek without danger of
+dissipation or luxuriousness, for it implies that he in some measure
+emulate their heroes, and consecrate morning hours to their pages. The
+**heroic books**, even if printed in the character of our mother tongue,
+will always be in a language dead to degenerate times; and we must
+laboriously seek the meaning of each word and line, conjecturing a
+larger sense than common use permits out of what wisdom and valor and
+generosity we have. The modern cheap and fertile press, with all its
+translations, has done little to bring us nearer to the heroic writers
+of antiquity. They seem as solitary, and the letter in which they are
+printed as rare and curious, as ever. It is worth the expense of
+youthful days and costly hours, if you learn only some words of an
+**ancient language**, which are raised out of the trivialness of the
+street, to be perpetual suggestions and provocations. It is not in vain
+that the farmer remembers and repeats the few Latin words which he has
+heard. Men sometimes speak as if the study of the classics would at
+length make way for more modern and practical studies; but the
+adventurous student will always study classics, in whatever language
+they may be written and however ancient they may be. For what are the
+classics but the noblest recorded thoughts of man? They are the only
+oracles which are not decayed, and there are such answers to the most
+modern inquiry in them as **Delphi and Dodona** never gave. We might as
+well omit to study Nature because she is old. To read well, that is, to
+read true books in a true spirit, is a noble exercise, and one that
+will task the reader more than any exercise which the customs of the
+day esteem. It requires a training such as the athletes underwent, the
+steady intention almost of the whole life to this object. Books must be
+read as deliberately and reservedly as they were written. It is not
+enough even to be able to speak the language of that nation by which
+they are written, for there is a memorable interval between the spoken
+and the written language, the language heard and the language read. The
+one is commonly transitory, a sound, a tongue, a dialect merely, almost
+brutish, and we learn it unconsciously, like the brutes, of our
+mothers. The other is the maturity and experience of that; if that is
+our mother tongue, this is our father tongue, a reserved and select
+expression, too significant to be heard by the ear, which we must be
+born again in order to speak. The crowds of men who merely _spoke_ the
+Greek and Latin tongues in the middle ages were not entitled by the
+accident of birth to _read_ the works of genius written in those
+languages; for these were not written in that Greek or Latin which they
+knew, but in the select language of literature. They had not learned
+the nobler dialects of Greece and Rome, but the very materials on which
+they were written were waste paper to them, and they prized instead a
+cheap contemporary literature. But when the several nations of Europe
+had acquired distinct though rude written languages of their own,
+sufficient for the purposes of their rising literatures, then first
+learning revived, and scholars were enabled to discern from that
+remoteness the treasures of antiquity. What the Roman and Grecian
+multitude could not _hear_, after the lapse of ages a few scholars
+_read_, and a few scholars only are still reading it.
 
-I read **Sanskrit** and Persian and the ancient scriptures of the East not to accumulate knowledge for its own sake, but because the greatest thoughts available to me happened to have been written in those languages, and the translations missed too much. A translation is a fire through which the subtlest properties are burned away.
+However much we may admire the orator’s occasional bursts of eloquence,
+the noblest written words are commonly as far behind or above the
+fleeting spoken language as the firmament with its stars is behind the
+clouds. _There_ are the stars, and they who can may read them. The
+astronomers forever comment on and observe them. They are not
+exhalations like our daily colloquies and vaporous breath. What is
+called eloquence in the forum is commonly found to be rhetoric in the
+study. The orator yields to the inspiration of a transient occasion,
+and speaks to the mob before him, to those who can _hear_ him; but the
+writer, whose more equable life is his occasion, and who would be
+distracted by the event and the crowd which inspire the orator, speaks
+to the intellect and health of mankind, to all in any age who can
+_understand_ him.
 
-The works of the great poets have never yet been read by mankind, for only great poets can read them. They have only been read as the multitude read the stars, at most astrologically, not astronomically. Most men have learned to read to serve a paltry convenience, as they have learned to cipher in order to keep accounts and not be cheated in trade.
+No wonder that Alexander carried the Iliad with him on his expeditions
+in a precious casket. A written word is the choicest of relics. It is
+something at once more intimate with us and more universal than any
+other work of art. It is the work of art nearest to life itself. It may
+be translated into every language, and not only be read but actually
+breathed from all human lips;—not be represented on canvas or in marble
+only, but be carved out of the breath of life itself. The symbol of an
+ancient man’s thought becomes a modern man’s speech. Two thousand
+summers have imparted to the monuments of Grecian literature, as to her
+marbles, only a maturer golden and autumnal tint, for they have carried
+their own serene and celestial atmosphere into all lands to protect
+them against the corrosion of time. Books are the treasured wealth of
+the world and the fit inheritance of generations and nations. Books,
+the oldest and the best, stand naturally and rightfully on the shelves
+of every cottage. They have no cause of their own to plead, but while
+they enlighten and sustain the reader his common sense will not refuse
+them. Their authors are a natural and irresistible aristocracy in every
+society, and, more than kings or emperors, exert an influence on
+mankind. When the illiterate and perhaps scornful trader has earned by
+enterprise and industry his coveted leisure and independence, and is
+admitted to the circles of wealth and fashion, he turns inevitably at
+last to those still higher but yet inaccessible circles of intellect
+and genius, and is sensible only of the imperfection of his culture and
+the vanity and insufficiency of all his riches, and further proves his
+good sense by the pains which he takes to secure for his children that
+intellectual culture whose want he so keenly feels; and thus it is that
+he becomes the founder of a family.
 
-We might as well omit to study Nature because she is old. With the **printing press** came the possibility — not yet realized — that every person on earth might have access to the accumulated thought of human civilization. That possibility remains unrealized because we have not matched the machine with the discipline it demands. Books are printed by millions; read, in the deep sense, by few.
+Those who have not learned to read the ancient classics in the language
+in which they were written must have a very imperfect knowledge of the
+history of the human race; for it is remarkable that no transcript of
+them has ever been made into any modern tongue, unless our civilization
+itself may be regarded as such a transcript. Homer has never yet been
+printed in English, nor Æschylus, nor Virgil even—works as refined, as
+solidly done, and as beautiful almost as the morning itself; for later
+writers, say what we will of their genius, have rarely, if ever,
+equalled the elaborate beauty and finish and the lifelong and heroic
+literary labors of the ancients. They only talk of forgetting them who
+never knew them. It will be soon enough to forget them when we have the
+learning and the genius which will enable us to attend to and
+appreciate them. That age will be rich indeed when those relics which
+we call Classics, and the still older and more than classic but even
+less known Scriptures of the nations, shall have still further
+accumulated, when the Vaticans shall be filled with Vedas and
+Zendavestas and Bibles, with Homers and Dantes and Shakespeares, and
+all the centuries to come shall have successively deposited their
+trophies in the forum of the world. By such a pile we may hope to scale
+heaven at last.
 
-The **Alexandrian library** held perhaps half a million scrolls at its height — the sum of ancient learning, the work of centuries, preserved in a building in Egypt. That building is gone. We have recovered perhaps a fraction of what it contained. Every book that burns is a small Alexandria. Every generation that reads only its **newspapers** and nothing deeper is burning its library voluntarily, one distracted hour at a time.
+The works of the great poets have never yet been read by mankind, for
+only great poets can read them. They have only been read as the
+multitude read the stars, at most astrologically, not astronomically.
+Most men have learned to read to serve a paltry convenience, as they
+have learned to cipher in order to keep accounts and not be cheated in
+trade; but of reading as a noble intellectual exercise they know little
+or nothing; yet this only is reading, in a high sense, not that which
+lulls us as a luxury and suffers the nobler faculties to sleep the
+while, but what we have to stand on tip-toe to read and devote our most
+alert and wakeful hours to.
 
-I did not read the newspaper at Walden. The news was not important enough. We are eager to tunnel under the Atlantic and bring the Old World some weeks nearer to the New; but perchance the first news that will leak through into the broad, flapping American ear will be that the Princess Adelaide has the whooping cough. After a night's sleep the news is as indispensable to us as the breakfast. But if you can read any morning paper with complete satisfaction, you are probably not reading the right books.
+I think that having learned our letters we should read the best that is
+in literature, and not be forever repeating our a b abs, and words of
+one syllable, in the fourth or fifth classes, sitting on the lowest and
+foremost form all our lives. Most men are satisfied if they read or
+hear read, and perchance have been convicted by the wisdom of one good
+book, the Bible, and for the rest of their lives vegetate and dissipate
+their faculties in what is called easy reading. There is a work in
+several volumes in our Circulating Library entitled Little Reading,
+which I thought referred to a town of that name which I had not been
+to. There are those who, like cormorants and ostriches, can digest all
+sorts of this, even after the fullest dinner of meats and vegetables,
+for they suffer nothing to be wasted. If others are the machines to
+provide this provender, they are the machines to read it. They read the
+nine thousandth tale about Zebulon and Sephronia, and how they loved as
+none had ever loved before, and neither did the course of their true
+love run smooth,—at any rate, how it did run and stumble, and get up
+again and go on! how some poor unfortunate got up on to a steeple, who
+had better never have gone up as far as the belfry; and then, having
+needlessly got him up there, the happy novelist rings the bell for all
+the world to come together and hear, O dear! how he did get down again!
+For my part, I think that they had better metamorphose all such
+aspiring heroes of universal noveldom into man weathercocks, as they
+used to put heroes among the constellations, and let them swing round
+there till they are rusty, and not come down at all to bother honest
+men with their pranks. The next time the novelist rings the bell I will
+not stir though the meeting-house burn down. “The Skip of the
+Tip-Toe-Hop, a Romance of the Middle Ages, by the celebrated author of
+‘Tittle-Tol-Tan,’ to appear in monthly parts; a great rush; don’t all
+come together.” All this they read with saucer eyes, and erect and
+primitive curiosity, and with unwearied gizzard, whose corrugations
+even yet need no sharpening, just as some little four-year-old bencher
+his two-cent gilt-covered edition of Cinderella,—without any
+improvement, that I can see, in the pronunciation, or accent, or
+emphasis, or any more skill in extracting or inserting the moral. The
+result is dulness of sight, a stagnation of the vital circulations, and
+a general deliquium and sloughing off of all the intellectual
+faculties. This sort of gingerbread is baked daily and more sedulously
+than pure wheat or rye-and-Indian in almost every oven, and finds a
+surer market.
 
-It is not all books that are as dull as their readers. There are probably words addressed to our condition exactly, which, if we could really hear and understand, would be more salutary than the morning or the spring to our lives, and possibly put a new aspect on the face of things for us.
+The best books are not read even by those who are called good readers.
+What does our Concord culture amount to? There is in this town, with a
+very few exceptions, no taste for the best or for very good books even
+in English literature, whose words all can read and spell. Even the
+college-bred and so called liberally educated men here and elsewhere
+have really little or no acquaintance with the English classics; and as
+for the recorded wisdom of mankind, the ancient classics and Bibles,
+which are accessible to all who will know of them, there are the
+feeblest efforts any where made to become acquainted with them. I know
+a woodchopper, of middle age, who takes a French paper, not for news as
+he says, for he is above that, but to “keep himself in practice,” he
+being a Canadian by birth; and when I ask him what he considers the
+best thing he can do in this world, he says, beside this, to keep up
+and add to his English. This is about as much as the college bred
+generally do or aspire to do, and they take an English paper for the
+purpose. One who has just come from reading perhaps one of the best
+English books will find how many with whom he can converse about it? Or
+suppose he comes from reading a Greek or Latin classic in the original,
+whose praises are familiar even to the so called illiterate; he will
+find nobody at all to speak to, but must keep silence about it. Indeed,
+there is hardly the professor in our colleges, who, if he has mastered
+the difficulties of the language, has proportionally mastered the
+difficulties of the wit and poetry of a Greek poet, and has any
+sympathy to impart to the alert and heroic reader; and as for the
+sacred Scriptures, or Bibles of mankind, who in this town can tell me
+even their titles? Most men do not know that any nation but the Hebrews
+have had a scripture. A man, any man, will go considerably out of his
+way to pick up a silver dollar; but here are golden words, which the
+wisest men of antiquity have uttered, and whose worth the wise of every
+succeeding age have assured us of;—and yet we learn to read only as far
+as Easy Reading, the primers and class-books, and when we leave school,
+the “Little Reading,” and story books, which are for boys and
+beginners; and our reading, our conversation and thinking, are all on a
+very low level, worthy only of pygmies and manikins.
 
-To read well — to read true books in a true spirit — is a noble exercise, and one that will task the reader more than any exercise which the customs of the day esteem. It requires a training such as the athletes underwent — steady intention almost of the whole life to this object.
+I aspire to be acquainted with wiser men than this our Concord soil has
+produced, whose names are hardly known here. Or shall I hear the name
+of Plato and never read his book? As if Plato were my townsman and I
+never saw him,—my next neighbor and I never heard him speak or attended
+to the wisdom of his words. But how actually is it? His Dialogues,
+which contain what was immortal in him, lie on the next shelf, and yet
+I never read them. We are underbred and low-lived and illiterate; and
+in this respect I confess I do not make any very broad distinction
+between the illiterateness of my townsman who cannot read at all, and
+the illiterateness of him who has learned to read only what is for
+children and feeble intellects. We should be as good as the worthies of
+antiquity, but partly by first knowing how good they were. We are a
+race of tit-men, and soar but little higher in our intellectual flights
+than the columns of the daily paper.
+
+It is not all books that are as dull as their readers. There are
+probably words addressed to our condition exactly, which, if we could
+really hear and understand, would be more salutary than the morning or
+the spring to our lives, and possibly put a new aspect on the face of
+things for us. How many a man has dated a new era in his life from the
+reading of a book. The book exists for us perchance which will explain
+our miracles and reveal new ones. The at present unutterable things we
+may find somewhere uttered. These same questions that disturb and
+puzzle and confound us have in their turn occurred to all the wise men;
+not one has been omitted; and each has answered them, according to his
+ability, by his words and his life. Moreover, with wisdom we shall
+learn liberality. The solitary hired man on a farm in the outskirts of
+Concord, who has had his second birth and peculiar religious
+experience, and is driven as he believes into the silent gravity and
+exclusiveness by his faith, may think it is not true; but **Zoroaster**,
+thousands of years ago, travelled the same road and had the same
+experience; but he, being wise, knew it to be universal, and treated
+his neighbors accordingly, and is even said to have invented and
+established worship among men. Let him humbly commune with Zoroaster
+then, and through the liberalizing influence of all the worthies, with
+**Jesus Christ** himself, and let “our church” go by the board.
+
+We boast that we belong to the **nineteenth century** and are making the
+most rapid strides of any nation. But consider how little this village
+does for its own culture. I do not wish to flatter my townsmen, nor to
+be flattered by them, for that will not advance either of us. We need
+to be provoked,—goaded like oxen, as we are, into a trot. We have a
+comparatively decent system of **common schools**, schools for infants
+only; but excepting the half-starved **Lyceum in the winter**, and latterly
+the puny beginning of a library suggested by the state, no school for
+ourselves. We spend more on almost any article of bodily aliment or
+ailment than on our mental aliment. It is time that we had uncommon
+schools, that we did not leave off our education when we begin to be
+men and women. It is time that villages were universities, and their
+elder inhabitants the fellows of universities, with leisure—if they are
+indeed so well off—to pursue liberal studies the rest of their lives.
+Shall the world be confined to one Paris or one Oxford forever? Cannot
+students be boarded here and get a liberal education under the skies of
+Concord? Can we not hire some **Abelard** to lecture to us? Alas! what with
+foddering the cattle and tending the store, we are kept from school too
+long, and our education is sadly neglected. In this country, the
+village should in some respects take the place of the nobleman of
+Europe. It should be the patron of the fine arts. It is rich enough. It
+wants only the magnanimity and refinement. It can spend money enough on
+such things as farmers and traders value, but it is thought Utopian to
+propose spending money for things which more intelligent men know to be
+of far more worth. This town has spent seventeen thousand dollars on a
+town-house, thank fortune or politics, but probably it will not spend
+so much on living wit, the true meat to put into that shell, in a
+hundred years. The one hundred and twenty-five dollars annually
+subscribed for a Lyceum in the winter is better spent than any other
+equal sum raised in the town. If we live in the nineteenth century, why
+should we not enjoy the advantages which the nineteenth century offers?
+Why should our life be in any respect provincial? If we will read
+newspapers, why not skip the gossip of Boston and take the best
+newspaper in the world at once?—not be sucking the pap of “neutral
+family” papers, or browsing “Olive-Branches” here in **New England**. Let
+the reports of all the learned societies come to us, and we will see if
+they know any thing. Why should we leave it to **Harper & Brothers** and
+Redding & Co. to select our reading? As the nobleman of cultivated
+taste surrounds himself with whatever conduces to his
+culture,—genius—learning—wit—books—paintings—statuary—music—
+philosophical instruments, and the like; so let the village do,—not
+stop short at a pedagogue, a parson, a sexton, a parish library, and
+three selectmen, because our pilgrim forefathers got through a cold
+winter once on a bleak rock with these. To act collectively is
+according to the spirit of our institutions; and I am confident that,
+as our circumstances are more flourishing, our means are greater than
+the nobleman’s. New England can hire all the wise men in the world to
+come and teach her, and board them round the while, and not be
+provincial at all. That is the _uncommon_ school we want. Instead of
+noblemen, let us have noble villages of men. If it is necessary, omit
+one bridge over the river, go round a little there, and throw one arch
+at least over the darker gulf of ignorance which surrounds us.
