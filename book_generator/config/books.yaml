@@ -34,11 +34,32 @@ books:
     title: "Walden"
     author: "Henry David Thoreau"
     year: 1854
+    # Gutenberg ID 205.  Chapter headings are plain Title Case on their own line
+    # ("Economy", "Reading", etc.) with no leading indent — TOC entries have a
+    # leading space so the title-based split skips them automatically.
+    gutenberg_id: 205
+    gutenberg_split: title     # match chapter titles from books.yaml directly
+    gutenberg_heading_lines: 1 # strip just the title line itself
     description: >
       Thoreau's account of two years living alone in a cabin near Walden Pond,
       exploring themes of self-reliance, deliberate living, and humanity's
       relationship with nature.
     chapters:
+      - number: 1
+        title: "Economy"
+        slug: "chapter-01-economy"
+      - number: 2
+        title: "Where I Lived, and What I Lived For"
+        slug: "chapter-02-where-i-lived"
+      - number: 3
+        title: "Reading"
+        slug: "chapter-03-reading"
+      - number: 4
+        title: "Sounds"
+        slug: "chapter-04-sounds"
+      - number: 5
+        title: "Solitude"
+        slug: "chapter-05-solitude"
       - number: 6
         title: "Visitors"
         slug: "chapter-06-visitors"
@@ -83,6 +104,11 @@ books:
     title: "Twenty Thousand Leagues Under the Sea"
     author: "Jules Verne"
     year: 1870
+    # Gutenberg ID 164.  Headings: "CHAPTER I" then subtitle on next line, no indent.
+    gutenberg_id: 164
+    gutenberg_split: pattern
+    gutenberg_re: '^CHAPTER [IVXLC]+$'
+    gutenberg_heading_lines: 2  # skip "CHAPTER I" + "A SHIFTING REEF"
     description: >
       Professor Aronnax, his servant Conseil, and harpooner Ned Land are
       captured by the mysterious Captain Nemo aboard the submarine Nautilus
@@ -120,6 +146,13 @@ books:
     title: "The Great Gatsby"
     author: "F. Scott Fitzgerald"
     year: 1925
+    # Gutenberg ID 64317 (entered US public domain 2021).
+    # Chapter headings are heavily indented Roman numerals (30+ spaces), e.g.
+    # "                                  I" — TOC entries are NOT indented.
+    gutenberg_id: 64317
+    gutenberg_split: pattern
+    gutenberg_re: '^ {10,}[IVXLC]+\s*$'
+    gutenberg_heading_lines: 1
     description: >
       Narrator Nick Carraway observes his mysterious neighbor Jay Gatsby's
       obsessive pursuit of Daisy Buchanan against the glittering and corrupt
@@ -158,6 +191,14 @@ books:
     title: "Pride and Prejudice"
     author: "Jane Austen"
     year: 1813
+    # Gutenberg ID 1342.  Chapter headings: "CHAPTER II.", "CHAPTER III." etc.
+    # (ALL CAPS Roman numerals, with optional trailing period).
+    # Books.yaml uses custom thematic titles; set gutenberg_n per chapter to map
+    # to the right Gutenberg chapter ordinal.
+    gutenberg_id: 1342
+    gutenberg_split: pattern
+    gutenberg_re: '^CHAPTER [IVXLC]+\.?\s*$'
+    gutenberg_heading_lines: 1
     description: >
       Elizabeth Bennet navigates questions of marriage, morality, and
       social standing in Regency-era England, sparring with the proud
@@ -177,6 +218,12 @@ books:
     title: "The Time Machine"
     author: "H.G. Wells"
     year: 1895
+    # Gutenberg ID 35.  Headings are indented: " I." then " Introduction" (both with
+    # a leading space).  Match the Roman-numeral line (with leading space).
+    gutenberg_id: 35
+    gutenberg_split: pattern
+    gutenberg_re: '^ [IVX]+\.$'
+    gutenberg_heading_lines: 2  # skip " I." + " Introduction"
     description: >
       A Victorian scientist builds a machine that carries him far into the future,
       where he discovers a world divided between the gentle Eloi and the subterranean
@@ -235,6 +282,12 @@ books:
     title: "Journey to the Center of the Earth"
     author: "Jules Verne"
     year: 1864
+    # Gutenberg ID 18857.  TOC has "CHAPTER 1 SUBTITLE" (with subtitle on same line);
+    # actual chapter headings are just "CHAPTER 1" with no subtitle.
+    gutenberg_id: 18857
+    gutenberg_split: pattern
+    gutenberg_re: '^CHAPTER \d+$'
+    gutenberg_heading_lines: 1
     description: >
       Professor Otto Lidenbrock discovers a cryptic runic message pointing to
       a passage into the Earth's interior. With his nephew Axel and Icelandic
@@ -313,6 +366,14 @@ books:
     title: "Hamlet"
     author: "William Shakespeare"
     year: 1603
+    # Gutenberg ID 1524.  Act headings: "ACT I", "ACT II" etc. (no period, no indent).
+    # Hamlet has 5 acts but books.yaml has 6 thematic chapters.
+    # Use gutenberg_n per chapter to specify which Act to use; Acts III-V
+    # will need to be hand-trimmed to scene boundaries after fetch.
+    gutenberg_id: 1524
+    gutenberg_split: pattern
+    gutenberg_re: '^ACT [IVXLC]+$'
+    gutenberg_heading_lines: 1
     description: >
       Prince Hamlet of Denmark is visited by his father's ghost, who reveals
       he was murdered by Hamlet's uncle Claudius, now king. Torn between
@@ -322,18 +383,24 @@ books:
       - number: 1
         title: "The Ghost's Warning"
         slug: "chapter-01-the-ghosts-warning"
+        gutenberg_n: 1   # Act I
       - number: 2
         title: "The Players Arrive"
         slug: "chapter-02-the-players-arrive"
+        gutenberg_n: 2   # Act II
       - number: 3
         title: "The Mousetrap"
         slug: "chapter-03-the-mousetrap"
+        gutenberg_n: 3   # Act III (hand-trim to scenes 1–3 if desired)
       - number: 4
         title: "The Killing of Polonius"
         slug: "chapter-04-the-killing-of-polonius"
+        gutenberg_n: 3   # Act III scenes 4–5 overlap; hand-trim after fetch
       - number: 5
         title: "Ophelia's Madness"
         slug: "chapter-05-ophelias-madness"
+        gutenberg_n: 4   # Act IV
       - number: 6
         title: "The Final Reckoning"
         slug: "chapter-06-the-final-reckoning"
+        gutenberg_n: 5   # Act V

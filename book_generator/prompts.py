@@ -87,6 +87,51 @@ def build_text_prompt(book: dict, chapter: dict, config: dict) -> list[dict]:
     ]
 
 
+_PHRASES_SYSTEM = """\
+You are a literary annotator for Enhanced Classics.
+
+Given the original text of a classic chapter, identify 8–15 phrases that are \
+ideal candidates for educational annotation cards. Choose concepts, people, places, \
+events, or scientific/historical ideas that a modern reader would benefit from \
+understanding more deeply.
+
+Rules:
+- Each phrase must be a verbatim substring of the provided text — do not alter, \
+  paraphrase, or invent text.
+- Prefer short, specific phrases (1–5 words) over long ones.
+- Avoid phrases that are too generic (e.g. "the" or "he said").
+- Return ONLY a JSON array of the exact phrases, e.g.:
+  ["Walden Pond", "transcendentalism", "bean-field"]
+- No markdown fences, no commentary, no keys — just the bare JSON array.\
+"""
+
+_PHRASES_USER = """\
+Book: "{title}" by {author} ({year})
+Chapter {chapter_num}: {chapter_title}
+
+--- CHAPTER TEXT ---
+{text}
+--- END ---
+
+Return the JSON array of 8–15 annotation phrases (verbatim substrings).\
+"""
+
+
+def build_phrase_prompt(book: dict, chapter: dict, text: str) -> list[dict]:
+    """Pass 1 (source-text mode): identify annotation trigger phrases in the original text."""
+    return [
+        {"role": "system", "content": _PHRASES_SYSTEM},
+        {"role": "user", "content": _PHRASES_USER.format(
+            title=book["title"],
+            author=book["author"],
+            year=book["year"],
+            chapter_num=chapter["number"],
+            chapter_title=chapter["title"],
+            text=text,
+        )},
+    ]
+
+
 def build_enhancements_prompt(book: dict, chapter: dict, text: str) -> list[dict]:
     return [
         {"role": "system", "content": _ENH_SYSTEM},
