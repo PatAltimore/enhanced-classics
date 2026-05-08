@@ -17,6 +17,7 @@ Usage examples:
   python generator.py --no-catalog-sync
 """
 import argparse
+import io
 import sys
 from pathlib import Path
 
@@ -24,6 +25,11 @@ import yaml
 from dotenv import load_dotenv
 from rich.console import Console
 from rich.rule import Rule
+
+# Force UTF-8 output on Windows so Rich box-drawing characters don't crash
+if sys.platform == "win32":
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
 from client import ModelClient
 from checkpointer import Checkpointer
@@ -55,17 +61,39 @@ def _check_prose(text: str) -> None:
         )
 
 
+def _first_outside_markers(text: str, phrase: str) -> int:
+    """Return the index of the first occurrence of phrase not inside **...** spans.
+
+    Counts ** tokens before each candidate position: an odd count means we're
+    inside an existing marker and should skip that occurrence.
+    """
+    pos = 0
+    while pos < len(text):
+        idx = text.find(phrase, pos)
+        if idx == -1:
+            return -1
+        if text[:idx].count("**") % 2 == 0:
+            return idx
+        pos = idx + 1
+    return -1
+
+
 def _inject_markers(text: str, phrases: list[str]) -> str:
     """Wrap the first occurrence of each phrase in **…** markers.
 
     Phrases are processed longest-first to avoid wrapping a substring that is
-    already part of a longer phrase.  Already-marked phrases are skipped.
+    already part of a longer phrase.  Occurrences already inside a marker span
+    are skipped so a short phrase (e.g. "pickerel") can't nest inside a longer
+    already-marked phrase (e.g. "**pickerel-weed**").
     """
     for phrase in sorted(phrases, key=len, reverse=True):
         marker = f"**{phrase}**"
         if marker in text:
-            continue   # already marked
-        text = text.replace(phrase, marker, 1)
+            continue   # exact marker already present
+        idx = _first_outside_markers(text, phrase)
+        if idx == -1:
+            continue   # phrase only appears inside existing markers
+        text = text[:idx] + marker + text[idx + len(phrase):]
     return text
 
 
@@ -86,11 +114,11 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
         # ── Source-text mode ─────────────────────────────────────────────────
         original_text = src_path.read_text(encoding="utf-8").strip()
         console.print(
-            f"    [green]✓ Source text loaded[/green] "
+            f"    [green]OK Source text loaded[/green] "
             f"({len(original_text.split())} words from {src_path.name})"
         )
 
-        console.print(f"    [cyan]→ Pass 1:[/cyan] identifying annotation phrases …")
+        console.print(f"    [cyan]Pass 1:[/cyan] identifying annotation phrases ...")
         phrase_messages = build_phrase_prompt(book, chapter, original_text)
         phrases_raw     = client.complete(phrase_messages, temperature=0.1, max_tokens=1024)
 
@@ -111,13 +139,13 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
     else:
         # ── AI prose mode (fallback) ──────────────────────────────────────────
         console.print(f"    [dim]No source text — generating AI prose[/dim]")
-        console.print(f"    [cyan]→ Pass 1:[/cyan] generating prose …")
+        console.print(f"    [cyan]Pass 1:[/cyan] generating prose ...")
         text_messages = build_text_prompt(book, chapter, config)
         text = client.complete(text_messages, temperature=temperature, max_tokens=max_tokens)
         _check_prose(text)
         console.print(f"      {len(text.split())} words generated")
 
-    console.print(f"    [cyan]→ Pass 2:[/cyan] generating summary + enhancements …")
+    console.print(f"    [cyan]Pass 2:[/cyan] generating summary + enhancements ...")
     enh_messages     = build_enhancements_prompt(book, chapter, text)
     enhancements_raw = client.complete(enh_messages, temperature=0.2, max_tokens=8192)
 
@@ -170,7 +198,7 @@ def main() -> None:
             label = f"Ch. {chapter['number']}: {chapter['title']}"
 
             if not args.force and checkpointer.is_done(book["slug"], chapter["slug"]):
-                console.print(f"  [dim]✓ {label} — already exists, skipping[/dim]")
+                console.print(f"  [dim]-- {label} -- already exists, skipping[/dim]")
                 total_skipped += 1
                 continue
 
@@ -179,17 +207,17 @@ def main() -> None:
             if args.dry_run:
                 msgs = build_text_prompt(book, chapter, config)
                 console.print(f"    [dim][dry-run] Would send {len(msgs)} messages to model[/dim]")
-                console.print(f"    [dim]System: {msgs[0]['content'][:120]}…[/dim]")
+                console.print(f"    [dim]System: {msgs[0]['content'][:120]}...[/dim]")
                 total_done += 1
                 continue
 
             try:
                 content = generate_chapter(client, book, chapter, config)
                 path = checkpointer.save(book["slug"], chapter["slug"], content)
-                console.print(f"    [green]✓ Saved → {path}[/green]")
+                console.print(f"    [green]OK Saved -> {path}[/green]")
                 total_done += 1
             except Exception as exc:
-                console.print(f"    [red]✗ Failed: {exc}[/red]")
+                console.print(f"    [red]FAILED: {exc}[/red]")
                 total_failed += 1
 
     console.print(Rule())

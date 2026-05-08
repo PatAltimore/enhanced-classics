@@ -85,7 +85,7 @@ def main() -> None:
         for chapter in book["chapters"]:
             status = verify_chapter(book, chapter)
             totals[status] += 1
-            icon = {"ok": "✓", "no_source": "·", "no_output": "✗", "mismatch": "!"}[status]
+            icon = {"ok": "OK", "no_source": "--", "no_output": "XX", "mismatch": "!!"}[status]
             label = {
                 "ok":        "source matches markdown body",
                 "no_source": "no source text (run fetch_texts.py first)",
