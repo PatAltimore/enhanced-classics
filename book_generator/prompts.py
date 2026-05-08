@@ -47,7 +47,7 @@ Given a chapter of text, produce a JSON object with two keys:
   - "link":       a real Wikipedia URL relevant to this point
   - "link_label": short display text for the link (e.g. "Walden Pond")
 
-"enhancements": array of 16–24 objects — include ALL bolded phrases distributed across the full chapter — each with:
+"enhancements": array with ONE object per bolded phrase — include ALL of them (typically 6–25 depending on chapter length) — each with:
   - "id":            unique kebab-case identifier
   - "trigger":       the exact phrase as it appears in the text (no ** markers)
   - "title":         captivating, curiosity-driven title (6–10 words) that makes a reader \
@@ -135,17 +135,16 @@ def build_text_prompt(book: dict, chapter: dict, config: dict) -> list[dict]:
 _PHRASES_SYSTEM = """\
 You are a literary annotator for Enhanced Classics.
 
-Given the original text of a classic chapter divided into numbered sections, identify
-annotation phrase candidates — concepts, people, places, events, or scientific/historical
-ideas that a modern reader would benefit from understanding more deeply.
+The chapter text has been divided into small, equal-sized windows. Your job is to pick
+EXACTLY ONE annotation phrase per window — a concept, person, place, event, or
+scientific/historical idea that a modern reader would benefit from understanding more deeply.
 
 Rules:
-- Each phrase must be a verbatim substring of the provided text — copy it character-for-character.
-- You MUST contribute 4–6 phrases from EACH numbered section — spread your selections evenly \
-  across all sections, do not cluster them in the first section.
+- Pick EXACTLY 1 phrase from EACH numbered window — no more, no fewer.
+- Each phrase must be a verbatim substring of that window's text — copy character-for-character.
 - Prefer short, specific phrases (1–5 words) over long ones.
-- Avoid phrases that are too generic (e.g. "he said" or "the house").
-- Return ONLY a JSON array of the exact phrases, e.g.:
+- Avoid phrases that are too generic (e.g. "he said", "the house", "the man").
+- Return ONLY a JSON array of the exact phrases, in window order, e.g.:
   ["Walden Pond", "transcendentalism", "bean-field"]
 - No markdown fences, no commentary, no keys — just the bare JSON array.\
 """
@@ -154,18 +153,22 @@ _PHRASES_USER = """\
 Book: "{title}" by {author} ({year})
 Chapter {chapter_num}: {chapter_title}
 
-The chapter has been divided into {n_sections} equal sections. \
-Return 2–3 verbatim annotation phrases from EACH section ({total_min}–{total_max} total).
+The chapter has been divided into {n_windows} equal windows (~{words_per_window} words each).
+Pick EXACTLY 1 verbatim annotation phrase from EACH window — {n_windows} phrases total.
 
-{sections_text}
+{windows_text}
 
-Return the JSON array of {total_min}–{total_max} annotation phrases, \
-with at least 2 from each of the {n_sections} sections.\
+Return a JSON array of exactly {n_windows} phrases, one per window, in order.\
 """
+
+# Target one phrase every ~300 words (~1 page); cap at 25 to keep enhancements tractable.
+_WORDS_PER_WINDOW = 300
+_MAX_WINDOWS = 25
+_MIN_WINDOWS = 8
 
 
 def _split_text(text: str, n: int) -> list[str]:
-    """Split text into n roughly equal sections, breaking at paragraph boundaries."""
+    """Split text into n roughly equal sections, preferring paragraph boundaries."""
     total = len(text)
     target = total // n
     sections = []
@@ -189,22 +192,16 @@ def _split_text(text: str, n: int) -> list[str]:
 
 
 def build_phrase_prompt(book: dict, chapter: dict, text: str) -> list[dict]:
-    """Pass 1 (source-text mode): identify annotation trigger phrases in the original text."""
+    """Pass 1 (source-text mode): identify one annotation phrase per fixed-size window."""
     word_count = len(text.split())
-    if word_count < 1000:
-        n_sections = 3
-    elif word_count < 2000:
-        n_sections = 4
-    else:
-        n_sections = 5
+    n_windows = max(_MIN_WINDOWS, min(_MAX_WINDOWS, word_count // _WORDS_PER_WINDOW))
+    words_per_window = word_count // n_windows
 
-    sections = _split_text(text, n_sections)
-    sections_text = "\n\n".join(
-        f"[SECTION {i + 1} of {n_sections}]\n{sec}"
-        for i, sec in enumerate(sections)
+    windows = _split_text(text, n_windows)
+    windows_text = "\n\n".join(
+        f"[WINDOW {i + 1} of {n_windows}]\n{win}"
+        for i, win in enumerate(windows)
     )
-    total_min = n_sections * 4
-    total_max = n_sections * 6
 
     return [
         {"role": "system", "content": _PHRASES_SYSTEM},
@@ -214,10 +211,9 @@ def build_phrase_prompt(book: dict, chapter: dict, text: str) -> list[dict]:
             year=book["year"],
             chapter_num=chapter["number"],
             chapter_title=chapter["title"],
-            n_sections=n_sections,
-            total_min=total_min,
-            total_max=total_max,
-            sections_text=sections_text,
+            n_windows=n_windows,
+            words_per_window=words_per_window,
+            windows_text=windows_text,
         )},
     ]
 
