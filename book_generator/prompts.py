@@ -19,7 +19,8 @@ Rules:
 - Write in the authentic voice, style, and period of the source author.
 - Capture the events, characters, setting, and themes of the chapter faithfully \
   through your own original prose.
-- Target approximately {target_words} words of body text.
+- Write AT LEAST {target_words} words. Do not summarise, truncate, or end early — \
+  write out every scene, reflection, and detail in full.
 - Bold 8–15 key phrases using **phrase** — choose concepts, people, places, events, \
 or ideas that deserve an annotation card (historical context, scientific explanation, \
 cultural significance, etc.).

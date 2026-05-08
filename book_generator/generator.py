@@ -128,7 +128,7 @@ def main() -> None:
             if args.dry_run:
                 msgs = build_text_prompt(book, chapter, config)
                 console.print(f"    [dim][dry-run] Would send {len(msgs)} messages to model[/dim]")
-                console.print(f"    [dim]System: {msgs[0].content[:120]}…[/dim]")
+                console.print(f"    [dim]System: {msgs[0]['content'][:120]}…[/dim]")
                 total_done += 1
                 continue
 
