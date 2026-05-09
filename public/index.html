@@ -34,6 +34,23 @@
     <main id="main-content">
       <div id="loading">Loading…</div>
     </main>
+
+    <div id="word-menu" role="menu">
+      <button id="word-menu-define" role="menuitem">Look up definition</button>
+    </div>
+
+    <div id="def-popup">
+      <div id="def-popup-card" role="dialog" aria-labelledby="def-popup-word">
+        <div id="def-popup-head">
+          <span id="def-popup-word"></span>
+          <button id="def-popup-close" aria-label="Close">&#215;</button>
+        </div>
+        <div id="def-popup-body"></div>
+        <div id="def-popup-foot">
+          <a id="def-popup-mw" target="_blank" rel="noopener">Search Merriam-Webster &#8594;</a>
+        </div>
+      </div>
+    </div>
   </div>
   <script src="/js/app.js"></script>
 </body>
