@@ -20,7 +20,7 @@ BOOKS_ROOT  = pathlib.Path(__file__).parent / ".." / "public" / "books"
 
 BOOK_FILTER = sys.argv[sys.argv.index("--book") + 1] if "--book" in sys.argv else None
 
-_BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
+_BOLD_RE = re.compile(r"\*\*(.+?)\*\*", re.DOTALL)
 
 
 def _strip_markers(text: str) -> str:
@@ -36,7 +36,8 @@ def _normalize(text: str) -> str:
 def _extract_body(md_path: pathlib.Path) -> str:
     """Return the prose body from a generated markdown file (after the closing ---)."""
     text  = md_path.read_text(encoding="utf-8").replace("\r\n", "\n")
-    parts = text.split("---\n")
+    # maxsplit=2 so any --- inside the body text doesn't split it further
+    parts = text.split("---\n", 2)
     return parts[2].strip() if len(parts) > 2 else ""
 
 

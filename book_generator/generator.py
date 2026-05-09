@@ -18,6 +18,7 @@ Usage examples:
 """
 import argparse
 import io
+import re
 import sys
 from pathlib import Path
 
@@ -38,7 +39,7 @@ from prompts import build_text_prompt, build_enhancements_prompt, build_phrase_p
 import catalog_sync
 
 load_dotenv()
-console = Console()
+console = Console(legacy_windows=False)
 
 CONFIG_PATH  = Path(__file__).parent / "config" / "books.yaml"
 TEXTS_ROOT   = Path(__file__).parent / "source_texts"
@@ -59,6 +60,64 @@ def _check_prose(text: str) -> None:
         raise ValueError(
             f"Prose too short ({word_count} words) — all models may have refused or truncated"
         )
+
+
+# Typography normalisation: curly quotes → straight, dashes → hyphen, ligatures → plain
+_TYPO_NORM = str.maketrans({
+    0x2018: "'", 0x2019: "'",
+    0x201C: '"', 0x201D: '"',
+    0x2013: "-", 0x2014: "-",
+    0x00E6: "e", 0x0153: "e",
+})
+
+
+def _norm(s: str) -> str:
+    return s.translate(_TYPO_NORM)
+
+
+def _find_match(text: str, phrase: str) -> "tuple[int, int] | None":
+    """Return (start, end) of the first occurrence of phrase not inside **...** spans.
+
+    Three passes in order:
+      1. Exact match
+      2. Typography-normalised match (curly quotes → straight, etc.)
+      3. Flexible-whitespace regex (handles phrases split across line breaks)
+    """
+    def _outside(idx: int) -> bool:
+        return text[:idx].count("**") % 2 == 0
+
+    # Pass 1 — exact
+    pos = 0
+    while pos < len(text):
+        idx = text.find(phrase, pos)
+        if idx == -1:
+            break
+        if _outside(idx):
+            return idx, idx + len(phrase)
+        pos = idx + 1
+
+    # Pass 2 — typography-normalised (1-to-1 char map keeps indices aligned)
+    norm_text = _norm(text)
+    norm_phrase = _norm(phrase)
+    if norm_phrase != phrase:
+        pos = 0
+        while pos < len(norm_text):
+            idx = norm_text.find(norm_phrase, pos)
+            if idx == -1:
+                break
+            if _outside(idx):
+                return idx, idx + len(norm_phrase)
+            pos = idx + 1
+
+    # Pass 3 — flexible whitespace (handles line-break splits)
+    words = phrase.split()
+    if len(words) > 1:
+        pattern = re.compile(r'\s+'.join(re.escape(w) for w in words))
+        for m in pattern.finditer(text):
+            if _outside(m.start()):
+                return m.start(), m.end()
+
+    return None
 
 
 def _first_outside_markers(text: str, phrase: str) -> int:
@@ -82,18 +141,25 @@ def _inject_markers(text: str, phrases: list[str]) -> str:
     """Wrap the first occurrence of each phrase in **…** markers.
 
     Phrases are processed longest-first to avoid wrapping a substring that is
-    already part of a longer phrase.  Occurrences already inside a marker span
-    are skipped so a short phrase (e.g. "pickerel") can't nest inside a longer
-    already-marked phrase (e.g. "**pickerel-weed**").
+    already part of a longer phrase.  Uses _find_match for three-pass lookup
+    (exact, typography-normalised, flexible-whitespace).
     """
+    failed = []
     for phrase in sorted(phrases, key=len, reverse=True):
         marker = f"**{phrase}**"
         if marker in text:
             continue   # exact marker already present
-        idx = _first_outside_markers(text, phrase)
-        if idx == -1:
-            continue   # phrase only appears inside existing markers
-        text = text[:idx] + marker + text[idx + len(phrase):]
+        match = _find_match(text, phrase)
+        if match is None:
+            failed.append(phrase)
+            continue
+        start, end = match
+        original_span = text[start:end]
+        text = text[:start] + f"**{original_span}**" + text[end:]
+    if failed:
+        console.print(
+            f"    [yellow]Phrase injection failed for {len(failed)}: {failed}[/yellow]"
+        )
     return text
 
 

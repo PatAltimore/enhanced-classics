@@ -9,147 +9,837 @@ book_slug: "the-great-gatsby"
 license: "public-domain"
 
 summary:
-  - point: "Gatsby arrives at Nick's house in a yellow Duesenberg, showcasing his wealth and elegance."
-    link: "https://en.wikipedia.org/wiki/Duesenberg"
-    link_label: "Duesenberg"
-  - point: "Gatsby reveals his mysterious past, including rumors about his identity and his humble beginnings as James Gatz."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Plot_summary"
-    link_label: "The Great Gatsby plot"
-  - point: "Gatsby shares his deep love for Daisy Buchanan and his efforts to win her back."
-    link: "https://en.wikipedia.org/wiki/Daisy_Buchanan"
-    link_label: "Daisy Buchanan"
-  - point: "Gatsby introduces Nick to Meyer Wolfsheim, a shady associate tied to Gatsby's rise in wealth."
-    link: "https://en.wikipedia.org/wiki/Meyer_Wolfsheim"
-    link_label: "Meyer Wolfsheim"
-  - point: "Wolfsheim's grotesque tie adorned with human molars highlights his sinister and peculiar character."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
-    link_label: "Themes in The Great Gatsby"
-  - point: "Gatsby's dream of rekindling his romance with Daisy is revealed as the driving force behind his actions."
-    link: "https://en.wikipedia.org/wiki/American_Dream"
-    link_label: "American Dream"
+  - point: "Gatsby's extravagant parties attract a wide array of guests, many of whom know little about him."
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    link_label: "The Great Gatsby"
+  - point: "Gatsby shares a fantastical version of his past, including claims of wealth, Oxford education, and military heroics."
+    link: "https://en.wikipedia.org/wiki/World_War_I"
+    link_label: "World War I"
+  - point: "Nick meets Meyer Wolfshiem, who is revealed to have fixed the 1919 World Series."
+    link: "https://en.wikipedia.org/wiki/1919_World_Series"
+    link_label: "1919 World Series"
+  - point: "Jordan Baker recounts Daisy's past, including her romance with Gatsby and her marriage to Tom Buchanan."
+    link: "https://en.wikipedia.org/wiki/Louisville,_Kentucky"
+    link_label: "Louisville, Kentucky"
+  - point: "Gatsby's purchase of his mansion is revealed to be motivated by his longing for Daisy."
+    link: "https://en.wikipedia.org/wiki/Long_Island"
+    link_label: "Long Island"
+  - point: "Nick agrees to help Gatsby by arranging a meeting between him and Daisy."
+    link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+    link_label: "F. Scott Fitzgerald"
 
 enhancements:
-  - id: "yellow-duesenberg"
-    trigger: "yellow Duesenberg"
-    title: "Luxury Cars of the 1920s"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Duesenberg"
+  - id: "von-hindenburg-myths-and-mysteries"
+    trigger: "Von Hindenburg"
+    title: "Why Gatsby's Guests Linked Him to Hindenburg"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
     image_url: ""
     image_caption: ""
-    content: "The Duesenberg was a symbol of wealth and sophistication during the 1920s, known for its advanced engineering and opulent design. Gatsby's yellow Duesenberg reflects his desire to project an image of success and extravagance, aligning with his efforts to win Daisy's admiration. The car's prominence in the novel underscores the theme of materialism and the pursuit of the American Dream."
-  - id: "melancholy-cloaked-in-charm"
-    trigger: "melancholy cloaked in charm"
-    title: "Gatsby's Dual Persona"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    content: "When Gatsby's guests gossip about him, they weave wild tales, including one that ties him to Von Hindenburg, the German military leader and president. This absurd claim reflects the era's fascination with larger-than-life figures and Gatsby's enigmatic persona. Hindenburg, a towering figure in World War I, symbolized authority and power, qualities Gatsby's guests might project onto him due to his wealth and mysterious background. The rumor also underscores the surreal, almost theatrical atmosphere of Gatsby's parties, where truth and fiction blur. Fitzgerald uses these exaggerated stories to highlight the disconnect between Gatsby's reality and the mythos surrounding him, emphasizing the novel's themes of illusion and identity."
+  - id: "educated-at-oxford-truth-or-fiction"
+    trigger: "educated at Oxford"
+    title: "Was Gatsby Really Educated at Oxford?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/University_of_Oxford"
     image_url: ""
     image_caption: ""
-    content: "Gatsby's outward charm masks an inner sadness and longing, particularly for Daisy. This duality is central to his character and reflects the broader theme of appearances versus reality in the novel. His ability to charm others while harboring deep emotional pain highlights the complexity of his persona and the sacrifices he makes for his dream."
-  - id: "fresh-scent-of-the-atlantic"
-    trigger: "fresh scent of the Atlantic"
-    title: "The Atlantic Ocean's Symbolism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Atlantic_Ocean"
+    content: "When Gatsby claims he was educated at Oxford, Nick immediately senses something off in his hurried delivery. Oxford, one of the world's most prestigious universities, carries an aura of refinement and tradition that Gatsby desperately wants to embody. However, his awkward phrasing and Jordan Baker's earlier skepticism cast doubt on the claim. Historically, Oxford has been a symbol of elite privilege, and Gatsby's invocation of it reveals his deep insecurity about his origins. Fitzgerald uses this moment to explore Gatsby's relentless self-reinvention and the fragility of the identity he has constructed—a central theme of the novel."
+  - id: "argonne-forest-gatsby-s-war-heroics"
+    trigger: "Argonne Forest"
+    title: "The Battle That Made Gatsby a Hero"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Meuse-Argonne_Offensive"
     image_url: ""
     image_caption: ""
-    content: "The Atlantic Ocean often symbolizes vastness and possibility, aligning with Gatsby's dreams and ambitions. Its presence in this scene evokes a sense of freedom and the untamed nature of Gatsby's pursuit of Daisy. The ocean also serves as a reminder of the distance—both literal and metaphorical—between Gatsby's aspirations and reality."
-  - id: "german-prince"
-    trigger: "German prince"
-    title: "Rumors About Gatsby"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    content: "Gatsby recounts his wartime exploits in the Argonne Forest, claiming he led a machine-gun battalion to extraordinary success. The Argonne Forest was the site of the Meuse-Argonne Offensive, a pivotal World War I battle that marked the final Allied push against Germany. Gatsby's story, filled with dramatic details, mirrors the grandiosity of his persona but also raises questions about its authenticity. By placing Gatsby in this historical context, Fitzgerald underscores the tension between Gatsby's desire for recognition and the elusive nature of truth in his life. The war becomes another layer in Gatsby's myth, blending heroism with possible fabrication."
+  - id: "orderi-di-danilo-montenegro-s-medal"
+    trigger: "Orderi di Danilo"
+    title: "Why Montenegro Honored Gatsby for Valor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Order_of_Danilo_I"
     image_url: ""
     image_caption: ""
-    content: "The rumor that Gatsby might be the son of a German prince reflects the mystique surrounding his character. These speculations highlight society's fascination with wealth and power, as well as the tendency to romanticize or vilify those who achieve success. Gatsby's enigmatic background fuels the intrigue and gossip that surround him."
-  - id: "poor-farmers-in-north-dakota"
-    trigger: "poor farmers in North Dakota"
-    title: "Gatsby's Humble Origins"
-    wikipedia_url: "https://en.wikipedia.org/wiki/North_Dakota"
+    content: "Gatsby proudly shows Nick the Orderi di Danilo, a medal from Montenegro, as proof of his wartime heroics. The Order of Danilo I was a real Montenegrin honor awarded for extraordinary valor. Montenegro, a small Balkan nation, has a history of fierce independence and military bravery, making the medal a symbol of high regard. Gatsby's possession of this medal adds a touch of authenticity to his otherwise dubious claims, but it also serves as a poignant reminder of his need to validate his self-made identity. Fitzgerald uses this detail to deepen the mystery of Gatsby's character and his obsession with proving his worth."
+  - id: "trinity-quad-oxford-photo"
+    trigger: "Trinity Quad"
+    title: "The Photo Gatsby Uses to Prove His Past"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Trinity_College,_Oxford"
     image_url: ""
     image_caption: ""
-    content: "Gatsby's origins as the son of poor farmers in North Dakota contrast sharply with the opulent lifestyle he later adopts. This transformation underscores the novel's exploration of the American Dream and the idea of self-reinvention. Gatsby's journey from poverty to wealth reflects both the possibilities and limitations of social mobility in 1920s America."
-  - id: "southern-belle"
-    trigger: "southern belle"
-    title: "Daisy as a Southern Belle"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Southern_belle"
+    content: "Gatsby presents a photograph taken in Trinity Quad at Oxford as evidence of his education there. Trinity College, part of the University of Oxford, is renowned for its stunning architecture and academic prestige. The photo, showing Gatsby with a cricket bat, seems authentic but raises questions about its context—was Gatsby truly a student, or did he merely visit? This moment encapsulates Gatsby's reliance on tangible symbols to construct his identity. Fitzgerald uses the photograph to explore themes of authenticity and the lengths to which Gatsby goes to craft his persona, reflecting the novel's broader commentary on the American Dream."
+  - id: "queensboro-bridge-first-glimpse-of-the-city"
+    trigger: "Queensboro Bridge"
+    title: "Why the Queensboro Bridge Feels Magical"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Queensboro_Bridge"
     image_url: ""
     image_caption: ""
-    content: "The term 'southern belle' evokes an idealized image of femininity, charm, and social grace, which Daisy embodies in Gatsby's eyes. This archetype was prominent in Southern culture and literature, symbolizing both allure and unattainability. Daisy's role as a southern belle adds to her mystique and Gatsby's obsession with her."
-  - id: "tom-buchanan"
-    trigger: "Tom Buchanan"
-    title: "Tom Buchanan's Role"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tom_Buchanan"
+    content: "As Nick and Gatsby cross the Queensboro Bridge, Nick reflects on the city's wild promise and mystery. The bridge, connecting Manhattan to Queens, symbolizes transition and opportunity, fitting perfectly into Gatsby's narrative of reinvention. Built in 1909, it was an engineering marvel of its time, embodying the modernity and ambition of New York City. Nick's awe at the cityscape mirrors Gatsby's own dreams, tying the physical journey to the emotional and thematic arcs of the novel. Fitzgerald uses the bridge as a metaphor for the allure and illusion of the American Dream, a central motif in the story."
+  - id: "rosy-rosenthal-metropole-murder"
+    trigger: "Rosy Rosenthal"
+    title: "The Real-Life Murder That Haunts Wolfshiem"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Herman_Rosenthal"
     image_url: ""
     image_caption: ""
-    content: "Tom Buchanan represents the arrogance and entitlement of old money, serving as a foil to Gatsby's self-made wealth. His character embodies the moral decay and carelessness of the upper class, contrasting sharply with Gatsby's idealism and ambition. Tom's marriage to Daisy is a source of tension and conflict in the novel."
-  - id: "human-molars"
-    trigger: "human molars"
-    title: "Wolfsheim's Peculiar Tie"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    content: "Wolfshiem recounts the murder of Rosy Rosenthal, a gambler shot outside the Metropole Hotel. Herman \"Rosy\" Rosenthal was a real figure in New York's criminal underworld, whose 1912 assassination exposed police corruption and led to the conviction of several men, including Charles Becker, a corrupt officer. Wolfshiem's connection to this infamous event underscores his shady ties and adds a layer of realism to Fitzgerald's depiction of organized crime. By weaving historical events into the narrative, Fitzgerald highlights the darker side of Gatsby's world and the moral compromises underpinning his wealth and ambition."
+  - id: "world-series-1919-scandal"
+    trigger: "World’s Series back in 1919"
+    title: "How One Man Rigged Baseball's Biggest Event"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Black_Sox_Scandal"
     image_url: ""
     image_caption: ""
-    content: "Wolfsheim's tie adorned with human molars is a grotesque detail that underscores his sinister and morally ambiguous nature. This macabre fashion choice symbolizes the darker side of Gatsby's world, where wealth and success are often built on unethical foundations. Wolfsheim's character highlights the corruption and moral compromises inherent in the pursuit of the American Dream."
-  - id: "meyer-wolfsheim"
-    trigger: "Meyer Wolfsheim"
-    title: "Meyer Wolfsheim's Influence"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Meyer_Wolfsheim"
+    content: "Wolfshiem is revealed to have fixed the 1919 World Series, a reference to the infamous Black Sox Scandal. Eight Chicago White Sox players were accused of intentionally losing games in exchange for bribes from gamblers. The scandal rocked America, tarnishing baseball's reputation as the nation's pastime. Wolfshiem's involvement ties Gatsby's world to the corruption and moral decay of the Jazz Age, reflecting the novel's critique of the era's excesses. Fitzgerald uses this detail to deepen the sense of moral ambiguity surrounding Gatsby's wealth and the lengths people go to achieve their dreams."
+  - id: "camp-taylor-daisy-s-romance"
+    trigger: "Camp Taylor"
+    title: "The Army Base Where Daisy Met Gatsby"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Camp_Taylor_(Kentucky)"
     image_url: ""
     image_caption: ""
-    content: "Meyer Wolfsheim is a key figure in Gatsby's rise to wealth, representing the criminal underworld that supports Gatsby's extravagant lifestyle. His character is loosely based on real-life figures involved in organized crime during the 1920s. Wolfsheim's presence in the novel highlights the moral ambiguity of Gatsby's success and the darker aspects of the American Dream."
-  - id: "american-dream"
-    trigger: "American Dream"
-    title: "The American Dream in Gatsby"
-    wikipedia_url: "https://en.wikipedia.org/wiki/American_Dream"
+    content: "Jordan recalls Daisy's romance with Gatsby, which began near Camp Taylor, a World War I training base in Louisville, Kentucky. The camp was one of many established to prepare soldiers for overseas combat. Its proximity to Daisy's home made it a hub for young officers, adding a romantic backdrop to their story. This setting highlights the fleeting nature of their connection, as Gatsby's military service pulled him away. Fitzgerald uses Camp Taylor to underscore the theme of lost time and the impossibility of recapturing the past, central to Gatsby's longing for Daisy."
+  - id: "muhlbach-hotel-tom-and-daisy-s-wedding"
+    trigger: "Muhlbach Hotel"
+    title: "The Lavish Hotel That Hosted Daisy's Wedding"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Muehlebach_Hotel"
     image_url: ""
     image_caption: ""
-    content: "The American Dream is a central theme in 'The Great Gatsby,' symbolizing the pursuit of success and happiness through hard work and ambition. Gatsby's relentless efforts to win Daisy and achieve wealth reflect both the allure and the flaws of this ideal. The novel critiques the American Dream by showing how it can lead to moral decay and unfulfilled aspirations."
+    content: "Daisy and Tom's extravagant wedding took place at the Muhlbach Hotel in Kansas City, a symbol of their wealth and social status. The hotel, built in 1915, was a luxurious venue known for hosting high-profile events. The opulence of the wedding contrasts sharply with Daisy's emotional turmoil, as she drunkenly considers calling it off. Fitzgerald uses the Muhlbach Hotel to highlight the tension between appearances and reality, a recurring theme in the novel. The grandeur of the setting underscores the societal pressures that drive Daisy's decisions, adding depth to her character and her relationship with Tom."
+  - id: "santa-barbara-hotel-tom-s-affair"
+    trigger: "Santa Barbara Hotel"
+    title: "The Scandal That Followed Tom to Santa Barbara"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
+    image_url: ""
+    image_caption: ""
+    content: "Tom's affair with a chambermaid at the Santa Barbara Hotel becomes public after a car accident. Santa Barbara, known for its luxury and seaside charm, serves as a backdrop for the Buchanans' early marriage. The incident foreshadows Tom's pattern of infidelity and the cracks in their seemingly perfect life. Fitzgerald uses this moment to explore the moral failings of the wealthy and the consequences of their reckless behavior. The hotel becomes a symbol of the Buchanans' privilege and the emotional damage hidden beneath their glamorous exterior."
+  - id: "perfect-reputation-daisy-s-image"
+    trigger: "perfect reputation"
+    title: "How Daisy Maintains Her Flawless Image"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Reputation"
+    image_url: ""
+    image_caption: ""
+    content: "Despite her wild social circle, Daisy is described as having a \"perfect reputation,\" partly because she abstains from drinking. In the Jazz Age, when excess and scandal were common among the wealthy, Daisy's restraint sets her apart. Her reputation becomes a shield, allowing her to navigate high society without attracting criticism. Fitzgerald uses this detail to highlight the performative nature of Daisy's life, where appearances matter more than reality. Her \"perfect reputation\" contrasts with the emotional turmoil and moral compromises that define her relationships, adding complexity to her character."
+  - id: "sheik-of-araby-song-in-the-park"
+    trigger: "Sheik of Araby"
+    title: "The Song That Echoes Gatsby's Obsession"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Sheik_of_Araby"
+    image_url: ""
+    image_caption: ""
+    content: "As Nick and Jordan drive through Central Park, children sing \"The Sheik of Araby,\" a popular song from the 1920s. The song, inspired by the silent film \"The Sheik,\" reflects themes of romantic obsession and exotic allure. Its lyrics, about a man claiming ownership of a woman's love, parallel Gatsby's fixation on Daisy and his belief that he can reclaim her. Fitzgerald uses the song to underscore the cultural backdrop of the Jazz Age and to deepen the novel's exploration of desire and possession. The children's voices add a haunting, ironic layer to Gatsby's dream."
+  - id: "starlight-to-casual-moths-gatsby-s-parties"
+    trigger: "starlight to casual moths"
+    title: "Why Gatsby's Guests Are Like Moths"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Moth"
+    image_url: ""
+    image_caption: ""
+    content: "Nick describes Gatsby's parties as dispensing \"starlight to casual moths,\" evoking the image of guests drawn to the glamour and mystery of his mansion. Moths, often associated with fleeting attraction to light, symbolize the transient and superficial nature of Gatsby's social circle. The phrase captures the ephemeral allure of Gatsby's world, where people come and go without truly knowing him. Fitzgerald uses this metaphor to critique the emptiness of the Jazz Age's excesses and to highlight Gatsby's isolation despite his apparent success. The image of moths adds a poetic, melancholic touch to the narrative."
+  - id: "universal-scepticism-jordan-s-worldview"
+    trigger: "universal scepticism"
+    title: "Jordan Baker's Cynical Philosophy Explained"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Skepticism"
+    image_url: ""
+    image_caption: ""
+    content: "Nick describes Jordan as dealing in \"universal scepticism,\" a worldview that reflects her detached, pragmatic approach to life. Skepticism, the philosophical doubt of truth or certainty, aligns with Jordan's guarded demeanor and her ability to navigate the morally ambiguous world of the Buchanans and Gatsby. Her skepticism contrasts with Gatsby's idealism, highlighting the novel's tension between hope and disillusionment. Fitzgerald uses Jordan's perspective to explore the complexities of human relationships and the survival strategies of those living in a world defined by wealth and power."
+  - id: "fifty-ninth-street-light-in-the-dark"
+    trigger: "Fifty-Ninth Street"
+    title: "The Glow of Fifty-Ninth Street at Twilight"
+    wikipedia_url: "https://en.wikipedia.org/wiki/59th_Street_(Manhattan)"
+    image_url: ""
+    image_caption: ""
+    content: "As Nick and Jordan pass Fifty-Ninth Street, its pale light beams down into Central Park, creating a moment of quiet beauty. Fifty-Ninth Street, marking the southern boundary of the park, is a bustling area that contrasts with the park's tranquility. The light symbolizes a fleeting sense of clarity and connection amidst the novel's themes of chaos and longing. Fitzgerald uses this detail to evoke the interplay between urban life and personal introspection, adding depth to Nick's evolving relationship with Jordan and his reflections on Gatsby's dream."
 ---
-The sun hung low in the sky, casting a golden haze over the bay as Gatsby’s car roared up to my modest house that morning. A creature of metal and elegance, the **yellow Duesenberg**, with its polished chrome and roaring motor, seemed to defy the natural quietude of West Egg. Gatsby himself sat behind the wheel, his posture straight, his gaze fixed forward, as if steering not just the car but some invisible course that stretched beyond the limits of the road.
+On Sunday morning while church bells rang in the villages alongshore,
+the world and its mistress returned to Gatsby’s house and twinkled
+hilariously on his lawn.
 
-“Good morning, old sport,” he said, his voice crisp and buoyant, yet carrying a faint tremor, the kind that betrays a man who has spent the night wrestling with dreams. His smile was radiant but fleeting, vanishing as quickly as it appeared, leaving behind the faint impression of **melancholy cloaked in charm**.
+“He’s a bootlegger,” said the young ladies, moving somewhere between
+his cocktails and his flowers. “One time he killed a man who had found
+out that he was nephew to **Von Hindenburg** and second cousin to the
+devil. Reach me a rose, honey, and pour me a last drop into that there
+crystal glass.”
 
-“Care for a drive?” he added before I could respond. It wasn’t an invitation. Gatsby’s questions often carried the weight of decisions already made, and I found myself climbing into the passenger seat before I knew it, the soft leather yielding beneath me.
+Once I wrote down on the empty spaces of a timetable the names of
+those who came to Gatsby’s house that summer. It is an old timetable
+now, disintegrating at its folds, and headed “This schedule in effect
+July 5th, 1922.” But I can still read the grey names, and they will
+give you a better impression than my generalities of those who
+accepted Gatsby’s hospitality and paid him the subtle tribute of
+knowing nothing whatever about him.
 
-We sped through the winding roads of Long Island, the **fresh scent of the Atlantic** mingling with the faint traces of gasoline and dew. The landscape blurred—fields of green rolling into estates of unimaginable grandeur, each one standing as a monument to excess. Gatsby handled the car with an ease that belied the ferocity of its speed, and though the wind rushed past us, he spoke without hesitation, his voice cutting through the chaos.
+From East Egg, then, came the Chester Beckers and the Leeches, and a
+man named Bunsen, whom I knew at Yale, and Doctor Webster Civet, who
+was drowned last summer up in Maine. And the Hornbeams and the Willie
+Voltaires, and a whole clan named Blackbuck, who always gathered in a
+corner and flipped up their noses like goats at whosoever came
+near. And the Ismays and the Chrysties (or rather Hubert Auerbach and
+Mr. Chrystie’s wife), and Edgar Beaver, whose hair, they say, turned
+cotton-white one winter afternoon for no good reason at all.
 
-“Have you heard the rumors about me, Nick?” he asked, his eyes fixed on the road ahead. “People say all sorts of things, don’t they? That I’ve killed a man. That I’m a bootlegger. That I’m the son of a **German prince** or a devilish American gambler.” He laughed softly, but the sound held no humor. “They want to believe I’m something more than I am. Something darker. More mysterious.”
+Clarence Endive was from East Egg, as I remember. He came only once,
+in white knickerbockers, and had a fight with a bum named Etty in the
+garden. From farther out on the Island came the Cheadles and the O.
+R. P. Schraeders, and the Stonewall Jackson Abrams of Georgia, and the
+Fishguards and the Ripley Snells. Snell was there three days before he
+went to the penitentiary, so drunk out on the gravel drive that
+Mrs. Ulysses Swett’s automobile ran over his right hand. The Dancies
+came, too, and S. B. Whitebait, who was well over sixty, and Maurice
+A. Flink, and the Hammerheads, and Beluga the tobacco importer, and
+Beluga’s girls.
 
-I turned toward him, curious about the sudden intimacy of his words. “And what are you, Gatsby?” I asked, though I suspected he’d rehearsed his answer long before I thought to ask the question.
+From West Egg came the Poles and the Mulreadys and Cecil Roebuck and
+Cecil Schoen and Gulick the State senator and Newton Orchid, who
+controlled Films Par Excellence, and Eckhaust and Clyde Cohen and Don
+S. Schwartz (the son) and Arthur McCarty, all connected with the
+movies in one way or another. And the Catlips and the Bembergs and G.
+Earl Muldoon, brother to that Muldoon who afterward strangled his
+wife. Da Fontano the promoter came there, and Ed Legros and James B.
+(“Rot-Gut”) Ferret and the De Jongs and Ernest Lilly—they came to
+gamble, and when Ferret wandered into the garden it meant he was
+cleaned out and Associated Traction would have to fluctuate profitably
+next day.
 
-He hesitated, as though weighing the truth against the myths. “I’m the son of **poor farmers in North Dakota**, if you can believe it,” he said finally, the confession tumbling out like an unguarded secret. “James Gatz was my name then—a boy with pockets too empty to hold dreams big enough for this world.”
+A man named Klipspringer was there so often that he became known as
+“the boarder”—I doubt if he had any other home. Of theatrical people
+there were Gus Waize and Horace O’Donavan and Lester Myer and George
+Duckweed and Francis Bull. Also from New York were the Chromes and the
+Backhyssons and the Dennickers and Russel Betty and the Corrigans and
+the Kellehers and the Dewars and the Scullys and S. W. Belcher and the
+Smirkes and the young Quinns, divorced now, and **Henry L. Palmetto**, who
+killed himself by jumping in front of a subway train in Times Square.
 
-I watched his face as he spoke, the edges of his features sharp against the morning light. There was a restlessness in his expression, the kind that comes from remembering a version of yourself that feels foreign and distant.
+Benny McClenahan arrived always with four girls. They were never quite
+the same ones in physical person, but they were so identical one with
+another that it inevitably seemed they had been there before. I have
+forgotten their names—Jaqueline, I think, or else Consuela, or Gloria
+or Judy or June, and their last names were either the melodious names
+of flowers and months or the sterner ones of the great American
+capitalists whose cousins, if pressed, they would confess themselves
+to be.
 
-“Did you change it?” I asked, though I already knew the answer. Gatsby was not a man content to let life shape him. He was a sculptor of his own destiny, carving his existence out of the raw material of ambition.
+In addition to all these I can remember that Faustina O’Brien came
+there at least once and the Baedeker girls and young Brewer, who had
+his nose shot off in the war, and Mr. Albrucksburger and Miss Haag,
+his fiancée, and Ardita Fitz-Peters and Mr. P. Jewett, once head of
+the American Legion, and Miss Claudia Hip, with a man reputed to be
+her chauffeur, and a prince of something, whom we called Duke, and
+whose name, if I ever knew it, I have forgotten.
 
-“Yes,” he said simply. “I made myself Gatsby—made myself into the kind of man who could win her back.”
+All these people came to Gatsby’s house in the summer.
 
-Her. The word hung in the air, weighty and electric, pulling at the threads of all his elaborate mysteries. I didn’t have to ask who he meant; Daisy Buchanan’s name had been stitched into every fabric of our acquaintance, every gesture, every extravagant party. Gatsby’s entire world seemed to orbit around her, a bright and unreachable star.
+------------------------------------------------------------------------
 
-“She was everything,” Gatsby continued, his voice low and fervent. “I met her in Louisville, during the war. She was a **southern belle**, full of laughter and promise, the kind of woman who made the world brighter just by being in it. I was a young officer, stationed nearby, and I fell for her the moment I saw her.”
+At nine o’clock, one morning late in July, Gatsby’s gorgeous car
+lurched up the rocky drive to my door and gave out a burst of melody
+from its three-noted horn.
 
-His hands tightened on the steering wheel, the knuckles pale against the tan of his skin. “But I was nothing then—just a boy playing at being a man. I didn’t have the money, the name, the things she deserved. So I left her, promising myself I’d come back for her someday.”
+It was the first time he had called on me, though I had gone to two of
+his parties, mounted in his hydroplane, and, at his urgent invitation,
+made frequent use of his beach.
 
-“And now you’re back,” I said, the words more observation than question.
+“Good morning, old sport. You’re having lunch with me today and I
+thought we’d ride up together.”
 
-“Yes, I’m back,” he replied, his voice carrying the weight of both triumph and uncertainty. “But she’s not mine anymore. She’s married to **Tom Buchanan**, a man who’s everything I despise—wealthy, arrogant, careless. And yet, I can’t stop myself from wanting her, from believing that she belongs with me.”
+He was balancing himself on the dashboard of his car with that
+resourcefulness of movement that is so peculiarly American—that comes,
+I suppose, with the absence of lifting work in youth and, even more,
+with the formless grace of our nervous, sporadic games. This quality
+was continually breaking through his punctilious manner in the shape
+of restlessness. He was never quite still; there was always a tapping
+foot somewhere or the impatient opening and closing of a hand.
 
-He spoke of Daisy as though she were an artifact of perfection, untouched by the flaws of the world. But even as he described her, I couldn’t help but think of her laugh, her voice, the way she held herself. Daisy was not the untarnished dream he painted her to be; she was flesh and blood, flawed and human. And yet, in Gatsby’s eyes, she was divine.
+He saw me looking with admiration at his car.
 
-We turned onto a narrow road, the car slowing as Gatsby’s thoughts seemed to weigh heavier on him. “Nick, do you believe in second chances?” he asked suddenly. “Do you think a man can rewrite his life, erase the mistakes, and build something better?”
+“It’s pretty, isn’t it, old sport?” He jumped off to give me a better
+view. “Haven’t you ever seen it before?”
 
-I hesitated, unsure how to answer. Gatsby’s question wasn’t idle; it was the foundation of his entire existence. He was a man who had spent years constructing his second chance, brick by brick, party by party, dollar by dollar. And yet, I wondered if the world would let him have it.
+I’d seen it. Everybody had seen it. It was a rich cream colour, bright
+with nickel, swollen here and there in its monstrous length with
+triumphant hatboxes and supper-boxes and toolboxes, and terraced with
+a labyrinth of windshields that mirrored a dozen suns. Sitting down
+behind many layers of glass in a sort of green leather conservatory,
+we started to town.
 
-“I think it depends on what you’re trying to change,” I said finally. “Some things are too deeply rooted to be undone.”
+I had talked with him perhaps half a dozen times in the past month and
+found, to my disappointment, that he had little to say. So my first
+impression, that he was a person of some undefined consequence, had
+gradually faded and he had become simply the proprietor of an
+elaborate roadhouse next door.
 
-Gatsby nodded, though his expression was distant. “I’ll make her see,” he murmured, more to himself than to me. “I’ll make her understand that we can go back to the way things were.”
+And then came that disconcerting ride. We hadn’t reached West Egg
+village before Gatsby began leaving his elegant sentences unfinished
+and slapping himself indecisively on the knee of his caramel-coloured
+suit.
 
-The car slowed to a stop in front of a modest café, the kind of place that seemed out of place in Gatsby’s world of extravagance. He gestured for me to follow him inside, the hush of the morning settling over us as we stepped through the door.
+“Look here, old sport,” he broke out surprisingly, “what’s your
+opinion of me, anyhow?”
 
-At a corner table sat **Meyer Wolfsheim**, his small, dark eyes darting toward us as we approached. Gatsby introduced him as an old associate, though there was an air of caution in his tone, as if the association was one he didn’t wish to dwell on.
+A little overwhelmed, I began the generalized evasions which that
+question deserves.
 
-Wolfsheim was a man of peculiar charm, his speech peppered with a kind of crudeness that felt both disarming and unsettling. He wore a tie adorned with **human molars**, a grotesque fashion statement that seemed to fit the shadowy figure he presented.
+“Well, I’m going to tell you something about my life,” he interrupted.
+“I don’t want you to get a wrong idea of me from all these stories you
+hear.”
 
-As they spoke, I gathered that Wolfsheim had been instrumental in Gatsby’s rise, a man with connections that stretched into the underbelly of society. The café seemed to grow darker in his presence, the sunlight dimming as his words painted a picture of deals struck in smoke-filled rooms and fortunes built on fragile foundations.
+So he was aware of the bizarre accusations that flavoured conversation
+in his halls.
 
-When the conversation ended, Gatsby rose, his demeanor shifting back to the polished elegance he wore like armor. Wolfsheim lingered for a moment, his eyes narrowing as he studied me, as though trying to determine my worth in Gatsby’s scheme.
+“I’ll tell you God’s truth.” His right hand suddenly ordered divine
+retribution to stand by. “I am the son of some wealthy people in the
+Middle West—all dead now. I was brought up in America but educated at
+Oxford, because all my ancestors have been educated there for many
+years. It is a family tradition.”
 
-As we drove back to West Egg, the silence between us was heavy with unspoken truths. Gatsby’s world was a labyrinth of secrets and ambitions, and I was only beginning to understand its depths. But one thing was clear: everything he had built, every choice he had made, was for Daisy. She was his guiding star, his unreachable horizon.
+He looked at me sideways—and I knew why Jordan Baker had believed he
+was lying. He hurried the phrase “**educated at Oxford**,” or swallowed
+it, or choked on it, as though it had bothered him before. And with
+this doubt, his whole statement fell to pieces, and I wondered if
+there wasn’t something a little sinister about him, after all.
 
-And as the wind whipped past us, I couldn’t help but wonder if Gatsby’s dream was destined to shatter against the rocks of reality—or if, somehow, he might find a way to make the impossible possible.
+“What part of the Middle West?” I inquired casually.
+
+“San Francisco.”
+
+“I see.”
+
+“My family all died and I came into a good deal of money.”
+
+His voice was solemn, as if the memory of that sudden extinction of a
+clan still haunted him. For a moment I suspected that he was pulling
+my leg, but a glance at him convinced me otherwise.
+
+“After that I lived like a young rajah in all the capitals of
+Europe—Paris, Venice, Rome—collecting jewels, chiefly rubies, hunting
+big game, painting a little, things for myself only, and trying to
+forget something very sad that had happened to me long ago.”
+
+With an effort I managed to restrain my incredulous laughter. The very
+phrases were worn so threadbare that they evoked no image except that
+of a turbaned “character” leaking sawdust at every pore as he pursued
+a tiger through the Bois de Boulogne.
+
+“Then came the war, old sport. It was a great relief, and I tried very
+hard to die, but I seemed to bear an enchanted life. I accepted a
+commission as first lieutenant when it began. In the **Argonne Forest** I
+took the remains of my machine-gun battalion so far forward that there
+was a half mile gap on either side of us where the infantry couldn’t
+advance. We stayed there two days and two nights, a hundred and thirty
+men with sixteen Lewis guns, and when the infantry came up at last
+they found the insignia of three German divisions among the piles of
+dead. I was promoted to be a major, and every Allied government gave
+me a decoration—even Montenegro, little Montenegro down on the
+Adriatic Sea!”
+
+Little Montenegro! He lifted up the words and nodded at them—with his
+smile. The smile comprehended Montenegro’s troubled history and
+sympathized with the brave struggles of the Montenegrin people. It
+appreciated fully the chain of national circumstances which had
+elicited this tribute from Montenegro’s warm little heart. My
+incredulity was submerged in fascination now; it was like skimming
+hastily through a dozen magazines.
+
+He reached in his pocket, and a piece of metal, slung on a ribbon,
+fell into my palm.
+
+“That’s the one from Montenegro.”
+
+To my astonishment, the thing had an authentic look. “**Orderi di
+Danilo**,” ran the circular legend, “Montenegro, Nicolas Rex.”
+
+“Turn it.”
+
+“Major Jay Gatsby,” I read, “For Valour Extraordinary.”
+
+“Here’s another thing I always carry. A souvenir of Oxford days. It
+was taken in **Trinity Quad**—the man on my left is now the Earl of
+Doncaster.”
+
+It was a photograph of half a dozen young men in blazers loafing in an
+archway through which were visible a host of spires. There was Gatsby,
+looking a little, not much, younger—with a cricket bat in his hand.
+
+Then it was all true. I saw the skins of tigers flaming in his palace
+on the Grand Canal; I saw him opening a chest of rubies to ease, with
+their crimson-lighted depths, the gnawings of his broken heart.
+
+“I’m going to make a big request of you today,” he said, pocketing his
+souvenirs with satisfaction, “so I thought you ought to know something
+about me. I didn’t want you to think I was just some nobody. You see,
+I usually find myself among strangers because I drift here and there
+trying to forget the sad things that happened to me.” He hesitated.
+“You’ll hear about it this afternoon.”
+
+“At lunch?”
+
+“No, this afternoon. I happened to find out that you’re taking Miss
+Baker to tea.”
+
+“Do you mean you’re in love with Miss Baker?”
+
+“No, old sport, I’m not. But Miss Baker has kindly consented to speak
+to you about this matter.”
+
+I hadn’t the faintest idea what “this matter” was, but I was more
+annoyed than interested. I hadn’t asked Jordan to tea in order to
+discuss Mr. Jay Gatsby. I was sure the request would be something
+utterly fantastic, and for a moment I was sorry I’d ever set foot upon
+his overpopulated lawn.
+
+He wouldn’t say another word. His correctness grew on him as we neared
+the city. We passed Port Roosevelt, where there was a glimpse of
+red-belted oceangoing ships, and sped along a cobbled slum lined with
+the dark, undeserted saloons of the faded-gilt nineteen-hundreds.
+Then the valley of ashes opened out on both sides of us, and I had a
+glimpse of Mrs. Wilson straining at the garage pump with panting
+vitality as we went by.
+
+With fenders spread like wings we scattered light through half
+Astoria—only half, for as we twisted among the pillars of the elevated
+I heard the familiar “jug-jug-spat!” of a motorcycle, and a frantic
+policeman rode alongside.
+
+“All right, old sport,” called Gatsby. We slowed down. Taking a white
+card from his wallet, he waved it before the man’s eyes.
+
+“Right you are,” agreed the policeman, tipping his cap. “Know you next
+time, Mr. Gatsby. Excuse me!”
+
+“What was that?” I inquired. “The picture of Oxford?”
+
+“I was able to do the commissioner a favour once, and he sends me a
+Christmas card every year.”
+
+Over the great bridge, with the sunlight through the girders making a
+constant flicker upon the moving cars, with the city rising up across
+the river in white heaps and sugar lumps all built with a wish out of
+nonolfactory money. The city seen from the **Queensboro Bridge** is always
+the city seen for the first time, in its first wild promise of all the
+mystery and the beauty in the world.
+
+A dead man passed us in a hearse heaped with blooms, followed by two
+carriages with drawn blinds, and by more cheerful carriages for
+friends. The friends looked out at us with the tragic eyes and short
+upper lips of southeastern Europe, and I was glad that the sight of
+Gatsby’s splendid car was included in their sombre holiday. As we
+crossed Blackwell’s Island a limousine passed us, driven by a white
+chauffeur, in which sat three modish negroes, two bucks and a girl. I
+laughed aloud as the yolks of their eyeballs rolled toward us in
+haughty rivalry.
+
+“Anything can happen now that we’ve slid over this bridge,” I thought;
+“anything at all …”
+
+Even Gatsby could happen, without any particular wonder.
+
+------------------------------------------------------------------------
+
+Roaring noon. In a well-fanned Forty-second Street cellar I met Gatsby
+for lunch. Blinking away the brightness of the street outside, my eyes
+picked him out obscurely in the anteroom, talking to another man.
+
+“Mr. Carraway, this is my friend Mr. Wolfshiem.”
+
+A small, flat-nosed Jew raised his large head and regarded me with two
+fine growths of hair which luxuriated in either nostril. After a
+moment I discovered his tiny eyes in the half-darkness.
+
+“—So I took one look at him,” said Mr. Wolfshiem, shaking my hand
+earnestly, “and what do you think I did?”
+
+“What?” I inquired politely.
+
+But evidently he was not addressing me, for he dropped my hand and
+covered Gatsby with his expressive nose.
+
+“I handed the money to Katspaugh and I said: ‘All right, Katspaugh,
+don’t pay him a penny till he shuts his mouth.’ He shut it then and
+there.”
+
+Gatsby took an arm of each of us and moved forward into the
+restaurant, whereupon Mr. Wolfshiem swallowed a new sentence he was
+starting and lapsed into a somnambulatory abstraction.
+
+“Highballs?” asked the head waiter.
+
+“This is a nice restaurant here,” said Mr. Wolfshiem, looking at the
+presbyterian nymphs on the ceiling. “But I like across the street
+better!”
+
+“Yes, highballs,” agreed Gatsby, and then to Mr. Wolfshiem: “It’s too
+hot over there.”
+
+“Hot and small—yes,” said Mr. Wolfshiem, “but full of memories.”
+
+“What place is that?” I asked.
+
+“The old Metropole.”
+
+“The old Metropole,” brooded Mr. Wolfshiem gloomily. “Filled with
+faces dead and gone. Filled with friends gone now forever. I can’t
+forget so long as I live the night they shot **Rosy Rosenthal** there. It
+was six of us at the table, and Rosy had eat and drunk a lot all
+evening. When it was almost morning the waiter came up to him with a
+funny look and says somebody wants to speak to him outside. ‘All
+right,’ says Rosy, and begins to get up, and I pulled him down in his
+chair.
+
+“ ‘Let the bastards come in here if they want you, Rosy, but don’t
+you, so help me, move outside this room.’
+
+“It was four o’clock in the morning then, and if we’d of raised the
+blinds we’d of seen daylight.”
+
+“Did he go?” I asked innocently.
+
+“Sure he went.” Mr. Wolfshiem’s nose flashed at me indignantly. “He
+turned around in the door and says: ‘Don’t let that waiter take away
+my coffee!’ Then he went out on the sidewalk, and they shot him three
+times in his full belly and drove away.”
+
+“Four of them were electrocuted,” I said, remembering.
+
+“Five, with Becker.” His nostrils turned to me in an interested way.
+“I understand you’re looking for a business gonnegtion.”
+
+The juxtaposition of these two remarks was startling. Gatsby answered
+for me:
+
+“Oh, no,” he exclaimed, “this isn’t the man.”
+
+“No?” Mr. Wolfshiem seemed disappointed.
+
+“This is just a friend. I told you we’d talk about that some other
+time.”
+
+“I beg your pardon,” said Mr. Wolfshiem, “I had a wrong man.”
+
+A succulent hash arrived, and Mr. Wolfshiem, forgetting the more
+sentimental atmosphere of the old Metropole, began to eat with
+ferocious delicacy. His eyes, meanwhile, roved very slowly all around
+the room—he completed the arc by turning to inspect the people
+directly behind. I think that, except for my presence, he would have
+taken one short glance beneath our own table.
+
+“Look here, old sport,” said Gatsby, leaning toward me, “I’m afraid I
+made you a little angry this morning in the car.”
+
+There was the smile again, but this time I held out against it.
+
+“I don’t like mysteries,” I answered, “and I don’t understand why you
+won’t come out frankly and tell me what you want. Why has it all got
+to come through Miss Baker?”
+
+“Oh, it’s nothing underhand,” he assured me. “Miss Baker’s a great
+sportswoman, you know, and she’d never do anything that wasn’t all
+right.”
+
+Suddenly he looked at his watch, jumped up, and hurried from the room,
+leaving me with Mr. Wolfshiem at the table.
+
+“He has to telephone,” said Mr. Wolfshiem, following him with his
+eyes. “Fine fellow, isn’t he? Handsome to look at and a perfect
+gentleman.”
+
+“Yes.”
+
+“He’s an Oggsford man.”
+
+“Oh!”
+
+“He went to Oggsford College in England. You know Oggsford College?”
+
+“I’ve heard of it.”
+
+“It’s one of the most famous colleges in the world.”
+
+“Have you known Gatsby for a long time?” I inquired.
+
+“Several years,” he answered in a gratified way. “I made the pleasure
+of his acquaintance just after the war. But I knew I had discovered a
+man of fine breeding after I talked with him an hour. I said to
+myself: ‘There’s the kind of man you’d like to take home and introduce
+to your mother and sister.’ ” He paused. “I see you’re looking at my
+cuff buttons.”
+
+I hadn’t been looking at them, but I did now. They were composed of
+oddly familiar pieces of ivory.
+
+“Finest specimens of **human molars**,” he informed me.
+
+“Well!” I inspected them. “That’s a very interesting idea.”
+
+“Yeah.” He flipped his sleeves up under his coat. “Yeah, Gatsby’s very
+careful about women. He would never so much as look at a friend’s
+wife.”
+
+When the subject of this instinctive trust returned to the table and
+sat down Mr. Wolfshiem drank his coffee with a jerk and got to his
+feet.
+
+“I have enjoyed my lunch,” he said, “and I’m going to run off from you
+two young men before I outstay my welcome.”
+
+“Don’t hurry Meyer,” said Gatsby, without enthusiasm. Mr. Wolfshiem
+raised his hand in a sort of benediction.
+
+“You’re very polite, but I belong to another generation,” he announced
+solemnly. “You sit here and discuss your sports and your young ladies
+and your—” He supplied an imaginary noun with another wave of his
+hand. “As for me, I am fifty years old, and I won’t impose myself on
+you any longer.”
+
+As he shook hands and turned away his tragic nose was trembling. I
+wondered if I had said anything to offend him.
+
+“He becomes very sentimental sometimes,” explained Gatsby. “This is
+one of his sentimental days. He’s quite a character around New York—a
+denizen of Broadway.”
+
+“Who is he, anyhow, an actor?”
+
+“No.”
+
+“A dentist?”
+
+“Meyer Wolfshiem? No, he’s a gambler.” Gatsby hesitated, then added,
+coolly: “He’s the man who fixed the **World’s Series back in 1919**.”
+
+“Fixed the World’s Series?” I repeated.
+
+The idea staggered me. I remembered, of course, that the World’s
+Series had been fixed in 1919, but if I had thought of it at all I
+would have thought of it as a thing that merely happened, the end of
+some inevitable chain. It never occurred to me that one man could
+start to play with the faith of fifty million people—with the
+single-mindedness of a burglar blowing a safe.
+
+“How did he happen to do that?” I asked after a minute.
+
+“He just saw the opportunity.”
+
+“Why isn’t he in jail?”
+
+“They can’t get him, old sport. He’s a smart man.”
+
+I insisted on paying the check. As the waiter brought my change I
+caught sight of Tom Buchanan across the crowded room.
+
+“Come along with me for a minute,” I said; “I’ve got to say hello to
+someone.”
+
+When he saw us Tom jumped up and took half a dozen steps in our
+direction.
+
+“Where’ve you been?” he demanded eagerly. “Daisy’s furious because you
+haven’t called up.”
+
+“This is Mr. Gatsby, Mr. Buchanan.”
+
+They shook hands briefly, and a strained, unfamiliar look of
+embarrassment came over Gatsby’s face.
+
+“How’ve you been, anyhow?” demanded Tom of me. “How’d you happen to
+come up this far to eat?”
+
+“I’ve been having lunch with Mr. Gatsby.”
+
+I turned toward Mr. Gatsby, but he was no longer there.
+
+------------------------------------------------------------------------
+
+One October day in nineteen-seventeen—
+
+(said Jordan Baker that afternoon, sitting up very straight on a
+straight chair in the tea-garden at the Plaza Hotel)
+
+—I was walking along from one place to another, half on the sidewalks
+and half on the lawns. I was happier on the lawns because I had on
+shoes from England with rubber knobs on the soles that bit into the
+soft ground. I had on a new plaid skirt also that blew a little in the
+wind, and whenever this happened the red, white, and blue banners in
+front of all the houses stretched out stiff and said tut-tut-tut-tut,
+in a disapproving way.
+
+The largest of the banners and the largest of the lawns belonged to
+Daisy Fay’s house. She was just eighteen, two years older than me, and
+by far the most popular of all the young girls in Louisville. She
+dressed in white, and had a little white roadster, and all day long
+the telephone rang in her house and excited young officers from **Camp
+Taylor** demanded the privilege of monopolizing her that
+night. “Anyways, for an hour!”
+
+When I came opposite her house that morning her white roadster was
+beside the kerb, and she was sitting in it with a lieutenant I had
+never seen before. They were so engrossed in each other that she
+didn’t see me until I was five feet away.
+
+“Hello, Jordan,” she called unexpectedly. “Please come here.”
+
+I was flattered that she wanted to speak to me, because of all the
+older girls I admired her most. She asked me if I was going to the Red
+Cross to make bandages. I was. Well, then, would I tell them that she
+couldn’t come that day? The officer looked at Daisy while she was
+speaking, in a way that every young girl wants to be looked at
+sometime, and because it seemed romantic to me I have remembered the
+incident ever since. His name was Jay Gatsby, and I didn’t lay eyes on
+him again for over four years—even after I’d met him on Long Island I
+didn’t realize it was the same man.
+
+That was nineteen-seventeen. By the next year I had a few beaux
+myself, and I began to play in tournaments, so I didn’t see Daisy very
+often. She went with a slightly older crowd—when she went with anyone
+at all. Wild rumours were circulating about her—how her mother had
+found her packing her bag one winter night to go to New York and say
+goodbye to a soldier who was going overseas. She was effectually
+prevented, but she wasn’t on speaking terms with her family for
+several weeks. After that she didn’t play around with the soldiers any
+more, but only with a few flat-footed, shortsighted young men in town,
+who couldn’t get into the army at all.
+
+By the next autumn she was gay again, gay as ever. She had a début
+after the armistice, and in February she was presumably engaged to a
+man from New Orleans. In June she married Tom Buchanan of Chicago,
+with more pomp and circumstance than Louisville ever knew before. He
+came down with a hundred people in four private cars, and hired a
+whole floor of the **Muhlbach Hotel**, and the day before the wedding he
+gave her a string of pearls valued at three hundred and fifty thousand
+dollars.
+
+I was a bridesmaid. I came into her room half an hour before the
+bridal dinner, and found her lying on her bed as lovely as the June
+night in her flowered dress—and as drunk as a monkey. She had a bottle
+of Sauterne in one hand and a letter in the other.
+
+“ ’Gratulate me,” she muttered. “Never had a drink before, but oh how
+I do enjoy it.”
+
+“What’s the matter, Daisy?”
+
+I was scared, I can tell you; I’d never seen a girl like that before.
+
+“Here, dearies.” She groped around in a wastebasket she had with her
+on the bed and pulled out the string of pearls. “Take ’em downstairs
+and give ’em back to whoever they belong to. Tell ’em all Daisy’s
+change’ her mine. Say: ‘Daisy’s change’ her mine!’ ”
+
+She began to cry—she cried and cried. I rushed out and found her
+mother’s maid, and we locked the door and got her into a cold bath.
+She wouldn’t let go of the letter. She took it into the tub with her
+and squeezed it up in a wet ball, and only let me leave it in the
+soap-dish when she saw that it was coming to pieces like snow.
+
+But she didn’t say another word. We gave her spirits of ammonia and
+put ice on her forehead and hooked her back into her dress, and half
+an hour later, when we walked out of the room, the pearls were around
+her neck and the incident was over. Next day at five o’clock she
+married Tom Buchanan without so much as a shiver, and started off on a
+three months’ trip to the South Seas.
+
+I saw them in Santa Barbara when they came back, and I thought I’d
+never seen a girl so mad about her husband. If he left the room for a
+minute she’d look around uneasily, and say: “Where’s Tom gone?” and
+wear the most abstracted expression until she saw him coming in the
+door. She used to sit on the sand with his head in her lap by the
+hour, rubbing her fingers over his eyes and looking at him with
+unfathomable delight. It was touching to see them together—it made you
+laugh in a hushed, fascinated way. That was in August. A week after I
+left Santa Barbara Tom ran into a wagon on the Ventura road one night,
+and ripped a front wheel off his car. The girl who was with him got
+into the papers, too, because her arm was broken—she was one of the
+chambermaids in the **Santa Barbara Hotel**.
+
+The next April Daisy had her little girl, and they went to France for
+a year. I saw them one spring in Cannes, and later in Deauville, and
+then they came back to Chicago to settle down. Daisy was popular in
+Chicago, as you know. They moved with a fast crowd, all of them young
+and rich and wild, but she came out with an absolutely **perfect
+reputation**. Perhaps because she doesn’t drink. It’s a great advantage
+not to drink among hard-drinking people. You can hold your tongue and,
+moreover, you can time any little irregularity of your own so that
+everybody else is so blind that they don’t see or care. Perhaps Daisy
+never went in for amour at all—and yet there’s something in that voice
+of hers …
+
+Well, about six weeks ago, she heard the name Gatsby for the first
+time in years. It was when I asked you—do you remember?—if you knew
+Gatsby in West Egg. After you had gone home she came into my room and
+woke me up, and said: “What Gatsby?” and when I described him—I was
+half asleep—she said in the strangest voice that it must be the man
+she used to know. It wasn’t until then that I connected this Gatsby
+with the officer in her white car.
+
+------------------------------------------------------------------------
+
+When Jordan Baker had finished telling all this we had left the Plaza
+for half an hour and were driving in a victoria through Central Park.
+The sun had gone down behind the tall apartments of the movie stars in
+the West Fifties, and the clear voices of children, already gathered
+like crickets on the grass, rose through the hot twilight:
+
+ “I’m the **Sheik of Araby**. Your love belongs to me. At night when
+ you’re asleep Into your tent I’ll creep—”
+
+“It was a strange coincidence,” I said.
+
+“But it wasn’t a coincidence at all.”
+
+“Why not?”
+
+“Gatsby bought that house so that Daisy would be just across the bay.”
+
+Then it had not been merely the stars to which he had aspired on that
+June night. He came alive to me, delivered suddenly from the womb of
+his purposeless splendour.
+
+“He wants to know,” continued Jordan, “if you’ll invite Daisy to your
+house some afternoon and then let him come over.”
+
+The modesty of the demand shook me. He had waited five years and
+bought a mansion where he dispensed **starlight to casual moths**—so that
+he could “come over” some afternoon to a stranger’s garden.
+
+“Did I have to know all this before he could ask such a little thing?”
+
+“He’s afraid, he’s waited so long. He thought you might be
+offended. You see, he’s regular tough underneath it all.”
+
+Something worried me.
+
+“Why didn’t he ask you to arrange a meeting?”
+
+“He wants her to see his house,” she explained. “And your house is
+right next door.”
+
+“Oh!”
+
+“I think he half expected her to wander into one of his parties, some
+night,” went on Jordan, “but she never did. Then he began asking
+people casually if they knew her, and I was the first one he found. It
+was that night he sent for me at his dance, and you should have heard
+the elaborate way he worked up to it. Of course, I immediately
+suggested a luncheon in New York—and I thought he’d go mad:
+
+“ ‘I don’t want to do anything out of the way!’ he kept saying. ‘I
+want to see her right next door.’
+
+“When I said you were a particular friend of Tom’s, he started to
+abandon the whole idea. He doesn’t know very much about Tom, though he
+says he’s read a Chicago paper for years just on the chance of
+catching a glimpse of Daisy’s name.”
+
+It was dark now, and as we dipped under a little bridge I put my arm
+around Jordan’s golden shoulder and drew her toward me and asked her
+to dinner. Suddenly I wasn’t thinking of Daisy and Gatsby any more,
+but of this clean, hard, limited person, who dealt in **universal
+scepticism**, and who leaned back jauntily just within the circle of my
+arm. A phrase began to beat in my ears with a sort of heady
+excitement: “There are only the pursued, the pursuing, the busy, and
+the tired.”
+
+“And Daisy ought to have something in her life,” murmured Jordan to
+me.
+
+“Does she want to see Gatsby?”
+
+“She’s not to know about it. Gatsby doesn’t want her to know. You’re
+just supposed to invite her to tea.”
+
+We passed a barrier of dark trees, and then the façade of **Fifty-Ninth
+Street**, a block of delicate pale light, beamed down into the park.
+Unlike Gatsby and Tom Buchanan, I had no girl whose disembodied face
+floated along the dark cornices and blinding signs, and so I drew up
+the girl beside me, tightening my arms. Her wan, scornful mouth
+smiled, and so I drew her up again closer, this time to my face.

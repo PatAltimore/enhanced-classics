@@ -89,8 +89,8 @@ enhancements:
     trigger: "green light"
     title: "The Light at the End of the Dock That Means Everything and Nothing"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
-    image_url: ""
-    image_caption: ""
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
     content: "The green light appears at the very end of Chapter 1, across the water from Nick's yard. Gatsby is standing at the end of his dock, arm outstretched, reaching toward it — toward Daisy's dock, which is where the light is fixed. Fitzgerald places it here, at the chapter's close, with no explanation. The reader does not yet know what it means. By the end of the novel, Nick will have explained it in terms that make it the most famous symbol in American literature: the green light is the American Dream itself, the object always just out of reach, the past we are forever trying to recover. Boats against the current, borne back ceaselessly into the past. The green light works as a symbol precisely because it is both specific — a real light, on a real dock, standing for a real woman — and universal. It is what everyone has reached toward across water they could not cross. The color matters: green for go, for money, for the new world that the first Dutch sailors saw rising from the sea, for the permission that was always being given and always being withdrawn."
 ---
 In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since. "Whenever you feel like criticizing any one," he told me, "just remember that all the people in this world haven't had the advantages that you've had."

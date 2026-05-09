@@ -9,123 +9,684 @@ book_slug: "the-great-gatsby"
 license: "public-domain"
 
 summary:
-  - point: "Gatsby nervously prepares for his reunion with Daisy, pacing and rehearsing his words."
+  - point: "Gatsby's house is lit up extravagantly, creating an eerie and surreal atmosphere."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
-  - point: "Daisy arrives at Gatsby's house, and their initial interaction is charged with emotion and awkwardness."
+  - point: "Nick arranges for Daisy to visit Gatsby's house, setting the stage for their emotional reunion."
     link: "https://en.wikipedia.org/wiki/Daisy_Buchanan"
     link_label: "Daisy Buchanan"
-  - point: "The green light of East Egg symbolizes Gatsby's longing and unattainable dreams."
+  - point: "Gatsby's nervousness and meticulous preparations reveal his deep longing and anxiety about seeing Daisy again."
+    link: "https://en.wikipedia.org/wiki/Jay_Gatsby"
+    link_label: "Jay Gatsby"
+  - point: "The rain and eventual sunshine symbolize the emotional turbulence and hope of Gatsby and Daisy's reunion."
     link: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
     link_label: "Symbolism in The Great Gatsby"
-  - point: "Gatsby and Daisy share a moment of connection on the terrace, with the rain easing and the atmosphere lightening."
-    link: "https://en.wikipedia.org/wiki/Rain_(symbolism)"
-    link_label: "Rain symbolism"
-  - point: "Gatsby's house and lifestyle are revealed as part of his effort to impress Daisy and win her back."
+  - point: "Gatsby's illusions about Daisy begin to clash with reality, highlighting the fragility of his dream."
     link: "https://en.wikipedia.org/wiki/American_Dream"
     link_label: "American Dream"
-  - point: "The chapter ends with Gatsby and Daisy leaving together, their reunion marked by hope and uncertainty."
-    link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
-    link_label: "F. Scott Fitzgerald"
+  - point: "Klipspringer's piano performance underscores the theme of superficiality and fleeting connections in Gatsby's world."
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    link_label: "The Great Gatsby"
 
 enhancements:
-  - id: "west-egg"
-    trigger: "West Egg"
-    title: "West Egg's Social Dynamics"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Plot_summary"
+  - id: "worlds-fair-west-egg"
+    trigger: "World’s Fair"
+    title: "Why Gatsby’s House Looks Like a World’s Fair"
+    wikipedia_url: "https://en.wikipedia.org/wiki/World%27s_fair"
     image_url: ""
     image_caption: ""
-    content: "West Egg represents the newly rich in 'The Great Gatsby,' contrasting with East Egg's old-money aristocracy. Gatsby's mansion in West Egg symbolizes his ambition and his outsider status in the world of inherited wealth. This geographic divide underscores the novel's themes of class and aspiration."
-  - id: "long-island-sound"
-    trigger: "Long Island Sound"
-    title: "Long Island Sound's Symbolism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Long_Island_Sound"
+    content: "When Nick compares Gatsby’s house to the World’s Fair, he captures the dazzling, almost theatrical excess of Gatsby’s lifestyle. The World’s Fair, particularly the 1893 Chicago exposition, was a showcase of technological marvels and architectural grandeur, designed to awe visitors with visions of progress and prosperity. Gatsby’s house, lit from tower to cellar, mirrors this spectacle, but with a poignant twist—it’s not a celebration of collective achievement but a solitary man’s desperate attempt to impress one woman. The irony is sharp: while the World’s Fair symbolized optimism and innovation, Gatsby’s display reveals the emptiness of wealth without genuine connection. Fitzgerald uses this comparison to underline the artificiality of Gatsby’s dream and the hollowness of the world he has built around it."
+  - id: "wolfshiem-gatsby-business"
+    trigger: "Wolfshiem"
+    title: "The Shadowy Figure Behind Gatsby’s Fortune"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Meyer_Wolfshiem"
     image_url: ""
     image_caption: ""
-    content: "Long Island Sound serves as a physical and symbolic barrier in the novel, separating Gatsby's West Egg from Daisy's East Egg. Its serene beauty contrasts with the emotional turbulence of the characters, emphasizing themes of separation and unattainable dreams."
-  - id: "east-egg"
-    trigger: "East Egg"
-    title: "East Egg's Old Money Elite"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    content: "When Gatsby reassures Nick that he wouldn’t have to deal with Wolfshiem, he’s referencing Meyer Wolfshiem, the enigmatic and morally dubious character who helped Gatsby amass his wealth. Wolfshiem is based on real-life figures like Arnold Rothstein, a notorious gambler implicated in the 1919 Black Sox Scandal. Rothstein’s involvement in fixing the World Series parallels Wolfshiem’s shady dealings, hinting at Gatsby’s own questionable path to riches. This moment underscores the tension between Gatsby’s romantic idealism and the murky reality of his success. Fitzgerald uses Wolfshiem to explore the corruption lurking beneath the surface of the American Dream, suggesting that Gatsby’s dream is tainted by the compromises he made to achieve it."
+  - id: "castle-rackrent-daisy"
+    trigger: "Castle Rackrent"
+    title: "The Secret of Castle Rackrent: A Literary Nod"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Castle_Rackrent"
     image_url: ""
     image_caption: ""
-    content: "East Egg represents the established wealth and social prestige of old-money families. Daisy and Tom Buchanan live here, embodying the privilege and moral decay of this class. The green light at East Egg symbolizes Gatsby's yearning for inclusion and his dream of reuniting with Daisy."
-  - id: "new-york-city"
-    trigger: "New York City"
-    title: "New York City's Roaring Twenties"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Roaring_Twenties"
+    content: "Daisy’s playful reference to Castle Rackrent, a novel by Maria Edgeworth, adds a layer of literary sophistication to her dialogue. Published in 1800, Castle Rackrent is a satirical tale of Irish landlords, filled with humor and irony. Daisy’s mention of it is likely meant to be whimsical, but it also hints at her own role as a figure of privilege and entitlement. The novel’s themes of decay and mismanagement resonate subtly with Gatsby’s world, where wealth and grandeur mask deeper flaws. Fitzgerald’s choice to include this reference enriches the text, connecting Daisy’s character to a broader tradition of literary critique on class and ambition."
+  - id: "defunct-mantelpiece-clock"
+    trigger: "defunct mantelpiece clock"
+    title: "The Clock That Tried to Stop Time"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time_in_literature"
     image_url: ""
     image_caption: ""
-    content: "New York City in the 1920s was a hub of cultural and economic activity, epitomizing the Jazz Age. In 'The Great Gatsby,' the city serves as a backdrop for the characters' escapades, highlighting themes of excess, ambition, and moral ambiguity during this transformative era."
-  - id: "rain-symbolism"
-    trigger: "rain"
-    title: "Rain as Emotional Symbolism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rain_(symbolism)"
+    content: "When Gatsby leans against the defunct mantelpiece clock, nearly toppling it, the moment brims with symbolism. The clock represents time—specifically, Gatsby’s futile attempt to reclaim the past and freeze the present. In literature, broken clocks often signify disrupted time or the impossibility of reversing it. Gatsby’s trembling fingers catching the clock reflect his desperate hope to control the uncontrollable. Fitzgerald uses this image to underscore the central tragedy of Gatsby’s character: his belief that he can recreate a perfect past with Daisy, ignoring the inexorable march of time and the changes it brings. The clock’s precarious tilt mirrors the fragility of Gatsby’s dream."
+  - id: "kant-church-steeple"
+    trigger: "Kant at his church steeple"
+    title: "Why Kant Stared at a Steeple for Hours"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Immanuel_Kant"
     image_url: ""
     image_caption: ""
-    content: "Rain in literature often symbolizes renewal, cleansing, or emotional tension. In this chapter, the rain mirrors Gatsby's nervous anticipation and the emotional release of his reunion with Daisy. Its easing reflects the shift in their interaction, from awkwardness to tentative connection."
-  - id: "american-dream"
-    trigger: "the world he had built for her"
-    title: "Gatsby and the American Dream"
-    wikipedia_url: "https://en.wikipedia.org/wiki/American_Dream"
+    content: "Nick’s comparison of his gaze at Gatsby’s house to Kant staring at a church steeple is a profound philosophical allusion. Immanuel Kant, the 18th-century German philosopher, was known for his meticulous routines, including daily walks during which he contemplated the steeple of Königsberg Cathedral. This act symbolized his search for moral and metaphysical clarity. Nick’s reflection, however, is tinged with irony; Gatsby’s house, unlike Kant’s steeple, represents excess and illusion rather than enlightenment. Fitzgerald uses this comparison to highlight the contrast between Gatsby’s materialistic aspirations and the deeper truths Nick begins to perceive. It’s a subtle critique of the misplaced values driving Gatsby’s dream."
+  - id: "twinkle-bells-of-sunshine"
+    trigger: "twinkle-bells of sunshine"
+    title: "The Poetic Science of Twinkle-Bells"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sunshine"
     image_url: ""
     image_caption: ""
-    content: "Gatsby's lavish lifestyle and mansion are manifestations of his pursuit of the American Dream, driven by his desire to win Daisy's love. The novel critiques this ideal, showing how it can lead to moral compromise and unfulfilled aspirations."
-  - id: "symbolism-clock"
-    trigger: "this clock"
-    title: "The Clock and Time's Passage"
+    content: "The phrase 'twinkle-bells of sunshine' captures the delicate beauty of light breaking through after rain. While poetic, it also evokes the scientific phenomenon of light diffraction, where sunlight scatters into shimmering patterns as it interacts with water droplets. This imagery mirrors the emotional shift in the chapter—from the tension of Gatsby and Daisy’s reunion to the tentative hope that follows. Fitzgerald’s lyrical description transforms a simple weather change into a metaphor for renewal and possibility, suggesting that even amidst uncertainty, moments of beauty and clarity can emerge. The twinkle-bells symbolize the fragile optimism of Gatsby’s dream as it briefly seems within reach."
+  - id: "panic-of-the-war"
+    trigger: "the panic of the war"
+    title: "What Was the Panic of the War?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/World_War_I"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby mentions 'the panic of the war,' he likely refers to the economic upheaval caused by World War I. The war disrupted global markets, leading to financial instability and widespread uncertainty. For Gatsby, this phrase may also carry personal resonance, as his rise to wealth coincided with the post-war boom and its speculative opportunities. However, his vague and automatic response hints at the constructed nature of his narrative—an attempt to mask the dubious origins of his fortune. Fitzgerald uses this moment to underscore Gatsby’s enigmatic persona and the broader theme of the American Dream’s precarious foundation in a world shaped by conflict and change."
+  - id: "marble-steps-empty"
+    trigger: "marble steps"
+    title: "The Marble Steps That Echo Gatsby’s Loneliness"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Marble"
+    image_url: ""
+    image_caption: ""
+    content: "The marble steps leading to Gatsby’s house are a striking image of grandeur, but their emptiness during Daisy’s visit underscores the isolation at the heart of Gatsby’s life. Marble, often associated with timeless beauty and permanence, contrasts with the fleeting nature of Gatsby’s parties and relationships. The absence of guests highlights the hollowness of Gatsby’s world when stripped of its spectacle. Fitzgerald uses the marble steps as a visual metaphor for Gatsby’s longing—for connection, for permanence, and for a dream that remains just out of reach. The steps, silent and unadorned, reflect the poignant solitude beneath Gatsby’s glittering facade."
+  - id: "merton-college-library"
+    trigger: "the Merton College Library"
+    title: "Why Gatsby’s Library Feels Like Oxford"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Merton_College,_Oxford"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s 'Merton College Library' is an evocative detail that ties his house to the prestige of Oxford University. Merton College, one of Oxford’s oldest institutions, is renowned for its historic library, a symbol of intellectual achievement and tradition. Gatsby’s library, however, is a facade—filled with books that are real but unread, reflecting the performative nature of his wealth and education. The owl-eyed man’s ghostly laughter suggests the absurdity of this pretense. Fitzgerald uses the library to critique the superficiality of Gatsby’s aspirations, showing how his pursuit of status is rooted in appearances rather than substance. It’s a poignant reminder of the gap between Gatsby’s dream and reality."
+  - id: "chartreuse-gatsby-daisy"
+    trigger: "Chartreuse"
+    title: "The Mysterious Liquor That Gatsby Pours"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chartreuse_(liqueur)"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby serves Chartreuse, he adds a touch of sophistication to the scene. Chartreuse, a French liqueur made by Carthusian monks, is famous for its vibrant green color and complex herbal flavor. Its production is shrouded in secrecy, with only two monks knowing the recipe at any given time. The choice of Chartreuse reflects Gatsby’s desire to impress Daisy with rare and luxurious details, aligning with his broader efforts to create an aura of exclusivity and refinement. Fitzgerald’s inclusion of this specific drink enriches the atmosphere, symbolizing Gatsby’s meticulous crafting of his world to win Daisy’s admiration. Yet, like much of Gatsby’s life, it’s a performance—beautiful but ultimately hollow."
+  - id: "green-light-dock"
+    trigger: "green light on a dock"
+    title: "The Green Light That Defined Gatsby’s Dream"
     wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "The clock symbolizes the passage of time and Gatsby's desire to reverse it, reclaiming the lost years with Daisy. This poignant moment underscores the novel's exploration of memory, regret, and the impossibility of recapturing the past."
-  - id: "green-light-symbolism"
-    trigger: "the green light of East Egg"
-    title: "The Green Light's Significance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    content: "The green light at the end of Daisy’s dock is one of the most iconic symbols in American literature. For Gatsby, it represents hope, ambition, and the dream of a future with Daisy. Its color, green, evokes both renewal and envy, encapsulating the dual nature of Gatsby’s pursuit. When Gatsby realizes the light’s 'colossal significance' has vanished, it marks a turning point in the novel—his dream, once distant and idealized, is now within reach but diminished by reality. Fitzgerald uses the green light to explore the tension between aspiration and disillusionment, showing how the pursuit of the American Dream can be both inspiring and tragic."
+  - id: "deathless-song-daisy"
+    trigger: "deathless song"
+    title: "Why Daisy’s Voice Is a Deathless Song"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "The green light at the end of Daisy's dock is one of the novel's most enduring symbols. It represents Gatsby's dreams, his longing for Daisy, and the broader theme of aspiration. Its distance and elusiveness highlight the unattainable nature of his desires."
-  - id: "gatsby-old-sport"
-    trigger: "Thank you, old sport"
-    title: "Gatsby's Signature Phrase"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Characters"
+    content: "Gatsby’s description of Daisy’s voice as a 'deathless song' captures its hypnotic and timeless allure. Throughout the novel, her voice is a recurring motif, symbolizing wealth, charm, and the seductive power of Gatsby’s dream. The phrase 'deathless song' suggests an eternal quality, as if Daisy embodies an ideal that transcends time. Yet, this ideal is also an illusion—her voice, like Gatsby’s dream, is enchanting but ultimately unattainable. Fitzgerald uses this imagery to highlight the gap between Gatsby’s romanticized vision of Daisy and her reality, emphasizing the novel’s themes of longing, illusion, and the elusive nature of the American Dream."
+  - id: "the-love-nest-klipspringer"
+    trigger: "The Love Nest"
+    title: "The Forgotten Song That Haunts Gatsby’s World"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Love_Nest"
     image_url: ""
     image_caption: ""
-    content: "Gatsby's use of 'old sport' reflects his affected mannerisms and attempts to project sophistication. The phrase is emblematic of his constructed persona, blending charm and artifice to navigate the social world he aspires to join."
-  - id: "f-scott-fitzgerald"
-    trigger: "F. Scott Fitzgerald"
-    title: "F. Scott Fitzgerald's Legacy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
-    image_url: ""
-    image_caption: ""
-    content: "F. Scott Fitzgerald, author of 'The Great Gatsby,' is one of the most celebrated writers of the 20th century. His works capture the spirit of the Jazz Age, exploring themes of wealth, love, and the American Dream. Fitzgerald's life and career were marked by both literary brilliance and personal struggles."
+    content: "Klipspringer’s piano performance of 'The Love Nest' is a poignant moment in the chapter. Written in 1920 by Louis Hirsch and Otto Harbach, the song was a popular tune that celebrated domestic bliss and romantic ideals. Its lyrics, however, take on an ironic tone in Gatsby’s world, where love is complicated by ambition, wealth, and illusion. The song’s nostalgic melody contrasts with the tension and uncertainty of Gatsby and Daisy’s reunion, highlighting the fragility of their connection. Fitzgerald’s choice of this song underscores the novel’s exploration of the gap between idealized love and the harsh realities of life, adding depth to the scene’s emotional resonance."
 ---
-It was nearly ten o’clock when I saw Gatsby’s silhouette flickering against the pale square of his window. The house stood still, as though holding its breath in anticipation, and I imagined him pacing, adjusting his tie, rehearsing words that no doubt would falter under the weight of the years. He had asked me to arrange the meeting, and now the hour was here, trembling like a wet leaf in the palm of his hand. **West Egg**, in its gaudy sprawl, lay quiet under the faint hum of distant jazz, but the air seemed charged, expectant, as if the air itself knew what was about to transpire.
+When I came home to West Egg that night I was afraid for a moment that
+my house was on fire. Two o’clock and the whole corner of the
+peninsula was blazing with light, which fell unreal on the shrubbery
+and made thin elongating glints upon the roadside wires. Turning a
+corner, I saw that it was Gatsby’s house, lit from tower to cellar.
 
-I busied myself in the kitchen, setting out the cups and saucers, while Gatsby arrived, too early, his face pale and resolute beneath the brim of his hat. He carried an air of nervous energy that seemed to pull at the edges of the room. "Does the grass look all right?" he asked abruptly, his words tripping over themselves. "I had it cut this morning." He fumbled with the rim of his jacket, glancing toward the window as though Daisy might materialize there, borne on some divine wind.
+At first I thought it was another party, a wild rout that had resolved
+itself into “hide-and-go-seek” or “sardines-in-the-box” with all the
+house thrown open to the game. But there wasn’t a sound. Only wind in
+the trees, which blew the wires and made the lights go off and on
+again as if the house had winked into the darkness. As my taxi groaned
+away I saw Gatsby walking toward me across his lawn.
 
-The doorbell rang, and Gatsby stiffened as if struck. Daisy stood in the doorway, her yellow dress glowing softly like the last streak of sunlight over **Long Island Sound**. She smiled at me, her voice effervescent with the lightness of greeting, but then her gaze swept past me to land on Gatsby. For a moment, the room seemed to contract, as though the walls themselves had leaned in to witness this tableau. Gatsby hesitated before stepping forward, his movements deliberate, his eyes fixed on her as if she were the only object in the world.
+“Your place looks like the **World’s Fair**,” I said.
 
-“Hello, Daisy,” he said, and the words hung in the air like a fragile melody. Daisy’s smile faltered, her hand instinctively reaching for the pearls at her throat. “Why, hello, Jay,” she replied, her voice almost unsure, as though she were testing the resonance of his name after all these years. The silence that followed was thick and awkward, and I felt myself an intruder in the presence of something too personal for my understanding.
+“Does it?” He turned his eyes toward it absently. “I have been
+glancing into some of the rooms. Let’s go to Coney Island, old
+sport. In my car.”
 
-“I... I’m sorry I’m wet,” Gatsby stammered suddenly, gesturing to the rain-dampened edges of his jacket. Daisy laughed softly, and the sound seemed to loosen some invisible knot between them. “You’re always so particular, Jay,” she said, her tone teasing, and the room lightened, just barely, as though the storm clouds outside had shifted. Gatsby’s face brightened at her words, and I saw the beginnings of a smile tug at his mouth.
+“It’s too late.”
 
-A heavy rain began to drum against the windows as Gatsby led Daisy into the living room, his movements careful, reverent, as if she were made of glass. I stood aside, watching them as one might watch an actor step onto a stage, the script intimate yet unfamiliar. Gatsby gestured toward the mantelpiece, where an elaborate clock sat ticking softly, its gilded face catching the faint light. “This is—this is such a nice house,” Daisy said, her voice wavering slightly as she ran her fingers along the edge of the furniture. “I’ve never been to **West Egg** before.”
+“Well, suppose we take a plunge in the swimming pool? I haven’t made
+use of it all summer.”
 
-Gatsby cleared his throat, his expression shifting into one of pride mixed with apprehension. “I—I’ve tried to make it nice for you,” he said, his words tumbling out in an almost boyish rush. Daisy turned to him, her brow furrowed, and I saw something flicker in her eyes—curiosity, perhaps, or recognition of the enormity of his sentiment. She reached for the clock on the mantelpiece, lifting it gently in her hands as if testing its weight, and Gatsby’s face tightened.
+“I’ve got to go to bed.”
 
-“I—this clock,” he began haltingly, “it’s very old.” Daisy smiled faintly at him, setting the clock back in its place, and I sensed that it was not the clock itself but the passage of time it represented that had seized Gatsby’s thoughts. He stared at it as though willing its hands to reverse, to unwind the years that had separated them, to restore a moment lost in the haze of the past.
+“All right.”
 
-The rain began to ease as Gatsby gestured toward the window. “Shall we look outside?” he asked, his voice steadier now, more assured. Daisy nodded, and together they stepped onto the terrace. The lawn stretched out before them, immaculate and glistening under the soft drizzle. Gatsby’s eyes flickered toward the distant green light of **East Egg**, his expression shadowed by something too vast for words. Daisy followed his gaze, her features softening, her hand brushing the hem of her dress as though seeking an anchor.
+He waited, looking at me with suppressed eagerness.
 
-They spoke quietly, their voices mingling with the sound of rain against the leaves, and I stayed inside, letting them have their moment. Yet I could not tear my gaze away from the sight of Gatsby standing beside her, his figure taut with unspoken yearning. The scene carried an air of unreality, as though it were a dream poised on the brink of collapse. Gatsby leaned toward Daisy, his hands trembling slightly as he reached for hers, and she let him take them, her face unreadable.
+“I talked with Miss Baker,” I said after a moment. “I’m going to call
+up Daisy tomorrow and invite her over here to tea.”
 
-When they returned inside, the air seemed lighter, more buoyant, as though the storm had passed not only outside but within the room itself. Gatsby’s posture had softened, and Daisy’s laughter came more easily now, filling the space with a sound that seemed to vibrate against the walls. They spoke of trivial things—old acquaintances, summer gardens, the changing skyline of **New York City**—but beneath the surface, the conversation thrummed with the weight of all that had been left unsaid.
+“Oh, that’s all right,” he said carelessly. “I don’t want to put you
+to any trouble.”
 
-As the evening wore on, Gatsby’s confidence grew, his gestures more expansive, his voice rich with the cadence of dreams half-realized. He spoke of his house, the parties, the endless parade of faces that had passed through its gilded halls, and Daisy listened with wide eyes, her fingers tracing idle patterns on the edge of the table. Gatsby’s words seemed to wrap around her, drawing her closer to the world he had constructed, the world he had built for her.
+“What day would suit you?”
 
-Finally, as the clock struck midnight, Gatsby leaned back in his chair, his expression serene, as though he had glimpsed some fleeting promise of happiness. Daisy’s eyes met his, and for a moment, the room seemed to dissolve, leaving only the two of them suspended in time. I felt the weight of their history pressing against me, the enormity of Gatsby’s longing and Daisy’s quiet regret, and I knew I was witnessing something fragile, something precariously balanced between hope and despair.
+“What day would suit you?” he corrected me quickly. “I don’t want to
+put you to any trouble, you see.”
 
-As they stood to leave, Gatsby turned to me, his face alight with a kind of wonder I had never seen before. “Thank you, old sport,” he said, his voice steady and warm. Daisy smiled at me, her expression softer now, and together they stepped out into the night, their figures silhouetted against the faint glow of Gatsby’s house.
+“How about the day after tomorrow?”
 
-I lingered in the room after they had gone, the faint echo of their voices still humming in the air. The storm had passed, leaving the night serene and clear, but I could not shake the feeling that something larger than the two of them had shifted, something irrevocable. The green light of **East Egg** flickered faintly in the distance, and I thought of Gatsby standing there, his arms outstretched toward a dream that seemed tantalizingly close yet infinitely far away.
+He considered for a moment. Then, with reluctance: “I want to get the
+grass cut,” he said.
+
+We both looked down at the grass—there was a sharp line where my
+ragged lawn ended and the darker, well-kept expanse of his began. I
+suspected that he meant my grass.
+
+“There’s another little thing,” he said uncertainly, and hesitated.
+
+“Would you rather put it off for a few days?” I asked.
+
+“Oh, it isn’t about that. At least—” He fumbled with a series of
+beginnings. “Why, I thought—why, look here, old sport, you don’t make
+much money, do you?”
+
+“Not very much.”
+
+This seemed to reassure him and he continued more confidently.
+
+“I thought you didn’t, if you’ll pardon my—you see, I carry on a
+little business on the side, a sort of side line, you understand. And
+I thought that if you don’t make very much—You’re selling bonds,
+aren’t you, old sport?”
+
+“Trying to.”
+
+“Well, this would interest you. It wouldn’t take up much of your time
+and you might pick up a nice bit of money. It happens to be a rather
+confidential sort of thing.”
+
+I realize now that under different circumstances that conversation
+might have been one of the crises of my life. But, because the offer
+was obviously and tactlessly for a service to be rendered, I had no
+choice except to cut him off there.
+
+“I’ve got my hands full,” I said. “I’m much obliged but I couldn’t
+take on any more work.”
+
+“You wouldn’t have to do any business with **Wolfshiem**.” Evidently he
+thought that I was shying away from the “gonnegtion” mentioned at
+lunch, but I assured him he was wrong. He waited a moment longer,
+hoping I’d begin a conversation, but I was too absorbed to be
+responsive, so he went unwillingly home.
+
+The evening had made me lightheaded and happy; I think I walked into a
+deep sleep as I entered my front door. So I don’t know whether or not
+Gatsby went to Coney Island, or for how many hours he “glanced into
+rooms” while his house blazed gaudily on. I called up Daisy from the
+office next morning, and invited her to come to tea.
+
+“Don’t bring Tom,” I warned her.
+
+“What?”
+
+“Don’t bring Tom.”
+
+“Who is ‘Tom’?” she asked innocently.
+
+The day agreed upon was pouring rain. At eleven o’clock a man in a
+raincoat, dragging a lawn-mower, tapped at my front door and said that
+Mr. Gatsby had sent him over to cut my grass. This reminded me that I
+had forgotten to tell my Finn to come back, so I drove into West Egg
+Village to search for her among soggy whitewashed alleys and to buy
+some cups and lemons and flowers.
+
+The flowers were unnecessary, for at two o’clock a greenhouse arrived
+from Gatsby’s, with innumerable receptacles to contain it. An hour
+later the front door opened nervously, and Gatsby in a white flannel
+suit, silver shirt, and gold-coloured tie, hurried in. He was pale,
+and there were dark signs of sleeplessness beneath his eyes.
+
+“Is everything all right?” he asked immediately.
+
+“The grass looks fine, if that’s what you mean.”
+
+“What grass?” he inquired blankly. “Oh, the grass in the yard.” He
+looked out the window at it, but, judging from his expression, I don’t
+believe he saw a thing.
+
+“Looks very good,” he remarked vaguely. “One of the papers said they
+thought the rain would stop about four. I think it was The
+Journal. Have you got everything you need in the shape of—of tea?”
+
+I took him into the pantry, where he looked a little reproachfully at
+the Finn. Together we scrutinized the twelve lemon cakes from the
+delicatessen shop.
+
+“Will they do?” I asked.
+
+“Of course, of course! They’re fine!” and he added hollowly, “… old
+sport.”
+
+The rain cooled about half-past three to a damp mist, through which
+occasional thin drops swam like dew. Gatsby looked with vacant eyes
+through a copy of **Clay’s Economics**, starting at the Finnish tread that
+shook the kitchen floor, and peering towards the bleared windows from
+time to time as if a series of invisible but alarming happenings were
+taking place outside. Finally he got up and informed me, in an
+uncertain voice, that he was going home.
+
+“Why’s that?”
+
+“Nobody’s coming to tea. It’s too late!” He looked at his watch as if
+there was some pressing demand on his time elsewhere. “I can’t wait
+all day.”
+
+“Don’t be silly; it’s just two minutes to four.”
+
+He sat down miserably, as if I had pushed him, and simultaneously
+there was the sound of a motor turning into my lane. We both jumped
+up, and, a little harrowed myself, I went out into the yard.
+
+Under the dripping bare lilac-trees a large open car was coming up the
+drive. It stopped. Daisy’s face, tipped sideways beneath a
+three-cornered lavender hat, looked out at me with a bright ecstatic
+smile.
+
+“Is this absolutely where you live, my dearest one?”
+
+The exhilarating ripple of her voice was a wild tonic in the rain. I
+had to follow the sound of it for a moment, up and down, with my ear
+alone, before any words came through. A damp streak of hair lay like a
+dash of blue paint across her cheek, and her hand was wet with
+glistening drops as I took it to help her from the car.
+
+“Are you in love with me,” she said low in my ear, “or why did I have
+to come alone?”
+
+“That’s the secret of **Castle Rackrent**. Tell your chauffeur to go far
+away and spend an hour.”
+
+“Come back in an hour, Ferdie.” Then in a grave murmur: “His name is
+Ferdie.”
+
+“Does the gasoline affect his nose?”
+
+“I don’t think so,” she said innocently. “Why?”
+
+We went in. To my overwhelming surprise the living-room was deserted.
+
+“Well, that’s funny,” I exclaimed.
+
+“What’s funny?”
+
+She turned her head as there was a light dignified knocking at the
+front door. I went out and opened it. Gatsby, pale as death, with his
+hands plunged like weights in his coat pockets, was standing in a
+puddle of water glaring tragically into my eyes.
+
+With his hands still in his coat pockets he stalked by me into the
+hall, turned sharply as if he were on a wire, and disappeared into the
+living-room. It wasn’t a bit funny. Aware of the loud beating of my
+own heart I pulled the door to against the increasing rain.
+
+For half a minute there wasn’t a sound. Then from the living-room I
+heard a sort of choking murmur and part of a laugh, followed by
+Daisy’s voice on a clear artificial note:
+
+“I certainly am awfully glad to see you again.”
+
+A pause; it endured horribly. I had nothing to do in the hall, so I
+went into the room.
+
+Gatsby, his hands still in his pockets, was reclining against the
+mantelpiece in a strained counterfeit of perfect ease, even of
+boredom. His head leaned back so far that it rested against the face
+of a **defunct mantelpiece clock**, and from this position his distraught
+eyes stared down at Daisy, who was sitting, frightened but graceful,
+on the edge of a stiff chair.
+
+“We’ve met before,” muttered Gatsby. His eyes glanced momentarily at
+me, and his lips parted with an abortive attempt at a laugh. Luckily
+the clock took this moment to tilt dangerously at the pressure of his
+head, whereupon he turned and caught it with trembling fingers, and
+set it back in place. Then he sat down, rigidly, his elbow on the arm
+of the sofa and his chin in his hand.
+
+“I’m sorry about the clock,” he said.
+
+My own face had now assumed a deep tropical burn. I couldn’t muster up
+a single commonplace out of the thousand in my head.
+
+“It’s an old clock,” I told them idiotically.
+
+I think we all believed for a moment that it had smashed in pieces on
+the floor.
+
+“We haven’t met for many years,” said Daisy, her voice as
+matter-of-fact as it could ever be.
+
+“Five years next November.”
+
+The automatic quality of Gatsby’s answer set us all back at least
+another minute. I had them both on their feet with the desperate
+suggestion that they help me make tea in the kitchen when the demoniac
+Finn brought it in on a tray.
+
+Amid the welcome confusion of cups and cakes a certain physical
+decency established itself. Gatsby got himself into a shadow and,
+while Daisy and I talked, looked conscientiously from one to the other
+of us with tense, unhappy eyes. However, as calmness wasn’t an end in
+itself, I made an excuse at the first possible moment, and got to my
+feet.
+
+“Where are you going?” demanded Gatsby in immediate alarm.
+
+“I’ll be back.”
+
+“I’ve got to speak to you about something before you go.”
+
+He followed me wildly into the kitchen, closed the door, and
+whispered: “Oh, God!” in a miserable way.
+
+“What’s the matter?”
+
+“This is a terrible mistake,” he said, shaking his head from side to
+side, “a terrible, terrible mistake.”
+
+“You’re just embarrassed, that’s all,” and luckily I added: “Daisy’s
+embarrassed too.”
+
+“She’s embarrassed?” he repeated incredulously.
+
+“Just as much as you are.”
+
+“Don’t talk so loud.”
+
+“You’re acting like a little boy,” I broke out impatiently. “Not only
+that, but you’re rude. Daisy’s sitting in there all alone.”
+
+He raised his hand to stop my words, looked at me with unforgettable
+reproach, and, opening the door cautiously, went back into the other
+room.
+
+I walked out the back way—just as Gatsby had when he had made his
+nervous circuit of the house half an hour before—and ran for a huge
+black knotted tree, whose massed leaves made a fabric against the
+rain. Once more it was pouring, and my irregular lawn, well-shaved by
+Gatsby’s gardener, abounded in small muddy swamps and prehistoric
+marshes. There was nothing to look at from under the tree except
+Gatsby’s enormous house, so I stared at it, like **Kant at his church
+steeple**, for half an hour. A brewer had built it early in the “period”
+craze, a decade before, and there was a story that he’d agreed to pay
+five years’ taxes on all the neighbouring cottages if the owners would
+have their roofs thatched with straw. Perhaps their refusal took the
+heart out of his plan to Found a Family—he went into an immediate
+decline. His children sold his house with the black wreath still on
+the door. Americans, while willing, even eager, to be serfs, have
+always been obstinate about being peasantry.
+
+After half an hour, the sun shone again, and the grocer’s automobile
+rounded Gatsby’s drive with the raw material for his servants’
+dinner—I felt sure he wouldn’t eat a spoonful. A maid began opening
+the upper windows of his house, appeared momentarily in each, and,
+leaning from the large central bay, spat meditatively into the
+garden. It was time I went back. While the rain continued it had
+seemed like the murmur of their voices, rising and swelling a little
+now and then with gusts of emotion. But in the new silence I felt that
+silence had fallen within the house too.
+
+I went in—after making every possible noise in the kitchen, short of
+pushing over the stove—but I don’t believe they heard a sound. They
+were sitting at either end of the couch, looking at each other as if
+some question had been asked, or was in the air, and every vestige of
+embarrassment was gone. Daisy’s face was smeared with tears, and when
+I came in she jumped up and began wiping at it with her handkerchief
+before a mirror. But there was a change in Gatsby that was simply
+confounding. He literally glowed; without a word or a gesture of
+exultation a new well-being radiated from him and filled the little
+room.
+
+“Oh, hello, old sport,” he said, as if he hadn’t seen me for years. I
+thought for a moment he was going to shake hands.
+
+“It’s stopped raining.”
+
+“Has it?” When he realized what I was talking about, that there were
+**twinkle-bells of sunshine** in the room, he smiled like a weather man,
+like an ecstatic patron of recurrent light, and repeated the news to
+Daisy. “What do you think of that? It’s stopped raining.”
+
+“I’m glad, Jay.” Her throat, full of aching, grieving beauty, told
+only of her unexpected joy.
+
+“I want you and Daisy to come over to my house,” he said, “I’d like to
+show her around.”
+
+“You’re sure you want me to come?”
+
+“Absolutely, old sport.”
+
+Daisy went upstairs to wash her face—too late I thought with
+humiliation of my towels—while Gatsby and I waited on the lawn.
+
+“My house looks well, doesn’t it?” he demanded. “See how the whole
+front of it catches the light.”
+
+I agreed that it was splendid.
+
+“Yes.” His eyes went over it, every arched door and square tower. “It
+took me just three years to earn the money that bought it.”
+
+“I thought you inherited your money.”
+
+“I did, old sport,” he said automatically, “but I lost most of it in
+the big panic—**the panic of the war**.”
+
+I think he hardly knew what he was saying, for when I asked him what
+business he was in he answered: “That’s my affair,” before he realized
+that it wasn’t an appropriate reply.
+
+“Oh, I’ve been in several things,” he corrected himself. “I was in the
+drug business and then I was in the oil business. But I’m not in
+either one now.” He looked at me with more attention. “Do you mean
+you’ve been thinking over what I proposed the other night?”
+
+Before I could answer, Daisy came out of the house and two rows of
+brass buttons on her dress gleamed in the sunlight.
+
+“That huge place there?” she cried pointing.
+
+“Do you like it?”
+
+“I love it, but I don’t see how you live there all alone.”
+
+“I keep it always full of interesting people, night and day. People
+who do interesting things. Celebrated people.”
+
+Instead of taking the shortcut along the Sound we went down to the
+road and entered by the big postern. With enchanting murmurs Daisy
+admired this aspect or that of the feudal silhouette against the sky,
+admired the gardens, the sparkling odour of jonquils and the frothy
+odour of hawthorn and plum blossoms and the pale gold odour of
+kiss-me-at-the-gate. It was strange to reach the **marble steps** and find
+no stir of bright dresses in and out the door, and hear no sound but
+bird voices in the trees.
+
+And inside, as we wandered through Marie Antoinette music-rooms and
+Restoration Salons, I felt that there were guests concealed behind
+every couch and table, under orders to be breathlessly silent until we
+had passed through. As Gatsby closed the door of “**the Merton College
+Library**” I could have sworn I heard the owl-eyed man break into
+ghostly laughter.
+
+We went upstairs, through period bedrooms swathed in rose and lavender
+silk and vivid with new flowers, through dressing-rooms and poolrooms,
+and bathrooms with sunken baths—intruding into one chamber where a
+dishevelled man in pyjamas was doing liver exercises on the floor. It
+was Mr. Klipspringer, the “boarder.” I had seen him wandering hungrily
+about the beach that morning. Finally we came to Gatsby’s own
+apartment, a bedroom and a bath, and an Adam’s study, where we sat
+down and drank a glass of some **Chartreuse** he took from a cupboard in
+the wall.
+
+He hadn’t once ceased looking at Daisy, and I think he revalued
+everything in his house according to the measure of response it drew
+from her well-loved eyes. Sometimes too, he stared around at his
+possessions in a dazed way, as though in her actual and astounding
+presence none of it was any longer real. Once he nearly toppled down a
+flight of stairs.
+
+His bedroom was the simplest room of all—except where the dresser was
+garnished with a toilet set of pure dull gold. Daisy took the brush
+with delight, and smoothed her hair, whereupon Gatsby sat down and
+shaded his eyes and began to laugh.
+
+“It’s the funniest thing, old sport,” he said hilariously. “I
+can’t—When I try to—”
+
+He had passed visibly through two states and was entering upon a
+third. After his embarrassment and his unreasoning joy he was consumed
+with wonder at her presence. He had been full of the idea so long,
+dreamed it right through to the end, waited with his teeth set, so to
+speak, at an inconceivable pitch of intensity. Now, in the reaction,
+he was running down like an over-wound clock.
+
+Recovering himself in a minute he opened for us two hulking patent
+cabinets which held his massed suits and dressing-gowns and ties, and
+his shirts, piled like bricks in stacks a dozen high.
+
+“I’ve got a man in England who buys me clothes. He sends over a
+selection of things at the beginning of each season, spring and fall.”
+
+He took out a pile of shirts and began throwing them, one by one,
+before us, shirts of sheer linen and thick silk and fine flannel,
+which lost their folds as they fell and covered the table in
+many-coloured disarray. While we admired he brought more and the soft
+rich heap mounted higher—shirts with stripes and scrolls and plaids in
+coral and apple-green and lavender and faint orange, with monograms of
+indian blue. Suddenly, with a strained sound, Daisy bent her head into
+the shirts and began to cry stormily.
+
+“They’re such beautiful shirts,” she sobbed, her voice muffled in the
+thick folds. “It makes me sad because I’ve never seen such—such
+beautiful shirts before.”
+
+------------------------------------------------------------------------
+
+After the house, we were to see the grounds and the swimming pool, and
+the hydroplane, and the midsummer flowers—but outside Gatsby’s window
+it began to rain again, so we stood in a row looking at the corrugated
+surface of the Sound.
+
+“If it wasn’t for the mist we could see your home across the bay,”
+said Gatsby. “You always have a green light that burns all night at
+the end of your dock.”
+
+Daisy put her arm through his abruptly, but he seemed absorbed in what
+he had just said. Possibly it had occurred to him that the colossal
+significance of that light had now vanished forever. Compared to the
+great distance that had separated him from Daisy it had seemed very
+near to her, almost touching her. It had seemed as close as a star to
+the moon. Now it was again a **green light on a dock**. His count of
+enchanted objects had diminished by one.
+
+I began to walk about the room, examining various indefinite objects
+in the half darkness. A large photograph of an elderly man in yachting
+costume attracted me, hung on the wall over his desk.
+
+“Who’s this?”
+
+“That? That’s Mr. Dan Cody, old sport.”
+
+The name sounded faintly familiar.
+
+“He’s dead now. He used to be my best friend years ago.”
+
+There was a small picture of Gatsby, also in yachting costume, on the
+bureau—Gatsby with his head thrown back defiantly—taken apparently
+when he was about eighteen.
+
+“I adore it,” exclaimed Daisy. “The pompadour! You never told me you
+had a pompadour—or a yacht.”
+
+“Look at this,” said Gatsby quickly. “Here’s a lot of clippings—about
+you.”
+
+They stood side by side examining it. I was going to ask to see the
+rubies when the phone rang, and Gatsby took up the receiver.
+
+“Yes … Well, I can’t talk now … I can’t talk now, old sport … I said a
+small town … He must know what a small town is … Well, he’s no use to
+us if Detroit is his idea of a small town …”
+
+He rang off.
+
+“Come here quick!” cried Daisy at the window.
+
+The rain was still falling, but the darkness had parted in the west,
+and there was a pink and golden billow of foamy clouds above the sea.
+
+“Look at that,” she whispered, and then after a moment: “I’d like to
+just get one of those pink clouds and put you in it and push you
+around.”
+
+I tried to go then, but they wouldn’t hear of it; perhaps my presence
+made them feel more satisfactorily alone.
+
+“I know what we’ll do,” said Gatsby, “we’ll have Klipspringer play the
+piano.”
+
+He went out of the room calling “Ewing!” and returned in a few minutes
+accompanied by an embarrassed, slightly worn young man, with
+shell-rimmed glasses and scanty blond hair. He was now decently
+clothed in a “sport shirt,” open at the neck, sneakers, and duck
+trousers of a nebulous hue.
+
+“Did we interrupt your exercise?” inquired Daisy politely.
+
+“I was asleep,” cried Mr. Klipspringer, in a spasm of embarrassment.
+“That is, I’d been asleep. Then I got up …”
+
+“Klipspringer plays the piano,” said Gatsby, cutting him off. “Don’t
+you, Ewing, old sport?”
+
+“I don’t play well. I don’t—hardly play at all. I’m all out of prac—”
+
+“We’ll go downstairs,” interrupted Gatsby. He flipped a switch. The
+grey windows disappeared as the house glowed full of light.
+
+In the music-room Gatsby turned on a solitary lamp beside the piano.
+He lit Daisy’s cigarette from a trembling match, and sat down with her
+on a couch far across the room, where there was no light save what the
+gleaming floor bounced in from the hall.
+
+When Klipspringer had played “**The Love Nest**” he turned around on the
+bench and searched unhappily for Gatsby in the gloom.
+
+“I’m all out of practice, you see. I told you I couldn’t play. I’m all
+out of prac—”
+
+“Don’t talk so much, old sport,” commanded Gatsby. “Play!”
+
+ “In the morning, In the evening, Ain’t we got fun—”
+
+Outside the wind was loud and there was a faint flow of thunder along
+the Sound. All the lights were going on in West Egg now; the electric
+trains, men-carrying, were plunging home through the rain from New
+York. It was the hour of a profound human change, and excitement was
+generating on the air.
+
+ “One thing’s sure and nothing’s surer The rich get richer and the
+ poor get—children. In the meantime, In between time—”
+
+As I went over to say goodbye I saw that the expression of
+bewilderment had come back into Gatsby’s face, as though a faint doubt
+had occurred to him as to the quality of his present happiness. Almost
+five years! There must have been moments even that afternoon when
+Daisy tumbled short of his dreams—not through her own fault, but
+because of the colossal vitality of his illusion. It had gone beyond
+her, beyond everything. He had thrown himself into it with a creative
+passion, adding to it all the time, decking it out with every bright
+feather that drifted his way. No amount of fire or freshness can
+challenge what a man can store up in his ghostly heart.
+
+As I watched him he adjusted himself a little, visibly. His hand took
+hold of hers, and as she said something low in his ear he turned
+toward her with a rush of emotion. I think that voice held him most,
+with its fluctuating, feverish warmth, because it couldn’t be
+over-dreamed—that voice was a **deathless song**.
+
+They had forgotten me, but Daisy glanced up and held out her hand;
+Gatsby didn’t know me now at all. I looked once more at them and they
+looked back at me, remotely, possessed by intense life. Then I went
+out of the room and down the marble steps into the rain, leaving them
+there together.
