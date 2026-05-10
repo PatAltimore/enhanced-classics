@@ -243,6 +243,35 @@
         insertions.push({ after, triggerIdx: idx, html: panels[e.id] });
       }
     });
+    // Spread panels so the reader never goes more than 3 paragraphs without one.
+    // Build the list of paragraph-end positions in the original prose string.
+    const paraEnds = [];
+    for (let pp = 0; ; ) {
+      const pi = prose.indexOf('</p>', pp);
+      if (pi < 0) break;
+      paraEnds.push(pi + 4);
+      pp = pi + 4;
+    }
+    if (paraEnds.length && insertions.length) {
+      // Tag each insertion with the paragraph index it naturally follows.
+      insertions.forEach(ins => {
+        let pi = paraEnds.indexOf(ins.after);
+        if (pi < 0) pi = paraEnds.filter(pe => pe <= ins.after).length - 1;
+        ins.paraIdx = Math.max(0, pi);
+      });
+      // Process in reading order.
+      insertions.sort((a, b) => a.paraIdx !== b.paraIdx ? a.paraIdx - b.paraIdx : a.triggerIdx - b.triggerIdx);
+      let lastPara = -1;
+      insertions.forEach(ins => {
+        let t = ins.paraIdx;
+        if (t - lastPara > 3) t = lastPara + 3;   // close gaps > 3 paragraphs
+        if (t <= lastPara)    t = lastPara + 1;    // stagger same-paragraph clusters
+        t = Math.min(t, paraEnds.length - 1);
+        ins.after = paraEnds[t];
+        lastPara = t;
+      });
+    }
+
     // Insert end-to-start so earlier offsets stay valid; within the same paragraph,
     // insert later triggers first so the first trigger's panel ends up first.
     insertions.sort((a, b) => b.after !== a.after ? b.after - a.after : b.triggerIdx - a.triggerIdx);
@@ -296,6 +325,11 @@
     if (!p) return;
     p.open = !p.open;
     if (p.open) {
+      // Scroll panel into view (handles the case where spreading moved it away
+      // from the trigger paragraph).
+      requestAnimationFrame(function () {
+        p.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      });
       // iOS/WebKit defers painting images inside <details> until a compositing
       // flush occurs. Reading offsetHeight forces that flush.
       // If the image is still downloading when the panel opens, the flush must
@@ -310,6 +344,16 @@
       }
     }
   };
+
+  // Highlight the trigger word whenever its panel is open, and un-highlight when
+  // closed. Using capture-phase toggle (which doesn't bubble) catches both
+  // togglePanel() calls and direct <summary> clicks.
+  document.addEventListener('toggle', function (e) {
+    if (!e.target.classList.contains('enhancement-panel')) return;
+    var id      = e.target.id.replace('panel-', '');
+    var trigger = document.querySelector('.enhance-trigger[onclick="togglePanel(\'' + id + '\')"]');
+    if (trigger) trigger.classList.toggle('enhance-trigger--active', e.target.open);
+  }, true);
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
 

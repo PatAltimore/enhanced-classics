@@ -171,6 +171,11 @@
           "slug": "chapter-01"
         },
         {
+          "number": 1,
+          "title": "Nick Carraway",
+          "slug": "chapter-01-nick-carraway"
+        },
+        {
           "number": 2,
           "title": "The Valley of Ashes",
           "slug": "chapter-02-the-valley-of-ashes"

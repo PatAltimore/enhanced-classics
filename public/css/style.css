@@ -88,8 +88,9 @@ main { padding: 2rem; }
 .prose p { margin-bottom: 1.4em; }
 
 /* Enhancement triggers */
-.enhance-trigger { border-bottom: 2px dotted var(--gold); cursor: pointer; font-weight: 700; }
+.enhance-trigger { border-bottom: 2px dotted var(--gold); cursor: pointer; font-weight: 700; border-radius: 2px; }
 .enhance-trigger:hover { color: var(--accent); }
+.enhance-trigger--active { background: rgba(200, 168, 75, 0.25); border-bottom-style: solid; }
 
 /* Enhancement panels */
 .enhancement-panel { background: transparent; border: none; border-top: 1px solid var(--accent); border-bottom: 1px solid var(--accent); border-radius: 0; margin: 2rem 0; overflow: visible; }
