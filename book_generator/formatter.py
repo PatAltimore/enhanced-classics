@@ -10,8 +10,10 @@ import re
 
 
 def _q(value: str) -> str:
-    """Wrap a string in double quotes, escaping backslashes and inner quotes."""
-    s = str(value).replace("\\", "\\\\").replace('"', '\\"')
+    """Wrap a string in double quotes, escaping backslashes and inner quotes.
+    Collapses whitespace (including newlines) so the value stays on one line."""
+    s = " ".join(str(value).split())
+    s = s.replace("\\", "\\\\").replace('"', '\\"')
     return f'"{s}"'
 
 

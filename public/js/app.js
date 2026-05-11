@@ -189,7 +189,8 @@
             .replace(/[“”]/g, '"')
             .replace(/[–—]/g, '-')
             .replace(/ /g, ' ')
-            .replace(/…/g, '...');
+            .replace(/…/g, '...')
+            .replace(/\n/g, ' ');
   }
 
   function mdToHtml(md, enhancements) {
@@ -200,7 +201,7 @@
     return md.split(/\n\n+/).map(para => {
       let p = para.trim();
       if (!p) return '';
-      p = p.replace(/\*\*(.+?)\*\*/g, (_, text) => {
+      p = p.replace(/\*\*([\s\S]+?)\*\*/g, (_, text) => {
         const normText = normTypo(text);
         const t = triggers.find(tr => normText.includes(normTypo(tr)));
         if (t) return '<span class="enhance-trigger" onclick="togglePanel(\'' + triggerMap[t] + '\')">' + text + '</span>';
@@ -252,8 +253,8 @@
         insertions.push({ after, triggerIdx: idx, html: panels[e.id] });
       }
     });
-    // Spread panels so the reader never goes more than 3 paragraphs without one.
-    // Build the list of paragraph-end positions in the original prose string.
+    // Place each panel after the paragraph containing its trigger word.
+    // Build the list of paragraph-end positions in the rendered prose string.
     const paraEnds = [];
     for (let pp = 0; ; ) {
       const pi = prose.indexOf('</p>', pp);
@@ -262,19 +263,18 @@
       pp = pi + 4;
     }
     if (paraEnds.length && insertions.length) {
-      // Tag each insertion with the paragraph index it naturally follows.
+      // Tag each insertion with the paragraph index of its trigger.
       insertions.forEach(ins => {
         let pi = paraEnds.indexOf(ins.after);
         if (pi < 0) pi = paraEnds.filter(pe => pe <= ins.after).length - 1;
         ins.paraIdx = Math.max(0, pi);
       });
-      // Process in reading order.
+      // Sort in reading order; stagger panels that share the same paragraph.
       insertions.sort((a, b) => a.paraIdx !== b.paraIdx ? a.paraIdx - b.paraIdx : a.triggerIdx - b.triggerIdx);
       let lastPara = -1;
       insertions.forEach(ins => {
         let t = ins.paraIdx;
-        if (t - lastPara > 3) t = lastPara + 3;   // close gaps > 3 paragraphs
-        if (t <= lastPara)    t = lastPara + 1;    // stagger same-paragraph clusters
+        if (t <= lastPara) t = lastPara + 1;   // stagger same-paragraph clusters by 1
         t = Math.min(t, paraEnds.length - 1);
         ins.after = paraEnds[t];
         lastPara = t;
