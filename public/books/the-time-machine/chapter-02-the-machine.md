@@ -9,138 +9,226 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The narrator prepares to test the Time Machine in his laboratory, surrounded by anticipation and skepticism."
+  - point: "The Time Traveller presents a small, intricately designed model of a time machine to his guests."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "The Time Machine is described as a complex invention based on principles of mathematics, geometry, and temporal physics."
-    link: "https://en.wikipedia.org/wiki/Physics"
-    link_label: "Physics"
-  - point: "The narrator experiences his first journey through time, observing the rapid passage of seasons and centuries."
+  - point: "The Psychologist operates the lever, sending the model Time Machine into an apparent journey through time."
     link: "https://en.wikipedia.org/wiki/Time_travel"
     link_label: "Time travel"
-  - point: "The narrator arrives in a distant future and encounters the Eloi, a peaceful and graceful people living in harmony."
-    link: "https://en.wikipedia.org/wiki/Eloi"
-    link_label: "Eloi"
-  - point: "The narrator begins to question the simplicity of the Eloi's existence and suspects hidden complexities in their world."
-    link: "https://en.wikipedia.org/wiki/Utopia"
-    link_label: "Utopia"
-  - point: "The narrator resolves to explore the future further and uncover the secrets of this strange civilization."
-    link: "https://en.wikipedia.org/wiki/Science_fiction"
-    link_label: "Science fiction"
+  - point: "The guests debate whether the machine traveled into the past or future, considering its visibility and movement through time."
+    link: "https://en.wikipedia.org/wiki/Philosophy_of_time"
+    link_label: "Philosophy of time"
+  - point: "The Time Traveller explains the concept of 'presentation below the threshold' to justify the machine's invisibility during its journey."
+    link: "https://en.wikipedia.org/wiki/Persistence_of_vision"
+    link_label: "Persistence of vision"
+  - point: "The group follows the Time Traveller to his laboratory, where they see a larger, nearly complete version of the time machine."
+    link: "https://en.wikipedia.org/wiki/Laboratory"
+    link_label: "Laboratory"
+  - point: "The Time Traveller declares his intent to explore time using the larger machine, leaving his guests skeptical but intrigued."
+    link: "https://en.wikipedia.org/wiki/Exploration"
+    link_label: "Exploration"
 
 enhancements:
-  - id: "mechanical-apparatus"
-    trigger: "mechanical apparatus"
-    title: "The Age of Mechanization"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mechanization"
+  - id: "glittering-metallic-framework"
+    trigger: "glittering metallic framework"
+    title: "Why This Tiny Machine Sparked Big Ideas"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Clock"
     image_url: ""
     image_caption: ""
-    content: "Mechanization refers to the process of using machinery to perform tasks that were once done manually. By the late 19th century, mechanization had revolutionized industries such as manufacturing, agriculture, and transportation, laying the groundwork for the modern technological age. In 'The Time Machine,' the mechanical apparatus symbolizes humanity's ingenuity and its ability to transcend natural limitations. The hum of the machinery in the laboratory reflects the era's fascination with innovation and the belief that technology could unlock new realms of possibility, including the manipulation of time itself."
-  - id: "time-machine"
-    trigger: "Time Machine"
-    title: "H.G. Wells' Time Machine"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: ""
-    image_caption: "H.G. Wells, circa 1920, Wikimedia Commons"
-    content: "The Time Machine is one of H.G. Wells' most iconic creations, serving as both a narrative device and a philosophical symbol. Published in 1895, the novel introduced the concept of time travel as a scientific possibility, influencing countless works of fiction and popularizing the idea of exploring the future. The machine itself, described as a blend of brass, crystal, and ivory, reflects Victorian aesthetics and the era's fascination with intricate craftsmanship. Its design also embodies the intersection of science and imagination, a hallmark of Wells' work. The Time Machine challenges readers to consider the implications of technological progress and humanity's role in shaping its destiny."
-  - id: "mathematics"
-    trigger: "mathematics"
-    title: "Mathematics: Universal Language"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mathematics"
-    image_url: ""
-    image_caption: "Euclid's Elements, Wikimedia Commons"
-    content: "Mathematics is the foundation of scientific inquiry and technological innovation. In 'The Time Machine,' the narrator's reliance on mathematical principles underscores the importance of precision and logic in achieving groundbreaking discoveries. Mathematics has historically been used to model natural phenomena, from planetary motion to the behavior of light. By incorporating mathematical concepts into the design of the Time Machine, Wells highlights the role of abstract reasoning in transcending physical limitations. This connection between mathematics and invention reflects the optimism of the Victorian era, when advancements in science promised to unlock new frontiers."
-  - id: "geometry"
-    trigger: "geometry"
-    title: "Geometry and Spatial Understanding"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Geometry"
-    image_url: ""
-    image_caption: "Euclid, father of geometry, Wikimedia Commons"
-    content: "Geometry, the study of shapes, sizes, and spatial relationships, has been a cornerstone of human understanding since ancient times. In 'The Time Machine,' geometry plays a crucial role in conceptualizing the machine's ability to navigate through time as though it were a physical dimension. The narrator's reference to geometry reflects the Victorian era's fascination with spatial theories and their application to emerging fields like physics and engineering. Geometry's principles have been instrumental in designing everything from architectural marvels to advanced machinery, making it a key element in humanity's quest to manipulate and understand the universe."
-  - id: "temporal-physics"
-    trigger: "temporal physics"
-    title: "Temporal Physics: Time as a Dimension"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time_in_physics"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Spacetime_curvature2.png/330px-Spacetime_curvature2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Cropped version of :Image:Spacetime curvature.png, which is GFDL, and thus can be freey modified. (CC BY-SA 3.0)"
-    content: "Temporal physics explores the nature of time and its relationship to the physical universe. In 'The Time Machine,' Wells anticipates modern theories of time as a dimension akin to space, a concept later formalized in Einstein's theory of relativity. Temporal physics examines phenomena such as time dilation, causality, and the possibility of time travel. By grounding the Time Machine in principles of temporal physics, Wells bridges speculative fiction and scientific theory, inviting readers to consider the profound implications of manipulating time. This field continues to inspire scientific inquiry and philosophical debate about the nature of reality."
-  - id: "non-linear-time"
-    trigger: "non-linear time"
-    title: "Non-Linear Time Theory"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time"
+    content: "When the Time Traveller unveils the model time machine, its glittering metallic framework immediately captures the attention of his guests. The intricate design, with ivory and crystalline components, evokes the craftsmanship of fine clocks and scientific instruments of the Victorian era. During this period, precision engineering was a hallmark of technological progress, symbolizing humanity's mastery over nature and time. The machine’s delicate construction mirrors the era’s fascination with miniaturization and mechanical ingenuity, as seen in pocket watches and automata. By choosing such a design, Wells underscores the paradox of time travel: a monumental concept housed in something deceptively small. The glittering framework is not just a machine; it’s a metaphor for the fragile yet transformative power of human invention."
+  - id: "the-psychologist"
+    trigger: "the Psychologist"
+    title: "Why a Psychologist Was Key to the Scene"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Psychology"
     image_url: ""
     image_caption: ""
-    content: "Non-linear time challenges the conventional view of time as a linear progression from past to future. Instead, it suggests that moments may exist simultaneously or as part of a multidimensional framework. In 'The Time Machine,' the narrator's exploration of non-linear time reflects a departure from traditional notions of chronology, aligning with philosophical and scientific theories that emerged in the late 19th century. This concept has profound implications for understanding causality, free will, and the nature of existence. By incorporating non-linear time into his narrative, Wells invites readers to rethink their perception of reality and the possibilities of human experience."
-  - id: "lever"
-    trigger: "lever"
-    title: "Levers: Simple Machines"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lever"
-    image_url: ""
-    image_caption: "Diagram of a lever, Wikimedia Commons"
-    content: "The lever is one of the six classical simple machines identified by ancient engineers. It operates on the principle of mechanical advantage, allowing a small force to move a larger load. In 'The Time Machine,' the lever symbolizes control and agency, granting the narrator the ability to navigate through time. The inclusion of this simple yet powerful mechanism highlights the interplay between basic engineering principles and advanced scientific concepts. Levers have been fundamental to human innovation, from constructing pyramids to designing modern machinery, making them a fitting metaphor for the transformative power of technology."
-  - id: "dial"
-    trigger: "dial"
-    title: "Dials and Measurement"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dial"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dials_in_USS_Pampanito.jpg/330px-Dials_in_USS_Pampanito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Dials in USS Pampanito (CC BY-SA 4.0)"
-    content: "Dials are devices used to measure and display information, often in the form of graduated markings. In 'The Time Machine,' the dial represents precision and control, allowing the narrator to set specific temporal coordinates for his journey. Dials have been integral to scientific instruments, from early sundials to modern clocks and gauges. Their use in the Time Machine underscores the importance of measurement in scientific exploration, reflecting the Victorian era's emphasis on accuracy and empirical data. The dial serves as a bridge between human intention and technological execution, embodying the quest for mastery over the natural world."
-  - id: "geological-time"
-    trigger: "geological time"
-    title: "Geological Time Scale"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Geologic_time_scale"
-    image_url: ""
-    image_caption: "Geologic time scale chart, Wikimedia Commons"
-    content: "Geological time refers to the vast timescales over which Earth's physical and biological processes occur. In 'The Time Machine,' the narrator witnesses the evolution of landscapes and ecosystems, providing a glimpse into the enormity of geological time. This concept was popularized in the 19th century by geologists like Charles Lyell, whose work challenged traditional views of Earth's history. Geological time emphasizes the gradual and often imperceptible changes that shape the planet, offering a humbling perspective on humanity's place in the universe. Wells uses this idea to evoke awe and underscore the transformative power of time."
-  - id: "buildings"
-    trigger: "buildings"
-    title: "Architecture in the Future"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Architecture"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Future_of_Architecture_Book_2025.jpg/330px-The_Future_of_Architecture_Book_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "mockups-design.com (CC BY 4.0)"
-    content: "Architecture reflects the values, technologies, and aesthetics of a society. In 'The Time Machine,' the buildings of the future are described as ethereal and organic, suggesting a departure from industrial design toward harmony with nature. This vision aligns with utopian ideals and the concept of sustainable architecture, which seeks to minimize environmental impact while enhancing human well-being. The futuristic structures hint at advanced materials and methods, challenging readers to imagine how innovation might reshape the built environment. Wells uses architecture to symbolize the evolution of civilization and its potential to transcend traditional constraints."
-  - id: "people"
-    trigger: "people"
-    title: "The Eloi: Future Humanity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi"
+    content: "The Psychologist plays a pivotal role in this chapter, not just as a character but as a lens through which Wells explores perception and belief. When the Time Traveller asks him to operate the lever, it’s a deliberate choice. Psychology, as a field, was gaining prominence in the late 19th century, with figures like William James and Sigmund Freud probing the mysteries of the human mind. By involving the Psychologist, Wells subtly acknowledges the importance of understanding how people process extraordinary phenomena. The Psychologist’s eventual explanation of 'presentation below the threshold' ties the machine’s invisibility to concepts of sensory perception, grounding the fantastical in emerging scientific theories. His presence reminds readers that the marvels of time travel are as much about belief as mechanics."
+  - id: "model-time-machine"
+    trigger: "model Time Machine"
+    title: "The Prototype That Changed Science Fiction Forever"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time_machine"
     image_url: ""
     image_caption: ""
-    content: "The Eloi are a fictional race depicted in H.G. Wells' 'The Time Machine,' representing humanity's distant future. They are characterized by their grace, simplicity, and apparent lack of struggle, living in a world of abundance and harmony. However, their existence raises questions about the consequences of technological and social evolution. Wells uses the Eloi to explore themes of degeneration and the potential pitfalls of utopia, suggesting that the absence of adversity may lead to stagnation. The Eloi serve as a mirror for humanity's aspirations and fears, challenging readers to consider the balance between progress and resilience."
+    content: "When the model Time Machine vanishes before the guests’ eyes, it marks a turning point in literature. This small prototype embodies the concept of time travel, a notion that had been explored in myth but rarely in science fiction. Wells’s innovation was to treat time travel as a mechanical process, akin to locomotion or flight. The model’s disappearance, accompanied by flickering flames and a ghostly shimmer, is both a dramatic spectacle and a philosophical statement. It suggests that time is not an abstract continuum but a dimension that can be navigated. By introducing the model first, Wells builds suspense and credibility, preparing readers for the larger machine and the adventures to come. This moment is the seed from which countless time-travel narratives have grown."
+  - id: "ghost-for-a-second"
+    trigger: "ghost for a second"
+    title: "The Science Behind the Machine’s Vanishing Act"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Optical_illusion"
+    image_url: ""
+    image_caption: ""
+    content: "As the model Time Machine disappears, it briefly appears as a ghostly shimmer—a moment that blends science and spectacle. This description taps into the Victorian fascination with optics and illusions, technologies that were revolutionizing entertainment and science. The 'ghost' effect could evoke phenomena like persistence of vision, where rapid motion creates the illusion of continuity, or diffraction, where light bends around objects. Wells uses this fleeting image to make the implausible seem plausible, grounding the fantastical in the language of science. The ghostly shimmer also serves as a metaphor for the ephemeral nature of time itself, a fleeting presence that can be glimpsed but never fully grasped."
+  - id: "presentation-below-the-threshold"
+    trigger: "presentation below the threshold"
+    title: "The Psychology Trick That Explains Time Travel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Threshold_(psychology)"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller’s explanation of 'presentation below the threshold' is a clever nod to psychological theories of perception. In the late 19th century, scientists were exploring how stimuli below the conscious threshold could still influence the mind—a precursor to modern ideas about subliminal messaging. By invoking this concept, Wells gives a scientific veneer to the machine’s invisibility, suggesting that its rapid movement through time renders it imperceptible. This idea ties into broader themes of the novel, where the boundaries of human perception are constantly challenged. The phrase also highlights the interplay between science and imagination, showing how Wells uses emerging theories to make the impossible seem plausible."
+  - id: "the-laboratory"
+    trigger: "the laboratory"
+    title: "Where Victorian Science Met Science Fiction"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Laboratory"
+    image_url: ""
+    image_caption: ""
+    content: "The laboratory, where the larger time machine resides, is a quintessential setting for Victorian science fiction. Laboratories were symbols of progress and discovery, places where the mysteries of nature were unraveled. Wells’s description of the room, with its flickering lamp and shadowy corners, evokes both the excitement and the eeriness of scientific exploration. The unfinished crystalline bars and detailed drawings suggest meticulous craftsmanship, grounding the fantastical machine in the real-world practices of engineering and experimentation. By situating the machine in a laboratory, Wells bridges the gap between science and fiction, making the extraordinary seem achievable. The setting also underscores the novel’s central tension: the promise of technology versus its potential to disrupt the natural order."
+  - id: "twisted-crystalline-bars"
+    trigger: "twisted crystalline bars"
+    title: "Why Quartz Became the Heart of the Machine"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Quartz"
+    image_url: ""
+    image_caption: ""
+    content: "The twisted crystalline bars, described as quartz, are a striking detail in the construction of the larger time machine. Quartz, known for its piezoelectric properties, was a material of fascination in the 19th century, used in early experiments with electricity and optics. Its inclusion in the machine suggests a connection to energy transmission and precision, aligning with the novel’s themes of harnessing natural forces for extraordinary purposes. The twisted form adds a sense of dynamism, hinting at the machine’s ability to manipulate time’s flow. This detail not only enhances the machine’s plausibility but also reflects Wells’s ability to weave scientific intrigue into his storytelling, making the fantastical seem grounded in real-world possibilities."
+  - id: "explore-time"
+    trigger: "explore time"
+    title: "What It Means to Journey Through Time"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time_travel"
+    image_url: ""
+    image_caption: ""
+    content: "When the Time Traveller declares his intent to 'explore time,' he redefines the concept of exploration itself. In the Victorian era, exploration was synonymous with charting unknown lands and expanding the boundaries of empire. Wells takes this idea and turns it inward, suggesting that the ultimate frontier is not physical but temporal. To explore time is to confront the mysteries of existence, from the origins of life to the fate of humanity. This ambition reflects the novel’s broader themes of curiosity and the limits of human understanding. By framing time travel as exploration, Wells elevates his protagonist’s journey from a scientific experiment to a philosophical quest, inviting readers to ponder the nature of progress and the passage of time."
 ---
-As I settled myself in the laboratory, the fire flickering low and casting distorted shadows upon the walls, I felt the weight of anticipation pressing upon me. The room was silent but for the faint hum of the **mechanical apparatus** that had consumed so many of my waking thoughts. Before me stood the culmination of years of labor and speculation, the **Time Machine** itself—a curious amalgamation of polished brass, crystalline rods, and delicately wrought ivory. It seemed at once impossibly intricate and yet reassuringly solid, as though it were a mechanism destined to outlast the frailty of mankind.
+The thing the Time Traveller held in his hand was a **glittering metallic
+framework**, scarcely larger than a small clock, and very delicately
+made. There was ivory in it, and some transparent crystalline
+substance. And now I must be explicit, for this that follows—unless his
+explanation is to be accepted—is an absolutely unaccountable thing. He
+took one of the small octagonal tables that were scattered about the
+room, and set it in front of the fire, with two legs on the hearthrug.
+On this table he placed the mechanism. Then he drew up a chair, and sat
+down. The only other object on the table was a small shaded lamp, the
+bright light of which fell upon the model. There were also perhaps a
+dozen candles about, two in brass candlesticks upon the mantel and
+several in sconces, so that the room was brilliantly illuminated. I sat
+in a low arm-chair nearest the fire, and I drew this forward so as to
+be almost between the Time Traveller and the fireplace. Filby sat
+behind him, looking over his shoulder. The Medical Man and the
+Provincial Mayor watched him in profile from the right, the
+Psychologist from the left. The Very Young Man stood behind the
+Psychologist. We were all on the alert. It appears incredible to me
+that any kind of trick, however subtly conceived and however adroitly
+done, could have been played upon us under these conditions.
 
-The machine’s design was no mere whimsy of invention; it was a careful orchestration of principles drawn from **mathematics**, **geometry**, and the nascent field of **temporal physics**. Around its base were discs set with graduated markings, each representing the passage of hours, days, and centuries. I had studied the theories of **non-linear time**, postulating that moments might exist not as a forward march but as a boundless plane upon which one might navigate like a mariner upon the sea. This was no mere conjecture, but the foundation upon which the machine had been built.
+The Time Traveller looked at us, and then at the mechanism. “Well?”
+said **the Psychologist**.
 
-In my hand, I held the **lever**, a small but pivotal piece of the apparatus—not unlike the tiller of a ship—that would grant me agency over the flow of time itself. For weeks I had deliberated over the details of its operation, testing its mechanisms in small increments, allowing myself glimpses of seconds or minutes ahead. But this evening I resolved to push farther, to venture beyond the boundaries of the familiar into realms unimagined.
+“This little affair,” said the Time Traveller, resting his elbows upon
+the table and pressing his hands together above the apparatus, “is only
+a model. It is my plan for a machine to travel through time. You will
+notice that it looks singularly askew, and that there is an odd
+twinkling appearance about this bar, as though it was in some way
+unreal.” He pointed to the part with his finger. “Also, here is one
+little white lever, and here is another.”
 
-My friends, who had gathered here the previous night, had dismissed my machine with a mixture of disbelief and indulgent amusement. Their skepticism, though irritating, was an old companion. To their credit, they were men of reason and intellect, accustomed to grounding their thoughts in the tangible and the observable. Yet what I proposed—that time itself could be traversed as space—is a notion that defies ordinary experience. **Filby**, with his ruddy face and irrepressible laughter, had been the loudest in his derision. "You’re mad, man!" he had exclaimed, clapping me on the shoulder. "You’ll ruin yourself with such fantasies!"
+The Medical Man got up out of his chair and peered into the thing.
+“It’s beautifully made,” he said.
 
-But here now, alone in the dim quiet of my laboratory, I felt no madness in my resolve—only the steady pulse of curiosity that had guided me through years of inquiry. I adjusted the **dial**, setting it to an hour hence, and paused. The faint ticking of the clock on the mantelpiece seemed amplified in the stillness. Then, with a deliberate motion, I pressed the lever forward.
+“It took two years to make,” retorted the Time Traveller. Then, when we
+had all imitated the action of the Medical Man, he said: “Now I want
+you clearly to understand that this lever, being pressed over, sends
+the machine gliding into the future, and this other reverses the
+motion. This saddle represents the seat of a time traveller. Presently
+I am going to press the lever, and off the machine will go. It will
+vanish, pass into future Time, and disappear. Have a good look at the
+thing. Look at the table too, and satisfy yourselves there is no
+trickery. I don’t want to waste this model, and then be told I’m a
+quack.”
 
-A peculiar sensation overtook me immediately. The room around me seemed to blur, the edges of objects trembling as though seen through rippling water. The fire in the grate appeared to stand still, its flames frozen mid-leap. And yet, I was aware that I was moving—not in the physical sense, but along the axis of time itself. The laboratory shifted subtly, the shadows lengthening and contracting as the hours advanced and retreated.
+There was a minute’s pause perhaps. The Psychologist seemed about to
+speak to me, but changed his mind. Then the Time Traveller put forth
+his finger towards the lever. “No,” he said suddenly. “Lend me your
+hand.” And turning to the Psychologist, he took that individual’s hand
+in his own and told him to put out his forefinger. So that it was the
+Psychologist himself who sent forth the **model Time Machine** on its
+interminable voyage. We all saw the lever turn. I am absolutely certain
+there was no trickery. There was a breath of wind, and the lamp flame
+jumped. One of the candles on the mantel was blown out, and the little
+machine suddenly swung round, became indistinct, was seen as a **ghost
+for a second** perhaps, as an eddy of faintly glittering brass and ivory;
+and it was gone—vanished! Save for the lamp the table was bare.
 
-I pulled the lever back to its original position, and the world returned to normalcy. The mantel clock read precisely the hour I had set upon the dial. A thrill coursed through me, a validation of all I had dared to dream. Yet this was but the smallest leap—a mere toe dipped into the ocean of possibilities. What lay before me was vast and unknowable, and I burned to explore it.
+Everyone was silent for a minute. Then Filby said he was damned.
 
-My heart raced as I prepared for a greater journey. I set the dial to a century ahead, my fingers trembling slightly as they adjusted the delicate calibrations. This time, as I pressed the lever forward, the sensation was more pronounced. The laboratory seemed to dissolve around me, the walls and furnishings fading into streaks of light and color. The ticking of the clock became a faint hum, then vanished altogether.
+The Psychologist recovered from his stupor, and suddenly looked under
+the table. At that the Time Traveller laughed cheerfully. “Well?” he
+said, with a reminiscence of the Psychologist. Then, getting up, he
+went to the tobacco jar on the mantel, and with his back to us began to
+fill his pipe.
 
-I was aware of motion, though I felt no wind upon my skin nor resistance to my passage. The world outside the laboratory window transformed in a series of rapid tableaux. I glimpsed the seasons turning in frantic succession—spring blossoms giving way to summer heat, autumn leaves swirling into winter snow. The sun rose and fell with dizzying speed, and the shadows of trees danced like specters in the shifting light.
+We stared at each other. “Look here,” said the Medical Man, “are you in
+earnest about this? Do you seriously believe that that machine has
+travelled into time?”
 
-I pressed onward, the centuries flying by in a cascade of blurred impressions. Cities rose and fell in an instant; great towers of steel and glass appeared and vanished, replaced by structures stranger and more alien than I could have imagined. The landscape itself seemed to evolve, the contours of hills and rivers shifting as though shaped by an unseen hand. I had entered a realm where **geological time** unfolded before my eyes, and the enormity of it filled me with awe.
+“Certainly,” said the Time Traveller, stooping to light a spill at the
+fire. Then he turned, lighting his pipe, to look at the Psychologist’s
+face. (The Psychologist, to show that he was not unhinged, helped
+himself to a cigar and tried to light it uncut.) “What is more, I have
+a big machine nearly finished in there”—he indicated the
+laboratory—“and when that is put together I mean to have a journey on
+my own account.”
 
-Suddenly, I felt the machine shudder, a faint tremor in its mechanisms that alerted me to the need for caution. I slowed my progress, easing the lever back to a gentler setting. The world around me began to stabilize, the blur of motion resolving into discernible shapes. I found myself in a place wholly unfamiliar—a landscape of rolling meadows and distant mountains, bathed in golden light. The air was sweet and warm, carrying with it the faint scent of blossoms.
+“You mean to say that that machine has travelled into the future?” said
+Filby.
 
-I stepped out of the machine, my feet sinking into soft grass. The sky above was a luminous expanse, tinged with hues of pink and violet. In the distance, I could see structures scattered across the landscape—**buildings**, but unlike any I had known. They were delicate and ethereal, their forms suggesting a fusion of art and architecture that seemed almost organic. Where was I? Or rather, when?
+“Into the future or the past—I don’t, for certain, know which.”
 
-As I surveyed my surroundings, I became aware of figures moving among the meadows—**people**, if they could be called such. They were slight and graceful, their movements fluid and unhurried. Their clothing was simple yet elegant, woven from materials that shimmered faintly in the sunlight. They seemed to exist in a state of effortless harmony, their faces serene and untroubled.
+After an interval the Psychologist had an inspiration. “It must have
+gone into the past if it has gone anywhere,” he said.
 
-I approached them cautiously, my presence drawing their attention. They regarded me with curiosity, their eyes wide and luminous. One stepped forward—a young woman, or so I judged her to be. She spoke in a language I could not understand, a musical cadence that seemed to flow like water. Though her words were foreign, her tone was welcoming. I gestured to the machine behind me, attempting to convey its significance.
+“Why?” said the Time Traveller.
 
-We exchanged looks of mutual incomprehension, but there was no hostility in their demeanor. They beckoned me to follow, leading me toward one of the nearby buildings. As I walked among them, I felt a strange sense of disquiet. Their world was beautiful, yet there was an unsettling quality to their simplicity. Was this utopia or stagnation? Had humanity ascended—or descended?
+“Because I presume that it has not moved in space, and if it travelled
+into the future it would still be here all this time, since it must
+have travelled through this time.”
 
-The structure they led me to was a marvel of design, its walls formed of a material that seemed to glow faintly in the ambient light. Within, I found myself surrounded by objects that defied immediate explanation—tools and artifacts that hinted at advanced knowledge, yet bore no marks of industry or labor. The people moved among these things with casual ease, their gestures light and deliberate. I felt as though I had stumbled upon the remnants of a dream, a vision of life unburdened by the struggles of survival.
+“But,” said I, “If it travelled into the past it would have been
+visible when we came first into this room; and last Thursday when we
+were here; and the Thursday before that; and so forth!”
 
-And yet, questions gnawed at me. Where was the machinery that had built this world? Where were the signs of toil and innovation? The absence of such things suggested a history unlike our own—a divergence that I could neither fathom nor ignore. I resolved to learn more, to probe the depths of this future and uncover its secrets.
+“Serious objections,” remarked the Provincial Mayor, with an air of
+impartiality, turning towards the Time Traveller.
 
-As the sun dipped below the horizon, casting the landscape in shades of twilight, I felt the weight of exhaustion settle upon me. The people—these **Eloi**, as I later came to call them—provided me with food and a place to rest. Their provisions were simple yet satisfying, a testament to the abundance of their world. But as I drifted into sleep, I could not shake the feeling that beneath this surface of tranquility lay something darker, something hidden.
+“Not a bit,” said the Time Traveller, and, to the Psychologist: “You
+think. _You_ can explain that. It’s **presentation below the threshold**,
+you know, diluted presentation.”
 
-Tomorrow, I resolved, I would explore further. The **Time Machine** had carried me to this strange and wondrous place, and I would not squander the opportunity to understand it. What future had mankind wrought? And what role had I played in its unfolding? These questions burned within me, their answers tantalizingly out of reach.
+“Of course,” said the Psychologist, and reassured us. “That’s a simple
+point of psychology. I should have thought of it. It’s plain enough,
+and helps the paradox delightfully. We cannot see it, nor can we
+appreciate this machine, any more than we can the spoke of a wheel
+spinning, or a bullet flying through the air. If it is travelling
+through time fifty times or a hundred times faster than we are, if it
+gets through a minute while we get through a second, the impression it
+creates will of course be only one-fiftieth or one-hundredth of what it
+would make if it were not travelling in time. That’s plain enough.” He
+passed his hand through the space in which the machine had been. “You
+see?” he said, laughing.
+
+We sat and stared at the vacant table for a minute or so. Then the Time
+Traveller asked us what we thought of it all.
+
+“It sounds plausible enough tonight,” said the Medical Man; “but wait
+until tomorrow. Wait for the common sense of the morning.”
+
+“Would you like to see the Time Machine itself?” asked the Time
+Traveller. And therewith, taking the lamp in his hand, he led the way
+down the long, draughty corridor to his laboratory. I remember vividly
+the flickering light, his queer, broad head in silhouette, the dance of
+the shadows, how we all followed him, puzzled but incredulous, and how
+there in **the laboratory** we beheld a larger edition of the little
+mechanism which we had seen vanish from before our eyes. Parts were of
+nickel, parts of ivory, parts had certainly been filed or sawn out of
+rock crystal. The thing was generally complete, but the **twisted
+crystalline bars** lay unfinished upon the bench beside some sheets of
+drawings, and I took one up for a better look at it. Quartz it seemed
+to be.
+
+“Look here,” said the Medical Man, “are you perfectly serious? Or is
+this a trick—like that ghost you showed us last Christmas?”
+
+“Upon that machine,” said the Time Traveller, holding the lamp aloft,
+“I intend to **explore time**. Is that plain? I was never more serious in
+my life.”
+
+None of us quite knew how to take it.
+
+I caught Filby’s eye over the shoulder of the Medical Man, and he
+winked at me solemnly.

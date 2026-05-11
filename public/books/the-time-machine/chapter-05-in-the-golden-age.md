@@ -9,119 +9,233 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The narrator observes the peaceful yet peculiar world of the Eloi, a seemingly idyllic society lacking curiosity and ambition."
+  - point: "The Time Traveller encounters the Eloi, fragile and gentle beings from the distant future."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "The Eloi's existence hints at a degeneration from a once-great civilization, raising questions about their history and purpose."
-    link: "https://en.wikipedia.org/wiki/Degeneration"
-    link_label: "Degeneration"
-  - point: "The narrator meets Weena, an Eloi who displays more curiosity than her peers, but struggles to communicate due to language barriers."
-    link: "https://en.wikipedia.org/wiki/Weena"
-    link_label: "Weena"
-  - point: "The narrator discovers the wells scattered across the landscape, which seem ominous and connected to the Eloi's nighttime fear."
-    link: "https://en.wikipedia.org/wiki/The_Time_Machine#Plot_summary"
-    link_label: "Plot summary of The Time Machine"
-  - point: "The Morlocks, subterranean creatures, emerge from the wells at night, revealing a darker side to the Eloi's world."
-    link: "https://en.wikipedia.org/wiki/Morlock"
-    link_label: "Morlocks"
-  - point: "The narrator resolves to uncover the mysteries of this divided world, exploring the relationship between the Eloi and Morlocks."
-    link: "https://en.wikipedia.org/wiki/Social_darwinism"
-    link_label: "Social Darwinism"
+  - point: "The Eloi communicate in a sweet and liquid tongue, which the Time Traveller struggles to understand."
+    link: "https://en.wikipedia.org/wiki/Language"
+    link_label: "Language"
+  - point: "The Eloi's appearance is described as having a Dresden china type of prettiness, emphasizing their delicate features."
+    link: "https://en.wikipedia.org/wiki/Dresden_porcelain"
+    link_label: "Dresden porcelain"
+  - point: "The Eloi present the Time Traveller with a chain of beautiful flowers, showcasing their playful and artistic nature."
+    link: "https://en.wikipedia.org/wiki/Floral_design"
+    link_label: "Floral design"
+  - point: "The Time Traveller observes a sphinx of white marble, hinting at the mysterious and ancient qualities of the future world."
+    link: "https://en.wikipedia.org/wiki/Sphinx"
+    link_label: "Sphinx"
+  - point: "The Time Traveller notes old Phoenician decorations in the architecture, suggesting remnants of ancient civilizations."
+    link: "https://en.wikipedia.org/wiki/Phoenicia"
+    link_label: "Phoenicia"
 
 enhancements:
-  - id: "this-strange-world"
-    trigger: "this strange world"
-    title: "The Future Earth in Fiction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Science_and_Invention_Feb_1922_pg905_-_Cities_of_the_Future.jpg/330px-Science_and_Invention_Feb_1922_pg905_-_Cities_of_the_Future.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Science and Invention Feb 1922 pg905 - Cities of the Future (Public domain)"
-    content: "The phrase 'this strange world' refers to the distant future Earth that the Time Traveler visits in H.G. Wells' 'The Time Machine.' This world is characterized by its stark division between the Eloi, a surface-dwelling, carefree race, and the Morlocks, subterranean creatures who emerge at night. Wells uses this setting to explore themes of societal evolution, decay, and the consequences of unchecked class divisions. The depiction of this future Earth reflects Victorian anxieties about industrialization, social stratification, and humanity's trajectory. It serves as a cautionary tale, urging readers to consider the long-term implications of their actions and societal structures."
-  - id: "eloi"
-    trigger: "Eloi"
-    title: "The Eloi: Fragile Future Humanity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi"
-    image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Eloi are one of the two distinct races in the future Earth depicted in 'The Time Machine.' Representing the surface-dwelling descendants of humanity, they live in an idyllic yet stagnant society, devoid of ambition, intellect, or curiosity. Their frailty and simplicity contrast sharply with the industrious and predatory Morlocks. Wells uses the Eloi to critique the potential consequences of excessive comfort and the erosion of human resilience. Their existence symbolizes the dangers of societal complacency and the loss of progress, serving as a mirror to Victorian fears about the future of humanity."
-  - id: "a-degeneration"
-    trigger: "a degeneration"
-    title: "Degeneration Theory in Victorian Era"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Degeneration"
+  - id: "liquid-tongue"
+    trigger: "liquid tongue"
+    title: "Could Eloi Language Be More Than Words?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Language"
     image_url: ""
     image_caption: ""
-    content: "The concept of 'degeneration' was a prominent scientific and cultural idea during the Victorian era, suggesting that societies or species could regress rather than progress. In 'The Time Machine,' Wells explores this idea through the Eloi, who appear to have descended from a once-great civilization into a state of intellectual and physical decline. This reflects fears of societal decay due to industrialization, class disparity, and the erosion of moral and intellectual rigor. Degeneration theory was influential in shaping debates about evolution, eugenics, and social responsibility during Wells' time."
-  - id: "the-golden-age"
-    trigger: "the Golden Age"
-    title: "The Golden Age Concept"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Golden_Age_(mythology)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Girl_with_a_Pearl_Earring.jpg/330px-Girl_with_a_Pearl_Earring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Girl with a Pearl Earring (Public domain)"
-    content: "The term 'Golden Age' traditionally refers to a mythical period of peace, prosperity, and harmony, often idealized in literature and philosophy. In 'The Time Machine,' Wells ironically uses this term to describe the Eloi's world, which appears idyllic but hides stagnation and decay. The juxtaposition challenges the notion of utopia, suggesting that a lack of struggle and ambition can lead to societal decline. Wells critiques the idea that material abundance alone can sustain a thriving civilization, emphasizing the importance of intellectual and cultural growth."
-  - id: "strange-flowers"
-    trigger: "strange flowers"
-    title: "Symbolism of Strange Flowers"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Flower"
+    content: "When the Time Traveller first hears the Eloi speak, their language strikes him as a \"liquid tongue,\" strange and sweet. This description evokes a sense of fluidity and musicality, suggesting that their communication might be as much about tone and rhythm as it is about meaning. Linguists have long studied how languages evolve over time, and some theorize that tonal languages, like Mandarin or Yoruba, might have emerged from environments where pitch played a crucial role in communication. Could the Eloi's language be a distant descendant of such tonal systems, refined into pure melody? Or does its liquid quality reflect a society where words are secondary to emotional resonance? Wells uses this detail to unsettle the Time Traveller—and the reader—by presenting a future where intellect and precision seem to have given way to simplicity and beauty. This moment challenges our assumptions about progress, asking whether the future might prioritize harmony over complexity."
+  - id: "dresden-china-type-of-prettiness"
+    trigger: "Dresden china type of prettiness"
+    title: "Why Dresden Porcelain Became a Symbol of Fragility"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dresden_porcelain"
     image_url: ""
     image_caption: ""
-    content: "The 'strange flowers' offered by Weena symbolize the alien beauty and mystery of the Eloi's world. Flowers often represent fragility, transience, and the passage of time, themes central to 'The Time Machine.' Their shimmering, opalescent petals evoke the surreal and otherworldly nature of the future Earth. The flowers also serve as a bridge between the Time Traveler and the Eloi, highlighting the potential for connection despite cultural and temporal divides. Wells uses this imagery to underscore the novel's exploration of beauty, decay, and the fleeting nature of human achievement."
-  - id: "weena"
-    trigger: "Weena"
-    title: "Weena: A Symbol of Innocence"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Weena"
+    content: "The Time Traveller describes the Eloi as having a \"Dresden china type of prettiness,\" likening their delicate features to the famed porcelain figurines of 18th-century Germany. Dresden porcelain, celebrated for its intricate craftsmanship and fragile beauty, was often adorned with floral motifs and pastel colors, embodying an idealized vision of grace and refinement. But its fragility also made it a metaphor for vulnerability—a quality the Eloi seem to embody both physically and intellectually. By invoking this comparison, Wells draws a parallel between the Eloi's aesthetic perfection and their apparent lack of resilience. This detail deepens the Time Traveller's growing disappointment with the future, as he realizes that the elegance of these beings masks a troubling absence of strength or curiosity. The Eloi's porcelain-like existence becomes a poignant critique of a society that has sacrificed substance for surface."
+  - id: "chain-of-beautiful-flowers"
+    trigger: "chain of beautiful flowers"
+    title: "The Eloi's Floral Gift: A Gesture or a Warning?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Floral_design"
     image_url: ""
     image_caption: ""
-    content: "Weena is an Eloi who forms a bond with the Time Traveler, representing the innocence and vulnerability of her race. Her curiosity and willingness to engage with the Time Traveler set her apart from the other Eloi, highlighting the potential for individuality even in a stagnant society. Weena's interactions with the Time Traveler provide emotional depth to the story, emphasizing themes of compassion and the human need for connection. Her eventual fate underscores the fragility of the Eloi and serves as a poignant reminder of the darker realities of their world."
-  - id: "time"
-    trigger: "Time"
-    title: "Time as a Central Theme"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time"
+    content: "When the Eloi drape a chain of beautiful flowers around the Time Traveller's neck, the gesture seems playful and innocent. Yet flowers have long carried symbolic weight in human cultures, from the Victorian language of flowers to their use in rituals and ceremonies. Could the Eloi's floral garland signify more than mere decoration? In a world where nature has been cultivated to extremes, the flowers might represent the Eloi's connection to their environment—or their dependence on it. Wells describes the blossoms as \"delicate and wonderful,\" hinting at a future where nature has been shaped by countless generations of human influence. This moment underscores the Eloi's aesthetic sensibilities but also raises questions about their priorities. Are they celebrating the Time Traveller, or are they unconsciously revealing their own fragility, wrapped in the beauty of a world they no longer understand?"
+  - id: "sphinx-of-white-marble"
+    trigger: "sphinx of white marble"
+    title: "Why Does the Sphinx Smile in the Future?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sphinx"
     image_url: ""
     image_caption: ""
-    content: "Time is the central theme of H.G. Wells' 'The Time Machine,' explored both as a scientific concept and a philosophical idea. The Eloi's perception of time as a gentle, unending river contrasts sharply with the Time Traveler's understanding of its complexity and significance. Wells uses time to examine the evolution and eventual fate of humanity, questioning whether progress is inevitable or if stagnation and decay are equally possible outcomes. The novel's exploration of time challenges readers to consider their place in history and the long-term consequences of their actions."
-  - id: "wells"
-    trigger: "wells"
-    title: "The Wells: Portals to Darkness"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine#Plot_summary"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/D%C3%BClmen%2C_St.-Viktor-Kirche%2C_Eingangsportal_--_2021_--_4504-10.jpg/330px-D%C3%BClmen%2C_St.-Viktor-Kirche%2C_Eingangsportal_--_2021_--_4504-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Dülmen, St.-Viktor-Kirche, Eingangsportal -- 2021 -- 4504-10 (CC BY-SA 4.0)"
-    content: "The wells scattered across the Eloi's landscape are ominous structures that serve as entrances to the subterranean world of the Morlocks. Initially dismissed as remnants of ancient architecture, they later reveal the darker side of the Eloi's existence. The wells symbolize the hidden depths of this future society, where beauty and terror coexist. They also represent the divide between the surface and underground worlds, mirroring the class divisions Wells critiques in the novel. Their chilling presence adds an element of suspense and foreshadows the horrors that lie beneath the surface."
-  - id: "morlocks"
-    trigger: "Morlocks"
-    title: "The Morlocks: Subterranean Predators"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
+    content: "As the Time Traveller approaches the vast grey edifice, he passes a \"sphinx of white marble,\" its enigmatic smile seeming to watch him. The sphinx, a creature of myth known for its riddles, has long symbolized mystery and the unknown. In ancient Egypt, it guarded temples and tombs, while in Greek mythology, it posed deadly questions to travelers. What does its presence in Wells's future signify? The marble sphinx might represent the inscrutability of the Eloi's world—a civilization that appears idyllic but hides deeper truths. Its smile could be a silent challenge, urging the Time Traveller to uncover the secrets of this strange era. By placing the sphinx in this futuristic landscape, Wells evokes a sense of continuity between past and future, suggesting that humanity's quest for understanding remains eternal, even as civilizations rise and fall."
+  - id: "old-phoenician-decorations"
+    trigger: "old Phœnician decorations"
+    title: "What Ancient Phoenicians Left Behind for the Eloi"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Phoenicia"
     image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Morlocks are the subterranean counterparts to the Eloi in 'The Time Machine,' representing the darker side of humanity's future. They are pale, hunched creatures who emerge at night, preying on the Eloi and maintaining the machinery that sustains the surface world. Wells uses the Morlocks to critique industrialization and the exploitation of the working class, drawing parallels to Victorian-era social issues. Their existence highlights the consequences of extreme class division and the dehumanization of labor. The Morlocks embody fear, survival, and the darker instincts of humanity, serving as a stark contrast to the Eloi's innocence."
-  - id: "land-of-light-and-shadow"
-    trigger: "land of light and shadow"
-    title: "Duality in the Future World"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Duality"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/The_world%27s_meat_future._An_account_of_the_live_stock_position_and_meat_prospects_of_all_leading_stock_countries_of_the_world%2C_with_full_lists_of_freezing_works_%281918%29_%2814778914451%29.jpg/330px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The world's meat future. An account of the live stock position and meat prospects of all leading stock countries of the world, with full lists of freezing works (1918) (14778914451) (No restrictions)"
-    content: "The phrase 'land of light and shadow' encapsulates the duality of the future Earth in 'The Time Machine.' The surface world of the Eloi is bright, beautiful, and seemingly idyllic, while the underground realm of the Morlocks is dark, oppressive, and predatory. This duality reflects Wells' exploration of societal divisions, contrasting innocence and decay, beauty and terror, and privilege and exploitation. The interplay between light and shadow serves as a metaphor for the complexities of human civilization, urging readers to confront the hidden consequences of societal structures and progress."
+    image_caption: ""
+    content: "As the Time Traveller enters the colossal building, he notices carvings that remind him of \"old Phœnician decorations,\" though they are badly weather-worn. The Phoenicians, an ancient maritime civilization, were renowned for their artistry and trade networks, spreading their influence across the Mediterranean. Their decorative motifs often featured intricate patterns, mythological figures, and symbols of nature, reflecting their cultural richness. The presence of such designs in the Eloi's world raises intriguing questions: Are these remnants of a long-lost civilization, preserved through millennia? Or has humanity, in its decline, repurposed ancient aesthetics without understanding their origins? Wells uses this detail to suggest a future where history has been forgotten, leaving only fragments of past grandeur. The worn carvings become a metaphor for the Eloi themselves—beautiful but eroded, a faint echo of humanity's once-vibrant legacy."
+  - id: "stained-glass-windows"
+    trigger: "stained-glass windows"
+    title: "Why Stained Glass Endures in a Dilapidated Future"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Stained_glass"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller observes stained-glass windows in the great hall, their geometric patterns broken and weathered. Stained glass, historically associated with cathedrals and sacred spaces, has symbolized divine light and artistic achievement for centuries. Its presence in the Eloi's world hints at a once-glorious civilization that has since fallen into decay. The broken panes and dusty curtains suggest neglect, a stark contrast to the vibrant beauty of the flowers outside. Could the Eloi's indifference to their surroundings reflect a deeper cultural decline? Wells uses the stained glass as a visual metaphor for the fragility of human achievement, reminding readers that even the most enduring art can fade without care or purpose. The windows, fractured yet still admitting light, become a poignant image of a world where beauty persists but meaning has been lost."
+  - id: "ichthyosaurus-into-extinction"
+    trigger: "Ichthyosaurus into extinction"
+    title: "What Happened to Earth's Mighty Creatures?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ichthyosaur"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller notes that horses, cattle, sheep, and dogs have followed the \"Ichthyosaurus into extinction\" in the Eloi's world. Ichthyosaurs were marine reptiles that thrived during the Mesozoic Era, disappearing around 90 million years ago. Their extinction, likely due to environmental changes, mirrors the fate of Earth's domesticated animals in Wells's future. What led to this loss? The Eloi's strict vegetarianism suggests a world where agriculture and animal husbandry have vanished, replaced by a reliance on cultivated fruits. This shift might reflect a society that has abandoned the complexities of animal care, focusing instead on simplicity and ease. Wells uses this detail to underscore the Eloi's detachment from the natural world, raising questions about the consequences of humanity's choices. The extinction of familiar creatures becomes a haunting reminder of what can be lost when progress prioritizes convenience over connection."
+  - id: "noun-substantives"
+    trigger: "noun substantives"
+    title: "How the Eloi's Language Challenges the Time Traveller"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Noun"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller painstakingly learns \"noun substantives\" from the Eloi, beginning his attempt to understand their language. Nouns, the building blocks of communication, are essential for naming objects and concepts. Yet the Eloi's language, with its soft cooing notes, seems far removed from the structured grammar of the 19th century. Could their linguistic simplicity reflect a deeper intellectual decline? Linguists have studied how languages evolve, noting that complexity often correlates with cultural and technological advancement. The Eloi's limited vocabulary might suggest a society where innovation and curiosity have faded, leaving only the bare essentials of communication. Wells uses the Time Traveller's struggle to learn their language as a metaphor for his broader quest to comprehend this future world. The nouns he gathers become fragments of a puzzle, revealing both the Eloi's simplicity and the profound changes that have shaped their civilization."
 ---
-I stood still, scanning the quiet landscape of **this strange world**. The sun hung low on the horizon, casting long shadows across the verdant meadows, where flowers bloomed in riotous profusion. Before me, the gentle forms of the **Eloi**, those frail and childlike beings, moved languidly. Their laughter, soft and musical, floated through the air, mingling with the distant hum of bees. They seemed untroubled, unhurried, and untouched by the weight of existence. Yet, as I observed them more closely, I was struck by a peculiar unease. Their simplicity, their apparent lack of curiosity, their indifference to the marvels of the world around them—all of it hinted at **a degeneration**, a decline from some earlier greatness. 
+“In another moment we were standing face to face, I and this fragile
+thing out of futurity. He came straight up to me and laughed into my
+eyes. The absence from his bearing of any sign of fear struck me at
+once. Then he turned to the two others who were following him and spoke
+to them in a strange and very sweet and **liquid tongue**.
 
-I had expected, perhaps foolishly, to find progress, enlightenment, and refinement in mankind’s distant future. But here, in **the Golden Age**, I found only a curious stagnation—a people who lived amid beauty and abundance but seemed utterly incapable of understanding or preserving it. They wore delicate garments of woven material, but their hands bore no sign of labor. They dwelled in stately buildings, but their eyes betrayed no knowledge of architecture or craftsmanship. This was a race bereft of ambition, of intellect, of purpose. And yet, it was not a race without charm. Their innocence was disarming, their laughter infectious, their beauty undeniable. 
+“There were others coming, and presently a little group of perhaps
+eight or ten of these exquisite creatures were about me. One of them
+addressed me. It came into my head, oddly enough, that my voice was too
+harsh and deep for them. So I shook my head, and, pointing to my ears,
+shook it again. He came a step forward, hesitated, and then touched my
+hand. Then I felt other soft little tentacles upon my back and
+shoulders. They wanted to make sure I was real. There was nothing in
+this at all alarming. Indeed, there was something in these pretty
+little people that inspired confidence—a graceful gentleness, a certain
+childlike ease. And besides, they looked so frail that I could fancy
+myself flinging the whole dozen of them about like ninepins. But I made
+a sudden motion to warn them when I saw their little pink hands feeling
+at the Time Machine. Happily then, when it was not too late, I thought
+of a danger I had hitherto forgotten, and reaching over the bars of the
+machine I unscrewed the little levers that would set it in motion, and
+put these in my pocket. Then I turned again to see what I could do in
+the way of communication.
 
-One of the Eloi, a maiden with golden hair and a face of serene loveliness, approached me with tentative steps. She carried a cluster of **strange flowers**, their petals shimmering like opals. She extended them to me, her gesture shy but unforced, and I accepted them with a nod of appreciation. Her name, I soon learned, was **Weena**. She was more curious than the others, more willing to engage with the odd stranger in their midst. I tried to speak with her, but her language was strange to me—soft syllables that seemed to melt together, forming words that resisted comprehension. I managed, after much effort, to exchange a few simple ideas with her, though my questions about her world remained unanswered. 
+“And then, looking more nearly into their features, I saw some further
+peculiarities in their **Dresden china type of prettiness**. Their hair,
+which was uniformly curly, came to a sharp end at the neck and cheek;
+there was not the faintest suggestion of it on the face, and their ears
+were singularly minute. The mouths were small, with bright red, rather
+thin lips, and the little chins ran to a point. The eyes were large and
+mild; and—this may seem egotism on my part—I fancied even that there
+was a certain lack of the interest I might have expected in them.
 
-As I wandered among the Eloi, I began to piece together fragments of their existence. They lived in harmony with their surroundings, gathering fruit from the trees and drinking from clear streams. Their days were spent in play, their nights in slumber. There was no evidence of toil, no sign of industry, no suggestion of conflict or strife. But this idyllic surface concealed mysteries—mysteries that tugged at my mind and refused to be ignored. Where were their tools, their books, their inventions? Where was the pulse of progress, the drive to build and to know? And, most unsettling of all, where were the old and the infirm? 
+“As they made no effort to communicate with me, but simply stood round
+me smiling and speaking in soft cooing notes to each other, I began the
+conversation. I pointed to the Time Machine and to myself. Then,
+hesitating for a moment how to express Time, I pointed to the sun. At
+once a quaintly pretty little figure in chequered purple and white
+followed my gesture, and then astonished me by imitating the sound of
+thunder.
 
-I voiced these questions to Weena, but she seemed not to understand. Her smile was kind but vacant, her answers elusive. It was as though the Eloi existed in a perpetual present, untouched by memory or foresight. They had no need for history, no interest in the future. **Time**, for them, was a river that flowed gently and without end, carrying them along without resistance or struggle. 
+“For a moment I was staggered, though the import of his gesture was
+plain enough. The question had come into my mind abruptly: were these
+creatures fools? You may hardly understand how it took me. You see, I
+had always anticipated that the people of the year Eight Hundred and
+Two Thousand odd would be incredibly in front of us in knowledge, art,
+everything. Then one of them suddenly asked me a question that showed
+him to be on the intellectual level of one of our five-year-old
+children—asked me, in fact, if I had come from the sun in a
+thunderstorm! It let loose the judgment I had suspended upon their
+clothes, their frail light limbs, and fragile features. A flow of
+disappointment rushed across my mind. For a moment I felt that I had
+built the Time Machine in vain.
 
-But there was something else—something darker, something hidden. As night fell, the Eloi’s demeanor changed. Their laughter ceased; their movements grew nervous and hurried. They gathered together in clusters, retreating into their dwellings and peering anxiously at the shadows. The twilight air grew cold, and the land seemed to hold its breath. I felt a shiver of unease, though I could not at first place its source. 
+“I nodded, pointed to the sun, and gave them such a vivid rendering of
+a thunderclap as startled them. They all withdrew a pace or so and
+bowed. Then came one laughing towards me, carrying a **chain of beautiful
+flowers** altogether new to me, and put it about my neck. The idea was
+received with melodious applause; and presently they were all running
+to and fro for flowers, and laughingly flinging them upon me until I
+was almost smothered with blossom. You who have never seen the like can
+scarcely imagine what delicate and wonderful flowers countless years of
+culture had created. Then someone suggested that their plaything should
+be exhibited in the nearest building, and so I was led past the **sphinx
+of white marble**, which had seemed to watch me all the while with a
+smile at my astonishment, towards a vast grey edifice of fretted stone.
+As I went with them the memory of my confident anticipations of a
+profoundly grave and intellectual posterity came, with irresistible
+merriment, to my mind.
 
-It was then that I noticed the **wells**—round structures scattered across the landscape, their mouths dark and forbidding. I had seen them before but had paid them little mind, assuming them to be remnants of some ancient architecture. Now, as the night deepened, I felt their presence with a peculiar intensity. They seemed to exhale a faint, chilling breath, as if they were alive. I approached one of these wells, peering into its depths. The darkness within was impenetrable, but I thought I heard something—a distant sound, like the murmur of voices or the scraping of metal against stone. 
+“The building had a huge entry, and was altogether of colossal
+dimensions. I was naturally most occupied with the growing crowd of
+little people, and with the big open portals that yawned before me
+shadowy and mysterious. My general impression of the world I saw over
+their heads was a tangled waste of beautiful bushes and flowers, a long
+neglected and yet weedless garden. I saw a number of tall spikes of
+strange white flowers, measuring a foot perhaps across the spread of
+the waxen petals. They grew scattered, as if wild, among the variegated
+shrubs, but, as I say, I did not examine them closely at this time. The
+Time Machine was left deserted on the turf among the rhododendrons.
 
-I turned back to the Eloi, but they were gone, hidden away in their shelters. The landscape, so vibrant during the day, had grown desolate and oppressive. The stars above glittered coldly, and the moon cast long, eerie shadows. I felt alone, profoundly alone, as though the night itself sought to swallow me. 
+“The arch of the doorway was richly carved, but naturally I did not
+observe the carving very narrowly, though I fancied I saw suggestions
+of **old Phœnician decorations** as I passed through, and it struck me that
+they were very badly broken and weather-worn. Several more brightly
+clad people met me in the doorway, and so we entered, I, dressed in
+dingy nineteenth-century garments, looking grotesque enough, garlanded
+with flowers, and surrounded by an eddying mass of bright,
+soft-coloured robes and shining white limbs, in a melodious whirl of
+laughter and laughing speech.
 
-It was then that I glimpsed movement—a pale, quick motion at the edge of my vision. I turned sharply, but whatever I had seen was gone. My heart quickened as I scanned the darkness. Again, I saw it: a fleeting shape, low to the ground, darting between the trees. I stepped forward, determined to investigate, but the thing vanished before I could draw near. 
+“The big doorway opened into a proportionately great hall hung with
+brown. The roof was in shadow, and the windows, partially glazed with
+coloured glass and partially unglazed, admitted a tempered light. The
+floor was made up of huge blocks of some very hard white metal, not
+plates nor slabs—blocks, and it was so much worn, as I judged by the
+going to and fro of past generations, as to be deeply channelled along
+the more frequented ways. Transverse to the length were innumerable
+tables made of slabs of polished stone, raised, perhaps, a foot from
+the floor, and upon these were heaps of fruits. Some I recognised as a
+kind of hypertrophied raspberry and orange, but for the most part they
+were strange.
 
-I stood still, listening. The night was alive with subtle sounds—the rustling of leaves, the chirping of insects, and something else: a faint scratching, a distant creak, a muffled step. The air grew colder, and I felt the weight of an unseen presence. The Eloi’s fear now seemed justified, though I still did not understand its cause. 
+“Between the tables was scattered a great number of cushions. Upon
+these my conductors seated themselves, signing for me to do likewise.
+With a pretty absence of ceremony they began to eat the fruit with
+their hands, flinging peel and stalks, and so forth, into the round
+openings in the sides of the tables. I was not loath to follow their
+example, for I felt thirsty and hungry. As I did so I surveyed the hall
+at my leisure.
 
-It was only later, after many such nights and many failed attempts to uncover the truth, that I came face to face with the **Morlocks**. These beings, pale and hunched, emerged from the wells under cover of darkness, their movements quick and furtive. They were creatures of the night, dwelling in subterranean tunnels that stretched deep into the earth. Their eyes glowed faintly, reflecting the dim light of the stars. They were not human, not entirely, and yet there was an undeniable kinship between them and the Eloi—a connection I would later come to understand, though its implications filled me with horror. 
+“And perhaps the thing that struck me most was its dilapidated look.
+The **stained-glass windows**, which displayed only a geometrical pattern,
+were broken in many places, and the curtains that hung across the lower
+end were thick with dust. And it caught my eye that the corner of the
+marble table near me was fractured. Nevertheless, the general effect
+was extremely rich and picturesque. There were, perhaps, a couple of
+hundred people dining in the hall, and most of them, seated as near to
+me as they could come, were watching me with interest, their little
+eyes shining over the fruit they were eating. All were clad in the same
+soft, and yet strong, silky material.
 
-The Morlocks did not approach me directly; they seemed wary of my presence. But I could see them watching, their eyes glinting in the shadows. I felt a pang of fear, but also a surge of curiosity. What were these creatures? What role did they play in this strange world? And what was their relationship to the Eloi? 
+“Fruit, by the bye, was all their diet. These people of the remote
+future were strict vegetarians, and while I was with them, in spite of
+some carnal cravings, I had to be frugivorous also. Indeed, I found
+afterwards that horses, cattle, sheep, dogs, had followed the
+**Ichthyosaurus into extinction**. But the fruits were very delightful;
+one, in particular, that seemed to be in season all the time I was
+there—a floury thing in a three-sided husk—was especially good, and I
+made it my staple. At first I was puzzled by all these strange fruits,
+and by the strange flowers I saw, but later I began to perceive their
+import.
 
-As these questions swirled in my mind, I resolved to learn more. I would not be deterred by fear or ignorance. I had come to this future not merely to observe but to understand, to unravel the threads of time and glimpse the fate of mankind. And so I steeled myself for the days ahead, determined to confront the mysteries of this divided world—this **land of light and shadow**, of beauty and terror, of innocence and decay.
+“However, I am telling you of my fruit dinner in the distant future
+now. So soon as my appetite was a little checked, I determined to make
+a resolute attempt to learn the speech of these new men of mine.
+Clearly that was the next thing to do. The fruits seemed a convenient
+thing to begin upon, and holding one of these up I began a series of
+interrogative sounds and gestures. I had some considerable difficulty
+in conveying my meaning. At first my efforts met with a stare of
+surprise or inextinguishable laughter, but presently a fair-haired
+little creature seemed to grasp my intention and repeated a name. They
+had to chatter and explain the business at great length to each other,
+and my first attempts to make the exquisite little sounds of their
+language caused an immense amount of genuine, if uncivil, amusement.
+However, I felt like a schoolmaster amidst children, and persisted, and
+presently I had a score of **noun substantives** at least at my command;
+and then I got to demonstrative pronouns, and even the verb ‘to eat.’
+But it was slow work, and the little people soon tired and wanted to
+get away from my interrogations, so I determined, rather of necessity,
+to let them give their lessons in little doses when they felt inclined.
+And very little doses I found they were before long, for I never met
+people more indolent or more easily fatigued.

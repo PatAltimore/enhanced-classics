@@ -9,91 +9,183 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The protagonist emerges from the Morlocks' lair, preparing for a final confrontation near the White Sphinx."
+  - point: "The narrator reflects on his initial impressions of the future world and realizes the superficiality of its beauty."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "The protagonist discovers his Time Machine hidden within the pedestal of the White Sphinx, realizing it is part of the Morlocks' trap."
+  - point: "He laments the decline of human intellect, attributing it to the pursuit of comfort and stability."
+    link: "https://en.wikipedia.org/wiki/Human_evolution"
+    link_label: "Human evolution"
+  - point: "The narrator theorizes about the division between the Eloi and Morlocks, linking it to societal and environmental changes."
+    link: "https://en.wikipedia.org/wiki/Social_stratification"
+    link_label: "Social stratification"
+  - point: "He discovers the Time Machine inside the White Sphinx, seemingly prepared by the Morlocks."
+    link: "https://en.wikipedia.org/wiki/Sphinx"
+    link_label: "Sphinx"
+  - point: "The narrator narrowly escapes a trap set by the Morlocks and uses the Time Machine to flee."
     link: "https://en.wikipedia.org/wiki/Time_travel"
     link_label: "Time travel"
-  - point: "Using fire as a weapon, the protagonist confronts the Morlocks and attempts to retrieve the Time Machine."
-    link: "https://en.wikipedia.org/wiki/Fire"
-    link_label: "Fire"
-  - point: "The protagonist ignites camphor to create a dazzling light, temporarily repelling the Morlocks and opening the pedestal's valves."
-    link: "https://en.wikipedia.org/wiki/Camphor"
-    link_label: "Camphor"
-  - point: "The protagonist escapes the Morlocks by activating the Time Machine and traveling forward in time."
-    link: "https://en.wikipedia.org/wiki/Time_machine"
-    link_label: "Time machine"
-  - point: "The protagonist arrives in a strange future landscape, resolving to explore and uncover new mysteries."
-    link: "https://en.wikipedia.org/wiki/Future"
-    link_label: "Future"
 
 enhancements:
-  - id: "white-sphinx"
-    trigger: "White Sphinx"
-    title: "Symbolism of the White Sphinx"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg/330px-The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page of the original edition. (Public domain)"
-    content: "The White Sphinx is a central symbol in H.G. Wells' 'The Time Machine,' representing mystery, power, and the divide between the Eloi and Morlocks. Its ghostly, pale appearance evokes an otherworldly quality, emphasizing the alien nature of the future world. The Sphinx serves as a physical and thematic focal point, housing the Time Machine and embodying the protagonist's struggle against the Morlocks. In mythology, sphinxes often symbolize riddles and challenges, which aligns with the protagonist's need to solve the puzzle of time and survival. The Sphinx's pedestal, hiding the Time Machine, becomes a trap set by the Morlocks, showcasing their cunning and predatory nature. This symbol underscores the novel's exploration of class division, evolution, and the darker aspects of human nature."
-  - id: "time-machine"
-    trigger: "Time Machine"
-    title: "The Time Machine's Role"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time_machine"
+  - id: "yellow-metal-seat"
+    trigger: "yellow metal"
+    title: "Why Does the Future Have Yellow Metal Seats?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gold"
     image_url: ""
-    image_caption: "Cover of 'The Time Machine,' public domain"
-    content: "The Time Machine is the novel's central device, enabling the protagonist's journey through time and serving as a metaphor for human curiosity and technological advancement. Invented by the protagonist, it represents the pinnacle of scientific achievement, allowing exploration of distant futures and pasts. The machine's presence in the story drives the narrative forward, creating opportunities to examine societal evolution, decay, and the consequences of unchecked progress. Its concealment within the White Sphinx highlights the tension between the Eloi and Morlocks, as well as the protagonist's struggle to reclaim agency in a hostile world. The Time Machine also symbolizes hope and escape, offering the protagonist a chance to transcend the horrors of the Morlocks' domain and continue his quest for understanding."
-  - id: "bronze-valves"
-    trigger: "bronze valves"
-    title: "Mechanism of the Bronze Valves"
+    image_caption: ""
+    content: "When the narrator returns to the seat of yellow metal, he is struck by the unchanged beauty of the scene, now tinged with bitter irony. Yellow metal, often associated with gold, evokes ideas of wealth and permanence. Historically, gold has symbolized both human achievement and greed, and its durability makes it a fitting material for a future society obsessed with stability. Yet, in this world, the yellow metal seat is not a throne of progress but a relic of stagnation. Wells uses this detail to underscore the hollowness of the Eloi’s existence—ornate but devoid of substance. The narrator’s bitter laughter reflects his realization that the pursuit of comfort has led humanity to a gilded cage, where beauty masks decay."
+  - id: "suicide-of-human-intellect"
+    trigger: "suicide"
+    title: "Did Humanity Really Commit Intellectual Suicide?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Intellectual_history"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator’s declaration that human intellect committed suicide is one of the most haunting lines in the chapter. He describes a society that achieved perfect safety and comfort, only to lose the very qualities that made it human—curiosity, adaptability, and innovation. This chilling idea draws on historical fears of stagnation, such as those expressed during the Industrial Revolution, when thinkers worried that mechanization might dull human creativity. Wells pushes this fear to its extreme, imagining a world where intellect is no longer needed because all challenges have been eliminated. The narrator’s grief is not just for the Eloi but for the human spirit itself, which he sees as extinguished by its own success."
+  - id: "mother-necessity-returns"
+    trigger: "Mother Necessity"
+    title: "Who Is 'Mother Necessity' and Why Did She Return?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Necessity"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator invokes 'Mother Necessity' to explain the resurgence of struggle in the future world. This metaphor personifies necessity as the driving force behind innovation and survival. Historically, necessity has been credited as the 'mother of invention,' a concept that aligns with Wells’s argument that intelligence thrives under pressure. In the Eloi’s world, necessity was staved off for thousands of years, leading to intellectual atrophy. But in the Morlocks’ subterranean existence, necessity returned with a vengeance, forcing them to adapt in brutal ways. By using this metaphor, Wells highlights the irony that comfort, once humanity’s ultimate goal, became its undoing. The return of necessity is not a triumph but a grim reminder of the cost of complacency."
+  - id: "eight-hundred-two-thousand-seven-hundred-one"
+    trigger: "Eight Hundred and Two Thousand Seven Hundred and One"
+    title: "Why Did Wells Choose This Exact Year?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Future"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator’s journey to the year 802,701 is a leap into a distant and alien future. This specific year might seem arbitrary, but it serves a symbolic purpose. By choosing a date so far removed from the present, Wells emphasizes the vastness of time and the inevitability of change. The year also reflects Victorian anxieties about the long-term consequences of industrialization and social stratification. In this distant future, humanity’s divisions have hardened into biological differences, and the achievements of civilization have crumbled into ruins. The choice of 802,701 is not just a number; it is a warning about the trajectory of human progress and the fragility of what we consider permanent."
+  - id: "white-sphinx-trap"
+    trigger: "White Sphinx"
+    title: "Why Is the White Sphinx Central to the Story?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sphinx"
+    image_url: ""
+    image_caption: ""
+    content: "The White Sphinx is both a literal structure and a potent symbol in Wells’s narrative. As the narrator approaches it, he finds the Time Machine inside, seemingly offered as bait by the Morlocks. The Sphinx, with its enigmatic and ancient connotations, evokes riddles and hidden truths. In mythology, sphinxes often guard secrets or pose challenges, and Wells uses this imagery to frame the Morlocks’ trap as a cruel puzzle. The narrator’s struggle to escape mirrors humanity’s broader struggle to confront its own failures. The White Sphinx stands as a monument to the Eloi’s decline and the Morlocks’ cunning, encapsulating the duality of beauty and danger in this dystopian world."
+  - id: "bronze-panels-trap"
+    trigger: "bronze panels"
+    title: "How Did Bronze Panels Trap the Time Traveler?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Bronze"
     image_url: ""
-    image_caption: "Bronze valve example, Wikimedia Commons"
-    content: "The bronze valves embedded in the base of the White Sphinx are a key plot element in 'The Time Machine.' They symbolize the mechanical ingenuity of the Morlocks, who have repurposed the pedestal to trap the protagonist's Time Machine. Bronze, an alloy of copper and tin, has historically been used for durable and precise mechanisms, making it a fitting material for the valves. Their resistance to the protagonist's efforts to open them highlights the Morlocks' calculated cruelty and the protagonist's desperation. The valves also serve as a metaphor for barriers—both physical and psychological—that the protagonist must overcome to escape and continue his journey through time. Their eventual opening, aided by fire, represents the triumph of human ingenuity and determination over adversity."
-  - id: "large-lidless-eyes"
-    trigger: "large, lidless eyes"
-    title: "Anatomy of the Morlocks"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
+    image_caption: ""
+    content: "The bronze panels that trap the narrator inside the White Sphinx are a chilling reminder of the Morlocks’ ingenuity. Bronze, an alloy of copper and tin, has been used for millennia in tools, weapons, and architecture. Its presence in the Morlocks’ trap suggests a continuity of human craftsmanship, twisted into something sinister. The panels slide shut with a clang, plunging the narrator into darkness—a moment that symbolizes his entrapment not just physically but within the consequences of humanity’s choices. Wells uses the bronze panels to heighten the tension and underscore the Morlocks’ resourcefulness, turning a material associated with progress into an instrument of fear."
+  - id: "abominable-matches"
+    trigger: "abominable kind"
+    title: "Why Were the Matches 'Abominable'?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Match"
     image_url: ""
-    image_caption: "Illustration of Morlocks, public domain"
-    content: "The Morlocks' large, lidless eyes are a striking feature that underscores their adaptation to a subterranean existence. In H.G. Wells' 'The Time Machine,' the Morlocks represent the darker side of human evolution, having devolved into predatory creatures due to their underground habitat. Their lidless eyes are an evolutionary response to perpetual darkness, allowing them to see in low-light conditions but giving them a grotesque and alien appearance. This physical trait emphasizes their divergence from humanity and their role as antagonists in the story. The Morlocks' eyes also symbolize their predatory nature, as they stalk the protagonist and the Eloi with calculated malice. This detail contributes to the novel's exploration of evolution, survival, and the consequences of environmental adaptation."
-  - id: "greyish-skin"
-    trigger: "greyish skin"
-    title: "Morlocks' Physical Evolution"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
+    image_caption: ""
+    content: "The narrator’s frustration with the 'abominable kind' of matches highlights the precariousness of his situation. These matches, which only light on their box, were common in the 19th century but notoriously unreliable. Their failure in this critical moment adds to the suspense and underscores the fragility of human reliance on technology. Matches, a simple yet vital invention, symbolize the thin line between survival and disaster. Wells uses this detail to amplify the narrator’s desperation and remind readers that even the smallest tools can become life-or-death matters in extreme circumstances. The matches’ failure is not just a plot device; it is a commentary on the limits of human ingenuity."
+  - id: "lever-weapon"
+    trigger: "the lever"
+    title: "How Did a Lever Become a Weapon?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lever"
     image_url: ""
-    image_caption: "Illustration of Morlocks, public domain"
-    content: "The Morlocks' greyish skin is another key feature that reflects their adaptation to life underground. In 'The Time Machine,' their pallid complexion is a result of living in darkness, where sunlight is absent and pigmentation becomes unnecessary. This physical characteristic highlights the novel's themes of evolution and environmental influence on species. The Morlocks' skin, along with their other grotesque features, serves to differentiate them from the Eloi, who represent the opposite end of the evolutionary spectrum with their delicate and childlike appearance. The Morlocks' greyish skin also reinforces their role as creatures of horror, embodying the grim consequences of societal and biological decay. This detail adds depth to Wells' critique of class division and the potential future of humanity."
-  - id: "worlds-revolutions"
-    trigger: "world’s revolutions"
-    title: "Time's Passage in the Novel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time_travel"
-    image_url: ""
-    image_caption: "Cover of 'The Time Machine,' public domain"
-    content: "The 'world’s revolutions' described during the protagonist's journey in the Time Machine symbolize the relentless and transformative passage of time. In H.G. Wells' novel, time is depicted as a dynamic force that reshapes landscapes, civilizations, and ecosystems. The protagonist's experience of seeing the sun rise and set in rapid succession, along with the dramatic changes in the environment, underscores the impermanence of human achievements and the inevitability of change. This vivid imagery serves to highlight the novel's exploration of time as both a scientific concept and a philosophical idea. The 'world’s revolutions' also reflect Wells' interest in evolution and entropy, as the protagonist witnesses the rise and fall of societies and the eventual decline of Earth itself. This sequence is a powerful reminder of humanity's place within the vast continuum of time."
+    image_caption: ""
+    content: "In the narrator’s frantic struggle against the Morlocks, the lever becomes an improvised weapon. Levers, one of humanity’s simplest machines, are typically tools of construction and problem-solving. Here, Wells transforms it into an instrument of survival, wielded in the dark against unseen enemies. The narrator’s use of the lever reflects his resourcefulness and determination, qualities that contrast sharply with the Eloi’s passivity. This moment also underscores the primal nature of the conflict—technology, stripped of its sophistication, becomes a blunt tool for survival. The lever’s dual role as a key to the Time Machine and a weapon encapsulates the narrator’s precarious position, caught between progress and regression."
 ---
-The darkness of that subterranean world clung to me as I emerged into the starlit night. My heart was heavy with dread, though I endeavored to steel myself for the task ahead. The **White Sphinx**, pale and ghostly in the dim light, loomed like a sentinel over the field, its enigmatic countenance mocking my frailty and my fears. I had returned to the surface only moments ago, my descent into the Morlocks’ lair having yielded the bitter knowledge of their cunning and their cruelty. Now, the final confrontation was upon me.
+“About eight or nine in the morning I came to the same seat of **yellow
+metal** from which I had viewed the world upon the evening of my arrival.
+I thought of my hasty conclusions upon that evening and could not
+refrain from laughing bitterly at my confidence. Here was the same
+beautiful scene, the same abundant foliage, the same splendid palaces
+and magnificent ruins, the same silver river running between its
+fertile banks. The gay robes of the beautiful people moved hither and
+thither among the trees. Some were bathing in exactly the place where I
+had saved Weena, and that suddenly gave me a keen stab of pain. And
+like blots upon the landscape rose the cupolas above the ways to the
+Underworld. I understood now what all the beauty of the Overworld
+people covered. Very pleasant was their day, as pleasant as the day of
+the cattle in the field. Like the cattle, they knew of no enemies and
+provided against no needs. And their end was the same.
 
-I approached the statue cautiously, my eyes scanning for movement among the shadows. The Eloi, those fragile creatures, had fled to their distant refuges, terrified by the hideous emergence of their nocturnal tormentors. I was alone. Alone to confront the trap that I knew lay within the hollow pedestal of the Sphinx. My **Time Machine**, the key to my escape and perhaps to my ultimate salvation, was hidden in the recesses of that alabaster prison. But I was certain now that the Morlocks had laid their snare with deliberation and malice, calculating my desperation with the cold logic of predators.
+“I grieved to think how brief the dream of the human intellect had
+been. It had committed **suicide**. It had set itself steadfastly towards
+comfort and ease, a balanced society with security and permanency as
+its watchword, it had attained its hopes—to come to this at last. Once,
+life and property must have reached almost absolute safety. The rich
+had been assured of his wealth and comfort, the toiler assured of his
+life and work. No doubt in that perfect world there had been no
+unemployed problem, no social question left unsolved. And a great quiet
+had followed.
 
-The moon hung low in the sky, casting faint silvery rays upon the ground, and I could see the faint outline of the **bronze valves** embedded in the base of the statue. My fingers trembled as I produced the matches I had taken from the ruins of the Palace of Green Porcelain. Fire was my only weapon, my sole defense against the creeping, clawed menace of the Morlocks. I struck a match and held it aloft, the tiny flame flaring against the encroaching darkness. The light revealed nothing but the gleam of the valves and the smooth stone surface of the Sphinx. I took a step closer.
+“It is a law of nature we overlook, that intellectual versatility is
+the compensation for change, danger, and trouble. An animal perfectly
+in harmony with its environment is a perfect mechanism. Nature never
+appeals to intelligence until habit and instinct are useless. There is
+no intelligence where there is no change and no need of change. Only
+those animals partake of intelligence that have to meet a huge variety
+of needs and dangers.
 
-Suddenly, I heard the faint rustling of movement behind me. I whirled around, the matchlight trembling in my grasp, and caught sight of hunched figures darting amidst the shadows. The Morlocks were gathering. Their pale, sinewy forms slid through the darkness like phantoms, their **large, lidless eyes** glinting with malevolent anticipation. My heart pounded as I realized that the time for action had come. I could not hesitate. I must force the valves open, retrieve the machine, and make my escape before their numbers overwhelmed me.
+“So, as I see it, the Upperworld man had drifted towards his feeble
+prettiness, and the Underworld to mere mechanical industry. But that
+perfect state had lacked one thing even for mechanical
+perfection—absolute permanency. Apparently as time went on, the feeding
+of an Underworld, however it was effected, had become disjointed.
+**Mother Necessity**, who had been staved off for a few thousand years,
+came back again, and she began below. The Underworld being in contact
+with machinery, which, however perfect, still needs some little thought
+outside habit, had probably retained perforce rather more initiative,
+if less of every other human character, than the Upper. And when other
+meat failed them, they turned to what old habit had hitherto forbidden.
+So I say I saw it in my last view of the world of **Eight Hundred and Two
+Thousand Seven Hundred and One**. It may be as wrong an explanation as
+mortal wit could invent. It is how the thing shaped itself to me, and
+as that I give it to you.
 
-I advanced toward the Sphinx, the match burning low, and struck another to keep the light alive. The Morlocks hissed and retreated into the gloom, wary of the fire’s touch. I reached the valves and pushed against them, but they did not budge. Frustration and fear surged within me as I struck the bronze surface with the butt of my lever. The clang echoed in the night, a sound that seemed to rouse the Morlocks to greater boldness. They began to close in, their movements growing bolder as the match burned out and darkness threatened to swallow me whole.
+“After the fatigues, excitements, and terrors of the past days, and in
+spite of my grief, this seat and the tranquil view and the warm
+sunlight were very pleasant. I was very tired and sleepy, and soon my
+theorising passed into dozing. Catching myself at that, I took my own
+hint, and spreading myself out upon the turf I had a long and
+refreshing sleep.
 
-Desperate, I struck another match and turned to face them. The firelight revealed their grotesque forms more fully—their **greyish skin**, their gnarled hands, their twisted mouths. They seemed almost human, yet wholly alien, as if nature had warped them into creatures of nightmare to suit the grim realities of their subterranean existence. I shouted at them, brandishing the flame as I stepped backward toward the Sphinx. My voice was hoarse and trembling, but it seemed to hold them at bay for a moment longer.
+“I awoke a little before sunsetting. I now felt safe against being
+caught napping by the Morlocks, and, stretching myself, I came on down
+the hill towards the **White Sphinx**. I had my crowbar in one hand, and
+the other hand played with the matches in my pocket.
 
-Suddenly, a thought occurred to me—a desperate gamble that might yet save me. I reached into my pocket and produced the small camphor I had taken earlier. With trembling hands, I struck a handful of matches together and held the camphor above the flame. It caught fire almost instantly, blazing with a fierce, dazzling light that illuminated the field around the Sphinx. The Morlocks recoiled as if struck, their cries rising in a cacophony of fear and anger. For a moment, the brilliance of the fire held them at bay, and I seized the opportunity to act.
+“And now came a most unexpected thing. As I approached the pedestal of
+the sphinx I found the bronze valves were open. They had slid down into
+grooves.
 
-I turned back to the valves and pushed against them with all my strength. The heat of the nearby flame seemed to loosen the mechanism, and with a sudden, grinding sound, the valves slid open. I stumbled into the hollow pedestal and saw the **Time Machine**, gleaming in the flickering firelight. Relief flooded through me, but it was short-lived, for the Morlocks, sensing my imminent escape, surged forward with renewed fury.
+“At that I stopped short before them, hesitating to enter.
 
-I climbed onto the machine and fumbled with the levers, my fingers clumsy with fear. The Morlocks descended upon the pedestal, their claws grasping at the edges, their snarls echoing in the confined space. One of them lunged toward me, its gnarled hand reaching for my leg, and I kicked out in blind panic. The creature fell back with a cry, but more were coming. Their numbers seemed endless, their determination unyielding.
+“Within was a small apartment, and on a raised place in the corner of
+this was the Time Machine. I had the small levers in my pocket. So
+here, after all my elaborate preparations for the siege of the White
+Sphinx, was a meek surrender. I threw my iron bar away, almost sorry
+not to use it.
 
-Finally, my fingers found the correct lever, and I pulled it with all my might. The machine vibrated beneath me, the familiar hum of its mechanism filling my ears, and I felt the world begin to shift. The Morlocks cried out in frustration, their claws raking at the air as the machine accelerated. The pedestal blurred, the night dissolved, and the stars themselves seemed to melt away as I was hurled into the abyss of time.
+“A sudden thought came into my head as I stooped towards the portal.
+For once, at least, I grasped the mental operations of the Morlocks.
+Suppressing a strong inclination to laugh, I stepped through the bronze
+frame and up to the Time Machine. I was surprised to find it had been
+carefully oiled and cleaned. I have suspected since that the Morlocks
+had even partially taken it to pieces while trying in their dim way to
+grasp its purpose.
 
-I cannot describe the sensation of that journey—the disorientation, the terror, the exhilaration. The **world’s revolutions**, the passage of years and centuries, became a swirling chaos around me. I saw the sun arc across the sky in an endless loop, rising and setting in mere seconds. The landscape transformed before my eyes: cities rose and fell, forests grew and vanished, oceans receded and advanced. Time itself seemed to scream in my ears as the machine carried me forward, away from the horrors of the Morlocks and the trap of the White Sphinx.
+“Now as I stood and examined it, finding a pleasure in the mere touch
+of the contrivance, the thing I had expected happened. The **bronze
+panels** suddenly slid up and struck the frame with a clang. I was in the
+dark—trapped. So the Morlocks thought. At that I chuckled gleefully.
 
-When at last I slowed the machine, the world around me had changed utterly. The air was thick and warm, the light dim and reddish, and the land stretched vast and empty before me. I stepped off the machine, my legs unsteady, my mind reeling from the ordeal. I knew not where—or when—I had arrived, but I was grateful to be free of the Morlocks and their dark domain.
+“I could already hear their murmuring laughter as they came towards me.
+Very calmly I tried to strike the match. I had only to fix on the
+levers and depart then like a ghost. But I had overlooked one little
+thing. The matches were of that **abominable kind** that light only on the
+box.
 
-As I surveyed the strange new landscape, I resolved to explore this future world and seek answers to the mysteries of time and existence. The Sphinx, the Morlocks, the Eloi—all these would remain in my memory, haunting and vivid, as I journeyed onward into the unknown. My adventure was far from over; indeed, it seemed to me that it had only just begun.
+“You may imagine how all my calm vanished. The little brutes were close
+upon me. One touched me. I made a sweeping blow in the dark at them
+with **the lever**s, and began to scramble into the saddle of the machine.
+Then came one hand upon me and then another. Then I had simply to fight
+against their persistent fingers for my levers, and at the same time
+feel for the studs over which these fitted. One, indeed, they almost
+got away from me. As it slipped from my hand, I had to butt in the dark
+with my head—I could hear the Morlock’s skull ring—to recover it. It
+was a nearer thing than the fight in the forest, I think, this last
+scramble.
+
+“But at last the lever was fixed and pulled over. The clinging hands
+slipped from me. The darkness presently fell from my eyes. I found
+myself in the same grey light and tumult I have already described.

@@ -9,134 +9,268 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The Time Traveller returns from his journey visibly shaken and exhausted, yet determined to share his experiences."
+  - point: "The narrator reflects on the skepticism surrounding the Time Traveller and his invention."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "He describes activating his model Time Machine and traveling forward in time, witnessing the rapid transformation of the world."
+  - point: "The narrator discusses the Time Traveller's enigmatic personality and the group's distrust of him."
+    link: "https://en.wikipedia.org/wiki/H.G._Wells"
+    link_label: "H.G. Wells"
+  - point: "The Time Traveller arrives late to dinner in a disheveled and exhausted state, shocking the guests."
     link: "https://en.wikipedia.org/wiki/Time_travel"
     link_label: "Time travel"
-  - point: "The Time Traveller encounters the Eloi, a fragile and simple race living in a utopian but stagnant society."
-    link: "https://en.wikipedia.org/wiki/Eloi"
-    link_label: "Eloi"
-  - point: "He discovers the Morlocks, a subterranean race that maintains the machinery of the world and preys on the Eloi."
-    link: "https://en.wikipedia.org/wiki/Morlocks"
-    link_label: "Morlocks"
-  - point: "The Time Traveller recounts his harrowing efforts to retrieve his machine from the Morlocks and escape back to his own time."
-    link: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    link_label: "The Time Machine"
-  - point: "The chapter ends with the Time Traveller promising to share more of his story later, leaving his audience in stunned silence."
-    link: "https://en.wikipedia.org/wiki/H._G._Wells"
-    link_label: "H.G. Wells"
+  - point: "The guests speculate about the Time Traveller's absence and ridicule the concept of time travel."
+    link: "https://en.wikipedia.org/wiki/Paradox"
+    link_label: "Paradox"
+  - point: "The Time Traveller begins recounting his extraordinary experiences, insisting on no interruptions."
+    link: "https://en.wikipedia.org/wiki/Science_fiction"
+    link_label: "Science fiction"
 
 enhancements:
   - id: "time-traveller"
     trigger: "Time Traveller"
-    title: "The Time Traveller Character"
+    title: "Why the Time Traveller Is a Mystery to All"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Moses-Hess.jpg/330px-Moses-Hess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Moses Hess (Zeughaus) (Public domain)"
-    content: "The Time Traveller is the protagonist of H.G. Wells's novel 'The Time Machine.' He is an unnamed scientist and inventor who builds a machine capable of traveling through time. His character serves as a vehicle for exploring themes of human progress, social evolution, and the consequences of technological advancement. The Time Traveller's journey into the distant future reveals a world divided between the Eloi and Morlocks, offering a stark commentary on class divisions and societal decay. His experiences challenge the optimism of the Victorian era, presenting a cautionary tale about the trajectory of civilization."
-  - id: "filby"
-    trigger: "Filby"
-    title: "Filby: The Skeptic"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg/330px-The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page of the original edition. (Public domain)"
-    content: "Filby is one of the Time Traveller's guests and serves as a vocal skeptic of the concept of time travel. His character represents the doubts and resistance often faced by innovators and visionaries. In the novel, Filby's skepticism contrasts with the Time Traveller's bold confidence, highlighting the tension between scientific curiosity and disbelief. Filby's role underscores the broader theme of how groundbreaking ideas are received by society, a recurring motif in Wells's works."
-  - id: "psychologist"
-    trigger: "Psychologist"
-    title: "The Psychologist's Perspective"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg/330px-The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page of the original edition. (Public domain)"
-    content: "The Psychologist is another guest in the Time Traveller's study, representing the analytical and scientific perspective on the feasibility of time travel. His arguments against the concept reflect the intellectual rigor and skepticism of the scientific community during the Victorian era. The Psychologist's presence in the story adds depth to the discussions about the implications of time travel, emphasizing the interplay between theoretical science and practical experimentation."
-  - id: "model-time-machine"
-    trigger: "model Time Machine"
-    title: "The Model Time Machine"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Turnstile_finite-state_machine_with_actions.svg/330px-Turnstile_finite-state_machine_with_actions.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Turnstile finite-state machine with actions (CC0)"
-    content: "The model Time Machine is a miniature prototype demonstrated by the Time Traveller to his guests before embarking on his journey. This device symbolizes the ingenuity and ambition of human invention, as well as the potential consequences of meddling with the natural order. The model serves as a precursor to the full-scale machine, showcasing Wells's fascination with technology and its ability to reshape human experience. It also sets the stage for the novel's exploration of time travel as both a scientific possibility and a philosophical concept."
-  - id: "time"
-    trigger: "time"
-    title: "Concept of Time in Literature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time_travel"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dupliter_Theory_Time_Travel_Anchoring_illustration.jpg/330px-Dupliter_Theory_Time_Travel_Anchoring_illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Dupliter Theory Time Travel Anchoring illustration (CC BY 4.0)"
-    content: "Time is a central theme in 'The Time Machine,' serving as both a scientific phenomenon and a narrative device. H.G. Wells uses the concept of time travel to explore the evolution of humanity and the consequences of societal choices. The novel reflects Victorian anxieties about progress, industrialization, and the future of civilization. By depicting time as a dimension that can be traversed, Wells challenges traditional notions of linearity and permanence, inviting readers to consider the fluidity of existence and the interconnectedness of past, present, and future."
-  - id: "eloi"
-    trigger: "Eloi"
-    title: "The Eloi: Fragile Future Humans"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi"
     image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Eloi are one of the two future races encountered by the Time Traveller in H.G. Wells's 'The Time Machine.' Representing the descendants of the upper class, the Eloi live in a seemingly idyllic world devoid of hardship. However, their physical and intellectual simplicity reflects the stagnation of a society that has lost its drive for progress. The Eloi's existence serves as a critique of complacency and the dangers of excessive comfort, illustrating Wells's concerns about the long-term consequences of social and technological evolution."
-  - id: "morlocks"
-    trigger: "Morlocks"
-    title: "The Morlocks: Subterranean Predators"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Morlocks"
+    image_caption: ""
+    content: "The narrator describes the Time Traveller as a man too clever to be believed, someone whose ingenuity and subtle reserve made him enigmatic to those around him. This characterization sets the stage for the skepticism that surrounds his invention and his claims of time travel. The Time Traveller's personality reflects a broader theme in H.G. Wells' work: the tension between genius and societal acceptance. In Victorian England, where Wells wrote, scientific innovation was both celebrated and feared, often viewed with suspicion by those who couldn't grasp its implications. The Time Traveller embodies this duality—his brilliance alienates him, even as it compels fascination. By making his protagonist an outsider, Wells invites readers to question their own biases toward the unknown and the extraordinary. The Time Traveller's enigmatic nature is not just a character trait; it is a narrative device that mirrors the unsettling implications of his invention, forcing readers to confront their own discomfort with the unfamiliar."
+  - id: "the-linnaean"
+    trigger: "the Linnæan"
+    title: "What Is the Linnæan Society, and Why Mention It?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Linnean_Society_of_London"
     image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Morlocks are the subterranean race in 'The Time Machine,' representing the descendants of the working class. They maintain the machinery that supports the Eloi's utopian existence but prey on them for sustenance. The Morlocks embody the darker side of industrialization and class division, illustrating the exploitation and dehumanization that can arise from societal inequality. Their existence serves as a chilling commentary on the potential consequences of unchecked class stratification, making them a pivotal element in Wells's critique of Victorian society."
-  - id: "medical-man"
-    trigger: "Medical Man"
-    title: "The Medical Man's Role"
+    image_caption: ""
+    content: "The narrator mentions meeting the Medical Man at 'the Linnæan,' a reference to the Linnean Society of London, one of the oldest scientific societies in the world. Founded in 1788, the society is dedicated to the study of natural history and taxonomy, named after Carl Linnaeus, the father of modern biological classification. This detail is not incidental; it situates the story within a world of intellectual rigor and scientific inquiry, underscoring the credibility of the characters and their discussions. In Wells' time, the Linnean Society was a hub for debates about evolution and the natural sciences, topics that often intersected with speculative fiction. By placing his characters in this context, Wells aligns the fantastical premise of time travel with the real-world pursuit of knowledge, blurring the line between science and imagination. The mention of the Linnæan adds a layer of authenticity to the narrative, grounding the extraordinary events in a setting familiar to the scientifically minded audience of the era."
+  - id: "ingenious-paradox-and-trick"
+    trigger: "ingenious paradox and trick"
+    title: "The Ingenious Trick That Fooled Everyone"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Paradox"
+    image_url: ""
+    image_caption: ""
+    content: "The Psychologist refers to the Time Traveller's demonstration as an 'ingenious paradox and trick,' highlighting the skepticism that surrounds the concept of time travel. This phrase encapsulates the tension between belief and disbelief that runs through the chapter. Paradoxes, especially in the realm of time travel, are a staple of speculative fiction, challenging our understanding of causality and logic. The idea of a paradox—something that defies conventional reasoning—mirrors the guests' incredulity and their struggle to reconcile the Time Traveller's claims with their own perceptions of reality. Wells uses this skepticism to explore deeper themes of human resistance to the unknown and the limits of scientific understanding. By framing time travel as both a paradox and a trick, the narrative invites readers to question the boundaries between illusion and possibility, setting the stage for the extraordinary tale that follows."
+  - id: "ghastly-pale"
+    trigger: "ghastly pale"
+    title: "Why Was the Time Traveller Ghastly Pale?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pallor"
+    image_url: ""
+    image_caption: ""
+    content: "When the Time Traveller finally appears, he is described as 'ghastly pale,' a detail that immediately conveys the physical toll of his journey. Pallor is often associated with shock, exhaustion, or illness, and here it serves as a visual cue to the harrowing experiences he has endured. In Victorian literature, physical appearance often mirrors inner turmoil, and Wells uses this trope effectively to heighten the mystery surrounding the Time Traveller's adventures. The description also taps into the era's fascination with the limits of human endurance, a theme explored in both scientific and literary circles. By presenting the Time Traveller in such a state, Wells underscores the gravity of his experiences and prepares the audience for the extraordinary narrative to come. The image of his pale, haggard face lingers, a stark reminder of the cost of venturing beyond the boundaries of human understanding."
+  - id: "blood-stained-socks"
+    trigger: "blood-stained socks"
+    title: "The Shocking Detail of Blood-Stained Socks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bloodstain_pattern_analysis"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator notices the Time Traveller's 'blood-stained socks,' a detail that adds a visceral, unsettling element to his appearance. This image suggests physical injury and hardship, hinting at the dangers he faced during his journey. Bloodstains, often used in forensic science to reconstruct events, here serve as a narrative clue, inviting readers to speculate about the trials the Time Traveller endured. In the context of the story, this detail underscores the physical reality of time travel, countering the guests' skepticism with tangible evidence of its consequences. Wells uses this stark image to bridge the gap between the abstract concept of time travel and its concrete, human impact. The blood-stained socks are not just a sign of injury; they are a symbol of the sacrifices required to push the boundaries of knowledge and experience."
+  - id: "nebuchadnezzar-phases"
+    trigger: "Nebuchadnezzar phases"
+    title: "What Are Nebuchadnezzar Phases, and Why Mention Them?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nebuchadnezzar_II"
+    image_url: ""
+    image_caption: ""
+    content: "The Editor jokingly refers to the Time Traveller's 'Nebuchadnezzar phases,' alluding to the biblical king Nebuchadnezzar II, who was said to have lived like a beast during a period of madness. This reference adds a layer of humor and irreverence to the guests' skepticism, framing the Time Traveller's disheveled appearance as a sign of eccentricity rather than evidence of his extraordinary claims. Nebuchadnezzar's story, found in the Book of Daniel, has been interpreted as a cautionary tale about hubris and the consequences of defying divine order. By invoking this figure, Wells subtly parallels the Time Traveller's audacious attempt to transcend human limitations with the king's fall from grace. The mention of 'Nebuchadnezzar phases' serves as both a critique of the Time Traveller's ambition and a reminder of the risks inherent in challenging the natural order."
+  - id: "appetite-of-a-tramp"
+    trigger: "appetite of a tramp"
+    title: "Why Does the Time Traveller Eat Like a Tramp?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tramp"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator observes the Time Traveller's 'appetite of a tramp,' emphasizing his ravenous hunger and physical depletion. This detail paints a vivid picture of the toll his journey has taken, likening him to a wanderer who has endured hardship and deprivation. In Victorian England, tramps were often seen as symbols of poverty and marginalization, their plight reflecting the harsh realities of industrial society. By comparing the Time Traveller to a tramp, Wells underscores the physical and emotional cost of his adventures, aligning him with those who live on the fringes of society. This imagery also serves to humanize the Time Traveller, grounding his extraordinary experiences in the basic, universal need for sustenance. The 'appetite of a tramp' is not just a sign of physical hunger; it is a metaphor for the insatiable curiosity and drive that propel him to explore the unknown."
+  - id: "eight-days"
+    trigger: "eight days"
+    title: "What Happened in Those Eight Days?"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%27Time_Waits_For_No_Man%27%2C_Edinburgh_Medical_School_clock_-_geograph.org.uk_-_2132002.jpg/330px-%27Time_Waits_For_No_Man%27%2C_Edinburgh_Medical_School_clock_-_geograph.org.uk_-_2132002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "'Time Waits For No Man', Edinburgh Medical School clock (CC BY-SA 2.0)"
-    content: "The Medical Man is one of the Time Traveller's guests, representing the professional and clinical perspective on the events described. His questions and observations reflect the scientific curiosity and skepticism that underpin the novel's discussions. The Medical Man's presence highlights the interdisciplinary nature of the debates surrounding time travel, emphasizing the intersection of science, philosophy, and human experience in Wells's narrative."
-  - id: "provincial-mayor"
-    trigger: "Provincial Mayor"
-    title: "The Provincial Mayor's Reaction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg/330px-The_Time_Machine_%28H._G._Wells%2C_William_Heinemann%2C_1895%29_title_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page of the original edition. (Public domain)"
-    content: "The Provincial Mayor is a minor character in 'The Time Machine,' representing the voice of authority and governance. His reaction to the Time Traveller's tale underscores the disbelief and fear that such revelations can provoke. The Mayor's role in the story highlights the broader societal implications of the Time Traveller's discoveries, serving as a reminder of the challenges faced by those who seek to challenge established norms and perceptions."
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller reveals that he has lived 'eight days' unlike any human has ever experienced, a tantalizing hint at the extraordinary events to come. This detail immediately captures the imagination, suggesting a journey through time that defies conventional understanding. The number eight, often associated with renewal and infinity in various cultures, adds a symbolic layer to his claim, hinting at the cyclical nature of time and existence. In the context of the story, these eight days represent a microcosm of the vast possibilities and dangers of time travel. Wells uses this detail to build suspense, drawing readers into the narrative with the promise of a tale that transcends ordinary experience. The mention of 'eight days' is not just a chronological marker; it is an invitation to explore the limits of human perception and the mysteries of the universe."
 ---
-When the **Time Traveller** returned to his seat amidst the company, his face was pale and his demeanor strained, though his eyes bore the glint of an extraordinary energy. We had been gathered in his study for the better part of the evening, waiting upon his promise to reveal the results of his experiments. The room, dimly lit by the soft glow of the lamps, was filled with a curious tension, amplified now by the sight of him—disheveled, exhausted, and yet brimming with a peculiar resolve. He had left us only the day before, stepping into his machine with a confidence that bordered on arrogance, and yet now he resembled a man returned from some nightmarish ordeal.
+I think that at that time none of us quite believed in the Time
+Machine. The fact is, the Time Traveller was one of those men who are
+too clever to be believed: you never felt that you saw all round him;
+you always suspected some subtle reserve, some ingenuity in ambush,
+behind his lucid frankness. Had Filby shown the model and explained the
+matter in the Time **Traveller’s** words, we should have shown _him_ far
+less scepticism. For we should have perceived his motives: a
+pork-butcher could understand Filby. But the Time Traveller had more
+than a touch of whim among his elements, and we distrusted him. Things
+that would have made the fame of a less clever man seemed tricks in his
+hands. It is a mistake to do things too easily. The serious people who
+took him seriously never felt quite sure of his deportment; they were
+somehow aware that trusting their reputations for judgment with him was
+like furnishing a nursery with eggshell china. So I don’t think any of
+us said very much about time travelling in the interval between that
+Thursday and the next, though its odd potentialities ran, no doubt, in
+most of our minds: its plausibility, that is, its practical
+incredibleness, the curious possibilities of anachronism and of utter
+confusion it suggested. For my own part, I was particularly preoccupied
+with the trick of the model. That I remember discussing with the
+Medical Man, whom I met on Friday at **the Linnæan**. He said he had seen a
+similar thing at Tübingen, and laid considerable stress on the
+blowing-out of the candle. But how the trick was done he could not
+explain.
 
-He looked at us all in turn, his gaze lingering upon **Filby**, who had been the most vocal skeptic of his invention, and then upon the **Psychologist**, who had argued with scientific precision against the feasibility of time travel. There was a long silence, broken only by the faint ticking of the clock upon the mantelpiece, before the Time Traveller finally spoke.
+The next Thursday I went again to Richmond—I suppose I was one of the
+Time Traveller’s most constant guests—and, arriving late, found four or
+five men already assembled in his drawing-room. The Medical Man was
+standing before the fire with a sheet of paper in one hand and his
+watch in the other. I looked round for the Time Traveller, and—“It’s
+half-past seven now,” said the Medical Man. “I suppose we’d better have
+dinner?”
 
-"I owe you," he began, his voice hoarse but steady, "an account of what I have seen. But first—food and drink. I am famished, and my throat is parched beyond description."
+“Where’s——?” said I, naming our host.
 
-We hurried to oblige him, fetching bread, wine, and meat from the sideboard, while he sank into a chair with an air of profound relief. As he consumed his meal with evident hunger, we exchanged glances, eager yet unsure how to press him for details. It was not until he had drained his glass and pushed aside his plate that he leaned back, his fingers drumming lightly upon the armrest, and began his tale.
+“You’ve just come? It’s rather odd. He’s unavoidably detained. He asks
+me in this note to lead off with dinner at seven if he’s not back. Says
+he’ll explain when he comes.”
 
-"You will forgive me," he said, "if I am somewhat incoherent. The experience I have endured is—well, it is not easily conveyed. But I shall endeavor to describe it to the best of my ability. You will recall that I demonstrated my **model Time Machine** to you some days ago, and assured you that the full-scale device would function in similar fashion. Yesterday, I put that assurance to the test."
+“It seems a pity to let the dinner spoil,” said the Editor of a
+well-known daily paper; and thereupon the Doctor rang the bell.
 
-Here, he paused, his eyes narrowing as if recalling some vivid and troubling memory. "I activated the levers and felt at once a peculiar sensation—a kind of vertigo, as though the world around me had dissolved into a blur of motion. The walls of this very room seemed to shimmer and vanish, replaced by a kaleidoscope of light and shadow. I was moving forward in **time**, not by seconds or minutes, but by years—nay, centuries!"
+The Psychologist was the only person besides the Doctor and myself who
+had attended the previous dinner. The other men were Blank, the Editor
+aforementioned, a certain journalist, and another—a quiet, shy man with
+a beard—whom I didn’t know, and who, as far as my observation went,
+never opened his mouth all the evening. There was some speculation at
+the dinner-table about the Time Traveller’s absence, and I suggested
+time travelling, in a half-jocular spirit. The Editor wanted that
+explained to him, and the Psychologist volunteered a wooden account of
+the “**ingenious paradox and trick**” we had witnessed that day week. He
+was in the midst of his exposition when the door from the corridor
+opened slowly and without noise. I was facing the door, and saw it
+first. “Hallo!” I said. “At last!” And the door opened wider, and the
+Time Traveller stood before us. I gave a cry of surprise. “Good
+heavens! man, what’s the matter?” cried the Medical Man, who saw him
+next. And the whole tableful turned towards the door.
 
-The company murmured in astonishment, but the Time Traveller raised a hand to silence us. "Have patience," he said. "I shall come to the details soon enough. Suffice it to say that I travelled far—farther than I had intended. The dials upon my machine spun with dizzying speed, and the sun itself became a streak of fire across the heavens, rising and setting in an endless cycle. Cities rose and fell, forests grew and were replaced, and the very contours of the land seemed to shift before my eyes. And then, at last, I halted."
+He was in an amazing plight. His coat was dusty and dirty, and smeared
+with green down the sleeves; his hair disordered, and as it seemed to
+me greyer—either with dust and dirt or because its colour had actually
+faded. His face was **ghastly pale**; his chin had a brown cut on it—a cut
+half-healed; his expression was haggard and drawn, as by intense
+suffering. For a moment he hesitated in the doorway, as if he had been
+dazzled by the light. Then he came into the room. He walked with just
+such a limp as I have seen in footsore tramps. We stared at him in
+silence, expecting him to speak.
 
-He leaned forward, his voice dropping to a near whisper. "I found myself in a world unlike any I had ever imagined. It was far in the future, in an age where mankind has undergone profound changes. The air was warm and fragrant, the sky a perfect azure, and the earth carpeted with lush vegetation. But the people—ah, the people! They were not as we are."
+He said not a word, but came painfully to the table, and made a motion
+towards the wine. The Editor filled a glass of champagne, and pushed it
+towards him. He drained it, and it seemed to do him good: for he looked
+round the table, and the ghost of his old smile flickered across his
+face. “What on earth have you been up to, man?” said the Doctor. The
+Time Traveller did not seem to hear. “Don’t let me disturb you,” he
+said, with a certain faltering articulation. “I’m all right.” He
+stopped, held out his glass for more, and took it off at a draught.
+“That’s good,” he said. His eyes grew brighter, and a faint colour came
+into his cheeks. His glance flickered over our faces with a certain
+dull approval, and then went round the warm and comfortable room. Then
+he spoke again, still as it were feeling his way among his words. “I’m
+going to wash and dress, and then I’ll come down and explain things....
+Save me some of that mutton. I’m starving for a bit of meat.”
 
-"What do you mean by that?" asked the **Medical Man**, his brow furrowed.
+He looked across at the Editor, who was a rare visitor, and hoped he
+was all right. The Editor began a question. “Tell you presently,” said
+the Time Traveller. “I’m—funny! Be all right in a minute.”
 
-"They were small," the Time Traveller replied, "fragile, childlike creatures, with delicate features and an air of innocent simplicity. They called themselves the **Eloi**, and they lived in a kind of pastoral paradise, free from labor or strife. But their simplicity was not merely physical—it extended to their minds. They seemed to lack curiosity, ambition, or any sense of history. It was as though they had forgotten the very notion of progress."
+He put down his glass, and walked towards the staircase door. Again I
+remarked his lameness and the soft padding sound of his footfall, and
+standing up in my place, I saw his feet as he went out. He had nothing
+on them but a pair of tattered, **blood-stained socks**. Then the door
+closed upon him. I had half a mind to follow, till I remembered how he
+detested any fuss about himself. For a minute, perhaps, my mind was
+wool-gathering. Then, “Remarkable Behaviour of an Eminent Scientist,” I
+heard the Editor say, thinking (after his wont) in headlines. And this
+brought my attention back to the bright dinner-table.
 
-The assembled company was silent, digesting this strange revelation. At length, the **Editor** ventured a question. "Did they speak? Did they understand you?"
+“What’s the game?” said the Journalist. “Has he been doing the Amateur
+Cadger? I don’t follow.” I met the eye of the Psychologist, and read my
+own interpretation in his face. I thought of the Time Traveller limping
+painfully upstairs. I don’t think anyone else had noticed his lameness.
 
-"Oh, they spoke," said the Time Traveller, "but their language was unlike any I had ever heard. It was musical, almost lyrical, and yet their vocabulary was astonishingly limited. Communication was difficult, but I managed to glean a few details of their existence. They lived in communal dwellings, ate fruits and vegetables, and spent their days in idle pleasure. It was a world without hardship, but also without depth."
+The first to recover completely from this surprise was the Medical Man,
+who rang the bell—the Time Traveller hated to have servants waiting at
+dinner—for a hot plate. At that the Editor turned to his knife and fork
+with a grunt, and the Silent Man followed suit. The dinner was resumed.
+Conversation was exclamatory for a little while with gaps of
+wonderment; and then the Editor got fervent in his curiosity. “Does our
+friend eke out his modest income with a crossing? or has he his
+**Nebuchadnezzar phases**?” he inquired. “I feel assured it’s this business
+of the Time Machine,” I said, and took up the Psychologist’s account of
+our previous meeting. The new guests were frankly incredulous. The
+Editor raised objections. “What _was_ this time travelling? A man
+couldn’t cover himself with dust by rolling in a paradox, could he?”
+And then, as the idea came home to him, he resorted to caricature.
+Hadn’t they any clothes-brushes in the Future? The Journalist too,
+would not believe at any price, and joined the Editor in the easy work
+of heaping ridicule on the whole thing. They were both the new kind of
+journalist—very joyous, irreverent young men. “Our Special
+Correspondent in the Day after Tomorrow reports,” the Journalist was
+saying—or rather shouting—when the Time Traveller came back. He was
+dressed in ordinary evening clothes, and nothing save his haggard look
+remained of the change that had startled me.
 
-"But surely," said the Psychologist, "there must have been more to their society. What of technology, art, science?"
+“I say,” said the Editor hilariously, “these chaps here say you have
+been travelling into the middle of next week! Tell us all about little
+Rosebery, will you? What will you take for the lot?”
 
-The Time Traveller shook his head. "None of these things remained. The Eloi were the descendants of a civilization that had once been great but had long since degenerated into stagnation. And yet, there was something more—something darker."
+The Time Traveller came to the place reserved for him without a word.
+He smiled quietly, in his old way. “Where’s my mutton?” he said. “What
+a treat it is to stick a fork into meat again!”
 
-He paused again, his expression growing somber. "I discovered, to my horror, that the Eloi were not alone. Beneath the surface of the earth, in subterranean tunnels and caverns, dwelled another race—the **Morlocks**. These creatures were the antithesis of the Eloi: brutish, industrious, and sinister. They were the workers of the world, tending to the machinery that sustained the Eloi's idyllic existence. But their labor was not born of benevolence; it was born of necessity, for the Morlocks fed upon the Eloi."
+“Story!” cried the Editor.
 
-A gasp rippled through the room, and Filby rose from his seat in protest. "That is monstrous!" he cried. "Surely you are mistaken."
+“Story be damned!” said the Time Traveller. “I want something to eat. I
+won’t say a word until I get some peptone into my arteries. Thanks. And
+the salt.”
 
-"I wish I were," said the Time Traveller gravely. "But I saw it with my own eyes. The Morlocks would emerge from their tunnels at night, under cover of darkness, and seize the Eloi as prey. It was a grotesque symbiosis, a chilling inversion of the relationship between the classes. The Eloi lived in blissful ignorance, while the Morlocks toiled in the shadows, only to rise as predators."
+“One word,” said I. “Have you been time travelling?”
 
-The room fell into a heavy silence, broken only by the occasional creak of a chair or the distant sound of footsteps in the hall. At last, the **Provincial Mayor**, who had been quiet until now, spoke with a trembling voice. "What did you do? Did you try to intervene?"
+“Yes,” said the Time Traveller, with his mouth full, nodding his head.
 
-"I tried," the Time Traveller admitted, "but my efforts were futile. The Eloi were too passive, too indifferent to their own plight. And the Morlocks—well, they were beyond my understanding. I did manage to recover something of great importance, however: my machine."
+“I’d give a shilling a line for a verbatim note,” said the Editor. The
+Time Traveller pushed his glass towards the Silent Man and rang it with
+his fingernail; at which the Silent Man, who had been staring at his
+face, started convulsively, and poured him wine. The rest of the dinner
+was uncomfortable. For my own part, sudden questions kept on rising to
+my lips, and I dare say it was the same with the others. The Journalist
+tried to relieve the tension by telling anecdotes of Hettie Potter. The
+Time Traveller devoted his attention to his dinner, and displayed the
+**appetite of a tramp**. The Medical Man smoked a cigarette, and watched
+the Time Traveller through his eyelashes. The Silent Man seemed even
+more clumsy than usual, and drank champagne with regularity and
+determination out of sheer nervousness. At last the Time Traveller
+pushed his plate away, and looked round us. “I suppose I must
+apologise,” he said. “I was simply starving. I’ve had a most amazing
+time.” He reached out his hand for a cigar, and cut the end. “But come
+into the smoking-room. It’s too long a story to tell over greasy
+plates.” And ringing the bell in passing, he led the way into the
+adjoining room.
 
-"Your machine?" asked the Psychologist. "You mean to say they had taken it?"
+“You have told Blank, and Dash, and Chose about the machine?” he said
+to me, leaning back in his easy-chair and naming the three new guests.
 
-"Indeed," said the Time Traveller. "The Morlocks had dragged the machine into their underground lair, and I was forced to descend into their realm to retrieve it. It was a harrowing experience, but I succeeded in the end. And once I had regained the machine, I made my escape, travelling further into the future before finally returning here."
+“But the thing’s a mere paradox,” said the Editor.
 
-He fell silent, his gaze distant, as though the events he had described still haunted him. The rest of us sat in stunned disbelief, unable to reconcile his tale with the world we knew. Finally, the Editor leaned forward, his voice low but insistent. "You must tell us more. What lies beyond that future? What becomes of the earth and its inhabitants?"
+“I can’t argue tonight. I don’t mind telling you the story, but I can’t
+argue. I will,” he went on, “tell you the story of what has happened to
+me, if you like, but you must refrain from interruptions. I want to
+tell it. Badly. Most of it will sound like lying. So be it! It’s
+true—every word of it, all the same. I was in my laboratory at four
+o’clock, and since then … I’ve lived **eight days** … such days as no human
+being ever lived before! I’m nearly worn out, but I shan’t sleep till
+I’ve told this thing over to you. Then I shall go to bed. But no
+interruptions! Is it agreed?”
 
-The Time Traveller shook his head. "That is a story for another time. For now, I must rest. I am weary beyond measure, and my mind is clouded with the weight of what I have seen."
-
-And with that, he rose from his chair and bid us goodnight, leaving us to ponder the strange and unsettling vision he had shared. As the door closed behind him, the room seemed to grow colder, as though some shadow from that distant future had crept into our midst. None of us spoke for a long while, each lost in his own thoughts, until at last we dispersed, carrying with us the uneasy realization that the Time Traveller's journey had revealed not only the wonders of the ages, but also their terrors.
+“Agreed,” said the Editor, and the rest of us echoed “Agreed.” And with
+that the Time Traveller began his story as I have set it forth. He sat
+back in his chair at first, and spoke like a weary man. Afterwards he
+got more animated. In writing it down I feel with only too much
+keenness the inadequacy of pen and ink—and, above all, my own
+inadequacy—to express its quality. You read, I will suppose,
+attentively enough; but you cannot see the speaker’s white, sincere
+face in the bright circle of the little lamp, nor hear the intonation
+of his voice. You cannot know how his expression followed the turns of
+his story! Most of us hearers were in shadow, for the candles in the
+smoking-room had not been lighted, and only the face of the Journalist
+and the legs of the Silent Man from the knees downward were
+illuminated. At first we glanced now and again at each other. After a
+time we ceased to do that, and looked only at the Time Traveller’s
+face.

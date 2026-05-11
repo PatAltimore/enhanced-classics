@@ -9,94 +9,247 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The protagonist awakens in a dark, unsettling future with a persistent hum of machinery."
+  - point: "The Time Traveller experiences sickness and confusion during unstable time travel, arriving far into the future."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "The Morlocks are revealed to have a broader dominion, lurking in the shadows and working in a vast underground factory."
-    link: "https://en.wikipedia.org/wiki/Morlock"
-    link_label: "Morlocks"
-  - point: "The protagonist discovers a towering structure hinting at an industrial religion worshiping power and mechanism."
-    link: "https://en.wikipedia.org/wiki/Religion_and_industry"
-    link_label: "industrial religion"
-  - point: "The protagonist realizes the Morlocks' factory is a grotesque outcome of capitalistic exploitation."
-    link: "https://en.wikipedia.org/wiki/Capitalism"
-    link_label: "capitalistic exploitation"
-  - point: "The Eloi are revealed to be captives and a source of sustenance for the Morlocks, highlighting the Victorian class system's extremes."
-    link: "https://en.wikipedia.org/wiki/Victorian_society"
-    link_label: "Victorian class system"
-  - point: "The protagonist witnesses apocalyptic ruin, reflecting on the fragility of civilization and the destructive power of unchecked ambition."
-    link: "https://en.wikipedia.org/wiki/Apocalypse"
-    link_label: "apocalyptic ruin"
+  - point: "He observes the slowing of Earth's rotation due to tidal drag, leading to perpetual twilight and a stationary sun."
+    link: "https://en.wikipedia.org/wiki/Tidal_acceleration"
+    link_label: "Tidal acceleration"
+  - point: "The desolate beach is populated by monstrous crab-like creatures and eerie green vegetation."
+    link: "https://en.wikipedia.org/wiki/Crab"
+    link_label: "Crab"
+  - point: "The Time Traveller witnesses the transit of an inner planet across the sun, possibly Mercury."
+    link: "https://en.wikipedia.org/wiki/Transit_of_Mercury"
+    link_label: "Transit of Mercury"
+  - point: "An eclipse plunges the world into total darkness, intensifying the sense of desolation and horror."
+    link: "https://en.wikipedia.org/wiki/Eclipse"
+    link_label: "Eclipse"
+  - point: "The Time Traveller encounters a strange, tentacled creature in the remote twilight before fainting."
+    link: "https://en.wikipedia.org/wiki/Tentacle"
+    link_label: "Tentacle"
 
 enhancements:
-  - id: "time-machine"
-    trigger: "Time Machine"
-    title: "The Time Machine Device"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Time_Machine_by_Norman_Saunders.jpg/330px-The_Time_Machine_by_Norman_Saunders.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Time Machine by Norman Saunders (Public domain)"
-    content: "The Time Machine is the central device in H.G. Wells' novel, enabling the protagonist to traverse through time. It symbolizes humanity's ambition to conquer natural laws and explore the unknown. Wells uses the machine as a narrative tool to critique societal progress and its consequences. The concept of time travel was groundbreaking in 1895, influencing science fiction and popular culture profoundly. The machine's design and operation reflect Victorian-era fascination with engineering and innovation, making it a timeless metaphor for human curiosity and the risks of technological advancement."
-  - id: "morlocks"
-    trigger: "Morlocks"
-    title: "Morlocks: The Underground Workers"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
+  - id: "the-dials"
+    trigger: "the dials"
+    title: "Why Time Machines Need Precision Instruments"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chronometer"
     image_url: ""
-    image_caption: "Illustration of Morlocks from 'The Time Machine'"
-    content: "The Morlocks are a subterranean species in 'The Time Machine,' representing the working class in Wells' allegory of Victorian society. They are depicted as industrious yet grotesque, living underground and maintaining the machinery that supports the Eloi's idyllic existence. Their evolution reflects the consequences of social stratification and industrial exploitation, where the laboring class becomes physically and culturally distinct from the elite. The Morlocks' predatory behavior toward the Eloi underscores the dangers of unchecked class divisions and the dehumanization of workers in industrial societies."
-  - id: "industrial-religion"
-    trigger: "industrial religion"
-    title: "Worship of Industry and Power"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Religion_and_industry"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Universal_manual_of_ready_reference_-_antiquities%2C_history%2C_geography%2C_biography%2C_government%2C_law%2C_politics%2C_industry%2C_invention%2C_science%2C_religion%2C_literature%2C_art%2C_education_and_miscellany_%281904%29_%2814590270177%29.jpg/330px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Universal manual of ready reference - antiquities, history, geography, biography, government, law, politics, industry, invention, science, religion, literature, art, education and miscellany (1904) (1"
-    content: "The concept of an industrial religion in this chapter suggests a society that venerates machinery and power as divine forces. This idea critiques the dehumanizing effects of industrialization, where technological progress becomes an end in itself, overshadowing ethical and social considerations. Wells uses this motif to highlight the dangers of idolizing industry, warning against a future where human values are subsumed by mechanical efficiency. The grotesque carvings and symbols on the structure reflect the cultural and spiritual decay that can accompany unchecked industrial dominance."
-  - id: "capitalistic-exploitation"
-    trigger: "capitalistic exploitation"
-    title: "The Costs of Capitalism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Capitalism"
+    image_caption: ""
+    content: "When the Time Traveller glances at the dials of his machine, he notices the thousands hand sweeping forward at an astonishing pace, propelling him into the distant future. These dials are not mere decoration; they are critical instruments for navigating the vast expanse of time. The concept of precise measurement in timekeeping dates back to the invention of chronometers, which revolutionized navigation by allowing sailors to determine longitude accurately. In Wells's era, the idea of a machine capable of measuring and manipulating time was both thrilling and speculative. The dials symbolize humanity's obsession with mastering time, a theme central to the novel. By focusing on these instruments, Wells underscores the fragility of control in the face of cosmic forces, as even the most advanced technology can lead to unintended consequences."
+  - id: "tidal-drag"
+    trigger: "tidal drag"
+    title: "How Tides Could Stop Earth's Rotation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tidal_acceleration"
     image_url: ""
-    image_caption: "Depiction of the Industrial Revolution"
-    content: "Capitalistic exploitation is a central theme in 'The Time Machine,' where Wells critiques the socioeconomic disparities created by industrial capitalism. The Morlocks' factory symbolizes the extreme consequences of a system that prioritizes profit over human welfare, leading to the physical and moral degradation of the working class. This theme resonates with the historical context of the Industrial Revolution, which saw the rise of factories, urbanization, and stark class divisions. Wells uses this dystopian vision to warn against the unchecked pursuit of wealth and technological progress at the expense of social equity."
-  - id: "victorian-class-system"
-    trigger: "Victorian class system"
-    title: "Social Stratification in Victorian England"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Victorian_society"
+    image_caption: ""
+    content: "The Time Traveller observes that the sun no longer sets, and the Earth has come to rest with one face permanently turned toward the sun due to tidal drag. This phenomenon occurs when gravitational forces between celestial bodies create friction that slows rotation over immense timescales. In our own time, tidal drag is gradually slowing Earth's rotation, causing days to lengthen by fractions of a second each century. The moon, already tidally locked to Earth, offers a glimpse of this future. Wells uses this scientific concept to evoke a haunting vision of a world frozen in perpetual twilight, emphasizing the inexorable march of cosmic forces that dwarf human agency. The image of a stationary Earth serves as a chilling reminder of the fragility of life and the inevitability of change."
+  - id: "monstrous-crab-like-creature"
+    trigger: "monstrous crab-like creature"
+    title: "Could Crabs Dominate Earth's Final Days?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Crab"
     image_url: ""
-    image_caption: "A Victorian family, illustrating class distinctions"
-    content: "The Victorian class system is a key influence on the social dynamics depicted in 'The Time Machine.' Wells divides humanity into the Eloi and Morlocks, representing the aristocracy and working class, respectively. This division critiques the rigid social hierarchy of Victorian England, where wealth and privilege were concentrated among the elite, while the laboring masses endured harsh conditions. The novel extrapolates these disparities into a dystopian future, illustrating the long-term consequences of social inequality. By highlighting this system, Wells challenges readers to consider the ethical implications of class divisions and industrial progress."
-  - id: "apocalyptic-ruin"
-    trigger: "apocalyptic ruin"
-    title: "Visions of Earth's Destruction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Apocalypse"
+    image_caption: ""
+    content: "As the Time Traveller explores the desolate beach, he encounters a monstrous crab-like creature, its metallic front and stalked eyes creating a sinister impression. Crabs are among Earth's most resilient species, capable of surviving in extreme environments. Their evolutionary success is due to their adaptability, hard exoskeletons, and efficient reproductive strategies. In imagining crabs as dominant life forms in Earth's twilight, Wells taps into their reputation as survivors, suggesting that even as humanity fades, life persists in strange and grotesque forms. The crab's unsettling presence underscores the alienation and horror of a world where familiar ecosystems have collapsed, leaving behind creatures that seem both ancient and otherworldly."
+  - id: "antenna-of-another-monster-crab"
+    trigger: "antenna of another monster crab"
+    title: "The Anatomy of a Nightmare: Crab Antennae"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Crustacean"
     image_url: ""
-    image_caption: "Artistic depiction of apocalyptic destruction"
-    content: "The apocalyptic ruin witnessed by the protagonist symbolizes the ultimate consequences of humanity's destructive tendencies. Wells portrays a future where environmental degradation, social collapse, and unchecked ambition have brought the world to the brink of annihilation. This vision serves as a cautionary tale, urging readers to reflect on the fragility of civilization and the need for sustainable progress. The swirling vortex of ash and flame evokes imagery of natural disasters and industrial pollution, emphasizing the interconnectedness of human actions and planetary health. Wells' depiction remains relevant as a warning against ecological and societal neglect."
-  - id: "fragility-of-civilization"
-    trigger: "fragility of civilization"
-    title: "The Delicate Balance of Society"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Civilization"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Civilization_Board_Game_Table.jpg/330px-Civilization_Board_Game_Table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Table setup in a 4 Player lategame Civilization: The Board Game including the Fame and Fortune\" expansion. (CC BY-SA 3.0)"
-    content: "The fragility of civilization is a recurring theme in 'The Time Machine,' where Wells explores how societal structures can collapse under the weight of inequality and environmental degradation. The protagonist's journey into the future reveals a world where humanity's achievements have been undone by its own excesses. This theme underscores the importance of ethical governance, social equity, and sustainable development in preserving civilization. Wells uses this motif to challenge readers to consider the long-term consequences of their actions, advocating for a more balanced and conscientious approach to progress."
+    image_caption: ""
+    content: "When the Time Traveller brushes against the antenna of another monster crab, he is struck by its alien texture and the creature's predatory intent. Antennae are sensory organs used by crustaceans to detect changes in their environment, including vibrations and chemical signals. These appendages are vital for survival, enabling crabs to navigate, find food, and avoid predators. Wells's description transforms this biological feature into a source of horror, emphasizing the uncanny and grotesque nature of life in Earth's distant future. The encounter with the crab's antenna heightens the tension, illustrating the vulnerability of the Time Traveller in a world where even the smallest touch can signal danger."
+  - id: "thirty-million-years-hence"
+    trigger: "thirty million years hence"
+    title: "What Will Earth Look Like in 30 Million Years?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Future_of_Earth"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller ventures thirty million years into the future, witnessing a world dominated by a dying sun and lifeless landscapes. Scientists predict that Earth's future will be shaped by the sun's gradual expansion into a red giant, which will eventually engulf the planet. Long before this catastrophic end, Earth's ecosystems will collapse, and its surface will become inhospitable. Wells's vision of this distant epoch reflects contemporary fears about the limits of human progress and the inevitability of cosmic decay. By situating his protagonist in this bleak future, Wells challenges readers to confront the transient nature of civilization and the ultimate fate of the planet."
+  - id: "transit-of-an-inner-planet"
+    trigger: "transit of an inner planet"
+    title: "Why Planetary Transits Are Cosmic Rarities"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Transit_of_Mercury"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller observes a transit of an inner planet across the sun, a rare celestial event that captivates astronomers. Transits occur when a planet passes directly between its star and the observer, creating a small silhouette against the star's disk. Mercury and Venus are the only planets in our solar system that can transit the sun as seen from Earth, and these events are predictable yet infrequent. Wells uses this astronomical phenomenon to heighten the sense of cosmic scale and isolation in the narrative. The transit serves as a poignant reminder of humanity's fleeting presence in the universe, contrasting the grandeur of celestial mechanics with the desolation of Earth's future."
+  - id: "black-central-shadow-of-the-eclipse"
+    trigger: "black central shadow of the eclipse"
+    title: "The Chilling Silence of Total Eclipse"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eclipse"
+    image_url: ""
+    image_caption: ""
+    content: "As the black central shadow of the eclipse sweeps across the landscape, the Time Traveller is plunged into absolute darkness. Total eclipses occur when the moon or another celestial body completely obscures the sun, creating a dramatic shift in light and temperature. Historically, eclipses have inspired awe and fear, often interpreted as omens or divine interventions. In Wells's narrative, the eclipse amplifies the sense of cosmic dread, symbolizing the extinguishing of light and life on Earth. The shadow's advance mirrors the inexorable march of time, leaving the protagonist—and the reader—grappling with the profound silence and isolation of a dying world."
+  - id: "remote-and-awful-twilight"
+    trigger: "remote and awful twilight"
+    title: "Twilight at the Edge of Time: A Haunting Vision"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Twilight"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller describes the remote and awful twilight as he clings to the saddle of his machine, overwhelmed by dread. Twilight, the transitional period between day and night, often evokes feelings of melancholy and reflection. In this distant future, twilight becomes perpetual, symbolizing the Earth's slow decline into darkness and death. Wells transforms this natural phenomenon into a metaphor for existential despair, capturing the eerie stillness of a world where time itself seems to have stopped. The oppressive atmosphere of this eternal twilight challenges the protagonist's resolve, forcing him—and the reader—to confront the fragility of hope in the face of cosmic inevitability."
 ---
-I awoke to a sense of utter disquiet. The darkness was profound, and the silence heavy, save for the faint and distant hum of machinery—a sound so alien and persistent that it seemed to resonate with the very beating of my heart. My surroundings were unfamiliar, an abyss of shadow broken only by the occasional flicker of light from unseen sources. With trembling hands, I reached for the levers of the **Time Machine**, my sole tether to the world I had left behind. Yet, even as I grasped them, I knew I could not flee. There was something in this future—something vast and terrible—that I was compelled to confront.
+“I have already told you of the sickness and confusion that comes with
+time travelling. And this time I was not seated properly in the saddle,
+but sideways and in an unstable fashion. For an indefinite time I clung
+to the machine as it swayed and vibrated, quite unheeding how I went,
+and when I brought myself to look at **the dials** again I was amazed to
+find where I had arrived. One dial records days, and another thousands
+of days, another millions of days, and another thousands of millions.
+Now, instead of reversing the levers, I had pulled them over so as to
+go forward with them, and when I came to look at these indicators I
+found that the thousands hand was sweeping round as fast as the seconds
+hand of a watch—into futurity.
 
-I rose from the seat and peered into the gloom about me. The air was heavy, laden with an acrid, metallic tang that stung the nostrils, as though the very atmosphere had been corrupted by ages of industry. Here and there, I caught glimpses of motion—swift, furtive shadows darting across my vision. The **Morlocks**. I could feel their presence, lurking in the depths, watching me with predatory curiosity. My earlier encounters with them had been confined to their subterranean lairs, but now I began to see that their dominion extended farther than I had suspected.
+“As I drove on, a peculiar change crept over the appearance of things.
+The palpitating greyness grew darker; then—though I was still
+travelling with prodigious velocity—the blinking succession of day and
+night, which was usually indicative of a slower pace, returned, and
+grew more and more marked. This puzzled me very much at first. The
+alternations of night and day grew slower and slower, and so did the
+passage of the sun across the sky, until they seemed to stretch through
+centuries. At last a steady twilight brooded over the earth, a twilight
+only broken now and then when a comet glared across the darkling sky.
+The band of light that had indicated the sun had long since
+disappeared; for the sun had ceased to set—it simply rose and fell in
+the west, and grew ever broader and more red. All trace of the moon had
+vanished. The circling of the stars, growing slower and slower, had
+given place to creeping points of light. At last, some time before I
+stopped, the sun, red and very large, halted motionless upon the
+horizon, a vast dome glowing with a dull heat, and now and then
+suffering a momentary extinction. At one time it had for a little while
+glowed more brilliantly again, but it speedily reverted to its sullen
+red heat. I perceived by this slowing down of its rising and setting
+that the work of the **tidal drag** was done. The earth had come to rest
+with one face to the sun, even as in our own time the moon faces the
+earth. Very cautiously, for I remembered my former headlong fall, I
+began to reverse my motion. Slower and slower went the circling hands
+until the thousands one seemed motionless and the daily one was no
+longer a mere mist upon its scale. Still slower, until the dim outlines
+of a desolate beach grew visible.
 
-I stumbled forward, my footsteps echoing in the cavernous expanse. The ground beneath me was uneven, a patchwork of ancient stone and twisted metal. As I navigated this strange terrain, I came upon a towering structure—a column of blackened steel that rose into the darkness above. It was adorned with grotesque carvings, symbols that seemed to hint at some forgotten **industrial religion**, a worship of power and mechanism. At its base lay an opening, a gaping maw that exhaled a cold, fetid air. Though every instinct screamed at me to turn away, I pressed onward, compelled by a grim curiosity.
+“I stopped very gently and sat upon the Time Machine, looking round.
+The sky was no longer blue. North-eastward it was inky black, and out
+of the blackness shone brightly and steadily the pale white stars.
+Overhead it was a deep Indian red and starless, and south-eastward it
+grew brighter to a glowing scarlet where, cut by the horizon, lay the
+huge hull of the sun, red and motionless. The rocks about me were of a
+harsh reddish colour, and all the trace of life that I could see at
+first was the intensely green vegetation that covered every projecting
+point on their south-eastern face. It was the same rich green that one
+sees on forest moss or on the lichen in caves: plants which like these
+grow in a perpetual twilight.
 
-The interior was lit by a sickly, flickering light that emanated from rows of glowing tubes embedded in the walls. The hum of machinery grew louder, a cacophony of grinding gears and hissing steam that seemed to pulse in time with my racing heart. The space was vast and labyrinthine, a network of corridors and chambers that stretched into infinity. As I ventured deeper, I began to discern the **true purpose of this place**—a factory, a hive of labor where the Morlocks toiled endlessly to sustain their subterranean existence. Here, in the bowels of the earth, the remnants of human ingenuity had been twisted into something monstrous.
+“The machine was standing on a sloping beach. The sea stretched away to
+the south-west, to rise into a sharp bright horizon against the wan
+sky. There were no breakers and no waves, for not a breath of wind was
+stirring. Only a slight oily swell rose and fell like a gentle
+breathing, and showed that the eternal sea was still moving and living.
+And along the margin where the water sometimes broke was a thick
+incrustation of salt—pink under the lurid sky. There was a sense of
+oppression in my head, and I noticed that I was breathing very fast.
+The sensation reminded me of my only experience of mountaineering, and
+from that I judged the air to be more rarefied than it is now.
 
-I paused before a large chamber, its walls lined with enormous vats and furnaces. The heat was oppressive, the air thick with smoke and ash. The Morlocks moved about with mechanical precision, their pale, sinewy forms illuminated by the fiery glow. They worked tirelessly, their movements synchronized like the gears of a great machine. I watched them with a mixture of fascination and horror, unable to reconcile their grotesque appearance with the intelligence and skill their labor implied. These were not mere beasts; they were the inheritors of human ambition, the culmination of centuries of **capitalistic exploitation**.
+“Far away up the desolate slope I heard a harsh scream, and saw a thing
+like a huge white butterfly go slanting and fluttering up into the sky
+and, circling, disappear over some low hillocks beyond. The sound of
+its voice was so dismal that I shivered and seated myself more firmly
+upon the machine. Looking round me again, I saw that, quite near, what
+I had taken to be a reddish mass of rock was moving slowly towards me.
+Then I saw the thing was really a **monstrous crab-like creature**. Can you
+imagine a crab as large as yonder table, with its many legs moving
+slowly and uncertainly, its big claws swaying, its long antennæ, like
+carters’ whips, waving and feeling, and its stalked eyes gleaming at
+you on either side of its metallic front? Its back was corrugated and
+ornamented with ungainly bosses, and a greenish incrustation blotched
+it here and there. I could see the many palps of its complicated mouth
+flickering and feeling as it moved.
 
-As I stood there, a sudden thought struck me—a vision of the **world that had birthed this nightmare**. I imagined the towering cities of my own time, the factories and railways, the relentless march of progress that had divided society into two classes: the privileged few who dwelled in comfort and the countless others who labored in darkness. The Eloi and the Morlocks were the inevitable outcome of this division, a grotesque parody of the **Victorian class system**. The Eloi, with their fragile beauty and indolence, were the descendants of the aristocracy, while the Morlocks, with their brute strength and cunning, were the progeny of the working class. It was a vision as sobering as it was terrifying.
+“As I stared at this sinister apparition crawling towards me, I felt a
+tickling on my cheek as though a fly had lighted there. I tried to
+brush it away with my hand, but in a moment it returned, and almost
+immediately came another by my ear. I struck at this, and caught
+something threadlike. It was drawn swiftly out of my hand. With a
+frightful qualm, I turned, and I saw that I had grasped the **antenna of
+another monster crab** that stood just behind me. Its evil eyes were
+wriggling on their stalks, its mouth was all alive with appetite, and
+its vast ungainly claws, smeared with an algal slime, were descending
+upon me. In a moment my hand was on the lever, and I had placed a month
+between myself and these monsters. But I was still on the same beach,
+and I saw them distinctly now as soon as I stopped. Dozens of them
+seemed to be crawling here and there, in the sombre light, among the
+foliated sheets of intense green.
 
-I turned away from the chamber and continued my exploration, my thoughts heavy with this revelation. In another room, I discovered rows of cages, each containing a pale, trembling Eloi. They were captives, their delicate frames hunched in despair, their eyes wide with terror. The Morlocks moved among them, prodding them with cruel instruments, herding them like livestock. It was clear now—the Eloi were not merely prey; they were a **source of sustenance**, a commodity to be harvested and consumed. The horror of it all threatened to overwhelm me, yet I could not look away.
+“I cannot convey the sense of abominable desolation that hung over the
+world. The red eastern sky, the northward blackness, the salt Dead Sea,
+the stony beach crawling with these foul, slow-stirring monsters, the
+uniform poisonous-looking green of the lichenous plants, the thin air
+that hurts one’s lungs: all contributed to an appalling effect. I moved
+on a hundred years, and there was the same red sun—a little larger, a
+little duller—the same dying sea, the same chill air, and the same
+crowd of earthy crustacea creeping in and out among the green weed and
+the red rocks. And in the westward sky, I saw a curved pale line like a
+vast new moon.
 
-Suddenly, a hand grasped my arm, its grip cold and unyielding. I turned to face a Morlock, its bulbous eyes fixed on me with an expression I could not decipher. It emitted a series of guttural sounds, a language that was as incomprehensible as it was unnerving. Another joined it, then another, until I was surrounded by a crowd of them. They did not attack me but seemed to deliberate among themselves, their voices rising and falling in a strange, rhythmic cadence. I felt like a **specimen under observation**, an anomaly in their well-ordered world.
+“So I travelled, stopping ever and again, in great strides of a
+thousand years or more, drawn on by the mystery of the earth’s fate,
+watching with a strange fascination the sun grow larger and duller in
+the westward sky, and the life of the old earth ebb away. At last, more
+than **thirty million years hence**, the huge red-hot dome of the sun had
+come to obscure nearly a tenth part of the darkling heavens. Then I
+stopped once more, for the crawling multitude of crabs had disappeared,
+and the red beach, save for its livid green liverworts and lichens,
+seemed lifeless. And now it was flecked with white. A bitter cold
+assailed me. Rare white flakes ever and again came eddying down. To the
+north-eastward, the glare of snow lay under the starlight of the sable
+sky, and I could see an undulating crest of hillocks pinkish white.
+There were fringes of ice along the sea margin, with drifting masses
+farther out; but the main expanse of that salt ocean, all bloody under
+the eternal sunset, was still unfrozen.
 
-After what seemed an eternity, they released me and retreated into the shadows. Shaken, I stumbled back toward the entrance, desperate to escape this hellish place. Yet as I emerged into the open air, I was met with a sight that froze me in my tracks. The landscape had transformed, the ground ruptured by great fissures from which issued plumes of smoke and fire. The sky above was a swirling vortex of ash and flame, a vision of **apocalyptic ruin**. It was as though the earth itself had turned against its inhabitants, rejecting the poison they had wrought upon it.
+“I looked about me to see if any traces of animal life remained. A
+certain indefinable apprehension still kept me in the saddle of the
+machine. But I saw nothing moving, in earth or sky or sea. The green
+slime on the rocks alone testified that life was not extinct. A shallow
+sandbank had appeared in the sea and the water had receded from the
+beach. I fancied I saw some black object flopping about upon this bank,
+but it became motionless as I looked at it, and I judged that my eye
+had been deceived, and that the black object was merely a rock. The
+stars in the sky were intensely bright and seemed to me to twinkle very
+little.
 
-I realized then that I had traveled farther into the future than I had intended, to a time when the world was on the brink of annihilation. The Eloi and the Morlocks were but remnants of humanity, clinging to survival in the face of inevitable doom. I felt a profound sense of despair, a recognition of the **fragility of civilization** and the destructive power of unchecked ambition. Yet even in this desolation, I sensed a glimmer of hope—a possibility that humanity might yet learn from its mistakes, that it might rise above its basest instincts and forge a better future.
+“Suddenly I noticed that the circular westward outline of the sun had
+changed; that a concavity, a bay, had appeared in the curve. I saw this
+grow larger. For a minute perhaps I stared aghast at this blackness
+that was creeping over the day, and then I realised that an eclipse was
+beginning. Either the moon or the planet Mercury was passing across the
+sun’s disk. Naturally, at first I took it to be the moon, but there is
+much to incline me to believe that what I really saw was the **transit of
+an inner planet** passing very near to the earth.
 
-With renewed determination, I made my way back to the Time Machine. As I mounted the device and adjusted the levers, I cast one final glance at the world around me. It was a vision I would never forget, a testament to the dangers of complacency and the cost of progress. The machine hummed to life, and the landscape dissolved into a blur of motion. I did not know where—or when—I would emerge, but I resolved to carry this knowledge with me, to share it with those who might yet avert the fate I had witnessed.
+“The darkness grew apace; a cold wind began to blow in freshening gusts
+from the east, and the showering white flakes in the air increased in
+number. From the edge of the sea came a ripple and whisper. Beyond
+these lifeless sounds the world was silent. Silent? It would be hard to
+convey the stillness of it. All the sounds of man, the bleating of
+sheep, the cries of birds, the hum of insects, the stir that makes the
+background of our lives—all that was over. As the darkness thickened,
+the eddying flakes grew more abundant, dancing before my eyes; and the
+cold of the air more intense. At last, one by one, swiftly, one after
+the other, the white peaks of the distant hills vanished into
+blackness. The breeze rose to a moaning wind. I saw the **black central
+shadow of the eclipse** sweeping towards me. In another moment the pale
+stars alone were visible. All else was rayless obscurity. The sky was
+absolutely black.
+
+“A horror of this great darkness came on me. The cold, that smote to my
+marrow, and the pain I felt in breathing, overcame me. I shivered, and
+a deadly nausea seized me. Then like a red-hot bow in the sky appeared
+the edge of the sun. I got off the machine to recover myself. I felt
+giddy and incapable of facing the return journey. As I stood sick and
+confused I saw again the moving thing upon the shoal—there was no
+mistake now that it was a moving thing—against the red water of the
+sea. It was a round thing, the size of a football perhaps, or, it may
+be, bigger, and tentacles trailed down from it; it seemed black against
+the weltering blood-red water, and it was hopping fitfully about. Then
+I felt I was fainting. But a terrible dread of lying helpless in that
+**remote and awful twilight** sustained me while I clambered upon the
+saddle.

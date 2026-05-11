@@ -9,91 +9,477 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The narrator encounters the Morlocks, pale and sinister creatures living underground."
+  - point: "The narrator observes a lush and abundant landscape filled with splendid buildings and vegetation."
+    link: "https://en.wikipedia.org/wiki/Thames_Valley"
+    link_label: "Thames Valley"
+  - point: "He discovers circular wells with bronze rims and ventilation systems, hinting at subterranean activity."
+    link: "https://en.wikipedia.org/wiki/Ventilation_(architecture)"
+    link_label: "Ventilation systems"
+  - point: "The narrator rescues a drowning Eloi named Weena, forming a unique bond with her."
+    link: "https://en.wikipedia.org/wiki/The_Time_Machine"
+    link_label: "Weena"
+  - point: "He encounters mysterious ape-like creatures and begins to suspect a division of humanity into two distinct species."
     link: "https://en.wikipedia.org/wiki/Morlock"
     link_label: "Morlocks"
-  - point: "The Eloi are revealed as a fragile, childlike surface-dwelling people, contrasting with the industrious Morlocks."
-    link: "https://en.wikipedia.org/wiki/Eloi"
-    link_label: "Eloi"
-  - point: "The narrator reflects on social stratification as the root cause of the division between Eloi and Morlocks."
+  - point: "The narrator theorizes that the split between Eloi and Morlocks reflects the widening gap between social classes."
     link: "https://en.wikipedia.org/wiki/Social_stratification"
-    link_label: "social stratification"
-  - point: "The ruins of ancient buildings symbolize the collapse of a once-great civilization."
-    link: "https://en.wikipedia.org/wiki/Ruins"
-    link_label: "ruins of ancient buildings"
-  - point: "The Morlocks exploit the Eloi as cattle, revealing a horrifying balance of power."
-    link: "https://en.wikipedia.org/wiki/Cattle"
-    link_label: "cattle"
-  - point: "The narrator discovers the palace of green porcelain, a decayed museum of human achievements."
-    link: "https://en.wikipedia.org/wiki/Porcelain"
-    link_label: "palace of green porcelain"
+    link_label: "Social stratification"
+  - point: "He speculates on the future of humanity, imagining a dystopian outcome of industrial and social systems."
+    link: "https://en.wikipedia.org/wiki/Dystopia"
+    link_label: "Dystopia"
 
 enhancements:
-  - id: "morlocks"
-    trigger: "Morlocks"
-    title: "Morlocks: Underground Dwellers"
+  - id: "circular-wells-subterranean-secrets"
+    trigger: "circular wells"
+    title: "What Lies Beneath These Mysterious Wells?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ventilation_(architecture)"
+    image_url: ""
+    image_caption: ""
+    content: "When the narrator stumbles upon circular wells rimmed with bronze and capped with cupolas, he is struck by their peculiar design and the steady thud of air currents within. These wells are not mere architectural curiosities—they hint at an extensive subterranean world. The concept of underground ventilation systems dates back centuries, with ancient civilizations like the Romans using similar designs to cool their buildings. But here, Wells imagines a future where such systems serve a darker purpose. The wells are not just functional; they are ominous gateways to the hidden realm of the Morlocks. By introducing these wells, Wells builds suspense and foreshadows the unsettling revelations about humanity's evolution. They symbolize the divide between the surface's idyllic beauty and the grim realities below."
+  - id: "golden-age-future-humanity"
+    trigger: "Golden Age"
+    title: "Is This Really Humanity's Golden Age?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Golden_Age"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator refers to the distant future as a 'Golden Age,' but his observations quickly challenge this notion. Historically, the term 'Golden Age' evokes periods of peace, prosperity, and cultural flourishing, such as ancient Greece's era of Pericles. Yet, in Wells's vision, this future is marked by stagnation and decay. The Eloi, though superficially beautiful, lack intelligence and vitality, while the Morlocks toil in darkness. By invoking the idea of a Golden Age, Wells sets up a bitter irony: humanity's triumph over nature has led not to enlightenment but to degeneration. This contrast underscores the novel's critique of unchecked progress and social inequality."
+  - id: "the-white-sphinx-enigma"
+    trigger: "the White Sphinx"
+    title: "Why Does the Time Machine Hide Here?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator's Time Machine is mysteriously taken into the hollow pedestal of the White Sphinx, a striking symbol in the landscape. The Sphinx, a creature from mythology known for its riddles, embodies mystery and foreboding. In Wells's narrative, it becomes a literal and figurative puzzle, guarding the secrets of the Morlocks and the Eloi. The choice of a Sphinx as the centerpiece of this future world suggests that humanity's fate is as enigmatic as the riddles of ancient Egypt. By placing the Time Machine here, Wells emphasizes the theme of discovery and the perilous journey into the unknown."
+  - id: "ape-like-creature-dark-revelation"
+    trigger: "ape-like creature"
+    title: "What Are These Haunting Figures?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
     image_url: ""
     image_caption: ""
-    content: "The Morlocks are one of the two distinct species in H.G. Wells' 'The Time Machine,' representing the subterranean working class. Their pale skin and large eyes reflect their adaptation to life underground, where they maintain machinery and labor to support the Eloi. Wells uses the Morlocks to critique the exploitation of the working class during the Industrial Revolution, imagining a future where social inequalities evolve into biological differences. Their sinister nature and predatory habits underscore the dangers of unchecked class division and societal decay."
-  - id: "eloi"
-    trigger: "Eloi"
-    title: "Eloi: Fragile Surface Dwellers"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi"
+    content: "The narrator's first glimpse of the Morlocks—a pale, ape-like creature darting through ruins—shatters his assumptions about the future. These beings, with their large eyes and nocturnal habits, evoke the unsettling traits of cave-dwelling animals. The Morlocks are a chilling manifestation of humanity's potential to adapt and degrade under extreme conditions. Their appearance contrasts sharply with the Eloi's delicate beauty, highlighting the novel's exploration of social and biological divergence. This moment marks the beginning of the narrator's deeper understanding of the dystopian reality beneath the surface."
+  - id: "luminous-by-reflection-creature-eyes"
+    trigger: "luminous by reflection"
+    title: "Why Do These Eyes Glow in the Dark?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eye_shine"
     image_url: ""
-    image_caption: "Illustration of Eloi, public domain"
-    content: "The Eloi are the surface-dwelling species in 'The Time Machine,' characterized by their childlike innocence and lack of ambition. They represent the upper class, weakened by generations of privilege and comfort. Wells uses the Eloi to critique the consequences of excessive leisure and the loss of intellectual and physical vigor. Their dependence on the Morlocks for survival highlights the dangers of complacency and the erosion of societal balance. The Eloi's existence serves as a cautionary tale about the fragility of civilization when progress is divorced from purpose."
-  - id: "social-stratification"
-    trigger: "social stratification"
-    title: "Social Stratification and Division"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Social_stratification"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/20220801_Economic_stratification_-_cross-class_friendships_-_bar_chart.svg/330px-20220801_Economic_stratification_-_cross-class_friendships_-_bar_chart.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "20220801 Economic stratification - cross-class friendships - bar chart (CC BY-SA 4.0)"
-    content: "Social stratification refers to the hierarchical arrangement of individuals in society based on wealth, power, and status. In 'The Time Machine,' Wells explores the extreme consequences of class division, imagining a future where the upper class (Eloi) and working class (Morlocks) evolve into distinct species. This concept reflects Victorian concerns about industrialization and the widening gap between rich and poor. Wells critiques the exploitation inherent in such systems, warning that unchecked inequality can lead to societal collapse and dehumanization."
-  - id: "ruins-of-ancient-buildings"
-    trigger: "ruins of ancient buildings"
-    title: "Ruins: Echoes of Civilization"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ruins"
+    image_caption: ""
+    content: "When the narrator encounters a pair of luminous eyes in the darkness, he is gripped by primal fear. This phenomenon, known as 'eye shine,' occurs when light reflects off the tapetum lucidum, a layer in the eyes of nocturnal animals. It enhances their vision in low light but also gives them an eerie appearance. Wells uses this detail to heighten the horror of the Morlocks, emphasizing their adaptation to underground life. The glowing eyes symbolize the stark divide between the surface world and the shadowy depths, reinforcing the novel's themes of evolution and survival."
+  - id: "human-spider-creature"
+    trigger: "human spider"
+    title: "The Terrifying Hybrid Crawling in the Shadows"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
     image_url: ""
-    image_caption: "Ruins of ancient structures, public domain"
-    content: "The ruins in 'The Time Machine' symbolize the decline of human civilization. Once grand structures now lie in decay, reflecting the passage of time and the erosion of societal achievements. Wells uses these ruins to emphasize the impermanence of progress and the consequences of neglecting social cohesion. They serve as a poignant reminder of humanity's potential for greatness and the fragility of its accomplishments when faced with inequality and complacency. The ruins also deepen the novel's themes of historical reflection and the cyclical nature of societal rise and fall."
-  - id: "cattle"
-    trigger: "cattle"
-    title: "Eloi as Cattle"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cattle"
+    image_caption: ""
+    content: "The narrator's description of the Morlock as a 'human spider' captures its grotesque blend of human and animal traits. Spiders, often associated with fear and darkness, add to the creature's unsettling aura. This imagery reflects the Morlocks' role as the antithesis of the Eloi, embodying the consequences of humanity's descent into division and exploitation. By likening the Morlocks to spiders, Wells taps into deep-seated fears, making their existence a powerful symbol of the novel's critique of social and industrial systems."
+  - id: "ventilating-towers-hidden-purpose"
+    trigger: "ventilating towers"
+    title: "What Do These Towers Really Ventilate?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ventilation_(architecture)"
     image_url: ""
-    image_caption: "Cattle grazing, public domain"
-    content: "In 'The Time Machine,' the Eloi are likened to cattle, bred and herded by the Morlocks for sustenance. This chilling metaphor underscores the complete dependence of the Eloi on the Morlocks and the predatory nature of their relationship. Wells uses this imagery to critique the exploitation of the powerless by the powerful, drawing parallels to the treatment of livestock in human society. The Eloi's fate serves as a stark warning about the dangers of complacency and the loss of agency, highlighting the moral and ethical consequences of unchecked social inequality."
-  - id: "palace-of-green-porcelain"
-    trigger: "palace of green porcelain"
-    title: "Palace of Green Porcelain"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Porcelain"
+    image_caption: ""
+    content: "The ventilating towers scattered across the landscape initially seem like harmless architectural features. But as the narrator pieces together their connection to the wells and the Morlocks, their true purpose becomes ominously clear. These towers are part of an extensive underground system, sustaining the Morlocks' subterranean existence. Wells uses these structures to symbolize the hidden mechanisms of society—the unseen labor that supports surface-level luxury. Their presence challenges the narrator's assumptions about progress, revealing the dark underbelly of this future world."
+  - id: "bleached-look-dark-evolution"
+    trigger: "bleached look"
+    title: "Why Do Creatures of Darkness Turn Pale?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Troglobite"
     image_url: ""
-    image_caption: "Porcelain artifacts, public domain"
-    content: "The palace of green porcelain in 'The Time Machine' serves as a decayed museum, housing remnants of human ingenuity and progress. Its cracked walls and scattered artifacts symbolize the decline of civilization and the loss of knowledge over time. Wells uses this setting to highlight the impermanence of human achievements and the dangers of neglecting history and innovation. The palace's treasures, including tools and weapons, contrast sharply with the Eloi's simplicity, emphasizing the gap between past greatness and present degeneration. It serves as a poignant reminder of humanity's potential and the importance of preserving its legacy."
+    image_caption: ""
+    content: "The narrator notes the Morlocks' 'bleached look,' a common trait among animals that live in perpetual darkness. Troglobites, such as cave fish, lose pigmentation and develop other adaptations to survive in lightless environments. This biological detail underscores the Morlocks' complete integration into their subterranean habitat. Wells uses this imagery to highlight the stark consequences of humanity's division, where one group thrives in the light while the other devolves in the dark. The Morlocks' pallor becomes a haunting reminder of the price of societal imbalance."
+  - id: "capitalist-and-labourer-future-divide"
+    trigger: "Capitalist and the Labourer"
+    title: "Could Class Divide Split Humanity in Two?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Social_class"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator theorizes that the division between Eloi and Morlocks stems from the widening gap between capitalists and laborers. This idea reflects Wells's critique of industrial society, where wealth and privilege isolate the upper class while the working class endures harsh conditions. The novel extrapolates this trend into a dystopian future, imagining a literal split in humanity. By linking the Morlocks to labor and the Eloi to leisure, Wells explores the consequences of unchecked social stratification, making the novel a prescient commentary on inequality."
+  - id: "the-morlocks-subterranean-species"
+    trigger: "the Morlocks"
+    title: "Who Are the Morlocks, Humanity's Dark Descendants?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
+    image_url: ""
+    image_caption: ""
+    content: "The Morlocks, introduced as pale, nocturnal creatures, represent the darker side of humanity's evolution. Their subterranean existence and industrial labor contrast sharply with the Eloi's carefree life above ground. Wells uses the Morlocks to critique the exploitation inherent in industrial capitalism, imagining a future where workers are literally driven underground. Their existence challenges the narrator's initial assumptions about progress, revealing a dystopian reality where humanity's triumphs lead to division and decay. The Morlocks embody the novel's central tension between light and darkness, privilege and labor."
+  - id: "the-younger-darwin-solar-catastrophe"
+    trigger: "the younger Darwin"
+    title: "Could the Sun's Heat Destroy the Earth?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/George_Howard_Darwin"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator speculates about the sun's increased heat, referencing George Howard Darwin, the son of Charles Darwin, who studied celestial mechanics. George Darwin proposed theories about the moon's formation and the eventual fate of planetary systems. Wells uses this scientific backdrop to imagine a future where solar catastrophes reshape Earth's climate. This detail adds a layer of cosmic inevitability to the novel, suggesting that humanity's fate is tied not only to social forces but also to the larger workings of the universe."
 ---
-I must confess that my first impression of my unwelcome visitors was hardly reassuring. The **Morlocks**, as I have named them, were not creatures to inspire confidence. Their pallid, moon-like faces, large eyes, and strange, almost ape-like movements were disquieting. They emerged from the well with a furtive stealth, their presence a shrouded mystery. It was as if they belonged to another world entirely, a world hidden beneath the surface, obscured from the light of day.
+“So far as I could see, all the world displayed the same exuberant
+richness as the Thames valley. From every hill I climbed I saw the same
+abundance of splendid buildings, endlessly varied in material and
+style, the same clustering thickets of evergreens, the same
+blossom-laden trees and tree ferns. Here and there water shone like
+silver, and beyond, the land rose into blue undulating hills, and so
+faded into the serenity of the sky. A peculiar feature, which presently
+attracted my attention, was the presence of certain **circular wells**,
+several, as it seemed to me, of a very great depth. One lay by the path
+up the hill which I had followed during my first walk. Like the others,
+it was rimmed with bronze, curiously wrought, and protected by a little
+cupola from the rain. Sitting by the side of these wells, and peering
+down into the shafted darkness, I could see no gleam of water, nor
+could I start any reflection with a lighted match. But in all of them I
+heard a certain sound: a thud—thud—thud, like the beating of some big
+engine; and I discovered, from the flaring of my matches, that a steady
+current of air set down the shafts. Further, I threw a scrap of paper
+into the throat of one, and, instead of fluttering slowly down, it was
+at once sucked swiftly out of sight.
 
-That night, after my encounter and escape, I remained awake, pondering the mysteries of this divided civilization. The surface people—the **Eloi**—were childlike and carefree, living in harmony but bereft of strength or curiosity. By contrast, the Morlocks were industrious and resourceful, yet grotesque and sinister. I began to discern the outlines of a grim symbiosis between them, a relationship built upon dependence and exploitation.
+“After a time, too, I came to connect these wells with tall towers
+standing here and there upon the slopes; for above them there was often
+just such a flicker in the air as one sees on a hot day above a
+sun-scorched beach. Putting things together, I reached a strong
+suggestion of an extensive system of subterranean ventilation, whose
+true import it was difficult to imagine. I was at first inclined to
+associate it with the sanitary apparatus of these people. It was an
+obvious conclusion, but it was absolutely wrong.
 
-It struck me then with startling clarity: this future society was the ultimate manifestation of the **social stratification** I had often contemplated in my own time. The Eloi, living in idleness amidst the ruins of a once-great civilization, epitomized the ultimate degeneration of the upper class, weakened by generations of comfort and privilege. The Morlocks, dwelling in their subterranean depths, represented the oppressed working class, transformed by necessity into creatures of darkness and toil. The division was complete, each group evolving into something alien to the other, and to humanity as I understood it.
+“And here I must admit that I learnt very little of drains and bells
+and modes of conveyance, and the like conveniences, during my time in
+this real future. In some of these visions of Utopias and coming times
+which I have read, there is a vast amount of detail about building, and
+social arrangements, and so forth. But while such details are easy
+enough to obtain when the whole world is contained in one’s
+imagination, they are altogether inaccessible to a real traveller amid
+such realities as I found here. Conceive the tale of London which a
+negro, fresh from Central Africa, would take back to his tribe! What
+would he know of railway companies, of social movements, of telephone
+and telegraph wires, of the Parcels Delivery Company, and postal orders
+and the like? Yet we, at least, should be willing enough to explain
+these things to him! And even of what he knew, how much could he make
+his untravelled friend either apprehend or believe? Then, think how
+narrow the gap between a negro and a white man of our own times, and
+how wide the interval between myself and these of the **Golden Age**! I was
+sensible of much which was unseen, and which contributed to my comfort;
+but save for a general impression of automatic organisation, I fear I
+can convey very little of the difference to your mind.
 
-The **ruins of ancient buildings** I had seen during my wanderings now took on new significance. These remnants of a vanished age spoke of a time when humanity had once achieved great heights of progress and culture. But as the centuries passed, the gulf between the classes widened, and the structure of society collapsed under the weight of its own inequities. The Eloi inherited the surface, basking in the remnants of luxury, while the Morlocks retreated underground, adapting to their harsh environment and taking on the labor their masters no longer performed.
+“In the matter of sepulture, for instance, I could see no signs of
+crematoria nor anything suggestive of tombs. But it occurred to me
+that, possibly, there might be cemeteries (or crematoria) somewhere
+beyond the range of my explorings. This, again, was a question I
+deliberately put to myself, and my curiosity was at first entirely
+defeated upon the point. The thing puzzled me, and I was led to make a
+further remark, which puzzled me still more: that aged and infirm among
+this people there were none.
 
-Yet, I could not escape the chilling realization that the Morlocks were more than mere workers. Their furtive visits to the surface, their lurking presence, and the disappearance of the Eloi all pointed to a darker truth. Over time, the dependence of the Eloi had grown so complete that they had become **cattle**, bred and herded by the Morlocks for sustenance. The flesh-eating habits of these subterranean creatures, hinted at by the scraps I had discovered near the wells, were a grim testament to this horrifying balance of power.
+“I must confess that my satisfaction with my first theories of an
+automatic civilisation and a decadent humanity did not long endure. Yet
+I could think of no other. Let me put my difficulties. The several big
+palaces I had explored were mere living places, great dining-halls and
+sleeping apartments. I could find no machinery, no appliances of any
+kind. Yet these people were clothed in pleasant fabrics that must at
+times need renewal, and their sandals, though undecorated, were fairly
+complex specimens of metalwork. Somehow such things must be made. And
+the little people displayed no vestige of a creative tendency. There
+were no shops, no workshops, no sign of importations among them. They
+spent all their time in playing gently, in bathing in the river, in
+making love in a half-playful fashion, in eating fruit and sleeping. I
+could not see how things were kept going.
 
-The **Time Machine** itself remained my greatest concern. Without it, I was trapped in this strange and hostile world, unable to return to my own time or warn anyone of the grim fate awaiting humanity. I resolved to find it, knowing that my survival depended upon its recovery. Yet, the prospect of venturing underground, into the domain of the Morlocks, filled me with dread. The wells, those dark portals to the underworld, seemed to mock me with their silent depths.
+“Then, again, about the Time Machine: something, I knew not what, had
+taken it into the hollow pedestal of **the White Sphinx**. _Why?_ For the
+life of me I could not imagine. Those waterless wells, too, those
+flickering pillars. I felt I lacked a clue. I felt—how shall I put it?
+Suppose you found an inscription, with sentences here and there in
+excellent plain English, and interpolated therewith, others made up of
+words, of letters even, absolutely unknown to you? Well, on the third
+day of my visit, that was how the world of Eight Hundred and Two
+Thousand Seven Hundred and One presented itself to me!
 
-I spent the next day exploring the surface again, searching for clues and attempting to understand more about the Eloi. They were a simple people, devoid of curiosity or ambition, yet strangely content in their fragile existence. Their language, though rudimentary, offered little insight into their history or the mechanisms of their society. The Eloi were like children, innocent and trusting, but blind to the dangers around them.
+“That day, too, I made a friend—of a sort. It happened that, as I was
+watching some of the little people bathing in a shallow, one of them
+was seized with cramp and began drifting downstream. The main current
+ran rather swiftly, but not too strongly for even a moderate swimmer.
+It will give you an idea, therefore, of the strange deficiency in these
+creatures, when I tell you that none made the slightest attempt to
+rescue the weakly crying little thing which was drowning before their
+eyes. When I realised this, I hurriedly slipped off my clothes, and,
+wading in at a point lower down, I caught the poor mite and drew her
+safe to land. A little rubbing of the limbs soon brought her round, and
+I had the satisfaction of seeing she was all right before I left her. I
+had got to such a low estimate of her kind that I did not expect any
+gratitude from her. In that, however, I was wrong.
 
-In the afternoon, I came upon a vast structure, its grandeur diminished by the passage of time. It was a **palace of green porcelain**, its walls cracked and weathered, yet still imposing. I entered cautiously, the echoes of my footsteps ringing through the silent halls. Inside, I found remnants of machinery and artifacts, relics of a bygone age. The place was a museum of sorts, its treasures scattered and decayed, yet still hinting at the achievements of the past.
+“This happened in the morning. In the afternoon I met my little woman,
+as I believe it was, as I was returning towards my centre from an
+exploration, and she received me with cries of delight and presented me
+with a big garland of flowers—evidently made for me and me alone. The
+thing took my imagination. Very possibly I had been feeling desolate.
+At any rate I did my best to display my appreciation of the gift. We
+were soon seated together in a little stone arbour, engaged in
+conversation, chiefly of smiles. The creature’s friendliness affected
+me exactly as a child’s might have done. We passed each other flowers,
+and she kissed my hands. I did the same to hers. Then I tried talk, and
+found that her name was **Weena**, which, though I don’t know what it
+meant, somehow seemed appropriate enough. That was the beginning of a
+queer friendship which lasted a week, and ended—as I will tell you!
 
-Among these relics, I stumbled upon something remarkable—a collection of tools and weapons. Though crude by the standards of my own era, they were far superior to anything the Eloi possessed. I took a **mace-like instrument**, its heft reassuring in my grasp, and resolved to use it to defend myself if necessary. These remnants of human ingenuity seemed to mock the Eloi’s current state, a poignant reminder of what had been lost.
+“She was exactly like a child. She wanted to be with me always. She
+tried to follow me everywhere, and on my next journey out and about it
+went to my heart to tire her down, and leave her at last, exhausted and
+calling after me rather plaintively. But the problems of the world had
+to be mastered. I had not, I said to myself, come into the future to
+carry on a miniature flirtation. Yet her distress when I left her was
+very great, her expostulations at the parting were sometimes frantic,
+and I think, altogether, I had as much trouble as comfort from her
+devotion. Nevertheless she was, somehow, a very great comfort. I
+thought it was mere childish affection that made her cling to me. Until
+it was too late, I did not clearly know what I had inflicted upon her
+when I left her. Nor until it was too late did I clearly understand
+what she was to me. For, by merely seeming fond of me, and showing in
+her weak, futile way that she cared for me, the little doll of a
+creature presently gave my return to the neighbourhood of the **White
+Sphinx** almost the feeling of coming home; and I would watch for her
+tiny figure of white and gold so soon as I came over the hill.
 
-As I emerged from the palace, the sun was setting, casting long shadows across the landscape. I could not shake the feeling that the Morlocks were watching me, their unseen eyes tracking my movements. I knew I would soon have to face them, to descend into their world and reclaim the Time Machine. The prospect filled me with both fear and determination.
+“It was from her, too, that I learnt that fear had not yet left the
+world. She was fearless enough in the daylight, and she had the oddest
+confidence in me; for once, in a foolish moment, I made threatening
+grimaces at her, and she simply laughed at them. But she dreaded the
+dark, dreaded shadows, dreaded black things. Darkness to her was the
+one thing dreadful. It was a singularly passionate emotion, and it set
+me thinking and observing. I discovered then, among other things, that
+these little people gathered into the great houses after dark, and
+slept in droves. To enter upon them without a light was to put them
+into a tumult of apprehension. I never found one out of doors, or one
+sleeping alone within doors, after dark. Yet I was still such a
+blockhead that I missed the lesson of that fear, and in spite of
+Weena’s distress, I insisted upon sleeping away from these slumbering
+multitudes.
 
-That night, as the stars began to pierce the darkened sky, I lay awake beneath the open heavens, contemplating the grim truth of this future. The **degeneration of humanity**, the collapse of civilization, and the rise of this divided existence were a sobering reflection of the path upon which my own time was set. I thought of the industrial cities, the growing divide between rich and poor, and the relentless march of progress that seemed so inevitable.
+“It troubled her greatly, but in the end her odd affection for me
+triumphed, and for five of the nights of our acquaintance, including
+the last night of all, she slept with her head pillowed on my arm. But
+my story slips away from me as I speak of her. It must have been the
+night before her rescue that I was awakened about dawn. I had been
+restless, dreaming most disagreeably that I was drowned, and that sea
+anemones were feeling over my face with their soft palps. I woke with a
+start, and with an odd fancy that some greyish animal had just rushed
+out of the chamber. I tried to get to sleep again, but I felt restless
+and uncomfortable. It was that dim grey hour when things are just
+creeping out of darkness, when everything is colourless and clear cut,
+and yet unreal. I got up, and went down into the great hall, and so out
+upon the flagstones in front of the palace. I thought I would make a
+virtue of necessity, and see the sunrise.
 
-I resolved to act, to face the Morlocks and reclaim my machine. But I also resolved to learn, to gather as much knowledge as I could about this world before I departed. The lessons of this future could serve as a warning, a guide to prevent the mistakes of the past from repeating themselves. The Eloi and the Morlocks were not merely creatures of this distant age—they were a mirror, reflecting the trajectory of human society and its perilous course.
+“The moon was setting, and the dying moonlight and the first pallor of
+dawn were mingled in a ghastly half-light. The bushes were inky black,
+the ground a sombre grey, the sky colourless and cheerless. And up the
+hill I thought I could see ghosts. Three several times, as I scanned
+the slope, I saw white figures. Twice I fancied I saw a solitary white,
+**ape-like creature** running rather quickly up the hill, and once near the
+ruins I saw a leash of them carrying some dark body. They moved
+hastily. I did not see what became of them. It seemed that they
+vanished among the bushes. The dawn was still indistinct, you must
+understand. I was feeling that chill, uncertain, early-morning feeling
+you may have known. I doubted my eyes.
 
-And so, as the shadows deepened and the night swallowed the land, I steeled myself for the challenges ahead. The wells awaited, their depths calling to me like the siren song of fate. The Time Machine was my salvation, but the journey to reclaim it would test every ounce of my resolve.
+“As the eastern sky grew brighter, and the light of the day came on and
+its vivid colouring returned upon the world once more, I scanned the
+view keenly. But I saw no vestige of my white figures. They were mere
+creatures of the half-light. ‘They must have been ghosts,’ I said; ‘I
+wonder whence they dated.’ For a queer notion of Grant Allen’s came
+into my head, and amused me. If each generation die and leave ghosts,
+he argued, the world at last will get overcrowded with them. On that
+theory they would have grown innumerable some Eight Hundred Thousand
+Years hence, and it was no great wonder to see four at once. But the
+jest was unsatisfying, and I was thinking of these figures all the
+morning, until Weena’s rescue drove them out of my head. I associated
+them in some indefinite way with the white animal I had startled in my
+first passionate search for the Time Machine. But Weena was a pleasant
+substitute. Yet all the same, they were soon destined to take far
+deadlier possession of my mind.
+
+“I think I have said how much hotter than our own was the weather of
+this Golden Age. I cannot account for it. It may be that the sun was
+hotter, or the earth nearer the sun. It is usual to assume that the sun
+will go on cooling steadily in the future. But people, unfamiliar with
+such speculations as those of **the younger Darwin**, forget that the
+planets must ultimately fall back one by one into the parent body. As
+these catastrophes occur, the sun will blaze with renewed energy; and
+it may be that some inner planet had suffered this fate. Whatever the
+reason, the fact remains that the sun was very much hotter than we know
+it.
+
+“Well, one very hot morning—my fourth, I think—as I was seeking shelter
+from the heat and glare in a colossal ruin near the great house where I
+slept and fed, there happened this strange thing. Clambering among
+these heaps of masonry, I found a narrow gallery, whose end and side
+windows were blocked by fallen masses of stone. By contrast with the
+brilliancy outside, it seemed at first impenetrably dark to me. I
+entered it groping, for the change from light to blackness made spots
+of colour swim before me. Suddenly I halted spellbound. A pair of eyes,
+**luminous by reflection** against the daylight without, was watching me
+out of the darkness.
+
+“The old instinctive dread of wild beasts came upon me. I clenched my
+hands and steadfastly looked into the glaring eyeballs. I was afraid to
+turn. Then the thought of the absolute security in which humanity
+appeared to be living came to my mind. And then I remembered that
+strange terror of the dark. Overcoming my fear to some extent, I
+advanced a step and spoke. I will admit that my voice was harsh and
+ill-controlled. I put out my hand and touched something soft. At once
+the eyes darted sideways, and something white ran past me. I turned
+with my heart in my mouth, and saw a queer little ape-like figure, its
+head held down in a peculiar manner, running across the sunlit space
+behind me. It blundered against a block of granite, staggered aside,
+and in a moment was hidden in a black shadow beneath another pile of
+ruined masonry.
+
+“My impression of it is, of course, imperfect; but I know it was a dull
+white, and had strange large greyish-red eyes; also that there was
+flaxen hair on its head and down its back. But, as I say, it went too
+fast for me to see distinctly. I cannot even say whether it ran on all
+fours, or only with its forearms held very low. After an instant’s
+pause I followed it into the second heap of ruins. I could not find it
+at first; but, after a time in the profound obscurity, I came upon one
+of those round well-like openings of which I have told you, half closed
+by a fallen pillar. A sudden thought came to me. Could this Thing have
+vanished down the shaft? I lit a match, and, looking down, I saw a
+small, white, moving creature, with large bright eyes which regarded me
+steadfastly as it retreated. It made me shudder. It was so like a **human
+spider**! It was clambering down the wall, and now I saw for the first
+time a number of metal foot and hand rests forming a kind of ladder
+down the shaft. Then the light burned my fingers and fell out of my
+hand, going out as it dropped, and when I had lit another the little
+monster had disappeared.
+
+“I do not know how long I sat peering down that well. It was not for
+some time that I could succeed in persuading myself that the thing I
+had seen was human. But, gradually, the truth dawned on me: that Man
+had not remained one species, but had differentiated into two distinct
+animals: that my graceful children of the Upper World were not the sole
+descendants of our generation, but that this bleached, obscene,
+nocturnal Thing, which had flashed before me, was also heir to all the
+ages.
+
+“I thought of the flickering pillars and of my theory of an underground
+ventilation. I began to suspect their true import. And what, I
+wondered, was this Lemur doing in my scheme of a perfectly balanced
+organisation? How was it related to the indolent serenity of the
+beautiful Overworlders? And what was hidden down there, at the foot of
+that shaft? I sat upon the edge of the well telling myself that, at any
+rate, there was nothing to fear, and that there I must descend for the
+solution of my difficulties. And withal I was absolutely afraid to go!
+As I hesitated, two of the beautiful upperworld people came running in
+their amorous sport across the daylight in the shadow. The male pursued
+the female, flinging flowers at her as he ran.
+
+“They seemed distressed to find me, my arm against the overturned
+pillar, peering down the well. Apparently it was considered bad form to
+remark these apertures; for when I pointed to this one, and tried to
+frame a question about it in their tongue, they were still more visibly
+distressed and turned away. But they were interested by my matches, and
+I struck some to amuse them. I tried them again about the well, and
+again I failed. So presently I left them, meaning to go back to Weena,
+and see what I could get from her. But my mind was already in
+revolution; my guesses and impressions were slipping and sliding to a
+new adjustment. I had now a clue to the import of these wells, to the
+**ventilating towers**, to the mystery of the ghosts; to say nothing of a
+hint at the meaning of the bronze gates and the fate of the Time
+Machine! And very vaguely there came a suggestion towards the solution
+of the economic problem that had puzzled me.
+
+“Here was the new view. Plainly, this second species of Man was
+subterranean. There were three circumstances in particular which made
+me think that its rare emergence above ground was the outcome of a
+long-continued underground habit. In the first place, there was the
+**bleached look** common in most animals that live largely in the dark—the
+white fish of the Kentucky caves, for instance. Then, those large eyes,
+with that capacity for reflecting light, are common features of
+nocturnal things—witness the owl and the cat. And last of all, that
+evident confusion in the sunshine, that hasty yet fumbling awkward
+flight towards dark shadow, and that peculiar carriage of the head
+while in the light—all reinforced the theory of an extreme
+sensitiveness of the retina.
+
+“Beneath my feet, then, the earth must be tunnelled enormously, and
+these tunnellings were the habitat of the New Race. The presence of
+ventilating shafts and wells along the hill slopes—everywhere, in fact,
+except along the river valley—showed how universal were its
+ramifications. What so natural, then, as to assume that it was in this
+artificial Underworld that such work as was necessary to the comfort of
+the daylight race was done? The notion was so plausible that I at once
+accepted it, and went on to assume the _how_ of this splitting of the
+human species. I dare say you will anticipate the shape of my theory;
+though, for myself, I very soon felt that it fell far short of the
+truth.
+
+“At first, proceeding from the problems of our own age, it seemed clear
+as daylight to me that the gradual widening of the present merely
+temporary and social difference between the **Capitalist and the Labourer**
+was the key to the whole position. No doubt it will seem grotesque
+enough to you—and wildly incredible!—and yet even now there are
+existing circumstances to point that way. There is a tendency to
+utilise underground space for the less ornamental purposes of
+civilisation; there is the Metropolitan Railway in London, for
+instance, there are new electric railways, there are subways, there are
+underground workrooms and restaurants, and they increase and multiply.
+Evidently, I thought, this tendency had increased till Industry had
+gradually lost its birthright in the sky. I mean that it had gone
+deeper and deeper into larger and ever larger underground factories,
+spending a still-increasing amount of its time therein, till, in the
+end—! Even now, does not an East-end worker live in such artificial
+conditions as practically to be cut off from the natural surface of the
+earth?
+
+“Again, the exclusive tendency of richer people—due, no doubt, to the
+increasing refinement of their education, and the widening gulf between
+them and the rude violence of the poor—is already leading to the
+closing, in their interest, of considerable portions of the surface of
+the land. About London, for instance, perhaps half the prettier country
+is shut in against intrusion. And this same widening gulf—which is due
+to the length and expense of the higher educational process and the
+increased facilities for and temptations towards refined habits on the
+part of the rich—will make that exchange between class and class, that
+promotion by intermarriage which at present retards the splitting of
+our species along lines of social stratification, less and less
+frequent. So, in the end, above ground you must have the Haves,
+pursuing pleasure and comfort and beauty, and below ground the
+Have-nots, the Workers getting continually adapted to the conditions of
+their labour. Once they were there, they would no doubt have to pay
+rent, and not a little of it, for the ventilation of their caverns; and
+if they refused, they would starve or be suffocated for arrears. Such
+of them as were so constituted as to be miserable and rebellious would
+die; and, in the end, the balance being permanent, the survivors would
+become as well adapted to the conditions of underground life, and as
+happy in their way, as the Overworld people were to theirs. As it
+seemed to me, the refined beauty and the etiolated pallor followed
+naturally enough.
+
+“The great triumph of Humanity I had dreamed of took a different shape
+in my mind. It had been no such triumph of moral education and general
+co-operation as I had imagined. Instead, I saw a real aristocracy,
+armed with a perfected science and working to a logical conclusion the
+industrial system of today. Its triumph had not been simply a triumph
+over Nature, but a triumph over Nature and the fellow-man. This, I must
+warn you, was my theory at the time. I had no convenient cicerone in
+the pattern of the Utopian books. My explanation may be absolutely
+wrong. I still think it is the most plausible one. But even on this
+supposition the balanced civilisation that was at last attained must
+have long since passed its zenith, and was now far fallen into decay.
+The too-perfect security of the Overworlders had led them to a slow
+movement of degeneration, to a general dwindling in size, strength, and
+intelligence. That I could see clearly enough already. What had
+happened to the Undergrounders I did not yet suspect; but, from what I
+had seen of **the Morlocks**—that, by the bye, was the name by which these
+creatures were called—I could imagine that the modification of the
+human type was even far more profound than among the ‘Eloi,’ the
+beautiful race that I already knew.
+
+“Then came troublesome doubts. Why had the Morlocks taken my Time
+Machine? For I felt sure it was they who had taken it. Why, too, if the
+Eloi were masters, could they not restore the machine to me? And why
+were they so terribly afraid of the dark? I proceeded, as I have said,
+to question Weena about this Underworld, but here again I was
+disappointed. At first she would not understand my questions, and
+presently she refused to answer them. She shivered as though the topic
+was unendurable. And when I pressed her, perhaps a little harshly, she
+burst into tears. They were the only tears, except my own, I ever saw
+in that Golden Age. When I saw them I ceased abruptly to trouble about
+the Morlocks, and was only concerned in banishing these signs of her
+human inheritance from Weena’s eyes. And very soon she was smiling and
+clapping her hands, while I solemnly burnt a match.

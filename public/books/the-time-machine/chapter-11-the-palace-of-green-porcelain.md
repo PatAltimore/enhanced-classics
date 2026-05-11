@@ -9,131 +9,289 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The Time Traveller approaches the Palace of Green Porcelain, a mysterious and abandoned structure from a bygone civilization."
+  - point: "The narrator discovers the Palace of Green Porcelain, a decaying structure made of porcelain, resembling a museum."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "The Eloi, delicate and carefree beings, contrast with the lurking menace of the Morlocks in the twilight world."
-    link: "https://en.wikipedia.org/wiki/Eloi_and_Morlocks"
-    link_label: "Eloi and Morlocks"
-  - point: "Inside the palace, the Time Traveller discovers colossal statues and remnants of ancient architecture, hinting at a lost advanced civilization."
-    link: "https://en.wikipedia.org/wiki/Ancient_architecture"
-    link_label: "Ancient architecture"
-  - point: "The Time Traveller finds decaying books, maps, and artifacts, representing the remnants of human knowledge and history."
+  - point: "Inside the palace, he finds galleries filled with fossils, minerals, and remnants of natural history exhibits."
+    link: "https://en.wikipedia.org/wiki/Paleontology"
+    link_label: "Paleontology"
+  - point: "The narrator encounters decaying books and reflects on the futility of intellectual ambition."
     link: "https://en.wikipedia.org/wiki/Library"
     link_label: "Library"
-  - point: "He discovers a crude weapon and machinery, which he hopes will aid him against the Morlocks' growing threat."
-    link: "https://en.wikipedia.org/wiki/Weapon"
-    link_label: "Weapon"
-  - point: "The chapter ends with the Time Traveller leaving the palace, determined to protect the Eloi and confront the dangers of the Morlocks."
-    link: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    link_label: "The Time Machine"
+  - point: "He discovers matches and camphor, which provide him with tools to defend against the Morlocks."
+    link: "https://en.wikipedia.org/wiki/Camphor"
+    link_label: "Camphor"
+  - point: "The narrator finds dynamite cartridges but realizes they are dummies, thwarting his plans for an explosion."
+    link: "https://en.wikipedia.org/wiki/Dynamite"
+    link_label: "Dynamite"
+  - point: "As night approaches, he decides to use fire as protection against the Morlocks and plans to retrieve the Time Machine."
+    link: "https://en.wikipedia.org/wiki/Morlock"
+    link_label: "Morlocks"
 
 enhancements:
   - id: "palace-of-green-porcelain"
     trigger: "Palace of Green Porcelain"
-    title: "Palace of Green Porcelain"
+    title: "Why a Museum Became a Palace of Ruin"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bowl_with_green_landscape_in_falangcai_painted_enamels.tif/lossy-page1-330px-Bowl_with_green_landscape_in_falangcai_painted_enamels.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Bowl with green landscape in falangcai painted enamels (CC BY 4.0)"
-    content: "The Palace of Green Porcelain is a key location in H.G. Wells' 'The Time Machine,' symbolizing the remnants of a once-great civilization. Its green, aged surface and abandoned state evoke themes of decay and the passage of time. The palace serves as a repository of lost knowledge, housing books, artifacts, and machinery that hint at the technological and intellectual achievements of humanity before its decline. This setting underscores the novel's exploration of entropy and the fragility of human progress, as well as the Time Traveller's quest to understand and survive in a world transformed by the forces of evolution and societal collapse."
-  - id: "eloi"
-    trigger: "Eloi"
-    title: "Eloi: Fragile Future Humanity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi_and_Morlocks"
     image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Eloi are one of the two post-human species depicted in 'The Time Machine.' Representing the descendants of the upper classes, they are physically delicate and emotionally detached, living a carefree existence on the surface of the Earth. Their idyllic lifestyle is juxtaposed with their vulnerability and ignorance, as they are preyed upon by the Morlocks. The Eloi embody Wells' critique of social stratification and the potential consequences of unchecked leisure and privilege, serving as a cautionary tale about the dangers of stagnation and dependency."
-  - id: "architecture"
-    trigger: "architecture"
-    title: "Ancient Architecture in Fiction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_architecture"
+    image_caption: ""
+    content: "When the narrator first encounters the Palace of Green Porcelain, its grandeur has faded into decay, with shattered windows and corroded framework. This moment evokes the fragility of human achievement, as even monumental structures succumb to time. The choice of porcelain as the building material is intriguing; porcelain, known for its durability and beauty, ironically becomes a symbol of impermanence in this dystopian future. In the late 19th century, porcelain was often associated with refinement and progress, making its ruin here a poignant commentary on the fleeting nature of civilization. Wells uses this setting to underscore the theme of entropy, showing how even the most advanced creations of humanity are ultimately vulnerable to the inexorable forces of decay. The Palace becomes a haunting metaphor for the collapse of intellectual and cultural ambition, setting the stage for the narrator's exploration of its remnants."
+  - id: "south-kensington"
+    trigger: "South Kensington"
+    title: "Was This Museum Inspired by London's Science Hub?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/South_Kensington"
     image_url: ""
-    image_caption: "The Parthenon, an example of ancient architecture, Wikimedia Commons"
-    content: "The architecture described in the Palace of Green Porcelain reflects the grandeur and ingenuity of a civilization long past. In literature, ancient architecture often serves as a metaphor for human achievement and its impermanence. The intricate designs and imposing structures evoke a sense of awe and loss, reminding readers of the transient nature of civilizations. Wells uses this motif to highlight the themes of decay and the cyclical nature of history, as the Time Traveller encounters the ruins of a world that once thrived but has now succumbed to entropy."
-  - id: "colossal-statues"
-    trigger: "colossal statues"
-    title: "Colossal Statues in History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Colossus"
+    image_caption: ""
+    content: "The narrator likens the Palace of Green Porcelain to South Kensington, a district in London renowned for its museums, including the Natural History Museum and the Science Museum. This comparison is no accident; by the time Wells wrote \"The Time Machine,\" South Kensington had become synonymous with scientific and cultural advancement. These institutions were showcases of human ingenuity, housing collections that celebrated the triumphs of exploration and discovery. Yet, in Wells's imagined future, the museum's treasures lie in ruin, a stark reminder of the impermanence of progress. By invoking South Kensington, Wells draws a direct line between the optimism of his own era and the dystopian decay he envisions, challenging readers to consider the long-term sustainability of human achievement. The narrator's discovery of fossils and machinery amidst the dust echoes the fragility of the knowledge preserved in such institutions, raising questions about what truly endures."
+  - id: "gallery-of-simply-colossal-proportions"
+    trigger: "gallery of simply colossal proportions"
+    title: "What Secrets Lurked in This Vast Hall?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Museum"
     image_url: ""
-    image_caption: "Imagined depiction of the Colossus of Rhodes, public domain"
-    content: "Colossal statues have been a hallmark of human civilizations, symbolizing power, religion, and cultural identity. From the Colossus of Rhodes to the statues of Easter Island, these monumental works reflect humanity's desire to leave a lasting legacy. In 'The Time Machine,' the worn statues in the Palace of Green Porcelain suggest the erosion of such legacies over time, emphasizing the novel's themes of decay and the impermanence of human achievements. Their presence adds to the eerie atmosphere of the palace, serving as silent witnesses to the passage of millennia."
-  - id: "books"
-    trigger: "books"
-    title: "Books as Knowledge Repositories"
+    image_caption: ""
+    content: "As the narrator ventures into the gallery of colossal proportions, he finds himself surrounded by massive, corroded machines. The sheer scale of the space and its contents evokes awe and mystery, suggesting the technological ambitions of a bygone era. The gallery's dim lighting and sloping floor add an eerie atmosphere, hinting at the Morlocks' presence and the dangers that lie ahead. This moment captures Wells's fascination with machinery and its dual nature as both a marvel and a menace. In the late 19th century, industrialization was transforming society, bringing both progress and peril. The narrator's puzzlement over the machines reflects humanity's struggle to understand and control the tools it creates. Wells uses this setting to explore themes of technological hubris and the unintended consequences of innovation, as the gallery becomes a haunting testament to the rise and fall of a civilization."
+  - id: "peculiar-pattering"
+    trigger: "peculiar pattering"
+    title: "The Sound That Revived Fear of the Morlocks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Morlock"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator's sense of unease intensifies when he hears a peculiar pattering in the gallery's darkness. This sound, reminiscent of the noises he encountered near the Morlocks' underground lair, reignites his fear of these sinister creatures. The pattering is more than just a physical noise; it symbolizes the lurking threat of the Morlocks and their dominance in this dystopian world. Wells's depiction of the Morlocks as shadowy, almost animalistic figures taps into Victorian anxieties about the consequences of social and technological divides. The pattering serves as a chilling reminder of the narrator's vulnerability and the predatory nature of the Morlocks. By focusing on sound rather than sight, Wells heightens the suspense and immerses readers in the narrator's growing dread. This moment underscores the tension between light and darkness, knowledge and ignorance, as the narrator struggles to navigate a world where danger is always just out of view."
+  - id: "decaying-vestiges-of-books"
+    trigger: "decaying vestiges of books"
+    title: "What Do Rotting Books Say About Civilization?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Library"
     image_url: ""
-    image_caption: "Library of Celsus, Wikimedia Commons"
-    content: "Books have long been symbols of knowledge, culture, and history. In 'The Time Machine,' the decaying books in the Palace of Green Porcelain represent the fragility of human knowledge in the face of time and neglect. Libraries and books are often depicted in literature as treasures of wisdom, but here they are reduced to dust, underscoring the novel's themes of entropy and the loss of human achievement. This imagery serves as a poignant reminder of the importance of preserving knowledge and the inevitability of its decay without care and stewardship."
-  - id: "maps"
-    trigger: "maps"
-    title: "Maps: Charting the World"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Map"
-    image_url: ""
-    image_caption: "World map from 1689, Wikimedia Commons"
-    content: "Maps have been vital tools for exploration, understanding geography, and documenting the changing world. In 'The Time Machine,' the faded maps found in the Palace of Green Porcelain symbolize the passage of time and the transformation of the Earth. They serve as a reminder of humanity's attempts to chart and control its environment, even as those efforts are rendered obsolete by the forces of nature and evolution. The maps also highlight the novel's themes of exploration and the unknown, as the Time Traveller navigates a world vastly different from his own."
-  - id: "weapon"
-    trigger: "weapon"
-    title: "Weapons in Survival"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Weapon"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/M6_Aircrew_Survival_Weapon.svg/330px-M6_Aircrew_Survival_Weapon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "M6 Aircrew Survival Weapon (CC BY-SA 2.0)"
-    content: "The crude weapon discovered by the Time Traveller in the Palace of Green Porcelain symbolizes his struggle for survival in a hostile world. Weapons have historically been tools for defense and conquest, shaping the course of human history. In the novel, the metal bar serves as a lifeline against the Morlocks, representing the ingenuity and resourcefulness required to navigate a dangerous environment. This moment underscores the novel's themes of adaptation and resilience, as the Time Traveller uses the remnants of a lost civilization to confront the challenges of his present."
-  - id: "artifacts"
-    trigger: "artifacts"
-    title: "Artifacts of Lost Civilizations"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Artifact_(archaeology)"
-    image_url: ""
-    image_caption: "Artifacts from Tutankhamun's tomb, Wikimedia Commons"
-    content: "Artifacts are tangible remnants of past civilizations, offering insights into their culture, technology, and daily life. In 'The Time Machine,' the artifacts in the Palace of Green Porcelain evoke a sense of wonder and loss, as they represent the achievements of humanity now forgotten. These objects connect the Time Traveller to the people who created them, bridging the vast chasm of time. Their presence in the novel highlights themes of historical continuity and the impermanence of human endeavors, reminding readers of the fleeting nature of progress and legacy."
-  - id: "darkness"
-    trigger: "darkness"
-    title: "Darkness as a Literary Symbol"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Darkness"
+    image_caption: ""
+    content: "The narrator's discovery of decaying books in the Palace of Green Porcelain is a poignant moment that encapsulates the fragility of human knowledge. The books, reduced to warped boards and metallic clasps, symbolize the impermanence of intellectual achievement. Wells's choice to highlight the decay of literature reflects his concern about the sustainability of cultural progress. In the Victorian era, libraries were seen as bastions of enlightenment, preserving the collective wisdom of humanity. Yet, in this dystopian future, even the most carefully curated collections have succumbed to time. The narrator's reflection on the \"enormous waste of labour\" speaks to the futility of ambition in the face of entropy. This moment invites readers to consider the legacy of their own era and the forces that threaten to erase it. The decaying books become a haunting metaphor for the ephemerality of human endeavor, challenging the belief in the permanence of progress."
+  - id: "sealed-jar"
+    trigger: "sealed jar"
+    title: "How Did Camphor Survive Thousands of Years?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Camphor"
     image_url: ""
     image_caption: ""
-    content: "Darkness is a powerful symbol in literature, often representing fear, ignorance, and the unknown. In 'The Time Machine,' the encroaching darkness serves as an ally to the Morlocks, heightening the tension and danger faced by the Time Traveller. It symbolizes the decline of civilization and the primal forces that have overtaken the world. The interplay between light and darkness in the novel underscores its themes of knowledge versus ignorance, safety versus peril, and the cyclical nature of human progress and regression."
-  - id: "machinery"
-    trigger: "machinery"
-    title: "Machinery and Human Progress"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Machine"
+    content: "The narrator's discovery of camphor in a sealed jar is a surprising moment in the Palace of Green Porcelain. Despite the universal decay surrounding him, this volatile substance has survived, preserved by the jar's hermetic seal. Camphor, a waxy, flammable material, has been used for centuries in medicine, embalming, and as a moth repellent. Its survival here is a testament to the power of airtight preservation, a detail that underscores the fragility of everything else in the museum. Wells's inclusion of camphor serves both a practical and symbolic purpose: it provides the narrator with a source of light and protection against the Morlocks, while also highlighting the randomness of what endures. The jar becomes a small but potent symbol of resilience amidst decay, offering a glimmer of hope in a world dominated by entropy. This moment deepens the narrative's exploration of survival and the forces that shape what remains of human civilization."
+  - id: "dynamite-cartridges"
+    trigger: "dynamite cartridges"
+    title: "Why Did These Explosives Turn Out to Be Dummies?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dynamite"
     image_url: ""
     image_caption: ""
-    content: "Machinery has long been a symbol of human ingenuity and progress, representing the ability to harness nature and create complex systems. In 'The Time Machine,' the frozen machinery in the Palace of Green Porcelain serves as a poignant reminder of a civilization that once thrived but has now fallen into ruin. These mechanisms, enigmatic and beyond the Time Traveller's understanding, highlight the novel's themes of technological advancement and its eventual obsolescence. They underscore the fragility of human achievements in the face of time and the inexorable forces of nature."
-  - id: "morlocks"
-    trigger: "Morlocks"
-    title: "Morlocks: Humanity's Dark Future"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi_and_Morlocks"
-    image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Morlocks are the subterranean counterpart to the Eloi in 'The Time Machine,' representing the descendants of the working class. Pale, brutish, and predatory, they embody the darker side of humanity's evolution, shaped by exploitation and survival in harsh conditions. The Morlocks' relationship with the Eloi reflects Wells' critique of class divisions and the consequences of industrialization. Their presence in the novel serves as a chilling reminder of the potential for humanity to devolve into primal, predatory forms when societal structures collapse."
-  - id: "sunset"
-    trigger: "sunset"
-    title: "Sunset as a Symbol"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sunset"
-    image_url: ""
-    image_caption: "Sunset in the Arctic, Wikimedia Commons"
-    content: "Sunsets are often used in literature to symbolize endings, transitions, and the passage of time. In 'The Time Machine,' the bruised purple sunset marks the close of the day and the encroachment of danger, as the Morlocks become more active in the darkness. This imagery underscores the novel's themes of decay and the cyclical nature of time, as the Time Traveller navigates a world where light and hope are fleeting. The sunset serves as a poignant reminder of the fragility of life and the inevitability of change."
+    content: "The narrator's discovery of dynamite cartridges in the museum initially fills him with excitement, as he imagines using them to break through the bronze doors or confront the Morlocks. However, his hopes are dashed when he realizes the cartridges are dummies, likely preserved as museum exhibits rather than functional explosives. Dynamite, invented by Alfred Nobel in 1867, revolutionized construction and warfare, symbolizing both progress and destruction. Its presence in the Palace of Green Porcelain serves as a reminder of humanity's technological achievements and their eventual obsolescence. The narrator's disappointment highlights the gap between the expectations of the past and the realities of the future. This moment underscores the theme of decay and the limits of human ingenuity, as even the most powerful tools lose their potency over time. The dummies become a metaphor for the futility of relying on the relics of a bygone era to solve the challenges of the present."
 ---
-I found myself in a strange mood as I approached the **Palace of Green Porcelain**. It stood afar, its walls gleaming faintly under the scattered light of the waning day, its green surface dulled by the dust of ages, yet retaining a certain stateliness that stirred my imagination. I had seen it from a distance many times but now resolved to explore it, hoping to find some clue, some tool, that could aid me in my struggle against the Morlocks.
+“I found the **Palace of Green Porcelain**, when we approached it about
+noon, deserted and falling into ruin. Only ragged vestiges of glass
+remained in its windows, and great sheets of the green facing had
+fallen away from the corroded metallic framework. It lay very high upon
+a turfy down, and looking north-eastward before I entered it, I was
+surprised to see a large estuary, or even creek, where I judged
+Wandsworth and Battersea must once have been. I thought then—though I
+never followed up the thought—of what might have happened, or might be
+happening, to the living things in the sea.
 
-The journey was not without trepidation. The strange twilight world, where the Eloi frolicked like children and the Morlocks lurked unseen beneath the earth, had grown increasingly oppressive. Before me, the **Eloi**, those delicate creatures, flitted with their characteristic languor, their laughter light yet hollow, as if the world held no true weight for them. Behind me, I felt the lurking presence of the Morlocks—a creeping unease that made my skin crawl. It seemed to me that their shadow had lengthened as the days passed, and I wondered how long the fragile peace of the Eloi could endure.
+“The material of the Palace proved on examination to be indeed
+porcelain, and along the face of it I saw an inscription in some
+unknown character. I thought, rather foolishly, that Weena might help
+me to interpret this, but I only learnt that the bare idea of writing
+had never entered her head. She always seemed to me, I fancy, more
+human than she was, perhaps because her affection was so human.
 
-At last, I reached the imposing building, its green surface cracked and stained, the air around it heavy with abandonment. The **architecture** was unlike anything I had seen before, its lines both graceful and strange, suggesting a civilization advanced and yet long departed. The doors, massive and unyielding, stood slightly ajar, as if beckoning me into its depths. I paused momentarily, steeling myself, and then stepped forward.
+“Within the big valves of the door—which were open and broken—we found,
+instead of the customary hall, a long gallery lit by many side windows.
+At the first glance I was reminded of a museum. The tiled floor was
+thick with dust, and a remarkable array of miscellaneous objects was
+shrouded in the same grey covering. Then I perceived, standing strange
+and gaunt in the centre of the hall, what was clearly the lower part of
+a huge skeleton. I recognised by the oblique feet that it was some
+extinct creature after the fashion of the Megatherium. The skull and
+the upper bones lay beside it in the thick dust, and in one place,
+where rain-water had dropped through a leak in the roof, the thing
+itself had been worn away. Further in the gallery was the huge skeleton
+barrel of a Brontosaurus. My museum hypothesis was confirmed. Going
+towards the side I found what appeared to be sloping shelves, and
+clearing away the thick dust, I found the old familiar glass cases of
+our own time. But they must have been air-tight to judge from the fair
+preservation of some of their contents.
 
-Inside, the air was cool and still, carrying the faint scent of dust and decay. The great hall was lined with **colossal statues**, their forms worn smooth by time, their features indistinct but imposing. The ceiling soared high above me, its intricate designs obscured in shadow. Here and there, shards of broken glass glittered on the floor, remnants of windows that had long since surrendered to the elements.
+“Clearly we stood among the ruins of some latter-day **South Kensington**!
+Here, apparently, was the Palæontological Section, and a very splendid
+array of fossils it must have been, though the inevitable process of
+decay that had been staved off for a time, and had, through the
+extinction of bacteria and fungi, lost ninety-nine hundredths of its
+force, was nevertheless, with extreme sureness if with extreme slowness
+at work again upon all its treasures. Here and there I found traces of
+the little people in the shape of rare fossils broken to pieces or
+threaded in strings upon reeds. And the cases had in some instances
+been bodily removed—by the Morlocks, as I judged. The place was very
+silent. The thick dust deadened our footsteps. Weena, who had been
+rolling a sea urchin down the sloping glass of a case, presently came,
+as I stared about me, and very quietly took my hand and stood beside
+me.
 
-I wandered deeper into the palace, my footsteps echoing eerily in the vast emptiness. The silence was oppressive, broken only by the occasional rustle of unseen creatures hiding in the dark. As I progressed, I came upon a room filled with **books**—or what remained of them. The air carried the faint musk of decomposing paper, and the shelves leaned precariously, their contents crumbling to dust at the slightest touch. I could not help but feel a pang of sorrow as I gazed upon the remnants of knowledge, once vast and vibrant, now reduced to ruins.
+“And at first I was so much surprised by this ancient monument of an
+intellectual age that I gave no thought to the possibilities it
+presented. Even my preoccupation about the Time Machine receded a
+little from my mind.
 
-Among the decaying volumes, I found a few objects of interest. There were **maps**, faded but still legible, depicting lands and seas that had long since changed or disappeared. There were strange instruments, their purpose inscrutable but their craftsmanship exquisite. And then, in a corner, I found what I had been seeking—a **weapon**, crude but effective. It was a metal bar, sturdy and heavy, likely part of some ancient machine. I hefted it in my hands, feeling a measure of comfort in its weight. It was not much, but it was something—a tool, a defense against the lurking dangers of this world.
+“To judge from the size of the place, this Palace of Green Porcelain
+had a great deal more in it than a Gallery of Palæontology; possibly
+historical galleries; it might be, even a library! To me, at least in
+my present circumstances, these would be vastly more interesting than
+this spectacle of old-time geology in decay. Exploring, I found another
+short gallery running transversely to the first. This appeared to be
+devoted to minerals, and the sight of a block of sulphur set my mind
+running on gunpowder. But I could find no saltpetre; indeed, no
+nitrates of any kind. Doubtless they had deliquesced ages ago. Yet the
+sulphur hung in my mind, and set up a train of thinking. As for the
+rest of the contents of that gallery, though on the whole they were the
+best preserved of all I saw, I had little interest. I am no specialist
+in mineralogy, and I went on down a very ruinous aisle running parallel
+to the first hall I had entered. Apparently this section had been
+devoted to natural history, but everything had long since passed out of
+recognition. A few shrivelled and blackened vestiges of what had once
+been stuffed animals, desiccated mummies in jars that had once held
+spirit, a brown dust of departed plants: that was all! I was sorry for
+that, because I should have been glad to trace the patient
+readjustments by which the conquest of animated nature had been
+attained. Then we came to a **gallery of simply colossal proportions**, but
+singularly ill-lit, the floor of it running downward at a slight angle
+from the end at which I entered. At intervals white globes hung from
+the ceiling—many of them cracked and smashed—which suggested that
+originally the place had been artificially lit. Here I was more in my
+element, for rising on either side of me were the huge bulks of big
+machines, all greatly corroded and many broken down, but some still
+fairly complete. You know I have a certain weakness for mechanism, and
+I was inclined to linger among these; the more so as for the most part
+they had the interest of puzzles, and I could make only the vaguest
+guesses at what they were for. I fancied that if I could solve their
+puzzles I should find myself in possession of powers that might be of
+use against the Morlocks.
 
-As I explored further, I stumbled upon a gallery of wonders—cases filled with **artifacts** from ages past, preserved in glass but layered with dust. Here were tools of stone and metal, delicate carvings, and intricate mechanisms whose purpose I could only guess. There were specimens of plants and animals long extinct, their forms frozen in time. Among these treasures, I felt a strange kinship with the people who had created them, a connection across the vast chasm of time.
+“Suddenly Weena came very close to my side. So suddenly that she
+startled me. Had it not been for her I do not think I should have
+noticed that the floor of the gallery sloped at all. [Footnote: It may
+be, of course, that the floor did not slope, but that the museum was
+built into the side of a hill.—ED.] The end I had come in at was quite
+above ground, and was lit by rare slit-like windows. As you went down
+the length, the ground came up against these windows, until at last
+there was a pit like the ‘area‘ of a London house before each, and only
+a narrow line of daylight at the top. I went slowly along, puzzling
+about the machines, and had been too intent upon them to notice the
+gradual diminution of the light, until Weena’s increasing apprehensions
+drew my attention. Then I saw that the gallery ran down at last into a
+thick darkness. I hesitated, and then, as I looked round me, I saw that
+the dust was less abundant and its surface less even. Further away
+towards the dimness, it appeared to be broken by a number of small
+narrow footprints. My sense of the immediate presence of the Morlocks
+revived at that. I felt that I was wasting my time in the academic
+examination of machinery. I called to mind that it was already far
+advanced in the afternoon, and that I had still no weapon, no refuge,
+and no means of making a fire. And then down in the remote blackness of
+the gallery I heard a **peculiar pattering**, and the same odd noises I had
+heard down the well.
 
-But this sense of wonder was fleeting, for I knew the Morlocks would not remain idle. The **darkness** was their ally, and I could feel its encroachment as the day waned. I hurried through the halls, my eyes searching for anything that might aid me further. In a vast chamber, I found a collection of **machinery**, its gears and levers frozen in place, its purpose enigmatic. I studied it briefly, but the mechanisms were beyond my understanding, their complexity a reminder of the lost knowledge of this world.
+“I took Weena’s hand. Then, struck with a sudden idea, I left her and
+turned to a machine from which projected a lever not unlike those in a
+signal-box. Clambering upon the stand, and grasping this lever in my
+hands, I put all my weight upon it sideways. Suddenly Weena, deserted
+in the central aisle, began to whimper. I had judged the strength of
+the lever pretty correctly, for it snapped after a minute’s strain, and
+I rejoined her with a mace in my hand more than sufficient, I judged,
+for any Morlock skull I might encounter. And I longed very much to kill
+a Morlock or so. Very inhuman, you may think, to want to go killing
+one’s own descendants! But it was impossible, somehow, to feel any
+humanity in the things. Only my disinclination to leave Weena, and a
+persuasion that if I began to slake my thirst for murder my Time
+Machine might suffer, restrained me from going straight down the
+gallery and killing the brutes I heard.
 
-As the shadows deepened, I became acutely aware of the dangers that surrounded me. The **Morlocks**, those pale, brutish creatures, were never far from my thoughts. Their presence was a constant specter, a reminder of the world’s descent into darkness. I had seen their handiwork—the traps, the hidden passages—and I knew they would not hesitate to strike if given the chance.
+“Well, mace in one hand and Weena in the other, I went out of that
+gallery and into another and still larger one, which at the first
+glance reminded me of a military chapel hung with tattered flags. The
+brown and charred rags that hung from the sides of it, I presently
+recognised as the **decaying vestiges of books**. They had long since
+dropped to pieces, and every semblance of print had left them. But here
+and there were warped boards and cracked metallic clasps that told the
+tale well enough. Had I been a literary man I might, perhaps, have
+moralised upon the futility of all ambition. But as it was, the thing
+that struck me with keenest force was the enormous waste of labour to
+which this sombre wilderness of rotting paper testified. At the time I
+will confess that I thought chiefly of the _Philosophical Transactions_
+and my own seventeen papers upon physical optics.
 
-At last, I emerged from the palace, carrying my newfound weapon and a sense of urgency. The sky was a deep, bruised purple, the faint glow of the **sunset** lingering on the horizon. The Eloi, scattered about the landscape, seemed oblivious to the coming night, their carefree demeanor unchanged. I felt a pang of frustration at their ignorance, but I knew it was not their fault. They were creatures of this strange world, shaped by forces I could barely comprehend.
+“Then, going up a broad staircase, we came to what may once have been a
+gallery of technical chemistry. And here I had not a little hope of
+useful discoveries. Except at one end where the roof had collapsed,
+this gallery was well preserved. I went eagerly to every unbroken case.
+And at last, in one of the really air-tight cases, I found a box of
+matches. Very eagerly I tried them. They were perfectly good. They were
+not even damp. I turned to Weena. ‘Dance,’ I cried to her in her own
+tongue. For now I had a weapon indeed against the horrible creatures we
+feared. And so, in that derelict museum, upon the thick soft carpeting
+of dust, to Weena’s huge delight, I solemnly performed a kind of
+composite dance, whistling _The Land of the Leal_ as cheerfully as I
+could. In part it was a modest _cancan_, in part a step dance, in part
+a skirt dance (so far as my tail-coat permitted), and in part original.
+For I am naturally inventive, as you know.
 
-As I made my way back to the White Sphinx, my thoughts were heavy with the weight of what I had seen. The palace, with its treasures and its decay, was a poignant reminder of the passage of time and the fragility of civilization. I resolved to use what I had found to protect myself and the Eloi, to fight against the darkness that threatened to consume this world.
+“Now, I still think that for this box of matches to have escaped the
+wear of time for immemorial years was a most strange, as for me it was
+a most fortunate, thing. Yet, oddly enough, I found a far unlikelier
+substance, and that was camphor. I found it in a **sealed jar**, that by
+chance, I suppose, had been really hermetically sealed. I fancied at
+first that it was paraffin wax, and smashed the glass accordingly. But
+the odour of camphor was unmistakable. In the universal decay this
+volatile substance had chanced to survive, perhaps through many
+thousands of centuries. It reminded me of a sepia painting I had once
+seen done from the ink of a fossil Belemnite that must have perished
+and become fossilised millions of years ago. I was about to throw it
+away, but I remembered that it was inflammable and burnt with a good
+bright flame—was, in fact, an excellent candle—and I put it in my
+pocket. I found no explosives, however, nor any means of breaking down
+the bronze doors. As yet my iron crowbar was the most helpful thing I
+had chanced upon. Nevertheless I left that gallery greatly elated.
 
-The journey was fraught with unease, the shadows lengthening with every step. The Morlocks were out there, waiting, their intent hidden but unmistakable. I gripped the metal bar tightly, my resolve firm. I would not let them deter me. This world was strange and perilous, but I was determined to navigate its challenges, to uncover its secrets, and to find my way back to the time from which I had come.
+“I cannot tell you all the story of that long afternoon. It would
+require a great effort of memory to recall my explorations in at all
+the proper order. I remember a long gallery of rusting stands of arms,
+and how I hesitated between my crowbar and a hatchet or a sword. I
+could not carry both, however, and my bar of iron promised best against
+the bronze gates. There were numbers of guns, pistols, and rifles. The
+most were masses of rust, but many were of some new metal, and still
+fairly sound. But any cartridges or powder there may once have been had
+rotted into dust. One corner I saw was charred and shattered; perhaps,
+I thought, by an explosion among the specimens. In another place was a
+vast array of idols—Polynesian, Mexican, Grecian, Phœnician, every
+country on earth, I should think. And here, yielding to an irresistible
+impulse, I wrote my name upon the nose of a steatite monster from South
+America that particularly took my fancy.
+
+“As the evening drew on, my interest waned. I went through gallery
+after gallery, dusty, silent, often ruinous, the exhibits sometimes
+mere heaps of rust and lignite, sometimes fresher. In one place I
+suddenly found myself near the model of a tin mine, and then by the
+merest accident I discovered, in an air-tight case, two **dynamite
+cartridges**! I shouted ‘Eureka!’ and smashed the case with joy. Then
+came a doubt. I hesitated. Then, selecting a little side gallery, I
+made my essay. I never felt such a disappointment as I did in waiting
+five, ten, fifteen minutes for an explosion that never came. Of course
+the things were dummies, as I might have guessed from their presence. I
+really believe that had they not been so, I should have rushed off
+incontinently and blown Sphinx, bronze doors, and (as it proved) my
+chances of finding the Time Machine, all together into non-existence.
+
+“It was after that, I think, that we came to a little open court within
+the palace. It was turfed, and had three fruit-trees. So we rested and
+refreshed ourselves. Towards sunset I began to consider our position.
+Night was creeping upon us, and my inaccessible hiding-place had still
+to be found. But that troubled me very little now. I had in my
+possession a thing that was, perhaps, the best of all defences against
+the Morlocks—I had matches! I had the camphor in my pocket, too, if a
+blaze were needed. It seemed to me that the best thing we could do
+would be to pass the night in the open, protected by a fire. In the
+morning there was the getting of the Time Machine. Towards that, as
+yet, I had only my iron mace. But now, with my growing knowledge, I
+felt very differently towards those bronze doors. Up to this, I had
+refrained from forcing them, largely because of the mystery on the
+other side. They had never impressed me as being very strong, and I
+hoped to find my bar of iron not altogether inadequate for the work.

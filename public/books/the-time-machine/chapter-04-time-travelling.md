@@ -9,105 +9,265 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The narrator begins his time travel experiment, setting the levers and dials on his machine."
+  - point: "The Time Traveller recounts the completion and first use of his Time Machine."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "As the machine activates, the narrator experiences the rapid passage of time and observes changes in the environment."
+  - point: "He describes the unsettling sensations of time travel, comparing them to a switchback ride."
     link: "https://en.wikipedia.org/wiki/Time_travel"
     link_label: "Time travel"
-  - point: "The narrator encounters the Eloi, a peaceful and fragile people living in an idyllic society."
+  - point: "The Time Traveller observes rapid changes in the landscape and celestial phenomena as he accelerates through time."
+    link: "https://en.wikipedia.org/wiki/Solstice"
+    link_label: "Solstice"
+  - point: "He stops in the distant future and encounters a colossal statue resembling a winged sphinx."
+    link: "https://en.wikipedia.org/wiki/Sphinx"
+    link_label: "Sphinx"
+  - point: "The Time Traveller notices strange architecture and encounters a small, frail humanoid creature in a purple tunic."
     link: "https://en.wikipedia.org/wiki/Eloi"
     link_label: "Eloi"
-  - point: "Exploring further, the narrator discovers the Morlocks, a subterranean and predatory species."
-    link: "https://en.wikipedia.org/wiki/Morlocks"
-    link_label: "Morlocks"
-  - point: "The narrator reflects on the division between the Eloi and Morlocks, pondering the societal and evolutionary implications."
-    link: "https://en.wikipedia.org/wiki/Social_evolution"
-    link_label: "Social evolution"
-  - point: "The ruins and tunnels suggest a collapsed civilization, prompting the narrator to seek answers about humanity's future."
-    link: "https://en.wikipedia.org/wiki/Civilizational_collapse"
-    link_label: "Civilizational collapse"
 
 enhancements:
-  - id: "chronometer-timekeeping-device"
-    trigger: "chronometer"
-    title: "Chronometer: Precision Timekeeping"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Chronometer"
+  - id: "starting-lever-time-machine"
+    trigger: "the starting lever"
+    title: "How a Lever Became the Key to Time Travel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lever"
     image_url: ""
     image_caption: ""
-    content: "A chronometer is a highly accurate timekeeping device, originally developed for navigation at sea. Its precision allowed sailors to determine longitude, revolutionizing maritime exploration in the 18th century. In the context of 'The Time Machine,' the chronometer symbolizes the importance of precise measurement in scientific experimentation. The narrator's reliance on this device underscores the meticulous planning required for his groundbreaking journey through time."
-  - id: "time-itself-concept"
-    trigger: "time itself"
-    title: "Concept of Time"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time"
-    image_url: ""
-    image_caption: "Time measurement illustration, Wikimedia Commons"
-    content: "Time is a fundamental concept in physics, philosophy, and human experience. It governs the sequence of events and is central to theories like relativity, which reshaped our understanding of the universe. In 'The Time Machine,' H.G. Wells explores time as a dimension that can be traversed, challenging traditional notions of its linearity. This bold idea reflects the scientific curiosity of the late 19th century, when breakthroughs in physics and technology were expanding the boundaries of human knowledge."
-  - id: "phantasmal-dancers-metaphor"
-    trigger: "phantasmal dancers"
-    title: "Phantasmal Dancers: A Metaphor"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Metaphor"
+    content: "When the Time Traveller grips the starting lever, he initiates his journey into the unknown—a moment charged with both anticipation and dread. The lever, a simple mechanical device, symbolizes control over the vast and uncontrollable dimension of time. Levers have been fundamental to engineering since ancient civilizations, from Archimedes' principle of leverage to their use in modern machinery. In Wells' narrative, the lever is not just a tool but a metaphor for humanity's audacious attempt to manipulate natural laws. By anchoring the fantastical concept of time travel to a tangible, everyday object, Wells grounds his story in a sense of plausibility. The lever's simplicity contrasts sharply with the complexity of the Time Machine itself, emphasizing the paradox of human ingenuity: profound advancements often hinge on the simplest mechanisms."
+  - id: "peculiar-sensations-time-travelling"
+    trigger: "peculiar sensations of time travelling"
+    title: "What Does Time Travel Feel Like?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time_travel"
     image_url: ""
     image_caption: ""
-    content: "The phrase 'phantasmal dancers' is a vivid metaphor used to describe the rapid alternation of day and night during the narrator's time travel. Metaphors like this enrich literary texts by conveying complex phenomena in relatable terms. Here, the imagery captures the surreal and dreamlike quality of the narrator's experience, emphasizing the disorienting effects of moving through time at an accelerated pace."
-  - id: "gardens-outside-my-study"
-    trigger: "gardens outside my study"
-    title: "Gardens as a Symbol"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Garden"
-    image_url: ""
-    image_caption: "Garden flowers, Wikimedia Commons"
-    content: "Gardens often symbolize cultivation, growth, and the passage of time. In 'The Time Machine,' the narrator's garden transforms dramatically during his journey, reflecting the relentless forces of nature and time. This imagery serves as a poignant reminder of humanity's fleeting influence on the natural world, as well as the impermanence of human achievements in the face of time's inexorable march."
-  - id: "landscape-itself-transformation"
-    trigger: "landscape itself"
-    title: "Changing Landscapes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Landscape"
-    image_url: ""
-    image_caption: "Landscape view, Wikimedia Commons"
-    content: "Landscapes are shaped by geological, ecological, and human forces over time. In 'The Time Machine,' the narrator observes the transformation of his familiar surroundings into a wild and alien terrain. This shift underscores the novel's themes of impermanence and evolution, highlighting how environments adapt to the passage of time and the impact of human activity—or its absence—on the natural world."
-  - id: "alien-landscape-future-world"
-    trigger: "alien landscape"
-    title: "Alien Landscape: A Future World"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Alien_landscape"
+    content: "The Time Traveller describes the sensations of time travel as deeply unsettling, likening them to the helpless motion of a switchback ride. This vivid imagery captures the disorientation and physical unease of moving through time at unnatural speeds. While time travel remains a speculative concept, physicists have explored its theoretical implications through Einstein's theory of relativity, which suggests that time dilation occurs at high velocities. Wells, however, focuses on the human experience—how such a journey might feel rather than the mechanics behind it. By emphasizing the visceral discomfort, Wells underscores the alien nature of time travel, making it a psychological as well as a physical challenge. This focus on sensation invites readers to imagine themselves in the Traveller's position, heightening the immediacy of the narrative."
+  - id: "sun-belt-swayed-solstice"
+    trigger: "the sun belt swayed"
+    title: "Why the Sun's Path Changes Across Seasons"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Solstice"
     image_url: ""
     image_caption: ""
-    content: "The term 'alien landscape' evokes a sense of unfamiliarity and wonder, often associated with science fiction. In 'The Time Machine,' the narrator's arrival in a future world introduces him to a terrain that is both beautiful and unsettling. This setting serves as a backdrop for exploring themes of societal collapse, evolution, and the consequences of humanity's choices. The alien landscape challenges the narrator's perceptions, forcing him to confront the unknown and reevaluate his understanding of progress."
-  - id: "intellectual-vigor-humanity"
-    trigger: "intellectual vigor"
-    title: "Intellectual Vigor and Humanity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Human_intelligence"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Intelligenz_nach_Haier.png/330px-Intelligenz_nach_Haier.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Intelligenz nach Haier (angelehnt an Grafik aus 978-1107461437) (CC BY-SA 4.0)"
-    content: "Intellectual vigor refers to the capacity for critical thinking, creativity, and curiosity—qualities often associated with human progress. In 'The Time Machine,' the Eloi lack these traits, raising questions about the role of intellect in societal development. Their simplicity contrasts sharply with the narrator's scientific mindset, highlighting the potential consequences of a world where intellectual pursuits are abandoned. This theme invites readers to consider the balance between technological advancement and the preservation of human curiosity and ambition."
-  - id: "evolution-itself-division"
-    trigger: "evolution itself"
-    title: "Evolution and Division"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Evolution"
+    content: "As the Time Traveller accelerates through time, he notices the sun belt swaying rapidly from solstice to solstice—a visual representation of Earth's axial tilt and orbital motion. The solstices, marking the longest and shortest days of the year, occur because Earth's axis is tilted relative to its orbit around the sun. This tilt creates the seasonal variations we experience, with the sun appearing higher or lower in the sky depending on the time of year. Wells uses this astronomical phenomenon to illustrate the dizzying pace of time travel, compressing years into minutes. The swaying sun belt serves as a reminder of the natural rhythms that govern life on Earth, rhythms that become almost incomprehensible when viewed through the lens of accelerated time."
+  - id: "great-splendid-architecture"
+    trigger: "great and splendid architecture"
+    title: "Imagining the Future's Monumental Structures"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Architecture"
     image_url: ""
-    image_caption: "Darwin's finches, Wikimedia Commons"
-    content: "Evolution is the process by which species adapt and change over generations. In 'The Time Machine,' the division between the Eloi and Morlocks represents a stark example of evolutionary divergence, shaped by environmental and societal factors. This concept reflects H.G. Wells's interest in Darwinian theory and its implications for humanity's future. The novel uses evolution as a lens to explore themes of class, survival, and the potential consequences of unchecked societal stratification."
+    image_caption: ""
+    content: "The Time Traveller glimpses massive, ethereal buildings rising and fading as he moves through time. These structures, described as more splendid and massive than any of his own era, reflect Wells' fascination with humanity's potential for progress. Architecture has long been a marker of civilization's achievements, from the pyramids of Egypt to the skyscrapers of the modern age. In envisioning future architecture, Wells taps into the Victorian era's optimism about technological and societal advancement. Yet, the dreamlike quality of these buildings—built of 'glimmer and mist'—suggests impermanence, hinting at the fragility of human accomplishments. This fleeting vision raises questions about the durability of progress and the legacy we leave behind as time marches on."
+  - id: "profound-chemical-reaction"
+    trigger: "profound chemical reaction"
+    title: "Could Time Travel Trigger Explosive Consequences?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chemical_reaction"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller fears that stopping the machine might cause a profound chemical reaction, potentially resulting in an explosion. This concern stems from the idea that his atoms could collide with those of an obstacle, creating an unpredictable molecular interaction. While this scenario is fictional, it reflects real scientific principles: chemical reactions occur when atoms or molecules interact, often releasing energy. Wells uses this concept to heighten the tension and stakes of time travel, blending scientific plausibility with speculative fiction. The risk of such a catastrophic event underscores the dangers of tampering with natural laws, a recurring theme in Wells' work. It also serves as a metaphor for the unforeseen consequences of technological innovation—a cautionary note in the midst of the story's adventurous tone."
+  - id: "winged-sphinx-statue"
+    trigger: "winged sphinx"
+    title: "Why a Sphinx Guards the Future's Secrets"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sphinx"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller encounters a colossal statue resembling a winged sphinx, its enigmatic smile and weather-worn features adding to the mystery of the future world. The sphinx, a mythical creature with the body of a lion and the head of a human, has long symbolized riddles and hidden knowledge. In ancient Greek mythology, the sphinx posed a deadly riddle to travelers, while in Egyptian culture, it represented guardianship and power. Wells' choice of a sphinx as a prominent feature in the future landscape suggests that humanity's destiny is shrouded in mystery, with answers that may be as elusive as the creature itself. The statue's decay hints at the passage of time and the impermanence of even the most monumental achievements, setting the stage for the Traveller's exploration of this strange new world."
+  - id: "huge-buildings-intricate-parapets"
+    trigger: "huge buildings with intricate parapets"
+    title: "What Future Cities Might Look Like"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Skyscraper"
+    image_url: ""
+    image_caption: ""
+    content: "As the hailstorm clears, the Time Traveller sees vast buildings with intricate parapets and tall columns, their grandeur contrasting with the natural landscape. These structures evoke the architectural ambition of the future, where humanity's ingenuity reaches new heights. Parapets, traditionally used for defense or decoration, suggest a blend of practicality and artistry. Wells' description reflects the Victorian era's fascination with urbanization and technological progress, imagining a world where cities become monumental expressions of human achievement. Yet, the Traveller's unease hints at the alienation such advancements might bring, raising questions about the relationship between humanity and its creations. The towering buildings stand as both a testament to progress and a reminder of its potential to overshadow the natural world."
+  - id: "purple-tunic-creature"
+    trigger: "purple tunic"
+    title: "Why Purple Was Once the Color of Power"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tyrian_purple"
+    image_url: ""
+    image_caption: ""
+    content: "The first humanoid creature the Time Traveller encounters wears a purple tunic, a detail that carries historical significance. Purple has long been associated with royalty and power due to the rarity and expense of Tyrian purple dye, derived from sea snails in ancient times. Its exclusivity made it a symbol of wealth and status, reserved for emperors and elites. In Wells' future world, the use of purple might suggest a lingering cultural memory of its significance or a new interpretation of its meaning. The creature's frailty and beauty contrast sharply with the historical connotations of strength and authority tied to the color, adding to the sense of disorientation and mystery in this unfamiliar world. This juxtaposition invites readers to question how symbols and meanings evolve over time."
 ---
-It was at ten o’clock the following morning, precisely as I had determined, that I began my experiment. One last glance at the **chronometer**, ticking steadily upon the mantel, confirmed the hour. I had set all the levers and dials to their proper positions. The polished brass rods of the machine gleamed in the soft light of my study, and I could feel the faint hum of the machinery beneath my fingertips. This was the culmination of months—nay, years—of laborious invention and speculation. I had resolved to test the bounds of **time itself**, to breach the veil that separates the known present from the uncharted future.
+“I told some of you last Thursday of the principles of the Time
+Machine, and showed you the actual thing itself, incomplete in the
+workshop. There it is now, a little travel-worn, truly; and one of the
+ivory bars is cracked, and a brass rail bent; but the rest of it’s
+sound enough. I expected to finish it on Friday; but on Friday, when
+the putting together was nearly done, I found that one of the nickel
+bars was exactly one inch too short, and this I had to get remade; so
+that the thing was not complete until this morning. It was at ten
+o’clock today that the first of all Time Machines began its career. I
+gave it a last tap, tried all the screws again, put one more drop of
+oil on the quartz rod, and sat myself in the saddle. I suppose a
+suicide who holds a pistol to his skull feels much the same wonder at
+what will come next as I felt then. I took **the starting lever** in one
+hand and the stopping one in the other, pressed the first, and almost
+immediately the second. I seemed to reel; I felt a nightmare sensation
+of falling; and, looking round, I saw the laboratory exactly as before.
+Had anything happened? For a moment I suspected that my intellect had
+tricked me. Then I noted the clock. A moment before, as it seemed, it
+had stood at a minute or so past ten; now it was nearly half-past
+three!
 
-With a deliberate motion, I pressed the lever forward. At once, I felt a peculiar sensation, as though the world around me had melted into a fluid, shimmering haze. The room, the bookshelves, the dim light from the window—all seemed to warp and distort. The ticking of the **chronometer** accelerated into a continuous hum, and the pendulum of the wall-clock became a blur. A strange dizziness overtook me, a vertigo not of height but of existence itself. And then, as I held firmly to the machine, I saw the first true sign of my journey: the world outside the window began to flicker and race, the sun and moon chasing each other across the sky like **phantasmal dancers**.
+“I drew a breath, set my teeth, gripped the starting lever with both
+hands, and went off with a thud. The laboratory got hazy and went dark.
+Mrs. Watchett came in and walked, apparently without seeing me, towards
+the garden door. I suppose it took her a minute or so to traverse the
+place, but to me she seemed to shoot across the room like a rocket. I
+pressed the lever over to its extreme position. The night came like the
+turning out of a lamp, and in another moment came tomorrow. The
+laboratory grew faint and hazy, then fainter and ever fainter. Tomorrow
+night came black, then day again, night again, day again, faster and
+faster still. An eddying murmur filled my ears, and a strange, dumb
+confusedness descended on my mind.
 
-The sensation was intoxicating. Days flitted by like leaves caught in a gale, and I watched the passage of time unfold with awe. The **gardens outside my study**, carefully tended through years of devotion, grew wild and untamed before my very eyes. The ivy climbed hungrily over the walls, and the distant hum of civilization seemed to wane. Faster still I moved, and the very seasons blurred into indistinct streaks of color—green giving way to white, white to gold, gold to green again. And then, as the machine surged forward, the **landscape itself** began to change.
+“I am afraid I cannot convey the **peculiar sensations of time
+travelling**. They are excessively unpleasant. There is a feeling exactly
+like that one has upon a switchback—of a helpless headlong motion! I
+felt the same horrible anticipation, too, of an imminent smash. As I
+put on pace, night followed day like the flapping of a black wing. The
+dim suggestion of the laboratory seemed presently to fall away from me,
+and I saw the sun hopping swiftly across the sky, leaping it every
+minute, and every minute marking a day. I supposed the laboratory had
+been destroyed and I had come into the open air. I had a dim impression
+of scaffolding, but I was already going too fast to be conscious of any
+moving things. The slowest snail that ever crawled dashed by too fast
+for me. The twinkling succession of darkness and light was excessively
+painful to the eye. Then, in the intermittent darknesses, I saw the
+moon spinning swiftly through her quarters from new to full, and had a
+faint glimpse of the circling stars. Presently, as I went on, still
+gaining velocity, the palpitation of night and day merged into one
+continuous greyness; the sky took on a wonderful deepness of blue, a
+splendid luminous colour like that of early twilight; the jerking sun
+became a streak of fire, a brilliant arch, in space; the moon a fainter
+fluctuating band; and I could see nothing of the stars, save now and
+then a brighter circle flickering in the blue.
 
-The city I once knew began to vanish, its chimneys and rooftops dissolving into the earth as though consumed by the relentless passage of time. In their place sprang verdant meadows, dotted with the blossoms of strange and unfamiliar flowers. The sky above grew clearer, purer, as though humanity’s industrial scars had been erased. I slowed the machine slightly, eager to observe this future world more closely, but still the years slipped past in their relentless cascade.
+“The landscape was misty and vague. I was still on the hillside upon
+which this house now stands, and the shoulder rose above me grey and
+dim. I saw trees growing and changing like puffs of vapour, now brown,
+now green; they grew, spread, shivered, and passed away. I saw huge
+buildings rise up faint and fair, and pass like dreams. The whole
+surface of the earth seemed changed—melting and flowing under my eyes.
+The little hands upon the dials that registered my speed raced round
+faster and faster. Presently I noted that **the sun belt swayed** up and
+down, from solstice to solstice, in a minute or less, and that
+consequently my pace was over a year a minute; and minute by minute the
+white snow flashed across the world, and vanished, and was followed by
+the bright, brief green of spring.
 
-At last, I brought the machine to a halt. The hum and vibration ceased, and I found myself surrounded by stillness. The air was warm and fragrant, and the sky above was a deep and tranquil blue. Stepping cautiously from the machine, I took in the **alien landscape** around me. The ruins of some ancient structure lay nearby, its stones worn smooth by untold centuries. Beyond, a river wound lazily through the valley, its waters sparkling in the sunlight. And scattered across the lush greenery were figures—human figures, or so I thought at first glance.
+“The unpleasant sensations of the start were less poignant now. They
+merged at last into a kind of hysterical exhilaration. I remarked,
+indeed, a clumsy swaying of the machine, for which I was unable to
+account. But my mind was too confused to attend to it, so with a kind
+of madness growing upon me, I flung myself into futurity. At first I
+scarce thought of stopping, scarce thought of anything but these new
+sensations. But presently a fresh series of impressions grew up in my
+mind—a certain curiosity and therewith a certain dread—until at last
+they took complete possession of me. What strange developments of
+humanity, what wonderful advances upon our rudimentary civilisation, I
+thought, might not appear when I came to look nearly into the dim
+elusive world that raced and fluctuated before my eyes! I saw **great and
+splendid architecture** rising about me, more massive than any buildings
+of our own time, and yet, as it seemed, built of glimmer and mist. I
+saw a richer green flow up the hillside, and remain there, without any
+wintry intermission. Even through the veil of my confusion the earth
+seemed very fair. And so my mind came round to the business of
+stopping.
 
-They were slight and delicate, their movements languid and graceful. Their clothing was simple, almost childlike, and their faces bore an air of perpetual contentment. They seemed to live without care or labor, their lives a pastoral idyll. As I approached, the nearest of them turned to look at me, their large, luminous eyes filled with curiosity rather than fear. I greeted them in English, but they did not reply. It seemed they did not understand my words or, perhaps, had no language of their own. Yet they did not shy away; rather, they gathered around me, touching my clothes and hair with gentle fascination.
+“The peculiar risk lay in the possibility of my finding some substance
+in the space which I, or the machine, occupied. So long as I travelled
+at a high velocity through time, this scarcely mattered: I was, so to
+speak, attenuated—was slipping like a vapour through the interstices of
+intervening substances! But to come to a stop involved the jamming of
+myself, molecule by molecule, into whatever lay in my way; meant
+bringing my atoms into such intimate contact with those of the obstacle
+that a **profound chemical reaction**—possibly a far-reaching
+explosion—would result, and blow myself and my apparatus out of all
+possible dimensions—into the Unknown. This possibility had occurred to
+me again and again while I was making the machine; but then I had
+cheerfully accepted it as an unavoidable risk—one of the risks a man
+has got to take! Now the risk was inevitable, I no longer saw it in the
+same cheerful light. The fact is that, insensibly, the absolute
+strangeness of everything, the sickly jarring and swaying of the
+machine, above all, the feeling of prolonged falling, had absolutely
+upset my nerves. I told myself that I could never stop, and with a gust
+of petulance I resolved to stop forthwith. Like an impatient fool, I
+lugged over the lever, and incontinently the thing went reeling over,
+and I was flung headlong through the air.
 
-I soon learned that these people were called the **Eloi**, though whether this was their own name or merely one I assigned them, I cannot say. They led me to their dwelling—a great hall of stone, open to the air and adorned with flowers. Here, they offered me fruits of strange shapes and colors, sweet and refreshing to the taste. Their hospitality was effortless, as though born not from obligation but from a natural disposition toward kindness.
+“There was the sound of a clap of thunder in my ears. I may have been
+stunned for a moment. A pitiless hail was hissing round me, and I was
+sitting on soft turf in front of the overset machine. Everything still
+seemed grey, but presently I remarked that the confusion in my ears was
+gone. I looked round me. I was on what seemed to be a little lawn in a
+garden, surrounded by rhododendron bushes, and I noticed that their
+mauve and purple blossoms were dropping in a shower under the beating
+of the hailstones. The rebounding, dancing hail hung in a little cloud
+over the machine, and drove along the ground like smoke. In a moment I
+was wet to the skin. ‘Fine hospitality,’ said I, ‘to a man who has
+travelled innumerable years to see you.’
 
-But even as I enjoyed their company, I could not help but feel a growing unease. For all their beauty and charm, the Eloi seemed curiously fragile, their minds untroubled by curiosity or ambition. Their conversations, as far as I could decipher them, were simplistic and devoid of depth. They seemed to lack the **intellectual vigor** that I had always considered essential to humanity. And yet, their world was one of peace and abundance, unmarred by conflict or toil. Could it be that they had evolved beyond the need for struggle, that their simplicity was the result of a perfected society?
+“Presently I thought what a fool I was to get wet. I stood up and
+looked round me. A colossal figure, carved apparently in some white
+stone, loomed indistinctly beyond the rhododendrons through the hazy
+downpour. But all else of the world was invisible.
 
-As I pondered these questions, I began to notice certain peculiarities in the landscape. The ruins that dotted the valley were extensive, far more numerous than I had first realized. They spoke of a civilization far older and more complex than the Eloi, a civilization that had evidently collapsed. What had become of it? And why had the Eloi, with their idyllic existence, shown no interest in its remnants?
+“My sensations would be hard to describe. As the columns of hail grew
+thinner, I saw the white figure more distinctly. It was very large, for
+a silver birch-tree touched its shoulder. It was of white marble, in
+shape something like a **winged sphinx**, but the wings, instead of being
+carried vertically at the sides, were spread so that it seemed to
+hover. The pedestal, it appeared to me, was of bronze, and was thick
+with verdigris. It chanced that the face was towards me; the sightless
+eyes seemed to watch me; there was the faint shadow of a smile on the
+lips. It was greatly weather-worn, and that imparted an unpleasant
+suggestion of disease. I stood looking at it for a little space—half a
+minute, perhaps, or half an hour. It seemed to advance and to recede as
+the hail drove before it denser or thinner. At last I tore my eyes from
+it for a moment, and saw that the hail curtain had worn threadbare, and
+that the sky was lightening with the promise of the sun.
 
-My curiosity led me to explore further afield, and it was during one of these excursions that I first encountered the **Morlocks**. Descending into a dark, subterranean tunnel, I came upon a series of crumbling steps that led deep into the earth. The air grew cooler as I ventured downward, and the flickering light from my torch revealed a network of chambers and passages. It was here, in the shadows, that I saw them—pale, hunched figures with large, luminous eyes, moving silently through the gloom.
+“I looked up again at the crouching white shape, and the full temerity
+of my voyage came suddenly upon me. What might appear when that hazy
+curtain was altogether withdrawn? What might not have happened to men?
+What if cruelty had grown into a common passion? What if in this
+interval the race had lost its manliness, and had developed into
+something inhuman, unsympathetic, and overwhelmingly powerful? I might
+seem some old-world savage animal, only the more dreadful and
+disgusting for our common likeness—a foul creature to be incontinently
+slain.
 
-The sight of them filled me with a visceral dread. Unlike the Eloi, the Morlocks had a savage, almost animalistic appearance. They seemed to inhabit the underground like vermin, their movements furtive and predatory. Yet they were clearly intelligent, for the chambers they inhabited were constructed with a precision that belied their brutish forms. They watched me warily but did not approach, and I did not linger. The encounter left me shaken, my mind racing with questions.
+“Already I saw other vast shapes—**huge buildings with intricate parapets**
+and tall columns, with a wooded hillside dimly creeping in upon me
+through the lessening storm. I was seized with a panic fear. I turned
+frantically to the Time Machine, and strove hard to readjust it. As I
+did so the shafts of the sun smote through the thunderstorm. The grey
+downpour was swept aside and vanished like the trailing garments of a
+ghost. Above me, in the intense blue of the summer sky, some faint
+brown shreds of cloud whirled into nothingness. The great buildings
+about me stood out clear and distinct, shining with the wet of the
+thunderstorm, and picked out in white by the unmelted hailstones piled
+along their courses. I felt naked in a strange world. I felt as perhaps
+a bird may feel in the clear air, knowing the hawk wings above and will
+swoop. My fear grew to frenzy. I took a breathing space, set my teeth,
+and again grappled fiercely, wrist and knee, with the machine. It gave
+under my desperate onset and turned over. It struck my chin violently.
+One hand on the saddle, the other on the lever, I stood panting heavily
+in attitude to mount again.
 
-Returning to the surface, I found myself more troubled than ever. The contrast between the Eloi and the Morlocks was stark and unsettling. Here, it seemed, was a society divided not merely by class but by **evolution itself**. The Eloi, with their frail beauty, appeared to live in blissful ignorance, while the Morlocks, lurking in the shadows, seemed to embody the darker aspects of survival. What dreadful history had led to this division? And what role did the ruins play in this strange new world?
+“But with this recovery of a prompt retreat my courage recovered. I
+looked more curiously and less fearfully at this world of the remote
+future. In a circular opening, high up in the wall of the nearer house,
+I saw a group of figures clad in rich soft robes. They had seen me, and
+their faces were directed towards me.
 
-As the sun set over the valley, casting long shadows across the landscape, I resolved to uncover the truth. My journey through time had brought me to a world of wonder and mystery, but it had also revealed a chilling glimpse into humanity’s potential future. The Eloi and the Morlocks, the ruins and the tunnels—all were pieces of a puzzle that I was determined to solve. For in this fragile balance between light and darkness, I sensed a lesson that transcended the ages, a warning that echoed across the centuries.
+“Then I heard voices approaching me. Coming through the bushes by the
+White Sphinx were the heads and shoulders of men running. One of these
+emerged in a pathway leading straight to the little lawn upon which I
+stood with my machine. He was a slight creature—perhaps four feet
+high—clad in a **purple tunic**, girdled at the waist with a leather belt.
+Sandals or buskins—I could not clearly distinguish which—were on his
+feet; his legs were bare to the knees, and his head was bare. Noticing
+that, I noticed for the first time how warm the air was.
+
+“He struck me as being a very beautiful and graceful creature, but
+indescribably frail. His flushed face reminded me of the more beautiful
+kind of consumptive—that hectic beauty of which we used to hear so
+much. At the sight of him I suddenly regained confidence. I took my
+hands from the machine.

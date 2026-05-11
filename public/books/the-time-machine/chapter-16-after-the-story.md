@@ -9,184 +9,249 @@ book_slug: "the-time-machine"
 license: "public-domain"
 
 summary:
-  - point: "The Time Traveller concludes his tale, leaving the listeners in reflective silence."
+  - point: "The Time Traveller reflects on the incredibility of his story and invites his audience to treat it as fiction or prophecy."
     link: "https://en.wikipedia.org/wiki/The_Time_Machine"
     link_label: "The Time Machine"
-  - point: "The Medical Man, Psychologist, and Editor debate the plausibility and implications of the Time Traveller's story."
-    link: "https://en.wikipedia.org/wiki/Scientific_skepticism"
-    link_label: "Scientific skepticism"
-  - point: "The Time Traveller discusses the division of humanity into Eloi and Morlocks as a possible future shaped by societal forces."
-    link: "https://en.wikipedia.org/wiki/Eloi_and_Morlocks"
-    link_label: "Eloi and Morlocks"
-  - point: "The Time Traveller highlights capitalism, industrialization, and class division as forces shaping humanity's future."
-    link: "https://en.wikipedia.org/wiki/Industrial_Revolution"
-    link_label: "Industrial Revolution"
-  - point: "The Time Traveller vanishes, leaving behind unanswered questions and a lingering sense of mystery."
-    link: "https://en.wikipedia.org/wiki/Missing_person"
-    link_label: "Missing person"
+  - point: "The Time Traveller shows physical evidence, including scars and mysterious flowers, to support his tale."
+    link: "https://en.wikipedia.org/wiki/Weena"
+    link_label: "Weena"
+  - point: "The Time Machine is revealed to be damaged, with brown spots, moss, and bent rails, suggesting its use in harsh environments."
+    link: "https://en.wikipedia.org/wiki/Time_travel"
+    link_label: "Time travel"
+  - point: "The Time Traveller vanishes mysteriously, leaving behind unanswered questions about his journey."
+    link: "https://en.wikipedia.org/wiki/Science_fiction"
+    link_label: "Science fiction"
+  - point: "The narrator speculates about the Time Traveller's fate, imagining him in prehistoric or future eras."
+    link: "https://en.wikipedia.org/wiki/Prehistoric_Europe"
+    link_label: "Prehistoric Europe"
+  - point: "The narrator reflects on the white flowers as symbols of human tenderness and gratitude, even in a dystopian future."
+    link: "https://en.wikipedia.org/wiki/Symbolism_(arts)"
+    link_label: "Symbolism"
 
 enhancements:
-  - id: "time-traveller"
-    trigger: "Time Traveller"
-    title: "The Time Traveller's Role"
+  - id: "destinies-of-our-race"
+    trigger: "the destinies of our race"
+    title: "What Did H.G. Wells Fear About Humanity's Future?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/H._G._Wells"
+    image_url: ""
+    image_caption: ""
+    content: "When the Time Traveller suggests his story might be a speculation on 'the destinies of our race,' he taps into one of H.G. Wells's deepest preoccupations: humanity's trajectory. Wells, a pioneer of science fiction, often explored themes of societal collapse and evolution. In 'The Time Machine,' he imagines a distant future where humanity has split into two species—the Eloi and the Morlocks—reflecting class divisions taken to their extreme. This was no idle fantasy; Wells was deeply influenced by Darwinian evolution and Marxist theory, believing that unchecked industrialization and inequality could lead to catastrophic outcomes. By framing the Time Traveller's tale as a 'prophecy,' Wells invites readers to consider whether his dystopian vision is a warning or an inevitability. The destinies of our race, he implies, are not fixed—they are shaped by the choices we make today."
+  - id: "brown-spots-and-smears"
+    trigger: "brown spots and smears"
+    title: "What Do the Time Machine's Scars Reveal?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time_travel"
+    image_url: ""
+    image_caption: ""
+    content: "When the Time Traveller examines the 'brown spots and smears' on the ivory of his machine, he offers a tantalizing glimpse into the physical toll of his journey. These marks suggest encounters with hostile environments—perhaps the dirt of the Morlocks' underground lairs or the remnants of prehistoric landscapes. In literature, such details often serve as 'proof' of extraordinary claims, grounding fantastical narratives in tangible reality. For Wells, these scars are more than just evidence; they symbolize the wear and tear of exploration itself. The Time Machine, squat and ugly, contrasts sharply with the sleek, idealized visions of progress often associated with Victorian technology. Its imperfections remind us that discovery is messy, dangerous, and transformative—a theme that resonates throughout the novel."
+  - id: "a-small-camera"
+    trigger: "a small camera"
+    title: "Why Did the Time Traveller Carry a Camera?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/History_of_photography"
+    image_url: ""
+    image_caption: ""
+    content: "When the narrator sees the Time Traveller with 'a small camera,' it raises intriguing questions about his intentions. Photography was still a relatively new technology in the 1890s, and cameras were tools of documentation and proof. Was the Time Traveller planning to capture images of the distant past or future to validate his claims? The idea of photographing time itself aligns with the Victorian fascination with science and evidence, but it also underscores the limits of human perception. Even if he succeeded, would his audience believe the images? Wells uses the camera as a symbol of the tension between empirical proof and the imagination—a recurring theme in the novel. The camera, like the Time Machine, is a bridge between worlds, but it also highlights the fragility of human understanding."
+  - id: "time-travelling-up-to-the-hilt"
+    trigger: "time travelling up to the hilt"
+    title: "What Does 'Up to the Hilt' Mean in Time Travel?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time_travel"
+    image_url: ""
+    image_caption: ""
+    content: "When the Time Traveller promises to prove 'time travelling up to the hilt,' he uses a phrase that evokes total commitment and immersion. The idiom 'up to the hilt' originates from swordsmanship, implying a blade driven fully into its target. Here, it suggests the Time Traveller's complete dedication to his experiments, regardless of the risks. Time travel, as Wells imagines it, is not a casual endeavor; it demands courage, curiosity, and a willingness to confront the unknown. By choosing this phrase, Wells emphasizes the intensity of the Time Traveller's experiences and the stakes of his journey. The promise of 'specimens and all' hints at the scientific rigor underpinning his adventures, but it also raises the question: can any evidence truly capture the enormity of traveling through time?"
+  - id: "the-time-machine"
+    trigger: "The Time Machine"
+    title: "How Did Wells Redefine Time Travel Forever?"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A_date_for_a_time-traveller%27s_diary..._-_geograph.org.uk_-_2019572.jpg/330px-A_date_for_a_time-traveller%27s_diary..._-_geograph.org.uk_-_2019572.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A date for a time-traveller's diary... (CC BY-SA 2.0)"
-    content: "The Time Traveller is the protagonist of H.G. Wells' 'The Time Machine,' a scientist and inventor who creates a machine capable of traversing time. His character serves as a vehicle for exploring philosophical and societal questions about progress, human nature, and the future of civilization. Through his journeys, Wells examines themes such as the consequences of technological advancement and the stratification of society. The Time Traveller's enigmatic personality and intellectual curiosity make him a compelling figure, embodying the spirit of scientific inquiry and the risks associated with pushing the boundaries of knowledge."
-  - id: "medical-man"
-    trigger: "Medical Man"
-    title: "Role of the Medical Man"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Physician"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%27Time_Waits_For_No_Man%27%2C_Edinburgh_Medical_School_clock_-_geograph.org.uk_-_2132002.jpg/330px-%27Time_Waits_For_No_Man%27%2C_Edinburgh_Medical_School_clock_-_geograph.org.uk_-_2132002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "'Time Waits For No Man', Edinburgh Medical School clock (CC BY-SA 2.0)"
-    content: "The Medical Man in 'The Time Machine' represents the scientific skepticism of the era. As a physician, he embodies rationality and empirical thinking, questioning the plausibility of the Time Traveller's story. His presence highlights the tension between groundbreaking ideas and the need for tangible evidence, a recurring theme in the novel. The Medical Man's reactions reflect the broader societal attitudes toward innovation and the unknown during the late 19th century, a time of rapid scientific and industrial progress."
-  - id: "psychologist"
-    trigger: "Psychologist"
-    title: "The Psychologist's Perspective"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Psychology"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%B1%D8%B4%D8%AF_%DA%A9%D9%88%D8%AF%DA%A9_-_%D8%AF%D8%AE%D8%AA%D8%B1_%D8%A8%DA%86%D9%87_Developmental_psychology_08.jpg/330px-%D8%B1%D9%88%D8%A7%D9%86%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_%D8%B1%D8%B4%D8%AF_%DA%A9%D9%88%D8%AF%DA%A9_-_%D8%AF%D8%AE%D8%AA%D8%B1_%D8%A8%DA%86%D9%87_Developmental_psychology_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "روانشناسی رشد کودک - دختر بچه Developmental psychology 08 (CC BY-SA 4.0)"
-    content: "The Psychologist in 'The Time Machine' provides a thoughtful and introspective counterpoint to the skepticism of the Medical Man and the pragmatism of the Editor. His reflections on the story suggest an interest in the philosophical and psychological implications of the Time Traveller's vision of humanity's future. The character underscores the novel's exploration of human behavior, societal evolution, and the psychological impact of confronting unsettling truths about civilization's trajectory."
-  - id: "editor"
-    trigger: "Editor"
-    title: "The Editor's Pragmatism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Editor"
     image_url: ""
     image_caption: ""
-    content: "The Editor in 'The Time Machine' serves as a pragmatic voice, questioning the feasibility of the Time Traveller's claims and emphasizing the need for extraordinary evidence to support extraordinary assertions. His skepticism reflects the journalistic and editorial mindset of the time, which valued factual accuracy and verifiable proof. The Editor's role highlights the interplay between storytelling, belief, and the demand for empirical validation in an age of scientific discovery."
-  - id: "flowers"
-    trigger: "flowers"
-    title: "Significance of the Flowers"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Flower"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Reformierte_Kirche_Waltensburg._18-09-2022._%28actm%29_09.jpg/330px-Reformierte_Kirche_Waltensburg._18-09-2022._%28actm%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Reformierte Kirche Waltensburg church Interior. (church organ) (CC BY-SA 4.0)"
-    content: "The flowers presented by the Time Traveller symbolize the tangible yet ambiguous evidence of his journey. Their unfamiliar form and luminous quality suggest a connection to a distant epoch, raising questions about the authenticity of his tale. In literature, flowers often carry symbolic meanings, and in this context, they represent the fragility and beauty of life amidst the decay and entropy described in the Time Traveller's vision of the future. The flowers also serve as a reminder of the limitations of physical evidence in proving extraordinary claims."
-  - id: "eloi"
-    trigger: "Eloi"
-    title: "The Eloi: Fragile Future Humanity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi_and_Morlocks"
-    image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Eloi are one of the two post-human species depicted in H.G. Wells' 'The Time Machine.' Representing the upper class, they are childlike, fragile, and intellectually diminished, living in a seemingly idyllic but passive existence. Their degeneration is a result of the long-term effects of societal stratification and the loss of challenges that drive human progress. The Eloi serve as a cautionary symbol of what could happen to humanity if privilege and comfort lead to stagnation and decline."
-  - id: "morlocks"
-    trigger: "Morlocks"
-    title: "The Morlocks: Brutal Evolution"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eloi_and_Morlocks"
-    image_url: ""
-    image_caption: "Illustration of Eloi and Morlocks, public domain"
-    content: "The Morlocks are the subterranean counterpart to the Eloi in 'The Time Machine.' Representing the working class, they are brutal, cunning, and adapted to life underground. Their evolution reflects the consequences of exploitation and industrialization, as they become the dominant force in the dystopian future. The Morlocks' existence highlights the dangers of extreme societal division and the dehumanizing effects of unchecked capitalism and industrial progress. Together with the Eloi, they illustrate Wells' critique of Victorian society and its trajectory."
-  - id: "philosophies-of-history"
-    trigger: "philosophies of history"
-    title: "Philosophies of History in Context"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophy_of_history"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Anton_Raphael_Mengs%2C_The_Triumph_of_History_over_Time_%28Allegory_of_the_Museum_Clementinum%29%2C_ceiling_fresco_in_the_Camera_dei_Papiri%2C_Vatican_Library%2C_1772_-_M0tty.jpg/330px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Allegory of the Museum Clementinum, ceiling fresco in the Camera dei Papiri, Vatican Library. (Public domain)"
-    content: "Philosophies of history explore the patterns, causes, and meanings behind historical events and societal evolution. In 'The Time Machine,' these philosophies are invoked to frame the Time Traveller's vision of humanity's future, suggesting that the division into Eloi and Morlocks aligns with certain theories about societal decay and entropy. Wells uses these ideas to critique the trajectory of industrialization, capitalism, and class division, encouraging readers to reflect on the forces shaping their own society and the potential consequences of ignoring historical lessons."
-  - id: "capitalism"
-    trigger: "capitalism"
-    title: "Capitalism's Role in the Future"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Capitalism"
+    content: "When the narrator sees 'The Time Machine' vanish, it marks the culmination of H.G. Wells's groundbreaking vision. Before Wells, time travel was often depicted as magical or dreamlike, but 'The Time Machine' introduced a scientific framework for the concept. Wells imagined time as a fourth dimension, navigable with the right technology—a revolutionary idea inspired by emerging theories in physics and mathematics. The machine itself, described as 'brass, ebony, ivory, and translucent quartz,' is both futuristic and tactile, grounding the abstract idea of time travel in physical reality. Its disappearance leaves the narrator—and the reader—with a sense of awe and mystery. By making the machine vanish, Wells underscores the ephemeral nature of time and the limits of human comprehension, leaving us to wonder what lies beyond."
+  - id: "the-age-of-unpolished-stone"
+    trigger: "the Age of Unpolished Stone"
+    title: "What Was Life Like in the Stone Age?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Stone_Age"
     image_url: ""
     image_caption: ""
-    content: "Capitalism is a central theme in 'The Time Machine,' as the Time Traveller attributes the division of humanity into Eloi and Morlocks to the long-term effects of economic systems that prioritize profit over equity. Wells critiques the widening gap between the wealthy and the working class, suggesting that unchecked capitalism could lead to societal stratification and eventual degeneration. The novel serves as a warning about the potential consequences of economic inequality and the exploitation of labor, themes that remain relevant in contemporary discussions about capitalism and its impact."
-  - id: "industrialization"
-    trigger: "industrialization"
-    title: "Impact of Industrialization"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Industrialization"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2.1-_Industrialization_experiences_in_Africa_and_Asia_%28II%29_%2810037277986%29.jpg/330px-2.1-_Industrialization_experiences_in_Africa_and_Asia_%28II%29_%2810037277986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "2.1- Industrialization experiences in Africa and Asia (II) (10037277986) (CC BY 2.0)"
-    content: "Industrialization, a transformative force in the 19th century, is a key factor in the societal changes depicted in 'The Time Machine.' Wells critiques the dehumanizing effects of industrial progress, which he sees as contributing to the division of humanity into Eloi and Morlocks. The novel reflects the anxieties of the Victorian era, when rapid industrial growth led to significant social and economic upheaval. By examining the long-term consequences of industrialization, Wells encourages readers to consider its impact on human values, relationships, and the environment."
-  - id: "science"
-    trigger: "science"
-    title: "Science as a Double-Edged Sword"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Science"
+    content: "In the epilogue, the narrator speculates that the Time Traveller might have ventured into 'the Age of Unpolished Stone,' a reference to the early Stone Age. This era, known as the Paleolithic, was marked by rudimentary tools, hunter-gatherer societies, and the absence of agriculture. It was a time when survival depended on ingenuity and adaptability, and humans lived in close harmony with nature. Wells's mention of 'blood-drinking, hairy savages' reflects Victorian stereotypes about prehistoric peoples, but it also highlights the stark contrast between the primitive past and the industrialized present. By imagining the Time Traveller in this era, Wells invites readers to consider the cyclical nature of human progress. Could the future resemble the past? The Stone Age becomes a mirror, reflecting both humanity's origins and its potential destiny."
+  - id: "two-strange-white-flowers"
+    trigger: "two strange white flowers"
+    title: "What Do Weena's Flowers Symbolize?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Weena"
     image_url: ""
     image_caption: ""
-    content: "Science plays a pivotal role in 'The Time Machine,' both as a tool for progress and as a source of potential peril. The Time Traveller's invention exemplifies the power of scientific ingenuity, yet his observations of the future reveal the unintended consequences of technological and scientific advancements. Wells uses science as a narrative device to explore themes of human ambition, ethical responsibility, and the limits of knowledge. The novel reflects the dual nature of science as a force for both creation and destruction, a theme that resonates in modern discussions about technology and innovation."
-  - id: "dynamite"
-    trigger: "dynamite"
-    title: "Dynamite: Innovation and Destruction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dynamite"
-    image_url: ""
-    image_caption: "Dynamite patent drawing, public domain"
-    content: "Dynamite, invented by Alfred Nobel in 1867, is a powerful explosive that revolutionized construction and mining but also became a weapon of destruction. In 'The Time Machine,' the Time Traveller references dynamite to illustrate the dual nature of scientific advancements. While it represents human ingenuity, it also serves as a cautionary example of how technology can be repurposed for harm. Nobel's invention and subsequent establishment of the Nobel Prizes reflect the complex legacy of scientific innovation, highlighting the ethical considerations that accompany progress."
-  - id: "machine"
-    trigger: "machine"
-    title: "The Time Machine Itself"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Poster_for_the_1960_film_The_Time_Machine_%282%29.jpg/330px-Poster_for_the_1960_film_The_Time_Machine_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Poster for the film en:The Time Machine (1960 film) (Public domain)"
-    content: "The Time Machine is the central invention in H.G. Wells' novel, enabling the protagonist to traverse time and explore distant futures. It symbolizes human ambition and the quest for knowledge, as well as the risks associated with tampering with natural laws. The machine's design and functionality reflect the Victorian fascination with technology and its potential to reshape the world. As a narrative device, it allows Wells to examine philosophical questions about progress, morality, and the consequences of human actions across time."
-  - id: "crumbling-ruins"
-    trigger: "crumbling ruins"
-    title: "Crumbling Ruins: Decay of Civilization"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ruins"
-    image_url: ""
-    image_caption: ""
-    content: "Crumbling ruins in 'The Time Machine' symbolize the decline of civilization and the impermanence of human achievements. They serve as a stark reminder of the entropy and decay that inevitably follow societal stagnation and neglect. Wells uses these ruins to evoke a sense of loss and to critique the trajectory of industrialized societies, suggesting that unchecked progress and exploitation can lead to the eventual collapse of human structures and values. The imagery of ruins underscores the novel's themes of impermanence and the fragility of civilization."
-  - id: "sunlit-gardens"
-    trigger: "sunlit gardens"
-    title: "Sunlit Gardens: Illusion of Paradise"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Garden"
-    image_url: ""
-    image_caption: ""
-    content: "The sunlit gardens in 'The Time Machine' represent the seemingly idyllic existence of the Eloi, masking the underlying decay and stagnation of their society. Gardens often symbolize growth and harmony, but in this context, they highlight the superficiality of the Eloi's world, which lacks intellectual and emotional depth. Wells uses this imagery to critique the dangers of complacency and the illusion of paradise, emphasizing the need for balance between comfort and challenge in sustaining a thriving civilization."
-  - id: "dark-caverns"
-    trigger: "dark caverns"
-    title: "Dark Caverns: Morlocks' Domain"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cave"
-    image_url: ""
-    image_caption: ""
-    content: "The dark caverns in 'The Time Machine' are the dwelling place of the Morlocks, symbolizing the hidden and sinister aspects of industrialized society. These subterranean spaces reflect the exploitation and suffering of the working class, who are forced to live and labor in harsh conditions. The caverns contrast sharply with the sunlit gardens of the Eloi, highlighting the stark divide between the two species. Wells uses this imagery to critique the social and economic inequalities of his time, warning of the consequences of ignoring the plight of the oppressed."
+    content: "The narrator keeps 'two strange white flowers' as a poignant reminder of the Time Traveller's journey and his bond with Weena, the Eloi woman. These flowers, shriveled and brittle, symbolize the persistence of beauty and kindness even in a dystopian world. In the novel, Weena gives the flowers to the Time Traveller as a gesture of gratitude and affection—a rare moment of connection in a future dominated by decay and fear. Victorian readers might have seen the flowers as emblems of purity and fragility, but they also carry a deeper meaning. They are proof that humanity's capacity for tenderness endures, even when civilization collapses. By ending the story with these flowers, Wells leaves us with a bittersweet image: a fragile hope that transcends time, preserved in the hands of the narrator."
 ---
-It was late evening when the **Time Traveller** concluded his tale, the flickering gaslight casting wavering shadows upon the walls of the cozy drawing-room. We sat in silence, the air heavy with the implications of the story we had just heard. Outside, the muffled sounds of London drifted in—carriages rattling over cobblestones, distant voices in the fog-laden streets—yet none of us seemed conscious of the world beyond the confines of the room. His narrative had transported us to distant epochs, and though the return to the present was undeniable, it carried with it a lingering sense of disquiet.
+“I know,” he said, after a pause, “that all this will be absolutely
+incredible to you, but to me the one incredible thing is that I am here
+tonight in this old familiar room looking into your friendly faces and
+telling you these strange adventures.” He looked at the Medical Man.
+“No. I cannot expect you to believe it. Take it as a lie—or a prophecy.
+Say I dreamed it in the workshop. Consider I have been speculating upon
+**the destinies of our race**, until I have hatched this fiction. Treat my
+assertion of its truth as a mere stroke of art to enhance its interest.
+And taking it as a story, what do you think of it?”
 
-For a long while, none of us spoke. The **Medical Man**, who had earlier been skeptical of the Time Traveller’s claims, now seemed lost in thought, his fingers idly tracing the rim of his brandy glass. The **Psychologist** stared into the fire, his eyes reflecting the dancing flames as though they held within them some flicker of understanding. It was the **Editor**, ever pragmatic, who finally broke the silence. 
+He took up his pipe, and began, in his old accustomed manner, to tap
+with it nervously upon the bars of the grate. There was a momentary
+stillness. Then chairs began to creak and shoes to scrape upon the
+carpet. I took my eyes off the Time Traveller’s face, and looked round
+at his audience. They were in the dark, and little spots of colour swam
+before them. The Medical Man seemed absorbed in the contemplation of
+our host. The Editor was looking hard at the end of his cigar—the
+sixth. The Journalist fumbled for his watch. The others, as far as I
+remember, were motionless.
 
-"Well," he said, leaning forward and pressing his hands together, "what are we to make of it?"
+The Editor stood up with a sigh. “What a pity it is you’re not a writer
+of stories!” he said, putting his hand on the Time Traveller’s
+shoulder.
 
-The Time Traveller, who until then had been gazing at the floor, raised his head and regarded us all with an enigmatic smile. "What indeed?" he replied. "You have heard my account—every detail, every observation. It is not for me to insist upon its truth. I leave the matter to your judgment."
+“You don’t believe it?”
 
-"But surely," said the Medical Man, frowning, "you must have some measure of proof. A relic, an artifact—something tangible from this extraordinary journey."
+“Well——”
 
-The Time Traveller shook his head slowly. "I returned with nothing. The **flowers**, perhaps, which I showed you earlier—yes, those are real enough, but what do they prove? That I traveled to some distant place where such blooms exist? That is hardly evidence of the future."
+“I thought not.”
 
-The flowers. I glanced at them again, lying on the mantelpiece where he had placed them. Their delicate petals seemed almost luminous in the dim light, their strange and unfamiliar form unlike anything cultivated in the gardens of England. Yet their presence raised more questions than they answered.
+The Time Traveller turned to us. “Where are the matches?” he said. He
+lit one and spoke over his pipe, puffing. “To tell you the truth... I
+hardly believe it myself..... And yet...”
 
-"Perhaps," ventured the Psychologist, his voice measured and thoughtful, "the truth of your story lies not in the physical evidence but in the ideas it presents. The division of humanity into **Eloi** and **Morlocks**, the decay of intellect and industry, the inevitable entropy of civilization—it is a vision that aligns disturbingly well with certain philosophies of history."
+His eye fell with a mute inquiry upon the withered white flowers upon
+the little table. Then he turned over the hand holding his pipe, and I
+saw he was looking at some half-healed scars on his knuckles.
 
-"Ah," said the Editor, with a touch of sarcasm, "the **philosophies of history**. Always a reliable refuge for the inexplicable."
+The Medical Man rose, came to the lamp, and examined the flowers. “The
+gynæceum’s odd,” he said. The Psychologist leant forward to see,
+holding out his hand for a specimen.
 
-The Time Traveller’s smile widened, though it lacked warmth. "You mock, yet you do not deny the possibility. Tell me, Editor, would you dismiss entirely the notion of a society so stratified that its two halves evolve into distinct species?"
+“I’m hanged if it isn’t a quarter to one,” said the Journalist. “How
+shall we get home?”
 
-"Not entirely," admitted the Editor, tapping his fingers against the arm of his chair. "But you ask us to believe in something far greater—a machine that transcends time itself. That, sir, is a leap of faith I find difficult to make."
+“Plenty of cabs at the station,” said the Psychologist.
 
-"And yet," the Time Traveller countered, "you accept the concept of time as a dimension. Why, then, should it not be traversable, as space is? The principles are not so different."
+“It’s a curious thing,” said the Medical Man; “but I certainly don’t
+know the natural order of these flowers. May I have them?”
 
-The Editor opened his mouth to reply but was interrupted by the Medical Man. "What troubles me most," he said, "is the vision of humanity’s future. The **Eloi**, so childlike and fragile, and the **Morlocks**, so brutal and cunning—it is a grim fate you describe. Is it truly inevitable?"
+The Time Traveller hesitated. Then suddenly: “Certainly not.”
 
-"Inevitable?" The Time Traveller leaned forward, his gaze intense. "That, I cannot say. The future I visited is but one possibility, shaped by the forces of **capitalism**, **industrialization**, and the widening chasm between classes. These forces are at work even now, are they not? Can you not see their effects in the world around us?"
+“Where did you really get them?” said the Medical Man.
 
-His words struck a chord, and I found myself reflecting on the state of the city—the sprawling factories, the squalid tenements, the glittering wealth of the few and the grinding poverty of the many. Could this truly be the beginning of the end he had described?
+The Time Traveller put his hand to his head. He spoke like one who was
+trying to keep hold of an idea that eluded him. “They were put into my
+pocket by Weena, when I travelled into Time.” He stared round the room.
+“I’m damned if it isn’t all going. This room and you and the atmosphere
+of every day is too much for my memory. Did I ever make a Time Machine,
+or a model of a Time Machine? Or is it all only a dream? They say life
+is a dream, a precious poor dream at times—but I can’t stand another
+that won’t fit. It’s madness. And where did the dream come from? … I
+must look at that machine. If there is one!”
 
-"But surely," said the Psychologist, "human ingenuity will find a way to prevent such a fate. The march of **science**, the progress of education—these are forces that can counteract the trends you describe."
+He caught up the lamp swiftly, and carried it, flaring red, through the
+door into the corridor. We followed him. There in the flickering light
+of the lamp was the machine sure enough, squat, ugly, and askew, a
+thing of brass, ebony, ivory, and translucent glimmering quartz. Solid
+to the touch—for I put out my hand and felt the rail of it—and with
+**brown spots and smears** upon the ivory, and bits of grass and moss upon
+the lower parts, and one rail bent awry.
 
-"Perhaps," said the Time Traveller, though his tone was far from optimistic. "Yet science and education are tools, not panaceas. They are shaped by the societies that wield them, and their effects are not always benevolent. Do not forget the **dynamite**—a marvel of scientific ingenuity, yet capable of terrible destruction."
+The Time Traveller put the lamp down on the bench, and ran his hand
+along the damaged rail. “It’s all right now,” he said. “The story I
+told you was true. I’m sorry to have brought you out here in the cold.”
+He took up the lamp, and, in an absolute silence, we returned to the
+smoking-room.
 
-The room fell silent again, the crackling of the fire the only sound. It was as though the specter of the future he had painted loomed over us, a shadow we could not dispel. At last, the Editor spoke again.
+He came into the hall with us and helped the Editor on with his coat.
+The Medical Man looked into his face and, with a certain hesitation,
+told him he was suffering from overwork, at which he laughed hugely. I
+remember him standing in the open doorway, bawling good-night.
 
-"You have given us much to ponder," he said, rising and straightening his jacket. "But for my part, I remain unconvinced. Extraordinary claims require extraordinary evidence, and you have provided none."
+I shared a cab with the Editor. He thought the tale a “gaudy lie.” For
+my own part I was unable to come to a conclusion. The story was so
+fantastic and incredible, the telling so credible and sober. I lay
+awake most of the night thinking about it. I determined to go next day
+and see the Time Traveller again. I was told he was in the laboratory,
+and being on easy terms in the house, I went up to him. The laboratory,
+however, was empty. I stared for a minute at the Time Machine and put
+out my hand and touched the lever. At that the squat
+substantial-looking mass swayed like a bough shaken by the wind. Its
+instability startled me extremely, and I had a queer reminiscence of
+the childish days when I used to be forbidden to meddle. I came back
+through the corridor. The Time Traveller met me in the smoking-room. He
+was coming from the house. He had **a small camera** under one arm and a
+knapsack under the other. He laughed when he saw me, and gave me an
+elbow to shake. “I’m frightfully busy,” said he, “with that thing in
+there.”
 
-"You are welcome to your skepticism," said the Time Traveller, rising as well. "I sought not to convince but to share. Perhaps, in time, you will come to see the truth of my words."
+“But is it not some hoax?” I said. “Do you really travel through time?”
 
-The Editor inclined his head and made his way to the door, followed by the Medical Man. The Psychologist lingered, his expression pensive, before eventually departing as well. I was the last to leave, hesitating for a moment in the doorway.
+“Really and truly I do.” And he looked frankly into my eyes. He
+hesitated. His eye wandered about the room. “I only want half an hour,”
+he said. “I know why you came, and it’s awfully good of you. There’s
+some magazines here. If you’ll stop to lunch I’ll prove you this **time
+travelling up to the hilt**, specimens and all. If you’ll forgive my
+leaving you now?”
 
-"Will you try again?" I asked, glancing at the **machine** that stood silent and motionless in the corner of the room.
+I consented, hardly comprehending then the full import of his words,
+and he nodded and went on down the corridor. I heard the door of the
+laboratory slam, seated myself in a chair, and took up a daily paper.
+What was he going to do before lunch-time? Then suddenly I was reminded
+by an advertisement that I had promised to meet Richardson, the
+publisher, at two. I looked at my watch, and saw that I could barely
+save that engagement. I got up and went down the passage to tell the
+Time Traveller.
 
-The Time Traveller’s gaze followed mine, and for a moment, his face was unreadable. Then he nodded. "Yes," he said quietly. "I must. There is still so much to learn."
+As I took hold of the handle of the door I heard an exclamation, oddly
+truncated at the end, and a click and a thud. A gust of air whirled
+round me as I opened the door, and from within came the sound of broken
+glass falling on the floor. The Time Traveller was not there. I seemed
+to see a ghostly, indistinct figure sitting in a whirling mass of black
+and brass for a moment—a figure so transparent that the bench behind
+with its sheets of drawings was absolutely distinct; but this phantasm
+vanished as I rubbed my eyes. **The Time Machine** had gone. Save for a
+subsiding stir of dust, the further end of the laboratory was empty. A
+pane of the skylight had, apparently, just been blown in.
 
-With that, I took my leave, stepping out into the cool night air. The streets of London stretched before me, their gas lamps glowing dimly through the fog. Yet as I walked, I found myself haunted by visions of the future—the **crumbling ruins**, the **sunlit gardens**, the **dark caverns** where the Morlocks dwelled. Was it all a fabrication, or was it a warning? I could not say.
+I felt an unreasonable amazement. I knew that something strange had
+happened, and for the moment could not distinguish what the strange
+thing might be. As I stood staring, the door into the garden opened,
+and the man-servant appeared.
 
-In the days that followed, I returned to visit the Time Traveller, eager to hear more of his thoughts and perhaps witness another journey. But when I arrived at his house, I found it empty. The servants informed me that he had vanished, leaving behind no explanation. The **machine**, too, was gone.
+We looked at each other. Then ideas began to come. “Has Mr. —— gone out
+that way?” said I.
 
-To this day, I do not know where he went or what became of him. His story remains a mystery, an enigma that defies resolution. Yet its impact lingers, a reminder of the fragile balance upon which civilization rests and the shadowy future that lies ahead. Wherever he is—if he is anywhere at all—I hope he has found the answers he sought. As for myself, I can only look forward and wonder.
+“No, sir. No one has come out this way. I was expecting to find him
+here.”
+
+At that I understood. At the risk of disappointing Richardson I stayed
+on, waiting for the Time Traveller; waiting for the second, perhaps
+still stranger story, and the specimens and photographs he would bring
+with him. But I am beginning now to fear that I must wait a lifetime.
+The Time Traveller vanished three years ago. And, as everybody knows
+now, he has never returned.
+
+
+
+
+ Epilogue
+
+
+One cannot choose but wonder. Will he ever return? It may be that he
+swept back into the past, and fell among the blood-drinking, hairy
+savages of **the Age of Unpolished Stone**; into the abysses of the
+Cretaceous Sea; or among the grotesque saurians, the huge reptilian
+brutes of the Jurassic times. He may even now—if I may use the
+phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or
+beside the lonely saline seas of the Triassic Age. Or did he go
+forward, into one of the nearer ages, in which men are still men, but
+with the riddles of our own time answered and its wearisome problems
+solved? Into the manhood of the race: for I, for my own part, cannot
+think that these latter days of weak experiment, fragmentary theory,
+and mutual discord are indeed man’s culminating time! I say, for my own
+part. He, I know—for the question had been discussed among us long
+before the Time Machine was made—thought but cheerlessly of the
+Advancement of Mankind, and saw in the growing pile of civilisation
+only a foolish heaping that must inevitably fall back upon and destroy
+its makers in the end. If that is so, it remains for us to live as
+though it were not so. But to me the future is still black and blank—is
+a vast ignorance, lit at a few casual places by the memory of his
+story. And I have by me, for my comfort, **two strange white
+flowers**—shrivelled now, and brown and flat and brittle—to witness that
+even when mind and strength had gone, gratitude and a mutual tenderness
+still lived on in the heart of man.
