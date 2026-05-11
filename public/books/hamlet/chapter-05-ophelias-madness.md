@@ -9,133 +9,1275 @@ book_slug: "hamlet"
 license: "public-domain"
 
 summary:
-  - point: "Queen Gertrude is deeply troubled by Ophelia's descent into madness and reflects on the chaos in Denmark."
-    link: "https://en.wikipedia.org/wiki/Gertrude_(Hamlet)"
-    link_label: "Queen Gertrude"
-  - point: "Ophelia enters the room, singing songs about flowers and death, symbolizing her fractured state of mind."
-    link: "https://en.wikipedia.org/wiki/Ophelia"
+  - point: "Hamlet's erratic behavior leads to the accidental killing of Polonius."
+    link: "https://en.wikipedia.org/wiki/Hamlet"
+    link_label: "Hamlet"
+  - point: "Ophelia descends into madness following her father's death and sings cryptic songs."
+    link: "https://en.wikipedia.org/wiki/Ophelia_(character)"
     link_label: "Ophelia"
-  - point: "Ophelia references Prince Hamlet and her heartbreak over his actions and apparent betrayal."
-    link: "https://en.wikipedia.org/wiki/Hamlet_(character)"
-    link_label: "Prince Hamlet"
-  - point: "Ophelia distributes flowers with symbolic meanings, including fennel for betrayal and daisies for innocence."
-    link: "https://en.wikipedia.org/wiki/Language_of_flowers"
-    link_label: "flowers"
-  - point: "Ophelia mentions the willow tree and water, foreshadowing her tragic fate."
-    link: "https://en.wikipedia.org/wiki/Willow_in_folklore_and_culture"
-    link_label: "willow tree"
-  - point: "Queen Gertrude reflects on the ruin brought by Claudius's schemes, Hamlet's rage, and Polonius's death."
+  - point: "Laertes returns from France and vows revenge for Polonius's death."
+    link: "https://en.wikipedia.org/wiki/Laertes_(Hamlet)"
+    link_label: "Laertes"
+  - point: "The King plots to kill Hamlet using Laertes and a poisoned sword."
     link: "https://en.wikipedia.org/wiki/Claudius_(Hamlet)"
-    link_label: "Claudius"
+    link_label: "King Claudius"
+  - point: "Ophelia drowns in a brook, described in poetic detail by Queen Gertrude."
+    link: "https://en.wikipedia.org/wiki/Ophelia_(character)"
+    link_label: "Ophelia's death"
+  - point: "Fortinbras marches through Denmark, symbolizing ambition and action."
+    link: "https://en.wikipedia.org/wiki/Fortinbras"
+    link_label: "Fortinbras"
 
 enhancements:
-  - id: "queen-gertrude-hamlet"
-    trigger: "Queen Gertrude"
-    title: "Queen Gertrude in Hamlet"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Gertrude_(Hamlet)"
-    image_url: ""
-    image_caption: ""
-    content: "Queen Gertrude is a central figure in Shakespeare's 'Hamlet,' embodying the complexities of maternal love, guilt, and political intrigue. As Hamlet's mother and Claudius's wife, her actions and decisions significantly influence the play's tragic trajectory. Her relationship with Hamlet is fraught with tension, as he resents her hasty remarriage to Claudius after King Hamlet's death. Gertrude's character raises questions about loyalty and morality, making her a subject of much scholarly debate."
-  - id: "ophelia-madness"
-    trigger: "Ophelia"
-    title: "Ophelia's Descent into Madness"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ophelia"
-    image_url: ""
-    image_caption: ""
-    content: "Ophelia is one of Shakespeare's most tragic characters, symbolizing innocence and vulnerability. Her madness, triggered by the death of her father Polonius and Hamlet's erratic behavior, reflects the devastating impact of political and personal betrayal. Her songs and flower symbolism highlight her fractured psyche and foreshadow her tragic end. Ophelia's plight has inspired countless interpretations in literature, art, and psychology."
-  - id: "language-of-flowers"
-    trigger: "flowers"
-    title: "Symbolism in the Language of Flowers"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Language_of_flowers"
-    image_url: ""
-    image_caption: ""
-    content: "The language of flowers, or floriography, assigns symbolic meanings to various plants and blossoms. In 'Hamlet,' Ophelia uses flowers to convey her emotions and critique those around her. For example, rosemary symbolizes remembrance, while fennel and columbine represent betrayal. This tradition, popularized in the Victorian era, allows characters to express complex feelings subtly and poetically."
-  - id: "prince-hamlet-character"
-    trigger: "Prince Hamlet"
-    title: "Prince Hamlet's Inner Turmoil"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet_(character)"
-    image_url: ""
-    image_caption: ""
-    content: "Prince Hamlet is the protagonist of Shakespeare's tragedy, grappling with grief, revenge, and existential despair. His complex psyche drives the play's narrative, as he struggles to avenge his father's murder while questioning the morality of his actions. Hamlet's relationship with Ophelia is a poignant subplot, highlighting themes of love, betrayal, and madness. His soliloquies, such as 'To be or not to be,' remain iconic explorations of human consciousness."
-  - id: "polonius-death"
-    trigger: "Polonius"
-    title: "Polonius's Role and Death"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Polonius"
-    image_url: ""
-    image_caption: ""
-    content: "Polonius is a key figure in 'Hamlet,' serving as the chief counselor to King Claudius. His death at Hamlet's hands marks a turning point in the play, triggering Ophelia's madness and Laertes's quest for revenge. Polonius's meddling and verbose nature often provide comic relief, but his demise underscores the tragic consequences of political and familial intrigue in the Danish court."
-  - id: "willow-tree-symbolism"
-    trigger: "willow tree"
-    title: "Willow Tree in Folklore"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Willow_in_folklore_and_culture"
-    image_url: ""
-    image_caption: ""
-    content: "The willow tree is a potent symbol in literature and folklore, often associated with mourning, loss, and feminine sorrow. In 'Hamlet,' Ophelia's reference to the willow foreshadows her tragic death by drowning. The tree's drooping branches evoke a sense of melancholy and resignation, making it a fitting emblem for Ophelia's despair and the play's overarching themes of grief and tragedy."
-  - id: "claudius-hamlet-character"
-    trigger: "Claudius"
-    title: "King Claudius's Schemes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Claudius_(Hamlet)"
-    image_url: ""
-    image_caption: ""
-    content: "Claudius, the antagonist of 'Hamlet,' is a master manipulator whose actions set the play's tragic events in motion. His murder of King Hamlet and subsequent marriage to Queen Gertrude reveal his ambition and moral corruption. Claudius's schemes to maintain power, including plotting against Hamlet, highlight themes of deceit and the destructive nature of unchecked ambition. His character serves as a foil to Hamlet's moral introspection."
-  - id: "language-of-flowers-columbine"
-    trigger: "columbine"
-    title: "Columbine: Flower of Betrayal"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Language_of_flowers"
-    image_url: ""
-    image_caption: ""
-    content: "Columbine flowers carry a symbolic meaning of betrayal and deceit, making them a poignant choice in Ophelia's distribution of flowers. In 'Hamlet,' Ophelia uses columbine to critique those who have wronged her, including Claudius and Gertrude. The flower's association with treachery underscores the themes of mistrust and moral decay that permeate the play."
-  - id: "denmark-ruin-hamlet"
-    trigger: "Denmark"
-    title: "Denmark's Decay in Hamlet"
+  - id: "mad-as-the-sea-and-wind"
+    trigger: "Mad as the sea and wind"
+    title: "What Drives Hamlet's Turbulent Madness?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
     image_url: ""
     image_caption: ""
-    content: "Denmark serves as a microcosm of political and moral corruption in 'Hamlet.' The kingdom's decline mirrors the personal tragedies of its characters, from Hamlet's existential despair to Ophelia's madness. Shakespeare uses Denmark's unraveling to explore themes of power, betrayal, and the consequences of unchecked ambition. The setting amplifies the play's sense of inevitable doom."
-  - id: "ophelia-song-death"
-    trigger: "song"
-    title: "Ophelia's Songs of Sorrow"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ophelia"
+    content: "When Queen Gertrude describes Hamlet as 'mad as the sea and wind,' she evokes a vivid image of chaos and uncontrollable forces. This metaphor captures Hamlet's erratic behavior after killing Polonius, a pivotal moment that shifts the play's trajectory. Madness in 'Hamlet' is a recurring theme, often blurring the line between genuine insanity and calculated performance. Historically, Shakespeare's portrayal of madness reflects Elizabethan attitudes toward mental illness, where it was often seen as divine punishment or moral failing. Yet Hamlet's madness is layered—it serves as both a shield and a weapon, allowing him to navigate the treacherous court while keeping others off balance. Gertrude's description underscores the destructive power of Hamlet's inner turmoil, setting the stage for the tragic unraveling of relationships and events."
+  - id: "convocation-of-politic-worms"
+    trigger: "convocation of politic worms"
+    title: "Why Worms Are the Ultimate Equalizers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
     image_url: ""
     image_caption: ""
-    content: "Ophelia's songs in 'Hamlet' are laden with symbolic meaning, reflecting her grief and fractured state of mind. Through her melodies, she expresses themes of love, betrayal, and mortality, offering insight into her inner turmoil. Her singing serves as both a poignant lament and a haunting reminder of the human cost of the play's political and familial conflicts."
+    content: "Hamlet's grim observation about the 'convocation of politic worms' feasting on Polonius's corpse is a darkly humorous reflection on mortality. In this moment, Hamlet reduces the pomp of political life to the inevitable decay of the body, where kings and beggars alike become sustenance for worms. This macabre imagery aligns with Renaissance memento mori traditions, reminding audiences of life's fleeting nature and the futility of earthly ambition. Hamlet's sardonic tone here reveals his disillusionment with power and hierarchy, as he mocks the idea that even the most powerful figures are ultimately consumed by the natural order. This moment encapsulates the play's existential themes, forcing characters and audiences alike to confront the inevitability of death."
+  - id: "fiery-quickness"
+    trigger: "fiery quickness"
+    title: "Why Claudius Sends Hamlet Away in Haste"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Claudius_(Hamlet)"
+    image_url: ""
+    image_caption: ""
+    content: "Claudius's decision to send Hamlet to England with 'fiery quickness' is a calculated move to neutralize the threat Hamlet poses after Polonius's murder. Claudius masks his urgency with concern for Hamlet's safety, but his true motive is revealed in his secret orders for Hamlet's execution. This moment highlights Claudius's political cunning and his ability to manipulate appearances to maintain control. Historically, royal courts were rife with intrigue, and Shakespeare's depiction of Claudius reflects the Machiavellian tactics often employed by rulers to secure their power. The urgency of Claudius's actions underscores the escalating tension in the play, as Hamlet's unpredictable behavior forces the King to act decisively to protect his throne."
+  - id: "saint-valentines-day"
+    trigger: "Saint Valentine’s day"
+    title: "What Ophelia's Song Reveals About Lost Love"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Valentine%27s_Day"
+    image_url: ""
+    image_caption: ""
+    content: "Ophelia's reference to 'Saint Valentine’s day' in her fragmented song is a poignant nod to themes of love and betrayal. Saint Valentine, associated with romantic love, contrasts sharply with Ophelia's tragic circumstances, as she mourns her father and laments her lost innocence. The song's lyrics hint at seduction and abandonment, possibly reflecting her relationship with Hamlet and her feelings of betrayal. In Elizabethan England, Valentine's Day was celebrated with courtship rituals, but Ophelia's invocation of the day carries a bitter irony, as her madness distorts the ideal of love into a lament for what has been lost. This moment deepens the audience's understanding of Ophelia's fragile state and her symbolic role as a victim of the play's destructive forces."
+  - id: "poor-ophelia"
+    trigger: "Poor Ophelia"
+    title: "How Ophelia Became a Symbol of Tragic Innocence"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ophelia_(character)"
+    image_url: ""
+    image_caption: ""
+    content: "When Claudius laments 'Poor Ophelia,' he acknowledges the devastating impact of grief and loss on her fragile psyche. Ophelia's descent into madness is one of the most heartrending arcs in 'Hamlet,' as she becomes a symbol of innocence destroyed by the corruption and violence around her. Her madness, expressed through cryptic songs and floral symbolism, reflects the Elizabethan belief in the connection between emotional trauma and mental instability. Ophelia's tragic fate resonates with audiences as a commentary on the collateral damage of political and familial conflict. Her vulnerability and ultimate demise serve as a stark contrast to the calculated actions of the play's other characters, highlighting the human cost of ambition and revenge."
+  - id: "the-kind-life-rendering-pelican"
+    trigger: "the kind life-rendering pelican"
+    title: "Why Laertes Compares Himself to a Pelican"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pelican"
+    image_url: ""
+    image_caption: ""
+    content: "Laertes's metaphor of 'the kind life-rendering pelican' draws on medieval symbolism, where pelicans were believed to pierce their own breasts to feed their young with their blood. This image underscores Laertes's willingness to sacrifice himself for his father's honor and revenge. The pelican was often used in Christian iconography to represent selflessness and Christ-like sacrifice, adding a layer of religious resonance to Laertes's vow. By invoking this image, Laertes positions himself as a devoted son, contrasting his loyalty with Hamlet's perceived inaction. This moment deepens the audience's understanding of Laertes's motivations and sets the stage for the climactic confrontation between the two characters."
+  - id: "rosemary-thats-for-remembrance"
+    trigger: "rosemary, that’s for remembrance"
+    title: "Why Ophelia Gives Flowers as Final Messages"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ophelia_(character)"
+    image_url: ""
+    image_caption: ""
+    content: "Ophelia's distribution of flowers, including rosemary 'for remembrance,' is a hauntingly symbolic act in her madness. Rosemary was associated with memory and fidelity in Elizabethan times, often used in weddings and funerals. Each flower she mentions carries specific meanings—pansies for thoughts, fennel for flattery, and rue for repentance—creating a coded message for those around her. This moment reflects Ophelia's fragmented state of mind and her attempt to communicate through symbolism when words fail her. Her floral imagery resonates with the play's themes of innocence, betrayal, and mourning, offering a poignant insight into her inner turmoil and the devastating impact of her father's death."
+  - id: "his-means-of-death"
+    trigger: "His means of death"
+    title: "What Laertes Demands About Polonius's Death"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Polonius"
+    image_url: ""
+    image_caption: ""
+    content: "Laertes's insistence on knowing 'his means of death' reflects his thirst for justice and revenge after Polonius's untimely demise. Polonius's death, caused by Hamlet's impulsive act, becomes a catalyst for the play's escalating conflict. In Elizabethan drama, the demand for vengeance was a common trope, often driving characters to moral extremes. Laertes's fiery determination contrasts with Hamlet's introspective hesitation, highlighting different approaches to grief and action. This moment underscores the destructive cycle of revenge that propels the play toward its tragic conclusion, as characters become consumed by their need to right perceived wrongs."
+  - id: "a-pirate-of-very-warlike-appointment"
+    trigger: "a pirate of very warlike appointment"
+    title: "How Pirates Reshape Hamlet's Fate"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet's encounter with 'a pirate of very warlike appointment' is a surprising twist that alters the trajectory of his journey. Captured during his voyage to England, Hamlet's escape from the pirates allows him to return to Denmark and resume his quest for revenge. Pirates in Elizabethan times were both feared and romanticized, often seen as symbols of freedom and danger. This unexpected event adds an element of adventure to the play, showcasing Hamlet's resourcefulness and resilience. The pirates' intervention serves as a narrative device to bring Hamlet back into the central conflict, setting the stage for the play's climactic resolution."
+  - id: "the-general-gender-bear-him"
+    trigger: "the general gender bear him"
+    title: "Why Hamlet Is Loved Despite His Flaws"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
+    image_url: ""
+    image_caption: ""
+    content: "Claudius's observation that 'the general gender bear him' highlights Hamlet's popularity among the common people despite his erratic behavior. This phrase reflects the Elizabethan concept of public opinion, where rulers were often judged by their ability to inspire loyalty and affection. Hamlet's charisma and intelligence make him a compelling figure, even as his actions grow increasingly dangerous. Claudius's frustration with Hamlet's popularity underscores the tension between personal ambition and public perception, a theme that resonates throughout the play. This moment reveals the precarious balance of power in Elsinore, as Claudius struggles to maintain control in the face of Hamlet's unpredictable influence."
+  - id: "gentleman-of-normandy"
+    trigger: "gentleman of Normandy"
+    title: "Who Was Lamord, the Famed Norman Duelist?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
+    image_url: ""
+    image_caption: ""
+    content: "The 'gentleman of Normandy' mentioned by Claudius is Lamord, a renowned duelist whose skill with the rapier becomes central to the King's plot against Hamlet. Lamord's reputation as a master swordsman reflects the Elizabethan fascination with fencing as both an art and a science. During Shakespeare's time, dueling was a way to demonstrate honor and prowess, often serving as a dramatic device in literature. Claudius's reference to Lamord adds an air of credibility to his scheme, as he uses the Norman's praise of Laertes to manipulate him into challenging Hamlet. This moment underscores the play's themes of deception and the deadly consequences of ambition."
+  - id: "to-cut-his-throat-i-th-church"
+    trigger: "To cut his throat i’ th’ church"
+    title: "Why Laertes Rejects Sanctuary for Revenge"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
+    image_url: ""
+    image_caption: ""
+    content: "Laertes's declaration that he would 'cut his throat i’ th’ church' reveals the depth of his rage and his willingness to defy moral and religious boundaries for revenge. In Elizabethan England, churches were considered sanctuaries where violence was forbidden, making Laertes's statement shockingly transgressive. This moment highlights the destructive power of grief and anger, as Laertes prioritizes vengeance over his own spiritual salvation. His unyielding resolve contrasts with Hamlet's philosophical hesitation, emphasizing the play's exploration of action versus inaction. Laertes's words foreshadow the tragic consequences of unchecked emotion, as his thirst for revenge leads to further bloodshed."
+  - id: "mermaid-like"
+    trigger: "mermaid-like"
+    title: "Why Ophelia's Death Is Described as 'Mermaid-like'"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ophelia_(character)"
+    image_url: ""
+    image_caption: ""
+    content: "Queen Gertrude's description of Ophelia's drowning as 'mermaid-like' transforms her tragic death into a hauntingly beautiful image. The comparison evokes the mythical allure of mermaids, creatures often associated with both enchantment and danger. In Elizabethan symbolism, water represented both purity and chaos, making Ophelia's death a poignant reflection of her innocence and the turmoil surrounding her. Gertrude's poetic account softens the brutality of Ophelia's demise, offering a moment of grace amidst the play's violence. This imagery underscores Ophelia's role as a victim of the court's corruption, her fragile beauty lost to the relentless currents of tragedy."
 ---
-The chamber's air hung heavy with a silence that seemed to thrum and tremble, as if the walls themselves held their breath for what calamity might next befall. Within, **Queen Gertrude**, pale and fretful, paced like a caged doe, her hands wringing as though to twist from them the stain of guilt or grief. Her gaze darted ever to the small wooden door, where beyond lay the chaos of shattered minds and broken hearts. 
+SCENE I. A room in the Castle.
 
-"She sings still," murmured Gertrude, her voice scarcely above a whisper, and yet it carried, for the room had ears attuned to sorrow. The lady-in-waiting, trembling as though winter had crept into her marrow, nodded mutely. The Queen turned to her, searching her face as though the servant might hold answers to unspoken questions. "Didst thou mark her words, good Margery? What songs hath she now taken up?" 
 
-The servant hesitated, her cheeks flaring with shame to recount the lunacy of one so gentle, so fair. "My lady, she sings of **flowers**—of rosemary and rue, and of daisies that spring not in winter. But then she speaks of graves and winding sheets, and her melody turns wild as the storm-tossed sea."
+Enter King, Queen, Rosencrantz and Guildenstern.
 
-Gertrude closed her eyes, the image of **Ophelia** burning in her mind—her golden hair unbound and strewn with blossoms, her delicate hands plucking petals as though they might divine the secrets of the world. She had seemed a creature of spring once, but now her bloom was withered, her laughter turned to fractured notes. "Let her come," the Queen said at length, though the words felt heavy in her throat, a stone that might sink them all. 
+KING.
+There’s matter in these sighs. These profound heaves
+You must translate; ’tis fit we understand them.
+Where is your son?
 
-The door creaked open, and there she stood—a vision both of beauty and of ruin. **Ophelia**, clad in a gown that hung askew, her bare feet dusted with earth as though she had trod the graveyard paths. Her arms cradled a bundle of wildflowers, their stems broken, their petals bruised, and one by one she scattered them upon the floor as though sowing sorrow itself.
+QUEEN.
+Bestow this place on us a little while.
 
-"Where is the beauteous majesty of Denmark?" she cried suddenly, her voice lilting with a melody that seemed to mock its own sweetness. Her gaze darted about, alighting on Gertrude, and with a curtsy too deep, too wild, she laughed—a sound that chilled the Queen's blood. "Here she is! Oh, let her wear this crown of thorns I have fashioned from violets. They are for remembrance, are they not? Pray you, love, remember!"
+[_To Rosencrantz and Guildenstern, who go out._]
 
-Gertrude stepped forward, her hands outstretched as though to catch and soothe the fragile creature before her. "Ophelia, sweet maid, thy grief consumes thee. Speak no more of crowns or thorns. Come, sit with me. Tell me what troubles thee so."
+Ah, my good lord, what have I seen tonight!
 
-But Ophelia seemed deaf to reason, her head tilting as though listening to voices none could hear. "They told me he loved me," she murmured, her words tumbling like shards of glass, sharp and broken. "But he hath fled, hath he not? Fled to madness, or to the grave—it matters not, for all are but shadows. **Prince Hamlet**, my prince, my heart, where art thou now? Have the worms taken thee yet?"
+KING.
+What, Gertrude? How does Hamlet?
 
-Her words struck the Queen like a blow, and she turned her face away lest her tears betray her. But Ophelia pressed on, her madness a flood that would not be dammed. She thrust a handful of wilted daisies toward Gertrude, her smile a ghastly parody of joy. "For you, my lady—innocence, though it is but a lie. And for him, my father, my noble, slain **Polonius**, the fennel and the columbine, for they are bitter herbs. Do you know that they say columbine is the flower of betrayal?"
+QUEEN.
+**Mad as the sea and wind**, when both contend
+Which is the mightier. In his lawless fit
+Behind the arras hearing something stir,
+Whips out his rapier, cries ‘A rat, a rat!’
+And in this brainish apprehension kills
+The unseen good old man.
 
-At this, Gertrude faltered, the weight of the girl's words pressing upon her chest like a stone. The name of Polonius rang through the room, and with it came the memory of his lifeless form, slain by Hamlet's hand, hidden behind the arras. What cruel chain of events had led them all to this moment? What wickedness had taken root in Denmark, spreading like poison through the veins of its people?
+KING.
+O heavy deed!
+It had been so with us, had we been there.
+His liberty is full of threats to all;
+To you yourself, to us, to everyone.
+Alas, how shall this bloody deed be answer’d?
+It will be laid to us, whose providence
+Should have kept short, restrain’d, and out of haunt
+This mad young man. But so much was our love
+We would not understand what was most fit,
+But like the owner of a foul disease,
+To keep it from divulging, let it feed
+Even on the pith of life. Where is he gone?
 
-Ophelia's rambling did not cease. Her steps grew erratic as she paced the chamber, her hands flitting like birds in flight, scattering petals and sorrow in equal measure. "And here, the pansies," she said, her voice rising with sudden fervor. "'Tis for thoughts, you see. Thoughts that plague me, thoughts that twist and turn like serpents in the dark. Oh, how they slither! Will no one rid me of this torment?"
+QUEEN.
+To draw apart the body he hath kill’d,
+O’er whom his very madness, like some ore
+Among a mineral of metals base,
+Shows itself pure. He weeps for what is done.
 
-The Queen moved toward her once more, her heart breaking for the girl who had been as a daughter to her. "Ophelia," she said gently, her voice trembling. "Do not let thy thoughts consume thee. Thy father loved thee, and thou wert cherished by all. Come, rest thy weary mind." 
+KING.
+O Gertrude, come away!
+The sun no sooner shall the mountains touch
+But we will ship him hence, and this vile deed
+We must with all our majesty and skill
+Both countenance and excuse.—Ho, Guildenstern!
 
-But Ophelia turned on her, her eyes wide and wild. "Loved me? Nay, they cast me aside as one casts a stone into the brook, and there I sank! O, the brook, the brook—it calls to me now. Did they not say that water soothes the fevered brow? Perhaps I shall lie beneath its surface, and there find peace."
+Re-enter Rosencrantz and Guildenstern.
 
-The Queen froze, her breath catching in her throat. "Speak not of such things, sweet maid. Thou art too young, too fair, too full of life to harbor such thoughts."
+Friends both, go join you with some further aid:
+Hamlet in madness hath Polonius slain,
+And from his mother’s closet hath he dragg’d him.
+Go seek him out, speak fair, and bring the body
+Into the chapel. I pray you haste in this.
 
-Yet Ophelia seemed not to hear. Her lips moved in song once more, a lilting tune that spoke of death and love, of graves and garlands. "And he loved me once, did he not?" she sang. "He said he loved me, and yet he slew my father. O cruel fate, that love should bear such fruit!"
+[_Exeunt Rosencrantz and Guildenstern._]
 
-The Queen could bear no more. She reached for Ophelia, but the girl danced away, her movements as erratic as her mind. "No, no, I must away! The **willow tree**, it droops its branches for me, and there the waters sing my name. Farewell, my lady, farewell!"
+Come, Gertrude, we’ll call up our wisest friends,
+And let them know both what we mean to do
+And what’s untimely done, so haply slander,
+Whose whisper o’er the world’s diameter,
+As level as the cannon to his blank,
+Transports his poison’d shot, may miss our name,
+And hit the woundless air. O, come away!
+My soul is full of discord and dismay.
 
-And with that, she swept from the room, her laughter echoing down the halls like the cry of a wounded bird. Gertrude sank into a chair, her hands trembling, her heart heavy. She called for the servant, who stood pale and trembling at the door. "Follow her," she commanded. "Do not let her stray to danger. She is lost, Margery, lost as a soul adrift in the tempest."
+[_Exeunt._]
 
-And so the servant followed, though her steps faltered, for who among them could face the storm that raged within Ophelia's shattered mind? Who could mend the broken pieces of her heart, or soothe the madness that had claimed her? None, it seemed. None at all.
+ SCENE II. Another room in the Castle.
 
-The Queen sat alone in the chamber, her thoughts heavy with grief. Denmark, once proud, now teetered on the brink of ruin. **Claudius**, her husband, schemed still, his sins buried deep but festering like a wound. Hamlet, her son, raged against the world, his madness a mirror of Ophelia's own. And poor Polonius lay cold in his grave, his death the spark that had set the fire ablaze.
+Enter Hamlet.
 
-She closed her eyes, and for a moment, the silence returned, heavy and suffocating. But then, faintly, she heard it—the sound of Ophelia's song, drifting back to her from some unseen place. It was sweet and mournful, like the cry of the earth itself for all it had lost. And Gertrude wept, for she knew that Denmark's sorrow was far from done, and the storm had only just begun to rage.
+HAMLET.
+Safely stowed.
+
+ROSENCRANTZ and GUILDENSTERN.
+[_Within._] Hamlet! Lord Hamlet!
+
+HAMLET.
+What noise? Who calls on Hamlet? O, here they come.
+
+Enter Rosencrantz and Guildenstern.
+
+ROSENCRANTZ.
+What have you done, my lord, with the dead body?
+
+HAMLET.
+Compounded it with dust, whereto ’tis kin.
+
+ROSENCRANTZ.
+Tell us where ’tis, that we may take it thence,
+And bear it to the chapel.
+
+HAMLET.
+Do not believe it.
+
+ROSENCRANTZ.
+Believe what?
+
+HAMLET.
+That I can keep your counsel, and not mine own. Besides, to be demanded
+of a sponge—what replication should be made by the son of a king?
+
+ROSENCRANTZ.
+Take you me for a sponge, my lord?
+
+HAMLET.
+Ay, sir; that soaks up the King’s countenance, his rewards, his
+authorities. But such officers do the King best service in the end: he
+keeps them, like an ape, in the corner of his jaw; first mouthed, to be
+last swallowed: when he needs what you have gleaned, it is but
+squeezing you, and, sponge, you shall be dry again.
+
+ROSENCRANTZ.
+I understand you not, my lord.
+
+HAMLET.
+I am glad of it. A knavish speech sleeps in a foolish ear.
+
+ROSENCRANTZ.
+My lord, you must tell us where the body is and go with us to the King.
+
+HAMLET.
+The body is with the King, but the King is not with the body. The King
+is a thing—
+
+GUILDENSTERN.
+A thing, my lord!
+
+HAMLET.
+Of nothing. Bring me to him. Hide fox, and all after.
+
+[_Exeunt._]
+
+ SCENE III. Another room in the Castle.
+
+Enter King, attended.
+
+KING.
+I have sent to seek him and to find the body.
+How dangerous is it that this man goes loose!
+Yet must not we put the strong law on him:
+He’s lov’d of the distracted multitude,
+Who like not in their judgement, but their eyes;
+And where ’tis so, th’offender’s scourge is weigh’d,
+But never the offence. To bear all smooth and even,
+This sudden sending him away must seem
+Deliberate pause. Diseases desperate grown
+By desperate appliance are reliev’d,
+Or not at all.
+
+Enter Rosencrantz.
+
+How now? What hath befall’n?
+
+ROSENCRANTZ.
+Where the dead body is bestow’d, my lord,
+We cannot get from him.
+
+KING.
+But where is he?
+
+ROSENCRANTZ.
+Without, my lord, guarded, to know your pleasure.
+
+KING.
+Bring him before us.
+
+ROSENCRANTZ.
+Ho, Guildenstern! Bring in my lord.
+
+Enter Hamlet and Guildenstern.
+
+KING.
+Now, Hamlet, where’s Polonius?
+
+HAMLET.
+At supper.
+
+KING.
+At supper? Where?
+
+HAMLET.
+Not where he eats, but where he is eaten. A certain **convocation of
+politic worms** are e’en at him. Your worm is your only emperor for diet.
+We fat all creatures else to fat us, and we fat ourselves for maggots.
+Your fat king and your lean beggar is but variable service,—two dishes,
+but to one table. That’s the end.
+
+KING.
+Alas, alas!
+
+HAMLET.
+A man may fish with the worm that hath eat of a king, and eat of the
+fish that hath fed of that worm.
+
+KING.
+What dost thou mean by this?
+
+HAMLET.
+Nothing but to show you how a king may go a progress through the guts
+of a beggar.
+
+KING.
+Where is Polonius?
+
+HAMLET.
+In heaven. Send thither to see. If your messenger find him not there,
+seek him i’ th’other place yourself. But indeed, if you find him not
+within this month, you shall nose him as you go up the stairs into the
+lobby.
+
+KING.
+[_To some Attendants._] Go seek him there.
+
+HAMLET.
+He will stay till you come.
+
+[_Exeunt Attendants._]
+
+KING.
+Hamlet, this deed, for thine especial safety,—
+Which we do tender, as we dearly grieve
+For that which thou hast done,—must send thee hence
+With **fiery quickness**. Therefore prepare thyself;
+The bark is ready, and the wind at help,
+Th’associates tend, and everything is bent
+For England.
+
+HAMLET.
+For England?
+
+KING.
+Ay, Hamlet.
+
+HAMLET.
+Good.
+
+KING.
+So is it, if thou knew’st our purposes.
+
+HAMLET.
+I see a cherub that sees them. But, come; for England! Farewell, dear
+mother.
+
+KING.
+Thy loving father, Hamlet.
+
+HAMLET.
+My mother. Father and mother is man and wife; man and wife is one
+flesh; and so, my mother. Come, for England.
+
+[_Exit._]
+
+KING.
+Follow him at foot. Tempt him with speed aboard;
+Delay it not; I’ll have him hence tonight.
+Away, for everything is seal’d and done
+That else leans on th’affair. Pray you make haste.
+
+[_Exeunt Rosencrantz and Guildenstern._]
+
+And England, if my love thou hold’st at aught,—
+As my great power thereof may give thee sense,
+Since yet thy cicatrice looks raw and red
+After the Danish sword, and thy free awe
+Pays homage to us,—thou mayst not coldly set
+Our sovereign process, which imports at full,
+By letters conjuring to that effect,
+The present death of Hamlet. Do it, England;
+For like the hectic in my blood he rages,
+And thou must cure me. Till I know ’tis done,
+Howe’er my haps, my joys were ne’er begun.
+
+[_Exit._]
+
+ SCENE IV. A plain in Denmark.
+
+Enter **Fortinbras** and Forces marching.
+
+FORTINBRAS.
+Go, Captain, from me greet the Danish king.
+Tell him that by his license, Fortinbras
+Craves the conveyance of a promis’d march
+Over his kingdom. You know the rendezvous.
+If that his Majesty would aught with us,
+We shall express our duty in his eye;
+And let him know so.
+
+CAPTAIN.
+I will do’t, my lord.
+
+FORTINBRAS.
+Go softly on.
+
+[_Exeunt all but the Captain._]
+
+Enter Hamlet, Rosencrantz, Guildenstern &c.
+
+HAMLET.
+Good sir, whose powers are these?
+
+CAPTAIN.
+They are of Norway, sir.
+
+HAMLET.
+How purpos’d, sir, I pray you?
+
+CAPTAIN.
+Against some part of Poland.
+
+HAMLET.
+Who commands them, sir?
+
+CAPTAIN.
+The nephew to old Norway, Fortinbras.
+
+HAMLET.
+Goes it against the main of Poland, sir,
+Or for some frontier?
+
+CAPTAIN.
+Truly to speak, and with no addition,
+We go to gain a little patch of ground
+That hath in it no profit but the name.
+To pay five ducats, five, I would not farm it;
+Nor will it yield to Norway or the Pole
+A ranker rate, should it be sold in fee.
+
+HAMLET.
+Why, then the Polack never will defend it.
+
+CAPTAIN.
+Yes, it is already garrison’d.
+
+HAMLET.
+Two thousand souls and twenty thousand ducats
+Will not debate the question of this straw!
+This is th’imposthume of much wealth and peace,
+That inward breaks, and shows no cause without
+Why the man dies. I humbly thank you, sir.
+
+CAPTAIN.
+God b’ wi’ you, sir.
+
+[_Exit._]
+
+ROSENCRANTZ.
+Will’t please you go, my lord?
+
+HAMLET.
+I’ll be with you straight. Go a little before.
+
+[_Exeunt all but Hamlet._]
+
+How all occasions do inform against me,
+And spur my dull revenge. What is a man
+If his chief good and market of his time
+Be but to sleep and feed? A beast, no more.
+Sure he that made us with such large discourse,
+Looking before and after, gave us not
+That capability and godlike reason
+To fust in us unus’d. Now whether it be
+Bestial oblivion, or some craven scruple
+Of thinking too precisely on th’event,—
+A thought which, quarter’d, hath but one part wisdom
+And ever three parts coward,—I do not know
+Why yet I live to say this thing’s to do,
+Sith I have cause, and will, and strength, and means
+To do’t. Examples gross as earth exhort me,
+Witness this army of such mass and charge,
+Led by a delicate and tender prince,
+Whose spirit, with divine ambition puff’d,
+Makes mouths at the invisible event,
+Exposing what is mortal and unsure
+To all that fortune, death, and danger dare,
+Even for an eggshell. Rightly to be great
+Is not to stir without great argument,
+But greatly to find quarrel in a straw
+When honour’s at the stake. How stand I then,
+That have a father kill’d, a mother stain’d,
+Excitements of my reason and my blood,
+And let all sleep, while to my shame I see
+The imminent death of twenty thousand men
+That, for a fantasy and trick of fame,
+Go to their graves like beds, fight for a plot
+Whereon the numbers cannot try the cause,
+Which is not tomb enough and continent
+To hide the slain? O, from this time forth,
+My thoughts be bloody or be nothing worth.
+
+[_Exit._]
+
+ SCENE V. Elsinore. A room in the Castle.
+
+Enter Queen, Horatio and a Gentleman.
+
+QUEEN.
+I will not speak with her.
+
+GENTLEMAN.
+She is importunate, indeed distract.
+Her mood will needs be pitied.
+
+QUEEN.
+What would she have?
+
+GENTLEMAN.
+She speaks much of her father; says she hears
+There’s tricks i’ th’ world, and hems, and beats her heart,
+Spurns enviously at straws, speaks things in doubt,
+That carry but half sense. Her speech is nothing,
+Yet the unshaped use of it doth move
+The hearers to collection; they aim at it,
+And botch the words up fit to their own thoughts,
+Which, as her winks, and nods, and gestures yield them,
+Indeed would make one think there might be thought,
+Though nothing sure, yet much unhappily.
+’Twere good she were spoken with, for she may strew
+Dangerous conjectures in ill-breeding minds.
+
+QUEEN.
+Let her come in.
+
+[_Exit Gentleman._]
+
+To my sick soul, as sin’s true nature is,
+Each toy seems prologue to some great amiss.
+So full of **artless jealousy** is guilt,
+It spills itself in fearing to be spilt.
+
+Enter Ophelia.
+
+OPHELIA.
+Where is the beauteous Majesty of Denmark?
+
+QUEEN.
+How now, Ophelia?
+
+OPHELIA.
+[_Sings._]
+   How should I your true love know
+     From another one?
+   By his cockle hat and staff
+     And his sandal shoon.
+
+QUEEN.
+Alas, sweet lady, what imports this song?
+
+OPHELIA.
+Say you? Nay, pray you mark.
+[_Sings._]
+   He is dead and gone, lady,
+     He is dead and gone,
+   At his head a grass green turf,
+     At his heels a stone.
+
+QUEEN.
+Nay, but Ophelia—
+
+OPHELIA.
+Pray you mark.
+[_Sings._]
+   White his shroud as the mountain snow.
+
+Enter King.
+
+QUEEN.
+Alas, look here, my lord!
+
+OPHELIA.
+[_Sings._]
+     Larded all with sweet flowers;
+   Which bewept to the grave did not go
+     With true-love showers.
+
+KING.
+How do you, pretty lady?
+
+OPHELIA.
+Well, God dild you! They say the owl was a baker’s daughter. Lord, we
+know what we are, but know not what we may be. God be at your table!
+
+KING.
+Conceit upon her father.
+
+OPHELIA.
+Pray you, let’s have no words of this; but when they ask you what it
+means, say you this:
+[_Sings._]
+   Tomorrow is **Saint Valentine’s day**,
+     All in the morning betime,
+   And I a maid at your window,
+     To be your Valentine.
+
+   Then up he rose and donn’d his clothes,
+     And dupp’d the chamber door,
+   Let in the maid, that out a maid
+     Never departed more.
+
+KING.
+Pretty Ophelia!
+
+OPHELIA.
+Indeed la, without an oath, I’ll make an end on’t.
+[_Sings._]
+   By Gis and by Saint Charity,
+     Alack, and fie for shame!
+   Young men will do’t if they come to’t;
+     By Cock, they are to blame.
+
+   Quoth she, before you tumbled me,
+     You promis’d me to wed.
+   So would I ha’ done, by yonder sun,
+     An thou hadst not come to my bed.
+
+KING.
+How long hath she been thus?
+
+OPHELIA.
+I hope all will be well. We must be patient. But I cannot choose but
+weep, to think they would lay him i’ th’ cold ground. My brother shall
+know of it. And so I thank you for your good counsel. Come, my coach!
+Good night, ladies; good night, sweet ladies; good night, good night.
+
+[_Exit._]
+
+KING.
+Follow her close; give her good watch, I pray you.
+
+[_Exit Horatio._]
+
+O, this is the poison of deep grief; it springs
+All from her father’s death. O Gertrude, Gertrude,
+When sorrows come, they come not single spies,
+But in battalions. First, her father slain;
+Next, your son gone; and he most violent author
+Of his own just remove; the people muddied,
+Thick, and unwholesome in their thoughts and whispers
+For good Polonius’ death; and we have done but greenly
+In hugger-mugger to inter him. **Poor Ophelia**
+Divided from herself and her fair judgement,
+Without the which we are pictures or mere beasts.
+Last, and as much containing as all these,
+Her brother is in secret come from France,
+Feeds on his wonder, keeps himself in clouds,
+And wants not buzzers to infect his ear
+With pestilent speeches of his father’s death,
+Wherein necessity, of matter beggar’d,
+Will nothing stick our person to arraign
+In ear and ear. O my dear Gertrude, this,
+Like to a murdering piece, in many places
+Gives me superfluous death.
+
+[_A noise within._]
+
+QUEEN.
+Alack, what noise is this?
+
+KING.
+Where are my Switzers? Let them guard the door.
+
+Enter a Gentleman.
+
+What is the matter?
+
+GENTLEMAN.
+Save yourself, my lord.
+The ocean, overpeering of his list,
+Eats not the flats with more impetuous haste
+Than young Laertes, in a riotous head,
+O’erbears your offices. The rabble call him lord,
+And, as the world were now but to begin,
+Antiquity forgot, custom not known,
+The ratifiers and props of every word,
+They cry ‘Choose we! Laertes shall be king!’
+Caps, hands, and tongues applaud it to the clouds,
+‘Laertes shall be king, Laertes king.’
+
+QUEEN.
+How cheerfully on the false trail they cry.
+O, this is counter, you false Danish dogs.
+
+[_A noise within._]
+
+KING.
+The doors are broke.
+
+Enter Laertes, armed; Danes following.
+
+LAERTES.
+Where is this king?—Sirs, stand you all without.
+
+Danes.
+No, let’s come in.
+
+LAERTES.
+I pray you, give me leave.
+
+DANES.
+We will, we will.
+
+[_They retire without the door._]
+
+LAERTES.
+I thank you. Keep the door. O thou vile king,
+Give me my father.
+
+QUEEN.
+Calmly, good Laertes.
+
+LAERTES.
+That drop of blood that’s calm proclaims me bastard;
+Cries cuckold to my father, brands the harlot
+Even here between the chaste unsmirched brow
+Of my true mother.
+
+KING.
+What is the cause, Laertes,
+That thy rebellion looks so giant-like?—
+Let him go, Gertrude. Do not fear our person.
+There’s such divinity doth hedge a king,
+That treason can but peep to what it would,
+Acts little of his will.—Tell me, Laertes,
+Why thou art thus incens’d.—Let him go, Gertrude:—
+Speak, man.
+
+LAERTES.
+Where is my father?
+
+KING.
+Dead.
+
+QUEEN.
+But not by him.
+
+KING.
+Let him demand his fill.
+
+LAERTES.
+How came he dead? I’ll not be juggled with.
+To hell, allegiance! Vows, to the blackest devil!
+Conscience and grace, to the profoundest pit!
+I dare damnation. To this point I stand,
+That both the worlds, I give to negligence,
+Let come what comes; only I’ll be reveng’d
+Most throughly for my father.
+
+KING.
+Who shall stay you?
+
+LAERTES.
+My will, not all the world.
+And for my means, I’ll husband them so well,
+They shall go far with little.
+
+KING.
+Good Laertes,
+If you desire to know the certainty
+Of your dear father’s death, is’t writ in your revenge
+That, sweepstake, you will draw both friend and foe,
+Winner and loser?
+
+LAERTES.
+None but his enemies.
+
+KING.
+Will you know them then?
+
+LAERTES.
+To his good friends thus wide I’ll ope my arms;
+And, like **the kind life-rendering pelican**,
+Repast them with my blood.
+
+KING.
+Why, now you speak
+Like a good child and a true gentleman.
+That I am guiltless of your father’s death,
+And am most sensibly in grief for it,
+It shall as level to your judgement ’pear
+As day does to your eye.
+
+DANES.
+[_Within._] Let her come in.
+
+LAERTES.
+How now! What noise is that?
+
+Re-enter Ophelia, fantastically dressed with straws and flowers.
+
+O heat, dry up my brains. Tears seven times salt,
+Burn out the sense and virtue of mine eye.
+By heaven, thy madness shall be paid by weight,
+Till our scale turn the beam. O rose of May!
+Dear maid, kind sister, sweet Ophelia!
+O heavens, is’t possible a young maid’s wits
+Should be as mortal as an old man’s life?
+Nature is fine in love, and where ’tis fine,
+It sends some precious instance of itself
+After the thing it loves.
+
+OPHELIA.
+[_Sings._]
+   They bore him barefac’d on the bier,
+   Hey non nonny, nonny, hey nonny
+   And on his grave rain’d many a tear.—
+   Fare you well, my dove!
+
+LAERTES.
+Hadst thou thy wits, and didst persuade revenge,
+It could not move thus.
+
+OPHELIA.
+You must sing ‘Down a-down, and you call him a-down-a.’ O, how the
+wheel becomes it! It is the false steward that stole his master’s
+daughter.
+
+LAERTES.
+This nothing’s more than matter.
+
+OPHELIA.
+There’s **rosemary, that’s for remembrance**; pray love, remember. And
+there is pansies, that’s for thoughts.
+
+LAERTES.
+A document in madness, thoughts and remembrance fitted.
+
+OPHELIA.
+There’s fennel for you, and columbines. There’s rue for you; and here’s
+some for me. We may call it herb of grace o’ Sundays. O you must wear
+your rue with a difference. There’s a daisy. I would give you some
+violets, but they wither’d all when my father died. They say he made a
+good end.
+[_Sings._]
+   For bonny sweet Robin is all my joy.
+
+LAERTES.
+Thought and affliction, passion, hell itself
+She turns to favour and to prettiness.
+
+OPHELIA.
+[_Sings._]
+   And will he not come again?
+   And will he not come again?
+     No, no, he is dead,
+     Go to thy death-bed,
+   He never will come again.
+
+   His beard was as white as snow,
+   All flaxen was his poll.
+     He is gone, he is gone,
+     And we cast away moan.
+   God ha’ mercy on his soul.
+
+And of all Christian souls, I pray God. God b’ wi’ ye.
+
+[_Exit._]
+
+LAERTES.
+Do you see this, O God?
+
+KING.
+Laertes, I must commune with your grief,
+Or you deny me right. Go but apart,
+Make choice of whom your wisest friends you will,
+And they shall hear and judge ’twixt you and me.
+If by direct or by collateral hand
+They find us touch’d, we will our kingdom give,
+Our crown, our life, and all that we call ours
+To you in satisfaction; but if not,
+Be you content to lend your patience to us,
+And we shall jointly labour with your soul
+To give it due content.
+
+LAERTES.
+Let this be so;
+**His means of death**, his obscure burial,—
+No trophy, sword, nor hatchment o’er his bones,
+No noble rite, nor formal ostentation,—
+Cry to be heard, as ’twere from heaven to earth,
+That I must call’t in question.
+
+KING.
+So you shall.
+And where th’offence is let the great axe fall.
+I pray you go with me.
+
+[_Exeunt._]
+
+ SCENE VI. Another room in the Castle.
+
+Enter Horatio and a Servant.
+
+HORATIO.
+What are they that would speak with me?
+
+SERVANT.
+Sailors, sir. They say they have letters for you.
+
+HORATIO.
+Let them come in.
+
+[_Exit Servant._]
+
+I do not know from what part of the world
+I should be greeted, if not from Lord Hamlet.
+
+Enter Sailors.
+
+FIRST SAILOR.
+God bless you, sir.
+
+HORATIO.
+Let him bless thee too.
+
+FIRST SAILOR.
+He shall, sir, and’t please him. There’s a letter for you, sir. It
+comes from th’ambassador that was bound for England; if your name be
+Horatio, as I am let to know it is.
+
+HORATIO.
+[_Reads._] ‘Horatio, when thou shalt have overlooked this, give these
+fellows some means to the King. They have letters for him. Ere we were
+two days old at sea, **a pirate of very warlike appointment** gave us
+chase. Finding ourselves too slow of sail, we put on a compelled
+valour, and in the grapple I boarded them. On the instant they got
+clear of our ship, so I alone became their prisoner. They have dealt
+with me like thieves of mercy. But they knew what they did; I am to do
+a good turn for them. Let the King have the letters I have sent, and
+repair thou to me with as much haste as thou wouldst fly death. I have
+words to speak in thine ear will make thee dumb; yet are they much too
+light for the bore of the matter. These good fellows will bring thee
+where I am. Rosencrantz and Guildenstern hold their course for England:
+of them I have much to tell thee. Farewell.
+     He that thou knowest thine,
+     HAMLET.’
+
+Come, I will give you way for these your letters,
+And do’t the speedier, that you may direct me
+To him from whom you brought them.
+
+[_Exeunt._]
+
+ SCENE VII. Another room in the Castle.
+
+Enter King and Laertes.
+
+KING.
+Now must your conscience my acquittance seal,
+And you must put me in your heart for friend,
+Sith you have heard, and with a knowing ear,
+That he which hath your noble father slain
+Pursu’d my life.
+
+LAERTES.
+It well appears. But tell me
+Why you proceeded not against these feats,
+So crimeful and so capital in nature,
+As by your safety, wisdom, all things else,
+You mainly were stirr’d up.
+
+KING.
+O, for two special reasons,
+Which may to you, perhaps, seem much unsinew’d,
+But yet to me they are strong. The Queen his mother
+Lives almost by his looks; and for myself,—
+My virtue or my plague, be it either which,—
+She’s so conjunctive to my life and soul,
+That, as the star moves not but in his sphere,
+I could not but by her. The other motive,
+Why to a public count I might not go,
+Is the great love **the general gender bear him**,
+Who, dipping all his faults in their affection,
+Would like the spring that turneth wood to stone,
+Convert his gyves to graces; so that my arrows,
+Too slightly timber’d for so loud a wind,
+Would have reverted to my bow again,
+And not where I had aim’d them.
+
+LAERTES.
+And so have I a noble father lost,
+A sister driven into desperate terms,
+Whose worth, if praises may go back again,
+Stood challenger on mount of all the age
+For her perfections. But my revenge will come.
+
+KING.
+Break not your sleeps for that. You must not think
+That we are made of stuff so flat and dull
+That we can let our beard be shook with danger,
+And think it pastime. You shortly shall hear more.
+I lov’d your father, and we love ourself,
+And that, I hope, will teach you to imagine—
+
+Enter a Messenger.
+
+How now? What news?
+
+MESSENGER.
+Letters, my lord, from Hamlet.
+This to your Majesty; this to the Queen.
+
+KING.
+From Hamlet! Who brought them?
+
+MESSENGER.
+Sailors, my lord, they say; I saw them not.
+They were given me by Claudio. He receiv’d them
+Of him that brought them.
+
+KING.
+Laertes, you shall hear them.
+Leave us.
+
+[_Exit Messenger._]
+
+[_Reads._] ‘High and mighty, you shall know I am set naked on your
+kingdom. Tomorrow shall I beg leave to see your kingly eyes. When I
+shall, first asking your pardon thereunto, recount the occasions of my
+sudden and more strange return.
+     HAMLET.’
+
+What should this mean? Are all the rest come back?
+Or is it some abuse, and no such thing?
+
+LAERTES.
+Know you the hand?
+
+KING.
+’Tis Hamlet’s character. ‘Naked!’
+And in a postscript here he says ‘alone.’
+Can you advise me?
+
+LAERTES.
+I am lost in it, my lord. But let him come,
+It warms the very sickness in my heart
+That I shall live and tell him to his teeth,
+‘Thus diest thou.’
+
+KING.
+If it be so, Laertes,—
+As how should it be so? How otherwise?—
+Will you be rul’d by me?
+
+LAERTES.
+Ay, my lord;
+So you will not o’errule me to a peace.
+
+KING.
+To thine own peace. If he be now return’d,
+As checking at his voyage, and that he means
+No more to undertake it, I will work him
+To an exploit, now ripe in my device,
+Under the which he shall not choose but fall;
+And for his death no wind shall breathe,
+But even his mother shall uncharge the practice
+And call it accident.
+
+LAERTES.
+My lord, I will be rul’d;
+The rather if you could devise it so
+That I might be the organ.
+
+KING.
+It falls right.
+You have been talk’d of since your travel much,
+And that in Hamlet’s hearing, for a quality
+Wherein they say you shine. Your sum of parts
+Did not together pluck such envy from him
+As did that one, and that, in my regard,
+Of the unworthiest siege.
+
+LAERTES.
+What part is that, my lord?
+
+KING.
+A very riband in the cap of youth,
+Yet needful too, for youth no less becomes
+The light and careless livery that it wears
+Than settled age his sables and his weeds,
+Importing health and graveness. Two months since
+Here was a **gentleman of Normandy**,—
+I’ve seen myself, and serv’d against, the French,
+And they can well on horseback, but this gallant
+Had witchcraft in’t. He grew unto his seat,
+And to such wondrous doing brought his horse,
+As had he been incorps’d and demi-natur’d
+With the brave beast. So far he topp’d my thought
+That I in forgery of shapes and tricks,
+Come short of what he did.
+
+LAERTES.
+A Norman was’t?
+
+KING.
+A Norman.
+
+LAERTES.
+Upon my life, Lamord.
+
+KING.
+The very same.
+
+LAERTES.
+I know him well. He is the brooch indeed
+And gem of all the nation.
+
+KING.
+He made confession of you,
+And gave you such a masterly report
+For art and exercise in your defence,
+And for your rapier most especially,
+That he cried out ’twould be a sight indeed
+If one could match you. The scrimers of their nation
+He swore had neither motion, guard, nor eye,
+If you oppos’d them. Sir, this report of his
+Did Hamlet so envenom with his envy
+That he could nothing do but wish and beg
+Your sudden coming o’er to play with him.
+Now, out of this,—
+
+LAERTES.
+What out of this, my lord?
+
+KING.
+Laertes, was your father dear to you?
+Or are you like the painting of a sorrow,
+A face without a heart?
+
+LAERTES.
+Why ask you this?
+
+KING.
+Not that I think you did not love your father,
+But that I know love is begun by time,
+And that I see, in passages of proof,
+Time qualifies the spark and fire of it.
+There lives within the very flame of love
+A kind of wick or snuff that will abate it;
+And nothing is at a like goodness still,
+For goodness, growing to a pleurisy,
+Dies in his own too much. That we would do,
+We should do when we would; for this ‘would’ changes,
+And hath abatements and delays as many
+As there are tongues, are hands, are accidents;
+And then this ‘should’ is like a spendthrift sigh
+That hurts by easing. But to the quick o’ th’ulcer:
+Hamlet comes back: what would you undertake
+To show yourself your father’s son in deed,
+More than in words?
+
+LAERTES.
+**To cut his throat i’ th’ church**.
+
+KING.
+No place, indeed, should murder sanctuarize;
+Revenge should have no bounds. But good Laertes,
+Will you do this, keep close within your chamber.
+Hamlet return’d shall know you are come home:
+We’ll put on those shall praise your excellence,
+And set a double varnish on the fame
+The Frenchman gave you, bring you in fine together
+And wager on your heads. He, being remiss,
+Most generous, and free from all contriving,
+Will not peruse the foils; so that with ease,
+Or with a little shuffling, you may choose
+A sword unbated, and in a pass of practice,
+Requite him for your father.
+
+LAERTES.
+I will do’t.
+And for that purpose I’ll anoint my sword.
+I bought an unction of a mountebank
+So mortal that, but dip a knife in it,
+Where it draws blood no cataplasm so rare,
+Collected from all simples that have virtue
+Under the moon, can save the thing from death
+This is but scratch’d withal. I’ll touch my point
+With this contagion, that if I gall him slightly,
+It may be death.
+
+KING.
+Let’s further think of this,
+Weigh what convenience both of time and means
+May fit us to our shape. If this should fail,
+And that our drift look through our bad performance.
+’Twere better not assay’d. Therefore this project
+Should have a back or second, that might hold
+If this did blast in proof. Soft, let me see.
+We’ll make a solemn wager on your cunnings,—
+I ha’t! When in your motion you are hot and dry,
+As make your bouts more violent to that end,
+And that he calls for drink, I’ll have prepar’d him
+A chalice for the nonce; whereon but sipping,
+If he by chance escape your venom’d stuck,
+Our purpose may hold there.
+
+Enter Queen.
+
+How now, sweet Queen?
+
+QUEEN.
+One woe doth tread upon another’s heel,
+So fast they follow. Your sister’s drown’d, Laertes.
+
+LAERTES.
+Drown’d! O, where?
+
+QUEEN.
+There is a willow grows aslant a brook,
+That shows his hoary leaves in the glassy stream.
+There with fantastic garlands did she make
+Of crow-flowers, nettles, daisies, and long purples,
+That liberal shepherds give a grosser name,
+But our cold maids do dead men’s fingers call them.
+There on the pendant boughs her coronet weeds
+Clamb’ring to hang, an envious sliver broke,
+When down her weedy trophies and herself
+Fell in the weeping brook. Her clothes spread wide,
+And **mermaid-like**, awhile they bore her up,
+Which time she chaunted snatches of old tunes,
+As one incapable of her own distress,
+Or like a creature native and indued
+Unto that element. But long it could not be
+Till that her garments, heavy with their drink,
+Pull’d the poor wretch from her melodious lay
+To muddy death.
+
+LAERTES.
+Alas, then she is drown’d?
+
+QUEEN.
+Drown’d, drown’d.
+
+LAERTES.
+Too much of water hast thou, poor Ophelia,
+And therefore I forbid my tears. But yet
+It is our trick; nature her custom holds,
+Let shame say what it will. When these are gone,
+The woman will be out. Adieu, my lord,
+I have a speech of fire, that fain would blaze,
+But that this folly douts it.
+
+[_Exit._]
+
+KING.
+Let’s follow, Gertrude;
+How much I had to do to calm his rage!
+Now fear I this will give it start again;
+Therefore let’s follow.
+
+[_Exeunt._]

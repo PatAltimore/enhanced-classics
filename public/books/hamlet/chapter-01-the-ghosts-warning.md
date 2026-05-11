@@ -9,128 +9,1654 @@ book_slug: "hamlet"
 license: "public-domain"
 
 summary:
-  - point: "The chapter opens with a heavy, misty night at Elsinore Castle, setting a foreboding tone."
-    link: "https://en.wikipedia.org/wiki/Elsinore"
-    link_label: "Elsinore"
-  - point: "Francisco and Barnardo exchange tense greetings during their watch on the castle battlements."
-    link: "https://en.wikipedia.org/wiki/Hamlet"
-    link_label: "Francisco"
-  - point: "Horatio and Marcellus join the watch, and the ghost of King Hamlet appears, shocking the men."
-    link: "https://en.wikipedia.org/wiki/Horatio_(Hamlet)"
-    link_label: "Horatio"
-  - point: "The ghost, resembling the late King Hamlet, gestures silently and vanishes, leaving the men shaken."
+  - point: "The ghost of King Hamlet appears to the sentinels, sparking fear and wonder."
     link: "https://en.wikipedia.org/wiki/Ghost_(Hamlet)"
-    link_label: "Ghost"
-  - point: "The men speculate about the ghost's appearance, linking it to Denmark's unrest and war preparations."
-    link: "https://en.wikipedia.org/wiki/Denmark"
-    link_label: "state of Denmark"
-  - point: "Horatio resolves to inform Prince Hamlet about the ghost, believing it may reveal its purpose to him."
-    link: "https://en.wikipedia.org/wiki/Wheel_of_fortune_(concept)"
-    link_label: "wheel of fortune"
+    link_label: "Ghost in Hamlet"
+  - point: "Horatio recounts the political tension between Denmark and Norway, involving young Fortinbras."
+    link: "https://en.wikipedia.org/wiki/Fortinbras"
+    link_label: "Fortinbras"
+  - point: "Hamlet expresses grief over his father's death and his mother's quick remarriage."
+    link: "https://en.wikipedia.org/wiki/Hamlet"
+    link_label: "Hamlet"
+  - point: "The ghost reveals that King Hamlet was murdered by his brother Claudius."
+    link: "https://en.wikipedia.org/wiki/Claudius_(Hamlet)"
+    link_label: "Claudius"
+  - point: "Hamlet vows to avenge his father's murder, setting the stage for the tragedy."
+    link: "https://en.wikipedia.org/wiki/Revenge_tragedy"
+    link_label: "Revenge tragedy"
+  - point: "Polonius advises Laertes and Ophelia on matters of conduct and Hamlet's affections."
+    link: "https://en.wikipedia.org/wiki/Polonius"
+    link_label: "Polonius"
 
 enhancements:
-  - id: "elsinore-castle-history"
+  - id: "elsinore-platform-before-the-castle"
     trigger: "Elsinore"
-    title: "Elsinore Castle's History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Elsinore"
+    title: "Why Elsinore Castle Is Central to Hamlet’s Drama"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Kronborg"
     image_url: ""
     image_caption: ""
-    content: "Elsinore, known as Kronborg Castle in Denmark, is a real historical fortress that inspired the setting for Shakespeare's 'Hamlet.' Located in Helsingør, it was strategically important during the Renaissance due to its position controlling the entrance to the Baltic Sea. The castle's imposing architecture and rich history make it a fitting backdrop for the themes of political intrigue and existential dread in the play."
-  - id: "francisco-character-analysis"
-    trigger: "Francisco"
-    title: "Francisco: A Minor Character"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
-    image_url: ""
-    image_caption: ""
-    content: "Francisco is one of the guards at Elsinore Castle who appears briefly in the opening scene of 'Hamlet.' Though his role is minor, his weary demeanor and ominous dialogue help establish the play's mood of unease and foreboding. His presence underscores the tension and uncertainty gripping Denmark at the start of the story."
-  - id: "barnardo-guard-role"
-    trigger: "Barnardo"
-    title: "Barnardo: The Guard's Perspective"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
-    image_url: ""
-    image_caption: ""
-    content: "Barnardo is another guard at Elsinore Castle who witnesses the ghost's appearance. His interactions with Francisco and Horatio highlight the pervasive fear and suspicion among the castle's inhabitants. Barnardo's role, though limited, contributes to the play's exploration of loyalty, duty, and the supernatural."
-  - id: "horatio-scholar-role"
-    trigger: "Horatio"
-    title: "Horatio: Hamlet's Loyal Friend"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Horatio_(Hamlet)"
-    image_url: ""
-    image_caption: ""
-    content: "Horatio is a central figure in 'Hamlet,' serving as the prince's confidant and a voice of reason throughout the play. His scholarly background and skepticism make him an ideal character to confront the ghost, as he bridges the worlds of rational thought and supernatural belief. Horatio's loyalty and insight are crucial to the unfolding drama."
-  - id: "ghost-king-hamlet"
-    trigger: "Ghost"
-    title: "The Ghost of King Hamlet"
+    content: "The opening scene of Hamlet takes place at Elsinore, a platform before the castle. This location is not just a backdrop—it’s Kronborg Castle in Helsingør, Denmark, a real fortress that inspired Shakespeare’s setting. Kronborg was a symbol of power and control, guarding the entrance to the Baltic Sea and collecting tolls from passing ships. Its imposing architecture and strategic importance made it a fitting stage for Hamlet’s tale of political intrigue and existential dread. By situating the play here, Shakespeare ties the personal tragedy of Hamlet to the broader themes of national security and the fragility of power. The castle’s cold, watchful atmosphere mirrors the tension and unease that permeate the story."
+  - id: "majesty-of-buried-denmark"
+    trigger: "the majesty of buried Denmark"
+    title: "What Does 'Buried Majesty' Reveal About Hamlet’s Ghost?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Ghost_(Hamlet)"
     image_url: ""
     image_caption: ""
-    content: "The ghost of King Hamlet is one of the most iconic supernatural elements in Shakespeare's works. Its appearance sets the plot in motion, as it reveals the truth about King Hamlet's murder and demands vengeance. The ghost's silent gestures and spectral presence embody themes of justice, memory, and the afterlife, central to the play's exploration of human morality."
-  - id: "state-of-denmark-omens"
-    trigger: "state of Denmark"
-    title: "Unrest in Denmark"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Denmark"
+    content: "When Horatio addresses the ghost as 'the majesty of buried Denmark,' he underscores the spectral figure’s royal authority even in death. This phrase evokes the ghost’s dual identity: a former king and a restless spirit. In Elizabethan England, ghosts were often seen as omens or unresolved souls, and their appearances carried weighty implications. The ghost’s regal presence ties Hamlet’s personal grief to Denmark’s political instability, suggesting that the kingdom’s moral and political decay began with Claudius’s betrayal. Shakespeare uses this haunting figure to blur the lines between the supernatural and the political, making the ghost both a symbol of divine justice and a catalyst for Hamlet’s tragic quest."
+  - id: "fortinbras-of-norway"
+    trigger: "Fortinbras of Norway"
+    title: "Why Fortinbras Is Hamlet’s Shadow Rival"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fortinbras"
     image_url: ""
     image_caption: ""
-    content: "The phrase 'something is rotten in the state of Denmark' encapsulates the political and moral corruption at the heart of 'Hamlet.' Denmark's instability, marked by war preparations and eerie omens, mirrors the personal turmoil of its characters. This setting serves as a microcosm for broader themes of decay and disorder in human societies."
-  - id: "war-preparations-denmark"
-    trigger: "war preparations"
-    title: "Denmark's War Preparations"
+    content: "Fortinbras of Norway is introduced as a foil to Hamlet—a young prince driven by ambition rather than introspection. His father’s defeat by King Hamlet left him landless, yet Fortinbras channels his loss into action, assembling a band of mercenaries to reclaim his inheritance. This contrasts sharply with Hamlet’s paralysis and philosophical brooding. Shakespeare uses Fortinbras to explore themes of revenge and leadership, showing how different characters respond to loss and injustice. While Hamlet hesitates and questions, Fortinbras acts decisively, embodying a pragmatic approach to power that highlights Hamlet’s tragic indecision."
+  - id: "young-fortinbras"
+    trigger: "young Fortinbras"
+    title: "How Young Fortinbras Shapes Hamlet’s Political Stakes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fortinbras"
+    image_url: ""
+    image_caption: ""
+    content: "Young Fortinbras, described as 'hot and full,' represents the youthful energy and ambition that Hamlet lacks. His actions—gathering a rogue army to reclaim lost lands—set the political stakes of the play. Fortinbras’s determination contrasts with Hamlet’s hesitation, highlighting the tension between action and contemplation. Shakespeare uses Fortinbras to mirror Hamlet’s situation: both are sons of fallen leaders, but their responses to loss diverge dramatically. Fortinbras’s subplot underscores the broader theme of succession and the instability of power, making him a crucial counterpoint to Hamlet’s internal struggle."
+  - id: "inky-cloak"
+    trigger: "inky cloak"
+    title: "Why Hamlet’s Mourning Clothes Speak Louder Than Words"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mourning"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet’s 'inky cloak' is more than a garment—it’s a visual manifestation of his grief. In Elizabethan England, mourning attire was a public declaration of loss, often black to symbolize sorrow. Hamlet’s refusal to shed his mourning clothes despite his mother’s remarriage signals his resistance to the court’s superficial attempts to move on. Shakespeare uses this detail to emphasize Hamlet’s isolation and his deeper connection to his father’s memory. The 'inky cloak' becomes a metaphor for Hamlet’s inner turmoil, contrasting the outward appearances of the court with the unresolved emotions beneath."
+  - id: "obstinate-condolement"
+    trigger: "obstinate condolement"
+    title: "Is Hamlet’s Grief 'Unmanly'? Claudius Thinks So"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Grief"
+    image_url: ""
+    image_caption: ""
+    content: "Claudius criticizes Hamlet’s 'obstinate condolement' as excessive and unmanly, reflecting societal expectations of stoicism, especially for men. In the Renaissance, prolonged mourning was often seen as a failure to accept divine will. Claudius’s dismissal of Hamlet’s grief reveals his manipulative nature, as he seeks to suppress Hamlet’s emotions to maintain political stability. Shakespeare uses this moment to highlight the tension between personal loss and public duty, setting the stage for Hamlet’s rebellion against the court’s hypocrisy."
+  - id: "frailty-thy-name-is-woman"
+    trigger: "Frailty, thy name is woman"
+    title: "Hamlet’s Scathing View of Women: Misogyny or Grief?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Misogyny"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet’s declaration, 'Frailty, thy name is woman,' is a bitter indictment of his mother’s quick remarriage to Claudius. This line reflects Hamlet’s disillusionment with Gertrude, whom he sees as betraying his father’s memory. It also reveals the play’s broader themes of gender and power, as Hamlet conflates personal betrayal with a critique of women’s perceived weakness. Shakespeare uses this moment to explore the intersection of grief, anger, and misogyny, showing how Hamlet’s emotional turmoil distorts his view of the world."
+  - id: "funeral-baked-meats"
+    trigger: "funeral bak’d meats"
+    title: "The Dark Irony of Hamlet’s Funeral Feasts"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Funeral"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet’s remark about 'funeral bak’d meats' serving the marriage tables underscores the unsettling speed of Gertrude’s remarriage. In Elizabethan culture, feasts were central to both funerals and weddings, but the reuse of food highlights the court’s disregard for mourning. Shakespeare uses this grim irony to emphasize Hamlet’s alienation and the moral decay he perceives in Denmark. The line encapsulates the play’s themes of corruption and the blurring of sacred rituals."
+  - id: "a-sable-silvered"
+    trigger: "A sable silver’d"
+    title: "What Hamlet’s Father’s Grizzled Beard Symbolizes"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
     image_url: ""
     image_caption: ""
-    content: "The mention of war preparations in 'Hamlet' reflects the political tensions of the time. Denmark's readiness for conflict underscores the theme of external threats paralleling internal strife. This detail also situates the play within the broader context of Renaissance Europe, where power struggles and territorial disputes were common."
-  - id: "supernatural-curse-theme"
-    trigger: "supernatural curse"
-    title: "The Supernatural in Hamlet"
+    content: "Horatio’s description of King Hamlet’s beard as 'a sable silver’d' evokes the dignity and wisdom of the late king. The imagery of black streaked with silver suggests a man seasoned by experience, contrasting with Claudius’s deceitful nature. Shakespeare uses this detail to deepen the audience’s sense of loss and to highlight the moral chasm between the old king and his usurping brother. The beard becomes a symbol of the noble legacy Hamlet seeks to avenge."
+  - id: "juice-of-cursed-hebenon"
+    trigger: "juice of cursed hebenon"
+    title: "The Poison That Changed Denmark’s Fate"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hebenon"
+    image_url: ""
+    image_caption: ""
+    content: "The 'juice of cursed hebenon' poured into King Hamlet’s ear is the instrument of his murder and a symbol of corruption. Scholars debate the identity of 'hebenon,' with theories ranging from henbane to other toxic substances. In Elizabethan times, poisoning was seen as a cowardly and insidious act, mirroring Claudius’s treachery. Shakespeare uses this detail to emphasize the theme of moral decay, as the poison infects not just the king’s body but the entire kingdom’s integrity."
+  - id: "damned-incest"
+    trigger: "damned incest"
+    title: "Why Hamlet Condemns His Mother’s Marriage"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Incest"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet’s reference to 'damned incest' reflects his horror at Gertrude’s marriage to Claudius, her brother-in-law. In Elizabethan England, such unions were considered morally and legally dubious, often equated with betrayal and corruption. Shakespeare uses this taboo to heighten the play’s tension, making Gertrude’s actions a focal point for Hamlet’s anger and despair. The phrase encapsulates the play’s exploration of familial betrayal and the collapse of moral order."
+  - id: "neither-a-borrower-nor-a-lender-be"
+    trigger: "Neither a borrower nor a lender be"
+    title: "Polonius’s Advice: Wisdom or Hypocrisy?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Polonius"
+    image_url: ""
+    image_caption: ""
+    content: "Polonius’s famous advice, 'Neither a borrower nor a lender be,' is part of his long-winded counsel to Laertes. While it reflects practical wisdom about financial independence, it also reveals Polonius’s penchant for moralizing. Shakespeare uses this moment to characterize Polonius as both a concerned father and a meddlesome courtier. The advice, though sound, is delivered with such verbosity that it becomes a source of irony, highlighting the gap between Polonius’s words and his actions."
+  - id: "springes-to-catch-woodcocks"
+    trigger: "springes to catch woodcocks"
+    title: "What Polonius’s Bird Trap Metaphor Really Means"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Woodcock"
+    image_url: ""
+    image_caption: ""
+    content: "Polonius warns Ophelia that Hamlet’s vows are 'springes to catch woodcocks,' likening her to a gullible bird easily ensnared. The woodcock was a common metaphor for foolishness in Elizabethan England, and Polonius uses it to caution Ophelia against trusting Hamlet’s intentions. Shakespeare uses this metaphor to highlight Polonius’s protective yet condescending attitude toward his daughter, while also foreshadowing the tragic consequences of Ophelia’s entanglement with Hamlet."
+  - id: "more-honoured-in-the-breach-than-the-observance"
+    trigger: "More honour’d in the breach than the observance"
+    title: "Hamlet’s Scorn for Denmark’s Drinking Customs"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wassail"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet criticizes the Danish custom of heavy drinking, calling it 'more honour’d in the breach than the observance.' This phrase suggests that breaking the tradition would be more respectable than following it. Shakespeare uses Hamlet’s disdain to underscore his alienation from the court and its moral decay. The line also reflects broader themes of cultural critique, as Hamlet questions the values and practices of his homeland."
+  - id: "angels-and-ministers-of-grace-defend-us"
+    trigger: "Angels and ministers of grace defend us"
+    title: "Hamlet’s Plea: Heaven or Hell in the Ghost?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ghost_(Hamlet)"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet’s invocation, 'Angels and ministers of grace defend us,' reveals his uncertainty about the ghost’s nature. Is it a divine messenger or a demonic trickster? In Elizabethan belief, ghosts could be either, and Hamlet’s hesitation reflects his struggle to discern truth in a world of deception. Shakespeare uses this moment to heighten the tension, making the ghost’s appearance a pivotal test of Hamlet’s faith and resolve."
+  - id: "swear-by-my-sword"
+    trigger: "Swear by my sword"
+    title: "Why Hamlet’s Sword Becomes a Sacred Oath"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sword"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet’s demand to 'swear by my sword' elevates the act of secrecy to a ritual. In medieval and Renaissance culture, swords symbolized honor and justice, making them fitting objects for solemn vows. Shakespeare uses this gesture to bind Horatio and Marcellus to Hamlet’s cause, creating a moment of camaraderie and shared purpose. The sword becomes a tangible link between Hamlet’s personal quest and the broader themes of loyalty and revenge."
+  - id: "antic-disposition"
+    trigger: "antic disposition"
+    title: "Why Hamlet Pretends to Be Mad"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Madness_in_Hamlet"
+    image_url: ""
+    image_caption: ""
+    content: "Hamlet’s plan to put on an 'antic disposition' is a calculated move to disguise his intentions. Feigned madness was a common trope in Elizabethan drama, allowing characters to speak truths that would otherwise be dangerous. Shakespeare uses Hamlet’s supposed insanity to explore themes of perception and reality, as the line between genuine madness and strategic deception blurs. This tactic also allows Hamlet to navigate the treacherous court while pursuing his revenge."
+  - id: "something-is-rotten-in-the-state-of-denmark"
+    trigger: "Something is rotten in the state of Denmark"
+    title: "What Lies Beneath Denmark’s Decay?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hamlet"
     image_url: ""
     image_caption: ""
-    content: "The idea of a supernatural curse in 'Hamlet' ties into the play's exploration of fate and divine justice. The ghost's appearance and the eerie atmosphere suggest that Denmark is plagued by forces beyond human control. This theme resonates with Elizabethan beliefs about the supernatural and its role in shaping human destiny."
-  - id: "wheel-of-fortune-concept"
-    trigger: "wheel of fortune"
-    title: "The Wheel of Fortune"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Wheel_of_fortune_(concept)"
-    image_url: ""
-    image_caption: ""
-    content: "The 'wheel of fortune' is a medieval concept symbolizing the unpredictable nature of fate. In 'Hamlet,' this idea underscores the play's themes of uncertainty and the cyclical nature of power and downfall. The imagery of the wheel reminds audiences that fortune is fickle, and those at the top may soon find themselves at the bottom."
+    content: "Marcellus’s observation, 'Something is rotten in the state of Denmark,' encapsulates the play’s central theme of corruption. From Claudius’s regicide to the moral decay of the court, Denmark is portrayed as a kingdom in decline. Shakespeare uses this line to foreshadow the unraveling of political and familial bonds, making it a haunting reminder of the consequences of betrayal and ambition. The phrase resonates as a timeless critique of power and its abuses."
 ---
-The night hung heavy o’er **Elsinore**, its shroud of mist curling about the battlements like the breath of some restless specter. The stars, though scattered and distant, seemed to flicker with unease, as if they themselves bore witness to some unseen turmoil. Upon the frost-bitten stones of the castle's watch, **Francisco**, weary from his vigil, paced like a shadow stretched long by flickering torchlight. He paused, his hand trembling on the hilt of his sword, as **Barnardo** approached, his figure half-swallowed by the gloom.
+SCENE I. **Elsinore**. A platform before the Castle.
 
-“Who's there?” Francisco called, voice taut as a bowstring drawn.
 
-“Nay, answer me. Stand, and unfold yourself,” Barnardo replied, his tone edged with suspicion.
+Enter Francisco and Barnardo, two sentinels.
 
-“Long live the King,” Francisco muttered, his words as much a habit as a prayer. He stepped forward, his face pale and drawn beneath the torch’s wavering light. Barnardo sighed, recognizing his comrade, and the tension between them fell away like a loosened knot.
+BARNARDO.
+Who’s there?
 
-“'Tis bitter cold, and I am sick at heart,” Francisco confessed, his words carried like smoke on the wind. The air seemed heavier for it, as though the castle itself mourned in silence. Barnardo nodded solemnly; the night was thick with whispers—whispers of unease, whispers of dread.
+FRANCISCO.
+Nay, answer me. Stand and unfold yourself.
 
-**Horatio** soon joined them, his scholarly demeanor ill-suited to the grim watch. Yet there was a sharpness in his eye, a readiness to pierce through the veil of mystery that had settled over Elsinore. **Marcellus**, the last to arrive, bore a look of grim determination, though his hand trembled as he gripped his halberd.
+BARNARDO.
+Long live the King!
 
-“Speak to it, Horatio,” Marcellus urged, his voice low, his gaze darting toward the darkness as if expecting it to leap forth and seize him. “Thou art a scholar; speak to it.”
+FRANCISCO.
+Barnardo?
 
-Horatio furrowed his brow, his skepticism clear. “Tush, tush, 'twill not appear.”
+BARNARDO.
+He.
 
-But even as he spoke, the air grew colder, and a silence more profound than any they had known descended upon them. The torches flickered, their flames retreating as if cowed, and then—it came.
+FRANCISCO.
+You come most carefully upon your hour.
 
-The **Ghost** loomed, pale and noble, its visage unmistakable. Draped in a spectral armor, it bore the likeness of the late **King Hamlet**, yet its form was insubstantial, wavering like smoke in the wind. Its eyes, dark and hollow, seemed to pierce through flesh and bone, anchoring the men to the ground as though their very souls were weighed by its gaze.
+BARNARDO.
+’Tis now struck twelve. Get thee to bed, Francisco.
 
-“Stay! Speak, speak! I charge thee, speak!” cried Horatio, his voice breaking against the silence like a wave against stone. But the apparition did not answer; its mouth remained closed, its expression unreadable. It raised one pallid hand, gesturing toward the heavens, before turning away, its form dissolving into the night.
+FRANCISCO.
+For this relief much thanks. ’Tis bitter cold,
+And I am sick at heart.
 
-Marcellus swore under his breath, his face pale as ash. “It was the King! As sure as I breathe, it was the King!”
+BARNARDO.
+Have you had quiet guard?
 
-Horatio, though shaken, attempted to grasp at reason. “Let us consider. If it be true, what might it portend? The **state of Denmark** quakes beneath strange omens—unnatural eclipses, the trembling earth. This ghost—this vision—what role might it play?”
+FRANCISCO.
+Not a mouse stirring.
 
-“The **war preparations**,” Barnardo added, his voice tight with unease, “the ceaseless hammering of iron, the shaping of cannon and shield—all of it speaks to unrest. And now, this apparition comes, as though to confirm our fears.”
+BARNARDO.
+Well, good night.
+If you do meet Horatio and Marcellus,
+The rivals of my watch, bid them make haste.
 
-The men debated in low tones, their words heavy with speculation. Was the ghost an omen of war? A warning of treachery? Or some **supernatural curse**, bound to plague the kingdom for its sins? Horatio, though a man of reason, could not deny the chill that gripped his heart nor the weight of the ghost’s silent warning.
+Enter Horatio and Marcellus.
 
-“We must tell young Hamlet,” Horatio declared at last, his voice steady despite the quiver in his hands. “If the spirit bears truth, it will reveal itself to him. There is a bond between a father and his son that no death can sever.”
+FRANCISCO.
+I think I hear them. Stand, ho! Who is there?
 
-Marcellus frowned. “Would he believe us? Or think us mad?”
+HORATIO.
+Friends to this ground.
 
-“Mad or not, he must know,” Horatio replied, his face set with determination. “The night grows darker, and the **wheel of fortune** turns. We stand upon uncertain ground, and every moment the shadow grows longer.”
+MARCELLUS.
+And liegemen to the Dane.
 
-The ghost returned once more before the dawn, its form indistinct, its presence oppressive. It lingered for but a moment, then vanished into the mist, leaving the men shaken and uncertain. The castle walls seemed to breathe with unease, their ancient stones whispering secrets into the void. Something was amiss in Denmark—something dark and unspoken.
+FRANCISCO.
+Give you good night.
 
-As the first rays of morning broke over the horizon, the men descended from the battlements. Their steps were heavy, their minds burdened by the night's events. They sought out Hamlet, their hearts filled with dread for what the ghost might yet reveal.
+MARCELLUS.
+O, farewell, honest soldier, who hath reliev’d you?
 
-And so the stage was set, the players moving toward their fated ends. The ghost’s warning hung in the air like a blade poised to descend, and the kingdom of Denmark stood trembling beneath its shadow.
+FRANCISCO.
+Barnardo has my place. Give you good-night.
+
+[_Exit._]
+
+MARCELLUS.
+Holla, Barnardo!
+
+BARNARDO.
+Say, what, is Horatio there?
+
+HORATIO.
+A piece of him.
+
+BARNARDO.
+Welcome, Horatio. Welcome, good Marcellus.
+
+MARCELLUS.
+What, has this thing appear’d again tonight?
+
+BARNARDO.
+I have seen nothing.
+
+MARCELLUS.
+Horatio says ’tis but our fantasy,
+And will not let belief take hold of him
+Touching this dreaded sight, twice seen of us.
+Therefore I have entreated him along
+With us to watch the minutes of this night,
+That if again this apparition come
+He may approve our eyes and speak to it.
+
+HORATIO.
+Tush, tush, ’twill not appear.
+
+BARNARDO.
+Sit down awhile,
+And let us once again assail your ears,
+That are so fortified against our story,
+What we two nights have seen.
+
+HORATIO.
+Well, sit we down,
+And let us hear Barnardo speak of this.
+
+BARNARDO.
+Last night of all,
+When yond same star that’s westward from the pole,
+Had made his course t’illume that part of heaven
+Where now it burns, Marcellus and myself,
+The bell then beating one—
+
+MARCELLUS.
+Peace, break thee off. Look where it comes again.
+
+Enter Ghost.
+
+BARNARDO.
+In the same figure, like the King that’s dead.
+
+MARCELLUS.
+Thou art a scholar; speak to it, Horatio.
+
+BARNARDO.
+Looks it not like the King? Mark it, Horatio.
+
+HORATIO.
+Most like. It harrows me with fear and wonder.
+
+BARNARDO
+It would be spoke to.
+
+MARCELLUS.
+Question it, Horatio.
+
+HORATIO.
+What art thou that usurp’st this time of night,
+Together with that fair and warlike form
+In which **the majesty of buried Denmark**
+Did sometimes march? By heaven I charge thee speak.
+
+MARCELLUS.
+It is offended.
+
+BARNARDO.
+See, it stalks away.
+
+HORATIO.
+Stay! speak, speak! I charge thee speak!
+
+[_Exit Ghost._]
+
+MARCELLUS.
+’Tis gone, and will not answer.
+
+BARNARDO.
+How now, Horatio! You tremble and look pale.
+Is not this something more than fantasy?
+What think you on’t?
+
+HORATIO.
+Before my God, I might not this believe
+Without the sensible and true avouch
+Of mine own eyes.
+
+MARCELLUS.
+Is it not like the King?
+
+HORATIO.
+As thou art to thyself:
+Such was the very armour he had on
+When he th’ambitious Norway combated;
+So frown’d he once, when in an angry parle
+He smote the sledded Polacks on the ice.
+’Tis strange.
+
+MARCELLUS.
+Thus twice before, and jump at this dead hour,
+With martial stalk hath he gone by our watch.
+
+HORATIO.
+In what particular thought to work I know not;
+But in the gross and scope of my opinion,
+This bodes some strange eruption to our state.
+
+MARCELLUS.
+Good now, sit down, and tell me, he that knows,
+Why this same strict and most observant watch
+So nightly toils the subject of the land,
+And why such daily cast of brazen cannon
+And foreign mart for implements of war;
+Why such impress of shipwrights, whose sore task
+Does not divide the Sunday from the week.
+What might be toward, that this sweaty haste
+Doth make the night joint-labourer with the day:
+Who is’t that can inform me?
+
+HORATIO.
+That can I;
+At least, the whisper goes so. Our last King,
+Whose image even but now appear’d to us,
+Was, as you know, by **Fortinbras of Norway**,
+Thereto prick’d on by a most emulate pride,
+Dar’d to the combat; in which our valiant Hamlet,
+For so this side of our known world esteem’d him,
+Did slay this Fortinbras; who by a seal’d compact,
+Well ratified by law and heraldry,
+Did forfeit, with his life, all those his lands
+Which he stood seiz’d of, to the conqueror;
+Against the which, a moiety competent
+Was gaged by our King; which had return’d
+To the inheritance of Fortinbras,
+Had he been vanquisher; as by the same cov’nant
+And carriage of the article design’d,
+His fell to Hamlet. Now, sir, **young Fortinbras**,
+Of unimproved mettle, hot and full,
+Hath in the skirts of Norway, here and there,
+Shark’d up a list of lawless resolutes,
+For food and diet, to some enterprise
+That hath a stomach in’t; which is no other,
+As it doth well appear unto our state,
+But to recover of us by strong hand
+And terms compulsatory, those foresaid lands
+So by his father lost. And this, I take it,
+Is the main motive of our preparations,
+The source of this our watch, and the chief head
+Of this post-haste and rummage in the land.
+
+BARNARDO.
+I think it be no other but e’en so:
+Well may it sort that this portentous figure
+Comes armed through our watch so like the King
+That was and is the question of these wars.
+
+HORATIO.
+A mote it is to trouble the mind’s eye.
+In the most high and palmy state of Rome,
+A little ere the mightiest Julius fell,
+The graves stood tenantless and the sheeted dead
+Did squeak and gibber in the Roman streets;
+As stars with trains of fire and dews of blood,
+Disasters in the sun; and the moist star,
+Upon whose influence Neptune’s empire stands,
+Was sick almost to doomsday with eclipse.
+And even the like precurse of fierce events,
+As harbingers preceding still the fates
+And prologue to the omen coming on,
+Have heaven and earth together demonstrated
+Unto our climatures and countrymen.
+
+Re-enter Ghost.
+
+But, soft, behold! Lo, where it comes again!
+I’ll cross it, though it blast me. Stay, illusion!
+If thou hast any sound, or use of voice,
+Speak to me.
+If there be any good thing to be done,
+That may to thee do ease, and grace to me,
+Speak to me.
+If thou art privy to thy country’s fate,
+Which, happily, foreknowing may avoid,
+O speak!
+Or if thou hast uphoarded in thy life
+Extorted treasure in the womb of earth,
+For which, they say, you spirits oft walk in death,
+Speak of it. Stay, and speak!
+
+[_The cock crows._]
+
+Stop it, Marcellus!
+
+MARCELLUS.
+Shall I strike at it with my partisan?
+
+HORATIO.
+Do, if it will not stand.
+
+BARNARDO.
+’Tis here!
+
+HORATIO.
+’Tis here!
+
+[_Exit Ghost._]
+
+MARCELLUS.
+’Tis gone!
+We do it wrong, being so majestical,
+To offer it the show of violence,
+For it is as the air, invulnerable,
+And our vain blows malicious mockery.
+
+BARNARDO.
+It was about to speak, when the cock crew.
+
+HORATIO.
+And then it started, like a guilty thing
+Upon a fearful summons. I have heard
+The cock, that is the trumpet to the morn,
+Doth with his lofty and shrill-sounding throat
+Awake the god of day; and at his warning,
+Whether in sea or fire, in earth or air,
+Th’extravagant and erring spirit hies
+To his confine. And of the truth herein
+This present object made probation.
+
+MARCELLUS.
+It faded on **the crowing of the cock**.
+Some say that ever ’gainst that season comes
+Wherein our Saviour’s birth is celebrated,
+The bird of dawning singeth all night long;
+And then, they say, no spirit dare stir abroad,
+The nights are wholesome, then no planets strike,
+No fairy takes, nor witch hath power to charm;
+So hallow’d and so gracious is the time.
+
+HORATIO.
+So have I heard, and do in part believe it.
+But look, the morn in russet mantle clad,
+Walks o’er the dew of yon high eastward hill.
+Break we our watch up, and by my advice,
+Let us impart what we have seen tonight
+Unto young Hamlet; for upon my life,
+This spirit, dumb to us, will speak to him.
+Do you consent we shall acquaint him with it,
+As needful in our loves, fitting our duty?
+
+MARCELLUS.
+Let’s do’t, I pray, and I this morning know
+Where we shall find him most conveniently.
+
+[_Exeunt._]
+
+ SCENE II. Elsinore. A room of state in the Castle.
+
+Enter Claudius King of Denmark, Gertrude the Queen, Hamlet, Polonius,
+Laertes, Voltemand,
+Cornelius, Lords and Attendant.
+
+KING.
+Though yet of Hamlet our dear brother’s death
+The memory be green, and that it us befitted
+To bear our hearts in grief, and our whole kingdom
+To be contracted in one brow of woe;
+Yet so far hath discretion fought with nature
+That we with wisest sorrow think on him,
+Together with remembrance of ourselves.
+Therefore our sometime sister, now our queen,
+Th’imperial jointress to this warlike state,
+Have we, as ’twere with a defeated joy,
+With one auspicious and one dropping eye,
+With mirth in funeral, and with dirge in marriage,
+In equal scale weighing delight and dole,
+Taken to wife; nor have we herein barr’d
+Your better wisdoms, which have freely gone
+With this affair along. For all, our thanks.
+Now follows, that you know young Fortinbras,
+Holding a weak supposal of our worth,
+Or thinking by our late dear brother’s death
+Our state to be disjoint and out of frame,
+Colleagued with this dream of his advantage,
+He hath not fail’d to pester us with message,
+Importing the surrender of those lands
+Lost by his father, with all bonds of law,
+To our most valiant brother. So much for him.
+Now for ourself and for this time of meeting:
+Thus much the business is: we have here writ
+To Norway, uncle of young Fortinbras,
+Who, impotent and bed-rid, scarcely hears
+Of this his nephew’s purpose, to suppress
+His further gait herein; in that the levies,
+The lists, and full proportions are all made
+Out of his subject: and we here dispatch
+You, good Cornelius, and you, Voltemand,
+For bearers of this greeting to old Norway,
+Giving to you no further personal power
+To business with the King, more than the scope
+Of these dilated articles allow.
+Farewell; and let your haste commend your duty.
+
+CORNELIUS and VOLTEMAND.
+In that, and all things, will we show our duty.
+
+KING.
+We doubt it nothing: heartily farewell.
+
+[_Exeunt Voltemand and Cornelius._]
+
+And now, Laertes, what’s the news with you?
+You told us of some suit. What is’t, Laertes?
+You cannot speak of reason to the Dane,
+And lose your voice. What wouldst thou beg, Laertes,
+That shall not be my offer, not thy asking?
+The head is not more native to the heart,
+The hand more instrumental to the mouth,
+Than is the throne of Denmark to thy father.
+What wouldst thou have, Laertes?
+
+LAERTES.
+Dread my lord,
+Your leave and favour to return to France,
+From whence though willingly I came to Denmark
+To show my duty in your coronation;
+Yet now I must confess, that duty done,
+My thoughts and wishes bend again toward France,
+And bow them to your gracious leave and pardon.
+
+KING.
+Have you your father’s leave? What says Polonius?
+
+POLONIUS.
+He hath, my lord, wrung from me my slow leave
+By laboursome petition; and at last
+Upon his will I seal’d my hard consent.
+I do beseech you give him leave to go.
+
+KING.
+Take thy fair hour, Laertes; time be thine,
+And thy best graces spend it at thy will!
+But now, my cousin Hamlet, and my son—
+
+HAMLET.
+[_Aside._] A little more than kin, and less than kind.
+
+KING.
+How is it that the clouds still hang on you?
+
+HAMLET.
+Not so, my lord, I am too much i’ the sun.
+
+QUEEN.
+Good Hamlet, cast thy nighted colour off,
+And let thine eye look like a friend on Denmark.
+Do not for ever with thy vailed lids
+Seek for thy noble father in the dust.
+Thou know’st ’tis common, all that lives must die,
+Passing through nature to eternity.
+
+HAMLET.
+Ay, madam, it is common.
+
+QUEEN.
+If it be,
+Why seems it so particular with thee?
+
+HAMLET.
+Seems, madam! Nay, it is; I know not seems.
+’Tis not alone my **inky cloak**, good mother,
+Nor customary suits of solemn black,
+Nor windy suspiration of forc’d breath,
+No, nor the fruitful river in the eye,
+Nor the dejected haviour of the visage,
+Together with all forms, moods, shows of grief,
+That can denote me truly. These indeed seem,
+For they are actions that a man might play;
+But I have that within which passeth show;
+These but the trappings and the suits of woe.
+
+KING.
+’Tis sweet and commendable in your nature, Hamlet,
+To give these mourning duties to your father;
+But you must know, your father lost a father,
+That father lost, lost his, and the survivor bound
+In filial obligation, for some term
+To do obsequious sorrow. But to persevere
+In **obstinate condolement** is a course
+Of impious stubbornness. ’Tis unmanly grief,
+It shows a will most incorrect to heaven,
+A heart unfortified, a mind impatient,
+An understanding simple and unschool’d;
+For what we know must be, and is as common
+As any the most vulgar thing to sense,
+Why should we in our peevish opposition
+Take it to heart? Fie, ’tis a fault to heaven,
+A fault against the dead, a fault to nature,
+To reason most absurd, whose common theme
+Is death of fathers, and who still hath cried,
+From the first corse till he that died today,
+‘This must be so.’ We pray you throw to earth
+This unprevailing woe, and think of us
+As of a father; for let the world take note
+You are the most immediate to our throne,
+And with no less nobility of love
+Than that which dearest father bears his son
+Do I impart toward you. For your intent
+In going back to school in Wittenberg,
+It is most retrograde to our desire:
+And we beseech you bend you to remain
+Here in the cheer and comfort of our eye,
+Our chiefest courtier, cousin, and our son.
+
+QUEEN.
+Let not thy mother lose her prayers, Hamlet.
+I pray thee stay with us; go not to Wittenberg.
+
+HAMLET.
+I shall in all my best obey you, madam.
+
+KING.
+Why, ’tis a loving and a fair reply.
+Be as ourself in Denmark. Madam, come;
+This gentle and unforc’d accord of Hamlet
+Sits smiling to my heart; in grace whereof,
+No jocund health that Denmark drinks today
+But the great cannon to the clouds shall tell,
+And the King’s rouse the heaven shall bruit again,
+Re-speaking earthly thunder. Come away.
+
+[_Exeunt all but Hamlet._]
+
+HAMLET.
+O that this too too solid flesh would melt,
+Thaw, and resolve itself into a dew!
+Or that the Everlasting had not fix’d
+His canon ’gainst self-slaughter. O God! O God!
+How weary, stale, flat, and unprofitable
+Seem to me all the uses of this world!
+Fie on’t! Oh fie! ’tis an unweeded garden
+That grows to seed; things rank and gross in nature
+Possess it merely. That it should come to this!
+But two months dead—nay, not so much, not two:
+So excellent a king; that was to this
+Hyperion to a satyr; so loving to my mother,
+That he might not beteem the winds of heaven
+Visit her face too roughly. Heaven and earth!
+Must I remember? Why, she would hang on him
+As if increase of appetite had grown
+By what it fed on; and yet, within a month—
+Let me not think on’t—**Frailty, thy name is woman**!
+A little month, or ere those shoes were old
+With which she followed my poor father’s body
+Like Niobe, all tears.—Why she, even she—
+O God! A beast that wants discourse of reason
+Would have mourn’d longer,—married with mine uncle,
+My father’s brother; but no more like my father
+Than I to Hercules. Within a month,
+Ere yet the salt of most unrighteous tears
+Had left the flushing in her galled eyes,
+She married. O most wicked speed, to post
+With such dexterity to incestuous sheets!
+It is not, nor it cannot come to good.
+But break, my heart, for I must hold my tongue.
+
+Enter Horatio, Marcellus and Barnardo.
+
+HORATIO.
+Hail to your lordship!
+
+HAMLET.
+I am glad to see you well:
+Horatio, or I do forget myself.
+
+HORATIO.
+The same, my lord,
+And your poor servant ever.
+
+HAMLET.
+Sir, my good friend;
+I’ll change that name with you:
+And what make you from Wittenberg, Horatio?—
+Marcellus?
+
+MARCELLUS.
+My good lord.
+
+HAMLET.
+I am very glad to see you.—Good even, sir.—
+But what, in faith, make you from Wittenberg?
+
+HORATIO.
+A truant disposition, good my lord.
+
+HAMLET.
+I would not hear your enemy say so;
+Nor shall you do my ear that violence,
+To make it truster of your own report
+Against yourself. I know you are no truant.
+But what is your affair in Elsinore?
+We’ll teach you to drink deep ere you depart.
+
+HORATIO.
+My lord, I came to see your father’s funeral.
+
+HAMLET.
+I prithee do not mock me, fellow-student.
+I think it was to see my mother’s wedding.
+
+HORATIO.
+Indeed, my lord, it follow’d hard upon.
+
+HAMLET.
+Thrift, thrift, Horatio! The **funeral bak’d meats**
+Did coldly furnish forth the marriage tables.
+Would I had met my dearest foe in heaven
+Or ever I had seen that day, Horatio.
+My father,—methinks I see my father.
+
+HORATIO.
+Where, my lord?
+
+HAMLET.
+In my mind’s eye, Horatio.
+
+HORATIO.
+I saw him once; he was a goodly king.
+
+HAMLET.
+He was a man, take him for all in all,
+I shall not look upon his like again.
+
+HORATIO.
+My lord, I think I saw him yesternight.
+
+HAMLET.
+Saw? Who?
+
+HORATIO.
+My lord, the King your father.
+
+HAMLET.
+The King my father!
+
+HORATIO.
+Season your admiration for a while
+With an attent ear, till I may deliver
+Upon the witness of these gentlemen
+This marvel to you.
+
+HAMLET.
+For God’s love let me hear.
+
+HORATIO.
+Two nights together had these gentlemen,
+Marcellus and Barnardo, on their watch
+In the dead waste and middle of the night,
+Been thus encounter’d. A figure like your father,
+Armed at point exactly, cap-à-pie,
+Appears before them, and with solemn march
+Goes slow and stately by them: thrice he walk’d
+By their oppress’d and fear-surprised eyes,
+Within his truncheon’s length; whilst they, distill’d
+Almost to jelly with the act of fear,
+Stand dumb, and speak not to him. This to me
+In dreadful secrecy impart they did,
+And I with them the third night kept the watch,
+Where, as they had deliver’d, both in time,
+Form of the thing, each word made true and good,
+The apparition comes. I knew your father;
+These hands are not more like.
+
+HAMLET.
+But where was this?
+
+MARCELLUS.
+My lord, upon the platform where we watch.
+
+HAMLET.
+Did you not speak to it?
+
+HORATIO.
+My lord, I did;
+But answer made it none: yet once methought
+It lifted up it head, and did address
+Itself to motion, like as it would speak.
+But even then the morning cock crew loud,
+And at the sound it shrunk in haste away,
+And vanish’d from our sight.
+
+HAMLET.
+’Tis very strange.
+
+HORATIO.
+As I do live, my honour’d lord, ’tis true;
+And we did think it writ down in our duty
+To let you know of it.
+
+HAMLET.
+Indeed, indeed, sirs, but this troubles me.
+Hold you the watch tonight?
+
+MARCELLUS and BARNARDO.
+We do, my lord.
+
+HAMLET.
+Arm’d, say you?
+
+Both.
+Arm’d, my lord.
+
+HAMLET.
+From top to toe?
+
+BOTH.
+My lord, from head to foot.
+
+HAMLET.
+Then saw you not his face?
+
+HORATIO.
+O yes, my lord, he wore his beaver up.
+
+HAMLET.
+What, look’d he frowningly?
+
+HORATIO.
+A countenance more in sorrow than in anger.
+
+HAMLET.
+Pale, or red?
+
+HORATIO.
+Nay, very pale.
+
+HAMLET.
+And fix’d his eyes upon you?
+
+HORATIO.
+Most constantly.
+
+HAMLET.
+I would I had been there.
+
+HORATIO.
+It would have much amaz’d you.
+
+HAMLET.
+Very like, very like. Stay’d it long?
+
+HORATIO.
+While one with moderate haste might tell a hundred.
+
+MARCELLUS and BARNARDO.
+Longer, longer.
+
+HORATIO.
+Not when I saw’t.
+
+HAMLET.
+His beard was grizzled, no?
+
+HORATIO.
+It was, as I have seen it in his life,
+**A sable silver’d**.
+
+HAMLET.
+I will watch tonight;
+Perchance ’twill walk again.
+
+HORATIO.
+I warrant you it will.
+
+HAMLET.
+If it assume my noble father’s person,
+I’ll speak to it, though hell itself should gape
+And bid me hold my peace. I pray you all,
+If you have hitherto conceal’d this sight,
+Let it be tenable in your silence still;
+And whatsoever else shall hap tonight,
+Give it an understanding, but no tongue.
+I will requite your loves. So, fare ye well.
+Upon the platform ’twixt eleven and twelve,
+I’ll visit you.
+
+ALL.
+Our duty to your honour.
+
+HAMLET.
+Your loves, as mine to you: farewell.
+
+[_Exeunt Horatio, Marcellus and Barnardo._]
+
+My father’s spirit in arms! All is not well;
+I doubt some foul play: would the night were come!
+Till then sit still, my soul: foul deeds will rise,
+Though all the earth o’erwhelm them, to men’s eyes.
+
+[_Exit._]
+
+ SCENE III. A room in Polonius’s house.
+
+Enter Laertes and Ophelia.
+
+LAERTES.
+My necessaries are embark’d. Farewell.
+And, sister, as the winds give benefit
+And convoy is assistant, do not sleep,
+But let me hear from you.
+
+OPHELIA.
+Do you doubt that?
+
+LAERTES.
+For Hamlet, and **the trifling of his favour**,
+Hold it a fashion and a toy in blood;
+A violet in the youth of primy nature,
+Forward, not permanent, sweet, not lasting;
+The perfume and suppliance of a minute;
+No more.
+
+OPHELIA.
+No more but so?
+
+LAERTES.
+Think it no more.
+For nature crescent does not grow alone
+In thews and bulk; but as this temple waxes,
+The inward service of the mind and soul
+Grows wide withal. Perhaps he loves you now,
+And now no soil nor cautel doth besmirch
+The virtue of his will; but you must fear,
+His greatness weigh’d, his will is not his own;
+For he himself is subject to his birth:
+He may not, as unvalu’d persons do,
+Carve for himself; for on his choice depends
+The sanctity and health of this whole state;
+And therefore must his choice be circumscrib’d
+Unto the voice and yielding of that body
+Whereof he is the head. Then if he says he loves you,
+It fits your wisdom so far to believe it
+As he in his particular act and place
+May give his saying deed; which is no further
+Than the main voice of Denmark goes withal.
+Then weigh what loss your honour may sustain
+If with too credent ear you list his songs,
+Or lose your heart, or your chaste treasure open
+To his unmaster’d importunity.
+Fear it, Ophelia, fear it, my dear sister;
+And keep you in the rear of your affection,
+Out of the shot and danger of desire.
+The chariest maid is prodigal enough
+If she unmask her beauty to the moon.
+Virtue itself ’scapes not calumnious strokes:
+The canker galls the infants of the spring
+Too oft before their buttons be disclos’d,
+And in the morn and liquid dew of youth
+Contagious blastments are most imminent.
+Be wary then, best safety lies in fear.
+Youth to itself rebels, though none else near.
+
+OPHELIA.
+I shall th’effect of this good lesson keep
+As watchman to my heart. But good my brother,
+Do not as some ungracious pastors do,
+Show me the steep and thorny way to heaven;
+Whilst like a puff’d and reckless libertine
+Himself the primrose path of dalliance treads,
+And recks not his own rede.
+
+LAERTES.
+O, fear me not.
+I stay too long. But here my father comes.
+
+Enter Polonius.
+
+A double blessing is a double grace;
+Occasion smiles upon a second leave.
+
+POLONIUS.
+Yet here, Laertes? Aboard, aboard, for shame.
+The wind sits in the shoulder of your sail,
+And you are stay’d for. There, my blessing with you.
+
+[_Laying his hand on Laertes’s head._]
+
+And these few precepts in thy memory
+Look thou character. Give thy thoughts no tongue,
+Nor any unproportion’d thought his act.
+Be thou familiar, but by no means vulgar.
+Those friends thou hast, and their adoption tried,
+Grapple them unto thy soul with hoops of steel;
+But do not dull thy palm with entertainment
+Of each new-hatch’d, unfledg’d comrade. Beware
+Of entrance to a quarrel; but being in,
+Bear’t that th’opposed may beware of thee.
+Give every man thine ear, but few thy voice:
+Take each man’s censure, but reserve thy judgement.
+Costly thy habit as thy purse can buy,
+But not express’d in fancy; rich, not gaudy:
+For the apparel oft proclaims the man;
+And they in France of the best rank and station
+Are of a most select and generous chief in that.
+**Neither a borrower nor a lender be**:
+For loan oft loses both itself and friend;
+And borrowing dulls the edge of husbandry.
+This above all: to thine own self be true;
+And it must follow, as the night the day,
+Thou canst not then be false to any man.
+Farewell: my blessing season this in thee.
+
+LAERTES.
+Most humbly do I take my leave, my lord.
+
+POLONIUS.
+The time invites you; go, your servants tend.
+
+LAERTES.
+Farewell, Ophelia, and remember well
+What I have said to you.
+
+OPHELIA.
+’Tis in my memory lock’d,
+And you yourself shall keep the key of it.
+
+LAERTES.
+Farewell.
+
+[_Exit._]
+
+POLONIUS.
+What is’t, Ophelia, he hath said to you?
+
+OPHELIA.
+So please you, something touching the Lord Hamlet.
+
+POLONIUS.
+Marry, well bethought:
+’Tis told me he hath very oft of late
+Given private time to you; and you yourself
+Have of your audience been most free and bounteous.
+If it be so,—as so ’tis put on me,
+And that in way of caution,—I must tell you
+You do not understand yourself so clearly
+As it behoves my daughter and your honour.
+What is between you? Give me up the truth.
+
+OPHELIA.
+He hath, my lord, of late made many tenders
+Of his affection to me.
+
+POLONIUS.
+Affection! Pooh! You speak like a green girl,
+Unsifted in such perilous circumstance.
+Do you believe his tenders, as you call them?
+
+OPHELIA.
+I do not know, my lord, what I should think.
+
+POLONIUS.
+Marry, I’ll teach you; think yourself a baby;
+That you have ta’en these tenders for true pay,
+Which are not sterling. Tender yourself more dearly;
+Or,—not to crack the wind of the poor phrase,
+Running it thus,—you’ll tender me a fool.
+
+OPHELIA.
+My lord, he hath importun’d me with love
+In honourable fashion.
+
+POLONIUS.
+Ay, fashion you may call it; go to, go to.
+
+OPHELIA.
+And hath given countenance to his speech, my lord,
+With almost all the holy vows of heaven.
+
+POLONIUS.
+Ay, **springes to catch woodcocks**. I do know,
+When the blood burns, how prodigal the soul
+Lends the tongue vows: these blazes, daughter,
+Giving more light than heat, extinct in both,
+Even in their promise, as it is a-making,
+You must not take for fire. From this time
+Be something scanter of your maiden presence;
+Set your entreatments at a higher rate
+Than a command to parley. For Lord Hamlet,
+Believe so much in him that he is young;
+And with a larger tether may he walk
+Than may be given you. In few, Ophelia,
+Do not believe his vows; for they are brokers,
+Not of that dye which their investments show,
+But mere implorators of unholy suits,
+Breathing like sanctified and pious bawds,
+The better to beguile. This is for all:
+I would not, in plain terms, from this time forth
+Have you so slander any moment leisure
+As to give words or talk with the Lord Hamlet.
+Look to’t, I charge you; come your ways.
+
+OPHELIA.
+I shall obey, my lord.
+
+[_Exeunt._]
+
+ SCENE IV. The platform.
+
+Enter Hamlet, Horatio and Marcellus.
+
+HAMLET.
+The air bites shrewdly; it is very cold.
+
+HORATIO.
+It is a nipping and an eager air.
+
+HAMLET.
+What hour now?
+
+HORATIO.
+I think it lacks of twelve.
+
+MARCELLUS.
+No, it is struck.
+
+HORATIO.
+Indeed? I heard it not. It then draws near the season
+Wherein the spirit held his wont to walk.
+
+[_A flourish of trumpets, and ordnance shot off within._]
+
+What does this mean, my lord?
+
+HAMLET.
+The King doth wake tonight and takes his rouse,
+Keeps wassail, and the swaggering upspring reels;
+And as he drains his draughts of Rhenish down,
+The kettle-drum and trumpet thus bray out
+The triumph of his pledge.
+
+HORATIO.
+Is it a custom?
+
+HAMLET.
+Ay marry is’t;
+And to my mind, though I am native here,
+And to the manner born, it is a custom
+**More honour’d in the breach than the observance**.
+This heavy-headed revel east and west
+Makes us traduc’d and tax’d of other nations:
+They clepe us drunkards, and with swinish phrase
+Soil our addition; and indeed it takes
+From our achievements, though perform’d at height,
+The pith and marrow of our attribute.
+So oft it chances in particular men
+That for some vicious mole of nature in them,
+As in their birth, wherein they are not guilty,
+Since nature cannot choose his origin,
+By their o’ergrowth of some complexion,
+Oft breaking down the pales and forts of reason;
+Or by some habit, that too much o’erleavens
+The form of plausive manners;—that these men,
+Carrying, I say, the stamp of one defect,
+Being Nature’s livery or Fortune’s star,—
+His virtues else,—be they as pure as grace,
+As infinite as man may undergo,
+Shall in the general censure take corruption
+From that particular fault. The dram of evil
+Doth all the noble substance of a doubt
+To his own scandal.
+
+HORATIO.
+Look, my lord, it comes!
+
+Enter Ghost.
+
+HAMLET.
+**Angels and ministers of grace defend us**!
+Be thou a spirit of health or goblin damn’d,
+Bring with thee airs from heaven or blasts from hell,
+Be thy intents wicked or charitable,
+Thou com’st in such a questionable shape
+That I will speak to thee. I’ll call thee Hamlet,
+King, father, royal Dane. O, answer me!
+Let me not burst in ignorance; but tell
+Why thy canoniz’d bones, hearsed in death,
+Have burst their cerements; why the sepulchre,
+Wherein we saw thee quietly inurn’d,
+Hath op’d his ponderous and marble jaws
+To cast thee up again! What may this mean,
+That thou, dead corse, again in complete steel,
+Revisit’st thus the glimpses of the moon,
+Making night hideous, and we fools of nature
+So horridly to shake our disposition
+With thoughts beyond the reaches of our souls?
+Say, why is this? Wherefore? What should we do?
+
+[_Ghost beckons Hamlet._]
+
+HORATIO.
+It beckons you to go away with it,
+As if it some impartment did desire
+To you alone.
+
+MARCELLUS.
+Look with what courteous action
+It waves you to a more removed ground.
+But do not go with it.
+
+HORATIO.
+No, by no means.
+
+HAMLET.
+It will not speak; then will I follow it.
+
+HORATIO.
+Do not, my lord.
+
+HAMLET.
+Why, what should be the fear?
+I do not set my life at a pin’s fee;
+And for my soul, what can it do to that,
+Being a thing immortal as itself?
+It waves me forth again. I’ll follow it.
+
+HORATIO.
+What if it tempt you toward the flood, my lord,
+Or to the dreadful summit of the cliff
+That beetles o’er his base into the sea,
+And there assume some other horrible form
+Which might deprive your sovereignty of reason,
+And draw you into madness? Think of it.
+The very place puts toys of desperation,
+Without more motive, into every brain
+That looks so many fathoms to the sea
+And hears it roar beneath.
+
+HAMLET.
+It waves me still.
+Go on, I’ll follow thee.
+
+MARCELLUS.
+You shall not go, my lord.
+
+HAMLET.
+Hold off your hands.
+
+HORATIO.
+Be rul’d; you shall not go.
+
+HAMLET.
+My fate cries out,
+And makes each petty artery in this body
+As hardy as the Nemean lion’s nerve.
+
+[_Ghost beckons._]
+
+Still am I call’d. Unhand me, gentlemen.
+
+[_Breaking free from them._]
+
+By heaven, I’ll make a ghost of him that lets me.
+I say, away!—Go on, I’ll follow thee.
+
+[_Exeunt Ghost and Hamlet._]
+
+HORATIO.
+He waxes desperate with imagination.
+
+MARCELLUS.
+Let’s follow; ’tis not fit thus to obey him.
+
+HORATIO.
+Have after. To what issue will this come?
+
+MARCELLUS.
+**Something is rotten in the state of Denmark**.
+
+HORATIO.
+Heaven will direct it.
+
+MARCELLUS.
+Nay, let’s follow him.
+
+[_Exeunt._]
+
+ SCENE V. A more remote part of the Castle.
+
+Enter Ghost and Hamlet.
+
+HAMLET.
+Whither wilt thou lead me? Speak, I’ll go no further.
+
+GHOST.
+Mark me.
+
+HAMLET.
+I will.
+
+GHOST.
+My hour is almost come,
+When I to sulph’rous and tormenting flames
+Must render up myself.
+
+HAMLET.
+Alas, poor ghost!
+
+GHOST.
+Pity me not, but lend thy serious hearing
+To what I shall unfold.
+
+HAMLET.
+Speak, I am bound to hear.
+
+GHOST.
+So art thou to revenge, when thou shalt hear.
+
+HAMLET.
+What?
+
+GHOST.
+I am thy father’s spirit,
+Doom’d for a certain term to walk the night,
+And for the day confin’d to fast in fires,
+Till the foul crimes done in my days of nature
+Are burnt and purg’d away. But that I am forbid
+To tell the secrets of my prison-house,
+I could a tale unfold whose lightest word
+Would harrow up thy soul; freeze thy young blood,
+Make thy two eyes like stars start from their spheres,
+Thy knotted and combined locks to part,
+And each particular hair to stand on end
+Like quills upon the fretful porpentine.
+But this eternal blazon must not be
+To ears of flesh and blood. List, list, O, list!
+If thou didst ever thy dear father love—
+
+HAMLET.
+O God!
+
+GHOST.
+Revenge his foul and most unnatural murder.
+
+HAMLET.
+Murder!
+
+GHOST.
+Murder most foul, as in the best it is;
+But this most foul, strange, and unnatural.
+
+HAMLET.
+Haste me to know’t, that I, with wings as swift
+As meditation or the thoughts of love
+May sweep to my revenge.
+
+GHOST.
+I find thee apt;
+And duller shouldst thou be than the fat weed
+That rots itself in ease on Lethe wharf,
+Wouldst thou not stir in this. Now, Hamlet, hear.
+’Tis given out that, sleeping in my orchard,
+A serpent stung me; so the whole ear of Denmark
+Is by a forged process of my death
+Rankly abus’d; but know, thou noble youth,
+The serpent that did sting thy father’s life
+Now wears his crown.
+
+HAMLET.
+O my prophetic soul!
+Mine uncle!
+
+GHOST.
+Ay, that incestuous, that adulterate beast,
+With witchcraft of his wit, with traitorous gifts,—
+O wicked wit, and gifts, that have the power
+So to seduce!—won to his shameful lust
+The will of my most seeming-virtuous queen.
+O Hamlet, what a falling off was there,
+From me, whose love was of that dignity
+That it went hand in hand even with the vow
+I made to her in marriage; and to decline
+Upon a wretch whose natural gifts were poor
+To those of mine. But virtue, as it never will be mov’d,
+Though lewdness court it in a shape of heaven;
+So lust, though to a radiant angel link’d,
+Will sate itself in a celestial bed
+And prey on garbage.
+But soft! methinks I scent the morning air;
+Brief let me be. Sleeping within my orchard,
+My custom always of the afternoon,
+Upon my secure hour thy uncle stole
+With **juice of cursed hebenon** in a vial,
+And in the porches of my ears did pour
+The leperous distilment, whose effect
+Holds such an enmity with blood of man
+That swift as quicksilver it courses through
+The natural gates and alleys of the body;
+And with a sudden vigour it doth posset
+And curd, like eager droppings into milk,
+The thin and wholesome blood. So did it mine;
+And a most instant tetter bark’d about,
+Most lazar-like, with vile and loathsome crust
+All my smooth body.
+Thus was I, sleeping, by a brother’s hand,
+Of life, of crown, of queen at once dispatch’d:
+Cut off even in the blossoms of my sin,
+Unhous’led, disappointed, unanel’d;
+No reckoning made, but sent to my account
+With all my imperfections on my head.
+O horrible! O horrible! most horrible!
+If thou hast nature in thee, bear it not;
+Let not the royal bed of Denmark be
+A couch for luxury and **damned incest**.
+But howsoever thou pursu’st this act,
+Taint not thy mind, nor let thy soul contrive
+Against thy mother aught; leave her to heaven,
+And to those thorns that in her bosom lodge,
+To prick and sting her. Fare thee well at once!
+The glow-worm shows the matin to be near,
+And ’gins to pale his uneffectual fire.
+Adieu, adieu, adieu. Remember me.
+
+[_Exit._]
+
+HAMLET.
+O all you host of heaven! O earth! What else?
+And shall I couple hell? O, fie! Hold, my heart;
+And you, my sinews, grow not instant old,
+But bear me stiffly up. Remember thee?
+Ay, thou poor ghost, while memory holds a seat
+In this distracted globe. Remember thee?
+Yea, from the table of my memory
+I’ll wipe away all trivial fond records,
+All saws of books, all forms, all pressures past,
+That youth and observation copied there;
+And thy commandment all alone shall live
+Within the book and volume of my brain,
+Unmix’d with baser matter. Yes, by heaven!
+O most pernicious woman!
+O villain, villain, smiling damned villain!
+My tables. Meet it is I set it down,
+That one may smile, and smile, and be a villain!
+At least I am sure it may be so in Denmark.
+
+[_Writing._]
+
+So, uncle, there you are. Now to my word;
+It is ‘Adieu, adieu, remember me.’
+I have sworn’t.
+
+HORATIO and MARCELLUS.
+[_Within._] My lord, my lord.
+
+MARCELLUS.
+[_Within._] Lord Hamlet.
+
+HORATIO.
+[_Within._] Heaven secure him.
+
+HAMLET.
+So be it!
+
+MARCELLUS.
+[_Within._] Illo, ho, ho, my lord!
+
+HAMLET.
+Hillo, ho, ho, boy! Come, bird, come.
+
+Enter Horatio and Marcellus.
+
+MARCELLUS.
+How is’t, my noble lord?
+
+HORATIO.
+What news, my lord?
+
+HAMLET.
+O, wonderful!
+
+HORATIO.
+Good my lord, tell it.
+
+HAMLET.
+No, you’ll reveal it.
+
+HORATIO.
+Not I, my lord, by heaven.
+
+MARCELLUS.
+Nor I, my lord.
+
+HAMLET.
+How say you then, would heart of man once think it?—
+But you’ll be secret?
+
+HORATIO and MARCELLUS.
+Ay, by heaven, my lord.
+
+HAMLET.
+There’s ne’er a villain dwelling in all Denmark
+But he’s an arrant knave.
+
+HORATIO.
+There needs no ghost, my lord, come from the grave
+To tell us this.
+
+HAMLET.
+Why, right; you are i’ the right;
+And so, without more circumstance at all,
+I hold it fit that we shake hands and part:
+You, as your business and desire shall point you,—
+For every man hath business and desire,
+Such as it is;—and for my own poor part,
+Look you, I’ll go pray.
+
+HORATIO.
+These are but wild and whirling words, my lord.
+
+HAMLET.
+I’m sorry they offend you, heartily;
+Yes faith, heartily.
+
+HORATIO.
+There’s no offence, my lord.
+
+HAMLET.
+Yes, by Saint Patrick, but there is, Horatio,
+And much offence too. Touching this vision here,
+It is an honest ghost, that let me tell you.
+For your desire to know what is between us,
+O’ermaster’t as you may. And now, good friends,
+As you are friends, scholars, and soldiers,
+Give me one poor request.
+
+HORATIO.
+What is’t, my lord? We will.
+
+HAMLET.
+Never make known what you have seen tonight.
+
+HORATIO and MARCELLUS.
+My lord, we will not.
+
+HAMLET.
+Nay, but swear’t.
+
+HORATIO.
+In faith, my lord, not I.
+
+MARCELLUS.
+Nor I, my lord, in faith.
+
+HAMLET.
+Upon my sword.
+
+MARCELLUS.
+We have sworn, my lord, already.
+
+HAMLET.
+Indeed, upon my sword, indeed.
+
+GHOST.
+[_Cries under the stage._] Swear.
+
+HAMLET.
+Ha, ha boy, sayst thou so? Art thou there, truepenny?
+Come on, you hear this fellow in the cellarage.
+Consent to swear.
+
+HORATIO.
+Propose the oath, my lord.
+
+HAMLET.
+Never to speak of this that you have seen.
+**Swear by my sword**.
+
+GHOST.
+[_Beneath._] Swear.
+
+HAMLET.
+_Hic et ubique?_ Then we’ll shift our ground.
+Come hither, gentlemen,
+And lay your hands again upon my sword.
+Never to speak of this that you have heard.
+Swear by my sword.
+
+GHOST.
+[_Beneath._] Swear.
+
+HAMLET.
+Well said, old mole! Canst work i’ th’earth so fast?
+A worthy pioner! Once more remove, good friends.
+
+HORATIO.
+O day and night, but this is wondrous strange.
+
+HAMLET.
+And therefore as a stranger give it welcome.
+There are more things in heaven and earth, Horatio,
+Than are dreamt of in your philosophy. But come,
+Here, as before, never, so help you mercy,
+How strange or odd soe’er I bear myself,—
+As I perchance hereafter shall think meet
+To put an **antic disposition** on—
+That you, at such times seeing me, never shall,
+With arms encumber’d thus, or this head-shake,
+Or by pronouncing of some doubtful phrase,
+As ‘Well, we know’, or ‘We could and if we would’,
+Or ‘If we list to speak’; or ‘There be and if they might’,
+Or such ambiguous giving out, to note
+That you know aught of me:—this not to do.
+So grace and mercy at your most need help you,
+Swear.
+
+GHOST.
+[_Beneath._] Swear.
+
+HAMLET.
+Rest, rest, perturbed spirit. So, gentlemen,
+With all my love I do commend me to you;
+And what so poor a man as Hamlet is
+May do t’express his love and friending to you,
+God willing, shall not lack. Let us go in together,
+And still your fingers on your lips, I pray.
+The time is out of joint. O cursed spite,
+That ever I was born to set it right.
+Nay, come, let’s go together.
+
+[_Exeunt._]
