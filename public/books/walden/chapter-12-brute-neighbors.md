@@ -10,176 +10,123 @@ license: "public-domain"
 
 summary:
   - point: "Thoreau reflects on the simplicity of fishing as both a social and solitary activity."
-    link: "https://en.wikipedia.org/wiki/Fishing"
-    link_label: "Fishing"
-  - point: "Thoreau observes the behavior of local wildlife, including mice, birds, and squirrels, near his cabin."
-    link: "https://en.wikipedia.org/wiki/Wildlife"
-    link_label: "Wildlife"
-  - point: "Thoreau witnesses a fierce battle between red and black ants, drawing parallels to human warfare."
+    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    link_label: "Henry David Thoreau"
+  - point: "The Hermit and Poet characters discuss the beauty of nature and the meditative aspects of solitude."
+    link: "https://en.wikipedia.org/wiki/Walden"
+    link_label: "Walden"
+  - point: "Thoreau observes the behavior of wild animals near his home, including mice, birds, and squirrels."
+    link: "https://en.wikipedia.org/wiki/Animal_behavior"
+    link_label: "Animal behavior"
+  - point: "A dramatic ant battle becomes a metaphor for human conflict and patriotism."
     link: "https://en.wikipedia.org/wiki/Ant"
     link_label: "Ants"
-  - point: "Thoreau describes his encounter with a loon on Walden Pond, marveling at its cunning and resilience."
+  - point: "Thoreau describes his pursuit of a loon on Walden Pond, marveling at its cunning and resilience."
     link: "https://en.wikipedia.org/wiki/Common_loon"
     link_label: "Common loon"
-  - point: "Thoreau contemplates the behavior of ducks and their strategies for evading hunters."
-    link: "https://en.wikipedia.org/wiki/Duck"
-    link_label: "Ducks"
+  - point: "The chapter explores themes of coexistence, nature's wisdom, and the interconnectedness of life."
+    link: "https://en.wikipedia.org/wiki/Transcendentalism"
+    link_label: "Transcendentalism"
 
 enhancements:
   - id: "boiled-salt-beef-and-cider"
     trigger: "boiled salt beef and cider"
-    title: "What Did Farmers Eat for Lunch in 1854?"
+    title: "What Farmers Ate After Long Days in the Fields"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cider"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2013-09-08_Apfelwein_im_Gerippten_0%2C25l.jpg/330px-2013-09-08_Apfelwein_im_Gerippten_0%2C25l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Apfelweinglas (typisches \"Geripptes\"), 0,25l, gefüllt mit Apfelwein (CC BY 3.0)"
-    content: "Thoreau imagines farmers gathering for a midday meal of boiled salt beef, cider, and Indian bread. These were staples of 19th-century rural New England, reflecting both the agricultural economy and the limited preservation methods available at the time. Salt beef, heavily cured to prevent spoilage, was a common protein source, while cider served as a practical alternative to water, which was often unsafe to drink. Indian bread, made with cornmeal, was a nod to Indigenous culinary traditions that had been adapted by settlers. Thoreau’s disdain for these meals is not just dietary; it’s philosophical. He contrasts their labor-intensive preparation with his own simpler fare, like brown bread and spring water, suggesting that true sustenance lies in minimalism and connection to nature."
-  - id: "indian-bread"
-    trigger: "Indian bread"
-    title: "How Indigenous Corn Became a New England Staple"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cornbread"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Skillet_cornbread_%28cropped%29.jpg/330px-Skillet_cornbread_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Cast iron skillet cornbread with bacon, jalapeno and onion (CC BY-SA 3.0)"
-    content: "Thoreau mentions Indian bread as part of the farmers’ meal, a reference to cornbread made from maize, a crop cultivated by Indigenous peoples long before European settlers arrived. Corn was introduced to settlers by Native Americans, who shared techniques for planting and harvesting it alongside beans and squash in what’s known as the Three Sisters method. By the 19th century, cornbread had become a staple in rural diets, particularly in New England, where wheat was less abundant. Thoreau’s reference serves as a subtle acknowledgment of the cultural exchange embedded in everyday life, even as he critiques the farmers’ lifestyle. For Thoreau, Indian bread symbolizes a connection to the land, but he prefers his own stripped-down approach to sustenance, emphasizing simplicity over tradition."
-  - id: "the-devils-door-knobs"
-    trigger: "the devil’s door-knobs"
-    title: "Why Did Thoreau Call Housekeeping Satanic?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Housekeeping"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Girl_Guides_Association_in_Britain%2C_1914-1918_Q27921.jpg/330px-The_Girl_Guides_Association_in_Britain%2C_1914-1918_Q27921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Girl Guides Association in Britain, 1914-1918 Q27921 (Public domain)"
-    content: "Thoreau laments the effort spent on maintaining domestic spaces, sarcastically referring to polished door-knobs as 'the devil’s door-knobs.' This striking phrase critiques the societal obsession with material cleanliness and order, which he sees as a distraction from more meaningful pursuits. In the 19th century, housekeeping was labor-intensive, involving tasks like hand-polishing metal fixtures and scrubbing wooden surfaces. Thoreau’s disdain for these rituals reflects his broader philosophy of simplicity and self-reliance. By rejecting the polished perfection of domestic life, he champions a return to nature, where beauty lies not in artificial shine but in organic authenticity. The phrase encapsulates his rebellion against societal norms and his quest for spiritual clarity."
+    image_url: ""
+    image_caption: ""
+    content: "When the Hermit imagines the farmers coming in for their midday meal of boiled salt beef, cider, and Indian bread, he paints a vivid picture of rural life in 19th-century America. Salt beef was a staple preserved meat, often boiled to soften its tough texture, while cider was a common beverage made from fermented apples, providing both refreshment and calories. Indian bread, made from cornmeal, was a nod to Indigenous food traditions that had been adapted by settlers. This meal was practical, hearty, and emblematic of the labor-intensive agricultural lifestyle. Thoreau contrasts this scene with his own simpler fare, emphasizing his rejection of societal norms and his embrace of minimalism. The Hermit's disdain for the \"devil's door-knobs\" of housekeeping underscores Thoreau's critique of materialism and his belief in the spiritual richness of simplicity."
   - id: "johnswort-waving"
     trigger: "johnswort waving"
-    title: "The Medicinal Plant Hiding in Thoreau’s Soil"
+    title: "The Plant That Inspired Ancient Healing Practices"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hypericum"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%28MHNT%29_Hypericum_perforatum_flower_and_buttons.jpg/330px-%28MHNT%29_Hypericum_perforatum_flower_and_buttons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "St. John's wort - flower and buds (CC BY-SA 4.0)"
-    content: "Thoreau advises the Poet to dig for bait near the 'johnswort waving,' referring to St. John’s Wort, a plant known for its bright yellow flowers and medicinal properties. Historically, it was used to treat wounds, depression, and nervous disorders, and its name originates from its blooming around St. John’s Day in late June. In Thoreau’s time, it was a common sight in New England fields and meadows, often associated with folk remedies. By mentioning it here, Thoreau subtly ties the act of fishing to the healing and interconnectedness of nature. The Poet’s task of digging bait among its roots becomes more than preparation for fishing; it’s a symbolic act of engaging with the earth’s hidden resources, echoing themes of discovery and renewal."
-  - id: "con-fut-see"
-    trigger: "Con-fut-see"
-    title: "What Did Thoreau Learn from Confucius?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Confucius"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/330px-Confucius_Tang_Dynasty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. (Public domain)"
-    content: "Thoreau mentions 'Con-fut-see,' a phonetic rendering of Confucius, as he attempts to recapture a meditative state. Confucius, the ancient Chinese philosopher, emphasized virtues like simplicity, self-discipline, and harmony with nature—values that resonate deeply with Thoreau’s own philosophy. By invoking Confucius, Thoreau ties his individual reflections to a broader, timeless tradition of wisdom. This moment reveals Thoreau’s eclectic intellectual influences, blending Eastern philosophy with his New England transcendentalism. For Thoreau, Confucius serves as a guide to align his thoughts with universal truths, underscoring the chapter’s exploration of solitude, nature, and the search for deeper meaning."
-  - id: "wild-native-kind"
-    trigger: "wild native kind"
-    title: "The Mice That Thrived Beyond Civilization"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Deer_mouse"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Peromyscus_maniculatus.jpg/330px-Peromyscus_maniculatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Peromyscus maniculatus (Public domain)"
-    content: "Thoreau describes the mice near his cabin as a 'wild native kind,' distinct from the common house mice introduced by settlers. These were likely deer mice, a species native to North America, known for their agility and adaptability. Unlike their urban counterparts, deer mice thrive in forests and fields, living off seeds, insects, and berries. Thoreau’s fascination with these creatures reflects his admiration for their independence and harmony with nature. Their presence at his cabin symbolizes the untamed vitality of the woods, contrasting with the domesticated life he left behind. By observing their behavior, Thoreau deepens his connection to the natural world, finding kinship in their wild simplicity."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau advises the Poet to dig for bait among the \"johnswort waving,\" referring to St. John's Wort, a plant known for its bright yellow flowers and medicinal properties. Historically, this plant was used in folk medicine to treat wounds, depression, and other ailments, and its name is derived from its traditional blooming period around St. John the Baptist's feast day. In Thoreau's time, it was a common sight in New England fields and meadows, often associated with rural landscapes. By mentioning johnswort, Thoreau subtly ties the act of fishing to the broader theme of nature as a source of sustenance and healing. The Poet's task of digging bait becomes a metaphor for uncovering life's hidden treasures, aligning with Thoreau's philosophy of finding profound meaning in the ordinary."
   - id: "distinguished-naturalist"
     trigger: "distinguished naturalist"
-    title: "Who Was Thoreau’s Mysterious Scientist Friend?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Louis_Agassiz"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Louis_Agassiz_H6.jpg/330px-Louis_Agassiz_H6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Louis Agassiz (1807-1873), Carte de Visite (Public domain)"
-    content: "Thoreau sent one of his 'wild native' mice to a 'distinguished naturalist,' likely Louis Agassiz, a prominent 19th-century biologist and professor at Harvard. Agassiz was renowned for his studies of glaciation and species classification, making him a fitting recipient for Thoreau’s curious specimen. This interaction highlights Thoreau’s role as both a naturalist and a philosopher, blending scientific inquiry with poetic observation. The mouse, a humble creature, becomes a bridge between Thoreau’s solitary explorations and the broader scientific community. This moment underscores the interconnectedness of disciplines, as Thoreau’s observations contribute to a larger understanding of the natural world."
-  - id: "cleaned-its-face-and-paws"
-    trigger: "cleaned its face and paws"
-    title: "Why Do Mice Groom Like Flies?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Grooming_(animal_behavior)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Grooming_monkeys.jpg/330px-Grooming_monkeys.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "An adult monkey, the Olive Baboon (Papio anubis), grooms a kid at the Ngorongoro conservation Area in Tanzania. (GFDL 1.2)"
-    content: "Thoreau marvels at the mouse that 'cleaned its face and paws' after nibbling cheese from his hand, likening its behavior to that of a fly. This act of grooming is essential for rodents, helping them maintain sensory awareness and hygiene. Mice use their forepaws to clean their whiskers, which are highly sensitive and crucial for navigating their environment. Thoreau’s observation transforms a mundane moment into a meditation on instinct and adaptation. The mouse’s meticulous self-care mirrors the chapter’s theme of attentiveness to the small, often overlooked details of life. In this quiet interaction, Thoreau finds a reflection of the natural world’s elegance and precision."
+    title: "Who Was Thoreau's Mysterious Scientific Correspondent?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Naturalist"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions sending a wild mouse to a \"distinguished naturalist,\" highlighting his engagement with scientific inquiry. Though he does not name the individual, it is likely someone from the burgeoning field of natural history, which was gaining prominence in the mid-19th century. Figures like Louis Agassiz or Asa Gray, both influential naturalists of the era, might have been among his correspondents. Thoreau's observations of the mouse's behavior—its agility and tameness—reflect his meticulous attention to detail and his belief in the interconnectedness of all living things. By sharing his findings, Thoreau bridges the gap between his philosophical musings and the empirical study of nature, underscoring his role as both a poet and a scientist."
+  - id: "hen-of-the-woods"
+    trigger: "hen of the woods"
+    title: "Why Partridges Are Called 'Hens of the Woods'"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ruffed_grouse"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the partridge leading her brood past his windows, calling her the \"hen of the woods.\" This nickname is commonly associated with the ruffed grouse, a bird native to North America. Known for its elusive behavior and ability to camouflage, the ruffed grouse is a master of survival in wooded environments. Thoreau marvels at the bird's maternal instincts, noting how the chicks scatter and hide at her signal, blending seamlessly with the forest floor. This moment encapsulates Thoreau's admiration for nature's wisdom and the intricate behaviors of its inhabitants. The partridge's ability to protect her young mirrors the themes of resilience and adaptation that run throughout \"Walden,\" reminding readers of the delicate balance of life in the wild."
   - id: "bristers-hill"
     trigger: "Brister’s Hill"
-    title: "The Forgotten History of Brister’s Hill"
+    title: "The Forgotten History of Brister's Hill"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/330px-Walden_Pond_outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "An outlook of Walden Pond. (CC BY-SA 4.0)"
-    content: "Thoreau mentions Brister’s Hill, a location near Walden Pond named after Brister Freeman, a formerly enslaved man who lived in the area. Freeman was one of several African Americans who settled near Walden in the late 18th century, carving out lives of resilience and independence. By referencing this hill, Thoreau subtly acknowledges the layered history of the land he inhabits, where human stories intertwine with natural landscapes. Brister’s Hill becomes a symbol of survival and self-reliance—qualities that resonate deeply with Thoreau’s own philosophy. This mention invites readers to consider the human narratives that shape even the most seemingly untouched places."
-  - id: "wood-cock-led-her-brood"
-    trigger: "wood-cock led her brood"
-    title: "The Bird That Outsmarted Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eurasian_woodcock"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Woodcock_earthworm.jpg/330px-Woodcock_earthworm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Woodcock (CC BY-SA 3.0)"
-    content: "Thoreau describes the woodcock leading her brood near his spring, employing clever tactics to protect her young. The woodcock’s 'broken wing' display is a classic example of distraction behavior, where a parent feigns injury to lure predators away from vulnerable offspring. This instinctive strategy showcases the bird’s remarkable adaptability and intelligence. For Thoreau, the woodcock’s actions embody the quiet drama of survival in the natural world. Observing such moments deepens his appreciation for the intricate relationships between creatures and their environments. The woodcock’s cunning becomes a metaphor for resilience, echoing Thoreau’s own efforts to navigate life’s challenges with resourcefulness."
-  - id: "red-squirrel"
-    trigger: "red squirrel"
-    title: "The Squirrel That Befriended Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/American_red_squirrel"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tamiasciurus_hudsonicus_CT.jpg/330px-Tamiasciurus_hudsonicus_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "American Red Squirrel (Tamiasciurus hudsonicus), Cap Tourmente National Wildlife Area, Quebec, Canada (CC BY-SA 3.0)"
-    content: "Thoreau mentions the red squirrel as a familiar and inquisitive companion near his spring. These small, energetic rodents are known for their territorial behavior and sharp vocalizations, often scolding intruders with a rapid series of chirps. In Thoreau’s narrative, the squirrel’s curiosity becomes a symbol of the vibrant life teeming in the woods. Its presence underscores the theme of coexistence, as Thoreau finds himself part of an ecosystem where even the smallest creatures play significant roles. The red squirrel’s boldness mirrors Thoreau’s own defiance of societal norms, making it a fitting emblem of his philosophy of independence and connection to nature."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Brister’s Hill as a place he frequented for water and solitude. This location near Walden Pond was named after Brister Freeman, a formerly enslaved man who lived in the area during the late 18th century. Freeman was one of several African Americans who established homes near Walden, creating a small community of free Black residents. By referencing Brister’s Hill, Thoreau subtly acknowledges the layered history of the land he inhabits—a history that includes both natural beauty and human struggle. This connection deepens the reader's understanding of \"Walden\" as a meditation not just on nature, but on the social and historical contexts that shape it."
   - id: "red-republicans"
     trigger: "red republicans"
-    title: "Why Did Thoreau Compare Ants to Revolutionaries?"
+    title: "Why Thoreau Compares Ants to Revolutionaries"
     wikipedia_url: "https://en.wikipedia.org/wiki/Republicanism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Red_Republican_Communist_Manifesto.png/330px-Red_Republican_Communist_Manifesto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Page of the Red Republican newspaper containing page of the Communist manifesto (Public domain)"
-    content: "Thoreau likens the red ants in their battle to 'red republicans,' drawing a parallel to the political upheavals of his time. The term evokes the revolutionary movements in France and elsewhere, where republicans fought for liberty against imperial forces. By using this metaphor, Thoreau elevates the ants’ struggle to a symbolic level, suggesting that even the smallest creatures embody principles of resistance and autonomy. This vivid comparison reflects Thoreau’s belief in the universality of conflict and the pursuit of freedom, whether among humans or insects. The ant battle becomes a microcosm of larger societal struggles, inviting readers to reconsider the significance of seemingly trivial events."
-  - id: "concord-fight"
-    trigger: "Concord Fight"
-    title: "What Thoreau Saw in the Ants’ Battle"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Concord"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tablet_of_Concord_Fight_at_North_Bridge%2C_Concord%2C_Mass_%2866222%29.jpg/330px-Tablet_of_Concord_Fight_at_North_Bridge%2C_Concord%2C_Mass_%2866222%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Tablet of Concord Fight at North Bridge, Concord, Mass (66222) (Public domain)"
-    content: "Thoreau compares the ants’ war to the historic Concord Fight, the first battle of the American Revolution. The Concord Fight, marked by the 'shot heard round the world,' was a pivotal moment in the struggle for independence. By juxtaposing this human conflict with the ants’ battle, Thoreau challenges readers to see heroism and sacrifice in unexpected places. The ants’ ferocity and determination mirror the patriotism and resolve of the revolutionaries, blurring the lines between human and animal struggles. This comparison underscores Thoreau’s belief in the interconnectedness of all life and his ability to find profound meaning in the smallest details of nature."
-  - id: "battle-of-bunker-hill"
-    trigger: "battle of Bunker Hill"
-    title: "How Ants Rivaled a Revolutionary Battle"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Death_of_General_Warren_at_the_Battle_of_Bunker%27s_Hill.jpg/330px-The_Death_of_General_Warren_at_the_Battle_of_Bunker%27s_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Death of General Warren at the Battle of Bunker's Hill (Public domain)"
-    content: "Thoreau invokes the battle of Bunker Hill to emphasize the intensity of the ants’ war. Fought in 1775, Bunker Hill was a defining early conflict in the American Revolution, known for its heavy casualties and symbolic significance. Thoreau’s comparison elevates the ants’ struggle to a historical level, suggesting that principles of courage and sacrifice are universal. The ants’ battle becomes a lens through which Thoreau examines human warfare, questioning the meaning and consequences of conflict. By drawing this parallel, he invites readers to reflect on the nature of heroism and the shared instincts that drive all creatures to fight for survival and ideals."
-  - id: "kirby-and-spence"
-    trigger: "Kirby and Spence"
-    title: "The Entomologists Who Inspired Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/William_Kirby_(entomologist)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kirby_William_1759-1850.jpg/330px-Kirby_William_1759-1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "William Kirby (1759-1850) British entomologist (Public domain)"
-    content: "Thoreau references Kirby and Spence, authors of 'An Introduction to Entomology,' a foundational work in the study of insects. Published in the early 19th century, their book detailed the behavior, anatomy, and ecology of insects, influencing both scientific and literary circles. Thoreau’s mention of them highlights his engagement with contemporary scientific thought, blending empirical observation with philosophical reflection. By connecting his ant battle to their writings, Thoreau situates his observations within a broader intellectual tradition, demonstrating how nature’s smallest dramas can illuminate universal truths. Kirby and Spence’s work underscores the chapter’s theme of finding significance in the overlooked and the ordinary."
-  - id: "huber"
-    trigger: "Huber"
-    title: "The Blind Naturalist Who Saw Ant Wars"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Huber"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Liezel_Huber_%285519450192%29.jpg/330px-Liezel_Huber_%285519450192%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Liezel Huber. Doha, February 26, 2011. (CC BY-SA 2.0)"
-    content: "Thoreau mentions Huber, a pioneering entomologist who studied ants and bees despite being blind. François Huber relied on assistants to conduct experiments, yet his insights revolutionized the understanding of insect behavior, including their social structures and communication. His observations of ant battles, recorded in the early 19th century, resonate with Thoreau’s own witnessing of the ants’ war. Huber’s work exemplifies the power of curiosity and determination, qualities Thoreau admired and emulated. By referencing Huber, Thoreau aligns his own naturalist pursuits with a legacy of scientific discovery, reinforcing the idea that even the smallest creatures can reveal profound truths about life."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's description of the \"red republicans\" battling the \"black imperialists\" among the ants is a striking metaphor for human political struggles. The term \"red republicans\" likely alludes to the radical republican movements in Europe during the mid-19th century, particularly those advocating for democracy and social reform. By likening the ants' fierce combat to human wars, Thoreau underscores the universality of conflict and the primal drive for survival and dominance. This vivid imagery transforms a mundane observation into a profound commentary on the nature of power and resistance, inviting readers to reflect on the parallels between the natural world and human society."
+  - id: "hotel-des-invalides"
+    trigger: "Hotel des Invalides"
+    title: "The French Military Hospital That Inspired Thoreau"
+    wikipedia_url: "https://en.wikipedia.org/wiki/H%C3%B4tel_des_Invalides"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau humorously speculates whether the injured black ant might retire to a \"Hotel des Invalides,\" referencing the famous French military hospital established by Louis XIV. Located in Paris, the Hôtel des Invalides housed wounded and retired soldiers, symbolizing both the glory and cost of war. By invoking this image, Thoreau draws a parallel between the ants' battle and human conflicts, highlighting the absurdity and tragedy of war at any scale. This comparison enriches the narrative, turning a microscopic struggle into a reflection on the broader human condition and the sacrifices inherent in the pursuit of victory."
+  - id: "websters-fugitive-slave-bill"
+    trigger: "Webster’s Fugitive-Slave Bill"
+    title: "How a Controversial Law Shaped Thoreau's Era"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Webster’s Fugitive-Slave Bill in the context of the ant battle, subtly linking the ferocity of nature to the moral conflicts of his time. Passed in 1850, the Fugitive Slave Act required citizens to assist in the capture of escaped enslaved people and penalized those who aided their freedom. This law was deeply divisive, fueling abolitionist movements and intensifying debates over slavery. Thoreau, a staunch opponent of slavery, uses the ant metaphor to critique the societal systems that perpetuate oppression and conflict. By weaving this reference into his narrative, he underscores the interconnectedness of personal ethics, political action, and the natural world."
   - id: "winged-cat"
     trigger: "winged cat"
-    title: "Was Thoreau’s Winged Cat a Myth or Mutation?"
+    title: "The Curious Case of Lincoln's Winged Cat"
     wikipedia_url: "https://en.wikipedia.org/wiki/Winged_cat"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roundel_with_winged_lion_-_Achaemenid_gold%2C_said_to_have_been_found_at_Hamadan_at_Tepe_Hagmatana%2C_the_site_of_ancient_Ecbatana%2C_550-330_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07984.JPG/330px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Roundel with winged lion - Achaemenid gold, said to have been found at Hamadan at Tepe Hagmatana, the site of ancient Ecbatana, 550-330 BC - Oriental Institute Museum, University of Chicago - DSC07984"
-    content: "Thoreau recounts the story of a 'winged cat' in Lincoln, a creature with fur appendages resembling wings. Such anomalies are rare but documented, often caused by genetic mutations or matted fur. The winged cat became a local curiosity, blending folklore with natural history. Thoreau’s fascination with this oddity reflects his broader interest in the extraordinary within the ordinary. The winged cat symbolizes the mysteries of nature that defy conventional explanations, aligning with Thoreau’s philosophy of embracing wonder and questioning norms. This peculiar creature becomes a metaphor for the unexpected beauty and strangeness that can be found in the natural world."
-  - id: "colymbus-glacialis"
-    trigger: "Colymbus glacialis"
-    title: "The Loon That Outsmarted Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Common_loon"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/330px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A Great Northern Loon (also known as the Great Northern Diver and the Common Loon) in Minocqua, Wisconsin, USA. (CC BY 2.0)"
-    content: "Thoreau describes the 'Colymbus glacialis,' or common loon, as a cunning and elusive creature on Walden Pond. Known for its eerie calls and expert diving skills, the loon is a symbol of wilderness and solitude. Thoreau’s pursuit of the bird becomes a metaphorical game, reflecting his search for understanding and connection with nature. The loon’s ability to evade capture mirrors the themes of freedom and resilience that permeate the chapter. For Thoreau, the loon represents the untamed spirit of the natural world, challenging him to appreciate its mysteries rather than conquer them. This encounter encapsulates the delicate balance between human curiosity and respect for wildlife."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts the tale of a \"winged cat\" seen near Walden Pond, a creature whose fur grew in thick, wing-like appendages during winter. Such cases, though rare, are often attributed to genetic mutations or conditions like matted fur caused by parasites. The story of the winged cat captures the imagination, blending folklore with natural curiosity. For Thoreau, this unusual animal becomes a symbol of the wild's unpredictability and the mysteries that lie beyond human understanding. It also serves as a playful reminder of the poet's affinity for the extraordinary, aligning with his vision of nature as a realm of wonder and discovery."
   - id: "mill-dam-sportsmen"
     trigger: "Mill-dam sportsmen"
-    title: "The Hunters Who Stalked Walden’s Loon"
+    title: "The Hunters Who Pursued Walden's Elusive Loon"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hunting"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Paul_Childerley_driven_hunt_Finland_04.png/330px-Paul_Childerley_driven_hunt_Finland_04.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Paul Childerley driven hunt Finland 04 (CC BY 2.0)"
-    content: "Thoreau mentions the 'Mill-dam sportsmen,' local hunters who sought to capture the loon on Walden Pond. Their organized efforts, equipped with rifles and spy-glasses, contrast sharply with Thoreau’s solitary and contemplative approach to nature. Hunting was a common pastime in 19th-century America, often driven by both necessity and recreation. Thoreau’s disdain for the sportsmen reflects his philosophical rejection of dominance over nature. For him, the loon’s survival against their pursuit symbolizes the resilience of the wild and the futility of human attempts to control it. This anecdote underscores the tension between exploitation and coexistence in humanity’s relationship with the natural world."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the \"Mill-dam sportsmen\" who came armed with rifles and spy-glasses to hunt the loon on Walden Pond. These hunters represent a contrast to Thoreau's philosophy of coexistence with nature. Their pursuit of the loon, a bird known for its haunting calls and elusive behavior, highlights humanity's often adversarial relationship with wildlife. Thoreau's account of the hunters' failure, aided by the wind and waves, serves as a poetic justice for the loon and a critique of the human tendency to dominate rather than appreciate nature. This episode reinforces the theme of respect for the natural world and its inhabitants."
+  - id: "new-york-lakes"
+    trigger: "New York lakes"
+    title: "How Loons Dive Deeper Than You'd Expect"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Common_loon"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions loons being caught eighty feet below the surface in New York lakes, marveling at their ability to dive so deeply. Loons are exceptional divers, capable of reaching depths of up to 200 feet in search of fish. Their dense bones, unlike most birds, help them sink quickly, and their webbed feet provide powerful propulsion underwater. Thoreau's fascination with the loon reflects his broader admiration for nature's ingenuity and adaptability. The bird's elusive movements and haunting calls become a metaphor for the mysteries of life and the challenge of understanding the natural world, themes central to \"Walden.\""
+  - id: "demoniac-laughter"
+    trigger: "demoniac laughter"
+    title: "Why the Loon's Call Sounds Like a Haunting Laugh"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Common_loon"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the loon’s \"demoniac laughter,\" a sound that echoes across Walden Pond and adds to its mystique. The call of the common loon is indeed eerie, often likened to laughter or wailing. This vocalization serves multiple purposes, including marking territory and communicating with mates. For Thoreau, the loon’s haunting cry symbolizes the untamed spirit of nature, a reminder of the wildness that persists even in the face of human encroachment. The loon’s laughter becomes a poetic counterpoint to the hunters’ futile pursuit, embodying the resilience and mystery of the natural world that Thoreau so deeply revered."
   - id: "god-of-loons"
     trigger: "god of loons"
-    title: "Did Thoreau Witness a Divine Intervention?"
+    title: "Did Thoreau Believe in a Divine Protector of Birds?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Common_loon"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/330px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A Great Northern Loon (also known as the Great Northern Diver and the Common Loon) in Minocqua, Wisconsin, USA. (CC BY 2.0)"
-    content: "Thoreau imagines the 'god of loons' answering the bird’s call for aid as a storm rises and obscures his view. This poetic invocation reflects Thoreau’s tendency to anthropomorphize nature, imbuing it with spiritual significance. The loon’s cry and the sudden change in weather create a moment of awe, as if the natural world itself were intervening on behalf of its creatures. For Thoreau, this encounter underscores the power and mystery of nature, reminding him of his own limitations. The 'god of loons' becomes a symbol of the untamed forces that govern the wilderness, challenging humanity’s arrogance and deepening Thoreau’s reverence for the natural world."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau imagines the loon calling on the \"god of loons\" to aid its escape, blending humor with reverence for the bird’s cunning. While there is no literal deity for loons, Thoreau’s invocation reflects his belief in the spiritual essence of nature. The loon’s ability to evade capture, aided by the sudden change in weather, feels almost supernatural, as if the bird is protected by higher powers. This moment underscores Thoreau’s view of nature as a realm of both physical and metaphysical wonder, where every creature is imbued with a unique vitality and purpose."
   - id: "louisiana-bayous"
     trigger: "Louisiana bayous"
-    title: "What Ducks Learn in Walden and Louisiana"
+    title: "Why Ducks Behave Differently in Bayous and Ponds"
     wikipedia_url: "https://en.wikipedia.org/wiki/Bayou"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Atchafalaya_Basin.jpg/330px-Atchafalaya_Basin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Atchafalaya Basin (Public domain)"
-    content: "Thoreau contrasts the ducks’ evasive tactics on Walden Pond with their behavior in Louisiana bayous, where they face different challenges. Bayous, slow-moving waterways in the southern U.S., are rich in biodiversity but also home to predators like alligators. Ducks in these regions adapt their strategies to evade threats, just as the Walden ducks avoid hunters. Thoreau’s observation highlights the universality of survival instincts across ecosystems. By comparing these environments, he underscores the adaptability of wildlife and the interconnectedness of natural habitats. The ducks’ behavior becomes a metaphor for resilience, reflecting Thoreau’s own philosophy of navigating life’s obstacles with resourcefulness."
-  - id: "black-motes-in-the-sky"
-    trigger: "black motes in the sky"
-    title: "The Ducks That Vanished into Thin Air"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Migration_(animals)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Earth%2C_sea_and_sky%2C_or%2C_Marvels_of_the_universe_%28microform%29_-_being_a_full_and_graphic_description_of_all_that_is_wonderful_in_every_continent_of_the_globe%2C_in_the_world_of_waters_and_the_starry_%2820605329086%29.jpg/330px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Earth, sea and sky, or, Marvels of the universe (microform) - being a full and graphic description of all that is wonderful in every continent of the globe, in the world of waters and the starry (2060"
-    content: "Thoreau describes ducks circling above Walden Pond as 'black motes in the sky,' emphasizing their fleeting presence and enigmatic movements. This imagery captures the mystery of bird migration, a phenomenon that puzzled scientists for centuries. Ducks navigate vast distances using celestial cues, magnetic fields, and learned routes, disappearing from one habitat only to reappear in another. Thoreau’s observation transforms their flight into a poetic meditation on transience and freedom. The 'black motes' symbolize the ephemeral beauty of nature, reminding readers of the delicate balance between presence and absence in the natural world. Their vanishing act mirrors the themes of impermanence and wonder that permeate Walden."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau contrasts the ducks' evasive tactics on Walden Pond with their behavior in Louisiana bayous, where they face fewer threats from hunters. Bayous, slow-moving waterways found in the southern United States, provide dense vegetation and abundant food, making them ideal habitats for waterfowl. In Walden Pond, however, the ducks must rely on cunning and flight to avoid sportsmen. This comparison highlights the adaptability of wildlife to different environments and the pressures imposed by human activity. Thoreau’s observation invites readers to consider the impact of hunting and habitat on animal behavior, reinforcing his call for a harmonious coexistence with nature."
 ---
 Sometimes I had a companion in my fishing, who came through the village
 to my house from the other side of the town, and the catching of the
@@ -189,11 +136,11 @@ _Hermit._ I wonder what the world is doing now. I have not heard so
 much as a locust over the sweet-fern these three hours. The pigeons are
 all asleep upon their roosts,—no flutter from them. Was that a farmer’s
 noon horn which sounded from beyond the woods just now? The hands are
-coming in to **boiled salt beef and cider** and **Indian bread**. Why will men
+coming in to **boiled salt beef and cider** and Indian bread. Why will men
 worry themselves so? He that does not eat need not work. I wonder how
 much they have reaped. Who would live there where a body can never
 think for the barking of Bose? And O, the housekeeping! to keep bright
-**the devil’s door-knobs**, and scour his tubs this bright day! Better not
+the devil’s door-knobs, and scour his tubs this bright day! Better not
 keep a house. Say, some hollow tree; and then for morning calls and
 dinner-parties! Only a woodpecker tapping. O, they swarm; the sun is
 too warm there; they are born too far into life for me. I have water
@@ -237,7 +184,7 @@ thoughts will not come back to me. If it would do any good, I would
 whistle for them. When they make us an offer, is it wise to say, We
 will think of it? My thoughts have left no track, and I cannot find the
 path again. What was it that I was thinking of? It was a very hazy day.
-I will just try these three sentences of **Con-fut-see**; they may fetch
+I will just try these three sentences of Con-fut-see; they may fetch
 that state about again. I know not whether it was the dumps or a
 budding ecstasy. Mem. There never is but one opportunity of a kind.
 
@@ -259,7 +206,7 @@ have put animals to their best use, for they are all beasts of burden,
 in a sense, made to carry some portion of our thoughts.
 
 The mice which haunted my house were not the common ones, which are
-said to have been introduced into the country, but a **wild native kind**
+said to have been introduced into the country, but a wild native kind
 not found in the village. I sent one to a **distinguished naturalist**, and
 it interested him much. When I was building, one of these had its nest
 underneath the house, and before I had laid the second floor, and swept
@@ -273,14 +220,14 @@ clothes, and along my sleeve, and round and round the paper which held
 my dinner, while I kept the latter close, and dodged and played at
 bopeep with it; and when at last I held still a piece of cheese between
 my thumb and finger, it came and nibbled it, sitting in my hand, and
-afterward **cleaned its face and paws**, like a fly, and walked away.
+afterward cleaned its face and paws, like a fly, and walked away.
 
 A phœbe soon built in my shed, and a robin for protection in a pine
 which grew against the house. In June the partridge (_Tetrao
 umbellus_,) which is so shy a bird, led her brood past my windows, from
 the woods in the rear to the front of my house, clucking and calling to
-them like a hen, and in all her behavior proving herself the hen of the
-woods. The young suddenly disperse on your approach, at a signal from
+them like a hen, and in all her behavior proving herself the **hen of the
+woods**. The young suddenly disperse on your approach, at a signal from
 the mother, as if a whirlwind had swept them away, and they so exactly
 resemble the dried leaves and twigs that many a traveler has placed his
 foot in the midst of a brood, and heard the whir of the old bird as she
@@ -329,7 +276,7 @@ secluded and shaded spot, under a spreading white-pine, there was yet a
 clean, firm sward to sit on. I had dug out the spring and made a well
 of clear gray water, where I could dip up a pailful without roiling it,
 and thither I went for this purpose almost every day in midsummer, when
-the pond was warmest. Thither, too, the **wood-cock led her brood**, to
+the pond was warmest. Thither, too, the wood-cock led her brood, to
 probe the mud for worms, flying but a foot above them down the bank,
 while they ran in a troop beneath; but at last, spying me, she would
 leave her young and circle round and round me, nearer and nearer till
@@ -339,7 +286,7 @@ their march, with faint wiry peep, single file through the swamp, as
 she directed. Or I heard the peep of the young when I could not see the
 parent bird. There too the turtle-doves sat over the spring, or
 fluttered from bough to bough of the soft white-pines over my head; or
-the **red squirrel**, coursing down the nearest bough, was particularly
+the red squirrel, coursing down the nearest bough, was particularly
 familiar and inquisitive. You only need sit still long enough in some
 attractive spot in the woods that all its inhabitants may exhibit
 themselves to you by turns.
@@ -401,7 +348,7 @@ was not one hireling there. I have no doubt that it was a principle
 they fought for, as much as our ancestors, and not to avoid a
 three-penny tax on their tea; and the results of this battle will be as
 important and memorable to those whom it concerns as those of the
-**battle of Bunker Hill**, at least.
+battle of Bunker Hill, at least.
 
 I took up the chip on which the three I have particularly described
 were struggling, carried it into my house, and placed it under a
@@ -421,15 +368,15 @@ without feelers and with only the remnant of a leg, and I know not how
 many other wounds, to divest himself of them; which at length, after
 half an hour more, he accomplished. I raised the glass, and he went off
 over the window-sill in that crippled state. Whether he finally
-survived that combat, and spent the remainder of his days in some Hotel
-des Invalides, I do not know; but I thought that his industry would not
+survived that combat, and spent the remainder of his days in some **Hotel
+des Invalides**, I do not know; but I thought that his industry would not
 be worth much thereafter. I never learned which party was victorious,
 nor the cause of the war; but I felt for the rest of that day as if I
 had had my feelings excited and harrowed by witnessing the struggle,
 the ferocity and carnage, of a human battle before my door.
 
-**Kirby and Spence** tell us that the battles of ants have long been
-celebrated and the date of them recorded, though they say that **Huber** is
+Kirby and Spence tell us that the battles of ants have long been
+celebrated and the date of them recorded, though they say that Huber is
 the only modern author who appears to have witnessed them. “Æneas
 Sylvius,” say they, “after giving a very circumstantial account of one
 contested with great obstinacy by a great and small species on the
@@ -442,8 +389,8 @@ being victorious, are said to have buried the bodies of their own
 soldiers, but left those of their giant enemies a prey to the birds.
 This event happened previous to the expulsion of the tyrant Christiern
 the Second from Sweden.” The battle which I witnessed took place in the
-Presidency of Polk, five years before the passage of Webster’s
-Fugitive-Slave Bill.
+Presidency of Polk, five years before the passage of **Webster’s
+Fugitive-Slave Bill**.
 
 Many a village Bose, fit only to course a mud-turtle in a victualling
 cellar, sported his heavy quarters in the woods, without the knowledge
@@ -482,7 +429,7 @@ been produced by the union of the marten and domestic cat. This would
 have been the right kind of cat for me to keep, if I had kept any; for
 why should not a poet’s cat be winged as well as his horse?
 
-In the fall the loon (_**Colymbus glacialis**_) came, as usual, to moult
+In the fall the loon (_Colymbus glacialis_) came, as usual, to moult
 and bathe in the pond, making the woods ring with his wild laughter
 before I had risen. At rumor of his arrival all the **Mill-dam sportsmen**
 are on the alert, in gigs and on foot, two by two and three by three,
@@ -532,8 +479,8 @@ when he had swum farthest he would immediately plunge again,
 nevertheless; and then no wit could divine where in the deep pond,
 beneath the smooth surface, he might be speeding his way like a fish,
 for he had time and ability to visit the bottom of the pond in its
-deepest part. It is said that loons have been caught in the New York
-lakes eighty feet beneath the surface, with hooks set for trout,—though
+deepest part. It is said that loons have been caught in the **New York
+lakes** eighty feet beneath the surface, with hooks set for trout,—though
 Walden is deeper than that. How surprised must the fishes be to see
 this ungainly visitor from another sphere speeding his way amid their
 schools! Yet he appeared to know his course as surely under water as on
@@ -551,7 +498,7 @@ and so also detected him. But after an hour he seemed as fresh as ever,
 dived as willingly and swam yet farther than at first. It was
 surprising to see how serenely he sailed off with unruffled breast when
 he came to the surface, doing all the work with his webbed feet
-beneath. His usual note was this demoniac laughter, yet somewhat like
+beneath. His usual note was this **demoniac laughter**, yet somewhat like
 that of a water-fowl; but occasionally, when he had balked me most
 successfully and come up a long way off, he uttered a long-drawn
 unearthly howl, probably more like that of a wolf than any bird; as
@@ -575,7 +522,7 @@ and hold the middle of the pond, far from the sportsman; tricks which
 they will have less need to practise in **Louisiana bayous**. When
 compelled to rise they would sometimes circle round and round and over
 the pond at a considerable height, from which they could easily see to
-other ponds and the river, like **black motes in the sky**; and, when I
+other ponds and the river, like black motes in the sky; and, when I
 thought they had gone off thither long since, they would settle down by
 a slanting flight of a quarter of a mile on to a distant part which was
 left free; but what beside safety they got by sailing in the middle of

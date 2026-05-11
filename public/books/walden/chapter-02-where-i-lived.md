@@ -9,180 +9,159 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on surveying land and imagining ownership without committing to it."
+  - point: "Thoreau reflects on his imaginative exploration of local farms and landscapes, considering them as potential homes."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "He describes his brief experience with the Hollowell farm and the philosophical insights it brought."
-    link: "https://en.wikipedia.org/wiki/Walden"
-    link_label: "Walden"
-  - point: "Thoreau emphasizes living simply and deliberately, avoiding unnecessary commitments."
+  - point: "He recounts his near-purchase of the Hollowell place, emphasizing the value of landscapes over material ownership."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "Thoreau describes his cabin near Walden Pond, built to live deliberately and embrace simplicity."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "He critiques the hurried and wasteful nature of modern life, advocating for simplicity and deliberate living."
     link: "https://en.wikipedia.org/wiki/Simplicity"
     link_label: "Simplicity"
-  - point: "He discusses the importance of morning and awakening to a higher intellectual and spiritual life."
-    link: "https://en.wikipedia.org/wiki/Aurora_(mythology)"
-    link_label: "Aurora"
-  - point: "Thoreau critiques modern life’s distractions and advocates for focusing on reality and essential truths."
+  - point: "Thoreau emphasizes the importance of awakening to life's deeper truths and rejecting superficial distractions."
     link: "https://en.wikipedia.org/wiki/Transcendentalism"
     link_label: "Transcendentalism"
-  - point: "He uses metaphors like fishing in the stream of time to explore the relationship between eternity and daily life."
+  - point: "He uses metaphors like fishing in the stream of time to illustrate his philosophical approach to life and eternity."
     link: "https://en.wikipedia.org/wiki/Eternity"
     link_label: "Eternity"
 
 enhancements:
-  - id: "sedes-country-seat"
-    trigger: "sedes"
-    title: "What Makes a House a True Seat of Life?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sedes"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sede_Perico_FCE_UNJu.jpg/330px-Sede_Perico_FCE_UNJu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Sedes FCE. del Interior de la provincia de Jujuy (CC BY-SA 4.0)"
-    content: "Thoreau muses on the idea of a house as a 'sedes,' or seat, emphasizing its connection to the landscape and its role as a point of radiance. The Latin term 'sedes' evokes notions of stability, permanence, and rootedness, qualities that Thoreau contrasts with the transient and imagined ownership he practices. Historically, the concept of a 'country seat' was associated with aristocratic estates, symbols of wealth and power. Thoreau’s use of the term flips this tradition, suggesting that true wealth lies not in possession but in the ability to appreciate and let go. This perspective aligns with his broader philosophy of simplicity and deliberate living, urging readers to redefine what it means to 'own' a place."
-  - id: "orchard-woodlot-pasture"
-    trigger: "orchard, woodlot, and pasture"
-    title: "How Thoreau Redefined Land Use in a Daydream"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Land_use"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Co2-land-use_%28OWID_0189%29.png/330px-Co2-land-use_%28OWID_0189%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Co2-land-use (OWID 0189) (CC BY 4.0)"
-    content: "Thoreau imagines laying out land into orchard, woodlot, and pasture, a mental exercise that reveals his deep connection to nature and his ability to envision sustainable living. These divisions reflect traditional New England farming practices, where land was carefully allocated for diverse purposes. However, Thoreau’s vision is not about ownership or exploitation but about understanding the land’s intrinsic value and potential. This exercise underscores his belief that wealth is measured by what one can afford to leave untouched, challenging the conventional notions of property and productivity. It’s a poetic assertion that the true richness of land lies in its ability to inspire and sustain life."
+  - id: "real-estate-broker"
+    trigger: "real-estate broker"
+    title: "Why Thoreau Called Himself a Real-Estate Broker"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Real_estate_broker"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau humorously refers to himself as a 'real-estate broker' after imagining buying and cultivating local farms in his mind. This playful self-designation highlights his philosophical approach to ownership—valuing the experience of a place over its material possession. In the 19th century, real-estate brokers were emerging as key players in the American economy, facilitating land transactions during a period of rapid expansion and settlement. Thoreau, however, subverts this role, using imagination rather than deeds to 'own' the land. By doing so, he critiques the commodification of nature and asserts that true wealth lies in one's ability to appreciate and leave things untouched. This moment encapsulates Thoreau's broader argument in Walden: that spiritual richness surpasses material wealth."
   - id: "hollowell-place"
     trigger: "Hollowell place"
-    title: "The Farm That Was Almost Thoreau’s"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page from first edition of Henry David Thoreau's Walden (1854). (Public domain)"
-    content: "Thoreau recounts his near-purchase of the Hollowell farm, a property he admired for its isolation and natural beauty. The farm’s dilapidated state appealed to him, symbolizing freedom from societal constraints and the opportunity to live deliberately. Historically, the Hollowell farm represents Thoreau’s philosophy of non-ownership and his rejection of materialism. When the deal fell through, Thoreau felt enriched rather than deprived, as he retained the landscape in his imagination. This anecdote encapsulates his belief that true wealth lies in the ability to appreciate and experience life without the burdens of possession, a central theme of 'Walden.'"
-  - id: "atlas-world-on-shoulders"
+    title: "The Farm Thoreau Almost Owned"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts his near-purchase of the Hollowell place, a farm he admired for its isolation and natural beauty. The deal fell through when the owner's wife changed her mind, but Thoreau reflects on the experience with humor and philosophical insight. The Hollowell place symbolizes his rejection of material ownership in favor of spiritual and aesthetic appreciation. In the mid-19th century, land ownership was a cornerstone of American identity, yet Thoreau's decision to let the farm go underscores his belief that true wealth lies in freedom and simplicity. This anecdote serves as a microcosm of Walden's themes, illustrating how Thoreau sought to live deliberately and prioritize the intangible over the tangible."
+  - id: "atlas"
     trigger: "Atlas"
-    title: "Why Thoreau Felt Like Atlas Carrying the World"
+    title: "Why Thoreau Evoked the Titan Atlas"
     wikipedia_url: "https://en.wikipedia.org/wiki/Atlas_(mythology)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MAN_Atlante_fronte_1040572.JPG/330px-MAN_Atlante_fronte_1040572.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "MAN Atlante fronte 1040572 (CC BY-SA 4.0)"
-    content: "Thoreau likens his readiness to manage the Hollowell farm to Atlas carrying the world on his shoulders. In Greek mythology, Atlas was condemned to hold up the heavens for eternity, a symbol of enduring responsibility. Thoreau’s comparison is both ironic and profound; he embraces the idea of taking on the world’s weight, but only to enjoy its natural beauty and solitude. This metaphor underscores his critique of societal obligations and his advocacy for living unburdened by material possessions. By invoking Atlas, Thoreau elevates his personal experiment in simplicity to a mythic scale, inviting readers to reconsider their own burdens."
-  - id: "old-cato-de-re-rustica"
-    trigger: "Old Cato"
-    title: "What Ancient Farming Wisdom Taught Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cato_the_Elder"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Patrizio_Torlonia.jpg/330px-Patrizio_Torlonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "So called  patrician Torlonia Patrizio Torlonia. (Public domain)"
-    content: "Thoreau references 'Old Cato,' the Roman statesman and author of 'De Re Rustica,' a treatise on agriculture. Cato’s advice to thoroughly inspect a farm before purchasing it resonates with Thoreau’s philosophy of deliberate living. While Cato emphasized practical farming techniques, Thoreau transforms this wisdom into a metaphor for life itself, advocating for thoughtful engagement with the world. By aligning himself with Cato, Thoreau bridges ancient and modern perspectives, suggesting that the principles of simplicity and careful observation are timeless. This connection enriches his argument for living deliberately and appreciating the inherent value of nature."
-  - id: "harivansa-birds-and-abodes"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau compares himself to Atlas, the Titan condemned to hold up the heavens, as he contemplates the labor required to maintain the Hollowell farm. This mythological reference underscores the weight of responsibility that comes with ownership—a burden Thoreau ultimately chooses to avoid. In Greek mythology, Atlas's punishment was both a symbol of endurance and a cautionary tale about hubris. By invoking Atlas, Thoreau critiques the societal expectation to shoulder material burdens and suggests that true freedom lies in letting go. This moment encapsulates his philosophy of deliberate living, where simplicity and detachment from possessions lead to a richer, more meaningful existence."
+  - id: "de-re-rustica"
+    trigger: "De Re Rusticâ"
+    title: "The Roman Guide to Farming Thoreau Admired"
+    wikipedia_url: "https://en.wikipedia.org/wiki/De_agri_cultura"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau references 'De Re Rusticâ,' a Roman agricultural treatise attributed to Cato the Elder, as his guide to farming philosophy. Cato's work, written in the 2nd century BCE, is one of the earliest known texts on agriculture, offering practical advice on managing farms and cultivating crops. Thoreau's admiration for this ancient text reflects his interest in timeless wisdom and his belief in the value of simplicity and careful observation. By aligning himself with Cato, Thoreau underscores his commitment to deliberate living and his rejection of modern agricultural practices driven by greed and haste. This connection bridges ancient and modern philosophies, showing how Thoreau sought universal truths in his quest for a meaningful life."
+  - id: "harivansa"
     trigger: "Harivansa"
-    title: "How Ancient Indian Texts Inspired Thoreau’s Cabin"
+    title: "The Ancient Indian Epic That Inspired Thoreau"
     wikipedia_url: "https://en.wikipedia.org/wiki/Harivamsa"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Parashurama_leads_Krishna_and_Balarama_toward_Mount_Gomanta.jpg/330px-Parashurama_leads_Krishna_and_Balarama_toward_Mount_Gomanta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Parashurama leads Krishna and Balarama toward Mount Gomanta (Public domain)"
-    content: "Thoreau cites the 'Harivansa,' an ancient Indian text, to emphasize the importance of birds in creating a lively and harmonious abode. The passage he references likens a birdless home to unseasoned meat, highlighting the role of nature in enriching human life. Thoreau’s cabin, surrounded by forest songbirds, becomes a living embodiment of this principle, a sanctuary where he feels connected to the wild. This reference illustrates Thoreau’s global perspective, drawing wisdom from diverse cultures to inform his transcendentalist ideals. It also reinforces his belief in the interdependence of all living beings, a cornerstone of his philosophy."
-  - id: "wood-thrush-veery-scarlet-tanager"
-    trigger: "wood-thrush, veery, scarlet tanager"
-    title: "The Forest’s Choir: Thoreau’s Wild Neighbors"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Wood_thrush"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Wood_thrush_%28Hylocichla_mustelina%29_Peten.jpg/330px-Wood_thrush_%28Hylocichla_mustelina%29_Peten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Wood thrush (Hylocichla mustelina), Yaxhá, Peten, Guatemala (CC BY-SA 4.0)"
-    content: "Thoreau delights in the songs of the wood-thrush, veery, and scarlet tanager, birds rarely heard in villages. These species symbolize the untamed beauty of the forest, their melodies a reminder of nature’s purity and vitality. The wood-thrush, known for its ethereal flute-like song, was particularly revered by Thoreau. Modern ornithologists note that its song is a complex mix of harmonics, creating an almost otherworldly sound. Thoreau’s appreciation for these birds reflects his belief that immersion in nature awakens the soul and sharpens the senses. Their presence at Walden underscores the richness of his chosen solitude."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes the Harivansa, an ancient Indian epic, to emphasize the importance of living in harmony with nature. The Harivansa, a supplement to the Mahabharata, explores the genealogy and stories of Krishna and other figures in Hindu mythology. Thoreau's reference reflects his fascination with Eastern philosophy and its emphasis on simplicity, interconnectedness, and spiritual awakening. In the 19th century, texts like the Harivansa were becoming accessible to Western audiences, influencing thinkers like Thoreau and Emerson. By invoking this epic, Thoreau aligns his philosophy with a broader, global tradition of seeking wisdom in nature and living deliberately. This moment reveals the depth of his intellectual curiosity and his belief in universal truths."
+  - id: "concord-battle-ground"
+    trigger: "Concord Battle Ground"
+    title: "The Revolutionary Site Near Thoreau's Cabin"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Concord"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the Concord Battle Ground, located two miles from his cabin, as a historical landmark near his retreat. This site marks the location of the first battle of the American Revolutionary War in 1775, where colonial militia resisted British forces. Thoreau's proximity to this symbol of independence underscores the thematic resonance of Walden: his experiment in self-reliance mirrors the revolutionary spirit of breaking free from oppressive systems. By situating his cabin near this iconic site, Thoreau draws a parallel between personal and national liberation, suggesting that true freedom begins with individual choices to live deliberately and authentically."
+  - id: "sudbury-meadows"
+    trigger: "Sudbury meadows"
+    title: "The Flooded Valley That Inspired Thoreau's Imagination"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sudbury_River"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the Sudbury meadows, a floodplain near Walden Pond, as a landscape elevated by mirage and imagination. The Sudbury River, which feeds these meadows, was a vital waterway for Indigenous peoples and early settlers in Massachusetts. Thoreau's poetic depiction transforms this ordinary feature into a metaphor for the interconnectedness of land and water, emphasizing the insular nature of the earth. This moment reflects his ability to find profound meaning in seemingly mundane details, reinforcing Walden's central theme: the richness of life lies in how we perceive and engage with the world around us."
   - id: "cassiopeias-chair"
     trigger: "Cassiopeia’s Chair"
-    title: "A Starry Throne: Thoreau’s Celestial Retreat"
+    title: "The Celestial Throne That Sparked Thoreau's Imagination"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cassiopeia_(constellation)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cassiopeia_IAU.svg/330px-Cassiopeia_IAU.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "IAU Cassiopeia chart. (CC BY 3.0)"
-    content: "Thoreau imagines his cabin as a celestial retreat, likening its remoteness to a spot near Cassiopeia’s Chair. This constellation, named after a mythical queen, has been a symbol of beauty and intrigue for centuries. By invoking it, Thoreau elevates his simple dwelling to a cosmic scale, suggesting that true solitude connects one to the universe’s mysteries. Cassiopeia’s Chair also serves as a metaphor for the transcendentalist idea that profound truths are found in quiet, unspoiled places. Thoreau’s reference invites readers to consider the vastness of existence and their place within it, even in the humblest settings."
-  - id: "aurora-greek-worship"
-    trigger: "Aurora"
-    title: "Why Thoreau Worshipped the Dawn Like the Greeks"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Aurora_(mythology)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/William-Adolphe_Bouguereau_%281825-1905%29_-_Dawn_%281881%29.jpg/330px-William-Adolphe_Bouguereau_%281825-1905%29_-_Dawn_%281881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "William-Adolphe Bouguereau (1825-1905) - Dawn (1881) (Public domain)"
-    content: "Thoreau declares himself a worshipper of Aurora, the Greek goddess of dawn, celebrating morning as the most sacred time of day. Aurora’s mythological role as the bringer of light and renewal resonates deeply with Thoreau’s philosophy of awakening to life’s possibilities. In ancient Greece, Aurora was associated with hope and new beginnings, themes that Thoreau integrates into his daily rituals, such as bathing in Walden Pond. By aligning himself with this mythological figure, Thoreau underscores his belief in the transformative power of nature and the importance of starting each day with intention and reverence."
-  - id: "king-tching-thang"
-    trigger: "king Tching-thang"
-    title: "What Engraved Wisdom on a Bathing Tub Reveals"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tang_dynasty"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tang_outline_map%2C_661.svg/330px-Tang_outline_map%2C_661.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Outline map of the Tang empire in 661, when it reached its greatest extent. (CC BY-SA 4.0)"
-    content: "Thoreau references King Tching-thang, whose bathing tub bore the inscription: 'Renew thyself completely each day.' This phrase encapsulates the philosophy of continual self-improvement and renewal. Tching-thang, a figure from Chinese history, symbolizes the importance of introspection and daily reinvigoration. Thoreau adopts this wisdom as part of his own morning rituals, viewing the act of bathing in Walden Pond as a spiritual exercise. This connection highlights Thoreau’s global perspective and his belief that ancient teachings can guide modern life. It also reinforces his argument that true awakening begins with deliberate and mindful actions."
-  - id: "vedas-intelligences-awake"
-    trigger: "Vedas"
-    title: "What Ancient Indian Scriptures Say About Morning"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Vedas"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1500-1200_BCE_Rigveda%2C_manuscript_page_sample_i%2C_Mandala_1%2C_Hymn_1_%28Sukta_1%29%2C_Adhyaya_1%2C_lines_1.1.1_to_1.1.9%2C_Sanskrit%2C_Devanagari.jpg/330px-1500-1200_BCE_Rigveda%2C_manuscript_page_sample_i%2C_Mandala_1%2C_Hymn_1_%28Sukta_1%29%2C_Adhyaya_1%2C_lines_1.1.1_to_1.1.9%2C_Sanskrit%2C_Devanagari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "1500-1200 BCE Rigveda, manuscript page sample i, Mandala 1, Hymn 1 (Sukta 1), Adhyaya 1, lines 1.1.1 to 1.1.9, Sanskrit, Devanagari (CC BY-SA 4.0)"
-    content: "Thoreau invokes the Vedas, sacred Indian texts, to emphasize that 'all intelligences awake with the morning.' The Vedas, among the oldest religious scriptures, celebrate the dawn as a time of spiritual clarity and renewal. Thoreau’s use of this quote reflects his transcendentalist belief in the interconnectedness of all wisdom traditions. By aligning his morning rituals with Vedic teachings, he underscores the universality of awakening as a metaphor for enlightenment. This reference enriches his argument that living deliberately requires attunement to nature’s rhythms and a commitment to intellectual and spiritual growth."
-  - id: "memnon-children-of-aurora"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau invokes Cassiopeia’s Chair, a constellation in the northern sky, to describe the remote and celestial quality of his cabin's location. In Greek mythology, Cassiopeia was a queen punished for her vanity, immortalized in the stars seated on her throne. This constellation, visible year-round in the Northern Hemisphere, has inspired stargazers for centuries. Thoreau's reference elevates his humble dwelling to a cosmic realm, suggesting that true solitude and simplicity connect us to the universe's grandeur. This moment encapsulates his belief that profound truths can be found in the ordinary, transforming his cabin into a sanctuary of both earthly and celestial significance."
+  - id: "memnon"
     trigger: "Memnon"
-    title: "The Mythical Hero Who Sang at Sunrise"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Memnon_(mythology)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bananenfalter_Caligo_memnon_2014.jpg/330px-Bananenfalter_Caligo_memnon_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Owl butterfly, Caligo memnon photographed in butterfly house Vlindertuin Vlindorado near Waarland, North Holland (CC BY-SA 3.0)"
-    content: "Thoreau describes poets and heroes as 'children of Aurora,' likening them to Memnon, the legendary Ethiopian king whose statue was said to sing at sunrise. Memnon’s story, rooted in Greek mythology, symbolizes the harmony between human achievement and the natural world. Thoreau’s reference to Memnon elevates his philosophy of morning as a time for creativity and inspiration. By invoking this myth, he suggests that those who align their lives with nature’s cycles can access profound truths and create enduring works. Memnon becomes a metaphor for the transcendentalist ideal of awakening to life’s poetic possibilities."
-  - id: "marrow-of-life"
-    trigger: "marrow of life"
-    title: "What Thoreau Meant by Sucking Life’s Marrow"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page from first edition of Henry David Thoreau's Walden (1854). (Public domain)"
-    content: "Thoreau famously declares his intent to 'suck out all the marrow of life,' a vivid metaphor for living deeply and authentically. The phrase evokes the primal act of extracting nourishment from bones, symbolizing a commitment to experiencing life’s essence. Historically, marrow has been associated with vitality and strength, making it a fitting image for Thoreau’s quest. This declaration encapsulates his philosophy of deliberate living, urging readers to strip away distractions and focus on what truly matters. By reducing life to its 'lowest terms,' Thoreau seeks to uncover its sublime or mean nature, offering a blueprint for existential inquiry."
+    title: "The Dawn-Singing Statue That Fascinated Thoreau"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Colossi_of_Memnon"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau compares poets and heroes to Memnon, a mythical figure associated with the Colossi of Memnon in Egypt. These ancient statues were said to emit musical tones at sunrise, a phenomenon attributed to thermal expansion and contraction. Memnon, a hero of the Trojan War, symbolizes the connection between human achievement and the natural world. Thoreau's reference aligns his philosophy with this myth, suggesting that those who live in harmony with nature, like Memnon, produce beauty and meaning. This moment reinforces Walden's central theme: awakening to life's deeper truths through deliberate and poetic engagement with the world."
   - id: "spartan-like"
     trigger: "Spartan-like"
-    title: "Why Thoreau’s Simplicity Echoed Spartan Ideals"
+    title: "What Thoreau Learned from Spartan Simplicity"
     wikipedia_url: "https://en.wikipedia.org/wiki/Sparta"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Spartan_Territory_Before_371_BC.png/330px-Spartan_Territory_Before_371_BC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Spartan Territory Before 371 BC (CC BY-SA 4.0)"
-    content: "Thoreau aspires to live 'Spartan-like,' invoking the ancient Greek city-state renowned for its austere lifestyle and military discipline. Sparta’s emphasis on simplicity and self-reliance resonates with Thoreau’s philosophy of minimalism and deliberate living. By adopting this term, Thoreau aligns his experiment at Walden with a tradition of rejecting excess and embracing hardship to achieve clarity and strength. This comparison underscores his critique of modern materialism and his belief that true freedom comes from reducing life to its essentials. Thoreau’s Spartan-like approach challenges readers to reconsider their own relationship with comfort and necessity."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau aspires to live 'Spartan-like,' embracing simplicity and discipline to confront life's essential truths. Sparta, the ancient Greek city-state, was renowned for its austere lifestyle and military prowess, emphasizing self-reliance and communal strength. Thoreau's invocation of Spartan values reflects his rejection of material excess and his commitment to living deliberately. By adopting this ethos, he seeks to strip life down to its core, uncovering its genuine nature—whether sublime or mean. This moment encapsulates Walden's broader argument: that simplicity and intentionality are the keys to a meaningful and authentic existence."
   - id: "german-confederacy"
     trigger: "German Confederacy"
-    title: "What a Fluctuating Nation Taught Thoreau About Life"
+    title: "Why Thoreau Critiqued the German Confederacy"
     wikipedia_url: "https://en.wikipedia.org/wiki/German_Confederation"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/German_Confederation_%281815%29.svg/330px-German_Confederation_%281815%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The German Confederation in 1815. (CC BY-SA 3.0)"
-    content: "Thoreau compares modern life to the German Confederacy, a loose association of states with shifting boundaries. This metaphor highlights the complexity and instability of contemporary existence, filled with unnecessary details and distractions. The German Confederacy, established in 1815, was criticized for its inefficiency and lack of cohesion, making it a fitting symbol for Thoreau’s critique of societal overcomplication. By invoking this historical entity, Thoreau underscores his call for simplicity and deliberate living. He urges readers to streamline their lives, focusing on what truly matters rather than being overwhelmed by the chaos of modernity."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau likens modern life to the German Confederacy, a loose association of states in 19th-century Central Europe known for its inefficiency and lack of cohesion. Established after the Napoleonic Wars, the Confederacy struggled to unify its member states, leading to political instability and fragmentation. Thoreau uses this metaphor to critique the complexity and disorganization of contemporary life, advocating instead for simplicity and focus. This comparison underscores his belief that societal and personal improvement requires stripping away unnecessary complications to reveal a solid foundation. By invoking the German Confederacy, Thoreau highlights the dangers of overextension and the virtues of deliberate living."
+  - id: "nation"
+    trigger: "Nation"
+    title: "Thoreau's Radical Vision for National Priorities"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nation"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau critiques the 'Nation,' questioning its obsession with commerce, technology, and speed at the expense of meaningful living. In the mid-19th century, America was undergoing rapid industrialization, with railroads and telegraphs symbolizing progress. Thoreau challenges this narrative, arguing that true advancement lies in improving individual lives rather than external infrastructure. His vision for the nation aligns with his philosophy of simplicity and deliberate living, suggesting that societal well-being depends on personal transformation. This moment encapsulates Walden's broader critique of modernity, urging readers to prioritize spiritual and intellectual growth over material achievements."
   - id: "saint-vitus-dance"
     trigger: "Saint Vitus’ dance"
-    title: "The Nervous Disorder That Became a Metaphor for Modern Frenzy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Saint_Vitus_dance"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/David_Stern%2C_Saint_Vitus_Dance_%28The_Return_of_the_Flagellants%29%2C_2020._Acrylics_and_pigments_on_canvas%2C_51_x_63_inches_%28130_x_160_cm%29.jpg/330px-David_Stern%2C_Saint_Vitus_Dance_%28The_Return_of_the_Flagellants%29%2C_2020._Acrylics_and_pigments_on_canvas%2C_51_x_63_inches_%28130_x_160_cm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A series of paintings and drawings on the duality of man and meditations about gender. (CC BY-SA 4.0)"
-    content: "Thoreau uses 'Saint Vitus’ dance' as a metaphor for the restless and compulsive activity of modern life. Historically, Saint Vitus’ dance refers to Sydenham’s chorea, a neurological disorder causing involuntary movements, often linked to medieval outbreaks of mass hysteria. Thoreau’s comparison suggests that society’s constant busyness is akin to a pathological condition, undermining true productivity and peace. This vivid imagery reinforces his critique of hurried living and his advocacy for deliberate, mindful actions. By likening societal behavior to a disease, Thoreau challenges readers to reconsider their pace and priorities, seeking a healthier rhythm of life."
-  - id: "western-railroad"
-    trigger: "Western Railroad"
-    title: "Why Thoreau Saw Railroads as Riding on Men"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Western_Railroad_of_Massachusetts"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/1930_D%26RGW_WP.jpg/330px-1930_D%26RGW_WP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Map of the Denver &amp; Rio Grande Railroad and Western Pacific Railroad. (Public domain)"
-    content: "Thoreau critiques the Western Railroad as a symbol of progress that burdens rather than liberates humanity. Built in the 19th century to connect Boston and Albany, the railroad represented industrial advancement and economic growth. However, Thoreau’s metaphor of sleepers—workers literally laid beneath the tracks—highlights the human cost of such progress. He argues that society’s obsession with speed and efficiency often sacrifices individual well-being and freedom. This critique aligns with his broader philosophy, urging readers to prioritize meaningful living over technological convenience. The Western Railroad becomes a cautionary tale about the price of modernity."
-  - id: "don-carlos-infanta"
-    trigger: "Don Carlos and the Infanta"
-    title: "How Spanish Royalty Became a Symbol of Predictable News"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Don_Carlos"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Giuseppe_Barberis_-_Carlo_Cornaglia_-_Giuseppe_Verdi%27s_Don_Carlo_at_La_Scala.jpg/330px-Giuseppe_Barberis_-_Carlo_Cornaglia_-_Giuseppe_Verdi%27s_Don_Carlo_at_La_Scala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Giuseppe Barberis - Carlo Cornaglia - Giuseppe Verdi's Don Carlo at La Scala (Public domain)"
-    content: "Thoreau mentions Don Carlos and the Infanta as examples of recurring figures in Spanish news, critiquing the monotony of foreign reporting. Don Carlos, a claimant to the Spanish throne, and the Infanta, a royal title, were staples of 19th-century political discourse. Thoreau’s reference underscores his disdain for superficial news cycles that recycle the same narratives without offering meaningful insights. By highlighting these figures, he challenges readers to seek timeless truths rather than transient gossip. This critique of media aligns with his transcendentalist ideals, advocating for deeper engagement with life’s enduring realities."
-  - id: "brahme-hindoo-philosophy"
-    trigger: "Brahme"
-    title: "The Hindoo Revelation That Changed Thoreau’s Perspective"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Brahman"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aum_Om_black.svg/330px-Aum_Om_black.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Om, a symbol in Hinduism (Public domain)"
-    content: "Thoreau references 'Brahme,' the ultimate reality in Hindu philosophy, to illustrate the soul’s journey toward self-discovery. In Hindu thought, Brahman represents the infinite and eternal essence of the universe, a concept that deeply influenced Thoreau’s transcendentalist beliefs. He recounts a story of a prince who realizes his true identity, paralleling the human quest for enlightenment. This narrative underscores Thoreau’s argument that most people live superficially, unaware of their deeper nature. By invoking Brahme, Thoreau invites readers to look beyond appearances and connect with the profound truths that define existence, aligning his philosophy with ancient wisdom."
-  - id: "mill-dam-reality"
+    title: "The Neurological Disorder Behind Thoreau's Metaphor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sydenham%27s_chorea"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses 'Saint Vitus’ dance,' a term for Sydenham's chorea, to describe the restless and frenetic pace of modern life. This neurological disorder, characterized by involuntary movements, was named after Saint Vitus, the patron saint of dancers. In the 19th century, it was often associated with hysteria and overexertion. Thoreau's metaphor critiques society's inability to remain still and deliberate, likening its constant activity to a pathological condition. This vivid imagery reinforces Walden's central argument: that true fulfillment comes from slowing down, simplifying, and living intentionally. By invoking Saint Vitus’ dance, Thoreau highlights the absurdity of a life consumed by unnecessary motion."
+  - id: "penny-post"
+    trigger: "penny-post"
+    title: "The Postal Revolution Thoreau Could Do Without"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Penny_Post"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau dismisses the 'penny-post,' a postal system that revolutionized communication by making letter delivery affordable. Introduced in England in 1840, the penny-post democratized correspondence, enabling widespread access to written communication. Thoreau, however, critiques its triviality, arguing that most letters lack meaningful content. This rejection aligns with his broader disdain for superficial distractions, emphasizing the importance of profound and deliberate exchanges. By dismissing the penny-post, Thoreau challenges readers to reconsider the value of their interactions and prioritize depth over convenience. This moment encapsulates Walden's critique of modernity, urging readers to seek substance in their lives."
+  - id: "don-carlos"
+    trigger: "Don Carlos"
+    title: "The Spanish Pretender Thoreau Mocked"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Infante_Carlos,_Count_of_Molina"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Don Carlos, a claimant to the Spanish throne during the Carlist Wars, as an example of predictable news cycles. The Carlist Wars, spanning much of the 19th century, were conflicts over succession and political ideology in Spain. Thoreau's reference critiques the repetitive nature of news, suggesting that historical patterns render many events unsurprising. This moment underscores Walden's broader argument: that true knowledge lies in timeless truths rather than transient headlines. By invoking Don Carlos, Thoreau challenges readers to focus on enduring wisdom rather than fleeting distractions."
+  - id: "mill-dam"
     trigger: "Mill-dam"
-    title: "What Would Happen If We Saw Reality?"
+    title: "The Industrial Landmark Thoreau Saw Differently"
     wikipedia_url: "https://en.wikipedia.org/wiki/Mill_dam"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rakes_Mill_Pond_and_dam_%2846e599298cd546fcbfddcb849bb04d7e%29.tif/lossy-page1-330px-Rakes_Mill_Pond_and_dam_%2846e599298cd546fcbfddcb849bb04d7e%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Rakes Mill Pond and dam (46e599298cd546fcbfddcb849bb04d7e) (Public domain)"
-    content: "Thoreau challenges readers to imagine the Mill-dam disappearing under a true gaze, questioning society’s attachment to superficial structures. The Mill-dam, a feature of industrialized towns, symbolizes the artificiality of modern life. Thoreau suggests that if people perceived reality as it truly is, such constructs would lose their significance. This metaphor reinforces his critique of societal illusions and his call for a return to fundamental truths. By envisioning the Mill-dam’s dissolution, Thoreau invites readers to reconsider their own perceptions and prioritize authenticity over appearances, a central theme of 'Walden.'"
-  - id: "nilometer-realometer"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the Mill-dam, a structure used to harness water power for mills, as a symbol of industrial progress. In the 19th century, mill-dams were central to the economic development of towns like Concord, enabling the rise of manufacturing. Thoreau, however, critiques their superficiality, suggesting that such landmarks obscure deeper truths about the land and its natural state. This moment reflects Walden's broader critique of industrialization, urging readers to look beyond appearances and reconnect with the fundamental realities of nature. By invoking the Mill-dam, Thoreau challenges readers to reconsider the impact of human interventions on the environment."
+  - id: "nilometer"
     trigger: "Nilometer"
-    title: "What Ancient Flood Gauges Taught Thoreau About Reality"
+    title: "The Ancient Tool Thoreau Reimagined"
     wikipedia_url: "https://en.wikipedia.org/wiki/Nilometer"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cairo_Nilometer_2.jpg/330px-Cairo_Nilometer_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Nilometer at Rawda. Cairo. Egypt (CC BY-SA 3.0)"
-    content: "Thoreau contrasts the Nilometer, an ancient Egyptian device for measuring the Nile’s flood levels, with his imagined 'Realometer,' a tool for gauging reality. The Nilometer was vital for predicting agricultural prosperity, symbolizing humanity’s reliance on natural cycles. Thoreau’s 'Realometer' metaphor suggests a need for a similar tool to navigate the floods of societal illusions and distractions. This comparison underscores his belief that true understanding requires stripping away superficial layers to uncover foundational truths. By invoking the Nilometer, Thoreau connects ancient wisdom with modern transcendentalist ideals, urging readers to measure their lives against enduring realities."
-  - id: "time-stream-fishing"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau references the Nilometer, an ancient Egyptian device used to measure the Nile's water levels, as a metaphor for discerning reality. The Nilometer was crucial for predicting floods and ensuring agricultural success, symbolizing humanity's ability to adapt to natural cycles. Thoreau reimagines this tool as a 'Realometer,' a gauge for measuring the depth of truth amidst societal illusions. This inventive metaphor encapsulates Walden's central theme: the quest for authenticity and the rejection of superficial appearances. By invoking the Nilometer, Thoreau challenges readers to develop their own tools for navigating life's complexities and uncovering its deeper meanings."
+  - id: "time-is-but-the-stream"
     trigger: "Time is but the stream"
-    title: "Why Thoreau Fished in the Stream of Time"
+    title: "Thoreau's Poetic Vision of Time and Eternity"
     wikipedia_url: "https://en.wikipedia.org/wiki/Time"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/MontreGousset001.jpg/330px-MontreGousset001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Pocket watch, savonette-type. (CC BY-SA 3.0)"
-    content: "Thoreau describes time as a stream he fishes in, a metaphor for his contemplative approach to life. The stream represents the flow of existence, shallow yet revealing eternity beneath its surface. This imagery aligns with Thoreau’s transcendentalist belief in the interconnectedness of all things and the importance of living deliberately. By fishing in time, he seeks to extract its deeper truths, contrasting this mindful engagement with society’s hurried pace. This metaphor encapsulates Thoreau’s philosophy, urging readers to pause, reflect, and immerse themselves in the profound currents of life."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes time as a stream he fishes in, a metaphor for its fleeting nature and the enduring presence of eternity. This poetic imagery reflects his transcendentalist philosophy, emphasizing the importance of living deliberately and engaging deeply with the present moment. In the 19th century, debates about time and progress were central to American thought, as industrialization accelerated daily life. Thoreau's metaphor challenges this narrative, urging readers to slow down and appreciate the timeless truths beneath life's surface. This moment encapsulates Walden's broader argument: that true wisdom lies in seeing beyond the shallow currents of time to the eternal depths of existence."
+  - id: "divining-rod"
+    trigger: "divining-rod"
+    title: "The Mystical Tool Thoreau Used to Mine Truth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Divining_rod"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the divining-rod, a tool traditionally used to locate underground water or minerals, as a metaphor for his philosophical quest. In folklore, the divining-rod symbolizes intuition and the ability to uncover hidden truths. Thoreau's use of this image reflects his belief in the power of instinct and contemplation to reveal life's deeper meanings. By likening his intellectual pursuits to mining with a divining-rod, he emphasizes the importance of deliberate effort and spiritual attunement. This moment encapsulates Walden's central theme: the search for authenticity and the richness of life beneath its surface."
 ---
 At a certain season of our life we are accustomed to consider every
 spot as the possible site of a house. I have thus surveyed the country
@@ -195,9 +174,9 @@ price on it,—took everything but a deed of it,—took his word for his
 deed, for I dearly love to talk,—cultivated it, and him too to some
 extent, I trust, and withdrew when I had enjoyed it long enough,
 leaving him to carry it on. This experience entitled me to be regarded
-as a sort of real-estate broker by my friends. Wherever I sat, there I
+as a sort of **real-estate broker** by my friends. Wherever I sat, there I
 might live, and the landscape radiated from me accordingly. What is a
-house but a _**sedes**_, a seat?—better if a country seat. I discovered
+house but a _sedes_, a seat?—better if a country seat. I discovered
 many a site for a house not likely to be soon improved, which some
 might have thought too far from the village, but to my eyes the village
 was too far from it. Well, there I might live, I said; and there I did
@@ -205,7 +184,7 @@ live, for an hour, a summer and a winter life; saw how I could let the
 years run off, buffet the winter through, and see the spring come in.
 The future inhabitants of this region, wherever they may place their
 houses, may be sure that they have been anticipated. An afternoon
-sufficed to lay out the land into **orchard, woodlot, and pasture**, and to
+sufficed to lay out the land into orchard, woodlot, and pasture, and to
 decide what fine oaks or pines should be left to stand before the door,
 and whence each blasted tree could be seen to the best advantage; and
 then I let it lie, fallow perchance, for a man is rich in proportion to
@@ -272,7 +251,7 @@ to my fellows, once for all, As long as possible live free and
 uncommitted. It makes but little difference whether you are committed
 to a farm or the county jail.
 
-**Old Cato**, whose “**De Re Rusticâ**” is my “Cultivator,” says, and the only
+Old Cato, whose “**De Re Rusticâ**” is my “Cultivator,” says, and the only
 translation I have seen makes sheer nonsense of the passage, “When you
 think of getting a farm, turn it thus in your mind, not to buy
 greedily; nor spare your pains to look at it, and do not think it
@@ -324,15 +303,15 @@ for I found myself suddenly neighbor to the birds; not by having
 imprisoned one, but having caged myself near them. I was not only
 nearer to some of those which commonly frequent the garden and the
 orchard, but to those wilder and more thrilling songsters of the forest
-which never, or rarely, serenade a villager,—the **wood-thrush**, the
-veery, the **scarlet tanager**, the field-sparrow, the whippoorwill, and
+which never, or rarely, serenade a villager,—the wood-thrush, the
+veery, the scarlet tanager, the field-sparrow, the whippoorwill, and
 many others.
 
 I was seated by the shore of a small pond, about a mile and a half
 south of the village of Concord and somewhat higher than it, in the
 midst of an extensive wood between that town and Lincoln, and about two
-miles south of that our only field known to fame, Concord Battle
-Ground; but I was so low in the woods that the opposite shore, half a
+miles south of that our only field known to fame, **Concord Battle
+Ground**; but I was so low in the woods that the opposite shore, half a
 mile off, like the rest, covered with wood, was my most distant
 horizon. For the first week, whenever I looked out on the pond it
 impressed me like a tarn high up on the side of a mountain, its bottom
@@ -407,10 +386,10 @@ wandered to higher pastures than his thoughts?
 
 Every morning was a cheerful invitation to make my life of equal
 simplicity, and I may say innocence, with Nature herself. I have been
-as sincere a worshipper of **Aurora** as the Greeks. I got up early and
+as sincere a worshipper of Aurora as the Greeks. I got up early and
 bathed in the pond; that was a religious exercise, and one of the best
 things which I did. They say that characters were engraven on the
-bathing tub of **king Tching-thang** to this effect: “Renew thyself
+bathing tub of king Tching-thang to this effect: “Renew thyself
 completely each day; do it again, and again, and forever again.” I can
 understand that. Morning brings back the heroic ages. I was as much
 affected by the faint hum of a mosquito making its invisible and
@@ -436,7 +415,7 @@ is pursuing a descending and darkening way. After a partial cessation
 of his sensuous life, the soul of man, or its organs rather, are
 reinvigorated each day, and his Genius tries again what noble life it
 can make. All memorable events, I should say, transpire in morning time
-and in a morning atmosphere. The **Vedas** say, “All intelligences awake
+and in a morning atmosphere. The Vedas say, “All intelligences awake
 with the morning.” Poetry and art, and the fairest and most memorable
 of the actions of men, date from such an hour. All poets and heroes,
 like **Memnon**, are the children of Aurora, and emit their music at
@@ -472,7 +451,7 @@ only the essential facts of life, and see if I could not learn what it
 had to teach, and not, when I came to die, discover that I had not
 lived. I did not wish to live what was not life, living is so dear; nor
 did I wish to practise resignation, unless it was quite necessary. I
-wanted to live deep and suck out all the **marrow of life**, to live so
+wanted to live deep and suck out all the marrow of life, to live so
 sturdily and **Spartan-like** as to put to rout all that was not life, to
 cut a broad swath and shave close, to drive life into a corner, and
 reduce it to its lowest terms, and, if it proved to be mean, why then
@@ -509,7 +488,7 @@ heedless expense, by want of calculation and a worthy aim, as the
 million households in the land; and the only cure for it as for them is
 in a rigid economy, a stern and more than Spartan simplicity of life
 and elevation of purpose. It lives too fast. Men think that it is
-essential that the _Nation_ have commerce, and export ice, and talk
+essential that the _**Nation**_ have commerce, and export ice, and talk
 through a telegraph, and ride thirty miles an hour, without a doubt,
 whether _they_ do or not; but whether we should live like baboons or
 like men, is a little uncertain. If we do not get out sleepers, and
@@ -560,13 +539,13 @@ rudiment of an eye himself.
 For my part, I could easily do without the post-office. I think that
 there are very few important communications made through it. To speak
 critically, I never received more than one or two letters in my life—I
-wrote this some years ago—that were worth the postage. The penny-post
+wrote this some years ago—that were worth the postage. The **penny-post**
 is, commonly, an institution through which you seriously offer a man
 that penny for his thoughts which is so often safely offered in jest.
 And I am sure that I never read any memorable news in a newspaper. If
 we read of one man robbed, or murdered, or killed by accident, or one
 house burned, or one vessel wrecked, or one steamboat blown up, or one
-cow run over on the **Western Railroad**, or one mad dog killed, or one lot
+cow run over on the Western Railroad, or one mad dog killed, or one lot
 of grasshoppers in the winter,—we never need read of another. One is
 enough. If you are acquainted with the principle, what do you care for
 a myriad instances and applications? To a philosopher all _news_, as it
@@ -577,7 +556,7 @@ foreign news by the last arrival, that several large squares of plate
 glass belonging to the establishment were broken by the pressure,—news
 which I seriously think a ready wit might write a twelve-month, or
 twelve years, beforehand with sufficient accuracy. As for Spain, for
-instance, if you know how to throw in **Don Carlos** and the **Infanta**, and
+instance, if you know how to throw in **Don Carlos** and the Infanta, and
 Don Pedro and Seville and Granada, from time to time in the right
 proportions,—they may have changed the names a little since I saw the
 papers,—and serve up a bull-fight when other entertainments fail, it
@@ -593,7 +572,7 @@ revolution not excepted.
 
 What news! how much more important to know what that is which was never
 old! “Kieou-he-yu (great dignitary of the state of Wei) sent a man to
-**Khoung-tseu** to know his news. Khoung-tseu caused the messenger to be
+Khoung-tseu to know his news. Khoung-tseu caused the messenger to be
 seated near him, and questioned him in these terms: What is your master
 doing? The messenger answered with respect: My master desires to
 diminish the number of his faults, but he cannot come to the end of
@@ -629,7 +608,7 @@ misconception of his character was removed, and he knew himself to be a
 prince. So soul,” continues the Hindoo philosopher, “from the
 circumstances in which it is placed, mistakes its own character, until
 the truth is revealed to it by some holy teacher, and then it knows
-itself to be _**Brahme**_.” I perceive that we inhabitants of New England
+itself to be _Brahme_.” I perceive that we inhabitants of New England
 live this mean life that we do because our vision does not penetrate
 the surface of things. We think that that _is_ which _appears_ to be.
 If a man should walk through this town and see only the reality, where,
@@ -694,5 +673,5 @@ head is hands and feet. I feel all my best faculties concentrated in
 it. My instinct tells me that my head is an organ for burrowing, as
 some creatures use their snout and fore-paws, and with it I would mine
 and burrow my way through these hills. I think that the richest vein is
-somewhere hereabouts; so by the divining-rod and thin rising vapors I
+somewhere hereabouts; so by the **divining-rod** and thin rising vapors I
 judge; and here I will begin to mine.

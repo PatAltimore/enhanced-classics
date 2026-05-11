@@ -9,157 +9,108 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on the importance of exploring one's inner self rather than external adventures."
+  - point: "Thoreau reflects on the limitations of human perspective and the need to explore one's inner self."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
+  - point: "He contrasts the cosmopolitan nature of animals with human confinement to societal roles."
+    link: "https://en.wikipedia.org/wiki/Wild_goose"
+    link_label: "Wild goose"
+  - point: "Thoreau encourages readers to build their dreams and establish solid foundations for them."
+    link: "https://en.wikipedia.org/wiki/Castle_in_the_air"
+    link_label: "Castle in the air"
   - point: "He critiques societal conformity and urges individuals to follow their own paths."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism"
-  - point: "Thoreau discusses the metaphorical significance of building foundations under one's dreams."
+    link: "https://en.wikipedia.org/wiki/Individualism"
+    link_label: "Individualism"
+  - point: "Thoreau emphasizes the value of truth over material wealth or societal approval."
+    link: "https://en.wikipedia.org/wiki/Truth"
+    link_label: "Truth"
+  - point: "He concludes with a call for self-awareness and awakening to life's deeper possibilities."
     link: "https://en.wikipedia.org/wiki/Walden"
     link_label: "Walden"
-  - point: "He emphasizes the value of truth over wealth, fame, or societal approval."
-    link: "https://en.wikipedia.org/wiki/Philosophy_of_Truth"
-    link_label: "Philosophy of Truth"
-  - point: "Thoreau critiques government inefficiency and advocates for civil disobedience."
-    link: "https://en.wikipedia.org/wiki/Civil_disobedience"
-    link_label: "Civil disobedience"
-  - point: "He imagines an ideal state that respects individual autonomy and justice."
-    link: "https://en.wikipedia.org/wiki/Democracy"
-    link_label: "Democracy"
 
 enhancements:
-  - id: "change-of-air-and-scenery"
-    trigger: "change of air and scenery"
-    title: "Why Doctors Prescribed Travel for the Sick"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Health_tourism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/On_holiday_from_Newcastle_enjoying_the_air_and_scenery_-_geograph.org.uk_-_1088342.jpg/330px-On_holiday_from_Newcastle_enjoying_the_air_and_scenery_-_geograph.org.uk_-_1088342.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "On holiday from Newcastle enjoying the air and scenery One of a substantial herd being grazed on Moorlaws. (CC BY-SA 2.0)"
-    content: "Thoreau opens this chapter by noting that doctors often recommend a change of air and scenery to the sick. In the 19th century, this advice was rooted in the belief that fresh air and new environments could cure ailments ranging from tuberculosis to melancholy. Health tourism flourished during this time, with spas, seaside resorts, and mountain retreats becoming popular destinations. This idea reflected a broader cultural shift toward viewing nature as restorative and therapeutic. Thoreau uses this medical metaphor to suggest that individuals, sick or not, might benefit from escaping the confines of their routines and exploring broader horizons. For him, the ultimate 'change of scenery' is not physical but spiritual—a journey inward to discover one's true self."
-  - id: "the-mocking-bird"
+  - id: "mocking-bird-symbol-of-unattainable-beauty"
     trigger: "the mocking-bird"
-    title: "The Songbird That Symbolizes Southern Identity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Northern_mockingbird"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mockingbird_in_Bay_Ridge_%2885082%29.jpg/330px-Mockingbird_in_Bay_Ridge_%2885082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Northern mockingbird (Mimus polyglottos) adult on a fence post in Bay Ridge, Brooklyn (CC BY-SA 4.0)"
-    content: "Thoreau mentions the mockingbird, noting its rarity in New England. The northern mockingbird is celebrated for its ability to mimic other birds and sounds, earning it a prominent place in Southern culture and literature. In the antebellum South, the mockingbird became a symbol of regional pride, its song embodying the lush, complex identity of the region. By invoking this bird, Thoreau subtly contrasts the diversity and richness of nature with the monotony of human-made boundaries. The mockingbird’s absence in New England serves as a reminder of the limitations imposed by geography, while its mimicry suggests the broader theme of individuality versus conformity—a recurring motif in Thoreau's work."
-  - id: "cosmopolite"
-    trigger: "cosmopolite"
-    title: "How the Wild Goose Embodies Global Freedom"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cosmopolitanism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jacob_Young_Cosmopolite_2018_%28200632%29.jpg/330px-Jacob_Young_Cosmopolite_2018_%28200632%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Jacob Young Cosmopolite 2018 (200632) (CC BY-SA 4.0)"
-    content: "Thoreau contrasts the wild goose’s migratory lifestyle with human limitations, calling the bird a 'cosmopolite'—a citizen of the world. The term, rooted in philosophical traditions of cosmopolitanism, suggests a universal belonging that transcends borders and nations. Wild geese travel vast distances, crossing continents and climates without regard for human-imposed boundaries. This imagery supports Thoreau’s argument that humans, unlike geese, often confine themselves to narrow, artificial limits. By highlighting the goose’s freedom, Thoreau challenges readers to reconsider their own self-imposed restrictions and embrace a broader, more interconnected view of existence."
-  - id: "tierra-del-fuego"
-    trigger: "Tierra del Fuego"
-    title: "The Remote Archipelago That Fascinated Darwin"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tierra_del_Fuego"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NASA_Tierra_del_Fuego_image.jpg/330px-NASA_Tierra_del_Fuego_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "NASA Tierra del Fuego image (Public domain)"
-    content: "Thoreau invokes Tierra del Fuego as a symbol of distant, unexplored realms. Located at the southern tip of South America, this archipelago was famously visited by Charles Darwin during his voyage on the HMS Beagle. Darwin’s observations of its rugged landscapes and indigenous peoples profoundly influenced his theories of evolution. For Thoreau, Tierra del Fuego represents the allure of the unknown and the human desire to venture beyond familiar boundaries. Yet, he suggests that the true journey lies inward, exploring the uncharted territories of the self. By juxtaposing physical exploration with spiritual introspection, Thoreau underscores his belief in the limitless potential of individual discovery."
-  - id: "symmes-hole"
+    title: "Why This Bird Became a Symbol of Beauty"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mockingbird"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the mockingbird as a rare presence in New England, contrasting its absence with the abundance of nature elsewhere. The mockingbird, known for its ability to mimic other birds and sounds, has long been a symbol of unattainable beauty and freedom in American literature, famously appearing in works like 'To Kill a Mockingbird.' Its absence in New England serves as a metaphor for the limitations imposed by geography and society. By invoking this bird, Thoreau subtly underscores the theme of yearning for broader horizons and deeper connections with nature."
+  - id: "symmes-hole-the-mythical-entrance-to-earths-core"
     trigger: "Symmes’ Hole"
-    title: "The Hollow Earth Theory That Captivated America"
+    title: "The Mythical Hole That Fascinated Explorers"
     wikipedia_url: "https://en.wikipedia.org/wiki/Symmes_Hole"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Symmes_Hole.jpg/330px-Symmes_Hole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Symmes’s hole, as it would appear to a lunarian with a telescope. (Public domain)"
-    content: "Thoreau references 'Symmes’ Hole,' a 19th-century theory proposing that the Earth is hollow and accessible through openings at the poles. This idea, championed by John Cleves Symmes Jr., captured public imagination and even inspired expeditions to find these mythical entrances. While scientifically discredited, the theory reflects humanity’s fascination with hidden worlds and the desire to uncover deeper truths. Thoreau uses this metaphor to urge readers to dig beneath the surface of their own lives, exploring the 'private sea' within. The hollow Earth becomes a symbol for the unexplored depths of the human spirit—a call to transcend superficial understanding and seek profound self-awareness."
-  - id: "the-sphinx"
-    trigger: "the Sphinx"
-    title: "The Ancient Riddle That Still Challenges Humanity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sphinx"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sphinx_CdM_Paris_DeRidder865_n2.jpg/330px-Sphinx_CdM_Paris_DeRidder865_n2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Sphinx. Attic red-figure pyxis, 2nd half of the 5th century BC. From Nola (Italy). (CC BY 2.5)"
-    content: "Thoreau mentions the Sphinx, a mythical figure famous for posing riddles to travelers in Greek mythology. The most iconic riddle—'What walks on four legs in the morning, two at noon, and three in the evening?'—symbolizes the stages of human life. In ancient Egypt, the Sphinx also represented wisdom and mystery, guarding sacred spaces. Thoreau uses the Sphinx as a metaphor for life's unanswered questions and the challenge of self-discovery. By urging readers to 'cause the Sphinx to dash her head against a stone,' he advocates confronting and solving life’s mysteries through introspection and intellectual courage, rather than seeking answers externally."
-  - id: "kabir"
-    trigger: "Kabir"
-    title: "The Mystic Poet Who Bridged Religions"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Kabir"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kabir004.jpg/330px-Kabir004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Kabir with a disciple (Public domain)"
-    content: "Thoreau references Kabir, a 15th-century Indian poet and mystic whose works transcend religious boundaries. Kabir’s verses explore themes of unity, spirituality, and the divine within, appealing to both Hindu and Muslim audiences. His poetry often critiques organized religion, emphasizing personal experience and inner truth. Thoreau’s mention of Kabir aligns with his transcendentalist philosophy, which values individual insight over societal dogma. By invoking Kabir, Thoreau underscores the idea that profound truths often have multiple interpretations, challenging readers to seek deeper meaning beyond surface-level understanding. Kabir becomes a symbol of universal wisdom and the interconnectedness of human thought."
-  - id: "elizabethan-men"
-    trigger: "Elizabethan men"
-    title: "The Golden Age of English Literature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Elizabethan_era"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Queen_Elizabeth_I_by_George_Gower.jpg/330px-Queen_Elizabeth_I_by_George_Gower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Queen Elizabeth I by George Gower (Public domain)"
-    content: "Thoreau contrasts contemporary intellectual achievements with those of the Elizabethan era, a period marked by the flourishing of English literature and drama. Figures like Shakespeare, Marlowe, and Spenser created works that defined the cultural and artistic identity of England. Thoreau’s reference highlights the tendency to romanticize the past while undervaluing present potential. By invoking the Elizabethan men, he challenges readers to focus on their own creative and intellectual contributions, rather than dwelling on historical comparisons. The era serves as both a benchmark and a reminder that greatness is achievable in any age, provided individuals cultivate their unique talents."
-  - id: "seventeen-year-locust"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau references 'Symmes’ Hole,' a theory proposed by John Cleves Symmes Jr. suggesting that the Earth is hollow and accessible through openings at the poles. This idea captivated 19th-century explorers and writers, inspiring speculative fiction and adventurous expeditions. Thoreau uses it metaphorically to challenge readers to explore their inner depths rather than external mysteries. The invocation of Symmes’ Hole aligns with his broader call for introspection and the discovery of uncharted territories within the human spirit."
+  - id: "castles-in-the-air-dreams-worth-building"
+    trigger: "castles in the air"
+    title: "Why Dreams Belong in the Sky"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Castle_in_the_air"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau encourages readers to dream boldly, likening aspirations to 'castles in the air.' This phrase, originating from medieval imagery of unattainable structures, has come to symbolize ambitious goals. Thoreau’s twist is empowering: while castles in the air might seem ephemeral, they are precisely where dreams belong. He urges readers to build solid foundations beneath their castles, transforming lofty visions into achievable realities. This metaphor encapsulates his philosophy of living deliberately and pursuing one's ideals with confidence."
+  - id: "the-city-of-kouroo-a-tale-of-perfection"
+    trigger: "the city of Kouroo"
+    title: "The Fabled City Where Time Stands Still"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Kouroo"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts the story of an artist in the mythical city of Kouroo, who strives for perfection in crafting a staff. As the artist rejects compromise, time ceases to affect him, and civilizations rise and fall around him. This allegory, rooted in Hindu cosmology, illustrates the transformative power of unwavering dedication. Thoreau uses Kouroo to argue that true artistry and purpose transcend temporal concerns, aligning with his broader themes of timelessness and the pursuit of higher ideals."
+  - id: "the-wealth-of-croesus-riches-and-their-meaning"
+    trigger: "the wealth of Crœsus"
+    title: "What the Richest King Teaches About Poverty"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Croesus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau invokes Croesus, the ancient king of Lydia, renowned for his immense wealth, to highlight the futility of material riches. Croesus’s story, immortalized in Herodotus, serves as a cautionary tale about the transient nature of fortune and the dangers of hubris. Thoreau contrasts this with his philosophy of simplicity, suggesting that true wealth lies in the richness of experience and thought. By referencing Croesus, he critiques society’s obsession with accumulation and advocates for a life of deliberate minimalism."
+  - id: "tintinnabulum-the-sound-of-life-outside"
+    trigger: "tintinnabulum"
+    title: "The Curious Noise That Defines a Century"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tintinnabulum"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the word 'tintinnabulum' to describe the distant, indistinct noise of his contemporaries—a term derived from Latin, meaning 'a small bell.' This evocative choice captures the clamor of society, which he often critiques as trivial and disconnected from deeper truths. The tintinnabulum becomes a metaphor for the distractions of modern life, urging readers to tune out the noise and focus on the resonant, meaningful sounds of nature and introspection."
+  - id: "webster-the-orator-of-a-nation"
+    trigger: "Webster"
+    title: "The Man Who Defended the Constitution"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Daniel_Webster"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Daniel Webster, the famed American statesman and orator, as a symbol of prudence rather than wisdom. Webster, known for his eloquent defense of the Constitution, often prioritized political expediency over moral reform. Thoreau critiques this approach, contrasting it with his own call for radical individualism and ethical action. By referencing Webster, Thoreau underscores the limitations of conventional leadership and the need for deeper, transformative thinking in governance."
+  - id: "records-of-the-philosophical-societies-legacy-of-thought"
+    trigger: "Records of the Philosophical Societies"
+    title: "Do These Societies Still Matter Today?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophical_society"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau refers to the 'Records of the Philosophical Societies' to critique humanity’s self-congratulatory tendencies. These societies, dedicated to intellectual inquiry, often serve as repositories of human achievement. Yet Thoreau questions their relevance, suggesting that true progress lies not in preserving past accomplishments but in pursuing fresh, uncharted intellectual and moral territories. This reference encapsulates his challenge to complacency and his call for continuous exploration and growth."
+  - id: "the-seventeen-year-locust-a-cycle-of-rebirth"
     trigger: "seventeen-year locust"
-    title: "The Cicada That Keeps Time with Nature"
+    title: "The Bug That Waits a Lifetime to Emerge"
     wikipedia_url: "https://en.wikipedia.org/wiki/Periodical_cicada"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cicada_with_extensive_abdomen_fungus_2021-05-31_093621_1_crop.jpg/330px-Cicada_with_extensive_abdomen_fungus_2021-05-31_093621_1_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Cicada with extensive abdomen fungus 2021-05-31 093621 1 crop (CC BY 4.0)"
-    content: "Thoreau mentions the seventeen-year locust, referring to periodical cicadas that emerge from the ground in synchronized cycles. These insects are marvels of biological timing, spending years underground before surfacing en masse to reproduce. Their appearance often astonishes observers, symbolizing renewal and the hidden rhythms of nature. For Thoreau, the locust serves as a metaphor for humanity’s limited understanding of the natural world and its deeper cycles. He uses this image to critique superficial knowledge and urge readers to delve deeper into the mysteries of existence. The locust becomes a reminder of the patience and interconnectedness inherent in life’s processes."
-  - id: "the-british-empire"
-    trigger: "the British Empire"
-    title: "The Global Power That Shaped Modern History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/British_Empire"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/330px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The pre-1801 Union Flag (of w:United Kingdom of Great Britain). (Public domain)"
-    content: "Thoreau references the British Empire, the largest empire in history, which spanned continents and influenced global trade, politics, and culture. By the 19th century, it was often seen as a symbol of power and progress, but also of colonial exploitation and oppression. Thoreau uses the Empire as a metaphor for human ambition and the illusion of control, suggesting that even vast empires are subject to the tides of individual thought and natural forces. His critique aligns with his transcendentalist belief in the supremacy of the individual spirit over institutional power, urging readers to focus on inner growth rather than external domination."
-  - id: "standing-army"
-    trigger: "standing army"
-    title: "Why Permanent Armies Sparked Philosophical Debate"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Standing_army"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/330px-Gari-Melchers-War-Highsmith.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Gari-Melchers-War-Highsmith (Public domain)"
-    content: "Thoreau critiques the concept of a standing army, which was a contentious issue in both American and European political thought. Permanent armies were often seen as tools of oppression, enabling governments to enforce policies without the consent of the governed. Thoreau’s disdain for standing armies reflects his broader critique of centralized authority and its potential for abuse. He views them as symbols of conformity and the suppression of individual freedom. By opposing the standing army, Thoreau underscores the importance of personal conscience and moral action, advocating for a society guided by principles rather than force."
-  - id: "mexican-war"
-    trigger: "Mexican war"
-    title: "The Conflict That Divided America"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mexican-American_War_collage.png/330px-Mexican-American_War_collage.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Collection of pictures of the Mexican-American War. (CC BY-SA 4.0)"
-    content: "Thoreau references the Mexican-American War, a controversial conflict that expanded U.S. territory but deepened divisions over slavery and imperialism. The war was widely criticized by abolitionists and intellectuals, including Thoreau, who saw it as an unjust aggression fueled by greed. His opposition to the war led to his famous act of civil disobedience—refusing to pay his poll tax. By invoking the war, Thoreau challenges readers to consider the moral implications of their government’s actions and their own complicity. The Mexican-American War becomes a lens through which he explores themes of justice, resistance, and individual responsibility."
-  - id: "paley"
-    trigger: "Paley"
-    title: "The Philosopher Who Justified Expediency"
-    wikipedia_url: "https://en.wikipedia.org/wiki/William_Paley"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/William_Paley_by_George_Romney.jpg/330px-William_Paley_by_George_Romney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "William Paley by George Romney (Public domain)"
-    content: "Thoreau critiques William Paley, an English theologian and philosopher known for his defense of utilitarian ethics. Paley argued that civil obedience was justified as long as it served the greater good, emphasizing expediency over absolute morality. Thoreau rejects this view, asserting that individuals must prioritize justice and conscience, even at personal cost. By challenging Paley’s philosophy, Thoreau underscores his belief in higher laws that transcend societal norms. Paley’s utilitarianism serves as a foil to Thoreau’s transcendentalist ideals, highlighting the tension between pragmatic governance and moral integrity."
-  - id: "the-tax-gatherer"
-    trigger: "the tax-gatherer"
-    title: "The Face of Government in Everyday Life"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tax_collector"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Snarkfit5-incometax.svg/330px-Snarkfit5-incometax.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Snarkfit5-incometax (Public domain)"
-    content: "Thoreau describes his encounter with the tax-gatherer, the government’s representative who collects taxes from citizens. This figure symbolizes the tangible presence of authority and the point at which individuals confront their relationship with the state. Thoreau’s refusal to pay his poll tax was an act of civil disobedience against policies he deemed unjust, particularly slavery and the Mexican-American War. The tax-gatherer becomes a metaphor for the moral choices individuals face within societal systems. By defying this official, Thoreau illustrates his commitment to personal conscience over institutional compliance, urging readers to consider their own complicity in injustice."
-  - id: "the-fugitive-slave"
-    trigger: "the fugitive slave"
-    title: "The Human Cost of America’s Slave Laws"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Obverse of the Great Seal of the United States. (Public domain)"
-    content: "Thoreau references the fugitive slave, invoking the plight of individuals who escaped bondage only to face capture under the Fugitive Slave Act. This law, passed in 1850, required citizens to assist in the recovery of escaped slaves and penalized those who aided their freedom. Thoreau’s mention highlights the moral crisis faced by abolitionists and the broader American public. For Thoreau, the fugitive slave symbolizes the urgent need for resistance against unjust laws. By aligning himself with the oppressed, he challenges readers to consider their own roles in perpetuating or combating systemic injustice, emphasizing the power of individual action."
-  - id: "herodians"
-    trigger: "the Herodians"
-    title: "The Political Faction That Tested Jesus"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Herodians"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_Herods_of_the_Bible.svg/330px-The_Herods_of_the_Bible.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Schematic family tree showing members of the Herodian dynasty mentioned in the New Testament. (CC BY-SA 4.0)"
-    content: "Thoreau references the Herodians, a political group in ancient Judea known for their allegiance to Herod the Great and Roman authority. In the New Testament, they famously tried to trap Jesus with the question of whether it was lawful to pay taxes to Caesar. Jesus’ response, 'Render unto Caesar what is Caesar’s,' has been interpreted as a call to separate spiritual and civic duties. Thoreau uses this story to critique the conflation of morality and governance, urging readers to prioritize divine principles over societal demands. The Herodians serve as a historical example of the tension between individual conscience and institutional power."
-  - id: "the-chinese-philosopher"
-    trigger: "the Chinese philosopher"
-    title: "The Ancient Thinker Who Valued the Individual"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Confucius"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/330px-Confucius_Tang_Dynasty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The teaching Confucius. Portrait by Wu Daozi, 685-758, Tang Dynasty. (Public domain)"
-    content: "Thoreau invokes the wisdom of the Chinese philosopher, likely referring to Confucius, who emphasized the importance of individual virtue as the foundation of societal harmony. Confucian philosophy advocates self-cultivation and moral integrity as prerequisites for effective governance. Thoreau aligns this perspective with his own transcendentalist ideals, which prioritize personal conscience and self-reliance over institutional authority. By referencing Confucius, Thoreau underscores the universal relevance of individual empowerment and ethical living, suggesting that true progress begins with the recognition of each person’s intrinsic value and responsibility."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau invokes the seventeen-year locust, or periodical cicada, as a metaphor for humanity’s untapped potential. These insects, known for their extraordinary life cycle, spend years underground before emerging in a dramatic display of renewal. Thoreau uses this image to suggest that society, like the locust, harbors dormant possibilities waiting to surface. This metaphor aligns with his broader themes of patience, transformation, and the cyclical nature of life and progress."
+  - id: "the-new-testament-legislation-and-morality"
+    trigger: "the New Testament"
+    title: "Can Ancient Wisdom Guide Modern Laws?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/New_Testament"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau references the New Testament to highlight the gap between moral ideals and legislative practices. Despite its teachings on justice and compassion, he laments that modern lawmakers fail to incorporate its wisdom into governance. This invocation serves as a critique of superficial religiosity and a call for deeper ethical reflection in political systems. Thoreau’s use of the New Testament underscores his belief in the transformative power of moral principles over mere expediency."
 ---
-To the sick the doctors wisely recommend a **change of air and scenery**.
+To the sick the doctors wisely recommend a change of air and scenery.
 Thank Heaven, here is not all the world. The buck-eye does not grow in
 New England, and **the mocking-bird** is rarely heard here. The wild-goose
-is more of a **cosmopolite** than we; he breaks his fast in Canada, takes a
+is more of a cosmopolite than we; he breaks his fast in Canada, takes a
 luncheon in the Ohio, and plumes himself for the night in a southern
 bayou. Even the bison, to some extent, keeps pace with the seasons,
 cropping the pastures of the Colorado only till a greener and sweeter
 grass awaits him by the Yellowstone. Yet we think that if rail-fences
 are pulled down, and stone-walls piled up on our farms, bounds are
 henceforth set to our lives and our fates decided. If you are chosen
-town-clerk, forsooth, you cannot go to **Tierra del Fuego** this summer:
+town-clerk, forsooth, you cannot go to Tierra del Fuego this summer:
 but you may go to the land of infernal fire nevertheless. The universe
 is wider than our views of it.
 
@@ -219,7 +170,7 @@ on this private sea; but no bark from them has ventured out of sight of
 land, though it is without doubt the direct way to India. If you would
 learn to speak all tongues and conform to the customs of all nations,
 if you would travel farther than all travellers, be naturalized in all
-climes, and cause **the Sphinx** to dash her head against a stone, even
+climes, and cause the Sphinx to dash her head against a stone, even
 obey the precept of the old philosopher, and Explore thyself. Herein
 are demanded the eye and the nerve. Only the defeated and deserters go
 to the wars, cowards that run away and enlist. Start now on that
@@ -268,7 +219,7 @@ interpreted in his favor in a more liberal sense, and he will live with
 the license of a higher order of beings. In proportion as he simplifies
 his life, the laws of the universe will appear less complex, and
 solitude will not be solitude, nor poverty poverty, nor weakness
-weakness. If you have built castles in the air, your work need not be
+weakness. If you have built **castles in the air**, your work need not be
 lost; that is where they should be. Now put the foundations under them.
 
 It is a ridiculous demand which England and America make, that you
@@ -305,7 +256,7 @@ they express by snoring. Sometimes we are inclined to class those who
 are once-and-a-half-witted with the half-witted, because we appreciate
 only a third part of their wit. Some would find fault with the
 morning-red, if they ever got up early enough. “They pretend,” as I
-hear, “that the verses of **Kabir** have four different senses; illusion,
+hear, “that the verses of Kabir have four different senses; illusion,
 spirit, intellect, and the exoteric doctrine of the Vedas;” but in this
 part of the world it is considered a ground for complaint if a man’s
 writings admit of more than one interpretation. While England endeavors
@@ -322,7 +273,7 @@ like the azure ether beyond.
 
 Some are dinning in our ears that we Americans, and moderns generally,
 are intellectual dwarfs compared with the ancients, or even the
-**Elizabethan men**. But what is that to the purpose? A living dog is
+Elizabethan men. But what is that to the purpose? A living dog is
 better than a dead lion. Shall a man go and hang himself because he
 belongs to the race of pygmies, and not be the biggest pygmy that he
 can? Let every one mind his own business, and endeavor to be what he
@@ -340,7 +291,7 @@ heaven of blue glass over ourselves, though when it is done we shall be
 sure to gaze still at the true ethereal heaven far above, as if the
 former were not?
 
-There was an artist in the city of Kouroo who was disposed to strive
+There was an artist in **the city of Kouroo** who was disposed to strive
 after perfection. One day it came into his mind to make a staff. Having
 considered that in an imperfect work time is an ingredient, but into a
 perfect work time does not enter, he said to himself, It shall be
@@ -411,8 +362,8 @@ Do not seek so anxiously to be developed, to subject yourself to many
 influences to be played on; it is all dissipation. Humility like
 darkness reveals the heavenly lights. The shadows of poverty and
 meanness gather around us, “and lo! creation widens to our view.” We
-are often reminded that if there were bestowed on us the wealth of
-Crœsus, our aims must still be the same, and our means essentially the
+are often reminded that if there were bestowed on us **the wealth of
+Crœsus**, our aims must still be the same, and our means essentially the
 same. Moreover, if you are restricted in your range by poverty, if you
 cannot buy books and newspapers, for instance, you are but confined to
 the most significant and vital experiences; you are compelled to deal
@@ -424,7 +375,7 @@ required to buy one necessary of the soul.
 
 I live in the angle of a leaden wall, into whose composition was poured
 a little alloy of bell metal. Often, in the repose of my mid-day, there
-reaches my ears a confused _tintinnabulum_ from without. It is the
+reaches my ears a confused _**tintinnabulum**_ from without. It is the
 noise of my contemporaries. My neighbors tell me of their adventures
 with famous gentlemen and ladies, what notabilities they met at the
 dinner-table; but I am no more interested in such things than in the
@@ -439,7 +390,7 @@ walk even with the Builder of the universe, if I may,—not to live in
 this restless, nervous, bustling, trivial Nineteenth Century, but stand
 or sit thoughtfully while it goes by. What are men celebrating? They
 are all on a committee of arrangements, and hourly expect a speech from
-somebody. God is only the president of the day, and Webster is his
+somebody. God is only the president of the day, and **Webster** is his
 orator. I love to weigh, to settle, to gravitate toward that which most
 strongly and rightfully attracts me;—not hang by the beam of the scale
 and try to weigh less,—not suppose a case, but take the case that is;
@@ -486,7 +437,7 @@ self-complacency of mankind. This generation inclines a little to
 congratulate itself on being the last of an illustrious line; and in
 Boston and London and Paris and Rome, thinking of its long descent, it
 speaks of its progress in art and science and literature with
-satisfaction. There are the Records of the Philosophical Societies, and
+satisfaction. There are the **Records of the Philosophical Societies**, and
 the public Eulogies of _Great Men!_ It is the good Adam contemplating
 his own virtue. “Yes, we have done great deeds, and sung divine songs,
 which shall never die,”—that is, as long as _we_ can remember them. The
@@ -494,7 +445,7 @@ learned societies and great men of Assyria,—where are they? What
 youthful philosophers and experimentalists we are! There is not one of
 my readers who has yet lived a whole human life. These may be but the
 spring months in the life of the race. If we have had the seven-years’
-itch, we have not seen the **seventeen-year locust** yet in Concord. We are
+itch, we have not **seen** the seventeen-year locust yet in Concord. We are
 acquainted with a mere pellicle of the globe on which we live. Most
 have not delved six feet beneath the surface, nor leaped as many above
 it. We know not where we are. Beside, we are sound asleep nearly half
@@ -512,7 +463,7 @@ tolerate incredible dulness. I need only suggest what kind of sermons
 are still listened to in the most enlightened countries. There are such
 words as joy and sorrow, but they are only the burden of a psalm, sung
 with a nasal twang, while we believe in the ordinary and mean. We think
-that we can change our clothes only. It is said that **the British Empire**
+that we can change our clothes only. It is said that the British Empire
 is very large and respectable, and that the United States are a
 first-rate power. We do not believe that a tide rises and falls behind
 every man which can float the British Empire like a chip, if he should
@@ -563,7 +514,7 @@ believe—“That government is best which governs not at all;” and when
 men are prepared for it, that will be the kind of government which they
 will have. Government is at best but an expedient; but most governments
 are usually, and all governments are sometimes, inexpedient. The
-objections which have been brought against a **standing army**, and they
+objections which have been brought against a standing army, and they
 are many and weighty, and deserve to prevail, may also at last be
 brought against a standing government. The standing army is only an arm
 of the standing government. The government itself, which is only the
@@ -620,7 +571,7 @@ conscience, then? I think that we should be men first, and subjects
 afterward. It is not desirable to cultivate a respect for the law, so
 much as for the right. The only obligation which I have a right to
 assume, is to do at any time what I think right. It is truly enough
-said that a corporation has no conscience; but a corporation of
+said that **a corporation has no conscience**; but a corporation of
 conscientious men is a corporation _with_ a conscience. Law never made
 men a whit more just; and, by means of their respect for it, even the
 well-disposed are daily made the agents of injustice. A common and
@@ -631,7 +582,7 @@ against their wills, aye, against their common sense and consciences,
 which makes it very steep marching indeed, and produces a palpitation
 of the heart. They have no doubt that it is a damnable business in
 which they are concerned; they are all peaceably inclined. Now, what
-are they? Men at all? or small movable forts and magazines, at the
+are they? Men at all? or small **movable forts and magazines**, at the
 service of some unscrupulous man in power? Visit the Navy Yard, and
 behold a marine, such a man as an American government can make, or such
 as it can make a man with its black arts, a mere shadow and
@@ -760,7 +711,7 @@ it. It is only expressing to men feebly your desire that it should
 prevail. A wise man will not leave the right to the mercy of chance,
 nor wish it to prevail through the power of the majority. There is but
 little virtue in the action of masses of men. When the majority shall
-at length vote for the abolition of slavery, it will be because they
+at length vote for the **abolition of slavery**, it will be because they
 are indifferent to slavery, or because there is but little slavery left
 to be abolished by their vote. _They_ will then be the only slaves.
 Only _his_ vote can hasten the abolition of slavery who asserts his own
@@ -826,7 +777,7 @@ government, yield to it their allegiance and support, are undoubtedly
 its most conscientious supporters, and so frequently the most serious
 obstacles to reform. Some are petitioning the State to dissolve the
 Union, to disregard the requisitions of the President. Why do they not
-dissolve it themselves,—the union between themselves and the State,—and
+dissolve it themselves,—**the union between themselves and the State**,—and
 refuse to pay their quota into its treasury? Do not they stand in same
 relation to the State, that the State does to the Union? And have not
 the same reasons prevented the State from resisting the Union, which
@@ -856,7 +807,7 @@ it worse. Why is it not more apt to anticipate and provide for reform?
 Why does it not cherish its wise minority? Why does it cry and resist
 before it is hurt? Why does it not encourage its citizens to be on the
 alert to point out its faults, and _do_ better than it would have them?
-Why does it always crucify Christ, and excommunicate Copernicus and
+Why does it always **crucify Christ**, and excommunicate Copernicus and
 Luther, and pronounce Washington and Franklin rebels?
 
 One would think, that a deliberate and practical denial of its
@@ -942,7 +893,7 @@ just man is also a prison. The proper place today, the only place which
 Massachusetts has provided for her freer and less desponding spirits,
 is in her prisons, to be put out and locked out of the State by her own
 act, as they have already put themselves out by their principles. It is
-there that **the fugitive slave**, and the Mexican prisoner on parole, and
+there that the fugitive slave, and the Mexican prisoner on parole, and
 the Indian come to plead the wrongs of his race, should find them; on
 that separate, but more free and honorable ground, where the State
 places those who are not _with_ her but _against_ her,—the only house
@@ -960,7 +911,7 @@ slavery, the State will not hesitate which to choose. If a thousand men
 were not to pay their tax-bills this year, that would not be a violent
 and bloody measure, as it would be to pay them, and enable the State to
 commit violence and shed innocent blood. This is, in fact, the
-definition of a peaceable revolution, if any such is possible. If the
+definition of a **peaceable revolution**, if any such is possible. If the
 tax-gatherer, or any other public officer, asks me, as one has done,
 “But what shall I do?” my answer is, “If you really wish to do any
 thing, resign your office.” When the subject has refused allegiance,
@@ -989,7 +940,7 @@ it. Thus his moral ground is taken from under his feet. The
 opportunities of living are diminished in proportion as what are called
 the “means” are increased. The best thing a man can do for his culture
 when he is rich is to endeavor to carry out those schemes which he
-entertained when he was poor. Christ answered **the Herodians** according
+entertained when he was poor. Christ answered the Herodians according
 to their condition. “Show me the tribute-money,” said he;—and one took
 a penny out of his pocket;—if you use money which has the image of
 Cæsar on it, and which he has made current and valuable, that is, _if
@@ -1015,8 +966,8 @@ would be sure to go again. You must hire or squat somewhere, and raise
 but a small crop, and eat that soon. You must live within yourself, and
 depend upon yourself, always tucked up and ready for a start, and not
 have many affairs. A man may grow rich in Turkey even, if he will be in
-all respects a good subject of the Turkish government. Confucius
-said,—“If a State is governed by the principles of reason, poverty and
+all respects a good subject of the Turkish government. **Confucius
+said**,—“If a State is governed by the principles of reason, poverty and
 misery are subjects of shame; if a State is not governed by the
 principles of reason, riches and honors are the subjects of shame.” No:
 until I want the protection of Massachusetts to be extended to me in
@@ -1048,7 +999,7 @@ known how to name them, I should then have signed off in detail from
 all the societies which I never signed on to; but I did not know where
 to find such a complete list.
 
-I have paid no poll-tax for six years. I was put into a jail once on
+I have paid no **poll-tax** for six years. I was put into a jail once on
 this account, for one night; and, as I stood considering the walls of
 solid stone, two or three feet thick, the door of wood and iron, a foot
 thick, and the iron grating which strained the light, I could not help
@@ -1190,7 +1141,7 @@ conduct; and in half an hour,—for the horse was soon tackled,—was in
 the midst of a huckleberry field, on one of our highest hills, two
 miles off; and then the State was nowhere to be seen.
 
-This is the whole history of “My Prisons.”
+This is the whole history of “**My Prisons**.”
 
 
 
@@ -1253,8 +1204,8 @@ I do not wish to quarrel with any man or nation. I do not wish to split
 hairs, to make fine distinctions, or set myself up as better than my
 neighbors. I seek rather, I may say, even an excuse for conforming to
 the laws of the land. I am but too ready to conform to them. Indeed I
-have reason to suspect myself on this head; and each year, as the
-tax-gatherer comes round, I find myself disposed to review the acts and
+have reason to suspect myself on this head; and each year, as **the
+tax-gatherer comes round**, I find myself disposed to review the acts and
 position of the general and state governments, and the spirit of the
 people to discover a pretext for conformity.
 
@@ -1350,8 +1301,8 @@ manufactures and agriculture. If we were left solely to the wordy wit
 of legislators in Congress for our guidance, uncorrected by the
 seasonable experience and the effectual complaints of the people,
 America would not long retain her rank among the nations. For eighteen
-hundred years, though perchance I have no right to say it, the New
-Testament has been written; yet where is the legislator who has wisdom
+hundred years, though perchance I have no right to say it, **the New
+Testament** has been written; yet where is the legislator who has wisdom
 and practical talent enough to avail himself of the light which it
 sheds on the science of legislation.
 
@@ -1362,7 +1313,7 @@ still an impure one: to be strictly just, it must have the sanction and
 consent of the governed. It can have no pure right over my person and
 property but what I concede to it. The progress from an absolute to a
 limited monarchy, from a limited monarchy to a democracy, is a progress
-toward a true respect for the individual. Even **the Chinese philosopher**
+toward a true respect for the individual. Even the Chinese philosopher
 was wise enough to regard the individual as the basis of the empire. Is
 a democracy, such as we know it, the last improvement possible in
 government? Is it not possible to take a step further towards

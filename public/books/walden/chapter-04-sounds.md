@@ -9,190 +9,138 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau contrasts the limitations of written language with the universal language of nature and experience."
-    link: "https://en.wikipedia.org/wiki/Walden"
-    link_label: "Walden"
-  - point: "He reflects on his summer spent hoeing beans and embracing solitude rather than reading books."
+  - point: "Thoreau contrasts the language of books with the universal language of nature and events."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "The chapter explores the sounds of nature and human activity, including birds, trains, and bells."
+  - point: "He reflects on the importance of living in the present moment and avoiding distractions."
+    link: "https://en.wikipedia.org/wiki/Mindfulness"
+    link_label: "Mindfulness"
+  - point: "Thoreau describes his solitary life at Walden Pond, emphasizing simplicity and connection to nature."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "He observes the transformative power of commerce and railroads in shaping society."
+    link: "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    link_label: "Industrial Revolution"
+  - point: "Thoreau marvels at the sounds of nature, from whippoorwills to bullfrogs, as a symphony of life."
     link: "https://en.wikipedia.org/wiki/Natural_history"
     link_label: "Natural history"
-  - point: "Thoreau observes the transformative impact of railroads on society and the environment."
-    link: "https://en.wikipedia.org/wiki/History_of_rail_transport_in_the_United_States"
-    link_label: "History of rail transport"
-  - point: "He reflects on the harmony between nature and his minimalist lifestyle at Walden Pond."
-    link: "https://en.wikipedia.org/wiki/Transcendentalism"
-    link_label: "Transcendentalism"
-  - point: "Thoreau describes the sounds of animals and nature as a profound form of music and communication."
-    link: "https://en.wikipedia.org/wiki/Bioacoustics"
-    link_label: "Bioacoustics"
+  - point: "He celebrates the wildness of nature encroaching on his home, rejecting conventional domesticity."
+    link: "https://en.wikipedia.org/wiki/Wilderness"
+    link_label: "Wilderness"
 
 enhancements:
-  - id: "orientals-contemplation-and-forsaking-works"
-    trigger: "the Orientals mean by contemplation"
-    title: "What Eastern Philosophy Reveals About Stillness"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_philosophy"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eastern_Philosophy.jpg/330px-Eastern_Philosophy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Eastern Philosophy Orthodox and Heterodox schools (CC BY-SA 4.0)"
-    content: "Thoreau reflects on moments of quiet reverie, likening them to the Eastern concept of contemplation and the renunciation of action. This reference points to traditions like Hindu and Buddhist meditation, where stillness is not idleness but a profound engagement with existence. In Eastern philosophy, contemplation is often associated with practices that transcend the ego and connect the individual to the universal. Thoreau’s embrace of solitude and his rejection of the relentless pursuit of productivity mirror these ideals. By invoking the Orientals, Thoreau aligns his philosophy of simple living with ancient wisdom, suggesting that true fulfillment lies in being present rather than in the accumulation of achievements."
-  - id: "puri-indians-and-their-concept-of-time"
-    trigger: "Puri Indians"
-    title: "A People Without Past, Present, or Future?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Puri_people"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Rugendas_-_Puri.jpg/330px-Rugendas_-_Puri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Puris, acima, e camacans, abaixo (litogravura, 22,3 x 19,5 cm) (Public domain)"
-    content: "Thoreau marvels at the Puri Indians' unique linguistic approach to time, where yesterday, today, and tomorrow are expressed with a single word, differentiated only by gestures. The Puri people, an Indigenous group of Brazil, lived in harmony with nature, their worldview emphasizing the fluidity of time rather than its segmentation. This perspective challenges Western notions of linear time and productivity, aligning instead with Thoreau’s ideal of living in the present moment. By referencing the Puri Indians, Thoreau underscores his belief that modern society’s obsession with schedules and clocks detracts from a deeper connection to the rhythms of nature and life itself."
-  - id: "life-everlasting-under-the-table"
-    trigger: "life-everlasting grows under the table"
-    title: "The Healing Plant Hidden Beneath Thoreau’s Table"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pseudognaphalium_obtusifolium"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pseudognaphalium_obtusifolium_003.JPG/330px-Pseudognaphalium_obtusifolium_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Pseudognaphalium obtusifolium, Asteraceae, Rabbit-Tobacco, infrutescences with and without fruits. (CC BY-SA 3.0)"
-    content: "Thoreau notices life-everlasting, a plant growing beneath his table, as part of the natural world encroaching on his minimalist dwelling. Known scientifically as Pseudognaphalium obtusifolium, life-everlasting is a medicinal herb traditionally used by Indigenous peoples for its soothing properties. Its presence in Thoreau’s yard symbolizes the seamless integration of nature into his daily life, where even mundane objects like tables are intertwined with the living landscape. This moment encapsulates Thoreau’s philosophy of finding beauty and meaning in the ordinary, and his belief that nature’s abundance is always within reach for those who take the time to observe."
-  - id: "cerasus-pumila-and-its-delicate-flowers"
-    trigger: "Cerasus pumila"
-    title: "The Cherry Shrub That Adorns Thoreau’s Path"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Prunus_pumila"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Prunus_pumila%2C_South_Ste._Marys_Island.JPG/330px-Prunus_pumila%2C_South_Ste._Marys_Island.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Prunus pumila (sand cherry) in late July, South Ste. Mary's Island, Sault Ste. Marie, Ontario. (Public domain)"
-    content: "Thoreau describes the sand-cherry, or Cerasus pumila, which decorates the path to Walden Pond with its delicate flowers and wreath-like stems. Native to North America, this low-growing shrub produces small cherries that, while not particularly palatable, were historically used by Indigenous peoples for food and medicine. Thoreau’s attention to this humble plant reflects his appreciation for nature’s subtle beauty and his commitment to living in harmony with his environment. By tasting the cherries, he pays homage to the natural world, demonstrating his belief that even the simplest elements of nature deserve recognition and respect."
-  - id: "rhus-glabra-sumach-and-its-tropical-leaves"
-    trigger: "Rhus glabra"
-    title: "The Sumach’s Surprising Role in Thoreau’s Landscape"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rhus_glabra"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rhus_glabra_AR.jpg/330px-Rhus_glabra_AR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Species from North America
-Common name: Smooth Sumac
-
-Photographed in Boyle Park, Little Rock, Pulaski County, Arkansas (CC BY-SA 4.0)"
-    content: "Thoreau observes the luxuriant growth of Rhus glabra, or smooth sumach, around his house. This native shrub, with its tropical-looking pinnate leaves and crimson berries, is a striking feature of the New England landscape. Historically, sumach has been used for dyeing, tanning leather, and even as a spice in Middle Eastern cuisine. Thoreau’s description of its rapid growth and fragile limbs mirrors his own reflections on the vitality and vulnerability of life. The sumach’s presence in his yard becomes a metaphor for the interplay between strength and fragility, a theme central to his philosophy of living deliberately."
-  - id: "fitchburg-railroad-and-its-link-to-society"
-    trigger: "Fitchburg Railroad"
-    title: "The Railroad That Connected Thoreau’s Solitude to Society"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fitchburg_Locomotive%2C_No.212%2C_Keene_New_Hampshire_%284506125494%29.jpg/330px-Fitchburg_Locomotive%2C_No.212%2C_Keene_New_Hampshire_%284506125494%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Fitchburg Locomotive, No.212, Keene New Hampshire (4506125494) (No restrictions)"
-    content: "Thoreau mentions the Fitchburg Railroad, which runs near Walden Pond, as a symbol of industrial progress and a link to society. Established in the mid-19th century, this railroad connected Boston to Fitchburg, facilitating trade and communication. For Thoreau, the railroad represents both the encroachment of modernity and the inevitability of human interconnectedness. His mixed feelings about the railroad reflect the tension between his desire for solitude and his acknowledgment of society’s influence. The trains become a metaphor for the relentless pace of progress, challenging Thoreau’s ideals of simplicity and deliberate living."
-  - id: "whistle-of-the-locomotive"
-    trigger: "whistle of the locomotive"
-    title: "The Haunting Cry of Progress in the Woods"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Locomotive"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/R761-mx1.jpg/330px-R761-mx1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "R761 at Newport Workshops (CC BY-SA 4.0)"
-    content: "Thoreau describes the whistle of the locomotive piercing the quiet of his woods, likening it to the scream of a hawk. This sound symbolizes the intrusion of industrialization into the natural world, a theme central to Thoreau’s critique of modern society. Locomotives were marvels of engineering in the 19th century, representing both technological advancement and environmental disruption. For Thoreau, the whistle serves as a reminder of the restless energy of commerce and the sacrifices made for progress. It challenges the reader to consider the cost of industrialization and its impact on the tranquility of nature."
-  - id: "cloud-compeller-and-the-mythological-train"
-    trigger: "cloud-compeller"
-    title: "The Mythical Power of the Steam Engine"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Steam_engine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg/330px-Steam_locomotive_gear_%28J%C5%BD_06-018%3B_Slovenia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "JŽ 06-018 steam locomotive gear, museum steam locomotive, Central station Ljubljana, Slovenia (CC BY-SA 4.0)"
-    content: "Thoreau poetically refers to the locomotive as a 'cloud-compeller,' evoking images of mythological gods commanding the skies. The steam engine, a cornerstone of the Industrial Revolution, transformed transportation and commerce, embodying humanity’s ability to harness natural forces. Thoreau’s metaphor highlights the awe-inspiring yet unsettling power of this technology. By likening the locomotive to a demigod, he underscores its dual nature: a force of creation and destruction. This imagery invites readers to reflect on the ethical implications of technological progress and its compatibility with the natural world."
-  - id: "iron-horse-and-its-thunderous-motion"
-    trigger: "iron horse"
-    title: "The Fiery Beast That Changed the Landscape Forever"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Iron_horse"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Stephenson%27s_Rocket.jpg/330px-Stephenson%27s_Rocket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Stephenson's Rocket at the Science Museum, London. (CC BY-SA 3.0)"
-    content: "Thoreau vividly describes the locomotive as an 'iron horse,' shaking the earth with its thunderous motion. This term, popularized in the 19th century, captures the transformative impact of railroads on the American landscape. The iron horse symbolizes both progress and disruption, embodying humanity’s power to reshape the world. Thoreau’s depiction emphasizes the locomotive’s mythical qualities, likening it to a winged horse or fiery dragon. This imagery challenges readers to consider the balance between technological innovation and the preservation of nature, a tension that remains relevant today."
-  - id: "atropos-and-the-railroad-fate"
-    trigger: "Atropos"
-    title: "The Greek Fate That Guides Thoreau’s Train"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Atropos"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Paphos_Haus_des_Theseus_-_Mosaik_Achilles_3c_Atropos.jpg/330px-Paphos_Haus_des_Theseus_-_Mosaik_Achilles_3c_Atropos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Paphos Archaeological Park. House of Theseus: Mosaic of the bath of Achilles - Atropos ( detail ). (CC BY-SA 3.0)"
-    content: "Thoreau whimsically names the locomotive 'Atropos,' one of the three Fates in Greek mythology responsible for cutting the thread of life. This metaphor underscores the railroad’s inexorable power, dictating the rhythms of society with precision and finality. Atropos, as the embodiment of fate, highlights the inevitability of industrial progress and its impact on human lives. Thoreau’s choice of name invites readers to reflect on the deterministic nature of technological advancement and its role in shaping the modern world. The locomotive becomes a symbol of destiny, challenging individuals to navigate their own paths amidst the forces of progress."
-  - id: "sons-of-tell-and-punctuality"
-    trigger: "sons of Tell"
-    title: "What William Tell Teaches About Precision and Freedom"
-    wikipedia_url: "https://en.wikipedia.org/wiki/William_Tell"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Landesmuseum_Z%C3%BCrich_2010-09-20_14-38-14_ShiftN.jpg/330px-Landesmuseum_Z%C3%BCrich_2010-09-20_14-38-14_ShiftN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Landesmuseum Zürich 2010-09-20 14-38-14 ShiftN (CC BY-SA 3.0)"
-    content: "Thoreau invokes the legendary Swiss hero William Tell to describe the punctuality fostered by railroads. Tell, known for his marksmanship and defiance of tyranny, symbolizes precision and independence. Thoreau’s reference suggests that the discipline imposed by the railroad mirrors Tell’s unwavering focus. However, it also raises questions about whether such precision enhances or restricts individual freedom. By likening railroad punctuality to Tell’s legendary aim, Thoreau invites readers to consider the balance between order and autonomy in a society increasingly shaped by technology."
-  - id: "manilla-hemp-and-coconut-husks"
-    trigger: "Manilla hemp and cocoa-nut husks"
-    title: "Exotic Cargo That Connects Walden to the World"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Abac%C3%A1"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/The_fireside_university_of_modern_invention%2C_discovery%2C_industry_and_art_for_home_circle_study_and_entertainment_%281902%29_%2814592839629%29.jpg/330px-The_fireside_university_of_modern_invention%2C_discovery%2C_industry_and_art_for_home_circle_study_and_entertainment_%281902%29_%2814592839629%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The fireside university of modern invention, discovery, industry and art for home circle study and entertainment (1902) (14592839629) (No restrictions)"
-    content: "Thoreau observes the freight train carrying Manilla hemp and coconut husks, materials from tropical regions far removed from Walden Pond. Manilla hemp, derived from the abacá plant, was prized for its strength and used in ropes and paper. Coconut husks, meanwhile, were processed into coir for mats and brushes. These goods symbolize the global reach of commerce, connecting Thoreau’s secluded retreat to distant lands. This moment highlights the interconnectedness of the world, challenging the reader to consider the implications of globalization and the balance between local simplicity and global complexity."
-  - id: "thomaston-lime-and-its-journey"
-    trigger: "Thomaston lime"
-    title: "The Stone That Built New England’s Future"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Thomaston,_Maine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Thomaston_Maine_March_2013.jpg/330px-Thomaston_Maine_March_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A view of downtown Thomaston, Maine as seen on March 26, 2013. (CC BY-SA 3.0)"
-    content: "Thoreau mentions Thomaston lime, a product of Maine’s limestone quarries, as part of the freight train’s cargo. Lime was a crucial material in construction, used for mortar and plaster, and its production shaped the economy of towns like Thomaston. Thoreau’s observation of lime traveling through the countryside reflects his fascination with the movement of goods and the transformation of raw materials into structures that define human civilization. This moment invites readers to reflect on the connection between nature’s resources and the built environment, and the ways in which commerce reshapes landscapes and communities."
-  - id: "grand-banks-and-the-fisheries"
-    trigger: "Grand Banks"
-    title: "The Legendary Fishing Grounds That Fed a Nation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Grand_Banks_of_Newfoundland"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Grand_Banks.png/330px-Grand_Banks.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Grand Banks (CC BY 2.5)"
-    content: "Thoreau references the Grand Banks, the rich fishing grounds off Newfoundland that were central to the New England economy. These waters, teeming with cod and other fish, supported generations of fishermen and shaped the maritime culture of the region. Thoreau’s mention of salt fish, cured for transport, evokes the resilience and resourcefulness of those who worked these waters. This connection between Walden Pond and the distant ocean highlights the interplay between local and global economies, and the ways in which natural resources sustain human communities across vast distances."
-  - id: "spanish-hides-and-their-obstinacy"
-    trigger: "Spanish hides"
-    title: "The Twisted Tails That Tell a Story"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Leather"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leathertools.jpg/330px-Leathertools.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Leathertools (Public domain)"
-    content: "Thoreau observes Spanish hides among the freight train’s cargo, noting their twisted tails as symbols of obstinacy. These hides, sourced from cattle raised on the pampas of South America, were used in leather production. Thoreau’s reflection on their stubborn form becomes a metaphor for the unchangeable nature of certain human traits. This moment illustrates his ability to find meaning in the mundane, transforming a simple observation into a philosophical meditation on character and resilience. The hides, like the people who wear them, carry stories of endurance and adaptation."
-  - id: "cuttingsville-times-and-local-trade"
-    trigger: "Cuttingsville Times"
-    title: "The Newspaper That Captured Vermont’s Commerce"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Newspaper"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NYTimes-Page1-11-11-1918.jpg/330px-NYTimes-Page1-11-11-1918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Armistice Day page from the New York Times (Public domain)"
-    content: "Thoreau humorously mentions the Cuttingsville Times, a fictional newspaper advertising local trade. This detail underscores the interconnectedness of rural communities and the broader economy. Newspapers in the 19th century were vital for disseminating information about goods, prices, and events, shaping local commerce and culture. Thoreau’s playful inclusion of the Cuttingsville Times highlights his awareness of the ways in which media influences society, even in the most remote areas. It invites readers to consider the role of communication in fostering connections and sustaining economies."
-  - id: "peterboro-hills-and-the-stampede"
-    trigger: "Peterboro’ Hills"
-    title: "Where the Dogs Lost Their Way"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Peterborough,_New_Hampshire"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Peterborough_Town_House.jpg/330px-Peterborough_Town_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Peterborough, New Hampshire Town House (Public domain)"
-    content: "Thoreau imagines the stampeding cattle train leaving dogs stranded in the Peterboro’ Hills, a region in New Hampshire. This vivid image captures the chaos and disruption caused by industrial progress, as traditional ways of life are left behind. Peterborough, known for its natural beauty, contrasts with the mechanical force of the train. Thoreau’s depiction invites readers to reflect on the impact of technology on rural landscapes and the creatures that inhabit them. The hills become a symbol of resilience and adaptation in the face of change."
-  - id: "usnea-lichens-and-their-dismal-dawn"
-    trigger: "usnea lichens"
-    title: "The Ghostly Drapes of the Twilight Swamp"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Usnea"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Usnea_cavernosa_-_Flickr_-_pellaea.jpg/330px-Usnea_cavernosa_-_Flickr_-_pellaea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Trail from Willow Creek Horse Camp to Harney Peak, Black Hills, South Dakota, 20110708 (CC BY 2.0)"
-    content: "Thoreau describes the swamp at twilight, where usnea lichens hang from spruce trees like ghostly drapes. Usnea, or beard lichens, are symbiotic organisms composed of fungi and algae, thriving in damp, shaded environments. Their eerie appearance contributes to the swamp’s otherworldly atmosphere, evoking themes of decay and renewal. Thoreau’s attention to these lichens reflects his fascination with nature’s overlooked details, and their role in ecosystems as indicators of air quality. The swamp, adorned with usnea, becomes a metaphor for the hidden richness of life in seemingly desolate places."
-  - id: "bullfrogs-and-their-stygian-catch"
-    trigger: "bullfrogs"
-    title: "The Ancient Revelers of Walden Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Bullfrog"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/North-American-bullfrog1.jpg/330px-North-American-bullfrog1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "North American bullfrog (Rana catesbeiana) (CC BY-SA 2.5)"
-    content: "Thoreau humorously likens the bullfrogs of Walden Pond to ancient wine-bibbers, croaking their catch in a Stygian lake. Bullfrogs, the largest frogs in North America, are known for their deep, resonant calls that dominate summer nights. Thoreau’s playful description transforms their chorus into a ritualistic celebration, connecting the frogs to mythological imagery and human revelry. This moment illustrates his ability to find humor and meaning in the natural world, and his belief that even the simplest creatures contribute to the symphony of life. The bullfrogs become symbols of endurance and communal spirit."
-  - id: "wild-indian-pheasant-and-its-song"
-    trigger: "wild Indian pheasant"
-    title: "The Bird That Could Awaken Nations"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Red_junglefowl"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Red_jungle_fowl.png/330px-Red_jungle_fowl.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Red Jungle fowl at Jim Corbett National Park, India (CC BY-SA 3.0)"
-    content: "Thoreau imagines the wild Indian pheasant, or red junglefowl, crowing in its native woods, its song surpassing all others. This bird, the ancestor of domesticated chickens, is celebrated for its clear, shrill call that resonates across distances. Thoreau’s romanticized vision of its crowing reflects his longing for a connection to untamed nature and his belief in the invigorating power of sound. The pheasant’s call becomes a metaphor for awakening, inspiring individuals to rise early and embrace life with vitality. Its presence in the woods symbolizes the harmony between humanity and the natural world."
-  - id: "chanticleer-and-his-indigenous-spirit"
-    trigger: "Chanticleer"
-    title: "The Rooster That Rules Over Poetry and Farms"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Chanticleer"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gpo_exchange_burlington.jpg/330px-Gpo_exchange_burlington.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The GPO exchange at the Central Government War Headquarters aka \"Burlington\" (CC BY-SA 3.0)"
-    content: "Thoreau celebrates Chanticleer, the rooster whose clarion call is immortalized in literature and folklore. Chanticleer, a character in Chaucer’s 'The Canterbury Tales,' embodies vitality and vigilance. Thoreau’s admiration for the rooster’s song reflects his appreciation for the rhythms of nature and their ability to inspire human activity. By imagining Chanticleer crowing in the woods, Thoreau connects the domestic to the wild, suggesting that even the most familiar sounds can awaken a deeper connection to life. The rooster becomes a symbol of health, wisdom, and the universal appeal of nature’s music."
-  - id: "laughing-loon-and-its-haunting-call"
-    trigger: "laughing loon"
-    title: "The Bird Whose Call Echoes Across Walden Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Common_loon"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg/330px-Gavia_immer_-Minocqua%2C_Wisconsin%2C_USA_-swimming-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A Great Northern Loon (also known as the Great Northern Diver and the Common Loon) in Minocqua, Wisconsin, USA. (CC BY 2.0)"
-    content: "Thoreau mentions the laughing loon, whose haunting call reverberates across Walden Pond. The common loon, known for its eerie, melodic cries, is a symbol of wilderness and solitude. Its laughter-like calls can evoke both joy and melancholy, mirroring the duality of Thoreau’s reflections on nature. The loon’s presence at Walden Pond underscores the harmony between Thoreau’s minimalist lifestyle and the untamed beauty of his surroundings. Its call becomes a metaphor for the profound and often paradoxical emotions inspired by the natural world."
-  - id: "pitch-pines-rubbing-and-creaking"
-    trigger: "pitch pines rubbing and creaking"
-    title: "The Trees That Whispered Against Thoreau’s House"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pitch_pine"
+  - id: "bloom-of-the-present-moment"
+    trigger: "the bloom of the present moment"
+    title: "Why Thoreau Refused to Sacrifice the Present"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Carpe_diem"
     image_url: ""
     image_caption: ""
-    content: "Thoreau describes pitch pines rubbing and creaking against his house, their roots reaching under the foundation. Pitch pines, native to the eastern United States, are hardy trees that thrive in poor soil. Their resilience mirrors Thoreau’s own philosophy of enduring simplicity. The trees’ physical encroachment on his dwelling symbolizes the intimate relationship between human habitation and the natural world. This moment reflects Thoreau’s belief that nature is not separate from daily life but an integral part of it, shaping and being shaped by human existence."
+    content: "Thoreau writes, 'There were times when I could not afford to sacrifice the bloom of the present moment to any work.' This phrase captures his philosophy of living fully in the now, a stance that defied the productivity-driven norms of his era. The idea of 'carpe diem,' or seizing the day, has ancient roots in Horace's poetry but gained new resonance in the Romantic era, when thinkers like Thoreau championed the immediacy of experience over abstract planning. What makes Thoreau's take unique is his insistence that even mundane moments—like sitting in a doorway watching the sun—contain profound value. By refusing to trade these moments for labor, he challenges the reader to reconsider what constitutes a meaningful life. In Walden, this ethos is not just a personal choice but a critique of a society obsessed with progress and accumulation."
+  - id: "puri-indians"
+    trigger: "the Puri Indians"
+    title: "A Tribe With No Words for Time"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Puri_people"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau invokes the Puri Indians, noting their linguistic simplicity: 'For yesterday, today, and tomorrow they have only one word.' This observation aligns with his rejection of rigid schedules and clocks. The Puri people, indigenous to Brazil, were known for their minimalistic language and harmonious relationship with nature. Anthropologists have noted that such linguistic structures reflect a worldview where time is cyclical rather than linear—a stark contrast to Western notions of progress. By referencing the Puri, Thoreau underscores his argument that modern life, with its obsession over hours and minutes, alienates us from the natural rhythms of existence. In Walden, this serves as a call to embrace a timeless, unhurried way of living."
+  - id: "life-everlasting-grows-under-the-table"
+    trigger: "life-everlasting grows under the table"
+    title: "The Plant That Symbolized Immortality"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pearly_eternal"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes life-everlasting growing under his table, a detail that seems mundane but carries symbolic weight. Life-everlasting, or Anaphalis margaritacea, is a hardy perennial known for its silvery-white flowers that retain their shape long after drying. Indigenous peoples used the plant medicinally, and its name evokes themes of endurance and immortality. For Thoreau, the presence of this plant beneath his table is not just a botanical observation but a metaphor for the enduring vitality of nature, even in the humblest settings. It reflects his belief that the simplest elements of life hold profound truths, a recurring theme in Walden."
+  - id: "fitchburg-railroad"
+    trigger: "Fitchburg Railroad"
+    title: "The Railroad That Linked Thoreau to Society"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fitchburg_Railroad"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the Fitchburg Railroad, which passed near Walden Pond, as a symbol of industrial progress. Built in the mid-19th century, this railroad connected Boston to Fitchburg, Massachusetts, facilitating commerce and travel. For Thoreau, the railroad was both a marvel and a critique of modernity. He admired its efficiency but lamented the way it disrupted natural landscapes and imposed artificial rhythms on life. In Walden, the railroad serves as a metaphor for the tension between technological advancement and the preservation of nature—a theme that resonates deeply in today's debates about development and sustainability."
+  - id: "iron-horse"
+    trigger: "iron horse"
+    title: "How the Locomotive Became a Mythic Beast"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Steam_locomotive"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the locomotive as an 'iron horse,' likening it to a mythical creature. This metaphor captures the awe and fear inspired by steam engines during the Industrial Revolution. The term 'iron horse' became popular in the 19th century, symbolizing the power and speed of this new technology. Thoreau's vivid imagery—of the engine snorting like thunder and breathing fire—reflects both admiration and unease. He imagines it as a modern Pegasus or dragon, embodying humanity's ability to harness nature but also its potential for destruction. In Walden, this duality mirrors Thoreau's ambivalence toward progress, urging readers to consider the ethical implications of innovation."
+  - id: "fire-steed"
+    trigger: "the fire-steed"
+    title: "The Fiery Symbol of Industrial Relentlessness"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Steam_locomotive"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau calls the locomotive a 'fire-steed,' emphasizing its relentless energy and transformative power. This phrase evokes the image of a mythical creature, tirelessly plowing through snow and ice to connect distant places. Steam locomotives were a cornerstone of the Industrial Revolution, revolutionizing transportation and commerce. Yet Thoreau's description also carries a critique: the fire-steed's unceasing motion mirrors humanity's restless pursuit of progress, often at the expense of nature and contemplation. In Walden, this metaphor challenges readers to question whether such relentless enterprise truly serves noble ends or merely perpetuates a cycle of consumption."
+  - id: "dismal-swamp"
+    trigger: "the Dismal Swamp"
+    title: "A Real Swamp That Inspired Literary Legends"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Great_Dismal_Swamp"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the Dismal Swamp as a setting where trains pass through, scaring owls and foxes. The Great Dismal Swamp, located in Virginia and North Carolina, has a storied history as a refuge for escaped enslaved people and a symbol of untamed wilderness. Its name evokes mystery and melancholy, making it a frequent subject in American literature. By referencing this swamp, Thoreau connects the industrial intrusion of railroads with the loss of untouched natural spaces. In Walden, this serves as a poignant reminder of the costs of progress, urging readers to consider what is sacrificed in the name of convenience."
+  - id: "great-snow"
+    trigger: "the Great Snow"
+    title: "The Blizzard That Tested New England's Resolve"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Blizzard"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau refers to 'the Great Snow,' a phrase that conjures images of harsh New England winters. Snowstorms in this region were notorious for their severity, often isolating communities and testing their resilience. For Thoreau, the snow becomes a backdrop for human enterprise, as he marvels at the courage of railroad workers braving the elements. This juxtaposition highlights the interplay between nature's power and human determination. In Walden, the Great Snow symbolizes both the challenges of living close to nature and the ingenuity required to overcome them, reinforcing Thoreau's themes of self-reliance and adaptability."
+  - id: "thomaston-lime"
+    trigger: "Thomaston lime"
+    title: "The Maine Town That Built America’s Foundations"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Thomaston,_Maine"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Thomaston lime, a product from Thomaston, Maine, known for its high-quality limestone. This material was essential for construction during the 19th century, used in everything from buildings to agricultural soil treatment. Thomaston became a hub for lime production, with its quarries shaping the town's economy and identity. For Thoreau, the lime represents the interconnectedness of rural industry and urban development, as raw materials from nature are transformed into the infrastructure of civilization. In Walden, this detail underscores the complex relationship between natural resources and human enterprise, inviting readers to reflect on the origins of the materials that shape their world."
+  - id: "cuttingsville-vermont"
+    trigger: "Cuttingsville, Vermont"
+    title: "The Tiny Town That Linked Rural Life to Trade"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cuttingsville,_Vermont"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Cuttingsville, Vermont, as a destination for goods transported by rail. This small village exemplifies the way railroads connected isolated rural communities to broader markets during the 19th century. Cuttingsville's economy relied on trade, with local merchants importing goods for farmers and exporting regional products. For Thoreau, the town symbolizes the transformative power of commerce, which brings distant places into contact but also homogenizes local cultures. In Walden, Cuttingsville serves as a microcosm of the industrial age, illustrating both the benefits and drawbacks of progress in reshaping the American landscape."
+  - id: "cattle-train"
+    trigger: "the cattle-train"
+    title: "The Rolling Pasture That Changed Farming Forever"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Stock_train"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the cattle-train as a pastoral valley in motion, filled with bleating calves and sheep. Stock trains revolutionized agriculture by enabling farmers to transport livestock over long distances quickly and efficiently. This innovation reduced costs and expanded markets, but it also marked a shift from traditional farming to industrialized agriculture. Thoreau's poetic imagery contrasts the idyllic life of shepherds with the mechanical efficiency of trains, highlighting the loss of intimacy and connection to nature. In Walden, the cattle-train becomes a symbol of the tension between progress and tradition, urging readers to consider what is gained and lost in the march of modernization."
+  - id: "trump-of-bullfrogs"
+    trigger: "the trump of bullfrogs"
+    title: "The Amphibian Choir That Serenaded Thoreau"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bullfrog"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the 'trump of bullfrogs' as a raucous yet harmonious sound emanating from Walden Pond. Bullfrogs, known for their deep, resonant calls, are native to North America and thrive in wetlands. Their vocalizations serve both as mating calls and territorial warnings, creating a natural symphony that Thoreau likens to ancient revelry. By anthropomorphizing the frogs as 'wassailers,' he imbues their sounds with a sense of communal celebration. In Walden, the bullfrogs' chorus becomes a metaphor for the vitality and interconnectedness of life, reminding readers that even the smallest creatures contribute to the richness of the natural world."
+  - id: "wild-indian-pheasant"
+    trigger: "wild Indian pheasant"
+    title: "The Exotic Bird That Inspired Chanticleer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Red_junglefowl"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau refers to the 'wild Indian pheasant,' a poetic name for the red junglefowl, the ancestor of domestic chickens. Native to South Asia, this bird's crowing inspired the figure of Chanticleer in literature and became a symbol of dawn and vitality. Thoreau imagines its call echoing through New England woods, a sound so stirring it could awaken nations. By invoking this bird, he contrasts the wildness of nature with the domestication of animals, highlighting his preference for untamed beauty. In Walden, the wild Indian pheasant serves as a reminder of the primal energy that civilization often suppresses, urging readers to reconnect with their roots."
+  - id: "wild-sumachs"
+    trigger: "wild sumachs"
+    title: "The Hardy Shrub That Thrived at Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sumac"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions wild sumachs breaking into his cellar, a vivid image of nature reclaiming human spaces. Sumacs are resilient shrubs native to North America, known for their vibrant red foliage and clusters of berries. Indigenous peoples used sumac for medicinal purposes and as a spice, while its hardy growth made it a symbol of persistence. For Thoreau, the encroachment of wild sumachs represents the untamed vitality of nature, defying human attempts at control. In Walden, this detail underscores his theme of coexistence with the natural world, suggesting that true harmony lies in embracing, not resisting, nature's wildness."
+  - id: "usnea-lichens"
+    trigger: "usnea lichens"
+    title: "The Mysterious 'Old Man's Beard' of the Forest"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Usnea"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes usnea lichens hanging from spruce trees in a swamp, adding to the eerie atmosphere. Known as 'old man's beard,' usnea is a type of lichen that thrives in moist, shaded environments. It has been used in traditional medicine for its antibacterial properties and is an indicator of air quality due to its sensitivity to pollution. For Thoreau, the presence of usnea in the swamp symbolizes the untouched, primordial aspects of nature. In Walden, this detail enriches his portrayal of the wilderness as a place of mystery and vitality, inviting readers to appreciate the intricate beauty of even the smallest organisms."
+  - id: "whippoorwills"
+    trigger: "the whippoorwills"
+    title: "The Night Birds That Sang by Thoreau's Door"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Whip-poor-will"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes whippoorwills chanting their vespers with clock-like precision. These nocturnal birds, native to North America, are known for their haunting, repetitive calls, which often evoke solitude and mystery. Their name mimics their song, making them a favorite subject in folklore and poetry. Thoreau's close observation of their habits reflects his deep connection to the rhythms of nature. In Walden, the whippoorwills symbolize the quiet beauty of the night and the meditative stillness that Thoreau sought in his retreat, reminding readers of the richness found in moments of solitude."
 ---
 But while we are confined to books, though the most select and classic,
 and read only particular written languages, which are themselves but
@@ -210,7 +158,7 @@ you, and walk on into futurity.
 
 I did not read books the first summer; I hoed beans. Nay, I often did
 better than this. There were times when I could not afford to sacrifice
-the bloom of the present moment to any work, whether of the head or
+**the bloom of the present moment** to any work, whether of the head or
 hands. I love a broad margin to my life. Sometimes, in a summer
 morning, having taken my accustomed bath, I sat in my sunny doorway
 from sunrise till noon, rapt in a revery, amidst the pines and
@@ -221,7 +169,7 @@ wagon on the distant highway, I was reminded of the lapse of time. I
 grew in those seasons like corn in the night, and they were far better
 than any work of the hands would have been. They were not time
 subtracted from my life, but so much over and above my usual allowance.
-I realized what **the Orientals mean by contemplation** and the forsaking
+I realized what the Orientals mean by contemplation and the forsaking
 of works. For the most part, I minded not how the hours went. The day
 advanced as if to light some work of mine; it was morning, and lo, now
 it is evening, and nothing memorable is accomplished. Instead of
@@ -230,7 +178,7 @@ As the sparrow had its trill, sitting on the hickory before my door, so
 had I my chuckle or suppressed warble which he might hear out of my
 nest. My days were not days of the week, bearing the stamp of any
 heathen deity, nor were they minced into hours and fretted by the
-ticking of a clock; for I lived like the **Puri Indians**, of whom it is
+ticking of a clock; for I lived like **the Puri Indians**, of whom it is
 said that “for yesterday, to-day, and to-morrow they have only one
 word, and they express the variety of meaning by pointing backward for
 yesterday, forward for to-morrow, and overhead for the passing day.”
@@ -275,12 +223,12 @@ hickories, and half a dozen rods from the pond, to which a narrow
 footpath led down the hill. In my front yard grew the strawberry,
 blackberry, and life-everlasting, johnswort and goldenrod, shrub-oaks
 and sand-cherry, blueberry and groundnut. Near the end of May, the
-sand-cherry (_**Cerasus pumila**_,) adorned the sides of the path with its
+sand-cherry (_Cerasus pumila_,) adorned the sides of the path with its
 delicate flowers arranged in umbels cylindrically about its short
 stems, which last, in the fall, weighed down with good sized and
 handsome cherries, fell over in wreaths like rays on every side. I
 tasted them out of compliment to Nature, though they were scarcely
-palatable. The sumach (_**Rhus glabra**_,) grew luxuriantly about the
+palatable. The sumach (_Rhus glabra_,) grew luxuriantly about the
 house, pushing up through the embankment which I had made, and growing
 five or six feet the first season. Its broad pinnate tropical leaf was
 pleasant though strange to look on. The large buds, suddenly pushing
@@ -325,7 +273,7 @@ old acquaintance, they pass me so often, and apparently they take me
 for an employee; and so I am. I too would fain be a track-repairer
 somewhere in the orbit of the earth.
 
-The **whistle of the locomotive** penetrates my woods summer and winter,
+The whistle of the locomotive penetrates my woods summer and winter,
 sounding like the scream of a hawk sailing over some farmer’s yard,
 informing me that many restless city merchants are arriving within the
 circle of the town, or adventurous country traders from the other side.
@@ -349,7 +297,7 @@ since its orbit does not look like a returning curve,—with its steam
 cloud like a banner streaming behind in golden and silver wreaths, like
 many a downy cloud which I have seen, high in the heavens, unfolding
 its masses to the light,—as if this travelling demigod, this
-**cloud-compeller**, would ere long take the sunset sky for the livery of
+cloud-compeller, would ere long take the sunset sky for the livery of
 his train; when I hear the **iron horse** make the hills echo with his
 snort like thunder, shaking the earth with his feet, and breathing fire
 and smoke from his nostrils, (what kind of winged horse or fiery dragon
@@ -375,7 +323,7 @@ as it is early! If the snow lies deep, they strap on his snow-shoes,
 and with the giant plow, plow a furrow from the mountains to the
 seaboard, in which the cars, like a following drill-barrow, sprinkle
 all the restless men and floating merchandise in the country for seed.
-All day the fire-steed flies over the country, stopping only that his
+All day **the fire-steed** flies over the country, stopping only that his
 master may rest, and I am awakened by his tramp and defiant snort at
 midnight, when in some remote glen in the woods he fronts the elements
 incased in ice and snow; and he will reach his stall only with the
@@ -389,7 +337,7 @@ Far through unfrequented woods on the confines of towns, where once
 only the hunter penetrated by day, in the darkest night dart these
 bright saloons without the knowledge of their inhabitants; this moment
 stopping at some brilliant station-house in town or city, where a
-social crowd is gathered, the next in the Dismal Swamp, scaring the owl
+social crowd is gathered, the next in **the Dismal Swamp**, scaring the owl
 and fox. The startings and arrivals of the cars are now the epochs in
 the village day. They go and come with such regularity and precision,
 and their whistle can be heard so far, that the farmers set their
@@ -404,12 +352,12 @@ conveyance, are on hand when the bell rings. To do things “railroad
 fashion” is now the by-word; and it is worth the while to be warned so
 often and so sincerely by any power to get off its track. There is no
 stopping to read the riot act, no firing over the heads of the mob, in
-this case. We have constructed a fate, an _**Atropos**_, that never turns
+this case. We have constructed a fate, an _Atropos_, that never turns
 aside. (Let that be the name of your engine.) Men are advertised that
 at a certain hour and minute these bolts will be shot toward particular
 points of the compass; yet it interferes with no man’s business, and
 the children go to school on the other track. We live the steadier for
-it. We are all educated thus to be **sons of Tell**. The air is full of
+it. We are all educated thus to be sons of Tell. The air is full of
 invisible bolts. Every path but your own is the path of fate. Keep on
 your own track, then.
 
@@ -424,14 +372,14 @@ their winter quarters; who have not merely the three-o’-clock in the
 morning courage, which Bonaparte thought was the rarest, but whose
 courage does not go to rest so early, who go to sleep only when the
 storm sleeps or the sinews of their iron steed are frozen. On this
-morning of the Great Snow, perchance, which is still raging and
+morning of **the Great Snow**, perchance, which is still raging and
 chilling men’s blood, I hear the muffled tone of their engine bell from
 out the fog bank of their chilled breath, which announces that the cars
 _are coming_, without long delay, notwithstanding the veto of a New
 England north-east snow storm, and I behold the ploughmen covered with
 snow and rime, their heads peering, above the mould-board which is
 turning down other than daisies and the nests of field-mice, like
-bowlders of the **Sierra Nevada**, that occupy an outside place in the
+bowlders of the Sierra Nevada, that occupy an outside place in the
 universe.
 
 Commerce is unexpectedly confident and serene, alert, adventurous, and
@@ -443,7 +391,7 @@ all the way from Long Wharf to Lake Champlain, reminding me of foreign
 parts, of coral reefs, and Indian oceans, and tropical climes, and the
 extent of the globe. I feel more like a citizen of the world at the
 sight of the palm-leaf which will cover so many flaxen New England
-heads the next summer, the **Manilla hemp** and cocoa-nut husks, the old
+heads the next summer, the Manilla hemp and cocoa-nut husks, the old
 junk, gunny bags, scrap iron, and rusty nails. This car-load of torn
 sails is more legible and interesting now than if they should be
 wrought into paper and printed books. Who can write so graphically the
@@ -463,7 +411,7 @@ from all quarters both of fashion and poverty, going to become paper of
 one color or a few shades only, on which forsooth will be written tales
 of real life, high and low, and founded on fact! This closed car smells
 of salt fish, the strong New England and commercial scent, reminding me
-of the **Grand Banks** and the fisheries. Who has not seen a salt fish,
+of the Grand Banks and the fisheries. Who has not seen a salt fish,
 thoroughly cured for this world, so that nothing can spoil it, and
 putting the perseverance of the saints to the blush? with which you may
 sweep or pave the streets, and split your kindlings, and the teamster
@@ -473,7 +421,7 @@ sign when he commences business, until at last his oldest customer
 cannot tell surely whether it be animal, vegetable, or mineral, and yet
 it shall be as pure as a snowflake, and if it be put into a pot and
 boiled, will come out an excellent dun fish for a Saturday’s dinner.
-Next **Spanish hides**, with the tails still preserving their twist and the
+Next Spanish hides, with the tails still preserving their twist and the
 angle of elevation they had when the oxen that wore them were careering
 over the pampas of the Spanish main,—a type of all obstinacy, and
 evincing how almost hopeless and incurable are all constitutional
@@ -486,13 +434,13 @@ natural form.” The only effectual cure for such inveteracies as these
 tails exhibit is to make glue of them, which I believe is what is
 usually done with them, and then they will stay put and stick. Here is
 a hogshead of molasses or of brandy directed to John Smith,
-Cuttingsville, Vermont, some trader among the Green Mountains, who
+**Cuttingsville, Vermont**, some trader among the Green Mountains, who
 imports for the farmers near his clearing, and now perchance stands
 over his bulk-head and thinks of the last arrivals on the coast, how
 they may affect the price for him, telling his customers this moment,
 as he has told them twenty times before this morning, that he expects
 some by the next train of prime quality. It is advertised in the
-**Cuttingsville Times**.
+Cuttingsville Times.
 
 While these things go up other things come down. Warned by the whizzing
 sound, I look up from my book and see some tall pine, hewn on far
@@ -503,7 +451,7 @@ minutes, and scarce another eye beholds it; going
      “to be the mast
      Of some great ammiral.”
 
-And hark! here comes the cattle-train bearing the cattle of a thousand
+And hark! here comes **the cattle-train** bearing the cattle of a thousand
 hills, sheepcots, stables, and cow-yards in the air, drovers with their
 sticks, and shepherd boys in the midst of their flocks, all but the
 mountain pastures, whirled along like leaves blown from the mountains
@@ -515,7 +463,7 @@ car-load of drovers, too, in the midst, on a level with their droves
 now, their vocation gone, but still clinging to their useless sticks as
 their badge of office. But their dogs, where are they? It is a stampede
 to them; they are quite thrown out; they have lost the scent. Methinks
-I hear them barking behind the **Peterboro’ Hills**, or panting up the
+I hear them barking behind the Peterboro’ Hills, or panting up the
 western slope of the Green Mountains. They will not be in at the death.
 Their vocation, too, is gone. Their fidelity and sagacity are below par
 now. They will slink back to their kennels in disgrace, or perchance
@@ -548,8 +496,8 @@ it were, natural melody, worth importing into the wilderness. At a
 sufficient distance over the woods this sound acquires a certain
 vibratory hum, as if the pine needles in the horizon were the strings
 of a harp which it swept. All sound heard at the greatest possible
-distance produces one and the same effect, a vibration of the universal
-lyre, just as the intervening atmosphere makes a distant ridge of earth
+distance produces one and the same effect, a vibration of **the universal
+lyre**, just as the intervening atmosphere makes a distant ridge of earth
 interesting to our eyes by the azure tint it imparts to it. There came
 to me in this case a melody which the air had strained, and which had
 conversed with every leaf and needle of the wood, that portion of the
@@ -570,7 +518,7 @@ was akin to the music of the cow, and they were at length one
 articulation of Nature.
 
 Regularly at half past seven, in one part of the summer, after the
-evening train had gone by, the whippoorwills chanted their vespers for
+evening train had gone by, **the whippoorwills** chanted their vespers for
 half an hour, sitting on a stump by my door, or upon the ridge pole of
 the house. They would begin to sing almost with as much precision as a
 clock, within five minutes of a particular time, referred to the
@@ -603,7 +551,7 @@ been bor-r-r-r-n!_ sighs one on this side of the pond, and circles with
 the restlessness of despair to some new perch on the gray oaks.
 Then—_that I never had been bor-r-r-r-n!_ echoes another on the farther
 side with tremulous sincerity, and—_bor-r-r-r-n!_ comes faintly from
-far in the **Lincoln woods**.
+far in the Lincoln woods.
 
 I was also serenaded by a hooting owl. Near at hand you could fancy it
 the most melancholy sound in Nature, as if she meant by this to
@@ -614,7 +562,7 @@ made more awful by a certain gurgling melodiousness,—I find myself
 beginning with the letters gl when I try to imitate it,—expressive of a
 mind which has reached the gelatinous mildewy stage in the
 mortification of all healthy and courageous thought. It reminded me of
-**ghouls and idiots** and insane howlings. But now one answers from far
+ghouls and idiots and insane howlings. But now one answers from far
 woods in a strain made really melodious by distance,—_Hoo hoo hoo,
 hoorer hoo_; and indeed for the most part it suggested only pleasing
 associations, whether heard by day or night, summer or winter.
@@ -633,8 +581,8 @@ creatures awakes to express the meaning of Nature there.
 Late in the evening I heard the distant rumbling of wagons over
 bridges,—a sound heard farther than almost any other at night,—the
 baying of dogs, and sometimes again the lowing of some disconsolate cow
-in a distant barn-yard. In the mean while all the shore rang with the
-trump of **bullfrogs**, the sturdy spirits of ancient wine-bibbers and
+in a distant barn-yard. In the mean while all the shore rang with **the
+trump of bullfrogs**, the sturdy spirits of ancient wine-bibbers and
 wassailers, still unrepentant, trying to sing a catch in their Stygian
 lake,—if the Walden nymphs will pardon the comparison, for though there
 are almost no weeds, there are frogs there,—who would fain keep up the
@@ -674,7 +622,7 @@ put nations on the alert. Who would not be early to rise, and rise
 earlier and earlier every successive day of his life, till he became
 unspeakably healthy, wealthy, and wise? This foreign bird’s note is
 celebrated by the poets of all countries along with the notes of their
-native songsters. All climates agree with brave **Chanticleer**. He is more
+native songsters. All climates agree with brave Chanticleer. He is more
 indigenous even than the natives. His health is ever good, his lungs
 are sound, his spirits never flag. Even the sailor on the Atlantic and
 Pacific is awakened by his voice; but its shrill sound never roused me
@@ -687,13 +635,13 @@ this. Not even rats in the wall, for they were starved out, or rather
 were never baited in,—only squirrels on the roof and under the floor, a
 whippoorwill on the ridge pole, a blue-jay screaming beneath the
 window, a hare or woodchuck under the house, a screech-owl or a cat-owl
-behind it, a flock of wild geese or a **laughing loon** on the pond, and a
+behind it, a flock of wild geese or a laughing loon on the pond, and a
 fox to bark in the night. Not even a lark or an oriole, those mild
 plantation birds, ever visited my clearing. No cockerels to crow nor
 hens to cackle in the yard. No yard! but unfenced Nature reaching up to
-your very sills. A young forest growing up under your meadows, and wild
-sumachs and blackberry vines breaking through into your cellar; sturdy
-**pitch pines rubbing and creaking** against the shingles for want of room,
+your very sills. A young forest growing up under your meadows, and **wild
+sumachs** and blackberry vines breaking through into your cellar; sturdy
+pitch pines rubbing and creaking against the shingles for want of room,
 their roots reaching quite under the house. Instead of a scuttle or a
 blind blown off in the gale,—a pine tree snapped off or torn up by the
 roots behind your house for fuel. Instead of no path to the front-yard

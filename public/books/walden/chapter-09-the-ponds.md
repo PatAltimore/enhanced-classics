@@ -9,136 +9,173 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau describes his solitary excursions to Fair Haven Hill, where he enjoys huckleberries and blueberries."
-    link: "https://en.wikipedia.org/wiki/Fair_Haven_Pond"
-    link_label: "Fair Haven Hill"
-  - point: "Thoreau reflects on the philosophy of fishing with an older companion who hums psalms."
-    link: "https://en.wikipedia.org/wiki/Cenobite"
-    link_label: "ancient sect of Cœnobites"
-  - point: "Thoreau recounts stirring echoes on the pond, likening the sound to a keeper rousing wild beasts."
-    link: "https://en.wikipedia.org/wiki/Menagerie"
-    link_label: "keeper of a menagerie"
-  - point: "Thoreau marvels at the color and clarity of Walden Pond, comparing its hues to vitreous greenish blue."
-    link: "https://en.wikipedia.org/wiki/Color"
-    link_label: "vitreous greenish blue"
-  - point: "Thoreau imagines Walden Pond as a Castalian Fountain, suggesting its connection to ancient myth and literature."
-    link: "https://en.wikipedia.org/wiki/Castalian_Spring"
-    link_label: "Castalian Fountain"
-  - point: "Thoreau recounts the local legend of an Indian pow-wow at Flint’s Pond, which supposedly sank into the earth."
-    link: "https://en.wikipedia.org/wiki/Pow_wow"
-    link_label: "pow-wow upon a hill"
+  - point: "Thoreau reflects on the purity and depth of Walden Pond, describing its unique characteristics and its connection to nature."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "He recounts his experiences fishing and observing wildlife, emphasizing the harmony between humans and the natural world."
+    link: "https://en.wikipedia.org/wiki/Fishing"
+    link_label: "Fishing"
+  - point: "Thoreau explores the seasonal changes of Walden Pond, including its rise and fall and its impact on the surrounding flora."
+    link: "https://en.wikipedia.org/wiki/Lake_ecology"
+    link_label: "Lake ecology"
+  - point: "He contrasts Walden Pond with other nearby bodies of water, such as Flint's Pond and White Pond, highlighting their differences in purity and character."
+    link: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
+    link_label: "Concord, Massachusetts"
+  - point: "Thoreau laments the encroachment of human activity, such as woodcutting and railroads, on the natural beauty of Walden Pond."
+    link: "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    link_label: "Industrial Revolution"
+  - point: "He poetically describes Walden Pond as a 'Lake of Light,' emphasizing its spiritual and aesthetic significance."
+    link: "https://en.wikipedia.org/wiki/Transcendentalism"
+    link_label: "Transcendentalism"
 
 enhancements:
   - id: "fair-haven-hill"
     trigger: "Fair Haven Hill"
-    title: "The Hill That Fed Thoreau's Solitude"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fair_Haven_Pond"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fair_Haven_Beach_State_Park_-_20221027_-_04_-_Sterling_Pond_from_the_north.jpg/330px-Fair_Haven_Beach_State_Park_-_20221027_-_04_-_Sterling_Pond_from_the_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Fair Haven Beach State Park - 20221027 - 04 - Sterling Pond from the north (CC BY-SA 4.0)"
-    content: "Thoreau often retreated to Fair Haven Hill, where he dined on wild huckleberries and blueberries while watching the sun set. In this chapter, he describes the act of gathering berries as a pure and unmediated experience, contrasting it with the loss of flavor in fruits transported to markets. Fair Haven Hill, located near Concord, Massachusetts, is part of the landscape that inspired much of Thoreau’s writing. Historically, such hills were often used by Indigenous peoples for seasonal berry picking, a practice that connected them deeply with the land. Thoreau’s emphasis on tasting berries directly from the bush reflects his broader philosophy of immersing oneself in nature to access its true essence. By savoring the fruits in their natural state, he underscores the theme of simplicity and authenticity that runs throughout Walden."
-  - id: "ancient-sect-of-coenobites"
-    trigger: "ancient sect of Cœnobites"
-    title: "Fishing Philosophy: A Quiet Brotherhood of Solitude"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cenobite"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Panthea_coenobita_larva_Karpacz.jpg/330px-Panthea_coenobita_larva_Karpacz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "gąsienica motyla Panthea coenobita na skale w Karpaczu (CC BY-SA 4.0)"
-    content: "When Thoreau joins a silent fisherman at Walden Pond, he humorously concludes that the man belongs to the ancient sect of Cœnobites, a group known for their monastic isolation. The term 'Cœnobite' refers to monks who live in communal solitude, a paradox that mirrors Thoreau’s own philosophy of social withdrawal paired with occasional companionship. The fisherman’s quiet demeanor and psalm humming evoke a spiritual connection to nature, transforming the act of fishing into a meditative practice. This moment illustrates Thoreau’s belief that solitude, whether shared or alone, is a pathway to deeper reflection and harmony with the natural world."
-  - id: "keeper-of-a-menagerie"
-    trigger: "keeper of a menagerie"
-    title: "Echoes Across Walden: Rousing Nature’s Wild Chorus"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Menagerie"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Versailles_M2.JPG/330px-Versailles_M2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Backyard of the royal menagerie of Versailles during the reign of Louis XIV, 1643-1715. (Public domain)"
-    content: "Thoreau describes striking his paddle against his boat to stir the echoes around Walden Pond, likening the sound to a keeper rousing wild beasts in a menagerie. This vivid metaphor transforms the pond into a living entity, its wooded hillsides growling in response to his actions. Historically, menageries were collections of exotic animals displayed for entertainment, often seen as microcosms of the untamed world. By invoking this imagery, Thoreau suggests that nature itself is a kind of menagerie, but one that requires no cages or human intervention to reveal its wild beauty. This act of stirring echoes symbolizes his desire to awaken the primal and unspoiled essence of the natural world."
+    title: "A Hill of Berries and Solitude"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Fair Haven Hill as a place where he would gather huckleberries and blueberries, making it a site of simple sustenance and reflection. This hill, located near Concord, Massachusetts, was part of Thoreau's regular wanderings, offering him a retreat from human society. Historically, such hills were often used by Indigenous peoples and early settlers for berry gathering, a practice that connected them to the land's seasonal rhythms. Thoreau's act of foraging here underscores his philosophy of living deliberately and immersing oneself in nature's offerings. By savoring the unspoiled flavor of berries plucked directly from the bush, he critiques the commodification of nature, suggesting that true appreciation comes only through direct engagement."
+  - id: "horned-pout"
+    trigger: "horned pout"
+    title: "The Fish That Interrupted Thoreau's Dreams"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bullhead_catfish"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes catching a horned pout during his nocturnal fishing excursions on Walden Pond. This fish, known for its whisker-like barbels and hardy nature, is a type of catfish commonly found in North American waters. Historically, horned pouts were a staple for local fishermen due to their abundance and adaptability. Thoreau's encounter with the fish, which he describes as interrupting his 'cosmogonal themes,' serves as a vivid reminder of nature's grounding presence. In the midst of philosophical musings, the tug of the line reconnects him to the physical world, illustrating the interplay between transcendence and earthly experience that defines much of his work."
+  - id: "perennial-spring"
+    trigger: "perennial spring"
+    title: "The Eternal Source Beneath Walden Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spring_(hydrology)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau marvels at Walden Pond's 'perennial spring,' a source of water that seems to defy seasonal fluctuations. Springs like this are formed when groundwater emerges naturally at the surface, often due to geological formations. In the case of Walden, its spring contributes to the pond's remarkable clarity and purity, qualities that Thoreau celebrates as emblematic of untouched nature. This hidden source symbolizes the deeper, unseen forces that sustain life and beauty, aligning with Thoreau's transcendental belief in the interconnectedness of all things. The spring becomes a metaphor for renewal and constancy amid change."
   - id: "vitreous-greenish-blue"
     trigger: "vitreous greenish blue"
-    title: "The Science Behind Walden's Shifting Colors"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Color"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/330px-Colouring_pencils.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Colouring pencils (CC BY-SA 3.0)"
-    content: "Thoreau marvels at Walden Pond’s changing colors, describing its hues as a 'vitreous greenish blue,' reminiscent of patches of winter sky seen through clouds. This phenomenon occurs due to the interplay of light, water depth, and the reflection of surrounding landscapes. Modern science explains that water’s color can appear blue or green depending on the absorption and scattering of light, with deeper waters often reflecting more blue. Thoreau’s poetic observation transforms this scientific fact into a meditation on nature’s ability to mirror both earth and sky. The pond’s shifting palette becomes a metaphor for life’s fluidity and interconnectedness, a recurring theme in Walden."
-  - id: "castalian-fountain"
-    trigger: "Castalian Fountain"
-    title: "A Mythic Spring in the Heart of Concord"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Castalian_Spring"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Castalian_Spring.jpg/330px-Castalian_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Castalian Spring in Delphi, Greece (CC BY-SA 3.0)"
-    content: "Thoreau imagines Walden Pond as a modern-day Castalian Fountain, a mythical spring in ancient Greece sacred to the Muses and associated with poetic inspiration. By invoking this classical imagery, Thoreau elevates Walden from a mere body of water to a source of spiritual and creative renewal. The Castalian Fountain was believed to endow poets and thinkers with divine insight, a role Walden plays for Thoreau as he crafts his philosophical reflections. This comparison underscores the timelessness of nature’s ability to inspire, connecting the transcendentalist ideals of the 19th century to the mythic traditions of antiquity."
-  - id: "aboriginal-hunters"
-    trigger: "aboriginal hunters"
-    title: "Footprints in the Snow: Echoes of Ancient Lives"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Distribution_of_Indigenous_Peoples_in_the_Americas.svg/330px-Distribution_of_Indigenous_Peoples_in_the_Americas.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Distribution of Indigenous Peoples in the Americas (CC BY-SA 4.0)"
-    content: "Thoreau observes a narrow path encircling Walden Pond, which he believes was worn by aboriginal hunters long before Concord’s settlers arrived. After a light snowfall, this ancient trail becomes visible, a ghostly reminder of the land’s history. Indigenous peoples of the Americas often left subtle marks on the landscape, such as hunting paths or fishing spots, connecting their lives deeply to the natural world. Thoreau’s recognition of this trail reflects his respect for the enduring presence of those who lived harmoniously with nature. By highlighting these traces, he invites readers to consider the long history of human interaction with the environment, a theme central to his transcendentalist philosophy."
-  - id: "pow-wow-upon-a-hill"
-    trigger: "pow-wow upon a hill"
-    title: "The Legend of Flint’s Pond: A Sinking Hill"
+    title: "The Color That Captivated Thoreau's Eye"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Color_of_water"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the 'vitreous greenish blue' of Walden Pond, a hue that shifts with light and perspective. This phenomenon occurs due to the interplay of water's absorption and scattering of light, as well as reflections from the pond's sandy bottom and surrounding vegetation. Such colors are rare in natural bodies of water, making Walden's appearance uniquely striking. For Thoreau, this shifting palette is not merely aesthetic but symbolic, representing the pond's dual connection to earth and sky. The color becomes a visual manifestation of his transcendental ideals, where nature's beauty serves as a bridge to higher truths."
+  - id: "transverse-bars"
+    trigger: "transverse bars"
+    title: "The Striped Perch Beneath Walden's Surface"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yellow_perch"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau observes the 'transverse bars' on perch swimming in Walden Pond, noting their ascetic appearance. These stripes are a defining characteristic of yellow perch, a species native to North America. The bars serve as camouflage, helping the fish blend into their underwater environment. Thoreau's attention to this detail reflects his deep observational skills and his ability to find meaning in the minutiae of nature. The perch's quiet subsistence mirrors Thoreau's own philosophy of simplicity and self-reliance, making them a fitting symbol for his life at Walden."
+  - id: "white-pond"
+    trigger: "White Pond"
+    title: "Walden's Lesser-Known Twin"
+    wikipedia_url: "https://en.wikipedia.org/wiki/White_Pond"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau compares White Pond to Walden, calling it a 'lesser twin' with similar purity and beauty. Located near Concord, Massachusetts, White Pond shares many characteristics with Walden, including its stony shores and clear waters. Historically, it has been less frequented and less celebrated, making it a quieter counterpart to Walden's fame. Thoreau's description elevates White Pond, suggesting that its understated charm and resemblance to Walden make it equally deserving of admiration. This comparison underscores his belief in the inherent value of all natural spaces, regardless of their renown."
+  - id: "pow-wow"
+    trigger: "pow-wow"
+    title: "The Mythical Gathering That Shaped Walden"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pow_wow"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pow-wow_grounds_-_Siletz_Oregon.jpg/330px-Pow-wow_grounds_-_Siletz_Oregon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Pow-wow grounds - Siletz Oregon (CC BY-SA 3.0)"
-    content: "Thoreau recounts a local legend that Flint’s Pond was created when a hill sank into the earth during an Indian pow-wow. The story claims that profanity caused the hill to collapse, leaving only the pond behind. Pow-wows, gatherings of Indigenous peoples for ceremonies and dances, were sacred events, making the tale’s attribution of profanity ironic and likely a colonial misinterpretation. This myth reflects the tendency of settlers to weave Indigenous culture into their own narratives, often distorting its meaning. For Thoreau, the legend adds a layer of mystery to the landscape, blending folklore with his observations of nature’s transformations."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts a local legend about a 'pow-wow' held by Indigenous people on a hill that sank to form Walden Pond. Pow-wows were traditional gatherings for ceremonies, dances, and socializing among Native American tribes. While the story is likely apocryphal, it reflects the cultural significance of the land before European settlement. Thoreau's inclusion of this tale adds a layer of historical and mythical depth to Walden, connecting the pond to a broader narrative of human interaction with nature. It serves as a reminder of the land's enduring presence and the stories it holds."
+  - id: "saffron-walden"
+    trigger: "Saffron Walden"
+    title: "An English Town's Possible Connection to Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Saffron_Walden"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau speculates that Walden Pond's name might derive from Saffron Walden, a town in Essex, England. Saffron Walden was historically known for its saffron production and picturesque countryside. While there is no definitive link between the two, the suggestion highlights the ways in which settlers often brought names from their homeland to the New World. Thoreau's musings on the name reflect his broader interest in etymology and the layers of meaning embedded in language and place. It invites readers to consider the cultural and historical threads that connect landscapes across continents."
   - id: "boiling-spring"
     trigger: "Boiling Spring"
-    title: "A Spring That Defies Seasonal Expectations"
+    title: "The Mysterious Warm Waters of Concord"
     wikipedia_url: "https://en.wikipedia.org/wiki/Spring_(hydrology)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Big_Spring_Missouri_1-02Aug08.jpg/330px-Big_Spring_Missouri_1-02Aug08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Big Spring Missouri 1-02Aug08 (CC BY-SA 3.0)"
-    content: "Thoreau notes the temperature of Boiling Spring, which remains colder in summer and warmer in winter than other water sources. Springs like this are fed by underground aquifers, where water temperature is regulated by the earth’s consistent thermal properties. The name 'Boiling Spring' is likely ironic, as its waters are anything but hot. For Thoreau, this spring’s unique behavior symbolizes nature’s quiet defiance of human expectations. Its constancy serves as a metaphor for the enduring purity and resilience of the natural world, a theme that resonates throughout Walden."
-  - id: "white-bellied-swallows"
-    trigger: "white-bellied swallows"
-    title: "The Aerial Acrobats of Walden Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tree_swallow"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tree_swallow_in_JBWR_%2825579%29.jpg/330px-Tree_swallow_in_JBWR_%2825579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Tree swallow sitting on a nest box in Jamaica Bay Wildlife Refuge, Queens, New York. (CC BY-SA 4.0)"
-    content: "Thoreau observes white-bellied swallows skimming over Walden Pond, their graceful movements adding life to the tranquil water. These birds, known scientifically as Hirundo bicolor, are adept flyers and often feed on insects near water surfaces. Their presence at Walden reflects the pond’s ecological richness and its role as a haven for wildlife. Thoreau’s attention to the swallows highlights his deep appreciation for the interconnectedness of all living things, a key element of his transcendentalist philosophy."
-  - id: "totanus-macularius"
-    trigger: "Totanus macularius"
-    title: "The Sandpiper That ‘Teters’ Along Walden’s Shore"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Actitis_macularius"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_history_of_the_birds_of_Europe_%28Pl._713%29_%286989254656%29.jpg/330px-A_history_of_the_birds_of_Europe_%28Pl._713%29_%286989254656%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "713 
-J.G.Keulemans 3ibK . 
-SPOTTED SANDPIPER . 
-TOTATSfUS MAEULARIUS. 
-
-Hank, art imp. (Public domain)"
-    content: "Thoreau mentions the peetweet, or Totanus macularius, a bird commonly known as the spotted sandpiper. These small shorebirds are noted for their distinctive teetering motion as they walk along the water’s edge. Found across North America, they are often seen near lakes and rivers during the summer months. Thoreau’s observation of their behavior adds a dynamic element to his depiction of Walden’s shores, emphasizing the vibrancy and diversity of life that thrives in this seemingly quiet setting."
-  - id: "gyrinus"
-    trigger: "Gyrinus"
-    title: "The Water Bug That Ripples Walden’s Calm"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Gyrinidae"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/2/23/Gyrinus_natator.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-    image_caption: "Gyrinus natator (Public domain)"
-    content: "Thoreau describes the Gyrinus, or whirligig beetle, as it furrows the surface of Walden Pond. These insects are known for their unique ability to spin in circles on water, creating ripples that can be seen from afar. Their behavior is both a survival mechanism, confusing predators, and a method of detecting vibrations in the water. Thoreau’s fascination with the Gyrinus reflects his broader interest in the subtle details of nature, turning even the smallest creatures into symbols of life’s complexity and beauty."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions the 'Boiling Spring,' noting its unusual warmth compared to other local water sources. Springs like this often result from geothermal activity or unique underground water flows. The name 'Boiling Spring' evokes images of bubbling water, though it likely refers to its temperature rather than actual boiling. For Thoreau, this spring represents another example of nature's quiet wonders, offering a contrast to the cold purity of Walden Pond. Its presence enriches the landscape, adding to the diversity and complexity of Concord's natural environment."
+  - id: "circular-heaps"
+    trigger: "circular heaps"
+    title: "The Mysterious Stone Circles Beneath Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fish_nests"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau observes 'circular heaps' of stones on the bottom of Walden Pond, speculating about their origins. Such formations are often created by fish like chivins or suckers as nesting sites, though Thoreau notes the absence of these species in Walden. The heaps add an element of mystery to the pond, inviting questions about the unseen life beneath its surface. For Thoreau, these circles symbolize the hidden intricacies of nature, reminding readers that even the most familiar landscapes hold secrets waiting to be uncovered."
+  - id: "log-canoe"
+    trigger: "log canoe"
+    title: "The Forgotten Vessel of Walden's Past"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dugout_canoe"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recalls an old log canoe found on Walden's shore, a relic of earlier times. Dugout canoes, made by hollowing out tree trunks, were used by Indigenous peoples and early settlers for fishing and transportation. This particular canoe, made of white-pine logs, represents a connection to the pond's human history and its role as a resource for survival. Thoreau's reflection on the canoe highlights his appreciation for the craftsmanship and simplicity of past generations, contrasting it with the industrial encroachments he laments elsewhere in the chapter."
+  - id: "amphitheatre"
+    trigger: "amphitheatre"
+    title: "Walden's Natural Stage for Reflection"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Amphitheatre"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the hills surrounding Walden Pond as forming an 'amphitheatre,' a natural setting for contemplation and observation. Amphitheatres, traditionally associated with performances and gatherings, here become a metaphor for the pond's role as a stage for nature's drama. The steep hills and dense woods create a secluded, almost sacred space, emphasizing the pond's isolation and purity. Thoreau's imagery invites readers to see Walden not just as a physical location but as a spiritual and philosophical arena where life's deeper truths are revealed."
+  - id: "glassy-surface-of-a-lake"
+    trigger: "glassy surface of a lake"
+    title: "The Mirror That Reflects Nature's Soul"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Reflection_(physics)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau marvels at the 'glassy surface' of Walden Pond, likening it to a mirror that reflects the surrounding landscape and sky. This phenomenon occurs when water is calm, allowing light to bounce off its surface without distortion. For Thoreau, the pond's reflective quality symbolizes its purity and its role as a mediator between earth and heaven. The 'glassy surface' becomes a metaphor for introspection, inviting readers to see their own nature mirrored in the tranquil waters of Walden."
+  - id: "water-bug"
+    trigger: "water-bug"
+    title: "The Tiny Navigator of Walden's Surface"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Water_strider"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau observes water-bugs gliding across Walden Pond, noting their ability to furrow the water's surface. These insects, known for their hydrophobic legs, use surface tension to stay afloat and move effortlessly. Their presence adds life to the pond's serene surface, creating ripples that Thoreau interprets as nature's subtle communication. The water-bugs become symbols of resilience and adaptation, embodying the delicate balance of life that Thoreau seeks to understand and celebrate in his time at Walden."
   - id: "sky-water"
     trigger: "Sky water"
-    title: "Walden: A Mirror Between Earth and Heavens"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lake"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lake_Idro_Italy_2005-08-16.jpg/330px-Lake_Idro_Italy_2005-08-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Lake Idro Italy 2005-08-16 (CC BY-SA 3.0)"
-    content: "Thoreau poetically refers to Walden Pond as 'Sky water,' emphasizing its role as a mirror reflecting both the heavens and the earth. Lakes have long been seen as liminal spaces, connecting terrestrial and celestial realms. This imagery ties into Thoreau’s transcendentalist belief that nature serves as a conduit to higher truths. The pristine surface of Walden becomes not just a physical mirror but a metaphorical one, inviting introspection and spiritual reflection for those who gaze upon it."
+    title: "The Celestial Essence of Walden Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Water_cycle"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau poetically refers to Walden Pond as 'Sky water,' emphasizing its connection to the heavens. This term captures the pond's role in the water cycle, where evaporation and precipitation link it to the atmosphere. For Thoreau, the pond's purity and reflective surface make it a spiritual entity, a bridge between the earthly and the divine. 'Sky water' encapsulates his transcendental belief in nature's ability to inspire and elevate the human spirit, making Walden a sacred space in his philosophy."
+  - id: "god-s-drop"
+    trigger: "God's Drop"
+    title: "The Divine Essence of Walden Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau proposes calling Walden Pond 'God's Drop,' highlighting its spiritual significance. This name reflects his belief in nature as a manifestation of divine purity and beauty. For Thoreau, Walden is more than a physical body of water; it is a symbol of transcendence and a source of inspiration. 'God's Drop' encapsulates his view of the pond as a sacred space, untouched by human corruption and eternally renewing itself as a gift from the Creator."
+  - id: "pipewort"
+    trigger: "pipewort"
+    title: "The Curious Grass Balls of Flint's Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pipewort"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes finding spherical balls of pipewort at Flint's Pond, marveling at their unique formation. Pipewort, a small aquatic plant, often grows in sandy or muddy bottoms, and its roots can form dense, fibrous structures. These balls, shaped by water movement, are a testament to nature's ability to create intricate patterns even in the simplest materials. For Thoreau, the pipewort balls symbolize the hidden artistry of the natural world, reminding readers that beauty often lies in the overlooked details of life."
+  - id: "blue-flag"
+    trigger: "blue flag"
+    title: "The Iris That Harmonizes with Walden's Waters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Iris_versicolor"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau notes the presence of blue flag irises around White Pond, praising their delicate beauty. Iris versicolor, commonly known as the blue flag, thrives in wetland areas and is known for its striking blue-purple flowers. The plant's reflections in the pond's glaucous waters create a visual harmony that Thoreau finds deeply moving. The blue flag becomes a symbol of nature's ability to integrate color, form, and environment into a seamless aesthetic experience, aligning with Thoreau's transcendental ideals."
   - id: "lakes-of-light"
     trigger: "Lakes of Light"
-    title: "The Crystal Purity of Walden and White Pond"
+    title: "Walden and White Pond as Nature's Jewels"
     wikipedia_url: "https://en.wikipedia.org/wiki/Lake"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lake_Idro_Italy_2005-08-16.jpg/330px-Lake_Idro_Italy_2005-08-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Lake Idro Italy 2005-08-16 (CC BY-SA 3.0)"
-    content: "Thoreau describes Walden and White Pond as 'Lakes of Light,' likening their clarity and purity to precious gems. This metaphor underscores the transcendentalist view of nature as a source of spiritual illumination. Unlike the diamond of Kohinoor, which is valued for its market worth, these lakes are treasures of a different kind, offering beauty and inspiration beyond materialism. Thoreau’s reverence for these bodies of water reflects his broader critique of society’s tendency to commodify the natural world."
-  - id: "diamond-of-kohinoor"
-    trigger: "diamond of Kohinoor"
-    title: "A Jewel of Nature Versus a Jewel of Empire"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes Walden and White Pond as 'Lakes of Light,' emphasizing their purity and brilliance. This poetic phrase captures the ponds' role as natural mirrors, reflecting the sky and surrounding landscape. For Thoreau, their clarity and beauty make them akin to precious gems, untouched by human greed or exploitation. 'Lakes of Light' encapsulates his vision of nature as a source of spiritual and aesthetic nourishment, offering a counterpoint to the materialism he critiques throughout his work."
+  - id: "kohinoor"
+    trigger: "Kohinoor"
+    title: "The Diamond That Can't Compare to Walden"
     wikipedia_url: "https://en.wikipedia.org/wiki/Koh-i-Noor"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Replica_of_the_Koh-i-Noor_%28cropped%29.jpg/330px-Replica_of_the_Koh-i-Noor_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Replica of the Koh-i-Noor diamond at Prince of Wales Museum of Western India, Mumbai (CC BY 2.0)"
-    content: "Thoreau contrasts the purity of Walden and White Pond with the famed diamond of Kohinoor, a symbol of imperial wealth and conquest. The Kohinoor, one of the world’s largest diamonds, has a storied history tied to colonial exploitation, passing through the hands of various rulers before ending up in the British Crown Jewels. By rejecting its allure, Thoreau champions the unmarketable beauty of nature, suggesting that true wealth lies in the untouched and uncommodified. This comparison sharpens his critique of materialism and imperialism, aligning with the transcendentalist ethos of valuing spiritual over material riches."
-  - id: "clean-wild-ducks"
-    trigger: "clean wild ducks"
-    title: "The Untamed Visitors of Walden’s Waters"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Duck"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bucephala-albeola-010.jpg/330px-Bucephala-albeola-010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "YSFDS Bucephala albeola, female. Humber Bay Park (East), Toronto, Canada (CC BY-SA 3.0)"
-    content: "Thoreau mentions the 'clean wild ducks' that come to Walden Pond, emphasizing their harmony with the pristine environment. Ducks are migratory birds, often seen as symbols of adaptability and freedom. Their presence at Walden highlights the pond’s role as a sanctuary for wildlife, untouched by human interference. Thoreau’s admiration for these ducks reflects his broader appreciation for nature’s unspoiled beauty and its ability to sustain life in its purest form."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau contrasts Walden Pond with the Kohinoor diamond, suggesting that the pond's purity surpasses the value of any material wealth. The Kohinoor, one of the world's most famous diamonds, has a storied history of conquest and controversy. By invoking this symbol of opulence, Thoreau critiques society's obsession with possessions and status. Walden, in its simplicity and natural beauty, represents a higher form of wealth—one that nourishes the soul rather than the ego."
+  - id: "yellow-pine"
+    trigger: "yellow-pine"
+    title: "The Submerged Tree of White Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pinus_palustris"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts the story of a yellow-pine tree submerged in White Pond, its roots buried deep in the sandy bottom. Yellow pines, known for their resilience and straight trunks, were often used for timber and construction. The tree's presence in the pond adds a layer of mystery, suggesting a history of natural or human events that led to its unusual position. For Thoreau, the submerged pine becomes a symbol of nature's enduring presence, even as human activity alters the landscape."
 ---
 Sometimes, having had a surfeit of human society and gossip, and worn
 out all my village friends, I rambled still farther westward than I
@@ -161,7 +198,7 @@ Occasionally, after my hoeing was done for the day, I joined some
 impatient companion who had been fishing on the pond since morning, as
 silent and motionless as a duck or a floating leaf, and, after
 practising various kinds of philosophy, had concluded commonly, by the
-time I arrived, that he belonged to the **ancient sect of Cœnobites**.
+time I arrived, that he belonged to the ancient sect of Cœnobites.
 There was one older man, an excellent fisher and skilled in all kinds
 of woodcraft, who was pleased to look upon my house as a building
 erected for the convenience of fishermen; and I was equally pleased
@@ -174,7 +211,7 @@ unbroken harmony, far more pleasing to remember than if it had been
 carried on by speech. When, as was commonly the case, I had none to
 commune with, I used to raise the echoes by striking with a paddle on
 the side of my boat, filling the surrounding woods with circling and
-dilating sound, stirring them up as the **keeper of a menagerie** his wild
+dilating sound, stirring them up as the keeper of a menagerie his wild
 beasts, until I elicited a growl from every wooded vale and hill-side.
 
 In warm evenings I frequently sat in the boat playing the flute, and
@@ -205,7 +242,7 @@ drifted in the gentle night breeze, now and then feeling a slight
 vibration along it, indicative of some life prowling about its
 extremity, of dull uncertain blundering purpose there, and slow to make
 up its mind. At length you slowly raise, pulling hand over hand, some
-**horned pout squeaking** and squirming to the upper air. It was very
+**horned pout** squeaking and squirming to the upper air. It was very
 queer, especially in dark nights, when your thoughts had wandered to
 vast and cosmogonal themes in other spheres, to feel this faint jerk,
 which came to interrupt your dreams and link you to Nature again. It
@@ -221,7 +258,7 @@ long frequented it or lived by its shore; yet this pond is so
 remarkable for its depth and purity as to merit a particular
 description. It is a clear and deep green well, half a mile long and a
 mile and three quarters in circumference, and contains about sixty-one
-and a half acres; a perennial spring in the midst of pine and oak
+and a half acres; a **perennial spring** in the midst of pine and oak
 woods, without any visible inlet or outlet except by the clouds and
 evaporation. The surrounding hills rise abruptly from the water to the
 height of forty to eighty feet, though on the south-east and east they
@@ -281,7 +318,7 @@ The water is so transparent that the bottom can easily be discerned at
 the depth of twenty-five or thirty feet. Paddling over it, you may see,
 many feet beneath the surface the schools of perch and shiners, perhaps
 only an inch long, yet the former easily distinguished by their
-transverse bars, and you think that they must be ascetic fish that find
+**transverse bars**, and you think that they must be ascetic fish that find
 a subsistence there. Once, in the winter, many years ago, when I had
 been cutting holes through the ice in order to catch pickerel, as I
 stepped ashore I tossed my axe back on to the ice, but, as if some evil
@@ -317,7 +354,7 @@ the decay of the leaves which have been wafted on to it so many
 successive falls, and a bright green weed is brought up on anchors even
 in midwinter.
 
-We have one other pond just like this, White Pond, in Nine Acre Corner,
+We have one other pond just like this, **White Pond**, in Nine Acre Corner,
 about two and a half miles westerly; but, though I am acquainted with
 most of the ponds within a dozen miles of this centre I do not know a
 third of this pure and well-like character. Successive nations
@@ -332,7 +369,7 @@ then it had commenced to rise and fall, and had clarified its waters
 and colored them of the hue they now wear, and obtained a patent of
 heaven to be the only Walden Pond in the world and distiller of
 celestial dews. Who knows in how many unremembered nations’ literatures
-this has been the **Castalian Fountain**? or what nymphs presided over it
+this has been the Castalian Fountain? or what nymphs presided over it
 in the Golden Age? It is a gem of the first water which Concord wears
 in her coronet.
 
@@ -341,7 +378,7 @@ their footsteps. I have been surprised to detect encircling the pond,
 even where a thick wood has just been cut down on the shore, a narrow
 shelf-like path in the steep hill-side, alternately rising and falling,
 approaching and receding from the water’s edge, as old probably as the
-race of man here, worn by the feet of **aboriginal hunters**, and still
+race of man here, worn by the feet of aboriginal hunters, and still
 from time to time unwittingly trodden by the present occupants of the
 land. This is particularly distinct to one standing on the middle of
 the pond in winter, just after a light snow has fallen, appearing as a
@@ -385,7 +422,7 @@ This rise and fall of Walden at long intervals serves this use at
 least; the water standing at this great height for a year or more,
 though it makes it difficult to walk round it, kills the shrubs and
 trees which have sprung up about its edge since the last rise,
-pitch-pines, birches, alders, aspens, and others, and, falling again,
+**pitch-pines**, birches, alders, aspens, and others, and, falling again,
 leaves an unobstructed shore; for, unlike many ponds and all waters
 which are subject to a daily tide, its shore is cleanest when the water
 is lowest. On the side of the pond next my house, a row of pitch pines
@@ -406,7 +443,7 @@ circumstances.
 Some have been puzzled to tell how the shore became so regularly paved.
 My townsmen have all heard the tradition, the oldest people tell me
 that they heard it in their youth, that anciently the Indians were
-holding a **pow-wow upon a hill** here, which rose as high into the heavens
+holding a **pow-wow** upon a hill here, which rose as high into the heavens
 as the pond now sinks deep into the earth, and they used much
 profanity, as the story goes, though this vice is one of which the
 Indians were never guilty, and while they were thus engaged the hill
@@ -426,7 +463,7 @@ that they have been obliged to pile them up in walls on both sides of
 the railroad cut nearest the pond; and, moreover, there are most stones
 where the shore is most abrupt; so that, unfortunately, it is no longer
 a mystery to me. I detect the paver. If the name was not derived from
-that of some English locality,—Saffron Walden, for instance,—one might
+that of some English locality,—**Saffron Walden**, for instance,—one might
 suppose that it was called originally _Walled-in_ Pond.
 
 The pond was my well ready dug. For four months in the year its water
@@ -482,8 +519,8 @@ and minks leave their traces about it, and occasionally a travelling
 mud-turtle visits it. Sometimes, when I pushed off my boat in the
 morning, I disturbed a great mud-turtle which had secreted himself
 under the boat in the night. Ducks and geese frequent it in the spring
-and fall, the **white-bellied swallows** (_Hirundo bicolor_) skim over it,
-and the peetweets (_**Totanus macularius**_) “teter” along its stony shores
+and fall, the white-bellied swallows (_Hirundo bicolor_) skim over it,
+and the peetweets (_Totanus macularius_) “teter” along its stony shores
 all summer. I have sometimes disturbed a fishhawk sitting on a
 white-pine over the water; but I doubt if it is ever profaned by the
 wing of a gull, like Fair Haven. At most, it tolerates one annual loon.
@@ -491,7 +528,7 @@ These are all the animals of consequence which frequent it now.
 
 You may see from a boat, in calm weather, near the sandy eastern shore,
 where the water is eight or ten feet deep, and also in some other parts
-of the pond, some circular heaps half a dozen feet in diameter by a
+of the pond, some **circular heaps** half a dozen feet in diameter by a
 foot in height, consisting of small stones less than a hen’s egg in
 size, where all around is bare sand. At first you wonder if the Indians
 could have formed them on the ice for any purpose, and so, when the ice
@@ -526,8 +563,8 @@ its overhanging brows.
 
 Standing on the smooth sandy beach at the east end of the pond, in a
 calm September afternoon, when a slight haze makes the opposite shore
-line indistinct, I have seen whence came the expression, “the glassy
-surface of a lake.” When you invert your head, it looks like a thread
+line indistinct, I have seen whence came the expression, “the **glassy
+surface of a lake**.” When you invert your head, it looks like a thread
 of finest gossamer stretched across the valley, and gleaming against
 the distant pine woods, separating one stratum of the atmosphere from
 another. You would think that you could walk dry under it to the
@@ -556,7 +593,7 @@ disturbs the equilibrium of the whole lake. It is wonderful with what
 elaborateness this simple fact is advertised,—this piscine murder will
 out,—and from my distant perch I distinguish the circling undulations
 when they are half a dozen rods in diameter. You can even detect a
-water-bug (_**Gyrinus**_) ceaselessly progressing over the smooth surface a
+**water-bug** (_Gyrinus_) ceaselessly progressing over the smooth surface a
 quarter of a mile off; for they furrow the water slightly, making a
 conspicuous ripple bounded by two diverging lines, but the skaters
 glide over it without rippling it perceptibly. When the surface is
@@ -650,7 +687,7 @@ An old man who used to frequent this pond nearly sixty years ago, when
 it was dark with surrounding forests, tells me that in those days he
 sometimes saw it all alive with ducks and other water fowl, and that
 there were many eagles about it. He came here a-fishing, and used an
-old log canoe which he found on the shore. It was made of two
+old **log canoe** which he found on the shore. It was made of two
 white-pine logs dug out and pinned together, and was cut off square at
 the ends. It was very clumsy, but lasted a great many years before it
 became water-logged and perhaps sank to the bottom. He did not know
@@ -674,7 +711,7 @@ thick and lofty pine and oak woods, and in some of its coves grape
 vines had run over the trees next the water and formed bowers under
 which a boat could pass. The hills which form its shores are so steep,
 and the woods on them were then so high, that, as you looked down from
-the west end, it had the appearance of an amphitheatre for some kind of
+the west end, it had the appearance of an **amphitheatre** for some kind of
 sylvan spectacle. I have spent many an hour, when I was younger,
 floating over its surface as the zephyr willed, having paddled my boat
 to the middle, and lying on my back across the seats, in a summer
@@ -743,7 +780,7 @@ see it often, are better men for the sight. The engineer does not
 forget at night, or his nature does not, that he has beheld this vision
 of serenity and purity once at least during the day. Though seen but
 once, it helps to wash out State-street and the engine’s soot. One
-proposes that it be called “God’s Drop.”
+proposes that it be called “**God’s Drop**.”
 
 I have said that Walden has no visible inlet nor outlet, but it is on
 the one hand distantly and indirectly related to Flint’s Pond, which is
@@ -781,7 +818,7 @@ by the pressure of the water, and the rushes which grew in Indian file,
 in waving lines, corresponding to these marks, rank behind rank, as if
 the waves had planted them. There also I have found, in considerable
 quantities, curious balls, composed apparently of fine grass or roots,
-of pipewort perhaps, from half an inch to four inches in diameter, and
+of **pipewort** perhaps, from half an inch to four inches in diameter, and
 perfectly spherical. These wash back and forth in shallow water on a
 sandy bottom, and are sometimes cast on the shore. They are either
 solid grass, or have a little sand in the middle. At first you would
@@ -827,7 +864,7 @@ men, horses, oxen, and swine, cleansed and uncleansed, all contiguous
 to one another! Stocked with men! A great grease-spot, redolent of
 manures and buttermilk! Under a high state of cultivation, being
 manured with the hearts and brains of men! As if you were to raise your
-potatoes in the church-yard! Such is a model farm.
+potatoes in the church-yard! Such is a **model farm**.
 
 No, no; if the fairest features of the landscape are to be named after
 men, let them be the noblest and worthiest men alone. Let our lakes
@@ -858,7 +895,7 @@ to go there to collect the sand by cart-loads, to make sand-paper with,
 and I have continued to visit it ever since. One who frequents it
 proposes to call it Virid Lake. Perhaps it might be called Yellow-Pine
 Lake, from the following circumstance. About fifteen years ago you
-could see the top of a pitch-pine, of the kind called yellow-pine
+could see the top of a pitch-pine, of the kind called **yellow-pine**
 hereabouts, though it is not a distinct species, projecting above the
 surface in deep water, many rods from the shore. It was even supposed
 by some that the pond had sunk, and this was one of the primitive
@@ -895,7 +932,7 @@ water snakes in motion.
 
 This pond has rarely been profaned by a boat, for there is little in it
 to tempt a fisherman. Instead of the white lily, which requires mud, or
-the common sweet flag, the blue flag (_Iris versicolor_) grows thinly
+the common sweet flag, the **blue flag** (_Iris versicolor_) grows thinly
 in the pure water, rising from the stony bottom all around the shore,
 where it is visited by humming birds in June; and the color both of its
 bluish blades and its flowers, and especially their reflections, are in
@@ -906,11 +943,11 @@ White Pond and Walden are great crystals on the surface of the earth,
 be clutched, they would, perchance, be carried off by slaves, like
 precious stones, to adorn the heads of emperors; but being liquid, and
 ample, and secured to us and our successors forever, we disregard them,
-and run after the **diamond of Kohinoor**. They are too pure to have a
+and run after the diamond of **Kohinoor**. They are too pure to have a
 market value; they contain no muck. How much more beautiful than our
 lives, how much more transparent than our characters, are they! We
 never learned meanness of them. How much fairer than the pool before
-the farmer’s door, in which his ducks swim! Hither the **clean wild ducks**
+the farmer’s door, in which his ducks swim! Hither the clean wild ducks
 come. Nature has no human inhabitant who appreciates her. The birds
 with their plumage and their notes are in harmony with the flowers, but
 what youth or maiden conspires with the wild luxuriant beauty of

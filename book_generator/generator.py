@@ -20,6 +20,7 @@ import argparse
 import io
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 import yaml
@@ -35,7 +36,10 @@ if sys.platform == "win32":
 from client import ModelClient
 from checkpointer import Checkpointer
 from formatter import format_chapter
-from prompts import build_text_prompt, build_enhancements_prompt, build_phrase_prompt
+from prompts import (
+    build_text_prompt, build_enhancements_prompt,
+    build_phrase_prompt, make_windows, build_single_window_retry_prompt,
+)
 import catalog_sync
 
 load_dotenv()
@@ -62,13 +66,35 @@ def _check_prose(text: str) -> None:
         )
 
 
-# Typography normalisation: curly quotes → straight, dashes → hyphen, ligatures → plain
+# Typography normalisation: curly quotes → straight, dashes → hyphen, ligatures → plain.
+# Must remain 1-to-1 (each codepoint → exactly one char) so that translated indices
+# stay aligned with the original string — _find_match relies on this property.
 _TYPO_NORM = str.maketrans({
     0x2018: "'", 0x2019: "'",
     0x201C: '"', 0x201D: '"',
     0x2013: "-", 0x2014: "-",
-    0x00E6: "e", 0x0153: "e",
+    0x200A: " ",        # hair space → regular space
+    0x2026: ".",        # ellipsis → period (single char, keeps 1-to-1)
+    0x00E6: "e", 0x0153: "e",   # ligatures æ, œ
+    0x0152: "O",        # Œ uppercase
 })
+
+
+def _accent_strip_with_map(s: str) -> "tuple[str, list[int]]":
+    """NFD-decompose s, drop combining marks, return (stripped, orig_pos_map).
+
+    orig_pos_map[i] gives the index in s that produced stripped[i].
+    Since accented chars decompose to base+combining, and we drop the combining
+    char, the resulting string may be shorter than s — hence the explicit map.
+    """
+    result: list[str] = []
+    pos_map: list[int] = []
+    for i, c in enumerate(s):
+        for ch in unicodedata.normalize("NFD", c):
+            if unicodedata.category(ch) != "Mn":   # keep non-combining chars
+                result.append(ch)
+                pos_map.append(i)
+    return "".join(result), pos_map
 
 
 def _norm(s: str) -> str:
@@ -117,6 +143,24 @@ def _find_match(text: str, phrase: str) -> "tuple[int, int] | None":
         for m in pattern.finditer(text):
             if _outside(m.start()):
                 return m.start(), m.end()
+
+    # Pass 4 — accent-normalised match (é→e, â→a, Æ→A, etc.)
+    # Uses NFD decomposition so it handles any accented Latin character.
+    stripped_text, text_map = _accent_strip_with_map(text)
+    stripped_phrase, _ = _accent_strip_with_map(phrase)
+    if stripped_text != text or stripped_phrase != phrase:
+        pos = 0
+        while pos < len(stripped_text):
+            idx = stripped_text.find(stripped_phrase, pos)
+            if idx == -1:
+                break
+            end_idx = idx + len(stripped_phrase) - 1
+            if end_idx < len(text_map):
+                orig_start = text_map[idx]
+                orig_end = text_map[end_idx] + 1
+                if _outside(orig_start):
+                    return orig_start, orig_end
+            pos = idx + 1
 
     return None
 
@@ -199,9 +243,36 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
             console.print(f"    [yellow]Phrase parse failed ({exc}); using text as-is[/yellow]")
             phrases = []
 
-        text = _inject_markers(original_text, phrases)
-        marked = sum(1 for p in phrases if f"**{p}**" in text)
-        console.print(f"      {marked}/{len(phrases)} phrases marked in text")
+        # Pre-verify each phrase against its source window before injection.
+        # Hallucinated phrases (not found in their window) are retried immediately.
+        windows = make_windows(original_text)
+        n_windows = len(windows)
+        verified: list[str] = []
+        for i, phrase in enumerate(phrases[:n_windows]):
+            window = windows[i]
+            if _find_match(window, phrase) is not None:
+                verified.append(phrase)
+            else:
+                console.print(
+                    f"      [dim]Window {i + 1}: {repr(phrase)} not in window — retrying...[/dim]"
+                )
+                retry_msgs = build_single_window_retry_prompt(
+                    book, chapter, i + 1, n_windows, window
+                )
+                try:
+                    retry_raw = client.complete(retry_msgs, temperature=0.3, max_tokens=128)
+                    retry_clean = retry_raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip().strip('"\'')
+                    if _find_match(window, retry_clean) is not None:
+                        verified.append(retry_clean)
+                        console.print(f"      [green]Window {i + 1}: retry -> {repr(retry_clean)}[/green]")
+                    else:
+                        console.print(f"      [yellow]Window {i + 1}: retry also failed, skipping[/yellow]")
+                except Exception as exc:
+                    console.print(f"      [yellow]Window {i + 1}: retry error ({exc}), skipping[/yellow]")
+
+        text = _inject_markers(original_text, verified)
+        marked = sum(1 for p in verified if f"**{p}**" in text)
+        console.print(f"      {marked}/{len(verified)} phrases marked in text")
 
     else:
         # ── AI prose mode (fallback) ──────────────────────────────────────────

@@ -9,206 +9,136 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau awakens to a serene winter morning, contemplating nature's silent answers to human questions."
-    link: "https://en.wikipedia.org/wiki/Walden_Pond"
-    link_label: "Walden Pond"
-  - point: "He describes the frozen pond as a dormant ecosystem, revealing its quiet beauty beneath the ice."
+  - point: "Thoreau reflects on waking to the serene presence of nature after a winter night."
+    link: "https://en.wikipedia.org/wiki/Nature_(essay)"
+    link_label: "Nature"
+  - point: "He describes cutting through snow and ice to access the pond's underwater world, likening it to a tranquil parlor."
     link: "https://en.wikipedia.org/wiki/Ice_fishing"
     link_label: "Ice fishing"
-  - point: "Thoreau marvels at the pickerel's vibrant colors, contrasting them with the mundane fish of Concord life."
-    link: "https://en.wikipedia.org/wiki/Pickerel_fish"
-    link_label: "Pickerel fish"
-  - point: "He surveys Walden Pond to dispel myths of its bottomlessness, finding its greatest depth to be 102 feet."
-    link: "https://en.wikipedia.org/wiki/Bathymetry"
-    link_label: "Bathymetry"
-  - point: "Thoreau reflects on the interconnectedness of nature and humanity, drawing parallels between pond depths and human character."
-    link: "https://en.wikipedia.org/wiki/Natural_philosophy"
-    link_label: "Natural philosophy"
-  - point: "He imagines the global journey of Walden's water, connecting it to sacred rivers and ancient myths."
-    link: "https://en.wikipedia.org/wiki/Ganges"
-    link_label: "Ganges"
+  - point: "Thoreau observes fishermen catching pickerel and perch, marveling at their connection to nature."
+    link: "https://en.wikipedia.org/wiki/Pickerel"
+    link_label: "Pickerel"
+  - point: "He recounts surveying Walden Pond to dispel myths of its bottomlessness and reveals its precise depth."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "Thoreau compares the Walden ice to emeralds and reflects on its purity and longevity."
+    link: "https://en.wikipedia.org/wiki/Ice"
+    link_label: "Ice"
+  - point: "He connects Walden water to global waterways, invoking the Bhagvat Geeta and sacred rivers like the Ganges."
+    link: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    link_label: "Bhagavad Gita"
 
 enhancements:
-  - id: "broad-windows"
-    trigger: "broad windows"
-    title: "Why Thoreau's Windows Were Unusually Wide"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Venetian_windows%2C_61_Broad_Street_-_geograph.org.uk_-_4844316.jpg/330px-Venetian_windows%2C_61_Broad_Street_-_geograph.org.uk_-_4844316.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Venetian windows, 61 Broad Street (CC BY-SA 2.0)"
-    content: "Thoreau's \"broad windows\" let in more than light—they were a deliberate architectural choice reflecting his Transcendentalist philosophy. In this chapter, he awakens to nature's serene face gazing through these windows, symbolizing openness to the world. Transcendentalists often emphasized the importance of connecting with nature to achieve spiritual clarity, and Thoreau's cabin design embodied this ethos. Large windows were uncommon in 19th-century rural homes, which prioritized insulation over views. Yet Thoreau's decision to build \"broad windows\" was an act of defiance against conventional living, creating a space where nature could permeate his thoughts. This moment reveals how Thoreau's physical environment mirrored his philosophical ideals: a life unshielded from the natural world, where every sunrise was an invitation to contemplate deeper truths."
-  - id: "divining-rod"
-    trigger: "divining rod"
-    title: "The Mystical Tool That Found Hidden Waters"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Divining_rod"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/De_Kamerleden_Van_Kol_en_Alberda_Albarda_als_wichelroedelopers%2C_SFA022815859.jpg/330px-De_Kamerleden_Van_Kol_en_Alberda_Albarda_als_wichelroedelopers%2C_SFA022815859.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Omschrijving: De Kamerleden Van Kol en Alberda [Albarda] als wichelroedelopers. Nederland, 1916. (Public domain)"
-    content: "Thoreau humorously suggests that finding water after a snowy night might require a \"divining rod.\" This ancient tool, often a forked stick or metal rod, was traditionally used to locate underground water sources—a practice blending superstition and rudimentary science. Divining rods were widely believed to work through the dowser's sensitivity to subtle vibrations, though modern science has debunked their efficacy. Thoreau's invocation of the divining rod here is playful, yet it underscores his deeper theme: humanity's reliance on nature's hidden systems. By likening his search for water to an act of divination, Thoreau hints at the mysterious interplay between human effort and natural abundance—a relationship central to his philosophy of living deliberately."
+  - id: "quiet-parlor-of-the-fishes"
+    trigger: "the quiet parlor of the fishes"
+    title: "What Lies Beneath Walden’s Frozen Surface?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_fishing"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau kneels to drink from the pond, peering into what he calls 'the quiet parlor of the fishes,' a serene underwater world visible through the ice. This poetic description evokes the amber-lit tranquility of the pond’s ecosystem, even in winter. The phrase suggests a hidden realm beneath the frozen surface, where life continues undisturbed. Ice fishing, a practice dating back thousands of years, often reveals such hidden aquatic worlds to those willing to brave the cold. Indigenous peoples of North America used ingenious methods to fish through ice, including tools made from bone and wood. Thoreau’s reverence for this underwater sanctuary aligns with his broader philosophy: nature’s beauty and complexity persist regardless of human interference. By likening the pond’s depths to a parlor, he invites readers to see nature as a living room of interconnected life, a space of quiet dignity that mirrors the human soul."
   - id: "pickerel-and-perch"
     trigger: "pickerel and perch"
-    title: "Why Winter Fishermen Revered These Fish"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_fishing"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ice_fisher_catching_a_fish_NB.jpg/330px-Ice_fisher_catching_a_fish_NB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Ice fisher catching a fish NB (Public domain)"
-    content: "Thoreau observes men fishing for pickerel and perch on the frozen pond, marveling at their connection to nature. Pickerel and perch are staples of New England's freshwater ecosystems and prized catches during winter. Pickerel, with their elongated bodies and sharp teeth, are aggressive predators, while perch are smaller and often used as bait for larger fish. Ice fishing, a practice dating back centuries, was not merely recreational but a vital source of sustenance during harsh winters. Thoreau's admiration for these fishermen lies in their instinctive knowledge of nature, contrasting them with townsfolk who rely on books. This scene encapsulates Thoreau's belief in the wisdom gained from direct engagement with the natural world—a theme woven throughout \"Walden.\""
-  - id: "arabia-to-our-concord-life"
-    trigger: "Arabia to our Concord life"
-    title: "Why Thoreau Compares Pickerel to Arabia"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Arabia"
+    title: "The Fish That Stitch Towns Together"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pickerel"
     image_url: ""
     image_caption: ""
-    content: "When Thoreau describes pickerel as \"foreign as Arabia to our Concord life,\" he evokes a sense of exotic wonder. Arabia, in the 19th century, symbolized a distant, mysterious land filled with treasures and untold stories. By likening the fish to such a place, Thoreau highlights their dazzling beauty and rarity in the mundane context of Concord's streets and markets. Pickerel, with their shimmering scales, appear almost otherworldly to him, embodying the transcendence he seeks in nature. This comparison reveals Thoreau's ability to find the extraordinary in the ordinary, transforming a simple fish into a symbol of nature's sublime artistry."
-  - id: "walden-road"
-    trigger: "Walden road"
-    title: "The Path That Led to Thoreau's Solitude"
+    content: "Thoreau observes men fishing for pickerel and perch through the ice, describing them as 'wild men' who connect towns through their movements. Pickerel, a type of freshwater fish, are known for their predatory behavior, while perch are smaller and often used as bait. These fish have long been staples of New England’s winter fishing culture, providing sustenance and a sense of community. Thoreau’s admiration for these fishermen stems from their deep, instinctive connection to nature—a contrast to the bookish knowledge of the naturalist. By highlighting the pickerel’s dazzling beauty and the perch’s role in the food chain, Thoreau underscores the interconnectedness of life. The act of fishing becomes a metaphor for human interdependence, stitching together not just towns but the fabric of existence itself."
+  - id: "pickerel-of-walden"
+    trigger: "the pickerel of Walden"
+    title: "Why Walden’s Pickerel Are Nature’s Jewels"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pickerel"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau marvels at the pickerel of Walden, describing them as 'fabulous fishes' with colors akin to flowers and precious stones. Pickerel, members of the pike family, are native to North America and thrive in cold, clear waters like Walden Pond. Their vibrant hues—gold, green, and emerald—make them stand out among other freshwater species. Thoreau’s poetic comparison elevates these fish to symbols of natural purity and beauty, contrasting them with the 'cadaverous cod and haddock' of commercial markets. By calling them 'small Waldens,' he suggests that the pond’s essence is encapsulated in its inhabitants. The pickerel become a living embodiment of Walden’s untouched splendor, reminding readers of the profound connection between place and life."
+  - id: "bottomless-ponds"
+    trigger: "Bottomless Ponds"
+    title: "The Myth of Bottomless Waters"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/330px-Walden_Pond_outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "An outlook of Walden Pond. (CC BY-SA 4.0)"
-    content: "The \"Walden road\" is more than a physical path—it represents the journey to Thoreau's experiment in simple living. This road, which connected Walden Pond to the bustling town of Concord, symbolized the tension between solitude and society. Thoreau often walked this road, bridging his isolated cabin life with the world he critiqued. In this chapter, he imagines the pickerel swimming beneath the road, untouched by the noise above—a metaphor for the hidden depths of nature beneath human activity. The Walden road thus becomes a poignant reminder of Thoreau's quest to balance engagement with the world and immersion in nature's quiet truths."
-  - id: "bottomlessness-of-a-pond"
-    trigger: "bottomlessness of a pond"
-    title: "Why People Believed Walden Was Bottomless"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lake_myths"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ash_Tree_%5E_the_bottomless_pond_-_geograph.org.uk_-_6423988.jpg/330px-Ash_Tree_%5E_the_bottomless_pond_-_geograph.org.uk_-_6423988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Ash Tree &amp; the bottomless pond (CC BY-SA 2.0)"
-    content: "Thoreau recounts local myths claiming Walden Pond was bottomless—a belief rooted in folklore and human imagination. Such myths often arise around deep, still bodies of water, which seem to defy ordinary perception. In the 19th century, tales of bottomless lakes were common, fueled by fears of the unknown and the allure of mystery. Thoreau's meticulous sounding of Walden's depth—102 feet—debunks these stories, yet he appreciates their symbolic resonance. To him, the idea of bottomlessness reflects humanity's yearning for the infinite, a theme central to \"Walden.\" By grounding the pond's depth in fact, Thoreau invites readers to find wonder not in exaggeration, but in nature's real, measurable beauty."
-  - id: "cod-line-and-a-stone"
-    trigger: "cod-line and a stone"
-    title: "The Simple Tools That Mapped Walden's Depths"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Plumb_bob"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Plumb_bob.jpg/330px-Plumb_bob.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Plumb bob suspended on a string, photo cropped with the Gimp. (CC BY-SA 3.0)"
-    content: "Thoreau used a \"cod-line and a stone\" to measure Walden's depth, demonstrating his resourcefulness and commitment to understanding nature firsthand. These tools, rudimentary but effective, were akin to the plumb bob used in surveying. By attaching a weighted stone to a rope, Thoreau could feel when the stone touched the pond's bottom, allowing him to calculate its depth. This method contrasts sharply with the myths of Walden's bottomlessness, emphasizing empirical observation over superstition. Thoreau's hands-on approach reflects his belief in direct engagement with the natural world, a cornerstone of his philosophy. Through this act, he transforms Walden Pond into a symbol of both mystery and measurable reality."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts the local lore of 'Bottomless Ponds,' including Walden, which some believed reached the other side of the globe. The myth of bottomless lakes is a recurring theme in folklore, often symbolizing mystery and depth beyond human comprehension. In reality, Walden Pond’s greatest depth is 102 feet, as Thoreau discovered through meticulous surveying. This depth, while remarkable for its size, pales in comparison to the imagined abyss. Thoreau uses this myth to explore human tendencies toward exaggeration and the allure of the infinite. By grounding the pond’s depth in measurable reality, he contrasts the imagination’s soaring heights with nature’s tangible truths, inviting readers to find wonder in the actual rather than the fantastical."
   - id: "william-gilpin"
     trigger: "William Gilpin"
-    title: "The Landscape Theorist Who Inspired Thoreau"
+    title: "The Man Who Made Landscapes Sublime"
     wikipedia_url: "https://en.wikipedia.org/wiki/William_Gilpin_(artist)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/William_Gilpin_by_Henry_Walton.jpg/330px-William_Gilpin_by_Henry_Walton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "William Gilpin by Henry Walton (Public domain)"
-    content: "Thoreau references William Gilpin, an 18th-century English artist and writer known for his theories on the picturesque. Gilpin's work emphasized the aesthetic qualities of natural landscapes, advocating for irregularity and ruggedness as markers of beauty. Thoreau, while surveying Walden Pond, engages with Gilpin's ideas indirectly, contemplating the pond's depths and surrounding hills as a harmonious whole. Gilpin's influence can be seen in Thoreau's appreciation for nature's subtle design—its ability to evoke wonder through both its simplicity and complexity. By invoking Gilpin, Thoreau connects his own observations to a broader tradition of landscape appreciation, enriching his philosophical exploration of Walden."
-  - id: "diluvian-crash"
-    trigger: "diluvian crash"
-    title: "Imagining the Cataclysm That Shaped Landscapes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Great_Flood_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau speculates about a \"diluvian crash\" that might have formed Loch Fyne, invoking the biblical and mythological idea of a great flood. Such cataclysms were often used in 19th-century geology to explain dramatic landforms, before plate tectonics provided a more scientific framework. The \"diluvian crash\" reflects humanity's tendency to attribute extraordinary events to natural wonders. Thoreau's musings on this topic reveal his fascination with nature's power to shape the earth, aligning with his broader theme of interconnectedness. By imagining the origins of landscapes, Thoreau deepens his appreciation for their present beauty, inviting readers to consider the forces that sculpt the world."
-  - id: "loch-fyne"
-    trigger: "Loch Fyne"
-    title: "What Scotland's Deep Bay Taught Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Loch_Fyne"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Loch_Fyne_from_Tighcladich.jpg/330px-Loch_Fyne_from_Tighcladich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Loch Fyne from Tighcladich (CC BY-SA 4.0)"
-    content: "Thoreau compares Walden Pond to Loch Fyne, a deep bay in Scotland renowned for its beauty and seafood. Loch Fyne's dramatic depth and mountainous surroundings serve as a foil to Walden's modest scale, highlighting the universal principles of nature's design. Thoreau's reference to Loch Fyne reflects his global perspective, connecting his local observations to broader landscapes. By juxtaposing the two, he underscores the idea that even the smallest natural features, like Walden Pond, can hold profound significance. This comparison invites readers to see Walden not just as a pond, but as a microcosm of the world's grandeur."
+    content: "Thoreau references William Gilpin, an 18th-century English artist and writer known for popularizing the concept of the 'picturesque' in landscape aesthetics. Gilpin’s works emphasized the beauty of irregular, rugged, and dramatic natural scenes, influencing Romantic artists and writers. Standing at Loch Fyne, Gilpin imagined the horrors of its chasm before the waters filled it, a vision Thoreau critiques for its exaggerated drama. Thoreau’s invocation of Gilpin serves as a counterpoint to his own philosophy: while Gilpin sought the sublime in grandiose landscapes, Thoreau finds it in the quiet perfection of Walden’s depths. This contrast highlights Thoreau’s belief that nature’s beauty lies not in spectacle but in subtlety, urging readers to appreciate the ordinary as extraordinary."
   - id: "white-pond"
     trigger: "White Pond"
-    title: "The Lesser-Known Neighbor of Walden"
-    wikipedia_url: "https://en.wikipedia.org/wiki/White_Pond,_Concord"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Water_reflection_of_stringy_gray_and_white_clouds_in_a_pond_on_a_sand_beach_of_Don_Khon_at_sunrise_in_Laos.jpg/330px-Water_reflection_of_stringy_gray_and_white_clouds_in_a_pond_on_a_sand_beach_of_Don_Khon_at_sunrise_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Water reflection of stringy gray and white clouds in a pond on a sand beach of Don Khon at sunrise in Laos (CC BY-SA 4.0)"
-    content: "Thoreau mentions White Pond, a nearby body of water smaller than Walden but equally serene. Located in Concord, Massachusetts, White Pond shares many characteristics with its famous counterpart, including its isolation and clarity. Thoreau's decision to survey White Pond reflects his broader interest in understanding nature's patterns, as he uses its dimensions to predict its deepest point. This act of comparison underscores Thoreau's belief that every natural feature, no matter how humble, deserves attention and study. White Pond thus becomes a quiet companion to Walden, a reminder that beauty and significance can be found in the overlooked corners of the world."
+    title: "A Smaller, Quieter Rival to Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/White_Pond"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau compares Walden to White Pond, a nearby body of water with similar characteristics but less fame. White Pond, located in Concord, Massachusetts, is smaller and quieter, often overshadowed by Walden’s literary legacy. Thoreau’s survey of White Pond reveals its depth and contours, paralleling his meticulous study of Walden. By examining both ponds, Thoreau underscores his belief that every natural feature, no matter how modest, holds significance. White Pond becomes a symbol of overlooked beauty, reminding readers that the grandeur of nature is not confined to celebrated landmarks but exists in every corner of the world."
   - id: "law-of-average"
-    trigger: "law of average"
-    title: "How Nature's Patterns Shape Human Lives"
+    trigger: "the law of average"
+    title: "How Nature’s Patterns Shape Human Lives"
     wikipedia_url: "https://en.wikipedia.org/wiki/Law_of_averages"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Law_of_Average.jpg/330px-Law_of_Average.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Law of Average (CC BY 4.0)"
-    content: "Thoreau applies the \"law of average\" to both ponds and human character, suggesting that patterns in nature mirror those in life. The law of averages, a statistical principle, predicts outcomes over time based on probability. Thoreau uses this concept metaphorically, arguing that a person's depth can be inferred from their circumstances and behaviors, just as a pond's deepest point can be predicted from its shape. This analogy reveals Thoreau's belief in the interconnectedness of all things, where natural laws inform ethical and philosophical truths. By linking the physical and moral worlds, Thoreau invites readers to see their own lives as part of nature's grand design."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau invokes 'the law of average' to draw parallels between the regularity of Walden’s depths and the contours of human character. The law of averages, a statistical principle, suggests that outcomes will even out over time. Thoreau applies this concept metaphorically, arguing that a person’s behavior and circumstances reveal their inner depth, much like a pond’s shape reflects its surroundings. This analogy bridges the natural and ethical worlds, suggesting that harmony arises from the interplay of countless unseen forces. Thoreau’s insight invites readers to consider how their own lives, like Walden, are shaped by both visible and invisible currents, urging introspection and a deeper connection to the natural world."
   - id: "achillean-shore"
     trigger: "Achillean shore"
-    title: "What Thoreau Meant by a Heroic Coastline"
+    title: "What Makes a Shore Achillean?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Achilles"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg/330px-Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Achilles fighting against Memnon Leiden Rijksmuseum voor Oudheden (CC0)"
-    content: "Thoreau's \"Achillean shore\" evokes the legendary Greek hero Achilles, known for his strength and vulnerability. By likening a person's surroundings to an \"Achillean shore,\" Thoreau suggests that external challenges shape inner depth. Achilles, whose heel was his only weakness, symbolizes the interplay between strength and fragility—a theme Thoreau explores in nature and humanity. This metaphor connects the rugged landscapes of Walden to the moral landscapes of human life, where bold circumstances foster profound character. Thoreau's choice of imagery underscores his belief that adversity, like a jagged shoreline, reveals the true contours of one's spirit."
-  - id: "rain-and-snow-and-evaporation"
-    trigger: "rain and snow and evaporation"
-    title: "The Invisible Forces That Sustain Walden"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Water_cycle"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/USGS_WaterCycle_English_ONLINE_20221013.png/330px-USGS_WaterCycle_English_ONLINE_20221013.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Diagram showing the global water cycle and how human water use impacts where water is stored and how it moves. (Public domain)"
-    content: "Thoreau identifies \"rain and snow and evaporation\" as Walden Pond's only inlet and outlet, emphasizing its self-contained ecosystem. These processes, part of the global water cycle, ensure the pond's renewal and purity. Unlike rivers or streams, Walden's isolation makes it a closed system, where precipitation and evaporation maintain its balance. Thoreau's observation highlights the pond's symbolic role as a microcosm of nature's self-sufficiency. By focusing on these subtle forces, he invites readers to appreciate the quiet mechanisms that sustain life, reminding us of nature's ability to thrive without human intervention."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau uses the term 'Achillean shore' to describe bold, mountainous landscapes that suggest depth and strength. Achilles, the legendary Greek hero, symbolizes invincibility and grandeur, qualities Thoreau attributes to certain natural features. This metaphor ties the physical geography of a place to the moral and intellectual character it inspires. Thoreau’s invocation of Achilles invites readers to see nature as a reflection of human potential, where towering peaks and deep valleys mirror the heights and depths of the soul. By likening shores to Achilles, Thoreau elevates the landscape to a realm of mythic significance, urging readers to find heroism in their own connection to the earth."
   - id: "leach-hole"
     trigger: "leach hole"
-    title: "The Mystery of Walden's Hidden Leak"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Seep_(hydrology)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Qanat-vent_holes_for_surge_flooding_of_adjacent_evaporation_fields.jpg/330px-Qanat-vent_holes_for_surge_flooding_of_adjacent_evaporation_fields.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Qanat-vent holes for surge flooding of adjacent evaporation fields (CC BY-SA 4.0)"
-    content: "Thoreau describes a \"leach hole\" where Walden Pond might leak into a neighboring meadow, a phenomenon tied to underground seepage. Leach holes, or natural drainage points, occur when water finds pathways through soil or rock. While Thoreau dismisses the idea of Walden needing \"soldering,\" he humorously entertains the possibility of colored powder proving a connection. This detail underscores Thoreau's curiosity about the unseen workings of nature, blending scientific inquiry with playful speculation. The leach hole becomes a metaphor for hidden connections, reminding readers that even the most self-contained systems are part of larger networks."
+    title: "The Mystery of Walden’s Hidden Leak"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Leach_(hydrology)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes a 'leach hole' in Walden Pond, a small cavity under ten feet of water that some believed connected the pond to a neighboring meadow. Leach holes, in hydrology, refer to natural drainage points where water escapes from a body of water. Thoreau’s curiosity about this phenomenon reflects his broader quest to understand the hidden workings of nature. He imagines experiments with colored powder to trace the water’s path, blending scientific inquiry with poetic imagination. This detail underscores Thoreau’s belief that even the smallest features of the natural world hold secrets worth uncovering, inviting readers to approach nature with both wonder and rigor."
   - id: "ice-rosettes"
     trigger: "ice rosettes"
-    title: "The Frozen Flowers Beneath Walden's Surface"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_flower"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ice_rosettes_on_my_car%27s_windshield%21.jpg/330px-Ice_rosettes_on_my_car%27s_windshield%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Ice rosettes on my windshield (CC BY 4.0)"
-    content: "Thoreau marvels at \"ice rosettes,\" intricate patterns formed by water channels freezing under the pond's surface. These formations, resembling spider webs or flowers, result from the interplay of temperature, water flow, and crystallization. Ice rosettes are rare and fleeting, appearing only under specific conditions. Thoreau's fascination with these natural designs reflects his broader appreciation for nature's artistry, even in its smallest details. By observing these ephemeral patterns, he finds beauty in the transient and the overlooked, reinforcing his belief that nature's wonders are everywhere for those who take the time to see."
-  - id: "terra-firma"
-    trigger: "terra firma"
-    title: "Why Thoreau Calls Ice Solid Ground"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Terra_firma"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Terra_Firma_-_geograph.org.uk_-_552103.jpg/330px-Terra_Firma_-_geograph.org.uk_-_552103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Terra Firma The East Neuk's most famous fishing boat. (CC BY-SA 2.0)"
-    content: "Thoreau humorously refers to ice as \"terra firma,\" highlighting its deceptive solidity. Terra firma, Latin for \"solid ground,\" contrasts with the ephemeral nature of ice, which melts with the seasons. Thoreau's choice of phrase underscores the irony of treating frozen water as stable land, a practice common among ice-cutters and winter travelers. This moment reveals Thoreau's awareness of nature's duality—its ability to appear unchanging while constantly in flux. By calling ice \"terra firma,\" he invites readers to question their assumptions about permanence and to see the world as a dynamic, ever-evolving system."
-  - id: "arctic-snow-birds"
-    trigger: "arctic snow-birds"
-    title: "The Workers Who Migrated to Walden's Ice"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Snow_bunting"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Snow_Bunting_%28Plectrophenax_nivalis%29%2C_Thule%2C_Greenland_1.jpg/330px-Snow_Bunting_%28Plectrophenax_nivalis%29%2C_Thule%2C_Greenland_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Male Snow Bunting in Breeding Plumage. Thule, Greenland. (CC BY 2.0)"
-    content: "Thoreau likens the Irish laborers harvesting ice to \"arctic snow-birds,\" evoking their migratory nature and resilience. Snow buntings, small white-and-brown birds, are native to the Arctic and known for their ability to thrive in harsh conditions. Thoreau's metaphor connects the workers' seasonal movement to the rhythms of nature, emphasizing their adaptability and industriousness. This imagery also highlights the contrast between the workers' transient presence and Walden's enduring solitude. By comparing human activity to bird migration, Thoreau underscores the interconnectedness of all life, where even the most mundane tasks echo nature's cycles."
-  - id: "ice-platform"
-    trigger: "ice platform"
-    title: "The Ingenious System Behind Walden's Ice Trade"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_trade"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_York_Ice_trade_colour.jpg/330px-New_York_Ice_trade_colour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Ice Trade in New York, 1884 (Public domain)"
-    content: "Thoreau describes the \"ice platform\" used to stack and transport Walden's ice, a key innovation in the 19th-century ice trade. Platforms allowed workers to efficiently move large quantities of ice, which was then shipped to distant cities and even overseas. The ice trade was a lucrative industry, with New England's ponds supplying ice to tropical regions like India and the Caribbean. Thoreau's observation of this process reveals his fascination with the intersection of nature and commerce. The ice platform becomes a symbol of humanity's ability to harness natural resources, while also raising questions about the impact of such exploitation on the environment."
-  - id: "valhalla"
-    trigger: "Valhalla"
-    title: "Why Thoreau Compares Ice Stacks to Norse Heaven"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Valhalla"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Walhalla_%281896%29_by_Max_Br%C3%BCckner.jpg/330px-Walhalla_%281896%29_by_Max_Br%C3%BCckner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Walhalla (1896) by Max Brückner (Public domain)"
-    content: "Thoreau likens the towering stacks of ice to \"Valhalla,\" the hall of slain warriors in Norse mythology. Valhalla, depicted as a grand and eternal fortress, symbolizes triumph and permanence. By invoking this imagery, Thoreau elevates the mundane act of ice harvesting to a mythic scale, emphasizing the workers' industriousness and the ice's striking beauty. The comparison also reflects Thoreau's penchant for finding grandeur in everyday scenes, transforming a pile of frozen water into a monument to winter's artistry. This moment invites readers to see the ordinary through a lens of wonder and imagination."
-  - id: "fresh-pond"
-    trigger: "Fresh Pond"
-    title: "The Ice That Stayed Sweet for Five Years"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fresh_Pond,_Cambridge,_Massachusetts"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fresh_Pond%2C_California.jpg/330px-Fresh_Pond%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Fresh Pond, California (CC BY 4.0)"
-    content: "Thoreau mentions ice from Fresh Pond that remained \"as good as ever\" after five years in storage. Fresh Pond, located in Cambridge, Massachusetts, was a major source of ice for the 19th-century trade. Its ice, known for its purity, was harvested and stored in insulated ice houses, where it could last for years without melting. Thoreau's observation highlights the remarkable properties of frozen water, which resists decay unlike liquid water. This detail underscores his fascination with nature's durability and its ability to preserve itself against time. Fresh Pond serves as a testament to the ingenuity of the ice trade and the enduring beauty of New England's natural resources."
+    title: "The Spiderwebs Hidden Inside Frozen Ponds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ice"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau marvels at 'ice rosettes,' intricate patterns formed when water flows through holes in the ice and refreezes. These spiderweb-like designs are a natural artwork, created by the interplay of temperature, water movement, and freezing. Ice rosettes highlight the dynamic processes occurring even in seemingly static winter landscapes. Thoreau’s fascination with these patterns reflects his broader appreciation for nature’s hidden beauty. By drawing attention to such ephemeral phenomena, he invites readers to see the world as a canvas of fleeting wonders, where even the coldest, quietest moments teem with life and creativity."
+  - id: "hyperborean-extraction"
+    trigger: "Hyperborean extraction"
+    title: "Who Were the Hyperboreans of Walden?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hyperborea"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau humorously describes the ice-cutters at Walden as of 'Hyperborean extraction,' likening them to mythical inhabitants of the far north. Hyperborea, in Greek mythology, was a land of eternal spring beyond the north wind, home to a blessed people untouched by hardship. Thoreau’s comparison underscores the ice-cutters’ resilience and industriousness in the harsh winter landscape. Their work, extracting tons of ice for distant markets, transforms Walden into a global resource. By invoking Hyperborea, Thoreau blends myth with reality, elevating the mundane labor of ice-cutting to a heroic endeavor that connects Walden to the wider world."
+  - id: "walden-ice"
+    trigger: "the Walden ice"
+    title: "Why Walden Ice Shines Like Emeralds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ice"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the Walden ice as having a green tint up close and a blue hue from afar, likening it to emeralds. This vivid imagery captures the unique clarity and purity of Walden’s frozen surface. Ice color varies based on trapped air bubbles and mineral content, with the most transparent ice appearing blue due to light absorption and scattering. Thoreau’s poetic observation transforms the ice into a symbol of Walden’s pristine beauty, contrasting it with the more ordinary ice of rivers and ponds. By elevating the ice to an object of wonder, he invites readers to see nature’s everyday phenomena as extraordinary."
   - id: "bhagvat-geeta"
-    trigger: "Bhagvat Geeta"
-    title: "The Ancient Text That Shaped Thoreau's Philosophy"
+    trigger: "the Bhagvat Geeta"
+    title: "Why Thoreau Bathed His Intellect in the Gita"
     wikipedia_url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg/330px-BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter 1.20.21 (Public domain)"
-    content: "Thoreau immerses himself in the \"Bhagvat Geeta,\" an ancient Hindu scripture, finding its philosophy \"stupendous and cosmogonal.\" The Bhagavad Gita, part of the Mahabharata, explores themes of duty, spirituality, and the eternal nature of the soul. Its teachings on living with purpose and detachment resonated deeply with Thoreau's Transcendentalist ideals. By juxtaposing this text with his daily rituals at Walden, Thoreau connects his local experiment in simplicity to universal truths. The Gita's emphasis on harmony between action and contemplation mirrors Thoreau's own quest to live deliberately, making it a spiritual companion to his reflections on nature and existence."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau begins his mornings by reading the Bhagvat Geeta, a cornerstone of Hindu philosophy, which he describes as 'cosmogonal' and sublime. The Bhagavad Gita, part of the Mahabharata, explores themes of duty, spirituality, and the eternal nature of the soul. Its teachings on detachment and harmony with the universe resonate deeply with Thoreau’s transcendentalist beliefs. By juxtaposing the Gita’s wisdom with his daily rituals at Walden, Thoreau bridges Eastern and Western philosophies, suggesting that universal truths transcend cultural boundaries. This connection enriches his vision of Walden as not just a physical place but a spiritual wellspring, where ancient wisdom flows alongside modern reflection."
+  - id: "sacred-water-of-the-ganges"
+    trigger: "the sacred water of the Ganges"
+    title: "How Walden Water Meets the Ganges"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ganges"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau imagines Walden’s water mingling with the sacred Ganges, connecting his pond to the spiritual heart of India. The Ganges River, revered in Hinduism, symbolizes purity and divine grace, its waters believed to cleanse sins and grant salvation. Thoreau’s metaphorical blending of Walden and the Ganges reflects his belief in the interconnectedness of all waters and cultures. By invoking the Ganges, he elevates Walden to a global and spiritual significance, suggesting that even the smallest pond participates in the sacred cycles of nature. This vision transforms Walden into a universal symbol of purity and transcendence."
   - id: "fabulous-islands-of-atlantis"
-    trigger: "fabulous islands of Atlantis"
-    title: "The Mythical Land That Fascinated Thoreau"
+    trigger: "the fabulous islands of Atlantis"
+    title: "Did Walden’s Water Touch Atlantis?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Atlantis"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Atlantis_Kircher_Mundus_subterraneus_1678.jpg/330px-Atlantis_Kircher_Mundus_subterraneus_1678.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "fiktive Karte mit Atlantis (Public domain)"
-    content: "Thoreau invokes the \"fabulous islands of Atlantis\" while imagining the global journey of Walden's water. Atlantis, a legendary civilization described by Plato, symbolizes lost perfection and mystery. Thoreau's reference connects the pond's humble waters to grand myths, suggesting that even the ordinary can partake in the extraordinary. By linking Walden to Atlantis, Thoreau expands the scope of his reflections, blending local observations with universal imagination. This moment underscores his belief in the interconnectedness of all things, where a single drop of water can carry the weight of history and myth."
-  - id: "hesperides"
-    trigger: "Hesperides"
-    title: "The Greek Myth of Eternal Gardens"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hesperides"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GardenHesperides_BurneJones.jpg/330px-GardenHesperides_BurneJones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Garden Hesperides (Maria Zambaco is one of the daughters of Night and Darkness) (Public domain)"
-    content: "Thoreau mentions the \"Hesperides,\" the mythical Greek gardens of eternal youth, while tracing Walden's water to distant lands. The Hesperides, guarded by nymphs and a dragon, were said to contain golden apples granting immortality. Thoreau's reference imbues Walden's water with a sense of timelessness and vitality, aligning the pond with ancient symbols of abundance. This connection reveals Thoreau's ability to weave myth into his observations, elevating the local to the universal. By invoking the Hesperides, he invites readers to see Walden as a source of enduring inspiration, a modern-day garden of natural wonder."
-  - id: "periplus-of-hanno"
-    trigger: "periplus of Hanno"
-    title: "The Ancient Voyage That Echoes Walden's Water"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Periplus_of_Hanno"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Periplus_of_Hanno_-_Map_to_illustrate_the_Periplus_of_Hanno.png/330px-The_Periplus_of_Hanno_-_Map_to_illustrate_the_Periplus_of_Hanno.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Map to illustrate the Periplus of Hanno (Public domain)"
-    content: "Thoreau imagines Walden's water completing the \"periplus of Hanno,\" a legendary Carthaginian voyage along Africa's coast. The Periplus of Hanno, a 5th-century BCE account, describes exploration, trade, and encounters with unfamiliar lands. By referencing this ancient journey, Thoreau connects Walden's local waters to a global narrative of discovery and movement. This metaphor underscores his belief in the interconnectedness of nature, where even a small pond participates in the world's vast cycles. The Periplus becomes a symbol of curiosity and exploration, mirroring Thoreau's own intellectual and spiritual journey at Walden."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau imagines Walden’s water passing by the 'fabulous islands of Atlantis,' invoking the legendary lost civilization. Atlantis, first described by Plato, symbolizes advanced knowledge and catastrophic loss, inspiring centuries of speculation and myth. Thoreau’s reference ties Walden to a broader narrative of mystery and exploration, suggesting that its waters, though humble, participate in the world’s grandest stories. By linking Walden to Atlantis, Thoreau invites readers to see the pond as a portal to imagination and history, where the local becomes universal and the ordinary becomes extraordinary."
 ---
 After a still winter night I awoke with the impression that some
 question had been put to me, which I had been endeavoring in vain to
 answer in my sleep, as what—how—when—where? But there was dawning
-Nature, in whom all creatures live, looking in at my **broad windows** with
+Nature, in whom all creatures live, looking in at my broad windows with
 serene and satisfied face, and no question on _her_ lips. I awoke to an
 answered question, to Nature and daylight. The snow lying deep on the
 earth dotted with young pines, and the very slope of the hill on which
@@ -222,7 +152,7 @@ from earth even into the plains of the ether.”
 
 Then to my morning work. First I take an axe and pail and go in search
 of water, if that be not a dream. After a cold and snowy night it
-needed a **divining rod** to find it. Every winter the liquid and trembling
+needed a divining rod to find it. Every winter the liquid and trembling
 surface of the pond, which was so sensitive to every breath, and
 reflected every light and shadow, becomes solid to the depth of a foot
 or a foot and a half, so that it will support the heaviest teams, and
@@ -232,7 +162,7 @@ hills, it closes its eye-lids and becomes dormant for three months or
 more. Standing on the snow-covered plain, as if in a pasture amid the
 hills, I cut my way first through a foot of snow, and then a foot of
 ice, and open a window under my feet, where, kneeling to drink, I look
-down into the quiet parlor of the fishes, pervaded by a softened light
+down into **the quiet parlor of the fishes**, pervaded by a softened light
 as through a window of ground glass, with its bright sanded floor the
 same as in summer; there a perennial waveless serenity reigns as in the
 amber twilight sky, corresponding to the cool and even temperament of
@@ -273,11 +203,11 @@ which, being pulled down, would show when he had a bite. These alders
 loomed through the mist at regular intervals as you walked half way
 round the pond.
 
-Ah, the pickerel of Walden! when I see them lying on the ice, or in the
+Ah, **the pickerel of Walden**! when I see them lying on the ice, or in the
 well which the fisherman cuts in the ice, making a little hole to admit
 the water, I am always surprised by their rare beauty, as if they were
 fabulous fishes, they are so foreign to the streets, even to the woods,
-foreign as **Arabia to our Concord life**. They possess a quite dazzling
+foreign as Arabia to our Concord life. They possess a quite dazzling
 and transcendent beauty which separates them by a wide interval from
 the cadaverous cod and haddock whose fame is trumpeted in our streets.
 They are not green like the pines, nor gray like the stones, nor blue
@@ -287,7 +217,7 @@ animalized _nuclei_ or crystals of the Walden water. They, of course,
 are Walden all over and all through; are themselves small Waldens in
 the animal kingdom, Waldenses. It is surprising that they are caught
 here,—that in this deep and capacious spring, far beneath the rattling
-teams and chaises and tinkling sleighs that travel the **Walden road**,
+teams and chaises and tinkling sleighs that travel the Walden road,
 this great gold and emerald fish swims. I never chanced to see its kind
 in any market; it would be the cynosure of all eyes there. Easily, with
 a few convulsive quirks, they give up their watery ghosts, like a
@@ -304,8 +234,8 @@ surveyed it carefully, before the ice broke up, early in ’46, with
 compass and chain and sounding line. There have been many stories told
 about the bottom, or rather no bottom, of this pond, which certainly
 had no foundation for themselves. It is remarkable how long men will
-believe in the **bottomlessness of a pond** without taking the trouble to
-sound it. I have visited two such Bottomless Ponds in one walk in this
+believe in the bottomlessness of a pond without taking the trouble to
+sound it. I have visited two such **Bottomless Ponds** in one walk in this
 neighborhood. Many have believed that Walden reached quite through to
 the other side of the globe. Some who have lain flat on the ice for a
 long time, looking down through the illusive medium, perchance with
@@ -319,7 +249,7 @@ any bottom; for while the “fifty-six” was resting by the way, they were
 paying out the rope in the vain attempt to fathom their truly
 immeasurable capacity for marvellousness. But I can assure my readers
 that Walden has a reasonably tight bottom at a not unreasonable, though
-at an unusual, depth. I fathomed it easily with a **cod-line and a stone**
+at an unusual, depth. I fathomed it easily with a cod-line and a stone
 weighing about a pound and a half, and could tell accurately when the
 stone left the bottom, by having to pull so much harder before the
 water got underneath to help me. The greatest depth was exactly one
@@ -344,7 +274,7 @@ to landscapes, and usually so correct, standing at the head of Loch
 Fyne, in Scotland, which he describes as “a bay of salt water, sixty or
 seventy fathoms deep, four miles in breadth,” and about fifty miles
 long, surrounded by mountains, observes, “If we could have seen it
-immediately after the **diluvian crash**, or whatever convulsion of Nature
+immediately after the diluvian crash, or whatever convulsion of Nature
 occasioned it, before the waters gushed in, what a horrid chasm must it
 have appeared!
 
@@ -352,7 +282,7 @@ have appeared!
      Down sunk a hollow bottom broad and deep,
      Capacious bed of waters—.”
 
-But if, using the shortest diameter of **Loch Fyne**, we apply these
+But if, using the shortest diameter of Loch Fyne, we apply these
 proportions to Walden, which, as we have seen, appears already in a
 vertical section only like a shallow plate, it will appear four times
 as shallow. So much for the _increased_ horrors of the chasm of Loch
@@ -364,7 +294,7 @@ Often an inquisitive eye may detect the shores of a primitive lake in
 the low horizon hills, and no subsequent elevation of the plain has
 been necessary to conceal their history. But it is easiest, as they who
 work on the highways know, to find the hollows by the puddles after a
-shower. The amount of it is, the imagination give it the least license,
+shower. The amount of it is, **the imagination give it the least license**,
 dives deeper and soars higher than Nature goes. So, probably, the depth
 of the ocean will be found to be very inconsiderable compared with its
 breadth.
@@ -441,8 +371,8 @@ with every step, and it has an infinite number of profiles, though
 absolutely but one form. Even when cleft or bored through it is not
 comprehended in its entireness.
 
-What I have observed of the pond is no less true in ethics. It is the
-**law of average**. Such a rule of the two diameters not only guides us
+What I have observed of the pond is no less true in ethics. It is **the
+law of average**. Such a rule of the two diameters not only guides us
 toward the sun in the system and the heart in man, but draw lines
 through the length and breadth of the aggregate of a man’s particular
 daily behaviors and waves of life into his coves and inlets, and where
@@ -474,7 +404,7 @@ merely refit for this world, and no natural currents concur to
 individualize them.
 
 As for the inlet or outlet of Walden, I have not discovered any but
-**rain and snow and evaporation**, though perhaps, with a thermometer and a
+rain and snow and evaporation, though perhaps, with a thermometer and a
 line, such places may be found, for where the water flows into the pond
 it will probably be coldest in summer and warmest in winter. When the
 ice-men were at work here in ’46–7, the cakes sent to the shore were
@@ -536,8 +466,8 @@ it is drawn through the streets. These ice-cutters are a merry race,
 full of jest and sport, and when I went among them they were wont to
 invite me to saw pit-fashion with them, I standing underneath.
 
-In the winter of ’46–7 there came a hundred men of Hyperborean
-extraction swoop down on to our pond one morning, with many car-loads
+In the winter of ’46–7 there came a hundred men of **Hyperborean
+extraction** swoop down on to our pond one morning, with many car-loads
 of ungainly-looking farming tools, sleds, ploughs, drill-barrows,
 turf-knives, spades, saws, rakes, and each man was armed with a
 double-pointed pike-staff, such as is not described in the New-England
@@ -555,11 +485,11 @@ they were bent on making this a model farm; but when I was looking
 sharp to see what kind of seed they dropped into the furrow, a gang of
 fellows by my side suddenly began to hook up the virgin mould itself,
 with a peculiar jerk, clean down to the sand, or rather the water,—for
-it was a very springy soil,—indeed all the _**terra firma**_ there was,—and
-haul it away on sleds, and then I guessed that they must be cutting
-peat in a bog. So they came and went every day, with a peculiar shriek
+it was a very springy soil,—indeed all the _terra firma_ there was,—and
+haul it away on sleds, and then I guessed that they must be **cutting
+peat in a bog**. So they came and went every day, with a peculiar shriek
 from the locomotive, from and to some point of the polar regions, as it
-seemed to me, like a flock of **arctic snow-birds**. But sometimes Squaw
+seemed to me, like a flock of arctic snow-birds. But sometimes Squaw
 Walden had her revenge, and a hired man, walking behind his team,
 slipped through a crack in the ground down toward Tartarus, and he who
 was so brave before suddenly became but the ninth part of a man, almost
@@ -571,7 +501,7 @@ set in the furrow and had to be cut out.
 To speak literally, a hundred Irishmen, with Yankee overseers, came
 from Cambridge every day to get out the ice. They divided it into cakes
 by methods too well known to require description, and these, being
-sledded to the shore, were rapidly hauled off on to an **ice platform**,
+sledded to the shore, were rapidly hauled off on to an ice platform,
 and raised by grappling irons and block and tackle, worked by horses,
 on to a stack, as surely as so many barrels of flour, and there placed
 evenly side by side, and row upon row, as if they formed the solid base
@@ -586,7 +516,7 @@ hay between the outside layers to exclude the air; for when the wind,
 though never so cold, finds a passage through, it will wear large
 cavities, leaving slight supports or studs only here and there, and
 finally topple it down. At first it looked like a vast blue fort or
-**Valhalla**; but when they began to tuck the coarse meadow hay into the
+Valhalla; but when they began to tuck the coarse meadow hay into the
 crevices, and this became covered with rime and icicles, it looked like
 a venerable moss-grown and hoary ruin, built of azure-tinted marble,
 the abode of Winter, that old man we see in the almanac,—his shanty, as
@@ -603,7 +533,7 @@ off, the rest remaining exposed to the sun, it stood over that summer
 and the next winter, and was not quite melted till September 1848. Thus
 the pond recovered the greater part.
 
-Like the water, the Walden ice, seen near at hand, has a green tint,
+Like the water, **the Walden ice**, seen near at hand, has a green tint,
 but at a distance is beautifully blue, and you can easily tell it from
 the white ice of the river, or the merely greenish ice of some ponds, a
 quarter of a mile off. Sometimes one of those great cakes slips from
@@ -616,7 +546,7 @@ with a greenish water somewhat like its own, but the next day will have
 frozen blue. Perhaps the blue color of water and ice is due to the
 light and air they contain, and the most transparent is the bluest. Ice
 is an interesting subject for contemplation. They told me that they had
-some in the ice-houses at **Fresh Pond** five years old which was as good
+some in the ice-houses at Fresh Pond five years old which was as good
 as ever. Why is it that a bucket of water soon becomes putrid, but
 frozen remains sweet forever? It is commonly said that this is the
 difference between the affections and the intellect.
@@ -638,7 +568,7 @@ men securely labored.
 Thus it appears that the sweltering inhabitants of Charleston and New
 Orleans, of Madras and Bombay and Calcutta, drink at my well. In the
 morning I bathe my intellect in the stupendous and cosmogonal
-philosophy of the **Bhagvat Geeta**, since whose composition years of the
+philosophy of **the Bhagvat Geeta**, since whose composition years of the
 gods have elapsed, and in comparison with which our modern world and
 its literature seem puny and trivial; and I doubt if that philosophy is
 not to be referred to a previous state of existence, so remote is its
@@ -648,9 +578,9 @@ Brahma and Vishnu and Indra, who still sits in his temple on the Ganges
 reading the Vedas, or dwells at the root of a tree with his crust and
 water jug. I meet his servant come to draw water for his master, and
 our buckets as it were grate together in the same well. The pure Walden
-water is mingled with the sacred water of the Ganges. With favoring
-winds it is wafted past the site of the **fabulous islands of Atlantis**
-and the **Hesperides**, makes the **periplus of Hanno**, and, floating by
+water is mingled with **the sacred water of the Ganges**. With favoring
+winds it is wafted past the site of **the fabulous islands of Atlantis**
+and the Hesperides, makes the periplus of Hanno, and, floating by
 Ternate and Tidore and the mouth of the Persian Gulf, melts in the
 tropic gales of the Indian seas, and is landed in ports of which
 Alexander only heard the names.

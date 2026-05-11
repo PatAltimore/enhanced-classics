@@ -9,166 +9,124 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau reflects on his love for society despite living in solitude."
+  - point: "Thoreau reflects on his love for society and his readiness to engage with visitors despite his solitary lifestyle."
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
-  - point: "He describes the symbolic significance of the three chairs in his house."
+  - point: "He describes the arrangement of his three chairs as symbolic of solitude, friendship, and society."
     link: "https://en.wikipedia.org/wiki/Walden"
     link_label: "Walden"
-  - point: "Thoreau recounts hosting visitors in the pine wood behind his house."
-    link: "https://en.wikipedia.org/wiki/Pine"
-    link_label: "Pine wood"
-  - point: "He shares anecdotes about Winslow's visit to Massasoit and the hospitality of the Native Americans."
-    link: "https://en.wikipedia.org/wiki/Massasoit"
-    link_label: "Massasoit"
-  - point: "Thoreau describes a Canadian woodchopper who embodies simplicity and contentment."
-    link: "https://en.wikipedia.org/wiki/Homer"
-    link_label: "Homer"
-  - point: "He reflects on the diversity of visitors, including runaway slaves and reformers."
+  - point: "Thoreau recounts hosting visitors in his small house and contrasts it with the extravagance of large homes."
+    link: "https://en.wikipedia.org/wiki/Tremont_House_(Boston)"
+    link_label: "Tremont House"
+  - point: "He shares his experience of conversing across the pond, emphasizing the need for physical and emotional space in meaningful dialogue."
+    link: "https://en.wikipedia.org/wiki/Walden_Pond"
+    link_label: "Walden Pond"
+  - point: "Thoreau recounts Winslow's visit to Massasoit, illustrating cultural differences in hospitality and resourcefulness."
+    link: "https://en.wikipedia.org/wiki/Edward_Winslow"
+    link_label: "Edward Winslow"
+  - point: "He describes encounters with diverse visitors, including runaway slaves, reformers, and philosophers, highlighting their varied perspectives."
     link: "https://en.wikipedia.org/wiki/Underground_Railroad"
     link_label: "Underground Railroad"
 
 enhancements:
   - id: "three-chairs-in-my-house"
     trigger: "three chairs in my house"
-    title: "Why Thoreau’s Three Chairs Were a Philosophy"
+    title: "Why Thoreau's Three Chairs Were a Philosophy"
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page from first edition of Henry David Thoreau's Walden (1854). (Public domain)"
-    content: "Thoreau writes, 'I had three chairs in my house; one for solitude, two for friendship, three for society.' These chairs are more than furniture—they are metaphors for his approach to human connection. The simplicity of his arrangement contrasts sharply with the excesses of 19th-century social norms, where homes were often designed to impress rather than to foster genuine interaction. By limiting his space to three chairs, Thoreau invites us to consider the essence of relationships: solitude for self-reflection, friendship for intimacy, and society for broader engagement. This triad encapsulates his minimalist philosophy, where material possessions serve the soul rather than distract it. In this chapter, the chairs symbolize the balance Thoreau seeks between isolation and community, challenging readers to rethink the spaces they create for interaction."
-  - id: "pine-wood-behind-my-house"
-    trigger: "pine wood behind my house"
-    title: "Thoreau’s Best Room: A Forest Sanctuary"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pine"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pinus_jeffreyi_at_Lassen_Volcanic_National_Park.jpg/330px-Pinus_jeffreyi_at_Lassen_Volcanic_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Pinus jeffreyi, Butte Lake, Lassen Volcanic National Park, California.  1,850 metres (6,070 ft) elevation. (CC BY 2.0)"
-    content: "Thoreau refers to the pine wood behind his house as his 'best' room, a place where he entertained distinguished guests during summer days. This natural setting served as his withdrawing room, a stark contrast to the lavish parlors of contemporary society. Pine trees, known for their resilience and simplicity, mirror Thoreau’s values of living close to nature. Historically, pine forests have been symbols of endurance and tranquility, often sought for their restorative qualities. By choosing the woods as his primary space for hospitality, Thoreau underscores his belief that nature provides a more authentic backdrop for human connection than artificial interiors. This choice reveals his intent to strip away societal pretensions and engage with others in a setting that embodies his philosophical ideals."
-  - id: "hasty-pudding"
-    trigger: "hasty-pudding"
-    title: "Why Hasty Pudding Was More Than a Meal"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hasty_pudding"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hasty_Pudding_Club_Stage.jpg/330px-Hasty_Pudding_Club_Stage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Drawing of the Hasty Pudding Club Stage at Harvard University circa 1876 (Public domain)"
-    content: "Thoreau mentions stirring a hasty pudding while entertaining a guest, illustrating his commitment to simplicity even in hospitality. Hasty pudding, a traditional dish made from cornmeal, was a staple in early American diets, valued for its affordability and ease of preparation. Its origins trace back to colonial times, where it symbolized self-reliance and resourcefulness. Thoreau’s choice to serve such a humble meal aligns with his philosophy of rejecting excess and embracing what is necessary. In this chapter, the act of preparing hasty pudding becomes a metaphor for the unpretentious and deliberate life he advocates, where sustenance and conversation are intertwined in their simplicity."
-  - id: "lines-of-spenser"
-    trigger: "lines of Spenser"
-    title: "How Edmund Spenser’s Verse Became Thoreau’s Motto"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau's description of his three chairs—one for solitude, two for friendship, and three for society—is more than a practical arrangement; it’s a metaphor for his entire philosophy. In this chapter, he uses the chairs to illustrate the balance between individual reflection, intimate connection, and communal interaction. The simplicity of this setup contrasts sharply with the sprawling mansions of his era, which he criticizes as excessive and isolating. Historically, the idea of furniture as symbolic of social roles dates back to ancient times, but Thoreau’s interpretation is uniquely personal and minimalist. By reducing his social world to three chairs, he emphasizes the importance of intentionality in relationships. This insight reveals Thoreau’s belief that meaningful human connection doesn’t require grandeur—it thrives in simplicity and authenticity."
+  - id: "talk-across-the-pond"
+    trigger: "talk across the pond"
+    title: "How Distance Shapes the Depth of Conversation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s remark about talking across the pond to a companion captures his belief in the value of physical and emotional space in communication. He contrasts this with the cramped quarters of his cabin, where proximity stifles the unfolding of grand ideas. The pond, a natural boundary, becomes a metaphor for the neutral ground necessary for thoughtful dialogue. Modern psychology supports this notion, suggesting that physical distance can reduce social pressure and foster deeper conversations. By situating this observation in the woods, Thoreau underscores his broader theme: nature provides the ideal setting for reflection and connection. The pond is not just a geographical feature; it’s a symbol of the balance between solitude and society that Thoreau seeks to achieve."
+  - id: "arrived-there-the-little-house-they-fill"
+    trigger: "Arrivéd there, the little house they fill"
+    title: "The Poetic Motto That Defined Thoreau’s Cabin"
     wikipedia_url: "https://en.wikipedia.org/wiki/Edmund_Spenser"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Edmund_Spenser_oil_painting.JPG/330px-Edmund_Spenser_oil_painting.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Edmund Spenser oil painting (Public domain)"
-    content: "Thoreau proudly adopts lines from Edmund Spenser as the motto for his cabin: 'Rest is their feast, and all things at their will: The noblest mind the best contentment has.' Spenser, a 16th-century poet, is best known for 'The Faerie Queene,' a work steeped in allegory and moral philosophy. These lines encapsulate the essence of Thoreau’s experiment at Walden Pond—a pursuit of contentment through simplicity and self-sufficiency. By invoking Spenser, Thoreau ties his transcendentalist ideals to a broader literary tradition, suggesting that true nobility lies not in wealth or status but in the ability to find satisfaction within oneself. The motto serves as a poetic affirmation of the themes explored throughout 'Walden.'"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s choice to inscribe lines from Edmund Spenser’s poetry as the motto of his cabin reflects his deep appreciation for simplicity and contentment. The verse, taken from Spenser’s epic poem 'The Faerie Queene,' celebrates modest living and the nobility of a contented mind. Thoreau’s cabin, a humble structure in the woods, embodies these ideals. Spenser’s work, written during the English Renaissance, often explored themes of virtue and the pastoral life, making it a fitting inspiration for Thoreau’s experiment in deliberate living. By aligning his home with these poetic values, Thoreau invites visitors to see his cabin not as a mere dwelling but as a philosophical statement—a place where rest and simplicity are the ultimate luxuries."
   - id: "winslow-governor-of-plymouth-colony"
     trigger: "Winslow, afterward governor of the Plymouth Colony"
-    title: "What Winslow’s Visit to Massasoit Reveals About Hospitality"
+    title: "The Journey That Shaped Early American Diplomacy"
     wikipedia_url: "https://en.wikipedia.org/wiki/Edward_Winslow"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Edward_Winslow.jpg/330px-Edward_Winslow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Portrait of Plymouth Colony Governor Edward Winslow (Public domain)"
-    content: "Thoreau recounts Edward Winslow’s visit to Massasoit, the leader of the Wampanoag Confederacy, as an example of hospitality under scarcity. Winslow, a key figure in the Plymouth Colony, documented his experiences with the Native Americans, highlighting their resourcefulness and communal spirit. Despite limited food supplies, Massasoit welcomed Winslow and his companion, sharing what little he had. This anecdote underscores the contrast between indigenous practices of sharing and the more formalized, material-based hospitality of European settlers. Thoreau uses this story to challenge conventional notions of generosity, suggesting that true hospitality lies in the willingness to share, regardless of abundance. It aligns with his broader critique of societal excess and his admiration for simpler, more authentic ways of living."
-  - id: "great-ocean-of-solitude"
-    trigger: "great ocean of solitude"
-    title: "Thoreau’s Ocean of Solitude: A Metaphor for Isolation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Solitude"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pyle_pirate_marooned.jpg/330px-Pyle_pirate_marooned.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Pyle pirate marooned (Public domain)"
-    content: "Thoreau describes withdrawing into the 'great ocean of solitude,' a vivid metaphor for his retreat from society. Solitude, often romanticized in literature and philosophy, has been associated with introspection and spiritual growth. Thoreau’s use of the ocean imagery conveys both the vastness and depth of his isolation, suggesting that solitude is not merely an absence of others but a profound space for self-discovery. This metaphor aligns with the transcendentalist belief in the individual’s capacity to connect with the divine through nature and reflection. In this chapter, the ocean of solitude becomes a sanctuary where Thoreau can sift through the sediment of society, finding clarity and purpose in his separation."
-  - id: "canadian-woodchopper-and-post-maker"
-    trigger: "Canadian, a woodchopper and post-maker"
-    title: "The Woodchopper Who Lived Like a Poet"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lumberjack"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_lumberjack_standing_at_the_base_of_a_huge_tree_showing_a_cut_in_the_tree%2C_ca.1900_%28CHS-3368%29.jpg/330px-A_lumberjack_standing_at_the_base_of_a_huge_tree_showing_a_cut_in_the_tree%2C_ca.1900_%28CHS-3368%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A lumberjack standing at the base of a huge tree showing a cut in the tree, ca.1900 (CHS-3368) (Public domain)"
-    content: "Thoreau introduces a Canadian woodchopper who embodies simplicity and contentment. This man, though coarse in appearance, possesses a quiet wisdom and an unpretentious joy in his work. Woodchoppers, historically vital to frontier life, were often seen as symbols of rugged individualism. Yet Thoreau’s portrayal elevates this figure to a kind of natural philosopher, who finds satisfaction in the physicality of his labor and the beauty of the woods. The woodchopper’s lack of intellectual ambition contrasts with Thoreau’s own pursuits, yet his genuine contentment offers a different perspective on what it means to live well. Through this character, Thoreau explores the idea that happiness can be found in simplicity and a deep connection to one’s environment."
-  - id: "achilles-reproof-to-patroclus"
-    trigger: "Achilles’ reproof to Patroclus"
-    title: "Why Thoreau Shared Homer’s Words in the Woods"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Achilles"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg/330px-Achilles_fighting_against_Memnon_Leiden_Rijksmuseum_voor_Oudheden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Achilles fighting against Memnon Leiden Rijksmuseum voor Oudheden (CC0)"
-    content: "Thoreau recounts translating Achilles’ reproof to Patroclus for the Canadian woodchopper, who had heard of Homer but did not understand his works. Achilles, a central figure in Greek mythology, symbolizes heroism and human frailty. This moment highlights the woodchopper’s curiosity and reverence for literature despite his lack of formal education. Homer’s epic tales, which have influenced countless generations, serve as a bridge between Thoreau’s intellectual world and the woodchopper’s practical existence. By sharing this passage, Thoreau underscores the universality of human emotions and the timeless relevance of classical texts. It also reflects his belief in the power of literature to elevate even the most humble lives."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts Edward Winslow’s visit to Massasoit, a pivotal moment in early colonial history. Winslow, who later became governor of Plymouth Colony, undertook this journey to strengthen alliances with the Wampanoag leader. The account of their visit, marked by shared hardships and cultural exchanges, reveals the complexities of early colonial-Indigenous relations. Winslow’s diplomacy laid the groundwork for the first Thanksgiving and the fragile peace that followed. Thoreau uses this story to highlight the resourcefulness and adaptability required in such encounters, drawing parallels to his own minimalist lifestyle. By invoking Winslow’s experience, Thoreau underscores the importance of mutual respect and understanding in bridging cultural divides."
+  - id: "homeric-or-paphlagonian-man"
+    trigger: "Homeric or Paphlagonian man"
+    title: "A Woodchopper’s Unexpected Connection to Homer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Homer"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s description of the Canadian woodchopper as a 'Homeric or Paphlagonian man' is both humorous and profound. The woodchopper, with his rugged simplicity and earthy wisdom, reminds Thoreau of the characters in Homer’s epics—ordinary men capable of extraordinary endurance and insight. Paphlagonia, an ancient region mentioned in Homer’s 'Iliad,' was known for its hardy warriors. The woodchopper’s connection to Homer is ironic; though he reveres the poet, he hasn’t read his works deeply. This juxtaposition highlights Thoreau’s belief that true wisdom often resides in the unlettered and unassuming. By likening the woodchopper to Homeric figures, Thoreau elevates the everyday laborer to the realm of epic heroism, challenging conventional notions of greatness."
   - id: "cold-woodchucks"
     trigger: "cold woodchucks"
     title: "Why Woodchucks Were a Frontier Delicacy"
     wikipedia_url: "https://en.wikipedia.org/wiki/Groundhog"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Marmota_monax_UL_04.jpg/330px-Marmota_monax_UL_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Groundhog on Laval University campus, Quebec, Canada (CC BY-SA 3.0)"
-    content: "Thoreau mentions the Canadian woodchopper’s habit of eating cold woodchucks, a detail that underscores the practicality of frontier life. Woodchucks, or groundhogs, were commonly hunted for their meat, which was considered a reliable source of protein. Indigenous peoples and early settlers often relied on such animals for survival, using every part of the creature for food, clothing, or tools. The woodchopper’s casual consumption of woodchucks reflects his resourcefulness and connection to the land. For Thoreau, this detail exemplifies the simplicity and self-sufficiency he admired, contrasting sharply with the wastefulness of urban living. It serves as a reminder of the abundance that nature provides when approached with respect and ingenuity."
-  - id: "bean-field"
-    trigger: "bean-field"
-    title: "Thoreau’s Bean Field: A Symbol of Cultivation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Title page from first edition of Henry David Thoreau's Walden (1854). (Public domain)"
-    content: "The woodchopper crosses Thoreau’s bean-field, a space that holds deep symbolic significance in 'Walden.' Thoreau cultivated this field not just for sustenance but as an experiment in self-reliance and a metaphor for personal growth. Beans, often associated with simplicity and nourishment, represent the fruits of labor and the connection between man and earth. The act of farming allowed Thoreau to engage directly with the cycles of nature, reinforcing his transcendentalist belief in the interdependence of all living things. The bean-field becomes a microcosm of his philosophy, where the physical act of cultivation mirrors the intellectual and spiritual cultivation he seeks in his life at Walden Pond."
-  - id: "chickadees"
-    trigger: "chickadees"
-    title: "The Tiny Birds That Befriended a Woodchopper"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Chickadee"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Chestnut-backed_Chickadee%2C_Poecile_rufescens_II.jpg/330px-Chestnut-backed_Chickadee%2C_Poecile_rufescens_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "San Luis Obispo Co., CA (CC BY 2.0)"
-    content: "Thoreau describes the woodchopper’s interactions with chickadees, small songbirds that would alight on his arm and peck at his food. Chickadees, known for their curiosity and adaptability, are a common sight in New England forests. Their willingness to approach humans reflects their bold and sociable nature, making them favorites among birdwatchers. This moment captures the harmony between the woodchopper and his environment, where even wildlife becomes a companion in his solitary existence. For Thoreau, such encounters exemplify the interconnectedness of all living beings and the quiet joys of living close to nature. It’s a fleeting yet profound reminder of the beauty found in simple, unassuming moments."
-  - id: "metaphysical-puzzle"
-    trigger: "metaphysical puzzle"
-    title: "The Pauper Who Challenged Thoreau’s Philosophy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Metaphysics"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aristotle%2C_Metaphysics%2C_Incunabulum.jpg/330px-Aristotle%2C_Metaphysics%2C_Incunabulum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Aristotle, Metaphysics, Incunabulum (Public domain)"
-    content: "Thoreau refers to a simple-minded pauper as a 'metaphysical puzzle,' marveling at his sincerity and humility. Metaphysics, the branch of philosophy concerned with existence and reality, often grapples with questions of human worth and purpose. This pauper, despite his self-proclaimed intellectual deficiency, embodies a profound truth: that simplicity and authenticity can transcend conventional measures of intelligence. Thoreau’s interaction with him challenges societal assumptions about value and capability, suggesting that wisdom can be found in unexpected places. The pauper’s candid reflections serve as a counterpoint to the pretensions of more learned visitors, offering Thoreau a unique perspective on the human condition and the nature of true humility."
-  - id: "runaway-slaves"
-    trigger: "runaway slaves"
-    title: "Thoreau’s Role in the Underground Railroad"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Underground_Railroad"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Undergroundrailroadsmall2.jpg/330px-Undergroundrailroadsmall2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Undergroundrailroadsmall2 (Public domain)"
-    content: "Thoreau mentions helping runaway slaves on their journey north, highlighting his quiet participation in the Underground Railroad. This secret network of abolitionists provided safe passage for enslaved individuals seeking freedom, often at great personal risk. Thoreau’s involvement reflects his commitment to social justice and his belief in the moral imperative to resist unjust laws. His actions align with the transcendentalist principle of prioritizing conscience over compliance. In this chapter, the presence of runaway slaves serves as a stark reminder of the societal injustices Thoreau sought to escape and critique. It also underscores the interconnectedness of his personal experiment with broader ethical concerns."
-  - id: "northstar"
-    trigger: "northstar"
-    title: "Why the North Star Guided Runaway Slaves"
-    wikipedia_url: "https://en.wikipedia.org/wiki/North_Star"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2004_Northstar_LH2.jpg/330px-2004_Northstar_LH2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A longitudinally mounted 2004 Northstar V8 from a Cadillac XLR. (CC0)"
-    content: "Thoreau helped a runaway slave find his way toward the 'northstar,' a symbol of freedom and hope for those escaping bondage. The North Star, or Polaris, has long been a navigational beacon due to its fixed position in the night sky. For enslaved individuals, it became a metaphor for liberation, guiding them toward northern states and Canada where slavery was outlawed. Thoreau’s reference to the North Star ties his personal commitment to abolitionism with the broader struggle for human rights. It also serves as a poignant reminder of the literal and figurative journeys undertaken by those seeking freedom, aligning with the transcendentalist belief in the inherent dignity of every individual."
-  - id: "white-mountains"
-    trigger: "White Mountains"
-    title: "Why Visitors Wanted a Guestbook Like the White Mountains"
-    wikipedia_url: "https://en.wikipedia.org/wiki/White_Mountains_(New_Hampshire)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/White_Sandstone_Mountains_Gerakas_4.jpg/330px-White_Sandstone_Mountains_Gerakas_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "\"White Sandstone Mountains\" erosion formations near Gerakas Beach, Zakynthos. (CC BY-SA 4.0)"
-    content: "Thoreau mentions a visitor’s suggestion to keep a guestbook, like those found in the White Mountains. This mountain range in New Hampshire has long been a popular destination for travelers, known for its stunning landscapes and historic inns. Guestbooks in such locations often served as records of visitors’ experiences and reflections, creating a communal narrative of exploration and appreciation. Thoreau’s rejection of the idea reflects his preference for individual memory over collective documentation, emphasizing the personal nature of his experiment at Walden Pond. The mention of the White Mountains highlights the contrast between the structured tourism of the region and Thoreau’s unorthodox approach to solitude and hospitality."
-  - id: "medicine-chest"
-    trigger: "medicine chest"
-    title: "Why Thoreau Mocked the Village’s Medicine Chest Mentality"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Medicine_chest"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Medicine_chest_used_by_Captain_Scott%2C_1910-1912._%289663809848%29.jpg/330px-Medicine_chest_used_by_Captain_Scott%2C_1910-1912._%289663809848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Medicine chest used by Captain Scott, 1910-1912. (9663809848) (CC BY-SA 2.0)"
-    content: "Thoreau humorously critiques the villagers’ reliance on a 'medicine chest,' symbolizing their obsession with safety and preparedness. Medicine chests, common in 19th-century households, contained remedies for various ailments and reflected the era’s growing interest in health and hygiene. Thoreau’s disdain for this mentality stems from his belief that fear of illness and death inhibits true living. By mocking the villagers’ cautious approach, he underscores his philosophy of embracing life’s uncertainties and trusting in nature’s remedies. This critique aligns with his broader rejection of societal conventions, advocating instead for a life grounded in simplicity and self-reliance."
-  - id: "self-styled-reformers"
-    trigger: "self-styled reformers"
-    title: "Why Thoreau Found Reformers to Be Bores"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Social_reform"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Reformed_church_3.jpg/330px-Reformed_church_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Great Reformed Church in Karcag rebuilt 1793-1797 in classical  architectural style. (CC BY-SA 4.0)"
-    content: "Thoreau refers to 'self-styled reformers' as the greatest bores among his visitors, criticizing their tendency to impose their ideas on others. Social reformers of the 19th century were often driven by a zeal for change, advocating for causes ranging from abolition to temperance. While Thoreau shared many of their ideals, he rejected their methods, favoring personal transformation over collective activism. His disdain for these reformers highlights his belief in the importance of individual conscience and action, rather than adherence to prescribed movements. This critique serves as a reminder that Thoreau’s philosophy was deeply personal, rooted in the idea that true change begins within."
-  - id: "walden-pond"
-    trigger: "Walden Pond"
-    title: "The Bottomless Mystery of Walden Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Walden_Pond_outlook.jpg/330px-Walden_Pond_outlook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "An outlook of Walden Pond. (CC BY-SA 4.0)"
-    content: "Thoreau compares certain men to Walden Pond, which was once thought to be bottomless. Walden Pond, a glacial kettle-hole in Massachusetts, has long fascinated visitors with its depth and clarity. Early settlers believed it had no bottom, a myth that added to its mystique. Modern measurements reveal a maximum depth of about 102 feet, but the pond’s metaphorical depth remains infinite in Thoreau’s writings. By likening men to Walden Pond, Thoreau suggests that even the most unassuming individuals can possess profound, hidden depths. This comparison ties the physical landscape to the philosophical themes of 'Walden,' emphasizing the interconnectedness of nature and humanity."
-  - id: "pecunia"
-    trigger: "pecunia"
-    title: "Why Thoreau Linked Money to Livestock"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Money"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Euro_coins_and_banknotes_%28cropped%29.jpg/330px-Euro_coins_and_banknotes_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A picture of some Euro banknotes and various Euro coins. (Public domain)"
-    content: "Thoreau discusses the origin of the word 'pecunia,' which derives from the Latin word for cattle. In ancient economies, livestock served as a primary form of wealth and currency, reflecting the agrarian roots of human civilization. The transition from barter systems to monetary economies marked a significant shift in societal organization, enabling more complex trade and commerce. Thoreau’s reflection on pecunia ties his critique of materialism to historical context, suggesting that the true value of money lies in its utility rather than its accumulation. This etymological insight reinforces his broader argument for simplicity and the rejection of excess."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s mention of 'cold woodchucks' as part of the woodchopper’s diet offers a glimpse into frontier survival. Woodchucks, or groundhogs, were commonly hunted and eaten in rural America, valued for their protein and availability. Indigenous peoples and early settlers often relied on such game, preparing it in stews or roasting it over open fires. The woodchopper’s casual consumption of cold woodchuck reflects his pragmatic approach to life, where sustenance takes precedence over culinary refinement. Thoreau uses this detail to emphasize the woodchopper’s connection to nature and his unpretentious lifestyle. It’s a reminder that simplicity, even in diet, can be a source of contentment and resilience."
+  - id: "canadian-french"
+    trigger: "Canadian French"
+    title: "The Language That Bridged Cultures in the Woods"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Canadian_French"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s interaction with the woodchopper, who greets him in Canadian French, highlights the linguistic diversity of 19th-century America. Canadian French, derived from the dialects of early French settlers, was widely spoken in regions like Quebec and parts of New England. For Thoreau, this language adds a poetic dimension to the woodchopper’s character, connecting him to a rich cultural heritage. The woodchopper’s bilingualism also reflects the blending of cultures on the frontier, where French, English, and Indigenous languages often intersected. Thoreau’s appreciation for this linguistic nuance underscores his broader theme of finding beauty and meaning in the ordinary and overlooked."
+  - id: "an-almanac-and-an-arithmetic"
+    trigger: "an almanac and an arithmetic"
+    title: "The Two Books That Defined a Woodchopper’s World"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Almanac"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau notes that the woodchopper’s library consists of an almanac and an arithmetic, revealing much about his practical worldview. Almanacs, popular in the 19th century, were essential guides for farmers and laborers, offering weather forecasts, planting schedules, and moral advice. Arithmetic books, meanwhile, provided the mathematical tools needed for trade and daily tasks. These two books symbolize the woodchopper’s reliance on functional knowledge over abstract ideas. Thoreau admires this simplicity, contrasting it with the intellectual excesses of urban life. By highlighting these humble texts, Thoreau invites readers to reconsider what constitutes wisdom and to value the practical over the theoretical."
   - id: "platos-definition-of-a-man"
     trigger: "Plato’s definition of a man"
-    title: "Why Thoreau’s Woodchopper Laughed at Plato’s Man"
+    title: "The Featherless Biped That Sparked a Philosophical Joke"
     wikipedia_url: "https://en.wikipedia.org/wiki/Plato"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/330px-Plato_Silanion_Musei_Capitolini_MC1377.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Plato Silanion Musei Capitolini MC1377 (Public domain)"
-    content: "Thoreau recounts the woodchopper’s reaction to Plato’s definition of man as 'a biped without feathers.' This definition, famously mocked by Diogenes the Cynic, who presented a plucked chicken as 'Plato’s man,' highlights the limitations of reductive categorizations. The woodchopper’s observation about the knees bending the wrong way adds a humorous twist, showcasing his practical mindset. Thoreau uses this anecdote to illustrate the gap between philosophical abstraction and everyday wisdom. It serves as a reminder that profound truths can often be found in the simplest observations, aligning with Thoreau’s transcendentalist belief in the value of direct experience over theoretical knowledge."
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts the woodchopper’s reaction to Plato’s definition of a man as 'a biped without feathers,' a famous philosophical jest. The definition, intended to provoke thought about human nature, was humorously critiqued when Diogenes presented a plucked chicken as 'Plato’s man.' The woodchopper’s observation about the knees bending the wrong way adds a rustic, practical twist to this ancient debate. Thoreau uses this anecdote to illustrate the woodchopper’s earthy wisdom, which cuts through abstract philosophy with common sense. It’s a reminder that profound insights can emerge from the most unassuming minds, challenging the elitism often associated with intellectual discourse."
+  - id: "re-origination-of-many-of-the-institutions"
+    trigger: "re-origination of many of the institutions"
+    title: "How a Woodchopper’s Simplicity Redefines Society"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Social_institution"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau observes that the woodchopper’s primitive thinking leads to the 're-origination of many of the institutions' of society. This phrase suggests that the woodchopper, unburdened by formal education, approaches societal norms with fresh eyes, questioning their necessity and function. His practical perspective often aligns with the original purposes of these institutions, untainted by speculation or tradition. Thoreau admires this ability to see the world anew, contrasting it with the rigidity of conventional thought. By highlighting this quality, Thoreau challenges readers to reconsider the foundations of their own beliefs and to embrace simplicity as a path to genuine understanding."
+  - id: "runaway-slaves"
+    trigger: "runaway slaves"
+    title: "The Hidden Stories of Freedom Seekers at Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Underground_Railroad"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s mention of runaway slaves visiting his cabin connects his experiment in solitude to the broader struggle for freedom in America. The Underground Railroad, a network of safe houses and routes, helped enslaved people escape to free states and Canada. Thoreau’s role in aiding a runaway slave reflects his commitment to abolitionist principles and his belief in individual moral responsibility. This encounter adds a layer of urgency and humanity to his philosophical musings, reminding readers that the pursuit of freedom—whether personal or societal—is fraught with risk and sacrifice. By including this detail, Thoreau situates his cabin as a site of both reflection and action."
+  - id: "men-of-ideas-instead-of-legs"
+    trigger: "men of ideas instead of legs"
+    title: "The Intellectual Centipedes That Made Thoreau Crawl"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Intellectual_history"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s vivid description of 'men of ideas instead of legs' paints a humorous yet critical portrait of overly intellectual individuals. These 'intellectual centipedes,' as he calls them, are so consumed by their thoughts that they lose touch with practical reality. Thoreau’s disdain for such figures reflects his belief in the importance of grounding philosophy in lived experience. This critique aligns with his broader rejection of abstract theorizing in favor of direct engagement with nature and society. By invoking this image, Thoreau challenges readers to balance intellectual pursuits with physical and emotional presence, ensuring that ideas remain connected to the world they aim to improve."
+  - id: "medicine-chest"
+    trigger: "medicine chest"
+    title: "Why Huckleberrying Wasn’t for the Faint of Heart"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Medicine_chest"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s quip about villagers needing a 'medicine chest' to go huckleberrying humorously critiques the pervasive fear of accidents and illness in his community. Medicine chests, common in 19th-century households, symbolized preparedness and self-reliance. Thoreau contrasts this cautious mindset with his own embrace of risk and simplicity, suggesting that over-preparation stifles the joy of spontaneous living. This observation ties into his broader critique of societal dependence on material comforts and safety nets. By highlighting this detail, Thoreau invites readers to reconsider their own fears and dependencies, advocating for a life that prioritizes experience over security."
+  - id: "welcome-englishmen"
+    trigger: "Welcome, Englishmen!"
+    title: "The Greeting That Bridged Cultures at Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/English_Americans"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s cheerful greeting, 'Welcome, Englishmen!' reflects his openness to visitors and his recognition of shared cultural heritage. English Americans, descendants of early settlers, were among the diverse individuals who visited Thoreau’s cabin. This phrase also evokes the spirit of hospitality and curiosity that defined Thoreau’s interactions with others. By welcoming 'Englishmen,' Thoreau acknowledges the historical ties between his experiment in simplicity and the broader traditions of English pastoral literature and philosophy. This greeting encapsulates his belief in the universality of human connection, transcending boundaries of nationality and class to celebrate the shared pursuit of freedom and understanding."
 ---
 I think that I love society as much as most, and am ready enough to
 fasten myself like a bloodsucker for the time to any full-blooded man
@@ -203,8 +161,8 @@ before it reaches the ear of the hearer, else it may plough out again
 through the side of his head. Also, our sentences wanted room to unfold
 and form their columns in the interval. Individuals, like nations, must
 have suitable broad and natural boundaries, even a considerable neutral
-ground, between them. I have found it a singular luxury to talk across
-the pond to a companion on the opposite side. In my house we were so
+ground, between them. I have found it a singular luxury to **talk across
+the pond** to a companion on the opposite side. In my house we were so
 near that we could not begin to hear,—we could not speak low enough to
 be heard; as when you throw two stones into calm water so near that
 they break each other’s undulations. If we are merely loquacious and
@@ -223,13 +181,13 @@ touched the wall in opposite corners, and then commonly there was not
 room enough.
 
 My “best” room, however, my withdrawing room, always ready for company,
-on whose carpet the sun rarely fell, was the **pine wood behind my house**.
+on whose carpet the sun rarely fell, was the pine wood behind my house.
 Thither in summer days, when distinguished guests came, I took them,
 and a priceless domestic swept the floor and dusted the furniture and
 kept the things in order.
 
 If one guest came he sometimes partook of my frugal meal, and it was no
-interruption to conversation to be stirring a **hasty-pudding**, or
+interruption to conversation to be stirring a hasty-pudding, or
 watching the rising and maturing of a loaf of bread in the ashes, in
 the mean while. But if twenty came and sat in my house there was
 nothing said about dinner, though there might be bread enough for two,
@@ -248,16 +206,16 @@ effectually deterred from frequenting a man’s house, by any kind of
 Cerberus whatever, as by the parade one made about dining me, which I
 took to be a very polite and roundabout hint never to trouble him so
 again. I think I shall never revisit those scenes. I should be proud to
-have for the motto of my cabin those **lines of Spenser** which one of my
+have for the motto of my cabin those lines of Spenser which one of my
 visitors inscribed on a yellow walnut leaf for a card:—
 
-     “Arrivéd there, the little house they fill,
+     “**Arrivéd there, the little house they fill**,
          Ne looke for entertainment where none was;
      Rest is their feast, and all things at their will:
          The noblest mind the best contentment has.”
 
 When **Winslow, afterward governor of the Plymouth Colony**, went with a
-companion on a visit of ceremony to **Massasoit** on foot through the
+companion on a visit of ceremony to Massasoit on foot through the
 woods, and arrived tired and hungry at his lodge, they were well
 received by the king, but nothing was said about eating that day. When
 the night arrived, to quote their own words,—“He laid us on the bed
@@ -287,26 +245,26 @@ while I lived in the woods than at any other period in my life; I mean
 that I had some. I met several there under more favorable circumstances
 than I could any where else. But fewer came to see me on trivial
 business. In this respect, my company was winnowed by my mere distance
-from town. I had withdrawn so far within the **great ocean of solitude**,
+from town. I had withdrawn so far within the great ocean of solitude,
 into which the rivers of society empty, that for the most part, so far
 as my needs were concerned, only the finest sediment was deposited
 around me. Beside, there were wafted to me evidences of unexplored and
 uncultivated continents on the other side.
 
-Who should come to my lodge this morning but a true Homeric or
-Paphlagonian man,—he had so suitable and poetic a name that I am sorry
-I cannot print it here,—a **Canadian, a woodchopper and post-maker**, who
+Who should come to my lodge this morning but a true **Homeric or
+Paphlagonian man**,—he had so suitable and poetic a name that I am sorry
+I cannot print it here,—a Canadian, a woodchopper and post-maker, who
 can hole fifty posts in a day, who made his last supper on a woodchuck
 which his dog caught. He, too, has heard of Homer, and, “if it were not
 for books,” would “not know what to do rainy days,” though perhaps he
 has not read one wholly through for many rainy seasons. Some priest who
 could pronounce the Greek itself taught him to read his verse in the
 testament in his native parish far away; and now I must translate to
-him, while he holds the book, **Achilles’ reproof to Patroclus** for his
+him, while he holds the book, Achilles’ reproof to Patroclus for his
 sad countenance.—“Why are you in tears, Patroclus, like a young girl?”—
 
      “Or have you alone heard some news from Phthia?
-     They say that **Menœtius lives yet, son of Actor**,
+     They say that Menœtius lives yet, son of Actor,
      And Peleus lives, son of Æacus, among the Myrmidons,
      Either of whom having died, we should greatly grieve.”
 
@@ -328,7 +286,7 @@ carrying his dinner to his work a couple of miles past my house,—for he
 chopped all summer,—in a tin pail; cold meats, often **cold woodchucks**,
 and coffee in a stone bottle which dangled by a string from his belt;
 and sometimes he offered me a drink. He came along early, crossing my
-**bean-field**, though without anxiety or haste to get to his work, such as
+bean-field, though without anxiety or haste to get to his work, such as
 Yankees exhibit. He wasn’t a-going to hurt himself. He didn’t care if
 he only earned his board. Frequently he would leave his dinner in the
 bushes, when his dog had caught a woodchuck by the way, and go back a
@@ -352,7 +310,7 @@ He interested me because he was so quiet and solitary and so happy
 withal; a well of good humor and contentment which overflowed at his
 eyes. His mirth was without alloy. Sometimes I saw him at his work in
 the woods, felling trees, and he would greet me with a laugh of
-inexpressible satisfaction, and a salutation in Canadian French, though
+inexpressible satisfaction, and a salutation in **Canadian French**, though
 he spoke English as well. When I approached him he would suspend his
 work, and with half-suppressed mirth lie along the trunk of a pine
 which he had felled, and, peeling off the inner bark, roll it up into a
@@ -364,7 +322,7 @@ myself well enough here chopping; I want no better sport.” Sometimes,
 when at leisure, he amused himself all day in the woods with a pocket
 pistol, firing salutes to himself at regular intervals as he walked. In
 the winter he had a fire by which at noon he warmed his coffee in a
-kettle; and as he sat on a log to eat his dinner the **chickadees** would
+kettle; and as he sat on a log to eat his dinner the chickadees would
 sometimes come round and alight on his arm and peck at the potato in
 his fingers; and he said that he “liked to have the little _fellers_
 about him.”
@@ -379,7 +337,7 @@ in that innocent and ineffectual way in which the Catholic priests
 teach the aborigines, by which the pupil is never educated to the
 degree of consciousness, but only to the degree of trust and reverence,
 and a child is not made a man, but kept a child. When Nature made him,
-she gave him a strong body and contentment for his portion, and propped
+she gave him a strong body and **contentment for his portion**, and propped
 him on every side with reverence and reliance, that he might live out
 his threescore years and ten a child. He was so genuine and
 unsophisticated that no introduction would serve to introduce him, more
@@ -415,9 +373,9 @@ know whether he was as wise as Shakespeare or as simply ignorant as a
 child, whether to suspect him of a fine poetic consciousness or of
 stupidity. A townsman told me that when he met him sauntering through
 the village in his small close-fitting cap, and whistling to himself,
-he reminded him of a **prince in disguise**.
+he reminded him of a prince in disguise.
 
-His only books were an **almanac and an arithmetic**, in which last he was
+His only books were **an almanac and an arithmetic**, in which last he was
 considerably expert. The former was a sort of cyclopædia to him, which
 he supposed to contain an abstract of human knowledge, as indeed it
 does to a considerable extent. I loved to sound him on the various
@@ -430,7 +388,7 @@ soaked hemlock leaves in water and drank it, and thought that was
 better than water in warm weather. When I asked him if he could do
 without money, he showed the convenience of money in such a way as to
 suggest and coincide with the most philosophical accounts of the origin
-of this institution, and the very derivation of the word _**pecunia**_. If
+of this institution, and the very derivation of the word _pecunia_. If
 an ox were his property, and he wished to get needles and thread at the
 store, he thought it would be inconvenient and impossible soon to go on
 mortgaging some portion of the creature each time to that amount. He
@@ -465,7 +423,7 @@ There was a certain positive originality, however slight, to be
 detected in him, and I occasionally observed that he was thinking for
 himself and expressing his own opinion, a phenomenon so rare that I
 would any day walk ten miles to observe it, and it amounted to the
-re-origination of many of the institutions of society. Though he
+**re-origination of many of the institutions** of society. Though he
 hesitated, and perhaps failed to express himself distinctly, he always
 had a presentable thought behind. Yet his thinking was so primitive and
 immersed in his animal life, that, though more promising than a merely
@@ -473,7 +431,7 @@ learned man’s, it rarely ripened to any thing which can be reported. He
 suggested that there might be men of genius in the lowest grades of
 life, however permanently humble and illiterate, who take their own
 view always, or do not pretend to see at all; who are as bottomless
-even as **Walden Pond** was thought to be, though they may be dark and
+even as Walden Pond was thought to be, though they may be dark and
 muddy.
 
 
@@ -503,7 +461,7 @@ Lord cared as much for him as for another. “I have always been so,”
 said he, “from my childhood; I never had much mind; I was not like
 other children; I am weak in the head. It was the Lord’s will, I
 suppose.” And there he was to prove the truth of his words. He was a
-**metaphysical puzzle** to me. I have rarely met a fellow-man on such
+metaphysical puzzle to me. I have rarely met a fellow-man on such
 promising ground,—it was so simple and sincere and so true all that he
 said. And, true enough, in proportion as he appeared to humble himself
 was he exalted. I did not know at first but it was the result of a wise
@@ -530,14 +488,14 @@ looked at me beseechingly, as much as to say,—
      “O Christian, will you send me back?”
 
 One real runaway slave, among the rest, whom I helped to forward toward
-the **northstar**. Men of one idea, like a hen with one chicken, and that a
+the northstar. Men of one idea, like a hen with one chicken, and that a
 duckling; men of a thousand ideas, and unkempt heads, like those hens
 which are made to take charge of a hundred chickens, all in pursuit of
 one bug, a score of them lost in every morning’s dew,—and become
-frizzled and mangy in consequence; men of ideas instead of legs, a sort
+frizzled and mangy in consequence; **men of ideas instead of legs**, a sort
 of intellectual centipede that made you crawl all over. One man
 proposed a book in which visitors should write their names, as at the
-**White Mountains**; but, alas! I have too good a memory to make that
+White Mountains; but, alas! I have too good a memory to make that
 necessary.
 
 I could not but notice some of the peculiarities of my visitors. Girls
@@ -565,7 +523,7 @@ they would not go a-huckleberrying without a **medicine chest**. The amount
 of it is, if a man is alive, there is always _danger_ that he may die,
 though the danger must be allowed to be less in proportion as he is
 dead-and-alive to begin with. A man sits as many risks as he runs.
-Finally, there were the **self-styled reformers**, the greatest bores of
+Finally, there were the self-styled reformers, the greatest bores of
 all, who thought that I was forever singing,—
 
      This is the house that I built;
@@ -583,5 +541,5 @@ I had more cheering visitors than the last. Children come a-berrying,
 railroad men taking a Sunday morning walk in clean shirts, fishermen
 and hunters, poets and philosophers; in short, all honest pilgrims, who
 came out to the woods for freedom’s sake, and really left the village
-behind, I was ready to greet with,—“Welcome, Englishmen! welcome,
+behind, I was ready to greet with,—“**Welcome, Englishmen!** welcome,
 Englishmen!” for I had had communication with that race.

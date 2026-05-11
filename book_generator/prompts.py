@@ -191,13 +191,19 @@ def _split_text(text: str, n: int) -> list[str]:
     return sections
 
 
+def make_windows(text: str) -> list[str]:
+    """Split text into annotation windows using the same parameters as build_phrase_prompt."""
+    word_count = len(text.split())
+    n = max(_MIN_WINDOWS, min(_MAX_WINDOWS, word_count // _WORDS_PER_WINDOW))
+    return _split_text(text, n)
+
+
 def build_phrase_prompt(book: dict, chapter: dict, text: str) -> list[dict]:
     """Pass 1 (source-text mode): identify one annotation phrase per fixed-size window."""
-    word_count = len(text.split())
-    n_windows = max(_MIN_WINDOWS, min(_MAX_WINDOWS, word_count // _WORDS_PER_WINDOW))
-    words_per_window = word_count // n_windows
+    windows = make_windows(text)
+    n_windows = len(windows)
+    words_per_window = len(text.split()) // n_windows
 
-    windows = _split_text(text, n_windows)
     windows_text = "\n\n".join(
         f"[WINDOW {i + 1} of {n_windows}]\n{win}"
         for i, win in enumerate(windows)
@@ -214,6 +220,36 @@ def build_phrase_prompt(book: dict, chapter: dict, text: str) -> list[dict]:
             n_windows=n_windows,
             words_per_window=words_per_window,
             windows_text=windows_text,
+        )},
+    ]
+
+
+_RETRY_SYSTEM = """\
+You are a literary annotator for Enhanced Classics.
+
+Pick EXACTLY ONE annotation phrase from the window of text shown below — a concept,
+person, place, event, or scientific/historical idea that a modern reader would benefit
+from understanding more deeply.
+
+Rules:
+- The phrase MUST be a verbatim substring of the window — copy character-for-character.
+- Prefer short, specific phrases (1–5 words).
+- Return ONLY the phrase as a bare JSON string, e.g.: "Walden Pond"
+- No markdown fences, no commentary.\
+"""
+
+
+def build_single_window_retry_prompt(
+    book: dict, chapter: dict, window_idx: int, n_windows: int, window_text: str
+) -> list[dict]:
+    """Retry prompt for a single window when the original phrase failed verification."""
+    return [
+        {"role": "system", "content": _RETRY_SYSTEM},
+        {"role": "user", "content": (
+            f'Book: "{book["title"]}" by {book["author"]} ({book["year"]})\n'
+            f'Chapter {chapter["number"]}: {chapter["title"]}\n\n'
+            f'[WINDOW {window_idx} of {n_windows}]\n{window_text}\n\n'
+            f'Return one verbatim annotation phrase from this window as a JSON string.'
         )},
     ]
 
