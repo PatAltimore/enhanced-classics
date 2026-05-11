@@ -189,33 +189,6 @@ books:
   # Add new books below. The generator will create the folder automatically.
   # ---------------------------------------------------------------------------
 
-  - slug: "pride-and-prejudice"
-    title: "Pride and Prejudice"
-    author: "Jane Austen"
-    year: 1813
-    # Gutenberg ID 1342.  Chapter headings: "CHAPTER II.", "CHAPTER III." etc.
-    # (ALL CAPS Roman numerals, with optional trailing period).
-    # Books.yaml uses custom thematic titles; set gutenberg_n per chapter to map
-    # to the right Gutenberg chapter ordinal.
-    gutenberg_id: 1342
-    gutenberg_split: pattern
-    gutenberg_re: '^CHAPTER [IVXLC]+\.?\s*$'
-    gutenberg_heading_lines: 1
-    description: >
-      Elizabeth Bennet navigates questions of marriage, morality, and
-      social standing in Regency-era England, sparring with the proud
-      and wealthy Mr. Darcy.
-    chapters:
-      - number: 1
-        title: "A Single Man of Good Fortune"
-        slug: "chapter-01-a-single-man"
-      - number: 2
-        title: "Mr. Bennet Calls on Bingley"
-        slug: "chapter-02-mr-bennet-calls"
-      - number: 3
-        title: "The Netherfield Ball"
-        slug: "chapter-03-netherfield-ball"
-
   - slug: "the-time-machine"
     title: "The Time Machine"
     author: "H.G. Wells"
