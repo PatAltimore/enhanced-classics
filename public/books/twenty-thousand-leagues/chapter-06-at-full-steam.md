@@ -9,137 +9,385 @@ book_slug: "twenty-thousand-leagues"
 license: "public-domain"
 
 summary:
-  - point: "The Nautilus, a marvel of engineering, moves through the ocean with unmatched precision under Captain Nemo's guidance."
-    link: "https://en.wikipedia.org/wiki/Nautilus_(Verne)"
-    link_label: "Nautilus"
-  - point: "The salon of the Nautilus offers breathtaking views of the ocean, illuminated by its powerful lamps."
-    link: "https://en.wikipedia.org/wiki/Salon_(architecture)"
-    link_label: "Salon"
-  - point: "Conseil identifies luminescent fish and other marine life, marveling at the ocean's artistry."
+  - point: "The crew of the Abraham Lincoln spots a mysterious illuminated object in the water, believed to be a giant narwhal."
+    link: "https://en.wikipedia.org/wiki/Narwhal"
+    link_label: "Narwhal"
+  - point: "The object displays an intense electrical light and moves with incredible speed, outpacing the frigate."
     link: "https://en.wikipedia.org/wiki/Bioluminescence"
-    link_label: "Luminescent fish"
-  - point: "Captain Nemo explains the electric propulsion system of the Nautilus, powered by oceanic energy sources."
-    link: "https://en.wikipedia.org/wiki/Electric_motor"
-    link_label: "Electric propulsion system"
-  - point: "The ocean floor reveals coral reefs, underwater volcanoes, and black smokers, showcasing the dynamic nature of marine ecosystems."
-    link: "https://en.wikipedia.org/wiki/Coral_reef"
-    link_label: "Coral reefs"
-  - point: "Captain Nemo reflects on the ocean's eternal nature, contrasting it with the fleeting concept of peace."
-    link: "https://en.wikipedia.org/wiki/Ocean"
-    link_label: "Ocean depths"
+    link_label: "Bioluminescence"
+  - point: "The crew prepares for combat, loading weapons and sharpening harpoons, but struggles to keep up with the creature."
+    link: "https://en.wikipedia.org/wiki/Harpoon"
+    link_label: "Harpoon"
+  - point: "The captain orders the forecastle gun to be fired at the creature, but the shot fails to fatally injure it."
+    link: "https://en.wikipedia.org/wiki/Naval_artillery"
+    link_label: "Naval artillery"
+  - point: "Ned Land attempts to harpoon the creature during a stealthy nighttime approach, but the encounter ends in chaos as the creature retaliates."
+    link: "https://en.wikipedia.org/wiki/Whaling"
+    link_label: "Whaling"
+  - point: "The chapter ends with the narrator falling into the sea after the creature's violent reaction to the harpoon strike."
+    link: "https://en.wikipedia.org/wiki/Maritime_accident"
+    link_label: "Maritime accident"
 
 enhancements:
-  - id: "nautilus-submarine"
-    trigger: "Nautilus"
-    title: "Nautilus Submarine in Fiction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nautilus_(Verne)"
+  - id: "abraham-lincoln-frigate"
+    trigger: "Abraham Lincoln"
+    title: "Why Verne Named a Ship After Lincoln"
+    wikipedia_url: "https://en.wikipedia.org/wiki/USS_Abraham_Lincoln"
     image_url: ""
     image_caption: ""
-    content: "The Nautilus is Captain Nemo's advanced submarine in Jules Verne's novel, symbolizing technological ingenuity and human ambition. Its design and capabilities were far ahead of its time, inspiring real-world submarine development and influencing science fiction. The vessel represents Nemo's escape from the surface world's chaos and his quest for freedom beneath the waves."
-  - id: "salon-nautilus"
-    trigger: "salon"
-    title: "Salon of the Nautilus"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Salon_(architecture)"
-    image_url: ""
-    image_caption: ""
-    content: "The salon aboard the Nautilus is a luxurious space designed for observation and reflection, featuring large viewing panels that showcase the underwater world. This room highlights Captain Nemo's blend of opulence and functionality, creating a setting that immerses passengers in the ocean's beauty while emphasizing the vessel's sophistication."
-  - id: "bioluminescent-fish"
-    trigger: "luminescent fish"
-    title: "Bioluminescent Marine Life"
+    content: "When Jules Verne chose the name \"Abraham Lincoln\" for the frigate in his novel, he was making a deliberate nod to the American president who had been assassinated just five years before the book's publication. The USS Abraham Lincoln was not a real ship at the time, but Verne's choice reflects his admiration for Lincoln's leadership and the global impact of his legacy. Verne, a Frenchman, was fascinated by American innovation and democracy, and naming the ship after Lincoln may have symbolized the cutting-edge technology and determination embodied by the frigate. In the context of the novel, the Abraham Lincoln represents humanity's attempt to confront the unknown with courage and ingenuity—a fitting tribute to the man who navigated his nation through its darkest hours."
+  - id: "phosphoric-phenomenon"
+    trigger: "phosphoric phenomenon"
+    title: "The Science Behind Glowing Seas"
     wikipedia_url: "https://en.wikipedia.org/wiki/Bioluminescence"
     image_url: ""
     image_caption: ""
-    content: "Bioluminescent fish and other organisms produce light through chemical reactions, often to attract mates, deter predators, or hunt prey. This phenomenon is common in deep-sea environments, where sunlight does not penetrate. Verne's depiction of these creatures underscores the ocean's mysterious and alien qualities."
-  - id: "argonaut-mollusk"
-    trigger: "Argonaut"
-    title: "Argonaut Mollusk"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Argonaut_(animal)"
+    content: "When the crew debates whether the glowing sea is a \"phosphoric phenomenon,\" they are referencing the natural occurrence of bioluminescence. This glow is often caused by tiny organisms like dinoflagellates, which emit light when disturbed. Sailors throughout history have marveled at this eerie glow, sometimes attributing it to supernatural forces. However, the light described in this chapter far exceeds the typical brightness of bioluminescence, suggesting something far more extraordinary. Verne uses this moment to heighten the mystery and suspense, blending scientific plausibility with the fantastical to keep readers questioning the boundaries between reality and imagination."
+  - id: "electric-rings"
+    trigger: "electric rings"
+    title: "Could a Sea Creature Really Glow Electrically?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Electroluminescence"
     image_url: ""
     image_caption: ""
-    content: "The Argonaut, or paper nautilus, is a unique cephalopod known for its delicate, shell-like egg case. These creatures are a testament to the ocean's diversity and the intricate adaptations of marine life. Verne's inclusion of the Argonaut highlights the scientific curiosity of his characters and the novel's educational aspects."
-  - id: "sea-anemones"
-    trigger: "sea anemones"
-    title: "Sea Anemones: Ocean's Flowers"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sea_anemone"
+    content: "The \"electric rings\" described as encircling the Abraham Lincoln evoke the phenomenon of electroluminescence, where materials emit light in response to an electric current. While no known sea creature produces light in this way, Verne's description pushes the boundaries of scientific speculation. In the 19th century, electricity was a burgeoning field of study, and Verne often incorporated cutting-edge science into his works. By imagining a creature with such capabilities, Verne not only dazzles his audience but also explores humanity's awe and fear of the unknown forces shaping the natural world. This moment underscores the novel's theme of confronting the limits of human understanding."
+  - id: "caudal-appendage"
+    trigger: "caudal appendage"
+    title: "The Tail That Defied Physics"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tail_(anatomy)"
     image_url: ""
     image_caption: ""
-    content: "Sea anemones are colorful, flower-like marine animals that belong to the phylum Cnidaria. They play a crucial role in marine ecosystems, often forming symbiotic relationships with other species like clownfish. Their vibrant appearance and ecological importance make them a fascinating subject in marine biology."
-  - id: "electric-propulsion-nautilus"
-    trigger: "electric propulsion system"
-    title: "Electric Propulsion in Nautilus"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Electric_motor"
+    content: "The \"caudal appendage\" of the mysterious creature thrashes the water with such force that it creates a dazzling white track. This description highlights the immense power and size of the animal, which far exceeds that of any known marine mammal. In biology, a caudal appendage refers to the tail, often a critical tool for propulsion in aquatic animals. Verne's depiction exaggerates this natural function to emphasize the creature's otherworldly abilities. By focusing on the tail's violent motion, Verne builds tension and awe, making the creature not just a scientific curiosity but a symbol of nature's untamed power."
+  - id: "forecastle-gun"
+    trigger: "forecastle gun"
+    title: "The Naval Weapon That Missed Its Mark"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Naval_artillery"
     image_url: ""
     image_caption: ""
-    content: "The Nautilus's electric propulsion system represents a groundbreaking concept in Verne's time, showcasing the potential of renewable energy sources. This innovation allows the submarine to operate independently of surface vessels, emphasizing Nemo's self-sufficiency and the novel's forward-thinking approach to technology."
-  - id: "coral-reef-ecosystems"
-    trigger: "coral reefs"
-    title: "Coral Reef Ecosystems"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Coral_reef"
+    content: "The forecastle gun, a staple of naval warfare, is brought into play as the crew attempts to strike the elusive creature. Naval artillery like this was designed for long-range combat, capable of firing heavy projectiles with precision. However, the shot fails to penetrate the creature's tough exterior, sliding off harmlessly into the depths. This moment underscores the futility of human technology against the unknown. Verne uses the failed attack to heighten the suspense and emphasize the creature's invulnerability, setting the stage for a confrontation that is as much psychological as it is physical."
+  - id: "electric-light-reappeared"
+    trigger: "electric light reappeared"
+    title: "The Glow That Refused to Die"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bioluminescence"
     image_url: ""
     image_caption: ""
-    content: "Coral reefs are vital marine ecosystems that support a vast array of biodiversity. Built by coral polyps over centuries, these structures provide habitat, food, and protection for countless species. Verne's depiction of reefs highlights their beauty and ecological significance, as well as the delicate balance of oceanic life."
-  - id: "underwater-volcanoes"
-    trigger: "underwater volcanoes"
-    title: "Underwater Volcanoes and Geology"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Submarine_volcano"
+    content: "When the electric light reappears after hours of pursuit, it reignites the crew's determination and dread. This recurring glow defies natural explanation, suggesting a creature with capabilities far beyond those of known marine life. Bioluminescence, while common in some sea organisms, cannot account for the intensity and persistence of this light. Verne uses the reappearance to build suspense and deepen the mystery, keeping readers on edge as the crew prepares for another encounter. The light becomes a symbol of the unknown, a beacon drawing humanity into the depths of discovery and danger."
+  - id: "sonorous-stroke"
+    trigger: "sonorous stroke"
+    title: "The Harpoon Strike That Changed Everything"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Harpoon"
     image_url: ""
     image_caption: ""
-    content: "Underwater volcanoes, or submarine volcanoes, are geological formations that erupt beneath the ocean's surface. These eruptions can create new landforms and influence marine ecosystems. Verne's inclusion of underwater volcanoes adds to the novel's exploration of Earth's dynamic processes and the mysteries of the deep sea."
-  - id: "black-smokers"
-    trigger: "black smokers"
-    title: "Black Smokers: Deep-Sea Vents"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hydrothermal_vent"
-    image_url: ""
-    image_caption: ""
-    content: "Black smokers are hydrothermal vents on the ocean floor that release mineral-rich water, supporting unique ecosystems. These vents are crucial for understanding the origins of life and the adaptability of organisms in extreme environments. Verne's reference to black smokers underscores the novel's scientific depth and fascination with the ocean's secrets."
-  - id: "ocean-depths"
-    trigger: "ocean depths"
-    title: "The Ocean Depths: A Frontier"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ocean"
-    image_url: ""
-    image_caption: ""
-    content: "The ocean depths represent one of Earth's last unexplored frontiers, home to unique ecosystems and geological phenomena. Verne's portrayal of this realm emphasizes its alien nature and the freedom it offers from terrestrial constraints, aligning with Captain Nemo's philosophy of escape and discovery."
+    content: "The \"sonorous stroke\" of Ned Land's harpoon marks a pivotal moment in the chapter. The sound suggests the harpoon struck a hard surface, hinting at the creature's armored exterior. Harpoons, traditionally used in whaling, are designed to pierce flesh, but here they fail to penetrate. This moment symbolizes humanity's struggle against forces it cannot fully comprehend or control. Verne uses the harpoon strike to escalate the tension, leading to the creature's violent retaliation and the narrator's fall into the sea. The sound of the strike lingers as a reminder of the limits of human power in the face of nature's mysteries."
 ---
-The **Nautilus**, that marvel of engineering and mystery, surged forward with a vigor unmatched by any vessel I had ever encountered. Its journey, like a silent predator stalking the depths, was guided by the steady resolve of Captain Nemo, whose calculations seemed to align not only with nautical precision but with the very rhythm of the ocean itself. We were now fully immersed in the enigmatic domain of the seas, a world that felt more alien than any celestial sphere.
+At this cry the whole ship’s crew hurried towards the
+harpooner,—commander, officers, masters, sailors, cabin boys; even the
+engineers left their engines, and the stokers their furnaces.
 
-Standing in the **salon**, surrounded by its opulent yet functional furnishings, I found myself drawn to the immense viewing panels that framed the ocean outside like living canvases. The light from the Nautilus’s powerful lamps illuminated the murk, revealing a tapestry of aquatic life that swirled and danced in an eternal ballet. Schools of **luminescent fish** darted amidst floating forests of kelp, their movements as synchronized as if choreographed by nature itself. Conseil, ever the naturalist, stood beside me, his sharp eyes cataloging creatures faster than I could name them.
+The order to stop her had been given, and the frigate now simply went
+on by her own momentum. The darkness was then profound, and however
+good the Canadian’s eyes were, I asked myself how he had managed to
+see, and what he had been able to see. My heart beat as if it would
+break. But Ned Land was not mistaken, and we all perceived the object
+he pointed to. At two cables’ length from the _**Abraham Lincoln**_, on the
+starboard quarter, the sea seemed to be illuminated all over. It was
+not a mere **phosphoric phenomenon**. The monster emerged some fathoms from
+the water, and then threw out that very intense but inexplicable light
+mentioned in the report of several captains. This magnificent
+irradiation must have been produced by an agent of great _shining_
+power. The luminous part traced on the sea an immense oval, much
+elongated, the centre of which condensed a burning heat, whose
+overpowering brilliancy died out by successive gradations.
 
-"A wonder, Monsieur! See there, the **Argonaut** and the delicate **sea anemones**! Such vibrant forms, such artistry in their design!" he exclaimed, his voice tinged with reverence. I could not argue with him. The ocean, in its vastness, seemed to mock the limits of human imagination, presenting us with spectacles that turned science into poetry.
+“It is only an agglomeration of phosphoric particles,” cried one of the
+officers.
 
-But as Conseil reveled in the beauty around us, Ned Land’s restless spirit grew ever more agitated. The harpooner had taken to pacing the length of the salon like a caged beast. His strong hands clenched and unclenched, his gaze fixed not on the wonders outside but on the barriers that separated him from freedom. "This confinement is a curse," he muttered. "Man was not meant to live like a fish."
+“No, sir, certainly not,” I replied. “Never did pholades or salpæ
+produce such a powerful light. That brightness is of an essentially
+electrical nature. Besides, see, see! it moves; it is moving forwards,
+backwards; it is darting towards us!”
 
-"If man cannot live like a fish," Captain Nemo’s voice suddenly interjected, "he must learn to master the waters as one." The captain had entered without sound, his presence commanding as always. His dark eyes, pools of intensity, seemed to pierce through Ned’s defiance.
+A general cry rose from the frigate.
 
-"And is that mastery worth surrendering the sky above?" Ned retorted boldly.
+“Silence!” said the Captain; “up with the helm, reverse the engines.”
 
-Nemo’s lips curved into the faintest of smiles. "The sky above offers freedom, yes, but it also offers chains. Here, beneath the waves, there is no country, no war, no tyranny. Only the boundless frontier of the **ocean depths**. Would you not trade the chaos of the world above for the serenity of this realm?"
+The steam was shut off, and the _Abraham Lincoln_, beating to port,
+described a semicircle.
 
-Ned’s silence spoke louder than words, his rebellion tempered by the captain’s conviction. Nemo turned to me, his expression softening. "Professor Aronnax, you, at least, understand the allure of this world. It is why I invited you aboard the Nautilus. To witness, to learn, and perhaps to believe."
+“Right the helm, go ahead,” cried the Captain.
 
-I hesitated before responding, the weight of the moment pressing upon me. "Captain, there is no denying the majesty of what you have shown us. But I cannot yet answer whether I would choose this life, for the choice has not been fully mine to make."
+These orders were executed, and the frigate moved rapidly from the
+burning light.
 
-Nemo accepted my words with a solemn nod. Then, as if to break the tension, he gestured for us to follow him. "Come. There is more to see, more to understand."
+I was mistaken. She tried to sheer off, but the supernatural animal
+approached with a velocity double her own.
 
-We followed him through the corridors of the Nautilus, passing intricate mechanisms and chambers whose purposes I could only guess. Each step seemed to affirm the vessel’s brilliance, its construction a testament to human ingenuity. Soon, we entered the engine room, where the heart of the Nautilus pulsed with relentless energy. The machinery hummed with life, its movements precise and unyielding. I marveled at the **electric propulsion system**, a feat of innovation far beyond anything I had encountered in terrestrial science.
+We gasped for breath. Stupefaction more than fear made us dumb and
+motionless. The animal gained on us, sporting with the waves. It made
+the round of the frigate, which was then making fourteen knots, and
+enveloped it with its **electric rings** like luminous dust. Then it moved
+away two or three miles, leaving a phosphorescent track, like those
+volumes of steam that the express trains leave behind. All at once from
+the dark line of the horizon whither it retired to gain its momentum,
+the monster rushed suddenly towards the _Abraham Lincoln_ with alarming
+rapidity, stopped suddenly about twenty feet from the hull, and died
+out,—not diving under the water, for its brilliancy did not abate,—but
+suddenly, and as if the source of this brilliant emanation was
+exhausted. Then it reappeared on the other side of the vessel, as if it
+had turned and slid under the hull. Any moment a collision might have
+occurred which would have been fatal to us. However, I was astonished
+at the manœuvres of the frigate. She fled and did not attack.
 
-"This engine," Nemo explained, "is the soul of the Nautilus. It grants us speed and endurance, allowing us to traverse the seas unhindered by the limitations of surface vessels. And its power," he added with a touch of pride, "is drawn from the ocean itself—its currents, its minerals, its boundless energy."
+On the captain’s face, generally so impassive, was an expression of
+unaccountable astonishment.
 
-As he spoke, I felt the Nautilus accelerate, its form cutting through the water with the grace of a predator on the hunt. We returned to the salon, where the viewing panels now displayed an even greater spectacle. The ocean floor came into view, a landscape of **coral reefs** and **underwater volcanoes**. Through the lamps' illumination, we saw creatures that defied classification, their forms alien and wondrous.
+“M. Aronnax,” he said, “I do not know with what formidable being I
+have to deal, and I will not imprudently risk my frigate in the midst
+of this darkness. Besides, how attack this unknown thing, how defend
+one’s self from it? Wait for daylight, and the scene will change.”
 
-Captain Nemo’s passion was evident as he pointed out various phenomena. "Here, the **black smokers**, vents that release minerals into the deep. They are the cradle of life in the darkest realms. And there, the sprawling reefs, the architecture of the sea, built by the labor of billions of tiny organisms. This world is as dynamic as your own, Professor, yet far more harmonious."
+“You have no further doubt, captain, of the nature of the animal?”
 
-I could not argue with his observations. The ocean was indeed a realm of contrasts—beauty and danger, creation and destruction, all existing in a delicate balance. But even as I admired its splendor, a darker question lingered in my mind: What price had Nemo paid to claim this world as his own?
+“No, sir; it is evidently a gigantic narwhal, and an electric one.”
 
-The day wore on, the Nautilus continuing its relentless journey. Meals were served in the dining hall, the dishes prepared with ingredients harvested from the sea. Nemo’s knowledge extended even to gastronomy, each plate a testament to his ability to harness the ocean’s bounty. The flavors were exotic, unfamiliar yet pleasing, a reminder that we were no longer bound by the conventions of the terrestrial world.
+“Perhaps,” added I, “one can only approach it with a gymnotus or a
+torpedo.”
 
-As night fell, the salon grew quiet, the ocean outside cloaked in darkness. Only the faint glow of the lamps and the occasional flicker of bioluminescent creatures punctuated the void. Ned had retreated to his quarters, his frustration still evident in his demeanor. Conseil remained with me, his curiosity undiminished, his loyalty unwavering.
+“Undoubtedly,” replied the captain, “if it possesses such dreadful
+power, it is the most terrible animal that ever was created. That is
+why, sir, I must be on my guard.”
 
-Captain Nemo, however, stood by the viewing panel, his gaze fixed on the abyss. He seemed lost in thought, his mind perhaps wandering to places we could not imagine. I approached him cautiously, unsure if my presence would be welcome.
+The crew were on their feet all night. No one thought of sleep. The
+_Abraham Lincoln_, not being able to struggle with such velocity, had
+moderated its pace, and sailed at half speed. For its part, the
+narwhal, imitating the frigate, let the waves rock it at will, and
+seemed decided not to leave the scene of the struggle. Towards
+midnight, however, it disappeared, or, to use a more appropriate term,
+it “died out” like a large glow-worm. Had it fled? One could only fear,
+not hope. But at seven minutes to one o’clock in the morning a
+deafening whistling was heard, like that produced by a body of water
+rushing with great violence.
 
-"Captain," I ventured, "this vessel, this life you have chosen—does it truly bring you peace?"
+The captain, Ned Land, and I, were then on the poop, eagerly peering
+through the profound darkness.
 
-He turned to me, his expression inscrutable. "Peace, Professor, is a fleeting concept. Here, I find purpose, and perhaps that is enough. The ocean offers no lies, no false promises. It is eternal, unchanging. And that, perhaps, is its greatest gift."
+“Ned Land,” asked the commander, “you have often heard the roaring of
+whales?”
 
-His words hung in the air, their weight undeniable. I could not help but wonder if his purpose, however noble, came at the cost of his humanity. But as I looked out at the vast expanse before us, I realized that this question, like so many others, might never find an answer.
+“Often, sir; but never such whales the sight of which brought me in two
+thousand dollars. If I can only approach within four harpoon lengths of
+it!”
 
-Thus, the Nautilus pressed onward, its journey a testament to the boundless possibilities of the human spirit and the mysteries that lay hidden beneath the waves. And we, its passengers, could do little but marvel at the wonders it revealed, even as we grappled with the truths it forced us to confront.
+“But to approach it,” said the commander, “I ought to put a whaler at
+your disposal?”
+
+“Certainly, sir.”
+
+“That will be trifling with the lives of my men.”
+
+“And mine too,” simply said the harpooner.
+
+Towards two o’clock in the morning, the burning light reappeared, not
+less intense, about five miles to windward of the _Abraham Lincoln_.
+Notwithstanding the distance, and the noise of the wind and sea, one
+heard distinctly the loud strokes of the animal’s tail, and even its
+panting breath. It seemed that, at the moment that the enormous narwhal
+had come to take breath at the surface of the water, the air was
+engulfed in its lungs, like the steam in the vast cylinders of a
+machine of two thousand horse-power.
+
+“Hum!” thought I, “a whale with the strength of a cavalry regiment
+would be a pretty whale!”
+
+We were on the _qui vive_ till daylight, and prepared for the combat.
+The fishing implements were laid along the hammock nettings. The second
+lieutenant loaded the blunderbusses, which could throw harpoons to the
+distance of a mile, and long duck-guns, with explosive bullets, which
+inflicted mortal wounds even to the most terrible animals. Ned Land
+contented himself with sharpening his harpoon—a terrible weapon in his
+hands.
+
+At six o’clock day began to break; and, with the first glimmer of
+light, the electric light of the narwhal disappeared. At seven o’clock
+the day was sufficiently advanced, but a very thick sea fog obscured
+our view, and the best spy-glasses could not pierce it. That caused
+disappointment and anger.
+
+I climbed the mizzen-mast. Some officers were already perched on the
+mast heads. At eight o’clock the fog lay heavily on the waves, and its
+thick scrolls rose little by little. The horizon grew wider and clearer
+at the same time. Suddenly, just as on the day before, Ned Land’s voice
+was heard:
+
+“The thing itself on the port quarter!” cried the harpooner.
+
+Every eye was turned towards the point indicated. There, a mile and a
+half from the frigate, a long blackish body emerged a yard above the
+waves. Its tail, violently agitated, produced a considerable eddy.
+Never did a **caudal appendage** beat the sea with such violence. An
+immense track, of dazzling whiteness, marked the passage of the animal,
+and described a long curve.
+
+The frigate approached the cetacean. I examined it thoroughly.
+
+The reports of the _Shannon_ and of the _Helvetia_ had rather
+exaggerated its size, and I estimated its length at only two hundred
+and fifty feet. As to its dimensions, I could only conjecture them to
+be admirably proportioned. While I watched this phenomenon, two jets of
+steam and water were ejected from its vents, and rose to the height of
+120 feet; thus I ascertained its way of breathing. I concluded
+definitely that it belonged to the vertebrate branch, class mammalia.
+
+The crew waited impatiently for their chief’s orders. The latter, after
+having observed the animal attentively, called the engineer. The
+engineer ran to him.
+
+“Sir,” said the commander, “you have steam up?”
+
+“Yes, sir,” answered the engineer.
+
+“Well, make up your fires and put on all steam.”
+
+Three hurrahs greeted this order. The time for the struggle had
+arrived. Some moments after, the two funnels of the frigate vomited
+torrents of black smoke, and the bridge quaked under the trembling of
+the boilers.
+
+The _Abraham Lincoln_, propelled by her wonderful screw, went straight
+at the animal. The latter allowed it to come within half a cable’s
+length; then, as if disdaining to dive, it took a little turn, and
+stopped a short distance off.
+
+This pursuit lasted nearly three-quarters of an hour, without the
+frigate gaining two yards on the cetacean. It was quite evident that at
+that rate we should never come up with it.
+
+“Well, Mr. Land,” asked the captain, “do you advise me to put the boats
+out to sea?”
+
+“No, sir,” replied Ned Land; “because we shall not take that beast
+easily.”
+
+“What shall we do then?”
+
+“Put on more steam if you can, sir. With your leave, I mean to post
+myself under the bowsprit, and if we get within harpooning distance, I
+shall throw my harpoon.”
+
+“Go, Ned,” said the captain. “Engineer, put on more pressure.”
+
+Ned Land went to his post. The fires were increased, the screw revolved
+forty-three times a minute, and the steam poured out of the valves. We
+heaved the log, and calculated that the _Abraham Lincoln_ was going at
+the rate of 18½ miles an hour.
+
+But the accursed animal swam too at the rate of 18½ miles an hour.
+
+For a whole hour, the frigate kept up this pace, without gaining six
+feet. It was humiliating for one of the swiftest sailers in the
+American navy. A stubborn anger seized the crew; the sailors abused the
+monster, who, as before, disdained to answer them; the captain no
+longer contented himself with twisting his beard—he gnawed it.
+
+The engineer was again called.
+
+“You have turned full steam in?”
+
+“Yes, sir,” replied the engineer.
+
+The speed of the _Abraham Lincoln_ increased. Its masts trembled down
+to their stepping holes, and the clouds of smoke could hardly find way
+out of the narrow funnels.
+
+They heaved the log a second time.
+
+“Well?” asked the captain of the man at the wheel.
+
+“Nineteen miles and three-tenths, sir.”
+
+“Clap on more steam.”
+
+The engineer obeyed. The manometer showed ten degrees. But the cetacean
+grew warm itself, no doubt; for without straining itself, it made
+19-3/10 miles.
+
+What a pursuit! No, I cannot describe the emotion that vibrated through
+me. Ned Land kept his post, harpoon in hand. Several times the animal
+let us gain upon it.—“We shall catch it! we shall catch it!” cried the
+Canadian. But just as he was going to strike, the cetacean stole away
+with a rapidity that could not be estimated at less than thirty miles
+an hour, and even during our maximum of speed, it bullied the frigate,
+going round and round it. A cry of fury broke from everyone!
+
+At noon we were no further advanced than at eight o’clock in the
+morning.
+
+The captain then decided to take more direct means.
+
+“Ah!” said he, “that animal goes quicker than the _Abraham Lincoln_.
+Very well! we will see whether it will escape these conical bullets.
+Send your men to the forecastle, sir.”
+
+The **forecastle gun** was immediately loaded and slewed round. But the
+shot passed some feet above the cetacean, which was half a mile off.
+
+“Another, more to the right,” cried the commander, “and five dollars to
+whoever will hit that infernal beast.”
+
+An old gunner with a grey beard—that I can see now—with steady eye and
+grave face, went up to the gun and took a long aim. A loud report was
+heard, with which were mingled the cheers of the crew.
+
+
+[Illustration] An old grey-bearded gunner . . . .
+
+
+The bullet did its work; it hit the animal, but not fatally, and
+sliding off the rounded surface, was lost in two miles depth of sea.
+
+The chase began again, and the captain, leaning towards me, said—
+
+“I will pursue that beast till my frigate bursts up.”
+
+“Yes,” answered I; “and you will be quite right to do it.”
+
+I wished the beast would exhaust itself, and not be insensible to
+fatigue like a steam engine! But it was of no use. Hours passed,
+without its showing any signs of exhaustion.
+
+However, it must be said in praise of the _Abraham Lincoln_, that she
+struggled on indefatigably. I cannot reckon the distance she made under
+three hundred miles during this unlucky day, November the 6th. But
+night came on, and overshadowed the rough ocean.
+
+Now I thought our expedition was at an end, and that we should never
+again see the extraordinary animal. I was mistaken. At ten minutes to
+eleven in the evening, the **electric light reappeared** three miles to
+windward of the frigate, as pure, as intense as during the preceding
+night.
+
+The narwhal seemed motionless; perhaps, tired with its day’s work, it
+slept, letting itself float with the undulation of the waves. Now was a
+chance of which the captain resolved to take advantage.
+
+He gave his orders. The _Abraham Lincoln_ kept up half steam, and
+advanced cautiously so as not to awake its adversary. It is no rare
+thing to meet in the middle of the ocean whales so sound asleep that
+they can be successfully attacked, and Ned Land had harpooned more than
+one during its sleep. The Canadian went to take his place again under
+the bowsprit.
+
+The frigate approached noiselessly, stopped at two cables’ lengths from
+the animal, and following its track. No one breathed; a deep silence
+reigned on the bridge. We were not a hundred feet from the burning
+focus, the light of which increased and dazzled our eyes.
+
+At this moment, leaning on the forecastle bulwark, I saw below me Ned
+Land grappling the martingale in one hand, brandishing his terrible
+harpoon in the other, scarcely twenty feet from the motionless animal.
+Suddenly his arm straightened, and the harpoon was thrown; I heard the
+**sonorous stroke** of the weapon, which seemed to have struck a hard body.
+The electric light went out suddenly, and two enormous waterspouts
+broke over the bridge of the frigate, rushing like a torrent from stem
+to stern, overthrowing men, and breaking the lashings of the spars. A
+fearful shock followed, and, thrown over the rail without having time
+to stop myself, I fell into the sea.

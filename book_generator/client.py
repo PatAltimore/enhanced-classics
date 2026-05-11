@@ -11,6 +11,7 @@ exponential backoff before falling through to the next model.
 import os
 import time
 import random
+from urllib.parse import urlparse, parse_qs
 
 from openai import AzureOpenAI, OpenAI, RateLimitError, APIStatusError, APIConnectionError
 from rich.console import Console
@@ -22,8 +23,8 @@ console = Console()
 # key_var     : env var holding the API key
 _MODEL_CONFIGS = {
     "gpt-4o":                       ("aoai",    "AZURE_OPENAI_ENDPOINT",  "AZURE_OPENAI_KEY"),
-    "gpt-4o-mini":                  ("aoai",    "AZURE_OPENAI_ENDPOINT",  "AZURE_OPENAI_KEY"),
-    "Meta-Llama-3.3-70B-Instruct":  ("foundry", "AZURE_LLAMA_ENDPOINT",   "AZURE_LLAMA_KEY"),
+
+    "Llama-3.3-70B-Instruct":        ("foundry", "AZURE_LLAMA_ENDPOINT",   "AZURE_LLAMA_KEY"),
     "Mistral-Large-3":              ("foundry", "AZURE_MISTRAL_ENDPOINT",  "AZURE_MISTRAL_KEY"),
     "Phi-4":                        ("foundry", "AZURE_PHI4_ENDPOINT",     "AZURE_PHI4_KEY"),
 }
@@ -47,21 +48,50 @@ _REFUSAL_PHRASES = (
 )
 
 
-def _foundry_base_url(endpoint: str) -> str:
-    """Normalise a Foundry endpoint URL to the /v1 base, regardless of what the portal shows.
+def _foundry_base_url(endpoint: str) -> tuple[str, str | None]:
+    """Normalise a Foundry endpoint URL.
 
-    The portal's "Target URI" may be any of:
-      https://host.region.models.ai.azure.com
-      https://host.region.models.ai.azure.com/v1
-      https://host.region.models.ai.azure.com/v1/chat/completions
+    Handles both endpoint styles from the Azure AI Foundry portal:
+      Old per-model:  https://host.region.models.ai.azure.com[/v1][/chat/completions]
+      New unified:    https://project.services.ai.azure.com/models[/chat/completions][?api-version=...]
+
+    Returns (base_url, api_version) where api_version may be None.
+    For old-style endpoints the base_url ends in /v1 (OpenAI convention).
+    For new unified endpoints the base_url ends in /models (no /v1).
     """
-    url = endpoint.rstrip("/")
+    parsed = urlparse(endpoint)
+    path = parsed.path.rstrip("/")
     for suffix in ("/chat/completions", "/completions"):
-        if url.endswith(suffix):
-            url = url[: -len(suffix)]
-    if not url.endswith("/v1"):
-        url += "/v1"
-    return url
+        if path.endswith(suffix):
+            path = path[: -len(suffix)]
+
+    api_version = parse_qs(parsed.query).get("api-version", [None])[0]
+
+    # New unified endpoint — base is scheme://host/models (no /v1)
+    if parsed.netloc.endswith(".services.ai.azure.com"):
+        base = f"{parsed.scheme}://{parsed.netloc}{path}"
+        return base, api_version
+
+    # Old per-model serverless endpoint — must end in /v1
+    if not path.endswith("/v1"):
+        path += "/v1"
+    return f"{parsed.scheme}://{parsed.netloc}{path}", api_version
+
+
+class ContentFilterError(Exception):
+    """Raised when a prompt is rejected by a content/safety filter.
+
+    No point falling through to other models — they will reject the same prompt.
+    """
+
+
+def _is_content_filter(e: "APIStatusError") -> bool:
+    msg = str(e.message).lower()
+    return e.status_code == 400 and (
+        "content_filter" in msg
+        or "content management policy" in msg
+        or "responsibleaipolicyviolation" in msg
+    )
 
 
 def _is_refusal(text: str) -> bool:
@@ -86,7 +116,10 @@ class ModelClient:
             if not endpoint or not key:
                 console.print(f"  [dim]Skipping {name}: {endpoint_var} / {key_var} not set[/dim]")
                 continue
-            result = self._try_model(name, kind, endpoint, key, messages, **kwargs)
+            try:
+                result = self._try_model(name, kind, endpoint, key, messages, **kwargs)
+            except ContentFilterError:
+                raise  # prompt rejected by safety filter — no point trying other models
             if result is not None:
                 return result
             console.print(f"  [yellow]Falling through from {name} to next model[/yellow]")
@@ -97,8 +130,9 @@ class ModelClient:
             api_version = os.getenv("AZURE_OPENAI_API_VERSION", "2024-12-01-preview")
             return AzureOpenAI(azure_endpoint=endpoint, api_key=key, api_version=api_version)
         else:
-            base_url = _foundry_base_url(endpoint)
-            return OpenAI(base_url=base_url, api_key=key)
+            base_url, api_version = _foundry_base_url(endpoint)
+            extra = {"api-version": api_version} if api_version else {}
+            return OpenAI(base_url=base_url, api_key=key, default_query=extra)
 
     def _try_model(self, name, kind, endpoint, key, messages, **kwargs) -> str | None:
         client = self._make_client(kind, endpoint, key)
@@ -129,12 +163,16 @@ class ModelClient:
                     )
                     time.sleep(delay)
                 else:
+                    if _is_content_filter(e):
+                        console.print(f"  [red]{name} content filter — prompt blocked, aborting chain[/red]")
+                        raise ContentFilterError(str(e.message))
                     console.print(f"  [red]{name} HTTP {e.status_code}: {e.message}[/red]")
                     if e.status_code == 404:
                         kind, endpoint_var, _ = _MODEL_CONFIGS[name]
                         if kind == "foundry":
                             raw = os.getenv(endpoint_var, "")
-                            console.print(f"  [dim]  → resolved base_url: {_foundry_base_url(raw)}[/dim]")
+                            base, ver = _foundry_base_url(raw)
+                            console.print(f"  [dim]  → resolved base_url: {base} (api-version: {ver})[/dim]")
                     return None  # Don't retry 4xx (except 429 → RateLimitError above)
             except APIConnectionError as e:
                 delay = BASE_DELAY_S * attempt

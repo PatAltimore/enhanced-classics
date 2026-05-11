@@ -9,141 +9,187 @@ book_slug: "twenty-thousand-leagues"
 license: "public-domain"
 
 summary:
-  - point: "The Nautilus continues its journey, offering marvels of the underwater world but failing to soothe Ned Land's restless spirit."
-    link: "https://en.wikipedia.org/wiki/Nautilus_(Verne)"
-    link_label: "Nautilus"
-  - point: "Ned Land expresses his frustration with confinement aboard the Nautilus, yearning for freedom and the hunt."
-    link: "https://en.wikipedia.org/wiki/Indian_Ocean"
-    link_label: "Indian Ocean"
-  - point: "Captain Nemo defends the Nautilus as a sanctuary and refuses Ned's request to hunt freely, emphasizing respect for marine life."
-    link: "https://en.wikipedia.org/wiki/Captain_Nemo"
-    link_label: "Captain Nemo"
-  - point: "Nemo offers Ned a supervised hunting opportunity using a compressed-air rifle, aiming to balance Ned's desires with ecological preservation."
-    link: "https://en.wikipedia.org/wiki/Compressed_air"
-    link_label: "Compressed-air rifle"
-  - point: "Ned Land's spirits are temporarily lifted during the underwater hunt, but his yearning for freedom remains unresolved."
-    link: "https://en.wikipedia.org/wiki/Diving_suit"
-    link_label: "Diving suits"
-  - point: "The chapter ends with a sense of unease about how long Ned's frustrations can be contained aboard the Nautilus."
+  - point: "The prisoners wake up after a long sleep and examine their cell, which remains unchanged."
+    link: "https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea"
+    link_label: "Twenty Thousand Leagues Under the Sea"
+  - point: "The narrator observes the depletion of oxygen in the cell and wonders how the submarine replenishes its air supply."
+    link: "https://en.wikipedia.org/wiki/Oxygen"
+    link_label: "Oxygen"
+  - point: "The submarine surfaces to renew its air, providing a refreshing sea breeze to the prisoners."
     link: "https://en.wikipedia.org/wiki/Submarine"
-    link_label: "Submarine landscapes"
+    link_label: "Submarine"
+  - point: "Ned Land grows increasingly impatient and hungry, leading to a tense confrontation with the steward."
+    link: "https://en.wikipedia.org/wiki/Hunger"
+    link_label: "Hunger"
+  - point: "The steward is attacked by Ned Land but is saved when he speaks in French, calming the situation."
+    link: "https://en.wikipedia.org/wiki/French_language"
+    link_label: "French language"
 
 enhancements:
-  - id: "nautilus-submarine-design"
-    trigger: "Nautilus"
-    title: "Nautilus Submarine Design"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nautilus_(Verne)"
+  - id: "oxygen-contained-in-more-than-176-pints"
+    trigger: "oxygen contained in more than 176 pints"
+    title: "How Much Air Do Humans Really Need?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Oxygen"
     image_url: ""
     image_caption: ""
-    content: "The Nautilus, Captain Nemo's submarine, is a marvel of engineering and imagination in Jules Verne's novel. It symbolizes technological innovation and humanity's ability to explore the unknown. Its design, described in detail by Verne, inspired real-world submarine development and remains a cultural icon of science fiction. The Nautilus serves as both a sanctuary and a prison, reflecting the duality of progress and its consequences."
-  - id: "indian-ocean-geography"
-    trigger: "Indian Ocean"
-    title: "Indian Ocean Geography"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Indian_Ocean"
+    content: "As the narrator struggles to breathe in the confined cell, he calculates the oxygen consumption of humans: 176 pints per hour. This figure is not arbitrary; it reflects the metabolic processes that sustain life. Oxygen is essential for cellular respiration, where it helps convert glucose into energy. In the 19th century, such scientific details were cutting-edge knowledge, and Verne's inclusion of them showcases his fascination with science and technology. By grounding the story in real physiological facts, Verne heightens the tension of the scene, making the prisoners' plight feel immediate and plausible. This moment also underscores the fragility of human survival in extreme environments, a recurring theme in the novel."
+  - id: "chlorate-of-potash"
+    trigger: "chlorate of potash"
+    title: "The Chemistry Behind Breathing Underwater"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Potassium_chlorate"
     image_url: ""
     image_caption: ""
-    content: "The Indian Ocean, the third-largest ocean in the world, plays a significant role in global trade, climate, and biodiversity. Its vast expanse and rich marine ecosystems provide the backdrop for many of the Nautilus's adventures. Historically, it has been a crucial route for explorers and traders, connecting continents and cultures. In the novel, its boundless freedom contrasts sharply with Ned Land's feelings of confinement."
-  - id: "captain-nemo-character-study"
-    trigger: "Captain Nemo"
-    title: "Captain Nemo: A Complex Character"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Captain_Nemo"
+    content: "The narrator speculates that the submarine might use chlorate of potash to generate oxygen chemically. This compound, when heated, releases oxygen—a process used in early submarines and space missions. Potassium chlorate was a staple of 19th-century chemistry, often employed in experiments and industrial applications. Its use in oxygen generation highlights Verne's meticulous research and his ability to weave scientific plausibility into his fiction. By presenting this alternative to surfacing for air, Verne invites readers to marvel at human ingenuity while also pondering the limits of technology. The choice between chemical and natural methods of replenishing air mirrors the broader tension in the novel between artificial and natural worlds."
+  - id: "charged-with-iodine"
+    trigger: "charged with iodine"
+    title: "Why the Sea Breeze Smells Like Medicine"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Iodine"
     image_url: ""
     image_caption: ""
-    content: "Captain Nemo is one of literature's most enigmatic figures. A brilliant scientist and engineer, he is driven by a deep resentment toward the surface world. Nemo's creation of the Nautilus allows him to escape societal injustices and explore the ocean's depths. His moral ambiguity—compassionate yet authoritarian—makes him a compelling character whose motives and actions provoke reflection on freedom and control."
-  - id: "coral-forests-ecosystems"
-    trigger: "coral forests"
-    title: "Coral Forests and Ecosystems"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Coral_reef"
-    image_url: ""
-    image_caption: ""
-    content: "Coral forests, or reefs, are among the most diverse ecosystems on Earth, supporting a vast array of marine life. They play a crucial role in ocean health, providing habitat, protecting coastlines, and aiding in carbon cycling. Verne's vivid descriptions of coral forests highlight their beauty and importance, underscoring the need for conservation in the face of environmental threats like climate change and pollution."
-  - id: "phosphorescent-grottoes-natural-phenomena"
-    trigger: "phosphorescent grottoes"
-    title: "Phosphorescent Grottoes: Natural Phenomena"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Bioluminescence"
-    image_url: ""
-    image_caption: ""
-    content: "Phosphorescent grottoes are illuminated by bioluminescent organisms, a natural phenomenon where living creatures emit light. This occurs in various marine species, including plankton and jellyfish. Verne's depiction of these glowing underwater caves captures the wonder of the ocean's mysteries and showcases the interplay between science and imagination in his storytelling."
-  - id: "compressed-air-rifle-innovation"
-    trigger: "compressed-air rifle"
-    title: "Compressed-Air Rifle Innovation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Compressed_air"
-    image_url: ""
-    image_caption: ""
-    content: "The compressed-air rifle in Verne's novel is an example of advanced underwater technology. Designed to minimize disruption to marine ecosystems, it reflects Nemo's philosophy of coexistence with nature. Compressed air has been used in various applications, from industrial tools to diving equipment, showcasing its versatility and importance in technological progress."
-  - id: "sea-cucumbers-marine-delicacies"
-    trigger: "sea cucumbers"
-    title: "Sea Cucumbers: Marine Delicacies"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sea_cucumber"
-    image_url: ""
-    image_caption: ""
-    content: "Sea cucumbers are echinoderms found on the ocean floor, valued for their ecological role and culinary uses. They help recycle nutrients by breaking down organic matter. In many cultures, they are considered a delicacy and are harvested for food and medicinal purposes. Verne's inclusion of sea cucumbers in the Nautilus's meals highlights the diversity of marine life and its utility."
-  - id: "spiny-lobsters-unique-crustaceans"
-    trigger: "spiny lobsters"
-    title: "Spiny Lobsters: Unique Crustaceans"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Spiny_lobster"
-    image_url: ""
-    image_caption: ""
-    content: "Spiny lobsters are a group of crustaceans known for their long antennae and lack of claws. Found in warm waters, they are a popular seafood item and play a role in marine ecosystems as scavengers. Verne's mention of spiny lobsters in the Nautilus's meals reflects the novel's attention to the richness of underwater life and its integration into human sustenance."
-  - id: "diving-suits-underwater-exploration"
-    trigger: "diving suits"
-    title: "Diving Suits for Underwater Exploration"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Diving_suit"
-    image_url: ""
-    image_caption: ""
-    content: "Diving suits are essential for underwater exploration, protecting divers from pressure and temperature while allowing mobility. The suits described in Verne's novel are precursors to modern designs, showcasing the author's foresight in imagining advanced technology. Diving suits have enabled scientific discoveries and recreational diving, expanding humanity's understanding of marine environments."
-  - id: "submarine-landscapes-ocean-beauty"
-    trigger: "submarine landscapes"
-    title: "Submarine Landscapes: Ocean Beauty"
+    content: "When the submarine surfaces, the narrator is invigorated by air \"charged with iodine.\" This detail is more than sensory; iodine is a trace element found in seawater, crucial for human health. In the 19th century, iodine was widely recognized for its antiseptic properties and used to treat wounds and diseases. Its mention here evokes the healing power of the ocean, a recurring motif in Verne's work. The refreshing air symbolizes a reprieve from confinement, connecting the physical relief of breathing iodine-rich air to the psychological liberation of surfacing. This moment encapsulates the interplay between science and nature that defines the novel's vision of exploration."
+  - id: "volumes-of-fresh-air"
+    trigger: "volumes of fresh air"
+    title: "How Submarines Keep Their Crews Alive"
     wikipedia_url: "https://en.wikipedia.org/wiki/Submarine"
     image_url: ""
     image_caption: ""
-    content: "Submarine landscapes encompass the diverse terrains found beneath the ocean's surface, including reefs, trenches, and underwater mountains. These environments are home to unique ecosystems and geological formations. Verne's descriptions of submarine landscapes in 'Twenty Thousand Leagues Under the Sea' evoke the awe-inspiring beauty and complexity of the underwater world, inspiring generations of readers and explorers."
+    content: "The narrator discovers a ventilator delivering \"volumes of fresh air\" to their cell. This system is a critical innovation in submarine design, ensuring the crew's survival underwater. Early submarines faced significant challenges in air circulation, relying on manual or rudimentary systems to replenish oxygen. By the time Verne wrote the novel, such technology was still experimental, making his depiction of a functional submarine all the more visionary. The ventilator symbolizes the intersection of engineering and human necessity, a theme that runs throughout the book. It also serves as a metaphor for renewal and escape, hinting at the possibility of freedom even in the depths of confinement."
+  - id: "master-land"
+    trigger: "Master Land"
+    title: "Ned Land: The Harpooner With a Fiery Spirit"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea"
+    image_url: ""
+    image_caption: ""
+    content: "Ned Land, referred to as \"Master Land,\" is a Canadian harpooner whose temper and impulsiveness often drive the narrative's tension. In this chapter, his impatience and hunger lead to a near-violent confrontation. Ned's character embodies the raw, untamed force of humanity, contrasting sharply with Captain Nemo's calculated intellect. His fiery spirit serves as a counterbalance to the novel's scientific and philosophical musings, grounding the story in visceral human emotion. By highlighting Ned's struggles, Verne explores themes of freedom, survival, and the limits of endurance, making him a vital foil to the more cerebral characters aboard the Nautilus."
+  - id: "the-steward-will-be-welcome"
+    trigger: "the steward will be welcome"
+    title: "The Steward: A Silent Link to the Nautilus"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Steward_(ship)"
+    image_url: ""
+    image_caption: ""
+    content: "The steward, mentioned as \"welcome\" by the hungry prisoners, is a minor but intriguing figure aboard the Nautilus. His role as caretaker and provider connects the prisoners to the enigmatic Captain Nemo. In maritime tradition, stewards are responsible for the crew's well-being, but aboard the Nautilus, this role takes on a mysterious dimension. The steward's silence and efficiency reflect the submarine's eerie atmosphere, where human interaction is minimal and purpose overrides personal connection. By focusing on the steward's delayed arrival, Verne heightens the tension and underscores the prisoners' dependence on their captors, deepening the psychological complexity of their predicament."
+  - id: "tormented-by-the-cravings-of-hunger"
+    trigger: "tormented by the cravings of hunger"
+    title: "How Hunger Shapes Human Behavior"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hunger"
+    image_url: ""
+    image_caption: ""
+    content: "Ned Land's hunger drives him to the brink of violence, illustrating the primal force of this basic human need. Hunger has long been a powerful motivator in literature and history, capable of inspiring both heroism and desperation. In the confined world of the Nautilus, where resources are controlled by Captain Nemo, hunger becomes a symbol of dependence and vulnerability. Verne uses Ned's torment to explore the psychological and physical toll of captivity, emphasizing the fragility of human composure under duress. This moment also serves as a reminder of the stark contrast between the technological marvel of the submarine and the raw, unyielding demands of the human body."
+  - id: "metal-flags"
+    trigger: "metal flags"
+    title: "The Sound of Footsteps on Nautilus Steel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Steel"
+    image_url: ""
+    image_caption: ""
+    content: "The \"metal flags\" mentioned in the text refer to the steel flooring of the Nautilus, a detail that underscores the submarine's industrial strength and modernity. Steel was a revolutionary material in the 19th century, enabling advances in construction, transportation, and warfare. Verne's choice to highlight the metallic sound of footsteps evokes the cold, mechanical nature of the Nautilus, contrasting with the organic world outside its hull. This auditory detail immerses readers in the submarine's claustrophobic environment, where every sound carries weight and significance. It also reflects the novel's broader theme of humanity's uneasy relationship with the technologies it creates."
 ---
-The days aboard the **Nautilus** passed with a rhythmic monotony, as though the pulse of the ocean itself dictated our existence. Encased in its metallic hull, we were both prisoners and witnesses to a world few had ever imagined, let alone seen. Yet the marvels that unfurled before us often failed to temper the restless spirit of **Ned Land**, whose moods oscillated as violently as the seas we traversed. His tempers were a force unto themselves, and in their wake, Conseil and I found ourselves navigating a treacherous psychological tide.
+How long we slept I do not know; but our sleep must have lasted long,
+for it rested us completely from our fatigues. I woke first. My
+companions had not moved, and were still stretched in their corner.
 
-It was early on the morning of March 13th when the harpooner’s ire reached a new height. The **Nautilus** had surfaced briefly, allowing its crew to replenish oxygen reserves and perform maintenance on its exterior. The calm waters of the Indian Ocean stretched infinitely in all directions, a liquid mirror reflecting the pale, scattered light of dawn. Ned, pacing furiously on the platform above, resembled a caged beast contemplating escape. His broad shoulders heaved with frustration, and his fists clenched as though he might challenge the heavens themselves to a duel.
+Hardly roused from my somewhat hard couch, I felt my brain freed, my
+mind clear. I then began an attentive examination of our cell. Nothing
+was changed inside. The prison was still a prison,—the prisoners,
+prisoners. However, the steward, during our sleep, had cleared the
+table. I breathed with difficulty. The heavy air seemed to oppress my
+lungs. Although the cell was large, we had evidently consumed a great
+part of the oxygen that it contained. Indeed, each man consumes, in one
+hour, the **oxygen contained in more than 176 pints** of air, and this air,
+charged (as then) with a nearly equal quantity of carbonic acid,
+becomes unbreathable.
 
-"I tell you, Professor," Ned said, his voice cutting through the quiet, "this confinement will be the death of me. If I must suffer much longer aboard this accursed contraption, I’ll fling myself into the sea and take my chances with the sharks!"
+It became necessary to renew the atmosphere of our prison, and no doubt
+the whole in the submarine boat. That gave rise to a question in my
+mind. How would the commander of this floating dwelling-place proceed?
+Would he obtain air by chemical means, in getting by heat the oxygen
+contained in **chlorate of potash**, and in absorbing carbonic acid by
+caustic potash? Or, a more convenient, economical, and consequently
+more probable alternative, would he be satisfied to rise and take
+breath at the surface of the water, like a cetacean, and so renew for
+twenty-four hours the atmospheric provision?
 
-"Ned, pray calm yourself," I replied, striving to soothe his agitation. "Surely you cannot deny the wonders we have seen—the **coral forests**, the **phosphorescent grottoes**, the creatures that defy classification. Is not the privilege of witnessing such marvels enough to offset our captivity?"
+In fact, I was already obliged to increase my respirations to eke out
+of this cell the little oxygen it contained, when suddenly I was
+refreshed by a current of pure air, and perfumed with saline
+emanations. It was an invigorating sea breeze, **charged with iodine**. I
+opened my mouth wide, and my lungs saturated themselves with fresh
+particles.
 
-"Marvels?" he scoffed, his tone dripping with disdain. "What are marvels to me? I am no naturalist, no scholar of the sea. My trade is the harpoon, and I am denied even that! Each passing day mocks me with its stillness. The ocean teems with life, yet I am barred from the hunt, shackled to this infernal prison. You may call it the Nautilus, but I call it a tomb."
+At the same time I felt the boat rolling. The iron-plated monster had
+evidently just risen to the surface of the ocean to breathe, after the
+fashion of whales. I found out from that the mode of ventilating the
+boat.
 
-Conseil, ever the model of composure, interjected with his usual pragmatism. "But Monsieur Land, consider: had we not been taken aboard, would we not have perished in the wreckage of our ship? Surely this is preferable to the embrace of the abyss."
+When I had inhaled this air freely, I sought the conduit-pipe, which
+conveyed to us the beneficial whiff, and I was not long in finding it.
+Above the door was a ventilator, through which **volumes of fresh air**
+renewed the impoverished atmosphere of the cell.
 
-Ned turned on him sharply, his eyes glinting with fury. "You speak of survival, Conseil, but what kind of survival is this? To live is to act, to breathe freely, to roam as one pleases! Here, every moment is dictated by the whims of that enigmatic tyrant, **Captain Nemo**. He plays the role of sovereign, and we are his subjects—no, his captives!"
+I was making my observations, when Ned and Conseil awoke almost at the
+same time, under the influence of this reviving air. They rubbed their
+eyes, stretched themselves, and were on their feet in an instant.
 
-The mention of Captain Nemo drew my thoughts inward. The man remained an enigma to us all, his motives as inscrutable as the ocean depths he seemed to worship. Though he treated us with a certain degree of respect, his refusal to grant us liberty gnawed at my conscience. Despite my fascination with his intellect and his creation, I could not deny that Ned’s grievances were justified.
+“Did master sleep well?” asked Conseil, with his usual politeness.
 
-As the morning wore on, Ned’s agitation showed no signs of abating. He prowled the ship’s platform, occasionally casting a longing gaze at the horizon. The **Indian Ocean**, vast and unforgiving, seemed to taunt him with its boundless freedom. Conseil and I kept our distance, fearing that any attempt to engage him further might provoke his wrath.
+“Very well, my brave boy. And you, Mr. Land?”
 
-Later that afternoon, as we dined in the **salon**, Ned’s mood had taken on a quieter, more brooding quality. The meal, as always, was an assortment of delicacies harvested from the sea—**sea cucumbers**, **spiny lobsters**, and a broth flavored with algae that Nemo claimed had medicinal properties. But Ned pushed his plate aside, refusing to partake. "What good is food," he muttered, "when it serves only to prolong captivity?"
+“Soundly, Professor. But I don’t know if I am right or not; there seems
+to be a sea breeze!”
 
-Captain Nemo, seated at the head of the table, regarded him with a piercing gaze. "Mr. Land," he said, his voice calm but firm, "you seem to forget that you are alive because of this captivity you so despise. The Nautilus is not merely a vessel; it is a sanctuary, a refuge from the cruelties of the surface world."
+A seaman could not be mistaken, and I told the Canadian all that had
+passed during his sleep.
 
-"Sanctuary?" Ned retorted, his tone challenging. "Perhaps it is for you, Captain, but for me, it is a cage. What you call refuge, I call exile. I am a creature of the open air, of the hunt. If you will not release me, then at least allow me to pursue my trade. Let me hunt, and I’ll trouble you no further."
+“Good!” said he; “that accounts for those roarings we heard, when the
+supposed narwhal sighted the _Abraham Lincoln_.”
 
-Nemo’s expression darkened. "The creatures of the sea are not yours to exploit, Mr. Land. They belong to a realm greater than man’s petty ambitions. Here, beneath the waves, there is harmony—a balance that I will not see disrupted by your harpoon. You may rage against your confinement, but you will abide by my laws while aboard the Nautilus."
+“Quite so, **Master Land**; it was taking breath.”
 
-The tension in the room was palpable, and for a moment, I feared Ned might act upon his anger. But he merely rose from his chair, his fists trembling, and stormed out of the salon without another word. Conseil and I exchanged uneasy glances, uncertain of what the future might hold.
+“Only, M. Aronnax, I have no idea what o’clock it is, unless it is
+dinner-time.”
 
-That night, as I lay awake in my quarters, I could hear Ned pacing in the corridor outside. His footsteps were heavy, deliberate, and each one seemed to echo with the weight of his frustration. I wondered whether his tempers might drive him to some reckless course of action—an attempt at escape, perhaps, or a confrontation with Nemo. Whatever his intentions, I knew that his spirit could not be contained indefinitely.
+“Dinner-time! my good fellow? Say rather breakfast-time, for we
+certainly have begun another day.”
 
-The following morning, the Nautilus descended once more into the depths, its electric lights illuminating the underwater world as though it were a stage set for some grand spectacle. Yet even the beauty of the **submarine landscapes** failed to lift Ned’s spirits. He remained aloof, his gaze fixed on the darkened waters beyond the glass panes of the salon. Conseil, ever the optimist, attempted to engage him in conversation, but his efforts were met with silence.
+“So,” said Conseil, “we have slept twenty-four hours?”
 
-It was during one such attempt that Nemo approached us, his demeanor unusually subdued. "Professor Aronnax," he said, addressing me, "I have observed Mr. Land’s discontent. While I cannot grant him the freedom he desires, I am willing to offer him a distraction. There is a shallow reef nearby, teeming with fish. If he wishes to hunt, he may do so under my supervision."
+“That is my opinion.”
 
-Ned’s eyes lit up at the offer, and for the first time in days, a flicker of hope crossed his features. "You mean it, Captain?" he asked, his voice tinged with disbelief. "You’ll let me hunt?"
+“I will not contradict you,” replied Ned Land. “But dinner or
+breakfast, **the steward will be welcome**, whichever he brings.”
 
-"Within reason," Nemo replied. "You will be equipped with a **compressed-air rifle**, designed specifically for underwater use. It will allow you to target your quarry without disturbing the delicate balance of the ecosystem. But mark my words, Mr. Land: you will respect the sea and its inhabitants."
+“Master Land, we must conform to the rules on board, and I suppose our
+appetites are in advance of the dinner hour.”
 
-Ned nodded eagerly, his earlier hostility momentarily forgotten. "I’ll take what I can get, Captain. Just give me a chance to feel alive again."
+“That is just like you, friend Conseil,” said Ned, impatiently. “You
+are never out of temper, always calm; you would return thanks before
+grace, and die of hunger rather than complain!”
 
-And so, preparations were made for the hunt. The Nautilus anchored near the reef, and Nemo personally oversaw the distribution of equipment. Ned, Conseil, and I donned our **diving suits**, their thick rubber material designed to withstand the pressure of the depths. As we stepped into the airlock chamber, Ned’s excitement was palpable, his earlier sullenness replaced by a renewed vigor.
+Time was getting on, and we were fearfully hungry; and this time the
+steward did not appear. It was rather too long to leave us, if they
+really had good intentions towards us. Ned Land, **tormented by the
+cravings of hunger**, got still more angry; and, notwithstanding his
+promise, I dreaded an explosion when he found himself with one of the
+crew.
 
-The hunt itself was a marvel to behold. The reef was alive with color and movement, schools of fish darting through the coral as though performing a synchronized dance. Ned, armed with the compressed-air rifle, pursued his quarry with a determination that bordered on fervor. Though he was limited to smaller, nonthreatening species, his spirits seemed to lift with each successful shot. Conseil, ever the pragmatist, assisted him in retrieving the specimens, while I observed from a distance, marveling at the intricate web of life that surrounded us.
+For two hours more Ned Land’s temper increased; he cried, he shouted,
+but in vain. The walls were deaf. There was no sound to be heard in the
+boat: all was still as death. It did not move, for I should have felt
+the trembling motion of the hull under the influence of the screw.
+Plunged in the depths of the waters, it belonged no longer to
+earth:—this silence was dreadful.
 
-When we returned to the Nautilus, Ned was practically glowing with satisfaction. Though his tempers were far from quelled, the hunt had provided a much-needed outlet for his restless energy. As he shared tales of his underwater exploits, I could not help but feel a glimmer of hope. Perhaps, in the days to come, there might yet be a way to reconcile his yearning for freedom with the reality of our situation.
+I felt terrified, Conseil was calm, Ned Land roared.
 
-But as I retired to my quarters that evening, I was haunted by a lingering question: how long could this uneasy truce last? For though Ned’s tempers had been momentarily placated, I knew that the fire within him had not been extinguished. It burned still, a potent force that could not be contained forever. And in the shadow of that fire, the Nautilus sailed on, its course unyielding, its mysteries yet to unfold.
+Just then a noise was heard outside. Steps sounded on the **metal flags**.
+The locks were turned, the door opened, and the steward appeared.
+
+Before I could rush forward to stop him, the Canadian had thrown him
+down, and held him by the throat. The steward was choking under the
+grip of his powerful hand.
+
+Conseil was already trying to unclasp the harpooner’s hand from his
+half-suffocated victim, and I was going to fly to the rescue, when
+suddenly I was nailed to the spot by hearing these words in French—
+
+“Be quiet, Master Land; and you, Professor, will you be so good as to
+listen to me?”

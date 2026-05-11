@@ -9,9 +9,8 @@ models:
   primary: "gpt-4o"
   fallback:
     - "Phi-4"
-    - "Meta-Llama-3.3-70B-Instruct"
+    - "Llama-3.3-70B-Instruct"
     - "Mistral-Large-3"
-    - "gpt-4o-mini"
 
 # ---------------------------------------------------------------------------
 # Generation parameters

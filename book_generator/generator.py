@@ -33,7 +33,7 @@ if sys.platform == "win32":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
-from client import ModelClient
+from client import ModelClient, ContentFilterError
 from checkpointer import Checkpointer
 from formatter import format_chapter
 from prompts import (
@@ -267,6 +267,8 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
                         console.print(f"      [green]Window {i + 1}: retry -> {repr(retry_clean)}[/green]")
                     else:
                         console.print(f"      [yellow]Window {i + 1}: retry also failed, skipping[/yellow]")
+                except ContentFilterError:
+                    console.print(f"      [yellow]Window {i + 1}: prompt blocked by content filter, skipping[/yellow]")
                 except Exception as exc:
                     console.print(f"      [yellow]Window {i + 1}: retry error ({exc}), skipping[/yellow]")
 

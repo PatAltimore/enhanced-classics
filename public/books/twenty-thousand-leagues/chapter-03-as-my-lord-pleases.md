@@ -9,147 +9,251 @@ book_slug: "twenty-thousand-leagues"
 license: "public-domain"
 
 summary:
-  - point: "The chamber aboard the Nautilus combines scientific precision with artistic elegance."
+  - point: "Pierre Aronnax receives a letter from the Secretary of Marine, igniting his passion to chase the mysterious sea creature."
+    link: "https://en.wikipedia.org/wiki/Jules_Verne"
+    link_label: "Jules Verne"
+  - point: "Aronnax decides to leave behind his collections and home near the Jardin des Plantes to embark on the expedition."
+    link: "https://en.wikipedia.org/wiki/Jardin_des_Plantes"
+    link_label: "Jardin des Plantes"
+  - point: "Conseil, Aronnax's loyal servant, agrees to join him without hesitation despite the dangers of the journey."
     link: "https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea"
-    link_label: "Twenty Thousand Leagues Under the Sea"
-  - point: "Captain Nemo introduces the Nautilus as a sanctuary from the chaos of the surface world."
-    link: "https://en.wikipedia.org/wiki/Captain_Nemo"
-    link_label: "Captain Nemo"
-  - point: "Nemo explains his philosophy of freedom and isolation beneath the waves."
-    link: "https://en.wikipedia.org/wiki/Submarine"
-    link_label: "Submarine"
-  - point: "The Nautilus is revealed to be a marvel of engineering and a repository of knowledge."
-    link: "https://en.wikipedia.org/wiki/Alexander_von_Humboldt"
-    link_label: "Alexander von Humboldt"
-  - point: "Nemo's library contains works by luminaries like Darwin and Humboldt, reflecting his intellectual pursuits."
-    link: "https://en.wikipedia.org/wiki/Charles_Darwin"
-    link_label: "Charles Darwin"
-  - point: "The chapter explores themes of freedom, isolation, and the cost of knowledge aboard the Nautilus."
-    link: "https://en.wikipedia.org/wiki/Philosophy_of_freedom"
-    link_label: "Philosophy of freedom"
+    link_label: "Conseil"
+  - point: "Commander Farragut welcomes Aronnax aboard the Abraham Lincoln, a frigate equipped for high-speed pursuit."
+    link: "https://en.wikipedia.org/wiki/USS_Abraham_Lincoln_(CVN-72)"
+    link_label: "Abraham Lincoln"
+  - point: "The frigate departs from the quay of Brooklyn amidst cheers, heading toward the Atlantic to hunt the narwhal."
+    link: "https://en.wikipedia.org/wiki/Brooklyn"
+    link_label: "Brooklyn"
+  - point: "The Abraham Lincoln navigates past Sandy Hook Point and into the Atlantic Ocean, marking the start of the expedition."
+    link: "https://en.wikipedia.org/wiki/Sandy_Hook"
+    link_label: "Sandy Hook Point"
 
 enhancements:
-  - id: "a-craftsmans-hand"
-    trigger: "a craftsman's hand"
-    title: "Artisan Craftsmanship"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Craft"
+  - id: "jardin-des-plantes-parisian-science-and-serenity"
+    trigger: "Jardin des Plantes"
+    title: "Paris's Botanical Haven That Inspired Scientists"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jardin_des_Plantes"
     image_url: ""
     image_caption: ""
-    content: "The phrase highlights the importance of skilled craftsmanship in creating objects of beauty and utility. In the 19th century, artisans were highly valued for their ability to produce intricate and durable works, often blending art and functionality. This craftsmanship reflects the era's appreciation for detail and mastery, which is evident in the Nautilus's design."
-  - id: "nautilus"
-    trigger: "Nautilus"
-    title: "The Nautilus Submarine"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nautilus_(Verne)"
+    content: "When Pierre Aronnax mentions his longing for his lodging by the Jardin des Plantes, he evokes a place deeply tied to scientific discovery and personal solace. Located in Paris, this botanical garden has been a hub for naturalists since its founding in 1626. By the 19th century, it housed not only lush gardens but also the Museum of Natural History, where specimens from around the world were studied and displayed. What many don’t know is that the Jardin des Plantes was also a site of revolutionary ideas—its researchers helped shape early theories of evolution and taxonomy. For Aronnax, leaving this sanctuary symbolizes the sacrifice of comfort and intellectual routine for the thrill of adventure. Verne uses this detail to underscore the tension between the known and the unknown, a theme central to the novel's exploration of science and discovery."
+  - id: "conseil-the-servant-who-never-gives-advice"
+    trigger: "Conseil"
+    title: "Why Conseil's Loyalty Defies Convention"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea"
     image_url: ""
     image_caption: ""
-    content: "The Nautilus is Captain Nemo's advanced submarine, a central symbol in Jules Verne's novel. It represents human ingenuity and the pursuit of knowledge, while also serving as a refuge from the surface world's chaos. Its name is inspired by the nautilus mollusk, known for its spiral shell, symbolizing perfection and mystery."
-  - id: "robert-fulton"
-    trigger: "Robert Fulton"
-    title: "Robert Fulton and Submarine Innovation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Robert_Fulton"
+    content: "When Aronnax calls for Conseil, his servant, we meet a character who is both indispensable and enigmatic. Conseil’s unwavering loyalty and phlegmatic nature make him an ideal companion for the unpredictable journey ahead. Yet, his name—French for 'advice'—is ironic, as he never offers guidance, even when asked. This quirk adds a subtle layer of humor and complexity to his character. Historically, servants in literature often serve as foils or comic relief, but Conseil’s role is more nuanced. His quiet competence and adaptability reflect the novel’s broader themes of human resilience and the pursuit of knowledge. By introducing Conseil early, Verne sets the stage for a partnership that will navigate both the wonders and dangers of the deep."
+  - id: "commander-farragut-the-man-hunting-the-unknown"
+    trigger: "Commander Farragut"
+    title: "The Captain Who Embodies Bold Leadership"
+    wikipedia_url: "https://en.wikipedia.org/wiki/David_Farragut"
     image_url: ""
     image_caption: ""
-    content: "Robert Fulton was an American engineer and inventor who pioneered early submarine designs, including the Nautilus prototype in 1800. His work laid the foundation for modern underwater vessels, influencing Verne's depiction of the Nautilus as a technological marvel."
-  - id: "electric-organ"
-    trigger: "electric organ"
-    title: "Electric Organ: A Musical Marvel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Electric_organ"
+    content: "When Aronnax meets Commander Farragut aboard the Abraham Lincoln, he encounters a figure of determination and authority. Farragut’s name may remind readers of David Farragut, the famous Civil War naval commander, though Verne’s character is fictional. Farragut’s resolve to hunt the mysterious narwhal mirrors the era’s fascination with exploration and conquest, whether of land, sea, or scientific frontiers. His leadership style—decisive and unyielding—sets the tone for the expedition, emphasizing the risks and rewards of chasing the unknown. Through Farragut, Verne explores the tension between human ambition and the uncontrollable forces of nature, a theme that resonates throughout the novel."
+  - id: "high-pressure-engines-speeding-into-the-unknown"
+    trigger: "high-pressure engines"
+    title: "How Steam Power Revolutionized Naval Exploration"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Steam_engine"
     image_url: ""
     image_caption: ""
-    content: "The electric organ in Nemo's chamber symbolizes the integration of technology and art. Electric organs emerged in the 20th century, but Verne's inclusion of such an instrument showcases his visionary imagination, blending music with futuristic innovation aboard the Nautilus."
-  - id: "harmonium"
-    trigger: "harmonium"
-    title: "Harmonium: Music and Solace"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Harmonium"
+    content: "The Abraham Lincoln’s high-pressure engines, capable of seven atmospheres, represent cutting-edge technology of the 19th century. Steam engines had transformed naval capabilities, enabling ships to travel faster and farther than ever before. This innovation was crucial for pursuits like the hunt for the narwhal, where speed could mean the difference between success and failure. Yet, high-pressure engines also carried risks—explosions were not uncommon, making them a symbol of both progress and peril. Verne’s inclusion of this detail highlights the novel’s engagement with the technological optimism of his time, while also foreshadowing the dangers of overreliance on machines in the face of nature’s unpredictability."
+  - id: "quay-of-brooklyn-a-citys-farewell-to-adventure"
+    trigger: "quay of Brooklyn"
+    title: "Brooklyn’s Role in Nautical History"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brooklyn"
     image_url: ""
     image_caption: ""
-    content: "The harmonium, a reed organ, was popular in the 19th century for its portability and rich sound. Nemo's use of the harmonium reflects his need for emotional expression and intellectual stimulation, emphasizing music's role as a universal language and a source of solace."
-  - id: "electric-light"
-    trigger: "electric light"
-    title: "Electric Light: A Technological Leap"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Electric_light"
+    content: "As the Abraham Lincoln departs from the quay of Brooklyn, Verne captures the bustling energy of 19th-century New York. Brooklyn, then a separate city, was a major hub for maritime activity, with its piers and shipyards playing a crucial role in trade and exploration. The crowd’s cheers reflect the public’s fascination with daring expeditions, a sentiment fueled by the era’s rapid technological advancements. For Aronnax, the departure from Brooklyn marks the beginning of a journey into the unknown, a transition from the familiar urban world to the mysteries of the deep. Verne uses this moment to juxtapose human ambition with the vastness of nature, setting the stage for the novel’s central conflict."
+  - id: "sandy-hook-point-where-land-meets-the-sea"
+    trigger: "Sandy Hook Point"
+    title: "The Gateway to New York’s Maritime Adventures"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sandy_Hook"
     image_url: ""
     image_caption: ""
-    content: "Electric lighting was a groundbreaking innovation in the 19th century, symbolizing progress and modernity. Its presence aboard the Nautilus underscores the vessel's advanced technology and Nemo's embrace of scientific advancements to create a self-sufficient underwater world."
-  - id: "humboldt"
-    trigger: "Humboldt"
-    title: "Alexander von Humboldt: Explorer and Scientist"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Alexander_von_Humboldt"
+    content: "As the Abraham Lincoln passes Sandy Hook Point, it crosses a threshold between the safety of the harbor and the vastness of the Atlantic Ocean. Sandy Hook, a narrow peninsula in New Jersey, has long been a strategic location for navigation, with its lighthouse guiding ships since 1764. Its sandy beaches and treacherous currents symbolize the delicate balance between human ingenuity and nature’s power. For Verne’s characters, this moment signifies the final farewell to the known world. By highlighting Sandy Hook, Verne anchors the story in real geography, lending authenticity to the fantastical journey that lies ahead."
+  - id: "atlantic-ocean-the-stage-for-vernes-epic"
+    trigger: "Atlantic"
+    title: "The Ocean That Inspired Jules Verne’s Imagination"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Atlantic_Ocean"
     image_url: ""
     image_caption: ""
-    content: "Alexander von Humboldt was a renowned naturalist and explorer whose works influenced scientific thought in the 19th century. Nemo's library includes Humboldt's writings, reflecting his admiration for exploration and the pursuit of knowledge, themes central to Verne's novel."
-  - id: "darwin"
-    trigger: "Darwin"
-    title: "Charles Darwin: Evolutionary Pioneer"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Charles_Darwin"
-    image_url: ""
-    image_caption: ""
-    content: "Charles Darwin's groundbreaking theories on evolution and natural selection reshaped scientific understanding of life on Earth. Nemo's inclusion of Darwin's works in his library highlights the captain's intellectual curiosity and his alignment with revolutionary scientific ideas."
-  - id: "philosophy-of-freedom"
-    trigger: "freedom over servitude"
-    title: "Philosophy of Freedom"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophy_of_freedom"
-    image_url: ""
-    image_caption: ""
-    content: "Nemo's declaration of choosing freedom over servitude reflects existential and philosophical themes. The concept of freedom, as explored by thinkers like Kant and Rousseau, underscores the tension between individual autonomy and societal constraints, a central theme in Verne's narrative."
-  - id: "submarine"
-    trigger: "beneath the waves"
-    title: "Submarine Exploration"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Submarine"
-    image_url: ""
-    image_caption: ""
-    content: "Submarines revolutionized naval exploration and warfare, enabling humans to venture beneath the ocean's surface. Verne's depiction of the Nautilus as a self-sufficient underwater vessel reflects the era's fascination with technological advancements and the mysteries of the deep sea."
+    content: "The Abraham Lincoln’s entry into the Atlantic Ocean marks the beginning of its pursuit of the narwhal. The Atlantic, the world’s second-largest ocean, has long been a site of exploration and mystery, from the age of European discovery to the transatlantic voyages of the 19th century. Verne’s choice of the Atlantic as the starting point for his novel reflects its historical significance as a gateway to the unknown. For Aronnax and his companions, the ocean becomes both a literal and metaphorical space—a realm where science, adventure, and danger converge. Verne uses the Atlantic’s vastness to underscore the novel’s themes of human curiosity and the limits of knowledge."
 ---
-The chamber into which we had been ushered was an elegant contradiction, a space where the machine-like precision of science met the opulent artistry of civilization. Beneath the glinting brass domes of the ceiling ran intricate designs, etched with such detail that they seemed to pulse with life under the electric glow. The furniture, of dark polished wood, was carved with a finesse that spoke of **a craftsman's hand** honed over decades. Here was a room that did not merely exist—it declared itself. And yet, its purpose remained elusive to me, as did the intentions of our host.
+Three seconds before the arrival of J. B. Hobson’s letter, I no more
+thought of pursuing the unicorn than of attempting the passage of the
+North Sea. Three seconds after reading the letter of the honourable
+Secretary of Marine, I felt that my true vocation, the sole end of my
+life, was to chase this disturbing monster, and purge it from the
+world.
 
-Captain Nemo stood before us, his figure tall and resolute, his face—a mask of composure—betraying nothing of the storm that might swirl beneath. His clothing, though simple, was tailored with precision, and the slight gleam of buttons and embroidery caught the light like stars against the midnight sea. He gestured for us to sit, his hand sweeping toward a set of velvet chairs arranged around a low table.
+But I had just returned from a fatiguing journey, weary and longing for
+repose. I aspired to nothing more than again seeing my country, my
+friends, my little lodging by the **Jardin des Plantes**, my dear and
+precious collections. But nothing could keep me back! I forgot
+all—fatigue, friends and collections—and accepted without hesitation
+the offer of the American Government.
 
-"Messieurs," he began in a voice that carried the weight of command, "welcome aboard the **Nautilus**."
+“Besides,” thought I, “all roads lead back to Europe (for my particular
+benefit), and I will not hurry me towards the coast of France. This
+worthy animal may allow itself to be caught in the seas of Europe (for
+my particular benefit), and I will not bring back less than half a yard
+of his ivory halberd to the Museum of Natural History.” But in the
+meanwhile I must seek this narwhal in the North Pacific Ocean, which,
+to return to France, was taking the road to the antipodes.
 
-There it was—the name that would haunt my thoughts for years to come. The Nautilus! How often had I read about the exploits of **Robert Fulton**, whose submarine experiments had paved the way for such marvels? And yet, here was a vessel that seemed to defy the boundaries of knowledge, an enigma that could not be contained within the pages of any scientific journal. I longed to interrogate its creator, to peel back the layers of mystery that surrounded him, but his demeanor made it clear that he would unfold his tale in his own time.
+“**Conseil**,” I called in an impatient voice.
 
-"You will find," Nemo continued, "that this ship is unlike anything you have ever encountered. It is a world unto itself, a sanctuary for those who seek freedom from the tyranny above." His gaze flickered to Ned Land, who sat stiffly, his broad arms crossed over his chest. The harpooner’s jaw was set, his defiance palpable. "But let us not dwell on that. You are here now, and here you shall remain."
+Conseil was my servant, a true, devoted Flemish boy, who had
+accompanied me in all my travels. I liked him, and he returned the
+liking well. He was phlegmatic by nature, regular from principle,
+zealous from habit, evincing little disturbance at the different
+surprises of life, very quick with his hands, and apt at any service
+required of him; and, despite his name, never giving advice—even when
+asked for it.
 
-"Remain?" Ned barked, his voice slicing through the air. "What do you mean by that? Are we prisoners?"
+Conseil had followed me for the last ten years wherever science led.
+Never once did he complain of the length or fatigue of a journey, never
+make an objection to pack his portmanteau for whatever country it might
+be, or however far away, whether China or Congo. Besides all this, he
+had good health, which defied all sickness, and solid muscles, but no
+nerves; good morals are understood. This boy was thirty years old, and
+his age to that of his master as fifteen to twenty. May I be excused
+for saying that I was forty years old?
 
-Nemo's lips curled into a faint smile, though his eyes remained cold. "Prisoners? No. Guests, if you will. Though I must insist that your movements be confined to the boundaries of this vessel. You will find that the Nautilus offers much to occupy the mind and the senses. But the surface of the sea—ah, that is no longer your concern."
+But Conseil had one fault: he was ceremonious to a degree, and would
+never speak to me but in the third person, which was sometimes
+provoking.
 
-Ned shot to his feet, his indignation boiling over. "You can't just keep us here! I have a life—work, people waiting for me!"
+“Conseil,” said I again, beginning with feverish hands to make
+preparations for my departure.
 
-"That life is behind you now," Nemo said, his voice like iron. "The world above is a realm of folly and violence, a place where men destroy what they cannot understand. Here, beneath the waves, you may find peace. Or, at the very least, safety."
+Certainly I was sure of this devoted boy. As a rule, I never asked him
+if it were convenient for him or not to follow me in my travels; but
+this time the expedition in question might be prolonged, and the
+enterprise might be hazardous in pursuit of an animal capable of
+sinking a frigate as easily as a nutshell. Here there was matter for
+reflection even to the most impassive man in the world. What would
+Conseil say?
 
-I could feel the tension crackling in the room, like the charge before a storm. Conseil, ever the diplomat, placed a calming hand on Ned’s arm and spoke in his even tone. "Monsieur," he addressed Nemo, "we are indeed grateful for your hospitality, but surely you understand our concern for our future. Might we know your intentions toward us?"
+“Conseil,” I called a third time.
 
-Nemo inclined his head slightly, acknowledging the question. "My intentions are simple. You are men of science and skill. Here, aboard the Nautilus, you may witness wonders that the world above cannot offer. I do not ask for your loyalty, merely your understanding. And in exchange, I ask only that you respect the sanctity of this vessel."
+Conseil appeared.
 
-The captain’s words hung in the air, their weight pressing down upon us. I felt both exhilaration and trepidation, drawn by the promise of discovery yet wary of the price we might pay. I glanced at the **electric organ** in the corner of the room, its pipes gleaming like the spines of some fantastical creature. Nemo followed my gaze and smiled faintly.
+“Did you call, sir?” said he, entering.
 
-"Ah," he said, "you have noticed my **harmonium**. Music is one of the few pleasures I indulge in. It calms the soul and sharpens the mind—a necessity in this life of mine."
+“Yes, my boy; make preparations for me and yourself too. We leave in
+two hours.”
 
-"And what life is that?" I ventured, unable to keep the question at bay. "Who are you, Captain Nemo? What drives a man to retreat from the world so completely?"
+“As you please, sir,” replied Conseil, quietly.
 
-For the first time, a flicker of emotion crossed his face—anger, sorrow, perhaps both. "Who am I?" he echoed, his voice low. "I am a man who has chosen freedom over servitude, knowledge over ignorance. The world above rejected me, and so I rejected it in turn. Here, beneath the waves, I am master of my own fate."
+“Not an instant to lose;—lock in my trunk all travelling utensils,
+coats, shirts, and stockings—without counting, as many as you can, and
+make haste.”
 
-His words stirred something within me, a mixture of admiration and unease. What had the world done to this man to drive him to such extremes? What injustice had carved those lines into his face?
+“And your collections, sir?” observed Conseil.
 
-Nemo rose suddenly, his movements fluid and precise. "Come," he said, "I will show you what the Nautilus can offer. Perhaps then you will understand why I choose to remain here."
+“We will think of them by and by.”
 
-He led us through a series of narrow corridors, each one lined with gleaming panels and illuminated by the soft hum of **electric light**. The air was cool and carried the faint scent of seawater, a reminder of the ocean that enveloped us. Finally, we arrived at a grand chamber—a library unlike any I had ever seen. Shelves rose from floor to ceiling, laden with books that ranged from ancient tomes to modern works. I spotted volumes by **Humboldt**, **Darwin**, and other luminaries whose names were etched into the annals of science and exploration.
+“What! the **archiotherium**, the hyracotherium, the oreodons, the
+cheropotamus, and the other skins?”
 
-"This," Nemo said, gesturing to the room, "is my refuge. Here, knowledge is my companion, my solace. Every book you see has been chosen with care, brought aboard to expand the mind and enrich the spirit."
+“They will keep them at the hotel.”
 
-I wandered through the aisles, my fingers trailing along the spines of books whose titles whispered to me of worlds unknown. It was a treasure trove, a sanctuary for the intellectual wanderer. And yet, the thought gnawed at me—was this enough? Could such riches compensate for the loss of freedom, the isolation from humanity?
+“And your live Babiroussa, sir?”
 
-Nemo seemed to sense my unease. "Do not pity me, Monsieur," he said quietly. "The world above is a place of chaos, ruled by greed and ignorance. Here, beneath the waves, I have found clarity. And perhaps, in time, you will too."
+“They will feed it during our absence; besides, I will give orders to
+forward our menagerie to France.”
 
-I wanted to argue, to challenge his perspective, but the words caught in my throat. Was he wrong? Or had he simply seen the world through a lens I had yet to understand?
+“We are not returning to Paris, then?” said Conseil.
 
-As we made our way back to the sitting room, I felt the weight of decisions yet to be made. Captain Nemo had offered us a world of wonders, but at what cost? The Nautilus was a marvel, a testament to human ingenuity, but it was also a cage—one gilded, perhaps, but a cage nonetheless. And the man who commanded it? A puzzle, a paradox, a force of nature as unpredictable as the sea itself.
+“Oh! certainly,” I answered, evasively, “by making a curve.”
 
-When we reached our quarters, Nemo turned to us one last time. "Rest, Messieurs," he said. "Tomorrow, the Nautilus will reveal its secrets to you. And perhaps then you will understand why I have chosen this path."
+“Will the curve please you, sir?”
 
-He left us then, the door whispering shut behind him. Ned slumped into a chair, his expression dark. "I don’t trust him," he muttered. "This isn’t freedom—it’s a prison, no matter how pretty it looks."
+“Oh! it will be nothing; not quite so direct a road, that is all. We
+take our passage in the _Abraham Lincoln_.”
 
-Conseil, ever the optimist, replied, "Perhaps, Monsieur Land, but is it not a prison filled with marvels? Surely we can learn much while we are here."
+“As you think proper, sir,” coolly replied Conseil.
 
-I said nothing, my thoughts a tempest of wonder and doubt. The Nautilus was a marvel, yes, but it was also an enigma—a world apart, ruled by a man whose motives remained obscured. As I settled into my chair, I felt the hum of the ship beneath me, the pulse of a leviathan that carried us deeper into the unknown.
+“You see, my friend, it has to do with the monster—the famous narwhal.
+We are going to purge it from the seas. The author of a work in quarto
+in two volumes, on the ‘Mysteries of the Great Submarine Grounds’
+cannot forbear embarking with **Commander Farragut**. A glorious mission,
+but a dangerous one! We cannot tell where we may go; these animals can
+be very capricious. But we will go whether or no; we have got a captain
+who is pretty wide-awake.”
+
+I opened a credit account for Babiroussa, and, Conseil following, I
+jumped into a cab. Our luggage was transported to the deck of the
+frigate immediately. I hastened on board and asked for Commander
+Farragut. One of the sailors conducted me to the poop, where I found
+myself in the presence of a good-looking officer, who held out his hand
+to me.
+
+“Monsieur Pierre Aronnax?” said he.
+
+“Himself,” replied I; “Commander Farragut?”
+
+“You are welcome, Professor; your cabin is ready for you.”
+
+I bowed, and desired to be conducted to the cabin destined for me.
+
+The _Abraham Lincoln_ had been well chosen and equipped for her new
+destination. She was a frigate of great speed, fitted with
+**high-pressure engines** which admitted a pressure of seven atmospheres.
+Under this the _Abraham Lincoln_ attained the mean speed of nearly
+eighteen knots and a third an hour—a considerable speed, but,
+nevertheless, insufficient to grapple with this gigantic cetacean.
+
+The interior arrangements of the frigate corresponded to its nautical
+qualities. I was well satisfied with my cabin, which was in the after
+part, opening upon the gunroom.
+
+“We shall be well off here,” said I to Conseil.
+
+“As well, by your honour’s leave, as a hermit-crab in the shell of a
+whelk,” said Conseil.
+
+I left Conseil to stow our trunks conveniently away, and remounted the
+poop in order to survey the preparations for departure.
+
+At that moment Commander Farragut was ordering the last moorings to be
+cast loose which held the _Abraham Lincoln_ to the pier of Brooklyn. So
+in a quarter of an hour, perhaps less, the frigate would have sailed
+without me. I should have missed this extraordinary, supernatural, and
+incredible expedition, the recital of which may well meet with some
+scepticism.
+
+But Commander Farragut would not lose a day nor an hour in scouring the
+seas in which the animal had been sighted. He sent for the engineer.
+
+“Is the steam full on?” asked he.
+
+“Yes, sir,” replied the engineer.
+
+“Go ahead,” cried Commander Farragut.
+
+The **quay of Brooklyn**, and all that part of New York bordering on the
+East River, was crowded with spectators. Three cheers burst
+successively from five hundred thousand throats; thousands of
+handkerchiefs were waved above the heads of the compact mass, saluting
+the _Abraham Lincoln_, until she reached the waters of the Hudson, at
+the point of that elongated peninsula which forms the town of New York.
+Then the frigate, following the coast of New Jersey along the right
+bank of the beautiful river, covered with villas, passed between the
+forts, which saluted her with their heaviest guns. The _Abraham
+Lincoln_ answered by hoisting the American colours three times, whose
+thirty-nine stars shone resplendent from the mizzen-peak; then
+modifying its speed to take the narrow channel marked by buoys placed
+in the inner bay formed by **Sandy Hook Point**, it coasted the long sandy
+beach, where some thousands of spectators gave it one final cheer. The
+escort of boats and tenders still followed the frigate, and did not
+leave her until they came abreast of the lightship, whose two lights
+marked the entrance of New York Channel.
+
+Six bells struck, the pilot got into his boat, and rejoined the little
+schooner which was waiting under our lee, the fires were made up, the
+screw beat the waves more rapidly, the frigate skirted the low yellow
+coast of Long Island; and at eight bells, after having lost sight in
+the north-west of the lights of Fire Island, she ran at full steam on
+to the dark waters of the **Atlantic**.
