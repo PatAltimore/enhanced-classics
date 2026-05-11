@@ -325,11 +325,6 @@
     if (!p) return;
     p.open = !p.open;
     if (p.open) {
-      // Scroll panel into view (handles the case where spreading moved it away
-      // from the trigger paragraph).
-      requestAnimationFrame(function () {
-        p.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-      });
       // iOS/WebKit defers painting images inside <details> until a compositing
       // flush occurs. Reading offsetHeight forces that flush.
       // If the image is still downloading when the panel opens, the flush must
