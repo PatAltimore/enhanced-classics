@@ -184,6 +184,14 @@
   }
 
   /* ── Markdown → HTML ── */
+  function normTypo(s) {
+    return s.replace(/[‘’]/g, "'")
+            .replace(/[“”]/g, '"')
+            .replace(/[–—]/g, '-')
+            .replace(/ /g, ' ')
+            .replace(/…/g, '...');
+  }
+
   function mdToHtml(md, enhancements) {
     const triggerMap = {};
     (enhancements || []).forEach(e => { if (e.trigger) triggerMap[e.trigger] = e.id; });
@@ -193,7 +201,8 @@
       let p = para.trim();
       if (!p) return '';
       p = p.replace(/\*\*(.+?)\*\*/g, (_, text) => {
-        const t = triggers.find(tr => text.includes(tr));
+        const normText = normTypo(text);
+        const t = triggers.find(tr => normText.includes(normTypo(tr)));
         if (t) return '<span class="enhance-trigger" onclick="togglePanel(\'' + triggerMap[t] + '\')">' + text + '</span>';
         return '<strong>' + text + '</strong>';
       });

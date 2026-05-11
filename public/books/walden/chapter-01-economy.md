@@ -9,24 +9,24 @@ book_slug: "walden"
 license: "public-domain"
 
 summary:
-  - point: "Thoreau begins by describing his two-year experiment living alone at Walden Pond, emphasizing self-reliance and simplicity."
+  - point: "Thoreau begins by describing his solitary life at Walden Pond, where he built his own house and lived simply for over two years."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
     link_label: "Walden Pond"
-  - point: "He critiques societal norms, comparing the labor of his neighbors to the mythical labors of Hercules, suggesting their efforts are futile and unending."
-    link: "https://en.wikipedia.org/wiki/Labours_of_Hercules"
-    link_label: "Labors of Hercules"
-  - point: "Thoreau explores the concept of 'quiet desperation,' arguing that resignation is a form of despair masked as acceptance."
-    link: "https://en.wikipedia.org/wiki/Walden_(book)#Themes"
-    link_label: "Quiet desperation"
-  - point: "He examines the 'gross necessaries of life,' such as food, shelter, clothing, and fuel, to understand what is truly essential for human survival."
-    link: "https://en.wikipedia.org/wiki/Walden_(book)#Themes"
-    link_label: "Gross necessaries of life"
-  - point: "Thoreau advocates for 'voluntary poverty,' suggesting that simplicity and self-sufficiency lead to a richer, more meaningful life."
-    link: "https://en.wikipedia.org/wiki/Simple_living"
-    link_label: "Voluntary poverty"
-  - point: "He critiques the factory system, arguing that it prioritizes corporate profit over the well-being of workers."
+  - point: "He critiques societal norms, comparing the labor of his neighbors to the penance of Brahmins and the endless labors of Hercules."
+    link: "https://en.wikipedia.org/wiki/Brahmin"
+    link_label: "Brahmins"
+  - point: "Thoreau observes that most men lead lives of quiet desperation, resigned to societal expectations and unable to pursue wisdom or integrity."
+    link: "https://en.wikipedia.org/wiki/Walden"
+    link_label: "quiet desperation"
+  - point: "He argues for voluntary poverty as a means to achieve simplicity, independence, and philosophical living."
+    link: "https://en.wikipedia.org/wiki/Voluntary_simplicity"
+    link_label: "voluntary poverty"
+  - point: "Thoreau reflects on the factory system and its dehumanizing effects, contrasting it with the virtues of self-reliance and simplicity."
     link: "https://en.wikipedia.org/wiki/Factory_system"
-    link_label: "Factory system"
+    link_label: "factory system"
+  - point: "He recounts his experiment in living simply, including building his house, growing his own food, and working only six weeks a year to sustain himself."
+    link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    link_label: "six weeks in a year"
 
 enhancements:
   - id: "walden-pond-literary-landmark"
@@ -35,112 +35,126 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s experiment at Walden Pond was not just a retreat; it was a deliberate act of resistance against societal norms. Located in Concord, Massachusetts, Walden Pond became the stage for his philosophical exploration of simplicity, self-reliance, and the relationship between man and nature. The pond itself, a glacial kettle-hole, had long been a serene spot, but Thoreau transformed it into a symbol of transcendentalist ideals. What many don’t know is that Walden Pond was also a site of industry before Thoreau’s time, with ice harvesting being a major activity. This irony—that a place of natural beauty was once exploited for commerce—adds depth to Thoreau’s choice to live there. By situating his experiment at Walden, Thoreau was making a statement: nature, not industry, is the true source of human fulfillment. His reflections at the pond challenge readers to reconsider what they truly need to live a meaningful life."
-  - id: "quiet-desperation-hidden-struggles"
+    content: "Thoreau begins his narrative by situating himself at Walden Pond, a small glacial lake in Concord, Massachusetts. He describes it as the setting for his experiment in simple living. Walden Pond, though modest in size, has become one of the most iconic literary landmarks in America. Its serene waters and surrounding woods inspired Thoreau's reflections on nature, society, and self-reliance. The pond itself has a fascinating geological history, formed by retreating glaciers thousands of years ago. In Thoreau's time, it was a quiet retreat, but today it is a bustling state reservation visited by thousands annually. By choosing Walden Pond as his home, Thoreau was making a deliberate statement: nature, not society, is the true source of wisdom and fulfillment. The pond serves as both a literal and metaphorical mirror, reflecting the themes of solitude, introspection, and the search for authenticity that permeate his work."
+  - id: "brahmins-ascetic-rituals"
+    trigger: "Brahmins sitting exposed to four fires"
+    title: "Why Priests Voluntarily Sat Between Four Fires"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brahmin"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau invokes the image of Brahmins enduring extreme ascetic rituals, such as sitting exposed to four fires and staring at the sun, to critique the self-imposed suffering he sees in his neighbors' lives. These rituals, part of ancient Hindu practices, were meant to purify the soul and achieve spiritual enlightenment. The Brahmins believed that such acts of physical endurance brought them closer to the divine. However, Thoreau uses this comparison ironically, suggesting that the endless toil of his neighbors—digging graves metaphorically from birth—is no less absurd or self-defeating. By juxtaposing these practices, Thoreau challenges the reader to reconsider what constitutes meaningful labor and spiritual fulfillment in a modern, industrialized society."
+  - id: "quiet-desperation-modern-life"
     trigger: "quiet desperation"
-    title: "Why Most Lives Are Lived in Silent Despair"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_(book)#Themes"
+    title: "What Thoreau Meant by 'Quiet Desperation'"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s observation that 'the mass of men lead lives of quiet desperation' is one of the most quoted lines from Walden. In this chapter, he uses it to critique the resignation he sees in his neighbors, who toil endlessly without questioning the purpose of their labor. What’s striking is how this phrase resonates across centuries—it has been used to describe modern office workers, suburban malaise, and even existential crises. Few realize that Thoreau’s critique was also deeply personal; he saw his own struggles mirrored in the lives of others. By calling out this 'quiet desperation,' Thoreau invites readers to confront their own unexamined lives. His solution? Simplicity, self-reliance, and the courage to live authentically. The phrase lingers because it challenges us to ask: Are we truly living, or merely surviving?"
-  - id: "gross-necessaries-life-priorities"
-    trigger: "gross necessaries of life"
-    title: "What Do Humans Really Need to Survive?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_(book)#Themes"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau’s exploration of the 'gross necessaries of life'—food, shelter, clothing, and fuel—forms the backbone of his argument for simplicity. He argues that these essentials are all that humans truly need, and anything beyond them is superfluous. What’s fascinating is how this idea intersects with modern minimalism and sustainability movements. Thoreau’s observations were ahead of their time; he even touches on the environmental impact of excess, noting how luxuries can degrade both the individual and the planet. By stripping life down to its essentials, Thoreau believed people could focus on higher pursuits—philosophy, art, and spiritual growth. His analysis forces readers to reconsider their own consumption habits and ask: What is truly necessary, and what is merely distraction?"
-  - id: "voluntary-poverty-hidden-riches"
+    content: "Thoreau famously observes that 'the mass of men lead lives of quiet desperation.' This phrase encapsulates his critique of modern life, where individuals conform to societal expectations at the expense of their own dreams and integrity. The term 'quiet desperation' suggests a subdued but pervasive sense of dissatisfaction, a resignation to unfulfilled lives. Thoreau's insight resonates deeply in contemporary discussions about work-life balance and the pursuit of happiness. By highlighting this despair, he urges readers to break free from societal norms and seek a life of purpose and authenticity. His call to action is not just philosophical but deeply practical: simplify, reflect, and live deliberately."
+  - id: "voluntary-poverty-path-to-wisdom"
     trigger: "voluntary poverty"
-    title: "Why Choosing Less Can Mean Living More"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Simple_living"
+    title: "Why Thoreau Chose Poverty Over Wealth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Voluntary_simplicity"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s embrace of 'voluntary poverty' was not an act of deprivation but a deliberate choice to live richly. He believed that by owning less, one could experience more—more freedom, more clarity, and more connection to the essentials of life. This idea has parallels in various spiritual traditions, from Buddhist asceticism to Christian monasticism, but Thoreau’s take was uniquely American. He saw voluntary poverty as a rebellion against the materialism of his era, a way to reclaim individuality in a society obsessed with wealth. What’s surprising is how this concept has resurfaced in modern movements like tiny living and zero-waste lifestyles. Thoreau’s experiment challenges us to rethink wealth—not as the accumulation of things, but as the cultivation of experiences and wisdom."
-  - id: "factory-system-human-cost"
+    content: "Thoreau extols the virtues of voluntary poverty, arguing that simplicity and independence are prerequisites for philosophical living. He contrasts the ancient philosophers, who lived with minimal possessions, with the materialism of his contemporaries. Voluntary poverty is not deprivation but liberation—it frees the individual from the burdens of wealth and the distractions of luxury. Thoreau's experiment at Walden Pond was a deliberate attempt to live this principle, reducing his needs to the bare essentials. By doing so, he found the time and mental clarity to pursue higher truths. His advocacy for voluntary poverty challenges readers to reconsider their own relationship with material possessions and the true cost of wealth."
+  - id: "factory-system-dehumanization"
     trigger: "factory system"
-    title: "The Hidden Human Cost of Mass Production"
+    title: "How Factories Changed Work Forever (For Better and Worse)"
     wikipedia_url: "https://en.wikipedia.org/wiki/Factory_system"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s critique of the factory system is scathing. He sees it as a mechanism that enriches corporations while degrading the lives of workers. What’s striking is how relevant this critique remains in the age of globalized labor and fast fashion. Factories, Thoreau argues, turn humans into machines, stripping them of their individuality and reducing their lives to mere toil. Few realize that Thoreau’s critique was also a call to action; he believed that individuals could resist this system by embracing self-reliance and simplicity. His words resonate today as we grapple with questions about ethical consumption and the true cost of convenience. Thoreau’s vision invites us to imagine a world where work serves humanity, not the other way around."
-  - id: "samuel-laing-laplander-resilience"
+    content: "Thoreau critiques the factory system as a symbol of dehumanization, where workers are reduced to mere cogs in a machine. He laments the loss of individuality and creativity in the pursuit of efficiency and profit. The factory system, which emerged during the Industrial Revolution, revolutionized production but also introduced harsh working conditions and alienation. Thoreau's disdain for this system reflects his broader critique of industrialization and its impact on human values. By rejecting factory-made goods and embracing self-reliance, Thoreau advocates for a return to craftsmanship and personal agency. His critique remains relevant in discussions about automation, labor rights, and the future of work."
+  - id: "six-weeks-labor-thoreau"
+    trigger: "six weeks in a year"
+    title: "How Thoreau Lived on Six Weeks of Work"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau reveals that by working only six weeks a year, he was able to meet all his living expenses and dedicate the rest of his time to study and reflection. This startling claim underscores his belief in the sufficiency of simple living. By minimizing his needs and maximizing his independence, Thoreau demonstrated that the pursuit of wealth is not a necessity but a choice. His experiment challenges conventional notions of productivity and success, suggesting that true wealth lies in leisure and intellectual freedom. Thoreau's example invites readers to reconsider their own work-life balance and the sacrifices they make for material gain."
+  - id: "madam-pfeiffer-travel-clothes"
+    trigger: "Madam Pfeiffer"
+    title: "The Woman Who Traveled the World Alone"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ida_Pfeiffer"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions Madam Pfeiffer, an Austrian explorer who traveled the world in the mid-19th century, as an example of how clothing influences perception. Pfeiffer's adventures took her across continents, often defying societal expectations for women of her time. Her travels were documented in popular books, making her a celebrated figure in her era. Thoreau uses her story to critique the superficial judgments based on attire, highlighting the absurdity of equating clothing with character. Pfeiffer's courage and independence align with Thoreau's ideals of self-reliance and authenticity, making her a fitting figure in his argument against societal conformity."
+  - id: "samuel-laing-laplander-survival"
     trigger: "Samuel Laing"
-    title: "How Laplanders Survive Arctic Winters Without Shelter"
+    title: "How Laplanders Survived Arctic Winters"
     wikipedia_url: "https://en.wikipedia.org/wiki/Samuel_Laing_(travel_writer)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau references Samuel Laing’s observations of Laplanders sleeping on snow in subzero temperatures, wrapped only in skin bags. This vivid image underscores Thoreau’s argument that shelter, while useful, is not always essential. Laing’s travel writings, which documented the resilience of Arctic peoples, were popular in Thoreau’s time and offered a stark contrast to the comforts of modern civilization. What’s fascinating is how this example challenges our assumptions about human adaptability. Thoreau uses it to question whether the elaborate homes of his neighbors truly improve their lives—or merely complicate them. By invoking the Laplanders, he reminds readers that simplicity can be a source of strength, even in the harshest conditions."
-  - id: "arrowy-white-pines-thoreau-construction"
+    content: "Thoreau references Samuel Laing's observations of Laplanders sleeping on snow in extreme cold, using only skin bags for warmth. Laing, a 19th-century travel writer, documented the resilience and ingenuity of Arctic peoples. Thoreau uses this example to question the necessity of elaborate shelters and comforts, arguing that humans can adapt to harsh conditions with minimal resources. This anecdote serves as a metaphor for Thoreau's philosophy of simplicity and self-reliance. By highlighting the Laplanders' survival skills, Thoreau challenges readers to reconsider their own dependence on material comforts and the true necessities of life."
+  - id: "arrowy-white-pines-thoreau"
     trigger: "arrowy white pines"
-    title: "Why Thoreau Chose White Pines for His Cabin"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pinus_strobus"
+    title: "The Trees That Built Thoreau's Cabin"
+    wikipedia_url: "https://en.wikipedia.org/wiki/White_pine"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s choice of 'arrowy white pines' for his cabin was both practical and symbolic. White pines, known for their straight trunks and durability, were ideal for construction. But they also held cultural significance; Native Americans used them for canoes and ceremonial poles, and they were a symbol of resilience in New England. Thoreau’s act of cutting these trees was deliberate—he saw it as participating in the cycle of nature, not exploiting it. What’s surprising is how this choice reflects his broader philosophy: even in building a home, Thoreau sought harmony with the natural world. The white pines became more than timber; they were a testament to his belief in living deliberately and with purpose."
+    content: "Thoreau describes cutting down 'arrowy white pines' to build his cabin at Walden Pond. White pines, native to New England, were prized for their straight, tall trunks, making them ideal for construction and ship masts. These trees symbolize both the natural abundance Thoreau relied on and the deliberate simplicity of his experiment. By choosing to fell and shape the timber himself, Thoreau emphasizes the importance of personal labor and connection to the land. The act of building his cabin becomes a metaphor for constructing a life rooted in independence and harmony with nature."
   - id: "sentimental-reformer-architecture"
     trigger: "sentimental reformer in architecture"
-    title: "Can Architecture Reflect the Soul of Its Builder?"
+    title: "Why Thoreau Critiqued Ornamental Architecture"
     wikipedia_url: "https://en.wikipedia.org/wiki/Architecture"
     image_url: ""
     image_caption: ""
-    content: "Thoreau critiques the 'sentimental reformer in architecture,' who focuses on superficial aesthetics rather than the deeper needs of the inhabitant. He argues that true architectural beauty arises from necessity and character, not ornamentation. This critique resonates with modern movements like sustainable architecture, which prioritize function and harmony over grandeur. What’s fascinating is Thoreau’s belief that a house should reflect the life within it—simple, honest, and purposeful. By dismissing hollow ornamentation, he challenges readers to consider what their homes say about their values. Thoreau’s vision of architecture is not just about buildings; it’s about building lives that are authentic and meaningful."
-  - id: "philosophy-india-thoreau-diet"
-    trigger: "philosophy of India"
-    title: "How Indian Philosophy Shaped Thoreau’s Simple Diet"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Indian_philosophy"
+    content: "Thoreau dismisses the 'sentimental reformer in architecture' who focuses on superficial ornamentation rather than functional design. He argues that true architectural beauty arises from necessity and character, not external embellishments. This critique reflects Thoreau's broader philosophy of simplicity and authenticity. He contrasts the hollow grandeur of modern buildings with the unpretentious charm of log huts and cottages. For Thoreau, architecture should serve the inhabitant's life, not vanity. His perspective challenges readers to value substance over style and to seek beauty in utility and truth."
+  - id: "mucclasse-indians-purification-ritual"
+    trigger: "Mucclasse Indians"
+    title: "The Ceremony That Cleansed a Community"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Creek_(people)"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s reference to the 'philosophy of India' reveals his deep engagement with Eastern thought, particularly its emphasis on simplicity and spiritual discipline. His diet of rice and water echoes the ascetic practices of Indian sages, who sought enlightenment through minimalism. What’s surprising is how Thoreau’s interest in Indian philosophy influenced his broader worldview, including his ideas on self-reliance and nonconformity. By adopting a simple diet, Thoreau wasn’t just saving money—he was aligning his life with principles of mindfulness and intentionality. This connection between food and philosophy invites readers to consider how their own choices reflect their values."
-  - id: "marcus-porcius-cato-bread-recipe"
-    trigger: "Marcus Porcius Cato"
-    title: "The Ancient Roman Recipe That Inspired Thoreau’s Bread"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cato_the_Elder"
+    content: "Thoreau references the Mucclasse Indians' 'busk' ceremony, a purification ritual involving fasting, burning old possessions, and renewing fire. This annual tradition symbolized spiritual and communal renewal. The Mucclasse, part of the Creek Nation, believed in the importance of starting anew, both physically and spiritually. Thoreau admires this practice as a true sacrament, an outward sign of inward grace. By invoking this ritual, he critiques the materialism of his own society and suggests that such acts of renewal could lead to deeper spiritual and social harmony."
+  - id: "six-weeks-labor-thoreau"
+    trigger: "six weeks in a year"
+    title: "How Thoreau Lived on Six Weeks of Work"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s mention of Marcus Porcius Cato’s bread recipe is a nod to ancient simplicity. Cato, a Roman statesman, advocated for plain living and practical wisdom, values that resonated deeply with Thoreau. The recipe—basic meal, water, and kneading—reflects a time when food was unadorned and essential. What’s fascinating is how Thoreau uses this historical reference to challenge modern culinary excess. By baking bread without yeast, he experiments with the fundamentals of sustenance, stripping away complexity to find deeper meaning. This act of baking becomes a metaphor for his entire philosophy: life, like bread, should be simple, honest, and nourishing."
-  - id: "arthur-young-farming-simplicity"
-    trigger: "Arthur Young"
-    title: "What Thoreau Learned From a Famous English Farmer"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Arthur_Young_(agriculturist)"
+    content: "Thoreau reveals that by working only six weeks a year, he was able to meet all his living expenses and dedicate the rest of his time to study and reflection. This startling claim underscores his belief in the sufficiency of simple living. By minimizing his needs and maximizing his independence, Thoreau demonstrated that the pursuit of wealth is not a necessity but a choice. His experiment challenges conventional notions of productivity and success, suggesting that true wealth lies in leisure and intellectual freedom. Thoreau's example invites readers to reconsider their own work-life balance and the sacrifices they make for material gain."
+  - id: "adam-smith-economics"
+    trigger: "Adam Smith"
+    title: "The Book Adam Smith Never Expected to Matter This Much"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Adam_Smith"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s reference to Arthur Young, an influential English agriculturist, highlights his engagement with global ideas on farming and economy. Young’s writings emphasized efficiency and innovation, but Thoreau critiques these methods, favoring simplicity over complexity. What’s surprising is how Thoreau flips Young’s ideas on their head, arguing that small-scale, self-sufficient farming is not only more sustainable but also more fulfilling. By rejecting the industrialization of agriculture, Thoreau aligns himself with a philosophy of harmony with nature. This contrast between Young’s pragmatism and Thoreau’s idealism invites readers to reconsider the true purpose of farming: is it to maximize profit, or to cultivate a deeper connection to the earth?"
-  - id: "compound-interest-devil-debt"
+    content: "Thoreau critiques the study of political economy, referencing Adam Smith, the father of modern economics. Smith's seminal work, 'The Wealth of Nations,' laid the foundation for capitalism and free-market theory. Thoreau, however, finds fault in the focus on material wealth at the expense of spiritual and philosophical growth. He contrasts the pursuit of economic success with the simplicity and self-reliance he advocates. By invoking Smith, Thoreau challenges readers to question the true cost of economic systems and to seek a balance between material and spiritual well-being."
+  - id: "compound-interest-devil"
     trigger: "compound interest"
-    title: "Why Thoreau Saw Debt as a Devil’s Bargain"
+    title: "Why Thoreau Called Compound Interest 'The Devil's Share'"
     wikipedia_url: "https://en.wikipedia.org/wiki/Compound_interest"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s critique of 'compound interest' is more than a financial observation—it’s a moral indictment. He sees debt as a trap that enslaves individuals to endless labor, robbing them of freedom and creativity. What’s fascinating is how this idea resonates today, in an era of student loans and credit card debt. Thoreau’s warning about the 'devil’s compound interest' challenges readers to rethink their relationship with money and consumption. By living simply and avoiding debt, Thoreau believed people could reclaim their autonomy and focus on higher pursuits. His critique is not just about economics; it’s about the cost of compromising one’s soul."
-  - id: "flocks-admetus-thoreau-trade"
-    trigger: "the flocks of Admetus"
-    title: "What Greek Mythology Taught Thoreau About Trade"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Admetus"
+    content: "Thoreau refers to compound interest as 'the devil's share,' critiquing the way financial systems perpetuate inequality and exploitation. Compound interest, a cornerstone of modern banking, allows wealth to grow exponentially over time, often benefiting the rich at the expense of the poor. Thoreau's disdain for this mechanism reflects his broader critique of capitalism and its dehumanizing effects. By highlighting the moral implications of compound interest, Thoreau urges readers to reconsider the ethical foundations of economic systems and their impact on society."
+  - id: "portulaca-oleracea-edible-weed"
+    trigger: "Portulaca oleracea"
+    title: "The Humble Weed That Fed Thoreau"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Portulaca_oleracea"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s reference to 'the flocks of Admetus' draws from Greek mythology, where Apollo tended the flocks of King Admetus as punishment. This story, often seen as a tale of humility, resonates with Thoreau’s critique of trade and labor. He likens his own modest pursuits, like berry-picking, to Apollo’s divine yet humble task. What’s surprising is how Thoreau uses this myth to elevate simple, honest work above the complexities of commerce. By invoking Admetus, he reminds readers that even the gods valued simplicity and connection to nature. This mythological lens adds depth to Thoreau’s argument: true wealth lies not in trade, but in living authentically."
-  - id: "branches-evil-root-causes"
+    content: "Thoreau recounts making a meal of purslane, or Portulaca oleracea, a common edible weed found in his cornfield. Purslane, rich in omega-3 fatty acids and vitamins, has been used as food and medicine for centuries. Thoreau's choice to eat this humble plant underscores his philosophy of simplicity and self-reliance. By finding sustenance in what others might overlook, he demonstrates the abundance of nature and the possibilities of living in harmony with it. This anecdote serves as a metaphor for Thoreau's broader argument: true wealth lies in appreciating and utilizing the resources readily available to us."
+  - id: "hoe-cakes-primitive-bread"
+    trigger: "hoe-cakes"
+    title: "The Ancient Art of Baking Hoe-Cakes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cornbread"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes baking hoe-cakes, a simple bread made from cornmeal and water, as part of his experiment in self-sufficiency. Hoe-cakes, named for their traditional preparation on a hoe over an open fire, have roots in Indigenous and African American culinary traditions. Thoreau's embrace of this primitive bread reflects his commitment to simplicity and his rejection of unnecessary complexity. By mastering the art of hoe-cake baking, Thoreau connects with a timeless tradition of resourcefulness and ingenuity, underscoring his belief in the sufficiency of basic, wholesome foods."
+  - id: "branches-of-evil-thoreau"
     trigger: "branches of evil"
-    title: "Why Thoreau Believed Most Reformers Miss the Point"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_(book)#Themes"
+    title: "Why Thoreau Urged Us to Strike the Root"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s metaphor of 'branches of evil' versus striking at the root is a powerful critique of superficial reform. He argues that most efforts to address societal problems focus on symptoms rather than causes. This idea has profound implications for modern activism, where systemic issues often go unchallenged. What’s surprising is how Thoreau connects this metaphor to his own life, suggesting that true change begins with individual transformation. By striking at the root, Thoreau believed people could address the deeper moral and spiritual failings that underlie societal ills. His words challenge readers to look beyond quick fixes and ask: What is the root cause of the problems we face?"
-  - id: "mucclasse-indians-purification-ritual"
-    trigger: "Mucclasse Indians"
-    title: "The Ritual That Burned Away the Old Year"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Creek_people"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau’s mention of the Mucclasse Indians’ purification ritual highlights his fascination with Indigenous practices. The 'busk,' or 'feast of first fruits,' involved burning old possessions, fasting, and renewing fire—a symbolic cleansing of the past. What’s surprising is how Thoreau uses this ritual to critique the clutter and excess of modern life. He sees the busk as a spiritual act, a way to start anew with clarity and purpose. By invoking this tradition, Thoreau challenges readers to consider their own rituals of renewal. The Mucclasse Indians remind us that simplicity is not just practical—it’s sacred."
-  - id: "sheik-sadi-shiraz-cypress-tree"
+    content: "Thoreau laments that most people focus on hacking at the 'branches of evil' rather than striking at its root. This metaphor captures his critique of superficial solutions to deep societal problems. Thoreau argues that true reform requires addressing the underlying causes of injustice and suffering, not merely their symptoms. His call to 'strike the root' challenges readers to think critically and act decisively in their pursuit of meaningful change. This philosophy aligns with his broader themes of self-reliance and authenticity, urging individuals to confront the fundamental truths of their lives and society."
+  - id: "sheik-sadi-cypress-tree"
     trigger: "Sheik Sadi of Shiraz"
-    title: "Why the Cypress Tree Symbolizes Freedom"
+    title: "The Persian Poet Who Praised the Cypress"
     wikipedia_url: "https://en.wikipedia.org/wiki/Saadi_Shirazi"
     image_url: ""
     image_caption: ""
-    content: "Thoreau’s reference to Sheik Sadi of Shiraz and the cypress tree is a poetic meditation on independence. In Persian literature, the cypress symbolizes eternal flourishing, free from the cycles of fruiting and withering. What’s fascinating is how Thoreau uses this image to critique materialism and advocate for spiritual freedom. By aspiring to be like the cypress, Thoreau suggests that true liberation comes from detachment—from possessions, from societal expectations, and even from time itself. This metaphor invites readers to consider what it means to live freely, unbound by the transient concerns of the world."
+    content: "Thoreau quotes Sheik Sadi of Shiraz, a Persian poet, who compares the cypress tree to the azad, or free man, because it remains evergreen and unchanging. Sadi's metaphor highlights the virtues of independence and constancy, qualities Thoreau admires and seeks to embody. The cypress, with its enduring vitality, symbolizes a life unbound by the transience of material possessions or societal expectations. By invoking Sadi, Thoreau connects his philosophy of simplicity and self-reliance to a broader, timeless tradition of wisdom and spiritual freedom."
 ---
 When I wrote the following pages, or rather the bulk of them, I lived
 alone, in the woods, a mile from any neighbor, in a house which I had
@@ -404,7 +418,7 @@ Let us consider for a moment what most of the trouble and anxiety which
 I have referred to is about, and how much it is necessary that we be
 troubled, or, at least, careful. It would be some advantage to live a
 primitive and frontier life, though in the midst of an outward
-civilization, if only to learn what are the **gross necessaries of life**
+civilization, if only to learn what are the gross necessaries of life
 and what methods have been taken to obtain them; or even to look over
 the old day-books of the merchants, to see what it was that men most
 commonly bought at the stores, what they stored, that is, what are the
@@ -412,7 +426,7 @@ grossest groceries. For the improvements of ages have had but little
 influence on the essential laws of man’s existence; as our skeletons,
 probably, are not to be distinguished from those of our ancestors.
 
-By the words, _necessary of life_, I mean whatever, of all that man
+By the words, _**necessary of life**_, I mean whatever, of all that man
 obtains by his own exertions, has been from the first, or from long use
 has become, so important to human life that few, if any, whether from
 savageness, or poverty, or philosophy, ever attempt to do without it.
@@ -1065,7 +1079,7 @@ But how do the poor minority fare? Perhaps it will be found, that just
 in proportion as some have been placed in outward circumstances above
 the savage, others have been degraded below him. The luxury of one
 class is counterbalanced by the indigence of another. On the one side
-is the palace, on the other are the almshouse and “silent poor.” The
+is the palace, on the other are the almshouse and “**silent poor**.” The
 myriads who built the pyramids to be the tombs of the Pharaohs were fed
 on garlic, and it may be were not decently buried themselves. The mason
 who finishes the cornice of the palace returns at night perchance to a
@@ -1118,7 +1132,7 @@ allowance?—that our furniture should be more complex than the Arab’s,
 in proportion as we are morally and intellectually his superiors! At
 present our houses are cluttered and defiled with it, and a good
 housewife would sweep out the greater part into the dust hole, and not
-leave her morning’s work undone. Morning work! By **the blushes of Aurora**
+leave her morning’s work undone. Morning work! By the blushes of Aurora
 and the music of Memnon, what should be man’s _morning work_ in this
 world? I had three pieces of limestone on my desk, but I was terrified
 to find that they required to be dusted daily, when the furniture of my
@@ -1681,7 +1695,7 @@ better than any farmer in Concord did that year.
 The next year I did better still, for I spaded up all the land which I
 required, about a third of an acre, and I learned from the experience
 of both years, not being in the least awed by many celebrated works on
-husbandry, **Arthur Young** among the rest, that if one would live simply
+husbandry, Arthur Young among the rest, that if one would live simply
 and eat only the crop which he raised, and raise no more than he ate,
 and not exchange it for an insufficient quantity of more luxurious and
 expensive things, he would need to cultivate only a few rods of ground,
@@ -1736,7 +1750,7 @@ any emperor, nor is its material silver, or gold, or marble, except to
 a trifling extent. To what end, pray, is so much stone hammered? In
 Arcadia, when I was there, I did not see any hammering stone. Nations
 are possessed with an insane ambition to perpetuate the memory of
-themselves by the amount of hammered stone they leave. What if equal
+themselves by the amount of **hammered stone** they leave. What if equal
 pains were taken to smooth and polish their manners? One piece of good
 sense would be more memorable than a monument as high as the moon. I
 love better to see stones in place. The grandeur of Thebes was a vulgar
@@ -1848,7 +1862,7 @@ It appears from the above estimate, that my food alone cost me in money
 about twenty-seven cents a week. It was, for nearly two years after
 this, rye and Indian meal without yeast, potatoes, rice, a very little
 salt pork, molasses, and salt, and my drink water. It was fit that I
-should live on rice, mainly, who loved so well the **philosophy of India**.
+should live on rice, mainly, who loved so well the philosophy of India.
 To meet the objections of some inveterate cavillers, I may as well
 state, that if I dined out occasionally, as I always had done, and I
 trust shall have opportunities to do again, it was frequently to the
@@ -1860,7 +1874,7 @@ I learned from my two years’ experience that it would cost incredibly
 little trouble to obtain one’s necessary food, even in this latitude;
 that a man may use as simple a diet as the animals, and yet retain
 health and strength. I have made a satisfactory dinner, satisfactory on
-several accounts, simply off a dish of purslane (_Portulaca oleracea_)
+several accounts, simply off a dish of purslane (_**Portulaca oleracea**_)
 which I gathered in my cornfield, boiled and salted. I give the Latin
 on account of the savoriness of the trivial name. And pray what more
 can a reasonable man desire, in peaceful times, in ordinary noons, than
@@ -1875,7 +1889,7 @@ The reader will perceive that I am treating the subject rather from an
 economic than a dietetic point of view, and he will not venture to put
 my abstemiousness to the test unless he has a well-stocked larder.
 
-Bread I at first made of pure Indian meal and salt, genuine hoe-cakes,
+Bread I at first made of pure Indian meal and salt, genuine **hoe-cakes**,
 which I baked before my fire out of doors on a shingle or the end of a
 stick of timber sawed off in building my house; but it was wont to get
 smoked and to have a piny flavor. I tried flour also; but have at last
@@ -1912,8 +1926,8 @@ sometimes pop and discharge its contents to my discomfiture. It is
 simpler and more respectable to omit it. Man is an animal who more than
 any other can adapt himself to all climates and circumstances. Neither
 did I put any sal soda, or other acid or alkali, into my bread. It
-would seem that I made it according to the recipe which **Marcus Porcius
-Cato** gave about two centuries before Christ. “Panem depsticium sic
+would seem that I made it according to the recipe which Marcus Porcius
+Cato gave about two centuries before Christ. “Panem depsticium sic
 facito. Manus mortariumque bene lavato. Farinam in mortarium indito,
 aquæ paulatim addito, subigitoque pulchre. Ubi bene subegeris,
 defingito, coquitoque sub testu.” Which I take to mean—“Make kneaded
@@ -2092,7 +2106,7 @@ record of the revelation.
 
 
 For more than five years I maintained myself thus solely by the labor
-of my hands, and I found, that by working about six weeks in a year, I
+of my hands, and I found, that by working about **six weeks in a year**, I
 could meet all the expenses of living. The whole of my winters, as well
 as most of my summers, I had free and clear for study. I have
 thoroughly tried school-keeping, and found that my expenses were in
@@ -2113,7 +2127,7 @@ wonted moods, I foolishly thought. While my acquaintances went
 unhesitatingly into trade or the professions, I contemplated this
 occupation as most like theirs; ranging the hills all summer to pick
 the berries which came in my way, and thereafter carelessly dispose of
-them; so, to keep **the flocks of Admetus**. I also dreamed that I might
+them; so, to keep the flocks of Admetus. I also dreamed that I might
 gather the wild herbs, or carry evergreens to such villagers as loved
 to be reminded of the woods, even to the city, by hay-cart loads. But I
 have since learned that trade curses everything it handles; and though
@@ -2225,8 +2239,8 @@ as you are, without aiming mainly to become of more worth, and with
 kindness aforethought go about doing good. If I were to preach at all
 in this strain, I should say rather, Set about being good. As if the
 sun should stop when he had kindled his fires up to the splendor of a
-moon or a star of the sixth magnitude, and go about like a Robin
-Goodfellow, peeping in at every cottage window, inspiring lunatics, and
+moon or a star of the sixth magnitude, and go about like a **Robin
+Goodfellow**, peeping in at every cottage window, inspiring lunatics, and
 tainting meats, and making darkness visible, instead of steadily
 increasing his genial heat and beneficence till he is of such
 brightness that no mortal can look him in the face, and then, and in
@@ -2256,7 +2270,7 @@ broadest sense. Howard was no doubt an exceedingly kind and worthy man
 in his way, and has his reward; but, comparatively speaking, what are a
 hundred Howards to _us_, if their philanthropy do not help _us_ in our
 best estate, when we are most worthy to be helped? I never heard of a
-**philanthropic meeting** in which it was sincerely proposed to do any good
+philanthropic meeting in which it was sincerely proposed to do any good
 to me, or the like of me.
 
 The Jesuits were quite balked by those Indians who, being burned at the
