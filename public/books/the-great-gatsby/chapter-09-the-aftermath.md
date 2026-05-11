@@ -9,121 +9,124 @@ book_slug: "the-great-gatsby"
 license: "public-domain"
 
 summary:
-  - point: "Nick recalls the chaotic aftermath of Gatsby's death, with police, reporters, and curious onlookers invading the scene."
+  - point: "Nick recalls the chaotic aftermath of Gatsby's death, with police, reporters, and curious onlookers invading his home."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
-  - point: "Gatsby's funeral is sparsely attended, highlighting the loneliness and superficiality of his relationships."
+  - point: "Nick struggles to find anyone willing to attend Gatsby's funeral, highlighting Gatsby's isolation despite his wealth and parties."
     link: "https://en.wikipedia.org/wiki/Funeral"
     link_label: "Funeral"
-  - point: "Nick confronts Tom Buchanan, who admits to directing Wilson to Gatsby, rationalizing his actions as justified."
-    link: "https://en.wikipedia.org/wiki/Tom_Buchanan"
-    link_label: "Tom Buchanan"
-  - point: "Nick reflects on the symbolic significance of Gatsby's dream and the green light, tying it to the broader theme of the American Dream."
+  - point: "Gatsby's father, Henry C. Gatz, arrives and expresses pride in his son's achievements and aspirations."
+    link: "https://en.wikipedia.org/wiki/Parental_pride"
+    link_label: "Parental pride"
+  - point: "Nick reflects on the disillusionment of the East and decides to return to the Midwest, seeing the story as one of Westerners unfit for Eastern life."
+    link: "https://en.wikipedia.org/wiki/Midwestern_United_States"
+    link_label: "Midwestern United States"
+  - point: "Nick erases an obscene word from Gatsby's steps and contemplates the vanished idealism of the American Dream."
     link: "https://en.wikipedia.org/wiki/American_Dream"
     link_label: "American Dream"
-  - point: "The novel closes with Nick's poignant observation about humanity's struggle against the passage of time and the pull of the past."
-    link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
-    link_label: "F. Scott Fitzgerald"
+  - point: "The novel closes with Nick's reflection on Gatsby's belief in the green light and humanity's struggle against the current of time."
+    link: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    link_label: "Symbolism in The Great Gatsby"
 
 enhancements:
   - id: "adventitious-authority"
     trigger: "adventitious authority"
-    title: "How a Detective's Words Shaped the Narrative"
+    title: "How a Detective's Words Shaped a Narrative"
     wikipedia_url: "https://en.wikipedia.org/wiki/Authority"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/AuthorityOfLaw.JPG/330px-AuthorityOfLaw.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "AuthorityOfLaw (CC BY-SA 3.0)"
-    content: "When a detective described Wilson as a 'madman,' his authoritative tone set the tone for the media coverage of Gatsby's death. This moment underscores the power of perception and language in shaping public opinion. Historically, the media has often relied on authoritative voices to frame narratives, sometimes distorting the truth in the process. Fitzgerald uses this detail to critique the sensationalism of the press and its role in reducing complex human tragedies to simplistic, misleading headlines. By highlighting this, the novel exposes the fragility of reputation and the ease with which truth can be manipulated."
+    image_url: ""
+    image_caption: ""
+    content: "When a detective described Wilson as a 'madman,' his authoritative tone set the tone for the media coverage of Gatsby's death. This moment underscores the power of perception and language in shaping public opinion. Historically, the term 'madman' has been used to dismiss complex motives and simplify narratives for public consumption. In Gatsby's case, it reduced Wilson's grief and desperation to mere insanity, erasing the deeper tragedy of his life. Fitzgerald uses this moment to critique how society oversimplifies and sensationalizes events, prioritizing drama over truth. It reflects the novel's broader theme of the distortion of reality in the pursuit of spectacle."
   - id: "dan-cody"
     trigger: "Dan Cody"
     title: "The Man Who Inspired Gatsby's Dream"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Dan_Cody"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "Nick notices a picture of Dan Cody in Gatsby's house, a reminder of Gatsby's early aspirations. Dan Cody was a wealthy copper magnate who introduced Gatsby to the world of wealth and ambition. This relationship was pivotal in shaping Gatsby's vision of success and his relentless pursuit of the American Dream. Cody's influence represents the allure of wealth and the idea that it could transform one's identity and destiny. For Gatsby, Cody was both a mentor and a symbol of the life he yearned for—a life of opulence and grandeur that ultimately proved elusive."
+    image_url: ""
+    image_caption: ""
+    content: "Nick finds a photograph of Dan Cody in Gatsby's desk, a reminder of Gatsby's early aspirations. Cody, a wealthy copper magnate, represented the life of opulence Gatsby longed for. Gatsby worked for Cody as a young man, witnessing the allure and pitfalls of wealth firsthand. This relationship was pivotal in shaping Gatsby's vision of success, though he inherited none of Cody's fortune. Fitzgerald uses Cody as a symbol of the corrupting influence of wealth and the unattainable nature of Gatsby's dream. The photograph serves as a poignant reminder of Gatsby's relentless pursuit of an ideal that ultimately led to his downfall."
   - id: "james-j-hill"
     trigger: "James J. Hill"
     title: "The Railroad Tycoon Gatsby's Father Revered"
     wikipedia_url: "https://en.wikipedia.org/wiki/James_J._Hill"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Picture_of_James_J._Hill_%28cropped%29_%28b%29.jpg/330px-Picture_of_James_J._Hill_%28cropped%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Cropped portrait of American railroad executive, James J. Hill (Public domain)"
-    content: "Gatsby's father compares his son to James J. Hill, a legendary railroad magnate who played a key role in developing the American West. Hill's success story embodies the entrepreneurial spirit and ambition that defined the American Dream during the Gilded Age. This comparison reveals Mr. Gatz's pride in his son's achievements and his belief in Gatsby's potential to become a great man. However, it also highlights the tragic irony of Gatsby's life—his relentless pursuit of greatness led to his downfall, showing the darker side of the dream Hill represented."
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby's father compares his son to James J. Hill, the 'Empire Builder' who transformed the American Northwest with his railroads. Hill was a self-made man, embodying the entrepreneurial spirit of the American Dream. This comparison reveals Mr. Gatz's pride in Gatsby's ambition and his belief in his son's potential to achieve greatness. However, Gatsby's path diverged sharply from Hill's; while Hill built tangible infrastructure, Gatsby's empire was rooted in illusion and criminal enterprise. Fitzgerald uses this reference to highlight the gap between genuine achievement and the hollow pursuit of wealth and status that defines Gatsby's life."
   - id: "the-swastika-holding-company"
     trigger: "The Swastika Holding Company"
-    title: "Why Gatsby's Friend Worked Under a Dark Symbol"
+    title: "Why Gatsby's Associate Used a Controversial Symbol"
     wikipedia_url: "https://en.wikipedia.org/wiki/Swastika"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Four-swastika_collage_%28transparent%29.png/330px-Four-swastika_collage_%28transparent%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Four-swastika collage (transparent) (CC BY-SA 4.0)"
-    content: "Nick visits Meyer Wolfshiem's office, marked 'The Swastika Holding Company,' a detail that carries unsettling connotations today. Before its association with Nazi Germany, the swastika was an ancient symbol of good fortune and prosperity in many cultures. Fitzgerald's use of the term reflects its pre-World War II meaning, but it also underscores Wolfshiem's shady business dealings and the moral ambiguity of wealth in the novel. This moment adds to the novel's critique of the corrupting influence of money and the moral compromises often made in its pursuit."
+    image_url: ""
+    image_caption: ""
+    content: "Nick visits Meyer Wolfshiem's office, marked 'The Swastika Holding Company,' a name that now carries chilling connotations. In the 1920s, the swastika was widely used as a symbol of good luck and prosperity, long before its appropriation by the Nazi Party. Wolfshiem's use of the symbol reflects its original, benign meaning, but its presence in the novel adds an eerie layer for modern readers. Fitzgerald may have chosen this name to underscore Wolfshiem's connection to a world of moral ambiguity and shadowy dealings. The office's name, like Gatsby's dream, reveals how symbols can shift in meaning and become distorted over time."
   - id: "winebrenners-poolroom"
     trigger: "Winebrenner’s poolroom"
     title: "Where Gatsby's Journey to Wealth Began"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pool_hall"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Pool_Hall_-_geograph.org.uk_-_884228.jpg/330px-Pool_Hall_-_geograph.org.uk_-_884228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Pool Hall (CC BY-SA 2.0)"
-    content: "Meyer Wolfshiem recalls meeting Gatsby at Winebrenner’s poolroom, a humble setting that contrasts sharply with Gatsby's later opulence. Poolrooms were often gathering places for working-class men and those seeking opportunities, making it a fitting backdrop for Gatsby's early struggles. This anecdote emphasizes Gatsby's transformation from a penniless dreamer to a wealthy, enigmatic figure. Fitzgerald uses this detail to highlight the stark divide between Gatsby's origins and the world he aspired to, underscoring the novel's themes of ambition and reinvention."
+    image_url: ""
+    image_caption: ""
+    content: "Meyer Wolfshiem recalls meeting Gatsby at Winebrenner’s poolroom, where Gatsby sought work after the war. Poolrooms were common gathering places for men in the early 20th century, often associated with gambling and informal business deals. Gatsby's desperation and hunger during this encounter highlight his humble beginnings and the stark contrast to the opulent lifestyle he later achieved. Fitzgerald uses this setting to emphasize Gatsby's transformation and the lengths he went to in pursuit of his dream. The poolroom serves as a reminder of the gritty reality behind Gatsby's polished facade."
   - id: "let-us-learn-to-show-our-friendship"
     trigger: "Let us learn to show our friendship"
-    title: "Wolfshiem's Cynical Philosophy on Loyalty"
+    title: "Wolfshiem's Philosophy on Loyalty and Loss"
     wikipedia_url: "https://en.wikipedia.org/wiki/Friendship"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Best_friends_%281934%29%2C_by_Romualdo_Locatelli.jpg/330px-Best_friends_%281934%29%2C_by_Romualdo_Locatelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Best friends (1934), by Romualdo Locatelli (Public domain)"
-    content: "Meyer Wolfshiem tells Nick, 'Let us learn to show our friendship for a man when he is alive and not after he is dead,' refusing to attend Gatsby's funeral. This statement reflects Wolfshiem's pragmatic, self-serving worldview, contrasting sharply with Gatsby's idealism and loyalty. Historically, such sentiments reveal the transactional nature of relationships in the world Fitzgerald portrays—a world where loyalty is conditional and fleeting. Wolfshiem's refusal to honor Gatsby in death underscores the loneliness and betrayal that define Gatsby's tragic end."
+    image_url: ""
+    image_caption: ""
+    content: "Meyer Wolfshiem tells Nick, 'Let us learn to show our friendship for a man when he is alive and not after he is dead,' refusing to attend Gatsby's funeral. This sentiment reflects Wolfshiem's pragmatic, self-preserving worldview, contrasting sharply with Gatsby's idealism and loyalty. Historically, this idea has been echoed in various cultural and philosophical traditions, emphasizing the importance of valuing relationships in the present. Fitzgerald uses Wolfshiem's refusal to highlight the transactional nature of Gatsby's relationships and the loneliness that wealth and ambition can bring. It underscores the novel's exploration of loyalty and betrayal."
   - id: "hopalong-cassidy"
     trigger: "Hopalong Cassidy"
-    title: "The Boyhood Book That Shaped Gatsby's Dream"
+    title: "The Boyhood Book That Shaped Gatsby's Resolve"
     wikipedia_url: "https://en.wikipedia.org/wiki/Hopalong_Cassidy"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hopalong-Takes-Command.jpg/330px-Hopalong-Takes-Command.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Hopalong-Takes-Command (CC BY-SA 3.0)"
-    content: "Gatsby's father shows Nick a copy of 'Hopalong Cassidy,' a book Gatsby owned as a boy, with a self-improvement schedule written inside. Hopalong Cassidy was a fictional cowboy hero, embodying adventure and rugged individualism. Gatsby's fascination with the book reveals his early desire to rise above his humble beginnings and achieve greatness. The schedule reflects his disciplined approach to self-improvement, a trait that defined his relentless pursuit of the American Dream. This detail poignantly illustrates Gatsby's idealism and the tragic gap between his aspirations and reality."
-  - id: "owl-eyed-glasses"
-    trigger: "owl-eyed glasses"
-    title: "The Mysterious Man Who Saw Gatsby Clearly"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbolism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "The man with owl-eyed glasses, who marveled at Gatsby's library earlier in the novel, unexpectedly attends Gatsby's funeral. His presence symbolizes insight and the ability to see beyond appearances, contrasting with the superficiality of Gatsby's other acquaintances. Owl-eyes represents a rare acknowledgment of Gatsby's humanity and the tragedy of his unfulfilled dreams. Fitzgerald uses this character to underscore the loneliness of Gatsby's life and the emptiness of the world he sought to belong to."
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby's father shows Nick a copy of 'Hopalong Cassidy,' a Western adventure book Gatsby owned as a boy. The book's flyleaf contains a schedule and resolutions, revealing Gatsby's early determination to improve himself. Hopalong Cassidy, a fictional cowboy, embodied rugged individualism and moral integrity, qualities Gatsby aspired to. This artifact provides a poignant glimpse into Gatsby's youthful idealism and his belief in self-made success. Fitzgerald uses this detail to underscore the tragic irony of Gatsby's life: despite his disciplined efforts, his dream was built on illusion and ultimately unattainable."
+  - id: "blessed-are-the-dead-that-the-rain-falls-on"
+    trigger: "Blessed are the dead that the rain falls on"
+    title: "Why Rain at Funerals Feels Profound"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Funeral_customs"
+    image_url: ""
+    image_caption: ""
+    content: "At Gatsby's funeral, someone murmurs, 'Blessed are the dead that the rain falls on,' as rain pours down on the sparse gathering. Rain at funerals has long been seen as a symbol of cleansing, renewal, or even divine mourning. This phrase evokes a sense of poetic justice or cosmic sympathy for Gatsby, whose life ended in disillusionment. Fitzgerald uses the rain to heighten the somber mood and underscore the loneliness of Gatsby's death. It contrasts with the vibrant, sunny scenes of Gatsby's parties, marking the end of his dream and the emptiness left behind."
   - id: "chicago-milwaukee-and-st-paul-railroad"
     trigger: "Chicago, Milwaukee and St. Paul railroad"
-    title: "The Railroad That Defined Nick's Midwest"
+    title: "The Railroad That Defined Midwest Travel"
     wikipedia_url: "https://en.wikipedia.org/wiki/Chicago,_Milwaukee,_St._Paul_and_Pacific_Railroad"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Skytop_Hiawatha_trains_Chicago_Milwaukee_and_St_Paul_Railroad.jpg/330px-Skytop_Hiawatha_trains_Chicago_Milwaukee_and_St_Paul_Railroad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Skytop Hiawatha trains Chicago Milwaukee and St Paul Railroad (Public domain)"
-    content: "Nick recalls the Chicago, Milwaukee and St. Paul railroad as part of his nostalgic memories of the Midwest. This railroad was a major transportation network, connecting cities and fostering economic growth in the region. For Nick, it symbolizes the warmth and identity of his Midwestern roots, contrasting with the alienation he feels in the East. Fitzgerald uses this detail to explore themes of belonging and the disconnection between the idealized past and the distorted present."
+    image_url: ""
+    image_caption: ""
+    content: "Nick recalls traveling on the Chicago, Milwaukee and St. Paul railroad during his youth, associating it with the warmth and identity of the Midwest. This railroad was a major transportation network, connecting Midwestern cities and fostering economic growth. For Nick, it symbolizes the simplicity and authenticity of his roots, contrasting with the distorted values of the East. Fitzgerald uses this memory to frame Nick's decision to return home, emphasizing the novel's theme of disillusionment with the American Dream and the search for genuine connection."
   - id: "el-greco"
     trigger: "El Greco"
-    title: "Why Nick Imagines West Egg as an El Greco Scene"
+    title: "Why Nick Sees West Egg as an El Greco Painting"
     wikipedia_url: "https://en.wikipedia.org/wiki/El_Greco"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/330px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Presumed self-portrait, or portrait of an anonymous man. (Public domain)"
-    content: "Nick envisions West Egg as a surreal night scene by El Greco, an artist known for his dramatic, distorted imagery. El Greco's style evokes a sense of unease and otherworldliness, mirroring Nick's perception of the East as haunting and distorted after Gatsby's death. This comparison highlights the novel's exploration of disillusionment and the clash between idealism and reality. Fitzgerald uses this imagery to deepen the sense of loss and alienation that permeates the story's conclusion."
-  - id: "dog-biscuits"
-    trigger: "dog biscuits"
-    title: "The Forgotten Detail That Broke Tom Buchanan"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dog_biscuit"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/A_Dog_biscuit.jpg/330px-A_Dog_biscuit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Mmmm, dog biscuits! (CC BY-SA 2.0)"
-    content: "Tom Buchanan recalls breaking down when he saw Myrtle's dog biscuits after her death. This seemingly trivial detail becomes a poignant reminder of her presence and the life they shared. Dog biscuits, often associated with loyalty and companionship, ironically underscore the lack of genuine connection in Tom and Myrtle's relationship. Fitzgerald uses this moment to reveal Tom's vulnerability and the emotional consequences of his careless actions, adding depth to his otherwise unsympathetic character."
-  - id: "green-breast-of-the-new-world"
-    trigger: "green breast of the new world"
-    title: "The Vision That Awed Dutch Sailors"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dutch_sailors"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dutch_sea_captain.jpg/330px-Dutch_sea_captain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Dutch Sea Captain (Public domain)"
-    content: "Nick reflects on the 'green breast of the new world,' imagining the awe of Dutch sailors encountering America for the first time. This phrase evokes the untouched beauty and promise of the continent, symbolizing the purity of the American Dream before it was corrupted by greed and ambition. Fitzgerald uses this imagery to contrast the idealism of the past with the disillusionment of the present, framing Gatsby's story as a microcosm of the nation's lost innocence."
+    image_url: ""
+    image_caption: ""
+    content: "Nick imagines West Egg as a surreal night scene painted by El Greco, with grotesque houses and solemn figures. El Greco was known for his dramatic, elongated forms and haunting atmospheres, often depicting spiritual or otherworldly themes. This comparison reflects Nick's view of the East as distorted and alien, a place where moral clarity is lost. Fitzgerald uses this imagery to underscore the novel's critique of the Jazz Age's excesses and the disconnection between appearance and reality. It encapsulates Nick's disillusionment and his yearning for the authenticity of the Midwest."
+  - id: "fresh-green-breast-of-the-new-world"
+    trigger: "fresh, green breast of the new world"
+    title: "The Untouched America Gatsby Could Never Reach"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_Dream"
+    image_url: ""
+    image_caption: ""
+    content: "Nick reflects on the 'fresh, green breast of the new world,' imagining the awe of Dutch sailors encountering America for the first time. This phrase evokes the purity and promise of the land before it was transformed by human ambition. Fitzgerald contrasts this idealized vision with the corrupted reality of Gatsby's world, where dreams are tainted by greed and illusion. The 'green breast' symbolizes the original American Dream, unspoiled and full of possibility, and its loss mirrors Gatsby's tragic pursuit of an unattainable ideal. It is a poignant reminder of what has been sacrificed in the name of progress."
   - id: "the-green-light"
     trigger: "the green light"
-    title: "The Symbol of Gatsby's Impossible Dream"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbolism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "Nick recalls Gatsby's fixation on the green light at the end of Daisy's dock, a symbol of his unattainable dream. The green light represents hope, ambition, and the promise of a future that always recedes. It ties into the novel's broader themes of the American Dream and the relentless pursuit of ideals. Fitzgerald uses this symbol to illustrate the tragic irony of Gatsby's life—his dream was always just out of reach, yet he never stopped believing in it."
+    title: "Why Gatsby's Green Light Symbolizes Everything"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Nick recalls Gatsby's fixation on the green light at the end of Daisy's dock, a symbol of his dream and the future he longed for. The green light represents hope, ambition, and the elusive nature of the American Dream. Its distance and inaccessibility mirror Gatsby's inability to achieve his idealized vision of life with Daisy. Fitzgerald uses this symbol to encapsulate the novel's themes of aspiration and disillusionment, showing how dreams can drive us forward yet remain forever out of reach. The green light is both a beacon and a mirage, embodying the paradox of human striving."
   - id: "boats-against-the-current"
     trigger: "boats against the current"
-    title: "The Final Image of Humanity's Struggle"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "The novel ends with Nick's reflection on humanity as 'boats against the current,' struggling against the pull of the past. This metaphor captures the central theme of the novel—the tension between aspiration and reality, and the impossibility of escaping one's history. Fitzgerald's closing lines resonate as a poignant commentary on the human condition, emphasizing the enduring struggle to move forward while being inexorably drawn back into the past."
+    title: "Why Humanity Struggles Against Time's Tide"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Nick concludes the novel with the image of 'boats against the current,' symbolizing humanity's struggle to move forward while being pulled back by the past. This metaphor captures the tension between aspiration and history, a central theme of the book. Fitzgerald suggests that while we strive for progress and fulfillment, we are inevitably shaped and constrained by our origins and experiences. The image evokes a sense of futility and resilience, reflecting Gatsby's tragic pursuit of his dream and the broader human condition. It is a haunting and poetic ending to a story of ambition and loss."
+  - id: "ceaselessly-into-the-past"
+    trigger: "ceaselessly into the past"
+    title: "Why Gatsby's Dream Was Always Behind Him"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Nick's final words, 'borne back ceaselessly into the past,' encapsulate the novel's exploration of memory and the impossibility of escaping history. Gatsby's dream was rooted in a romanticized past, making it unattainable in the present. Fitzgerald uses this phrase to highlight the tension between aspiration and nostalgia, showing how the past shapes and limits our future. It is a poignant reflection on the human condition, where progress is often an illusion and the weight of history pulls us back. The novel ends with this haunting truth, leaving readers to ponder the cost of dreams."
 ---
 After two years I remember the rest of that day, and that night and
 the next day, only as an endless drill of police and photographers and
@@ -564,7 +567,7 @@ limousine, and a little later four or five servants and the postman
 from West Egg, in Gatsby’s station wagon, all wet to the skin. As we
 started through the gate into the cemetery I heard a car stop and then
 the sound of someone splashing after us over the soggy ground. I
-looked around. It was the man with **owl-eyed glasses** whom I had found
+looked around. It was the man with owl-eyed glasses whom I had found
 marvelling over Gatsby’s books in the library one night three months
 before.
 
@@ -576,7 +579,7 @@ from Gatsby’s grave.
 I tried to think about Gatsby then for a moment, but he was already
 too far away, and I could only remember, without resentment, that
 Daisy hadn’t sent a message or a flower. Dimly I heard someone murmur
-“Blessed are the dead that the rain falls on,” and then the owl-eyed
+“**Blessed are the dead that the rain falls on**,” and then the owl-eyed
 man said “Amen to that,” in a brave voice.
 
 We straggled down quickly through the rain to the cars. Owl-eyes spoke
@@ -675,7 +678,7 @@ driving a car?”
 
 “Why—not exactly.”
 
-“You said a **bad driver** was only safe until she met another bad driver?
+“You said a bad driver was only safe until she met another bad driver?
 Well, I met another bad driver, didn’t I? I mean it was careless of me
 to make such a wrong guess. I thought you were rather an honest,
 straightforward person. I thought it was your secret pride.”
@@ -723,13 +726,13 @@ There was nothing I could say, except the one unutterable fact that it
 wasn’t true.
 
 “And if you think I didn’t have my share of suffering—look here, when
-I went to give up that flat and saw that damn box of **dog biscuits**
+I went to give up that flat and saw that damn box of dog biscuits
 sitting there on the sideboard, I sat down and cried like a baby. By
 God it was awful—”
 
 I couldn’t forgive him or like him, but I saw that what he had done
 was, to him, entirely justified. It was all very careless and
-confused. They were careless people, Tom and Daisy—they smashed up
+confused. They were **careless people**, Tom and Daisy—they smashed up
 things and creatures and then retreated back into their money or their
 vast carelessness, or whatever it was that kept them together, and let
 other people clean up the mess they had made …
@@ -768,7 +771,7 @@ Most of the big shore places were closed now and there were hardly any
 lights except the shadowy, moving glow of a ferryboat across the
 Sound. And as the moon rose higher the inessential houses began to
 melt away until gradually I became aware of the old island here that
-flowered once for Dutch sailors’ eyes—a fresh, **green breast of the new
+flowered once for Dutch sailors’ eyes—a **fresh, green breast of the new
 world**. Its vanished trees, the trees that had made way for Gatsby’s
 house, had once pandered in whispers to the last and greatest of all
 human dreams; for a transitory enchanted moment man must have held his
@@ -790,5 +793,5 @@ year recedes before us. It eluded us then, but that’s no
 matter—tomorrow we will run faster, stretch out our arms further … And
 one fine morning—
 
-So we beat on, **boats against the current**, borne back ceaselessly into
-the past.
+So we beat on, **boats against the current**, borne back **ceaselessly into
+the past**.

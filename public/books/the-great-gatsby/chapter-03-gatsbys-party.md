@@ -9,117 +9,145 @@ book_slug: "the-great-gatsby"
 license: "public-domain"
 
 summary:
-  - point: "Nick attends one of Gatsby's extravagant parties, where guests arrive uninvited and indulge in opulent festivities."
+  - point: "Gatsby's extravagant parties are described, showcasing his wealth and the carefree behavior of his guests."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
-  - point: "Gatsby's wealth is showcased through lavish details like his Rolls-Royce serving as an omnibus and crates of oranges juiced by a machine."
-    link: "https://en.wikipedia.org/wiki/Roaring_Twenties"
-    link_label: "Roaring Twenties"
+  - point: "Nick receives a formal invitation to Gatsby's party, unlike most guests who arrive uninvited."
+    link: "https://en.wikipedia.org/wiki/Jay_Gatsby"
+    link_label: "Jay Gatsby"
   - point: "Nick meets Gatsby for the first time and is surprised by his youthful demeanor and charm."
     link: "https://en.wikipedia.org/wiki/Jay_Gatsby"
     link_label: "Jay Gatsby"
-  - point: "Rumors swirl about Gatsby's mysterious past, including claims that he was a German spy or killed a man."
-    link: "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States"
-    link_label: "Prohibition era"
-  - point: "Nick reflects on his relationship with Jordan Baker, noting her dishonesty and his own sense of morality."
+  - point: "Rumors about Gatsby's mysterious past circulate among the guests, adding to his enigmatic persona."
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    link_label: "The Great Gatsby"
+  - point: "Nick reflects on his own honesty and contrasts it with Jordan Baker's dishonesty."
     link: "https://en.wikipedia.org/wiki/Jordan_Baker_(The_Great_Gatsby)"
     link_label: "Jordan Baker"
-  - point: "The chapter ends with Nick contemplating his own honesty and the complexities of human relationships."
-    link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
-    link_label: "F. Scott Fitzgerald"
+  - point: "The chapter ends with Nick contemplating his relationships and his cardinal virtue of honesty."
+    link: "https://en.wikipedia.org/wiki/Nick_Carraway"
+    link_label: "Nick Carraway"
 
 enhancements:
   - id: "rolls-royce-became-an-omnibus"
     trigger: "Rolls-Royce became an omnibus"
-    title: "Why Gatsby's Car Was More Than Transportation"
+    title: "How Gatsby's Car Became a Symbol of Excess"
     wikipedia_url: "https://en.wikipedia.org/wiki/Rolls-Royce"
     image_url: ""
     image_caption: ""
-    content: "Fitzgerald describes Gatsby's Rolls-Royce as an 'omnibus,' ferrying guests to and from his parties. This choice of car was no accident. Rolls-Royce was the ultimate symbol of wealth and prestige in the 1920s, often associated with royalty and industrial magnates. Gatsby's use of such a luxury vehicle as a shuttle underscores his desire to flaunt his wealth and create an aura of grandeur. Yet, the image of the Rolls-Royce as a public transport vehicle also hints at the excess and absurdity of Gatsby's lifestyle. Fitzgerald uses this detail to critique the materialism of the Jazz Age, showing how even the most opulent possessions can be repurposed into tools for fleeting social approval."
+    content: "Fitzgerald describes Gatsby’s Rolls-Royce as an \"omnibus,\" ferrying guests to and from his parties. This detail transforms the luxury car into a utilitarian vehicle, emphasizing Gatsby's desire to impress and accommodate his guests. Rolls-Royce, synonymous with opulence, was a status symbol in the 1920s, often associated with the elite. Gatsby’s use of his car for such a mundane purpose highlights the extravagance and performative nature of his wealth. By repurposing a symbol of exclusivity into a communal shuttle, Fitzgerald subtly critiques the emptiness of Gatsby's pursuit of social validation. The car, like Gatsby himself, is both grand and oddly misplaced, mirroring the tension between appearance and reality in the novel."
   - id: "yellow-cocktail-music"
     trigger: "yellow cocktail music"
-    title: "What Does 'Yellow Cocktail Music' Really Mean?"
+    title: "What Colorful Music Says About Gatsby's World"
     wikipedia_url: "https://en.wikipedia.org/wiki/Jazz_Age"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/CarterAndKingJazzingOrchestra.jpg/330px-CarterAndKingJazzingOrchestra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Carter And King Jazzing Orchestra (Public domain)"
-    content: "When Fitzgerald writes of 'yellow cocktail music,' he evokes a sensory experience that blends sound, color, and mood. Yellow, often associated with decadence and caution, mirrors the opulence and underlying unease of Gatsby's parties. Cocktail music, a light and jazzy genre, was emblematic of the Roaring Twenties, a time when jazz became the soundtrack of rebellion and indulgence. By pairing these elements, Fitzgerald creates a vivid atmosphere that captures the allure and superficiality of Gatsby's world. The phrase also subtly foreshadows the moral decay beneath the glittering surface of the Jazz Age."
+    image_url: ""
+    image_caption: ""
+    content: "Fitzgerald’s phrase \"yellow cocktail music\" evokes the vibrant, intoxicating atmosphere of Gatsby’s parties. Yellow, often associated with wealth and decadence, reflects the Jazz Age’s obsession with glamour and excess. Jazz itself was revolutionary in the 1920s, breaking traditional musical norms and symbolizing freedom and modernity. The pairing of color and music creates a sensory overload, mirroring the chaotic energy of Gatsby’s gatherings. Yet, beneath the glittering surface lies a hollowness—a recurring theme in the novel. The music, like Gatsby’s wealth, dazzles but ultimately fails to fulfill the deeper emotional needs of its audience."
   - id: "robin-s-egg-blue"
     trigger: "robin’s-egg blue"
     title: "Why Gatsby's Chauffeur Wears Robin's-Egg Blue"
     wikipedia_url: "https://en.wikipedia.org/wiki/Color_symbolism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Globular_vase_-_Dynastie_Qing_-_Qianlong_%281736-1795%29_-_Jingdezhen_-_Collection_Zhuyuetang.jpg/330px-Globular_vase_-_Dynastie_Qing_-_Qianlong_%281736-1795%29_-_Jingdezhen_-_Collection_Zhuyuetang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Globular vase - Dynastie Qing - Qianlong (1736-1795) - Jingdezhen - Collection Zhuyuetang (CC0)"
-    content: "The robin’s-egg blue uniform worn by Gatsby’s chauffeur is a deliberate choice by Fitzgerald, symbolizing wealth, exclusivity, and a certain innocence. Blue often represents tranquility and aspiration, aligning with Gatsby’s dreamlike pursuit of Daisy. However, robin’s-egg blue also carries a fragility, hinting at the precariousness of Gatsby’s constructed world. This small detail reflects the meticulous care Gatsby takes to craft an image of perfection, even in the uniforms of his staff, while subtly reminding readers of the vulnerability of his dream."
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s choice of robin’s-egg blue for his chauffeur’s uniform is no accident. Blue often symbolizes tranquility and aspiration, aligning with Gatsby’s dreamlike pursuit of Daisy and his idealized vision of life. The color also contrasts with the gold and yellow hues that dominate the novel, representing wealth and corruption. By dressing his staff in this shade, Gatsby subtly distances himself from the garishness of his guests, projecting an air of refinement and sincerity. Yet, this calculated detail underscores the performative nature of Gatsby’s world, where even the smallest elements are curated to support his grand illusion."
+  - id: "jordan-baker"
+    trigger: "Jordan Baker"
+    title: "The Golf Champion Who Hid a Scandal"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jordan_Baker_(The_Great_Gatsby)"
+    image_url: ""
+    image_caption: ""
+    content: "Jordan Baker, introduced as a poised and confident golfer, carries an air of sophistication that masks her dishonesty. Her scandal—allegedly cheating in a golf tournament—reveals the moral compromises often made by those seeking success in the Jazz Age. Golf, a sport associated with precision and integrity, becomes ironic in Jordan’s case, as her actions undermine these values. Fitzgerald uses Jordan to explore themes of deception and the erosion of traditional ethics in a world obsessed with appearances. Her relationship with Nick further complicates this, as he admires her charm despite recognizing her flaws, reflecting the novel’s nuanced portrayal of human imperfection."
   - id: "golf-tournament"
     trigger: "golf tournament"
-    title: "The Scandal That Shadowed Jordan Baker's Career"
+    title: "The Scandal That Nearly Ruined Jordan Baker"
     wikipedia_url: "https://en.wikipedia.org/wiki/Golf"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golfer_swing.jpg/330px-Golfer_swing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A golfer taking a tee shot to begin a round of golf. (CC0)"
-    content: "Jordan Baker’s mention of a golf tournament alludes to her professional career as a golfer, but her reputation is marred by rumors of cheating. Golf, a sport associated with precision and integrity, becomes a metaphor for Jordan’s moral ambiguity. The scandal, involving accusations that she moved her ball during a match, mirrors the broader theme of dishonesty in the novel. Fitzgerald uses Jordan’s character to explore the tension between appearances and reality, showing how even the seemingly upright can be compromised in the pursuit of success."
-  - id: "he-was-a-german-spy"
-    trigger: "he was a German spy"
-    title: "Why Gatsby's Past Sparks Wild Speculation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/World_War_I"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "French soldiers moving into attack from their trench during the Battle of Verdun, 1916. (Public domain)"
-    content: "The rumor that Gatsby was a German spy during World War I reflects the era’s fascination with espionage and the mysterious. In the 1920s, the aftermath of the war left many Americans suspicious of outsiders and intrigued by tales of intrigue. Gatsby’s enigmatic persona invites such speculation, as his wealth and background remain shrouded in secrecy. Fitzgerald uses these rumors to highlight the allure of mystery and the human tendency to fill gaps in knowledge with sensational stories, underscoring Gatsby’s role as a symbol of the American Dream’s enigmatic allure."
+    image_url: ""
+    image_caption: ""
+    content: "Jordan Baker’s loss in the golf tournament and her earlier scandal of allegedly moving her ball during a semifinal round highlight the tension between ambition and integrity. Golf, a sport steeped in rules and fairness, serves as a backdrop for Jordan’s moral ambiguity. The scandal, though minor, reflects the broader theme of dishonesty in the novel, where appearances often mask deeper truths. Fitzgerald uses this detail to critique the Jazz Age’s erosion of traditional values, showing how even seemingly trivial actions can reveal larger societal flaws. Jordan’s casual attitude toward the incident mirrors the era’s cavalier approach to morality."
+  - id: "high-gothic-library"
+    trigger: "high Gothic library"
+    title: "Why Gatsby's Library Is a Masterpiece of Illusion"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gothic_architecture"
+    image_url: ""
+    image_caption: ""
+    content: "The \"high Gothic library\" in Gatsby’s mansion, with its carved English oak panels, is a striking symbol of his curated persona. Gothic architecture, known for its grandeur and intricacy, evokes a sense of timelessness and tradition. Yet, the library’s books are uncut, revealing that Gatsby’s intellectual veneer is as superficial as his social status. Owl Eyes’ astonishment at the books being \"real\" underscores the tension between authenticity and artifice in Gatsby’s world. Fitzgerald uses the library to illustrate Gatsby’s relentless pursuit of credibility and respectability, even as his efforts remain rooted in illusion rather than substance."
   - id: "owl-eyed-spectacles"
     trigger: "owl-eyed spectacles"
-    title: "The Drunken Man Who Sees Gatsby's Truth"
+    title: "The Man Who Saw Through Gatsby's Illusions"
     wikipedia_url: "https://en.wikipedia.org/wiki/Owl"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bubo_bubo_sibiricus_-_01.JPG/330px-Bubo_bubo_sibiricus_-_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Eurasian eagle-owl (Bubo bubo sibiricus) in captivity. (CC BY-SA 4.0)"
-    content: "The man with 'owl-eyed spectacles' in Gatsby’s library is a fascinating figure. Owls, often symbols of wisdom and perception, contrast sharply with his drunken state. Yet, he is one of the few characters who sees through Gatsby’s façade, marveling at the authenticity of the books while noting they remain uncut—a metaphor for Gatsby’s life, outwardly impressive but untouched by genuine experience. Fitzgerald uses this character to underscore the theme of appearances versus reality, showing how even in a world of excess, moments of clarity can emerge."
-  - id: "mrs-claud-roosevelt"
-    trigger: "Mrs. Claud Roosevelt"
-    title: "The Mysterious Name Dropped at Gatsby's Party"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Roosevelt_family"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TheodoreRooseveltFamily.jpg/330px-TheodoreRooseveltFamily.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "La familia Roosevelt (Public domain)"
-    content: "The mention of 'Mrs. Claud Roosevelt' adds an air of prestige and connection to Gatsby’s party. The Roosevelt family, prominent in American politics and society, symbolizes wealth and influence. By associating Gatsby’s guests with such names, Fitzgerald emphasizes the social aspirations and pretensions of those who attend his parties. This detail also highlights Gatsby’s efforts to align himself with the upper echelons of society, even as his origins remain a mystery."
-  - id: "inky-colour"
-    trigger: "inky colour"
-    title: "Why Tears Turn Black at Gatsby's Party"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cosmetics"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cosmetics.JPG/330px-Cosmetics.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Cosmetics (CC BY-SA 3.0)"
-    content: "The 'inky colour' of the woman’s tears, caused by her heavily beaded eyelashes, is a vivid image that encapsulates the artificiality of Gatsby’s world. Makeup, a symbol of glamour and concealment, becomes a metaphor for the emotional masks worn by the partygoers. Fitzgerald uses this striking detail to show how even genuine emotions, like sadness, are distorted and dramatized in the glittering, performative environment of Gatsby’s parties, reflecting the novel’s themes of illusion and authenticity."
-  - id: "amputated-wheel"
-    trigger: "amputated wheel"
-    title: "The Wheel That Symbolizes Gatsby's Chaos"
+    image_url: ""
+    image_caption: ""
+    content: "Owl Eyes, with his \"owl-eyed spectacles,\" serves as a rare voice of insight in Gatsby’s world of artifice. Owls, often associated with wisdom and perception, symbolize his ability to see through Gatsby’s carefully constructed facade. His discovery that the books in Gatsby’s library are real—but uncut—reveals the performative nature of Gatsby’s wealth and intellect. Owl Eyes’ drunken musings contrast with the superficial gaiety of the party, offering a moment of clarity amidst the chaos. Fitzgerald uses this character to highlight the novel’s central theme: the tension between appearance and reality in the pursuit of the American Dream."
+  - id: "champagne-was-served"
+    trigger: "champagne was served"
+    title: "Why Champagne Defined Gatsby's Parties"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Champagne"
+    image_url: ""
+    image_caption: ""
+    content: "Champagne, flowing freely at Gatsby’s parties, epitomizes the excess and indulgence of the Jazz Age. Once a symbol of European aristocracy, champagne became a marker of wealth and celebration in 1920s America, fueled by the era’s booming economy and Prohibition-era speakeasies. Its presence at Gatsby’s gatherings underscores his desire to impress and emulate the elite, even as his wealth is rooted in dubious means. Fitzgerald uses champagne as a metaphor for the fleeting nature of Gatsby’s dream—effervescent and intoxicating, yet ultimately insubstantial. The drink mirrors the novel’s exploration of the hollow pursuit of material success."
+  - id: "i-m-gatsby"
+    trigger: "I’m Gatsby"
+    title: "The Moment Gatsby Reveals Himself"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jay_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby casually introduces himself to Nick, the moment is both understated and profound. Gatsby’s self-revelation contrasts with the grandiosity of his parties and the swirling rumors about his identity. This subtle introduction underscores the complexity of Gatsby’s character—a man who is both enigmatic and deeply human. Fitzgerald uses this moment to peel back the layers of Gatsby’s persona, revealing the charm and vulnerability beneath his carefully curated image. The simplicity of \"I’m Gatsby\" highlights the tension between the myth and the man, setting the stage for the novel’s exploration of identity and ambition."
+  - id: "vladmir-tostoff-s-jazz-history-of-the-world"
+    trigger: "Vladmir Tostoff’s Jazz History of the World"
+    title: "The Fictional Symphony That Captured the Jazz Age"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jazz_Age"
+    image_url: ""
+    image_caption: ""
+    content: "The orchestra’s performance of \"Vladmir Tostoff’s Jazz History of the World\" is a fictional creation by Fitzgerald, encapsulating the spirit of the Jazz Age. Jazz, with its improvisational style and break from tradition, symbolized the cultural and social upheaval of the 1920s. By inventing this piece, Fitzgerald underscores the era’s fascination with novelty and spectacle. The title itself suggests an ambitious attempt to chronicle the chaotic energy of the time, much like Gatsby’s parties. This fictional symphony mirrors the novel’s themes of ambition and excess, highlighting the fleeting brilliance and underlying emptiness of Gatsby’s world."
+  - id: "puppyish-convivial-way"
+    trigger: "puppyish, convivial way"
+    title: "What Gatsby's Guests Reveal About Human Nature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Fitzgerald’s description of Gatsby’s guests behaving in a \"puppyish, convivial way\" captures the carefree, almost juvenile spirit of the Jazz Age. The imagery evokes a sense of playful abandon, as guests revel in the moment without concern for consequences. This behavior reflects the broader cultural ethos of the 1920s, where societal norms were challenged and hedonism flourished. Yet, beneath the surface lies a poignant emptiness, as the guests’ gaiety masks their deeper insecurities and desires. Fitzgerald uses this detail to critique the era’s obsession with pleasure, showing how it often leads to superficial connections and unfulfilled lives."
+  - id: "owl-eyes"
+    trigger: "Owl Eyes"
+    title: "The Drunken Observer Who Saw Gatsby Clearly"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Owl"
+    image_url: ""
+    image_caption: ""
+    content: "Owl Eyes, introduced as a drunken guest in Gatsby’s library, becomes a symbol of perception amidst the chaos of Gatsby’s parties. His astonishment at the authenticity of Gatsby’s books—despite their uncut pages—reveals the performative nature of Gatsby’s wealth and intellect. Owls, often associated with wisdom, underscore his role as a rare observer who sees through the facade. Later, his involvement in the car accident adds another layer to his character, highlighting the recklessness and absurdity of Gatsby’s world. Fitzgerald uses Owl Eyes to explore themes of illusion and reality, showing how even the most perceptive individuals can be caught in the web of appearances."
+  - id: "the-wheel-s-off"
+    trigger: "the wheel’s off"
+    title: "The Car Crash That Symbolized Gatsby's Parties"
     wikipedia_url: "https://en.wikipedia.org/wiki/Automobile"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Amputation_stump_Wellcome_L0042697.jpg/330px-Amputation_stump_Wellcome_L0042697.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Amputation stump Wellcome L0042697 (CC BY 4.0)"
-    content: "The 'amputated wheel' from the wrecked coupé is more than a physical detail; it symbolizes the recklessness and disarray of Gatsby’s world. Cars, often associated with freedom and modernity, become instruments of chaos in the novel, reflecting the moral and social instability of the Jazz Age. Fitzgerald uses this moment to foreshadow the destructive consequences of excess and carelessness, themes that permeate the story and culminate in tragic outcomes."
+    image_url: ""
+    image_caption: ""
+    content: "The chaotic scene of the car crash, with the wheel detached, serves as a metaphor for the reckless excess of Gatsby’s parties. Automobiles, symbols of modernity and freedom in the 1920s, often represented both progress and danger. The crash highlights the carelessness of Gatsby’s guests, who indulge in luxury without regard for consequences. Fitzgerald uses this moment to critique the moral decay of the Jazz Age, where wealth and privilege often lead to irresponsibility. The detached wheel becomes a poignant image of disconnection, mirroring the novel’s exploration of fractured relationships and unfulfilled dreams."
   - id: "probity-trust"
     trigger: "Probity Trust"
-    title: "What Nick's Job Reveals About His Character"
+    title: "What Nick's Job Says About His Character"
     wikipedia_url: "https://en.wikipedia.org/wiki/Investment_banking"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Assorted_United_States_coins.jpg/330px-Assorted_United_States_coins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "An assortment of United States coins, including quarters, dimes, nickels and pennies. (Public domain)"
-    content: "Nick’s work at Probity Trust, a fictional investment firm, underscores his role as a grounded observer in the novel. The name 'Probity,' meaning integrity, contrasts with the moral ambiguity of the world he navigates. Fitzgerald uses Nick’s profession to highlight his reliability and honesty, qualities that set him apart from the other characters. Yet, his immersion in the financial world also ties him to the era’s materialism, creating a tension between his values and the society he critiques."
-  - id: "golf-champion"
-    trigger: "golf champion"
-    title: "Jordan Baker's Fame and Its Hidden Scandal"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Women%27s_golf"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Champions_Retreat_Golf_Club.jpg/330px-Champions_Retreat_Golf_Club.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Champions Retreat in Evans, Georgia (CC BY-SA 4.0)"
-    content: "Jordan Baker’s status as a golf champion adds to her allure but also introduces a layer of complexity. Golf, a sport demanding precision and honesty, contrasts with the rumors of her cheating during a tournament. Fitzgerald uses Jordan’s character to explore themes of integrity and deception, showing how even those who seem poised and successful can harbor flaws. Her fame also reflects the changing roles of women in the 1920s, as they gained visibility in sports and society."
-  - id: "love-nick"
-    trigger: "Love, Nick"
-    title: "Nick's Letters and the Tangle of His Past"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Love_letter"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Loves_Messenger_Stillman_DAM.jpg/330px-Loves_Messenger_Stillman_DAM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Loves Messenger Stillman DAM (Public domain)"
-    content: "Nick’s weekly letters signed 'Love, Nick' reveal his lingering ties to a past relationship. This detail highlights his struggle to reconcile his personal life with the new world he is entering. Fitzgerald uses this moment to show Nick’s introspection and moral deliberation, contrasting his honesty with the duplicity of other characters. The letters also underscore the theme of emotional entanglement, as Nick seeks to free himself from obligations that no longer align with his evolving identity."
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s work at Probity Trust reflects his grounding in the world of finance and his pursuit of stability. The name \"Probity,\" meaning integrity, contrasts sharply with the moral ambiguity of the characters he encounters in Gatsby’s world. Investment banking in the 1920s was a booming industry, fueled by post-war economic growth and speculation. Nick’s role in this field underscores his pragmatic nature and his struggle to reconcile the values of his upbringing with the decadence of the Jazz Age. Fitzgerald uses Nick’s profession to highlight his outsider status, as he observes the excesses around him with a critical eye."
+  - id: "forties-were-lined-five-deep"
+    trigger: "Forties were lined five deep"
+    title: "Why New York's Theatre District Was Electric"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Theatre_district"
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s description of the \"Forties lined five deep\" with taxicabs captures the bustling energy of New York’s theatre district in the 1920s. The area, centered around Times Square, was a hub of entertainment and nightlife, drawing crowds eager for Broadway shows and speakeasies. The image of throbbing cabs and intimate voices evokes the city’s vibrancy and its promise of excitement. Yet, Nick’s sinking heart reveals his sense of alienation amidst the gaiety, highlighting the novel’s theme of loneliness in a crowd. Fitzgerald uses this setting to contrast the allure of urban life with its underlying emptiness, mirroring Gatsby’s own pursuit of an unattainable dream."
   - id: "cardinal-virtues"
     trigger: "cardinal virtues"
-    title: "What Nick's Honesty Says About Gatsby's World"
+    title: "What Are the Cardinal Virtues, Really?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cardinal_virtues"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Figure_des_quatre_Vertus_from_Ballet_comique_de_la_reine.JPG/330px-Figure_des_quatre_Vertus_from_Ballet_comique_de_la_reine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "“The four virtues”, illustration from Ballet comique de la reine (Public domain)"
-    content: "Nick’s claim to possess one of the 'cardinal virtues'—honesty—serves as a moral anchor in the novel. The cardinal virtues, rooted in classical philosophy, represent fundamental ethical principles. Fitzgerald contrasts Nick’s self-perception with the deceit and corruption of Gatsby’s world, using this moment to underscore the tension between idealism and reality. Nick’s honesty becomes a lens through which the reader views the moral decay of the Jazz Age, highlighting his role as both participant and critic."
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s reflection on the \"cardinal virtues\" ties his self-perception to a classical framework of morality. The cardinal virtues—prudence, justice, fortitude, and temperance—originated in ancient philosophy and were later adopted by Christian theology. By claiming honesty as his defining virtue, Nick positions himself as a moral anchor in a world of deception and excess. Yet, his admission is tinged with irony, as his actions often reveal complicity in the very behaviors he critiques. Fitzgerald uses this moment to explore the tension between self-image and reality, showing how even the most self-aware individuals struggle with their own contradictions."
+  - id: "i-am-one-of-the-few-honest-people"
+    trigger: "I am one of the few honest people"
+    title: "Nick's Bold Claim: Is He Truly Honest?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nick_Carraway"
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s assertion that he is \"one of the few honest people\" he has ever known is a defining moment in his narrative. This self-assessment positions him as a moral observer amidst the decadence and deceit of Gatsby’s world. Yet, his honesty is complicated by his passive complicity in the events around him, including Gatsby’s illegal activities and Daisy’s manipulations. Fitzgerald uses Nick’s claim to explore themes of self-perception and moral ambiguity, highlighting the difficulty of maintaining integrity in a corrupt society. The statement invites readers to question whether Nick’s honesty is genuine or simply another layer of his carefully constructed persona."
 ---
 There was music from my neighbour’s house through the summer nights.
 In his blue gardens men and girls came and went like moths among the
@@ -217,7 +245,7 @@ in the garden where a single man could linger without looking
 purposeless and alone.
 
 I was on my way to get roaring drunk from sheer embarrassment when
-Jordan Baker came out of the house and stood at the head of the marble
+**Jordan Baker** came out of the house and stood at the head of the marble
 steps, leaning a little backward and looking with contemptuous
 interest down into the garden.
 
@@ -327,7 +355,7 @@ undergraduate nodded in a cynical, melancholy way.
 The bar, where we glanced first, was crowded, but Gatsby was not
 there. She couldn’t find him from the top of the steps, and he wasn’t
 on the veranda. On a chance we tried an important-looking door, and
-walked into a high Gothic library, panelled with carved English oak,
+walked into a **high Gothic library**, panelled with carved English oak,
 and probably transported complete from some ruin overseas.
 
 A stout, middle-aged man, with enormous **owl-eyed spectacles**, was
@@ -369,8 +397,8 @@ Most people were brought.”
 
 Jordan looked at him alertly, cheerfully, without answering.
 
-“I was brought by a woman named Roosevelt,” he continued. “**Mrs. Claud
-Roosevelt**. Do you know her? I met her somewhere last night. I’ve been
+“I was brought by a woman named Roosevelt,” he continued. “Mrs. Claud
+Roosevelt. Do you know her? I met her somewhere last night. I’ve been
 drunk for about a week now, and I thought it might sober me up to sit
 in a library.”
 
@@ -393,7 +421,7 @@ sung in Italian, and a notorious contralto had sung in jazz, and
 between the numbers people were doing “stunts” all over the garden,
 while happy, vacuous bursts of laughter rose toward the summer sky. A
 pair of stage twins, who turned out to be the girls in yellow, did a
-baby act in costume, and champagne was served in glasses bigger than
+baby act in costume, and **champagne was served** in glasses bigger than
 finger-bowls. The moon had risen higher, and floating in the Sound was
 a triangle of silver scales, trembling a little to the stiff, tinny
 drip of the banjoes on the lawn.
@@ -476,7 +504,7 @@ and corpulent person in his middle years.
 “Where is he from, I mean? And what does he do?”
 
 “Now you’re started on the subject,” she answered with a wan smile.
-“Well, he told me once he was an **Oxford man**.”
+“Well, he told me once he was an Oxford man.”
 
 A dim background started to take shape behind him, but at her next
 remark it faded away.
@@ -509,8 +537,8 @@ papers you know there was a big sensation.” He smiled with jovial
 condescension, and added: “Some sensation!” Whereupon everybody
 laughed.
 
-“The piece is known,” he concluded lustily, “as ‘Vladmir Tostoff’s
-**Jazz History of the World**!’ ”
+“The piece is known,” he concluded lustily, “as ‘**Vladmir Tostoff’s
+Jazz History of the World**!’ ”
 
 The nature of Mr. Tostoff’s composition eluded me, because just as it
 began my eyes fell on Gatsby, standing alone on the marble steps and
@@ -521,7 +549,7 @@ him. I wondered if the fact that he was not drinking helped to set him
 off from his guests, for it seemed to me that he grew more correct as
 the fraternal hilarity increased. When the “Jazz History of the World”
 was over, girls were putting their heads on men’s shoulders in a
-puppyish, convivial way, girls were swooning backward playfully into
+**puppyish, convivial way**, girls were swooning backward playfully into
 men’s arms, even into groups, knowing that someone would arrest their
 falls—but no one swooned backward on Gatsby, and no French bob touched
 Gatsby’s shoulder, and no singing quartets were formed with Gatsby’s
@@ -559,7 +587,7 @@ weeping too. Whenever there was a pause in the song she filled it with
 gasping, broken sobs, and then took up the lyric again in a quavering
 soprano. The tears coursed down her cheeks—not freely, however, for
 when they came into contact with her heavily beaded eyelashes they
-assumed an **inky colour**, and pursued the rest of their way in slow
+assumed an inky colour, and pursued the rest of their way in slow
 black rivulets. A humorous suggestion was made that she sing the notes
 on her face, whereupon she threw up her hands, sank into a chair, and
 went off into a deep vinous sleep.
@@ -612,7 +640,7 @@ were we in there?”
 “It was … simply amazing,” she repeated abstractedly. “But I swore I
 wouldn’t tell it and here I am tantalizing you.” She yawned gracefully
 in my face. “Please come and see me … Phone book … Under the name of
-Mrs. Sigourney Howard … My aunt …” She was hurrying off as she
+**Mrs. Sigourney Howard** … My aunt …” She was hurrying off as she
 talked—her brown hand waved a jaunty salute as she melted into her
 party at the door.
 
@@ -629,7 +657,7 @@ o’clock.”
 
 Then the butler, behind his shoulder:
 
-“**Philadelphia wants you on the phone**, sir.”
+“Philadelphia wants you on the phone, sir.”
 
 “All right, in a minute. Tell them I’ll be right there … Good night.”
 
@@ -701,7 +729,7 @@ before he perceived the man in the duster.
 
 “Look!”
 
-Half a dozen fingers pointed at the **amputated wheel**—he stared at it
+Half a dozen fingers pointed at the amputated wheel—he stared at it
 for a moment, and then looked upward as though he suspected that it
 had dropped from the sky.
 
@@ -722,7 +750,7 @@ physical bond.
 
 “Back out,” he suggested after a moment. “Put her in reverse.”
 
-“But the wheel’s off!”
+“But **the wheel’s off**!”
 
 He hesitated.
 
@@ -776,8 +804,8 @@ loitered in front of windows waiting until it was time for a solitary
 restaurant dinner—young clerks in the dusk, wasting the most poignant
 moments of night and life.
 
-Again at eight o’clock, when the dark lanes of the Forties were lined
-five deep with throbbing taxicabs, bound for the theatre district, I
+Again at eight o’clock, when the dark lanes of the **Forties were lined
+five deep** with throbbing taxicabs, bound for the theatre district, I
 felt a sinking in my heart. Forms leaned together in the taxis as they
 waited, and voices sang, and there was laughter from unheard jokes,
 and lighted cigarettes made unintelligible circles inside. Imagining
@@ -786,7 +814,7 @@ excitement, I wished them well.
 
 For a while I lost sight of Jordan Baker, and then in midsummer I
 found her again. At first I was flattered to go places with her,
-because she was a **golf champion**, and everyone knew her name. Then it
+because she was a golf champion, and everyone knew her name. Then it
 was something more. I wasn’t actually in love, but I felt a sort of
 tender curiosity. The bored haughty face that she turned to the world
 concealed something—most affectations conceal something eventually,
@@ -839,11 +867,11 @@ deliberately shifted our relations, and for a moment I thought I loved
 her. But I am slow-thinking and full of interior rules that act as
 brakes on my desires, and I knew that first I had to get myself
 definitely out of that tangle back home. I’d been writing letters once
-a week and signing them: “**Love, Nick**,” and all I could think of was
+a week and signing them: “Love, Nick,” and all I could think of was
 how, when that certain girl played tennis, a faint moustache of
 perspiration appeared on her upper lip. Nevertheless there was a vague
 understanding that had to be tactfully broken off before I was free.
 
 Everyone suspects himself of at least one of the **cardinal virtues**, and
-this is mine: I am one of the few honest people that I have ever
+this is mine: **I am one of the few honest people** that I have ever
 known.

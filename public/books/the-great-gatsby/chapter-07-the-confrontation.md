@@ -12,114 +12,149 @@ summary:
   - point: "Gatsby's mysterious career as 'Trimalchio' comes to an abrupt end, signaling a shift in his social life."
     link: "https://en.wikipedia.org/wiki/Trimalchio"
     link_label: "Trimalchio"
-  - point: "Daisy's voice is described as being 'full of money,' encapsulating her allure and Gatsby's obsession."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
-    link_label: "Themes in The Great Gatsby"
-  - point: "Tom Buchanan confronts Gatsby and Daisy at the Plaza Hotel, leading to revelations about their affair."
-    link: "https://en.wikipedia.org/wiki/Plaza_Hotel_(Manhattan)"
-    link_label: "Plaza Hotel"
-  - point: "The tragic accident involving Myrtle Wilson and the 'yellow car' sets the stage for the novel's climax."
+  - point: "The oppressive summer heat serves as a backdrop to rising tensions among the characters."
+    link: "https://en.wikipedia.org/wiki/Heat_wave"
+    link_label: "heat wave"
+  - point: "The confrontation between Gatsby and Tom Buchanan reveals Daisy's conflicted feelings and the fragility of Gatsby's dream."
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    link_label: "The Great Gatsby"
+  - point: "Myrtle Wilson's tragic death marks a turning point in the story, intensifying the drama and moral decay."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Plot_summary"
-    link_label: "Plot summary of The Great Gatsby"
-  - point: "Nick observes Gatsby's vigil outside Daisy's house, symbolizing his futile hope and devotion."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Characters"
-    link_label: "Characters in The Great Gatsby"
-  - point: "The chapter ends with Nick reflecting on his 30th birthday and the ominous path ahead."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Reception_and_legacy"
-    link_label: "Reception and legacy of The Great Gatsby"
+    link_label: "plot summary"
+  - point: "Nick observes the intimate yet conspiratorial relationship between Tom and Daisy, highlighting their shared moral ambiguity."
+    link: "https://en.wikipedia.org/wiki/Moral_relativism"
+    link_label: "moral relativism"
+  - point: "Gatsby's vigil outside Daisy's house underscores his unwavering devotion and tragic idealism."
+    link: "https://en.wikipedia.org/wiki/Romanticism"
+    link_label: "Romanticism"
 
 enhancements:
   - id: "his-career-as-trimalchio"
     trigger: "his career as Trimalchio"
     title: "Why Gatsby Channels a Roman Party King"
     wikipedia_url: "https://en.wikipedia.org/wiki/Trimalchio"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Trimalchio%27s_dinner_%28IA_cu31924001786981%29.pdf/page1-330px-Trimalchio%27s_dinner_%28IA_cu31924001786981%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Trimalchio's dinner (IA cu31924001786981) (Public domain)"
-    content: "When Nick notes that Gatsby's 'career as Trimalchio' has ended, he invokes the infamous Roman character known for his ostentatious feasts and vulgar displays of wealth. Trimalchio, a freedman in Petronius's 'Satyricon,' symbolizes the excesses of social climbing and the hollowness of material success. Gatsby's lavish parties, filled with strangers and spectacle, mirror Trimalchio's banquets, but their abrupt cessation signals a deeper shift. Gatsby is no longer focused on impressing the masses; his attention has narrowed to Daisy alone. Fitzgerald's reference is a critique of the American Dream, suggesting that wealth and ambition, like Trimalchio's feasts, ultimately lead to isolation and disillusionment."
+    image_url: ""
+    image_caption: ""
+    content: "When Fitzgerald describes Gatsby’s career as 'Trimalchio,' he invokes the infamous Roman character from Petronius’s 'Satyricon.' Trimalchio was a freedman who amassed great wealth and threw extravagant, vulgar parties to flaunt his success. Gatsby’s lavish gatherings, filled with strangers and spectacle, mirror Trimalchio’s excesses, but with a crucial difference: Gatsby’s parties are not for self-indulgence but to lure Daisy back into his life. Fitzgerald originally considered titling the novel 'Trimalchio,' emphasizing Gatsby’s rise from obscurity and his performative wealth. The comparison deepens the tragedy of Gatsby’s character—like Trimalchio, he is a man who achieves material success but remains an outsider to the elite world he aspires to join. Gatsby’s abandonment of his parties signals his shift from public spectacle to private desperation, as his focus narrows solely on Daisy."
   - id: "national-biscuit-company"
     trigger: "National Biscuit Company"
-    title: "The Factory That Defined American Snacking"
+    title: "How Nabisco Became a Symbol of Modernity"
     wikipedia_url: "https://en.wikipedia.org/wiki/Nabisco"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nabisco_logo.svg/330px-Nabisco_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Logo (Public domain)"
-    content: "As Nick's train emerges into the oppressive heat of the day, the whistles of the National Biscuit Company punctuate the scene. Known today as Nabisco, this company revolutionized American snacking with iconic products like Oreos and Ritz crackers. Founded in 1898, its massive factory in Manhattan was a symbol of industrial progress and consumer culture. Fitzgerald's inclusion of this detail subtly underscores the novel's themes of modernity and excess. The factory's mechanical hum contrasts with the human drama unfolding, reminding readers of the relentless march of industry and the commodification of life in the Jazz Age."
+    image_url: ""
+    image_caption: ""
+    content: "The National Biscuit Company, now known as Nabisco, was a hallmark of industrialized America in the early 20th century. When Nick hears its whistles break the oppressive summer silence, Fitzgerald subtly ties the modern corporate world to the novel’s themes of mechanization and alienation. Nabisco was a pioneer in mass production, revolutionizing food distribution with products like the Uneeda Biscuit. Its factories were symbols of progress but also of the impersonal forces shaping society. In the context of Gatsby, the whistle serves as a reminder of the relentless march of time and industry, contrasting with Gatsby’s romantic fixation on the past. The juxtaposition underscores the futility of Gatsby’s dream in a world increasingly dominated by modernity and pragmatism."
   - id: "gin-rickeys"
     trigger: "gin rickeys"
-    title: "The Cocktail That Cooled the Roaring Twenties"
+    title: "The Cocktail That Defined Gatsby’s Era"
     wikipedia_url: "https://en.wikipedia.org/wiki/Rickey_(cocktail)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gin_Rickey.jpg/330px-Gin_Rickey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Gin Rickey recipe available at thrivingvegetarian.com/blog/cooking/gin-rickey/ (CC BY 2.0)"
-    content: "When Tom Buchanan serves gin rickeys to his guests, he offers more than a refreshing drink; he evokes the spirit of the Jazz Age itself. The gin rickey, a mix of gin, lime juice, and soda water, became a popular cocktail in the 1920s, celebrated for its simplicity and cooling effect during hot summers. Its rise coincided with Prohibition, when Americans sought creative ways to enjoy alcohol despite legal restrictions. In this scene, the drink's icy allure contrasts sharply with the simmering tensions between Tom, Daisy, and Gatsby, highlighting the era's penchant for masking deeper conflicts with surface-level pleasures."
+    image_url: ""
+    image_caption: ""
+    content: "When Tom serves gin rickeys, the choice of drink is more than casual—it’s a cultural marker of the Jazz Age. The rickey, a mix of gin, lime juice, and soda water, was a popular cocktail in the 1920s, embodying the era’s embrace of leisure and sophistication. Prohibition paradoxically fueled the cocktail’s rise, as speakeasies sought to mask the harsh taste of bootleg alcohol with mixers. The drink’s light, refreshing profile contrasts sharply with the oppressive heat and simmering tensions in the Buchanans’ home. Its presence in the chapter highlights the characters’ attempts to maintain a veneer of civility and indulgence even as their relationships unravel. The gin rickey becomes a symbol of the fleeting pleasures and underlying emptiness of their world."
   - id: "her-voice-is-full-of-money"
     trigger: "Her voice is full of money"
-    title: "How Daisy’s Voice Became Gatsby’s Obsession"
+    title: "What Gatsby Really Means About Daisy’s Voice"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "Gatsby's declaration that Daisy's voice is 'full of money' is one of the novel's most striking metaphors. It encapsulates her allure, not just as a person, but as a symbol of wealth, privilege, and the unattainable. Her voice, with its melodic charm, represents the world Gatsby has spent his life trying to enter—a world of old money and effortless grace. This moment reveals Gatsby's fixation on Daisy as an ideal rather than a reality. Fitzgerald uses this metaphor to critique the seductive but ultimately hollow promises of the American Dream, embodied in Daisy's golden allure."
-  - id: "doctor-t-j-eckleburgs-faded-eyes"
-    trigger: "Doctor T. J. Eckleburg’s faded eyes"
-    title: "The Billboard That Became a Moral Judge"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbols"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "The faded eyes of Doctor T. J. Eckleburg loom over the ash-heaps, a haunting presence in the novel. Originally an advertisement for an oculist, the billboard has decayed into a ghostly reminder of moral oversight. Many readers interpret Eckleburg's eyes as a symbol of God or an omniscient force watching over the characters' moral failures. In this chapter, as tensions escalate and secrets unravel, the eyes serve as a silent witness to the chaos. Fitzgerald uses this imagery to underscore the emptiness of modern spirituality, where even divine judgment is reduced to a commercial relic."
-  - id: "the-ash-heaps"
-    trigger: "the ash-heaps"
-    title: "The Wasteland That Defines Gatsby’s World"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbols"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "The ash-heaps, a desolate industrial wasteland between West Egg and Manhattan, symbolize the moral and social decay of the Jazz Age. This gray, lifeless area is where Myrtle Wilson meets her tragic end, underscoring the novel's themes of destruction and despair. The ash-heaps are also home to the haunting eyes of Doctor T. J. Eckleburg, further linking this setting to judgment and ruin. Fitzgerald's vivid imagery transforms this physical space into a metaphor for the consequences of unchecked ambition and the human cost of the American Dream."
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s observation that Daisy’s voice is 'full of money' is one of the novel’s most incisive lines. It encapsulates her allure and the social world she represents—wealth, privilege, and the effortless charm of the upper class. Daisy’s voice, described earlier as 'thrilling,' is not just beautiful but imbued with the promise of a life Gatsby has always yearned for. The phrase also underscores Gatsby’s fixation on material success as a means to win Daisy’s love, revealing the transactional nature of his dream. Fitzgerald uses this moment to critique the American Dream itself, suggesting that its pursuit often conflates love and wealth, leading to disillusionment. Daisy’s voice becomes a siren call, drawing Gatsby toward a dream that ultimately proves unattainable."
+  - id: "oxford-new-mexico"
+    trigger: "Oxford, New Mexico"
+    title: "Tom’s Cutting Insult and Gatsby’s Past"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Oxford_University"
+    image_url: ""
+    image_caption: ""
+    content: "Tom’s sneering reference to 'Oxford, New Mexico' mocks Gatsby’s claim of being an Oxford man, exposing the class tensions at the heart of their rivalry. Gatsby’s brief attendance at Oxford after World War I was part of a program for American officers, but Tom dismisses this as insufficient to confer true elite status. The insult highlights Tom’s snobbery and his belief in the inherent superiority of old money over self-made wealth. Gatsby’s defensiveness reveals his deep insecurity about his origins and his desperate need for validation. Fitzgerald uses this exchange to explore the rigid social hierarchies of the era, showing how even extraordinary ambition and success cannot erase the stigma of humble beginnings in the eyes of the entrenched elite."
+  - id: "doctor-t-j-eckleburg"
+    trigger: "Doctor T. J. Eckleburg"
+    title: "The Eyes That Watch Over Gatsby’s World"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbolism"
+    image_url: ""
+    image_caption: ""
+    content: "The faded eyes of Doctor T. J. Eckleburg loom over the ash heaps, serving as one of the novel’s most potent symbols. Often interpreted as representing God or moral judgment, the billboard’s dispassionate gaze contrasts with the chaos and moral decay of the characters’ lives. Positioned near Wilson’s garage, the eyes witness Myrtle’s tragic death and the unraveling of Gatsby’s dream. Fitzgerald uses this symbol to critique the emptiness of modern spirituality and the failure of traditional values to guide society. The eyes are not divine but commercial, a relic of advertising that underscores the commodification of everything—even morality—in Gatsby’s world. Their presence in this chapter deepens the sense of foreboding and the inevitability of tragedy."
+  - id: "wilsons-sign"
+    trigger: "Wilson’s sign"
+    title: "The Garage That Holds Gatsby’s Fate"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Plot_summary"
+    image_url: ""
+    image_caption: ""
+    content: "Wilson’s garage, marked by its modest sign, becomes a pivotal location in the novel’s climax. It is here that Myrtle’s death occurs, setting off a chain of events that lead to Gatsby’s downfall. The garage, situated in the desolate ash heaps, symbolizes the stark divide between the wealthy characters and the working-class Wilsons. George Wilson’s despair and sickness mirror the moral and emotional decay permeating the story. The sign itself, a humble marker of Wilson’s struggling business, contrasts sharply with the opulence of Gatsby’s mansion and the Buchanans’ estate. Fitzgerald uses this setting to highlight the consequences of the characters’ reckless actions, showing how their privilege insulates them from accountability while devastating those on the margins."
   - id: "mendelssohns-wedding-march"
     trigger: "Mendelssohn’s Wedding March"
-    title: "The Song That Haunts Gatsby’s Dream"
+    title: "Why a Wedding Song Plays During Chaos"
     wikipedia_url: "https://en.wikipedia.org/wiki/Wedding_March_(Mendelssohn)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mendelssohn_wedding_march_autograph_arrangement_for_piano.jpg/330px-Mendelssohn_wedding_march_autograph_arrangement_for_piano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Felix Mendelssohn wedding march - autograph arrangement for piano (Public domain)"
-    content: "As the tension builds in the Plaza Hotel, the chords of Mendelssohn’s Wedding March drift up from the ballroom below. This iconic piece, often played at weddings, ironically underscores the unraveling of Gatsby's dream of marrying Daisy. Written in 1842, the march became a staple of Western wedding ceremonies, symbolizing union and celebration. In this context, however, its presence is bitterly ironic, highlighting the impossibility of Gatsby's romantic aspirations. Fitzgerald uses the music to deepen the tragic atmosphere, contrasting the ideal of love with the reality of betrayal and disillusionment."
+    image_url: ""
+    image_caption: ""
+    content: "As the tension between Gatsby and Tom escalates, the strains of Mendelssohn’s Wedding March drift up from the ballroom below. The juxtaposition of this celebratory music with the brewing conflict is deeply ironic, underscoring the dissonance between appearances and reality. The march, a staple of Western weddings, symbolizes union and joy, yet here it serves as a bitter counterpoint to the unraveling relationships and shattered dreams in the room above. Fitzgerald uses this moment to highlight the performative nature of social rituals, suggesting that beneath the surface of wealth and tradition lies a world of betrayal and disillusionment. The music becomes a haunting reminder of the ideals Gatsby chases but can never truly attain."
+  - id: "the-armistice"
+    trigger: "the armistice"
+    title: "How World War I Shaped Gatsby’s Oxford Dream"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s brief stint at Oxford was made possible by a program for American officers after the armistice that ended World War I. The armistice, signed on November 11, 1918, marked the cessation of hostilities and the beginning of post-war reconstruction. For Gatsby, attending Oxford was not just an educational opportunity but a chance to align himself with the prestige and tradition of the British elite. However, his five-month stay was insufficient to erase the stigma of his humble origins, as Tom Buchanan’s derision makes clear. Fitzgerald uses Gatsby’s Oxford experience to explore themes of identity and aspiration, showing how the war shaped the ambitions of a generation while exposing the limits of social mobility in a rigidly stratified world."
+  - id: "she-never-loved-you"
+    trigger: "She never loved you"
+    title: "The Moment Gatsby’s Dream Collapses"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby declares that Daisy never loved Tom, he stakes everything on the belief that his idealized vision of their love is real. This confrontation is the emotional climax of the novel, exposing the fragility of Gatsby’s dream and Daisy’s inability to live up to it. Gatsby’s insistence reveals his desperation and his refusal to accept reality, while Daisy’s hesitation and eventual admission that she loved Tom shatter his illusions. Fitzgerald uses this moment to critique the romanticization of the past and the dangers of obsessive idealism. Gatsby’s dream, rooted in a perfect version of Daisy, cannot withstand the complexities of her real emotions and choices, leading to his ultimate downfall."
   - id: "not-at-kapiolani"
     trigger: "Not at Kapiolani"
-    title: "What Tom’s Hawaiian Memory Reveals About Daisy"
+    title: "The Hawaiian Memory That Haunts Daisy"
     wikipedia_url: "https://en.wikipedia.org/wiki/Kapiolani_Park"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Queen_Kapiolani%2C_photograph_by_A._A._Montano_%28PPWD-15-7.024%29.jpg/330px-Queen_Kapiolani%2C_photograph_by_A._A._Montano_%28PPWD-15-7.024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Queen Kapiʻolani (1834–1899). (Public domain)"
-    content: "Tom's mention of Kapiolani, a park in Honolulu, evokes a tender moment from his past with Daisy. The reference to carrying her down from the Punch Bowl to keep her shoes dry paints a picture of intimacy and care, contrasting sharply with the hostility of their current relationship. Kapiolani Park, named after Queen Kapiolani, is a lush, serene space, making it an ideal backdrop for romantic memories. Fitzgerald uses this detail to complicate the reader's perception of Tom, showing that even he has moments of genuine affection. This memory also highlights the fragility of Gatsby's dream, as Daisy's past with Tom proves harder to erase than he imagined."
+    image_url: ""
+    image_caption: ""
+    content: "Tom’s reference to Kapiolani evokes a moment from his and Daisy’s past, tying their relationship to a specific, idyllic memory in Hawaii. Kapiolani Park, located in Honolulu, is known for its lush landscapes and romantic atmosphere, making it a fitting backdrop for Tom’s attempt to rekindle Daisy’s loyalty. The mention of this place serves as a stark contrast to the heated confrontation in the Plaza Hotel, highlighting the distance between their past happiness and present turmoil. Fitzgerald uses this memory to explore the theme of nostalgia and the characters’ attempts to reclaim lost moments. For Daisy, the memory is bittersweet, while for Tom, it becomes a weapon to assert his dominance over Gatsby and reaffirm his connection to Daisy."
   - id: "walter-chase"
     trigger: "Walter Chase"
     title: "The Man Who Knew Gatsby’s Secrets"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Plot_summary"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "Walter Chase, a minor but pivotal character, is mentioned during Tom's accusations against Gatsby. Chase, who was involved in Gatsby's bootlegging operations, represents the darker side of Gatsby's wealth and ambition. His imprisonment and subsequent silence, allegedly coerced by Wolfshiem, reveal the criminal underpinnings of Gatsby's success. Fitzgerald uses Walter Chase to expose the moral compromises behind Gatsby's pursuit of the American Dream, adding complexity to the character and deepening the novel's critique of wealth and power."
-  - id: "the-dead-dream"
-    trigger: "the dead dream"
-    title: "Why Gatsby’s Dream Was Doomed From the Start"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "As the confrontation at the Plaza Hotel reaches its climax, Nick observes 'the dead dream' fighting on. This phrase encapsulates Gatsby's futile pursuit of Daisy and the idealized life he has built around her. Gatsby's dream, rooted in the past and fueled by illusions, is unable to withstand the realities of time and human complexity. Fitzgerald uses this poignant image to underscore the novel's central theme: the impossibility of recapturing the past and the tragic consequences of clinging to it. Gatsby's dream dies not with a bang, but with the quiet realization of its impossibility."
-  - id: "was-daisy-driving"
-    trigger: "Was Daisy driving?"
-    title: "The Question That Changes Everything"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Plot_summary"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "When Nick asks Gatsby if Daisy was driving the car that killed Myrtle, the narrative takes a dramatic turn. Gatsby's admission that Daisy was behind the wheel but that he plans to take the blame reveals his unwavering devotion to her. This moment highlights Gatsby's self-sacrificial love and his inability to see Daisy's flaws. Fitzgerald uses this revelation to deepen the tragedy of Gatsby's character, showing how his idealism blinds him to the moral complexities of the people he idolizes. The question also sets the stage for the novel's devastating conclusion."
+    image_url: ""
+    image_caption: ""
+    content: "Walter Chase, mentioned briefly by Tom, represents the shadowy world of Gatsby’s business dealings. Chase was involved in Gatsby’s bootlegging operations but ended up in jail, a casualty of the illegal enterprise. Tom uses Chase’s story to discredit Gatsby, painting him as a criminal and undermining his claim to legitimacy. This revelation deepens the novel’s critique of the American Dream, showing how Gatsby’s pursuit of wealth and status leads him into morally dubious territory. Fitzgerald uses Walter Chase as a symbol of the collateral damage caused by Gatsby’s ambition, highlighting the ethical compromises and human costs of his relentless drive for success."
+  - id: "a-yellow-car"
+    trigger: "a yellow car"
+    title: "The Color That Seals Gatsby’s Fate"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbolism"
+    image_url: ""
+    image_caption: ""
+    content: "The yellow car, Gatsby’s prized possession, becomes a symbol of his wealth and status but also of his downfall. Its bright color, associated with gold and opulence, reflects Gatsby’s aspirations and his attempt to dazzle Daisy. However, the car’s role in Myrtle’s death transforms it into a harbinger of tragedy. The yellow car is mistaken for Tom’s, adding layers of misunderstanding and misdirection that lead to Gatsby’s demise. Fitzgerald uses the car to explore themes of materialism and the destructive consequences of reckless ambition. Its presence in this chapter underscores the fragility of Gatsby’s dream and the inevitability of his tragic end."
+  - id: "moonlight"
+    trigger: "moonlight"
+    title: "Why Moonlight Frames Gatsby’s Vigil"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Moonlight"
+    image_url: ""
+    image_caption: ""
+    content: "The moonlight that bathes Gatsby as he waits outside Daisy’s house adds a poignant, almost ethereal quality to the scene. Moonlight, often associated with romance and mystery, reflects Gatsby’s unwavering devotion and his dreamlike perception of Daisy. Yet it also casts a cold, isolating light, emphasizing his solitude and the futility of his vigil. Fitzgerald uses moonlight as a recurring motif in the novel, symbolizing both hope and illusion. In this moment, it underscores the tragic irony of Gatsby’s situation—he is watching over a dream that has already slipped away, clinging to a vision of love that Daisy cannot fulfill."
   - id: "cold-fried-chicken"
     trigger: "cold fried chicken"
     title: "The Meal That Reveals Daisy and Tom’s Bond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fried_chicken"
+    image_url: ""
+    image_caption: ""
+    content: "When Nick glimpses Daisy and Tom sharing cold fried chicken and ale, the simplicity of the meal contrasts sharply with the opulence of their lives. This quiet moment reveals an intimacy between them that Gatsby cannot penetrate. Fried chicken, a quintessential American comfort food, symbolizes their shared history and the mundane yet enduring aspects of their relationship. Fitzgerald uses this scene to highlight the futility of Gatsby’s dream—while he idealizes Daisy, she is ultimately bound to Tom by a complex mix of familiarity, complicity, and shared values. The untouched food reflects their unease, but their conspiratorial posture suggests a unity that Gatsby’s romantic idealism cannot overcome."
+  - id: "scrutiny-of-the-house"
+    trigger: "scrutiny of the house"
+    title: "Why Gatsby Watches Daisy’s Home All Night"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "As Nick spies on Daisy and Tom through the pantry window, he sees them sitting opposite each other with a plate of cold fried chicken between them. This seemingly mundane detail carries profound symbolic weight. The untouched meal and their quiet conversation suggest a natural intimacy that Gatsby can never replicate. Fitzgerald uses this moment to illustrate the enduring bond between Daisy and Tom, rooted in shared history and complicity. The cold chicken becomes a metaphor for their relationship—unremarkable yet resilient, a stark contrast to Gatsby's fiery but fragile dream."
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s scrutiny of Daisy’s house symbolizes his obsessive devotion and his inability to let go of his dream. Standing vigil outside, he imagines himself as her protector, ready to intervene if Tom harms her. This act reflects Gatsby’s idealism and his belief in the transformative power of love, but it also underscores his isolation and the futility of his efforts. Fitzgerald uses this moment to explore themes of longing and disillusionment, showing how Gatsby’s fixation blinds him to reality. His vigil becomes a poignant image of unrequited love and the tragic pursuit of an unattainable ideal, leaving him 'watching over nothing' as the chapter closes."
+  - id: "the-sacredness-of-the-vigil"
+    trigger: "the sacredness of the vigil"
+    title: "Why Gatsby’s Watch Feels Like a Ritual"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ritual"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s vigil outside Daisy’s house takes on a sacred, almost religious quality. He views his watch as an act of devotion, a testament to his unwavering love and belief in their shared destiny. The word 'sacredness' elevates his actions, suggesting that Gatsby sees himself as a knight or guardian, protecting Daisy from harm. Yet this ritualistic behavior also highlights his delusion and the futility of his dream. Fitzgerald uses this moment to critique the romanticization of love and the dangers of idealism. Gatsby’s vigil becomes a tragic symbol of his inability to accept reality, leaving him isolated and clinging to a vision that Daisy cannot fulfill."
   - id: "watching-over-nothing"
     trigger: "watching over nothing"
-    title: "Why Gatsby’s Vigil Is So Heartbreaking"
+    title: "The Heartbreaking Truth Behind Gatsby’s Vigil"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Great Gatsby Cover 1925 Retouched (Public domain)"
-    content: "As Nick leaves Gatsby standing outside Daisy's house, he describes him as 'watching over nothing.' This haunting phrase captures the futility of Gatsby's devotion and the emptiness of his dream. Gatsby's vigil, driven by hope and desperation, symbolizes his refusal to accept reality. Fitzgerald uses this image to underscore the novel's central tragedy: Gatsby's relentless pursuit of an ideal that no longer exists. The phrase lingers as a poignant reminder of the cost of chasing illusions, leaving readers with a sense of profound loss and inevitability."
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s observation that Gatsby is 'watching over nothing' captures the profound emptiness of Gatsby’s dream. Gatsby’s vigil outside Daisy’s house is driven by his belief that he can protect her and reclaim their love, but Nick’s remark reveals the futility of his actions. Daisy has already chosen Tom, and Gatsby’s idealized vision of her is irreconcilable with reality. Fitzgerald uses this moment to underscore the novel’s central themes of disillusionment and the impossibility of recapturing the past. Gatsby’s watch becomes a poignant image of unrequited love and the tragic pursuit of an unattainable ideal, leaving him isolated and clinging to a dream that has already slipped away."
 ---
 It was when curiosity about Gatsby was at its highest that the lights
 in his house failed to go on one Saturday night—and, as obscurely as
@@ -520,8 +555,8 @@ demanded Jordan crossly.
 where!”
 
 We were all irritable now with the fading ale, and aware of it we
-drove for a while in silence. Then as **Doctor T. J. Eckleburg’s faded
-eyes** came into sight down the road, I remembered Gatsby’s caution
+drove for a while in silence. Then as **Doctor T. J. Eckleburg**’s faded
+eyes came into sight down the road, I remembered Gatsby’s caution
 about gasoline.
 
 “We’ve got enough to get us to town,” said Tom.
@@ -530,7 +565,7 @@ about gasoline.
 get stalled in this baking heat.”
 
 Tom threw on both brakes impatiently, and we slid to an abrupt dusty
-stop under Wilson’s sign. After a moment the proprietor emerged from
+stop under **Wilson’s sign**. After a moment the proprietor emerged from
 the interior of his establishment and gazed hollow-eyed at the car.
 
 “Let’s have some gas!” cried Tom roughly. “What do you think we
@@ -602,7 +637,7 @@ afternoon.”
 
 That locality was always vaguely disquieting, even in the broad glare
 of afternoon, and now I turned my head as though I had been warned of
-something behind. Over **the ash-heaps** the giant eyes of Doctor T. J.
+something behind. Over the ash-heaps the giant eyes of Doctor T. J.
 Eckleburg kept their vigil, but I perceived, after a moment, that
 other eyes were regarding us with peculiar intensity from less than
 twenty feet away.
@@ -663,7 +698,7 @@ the course of it, my underwear kept climbing like a damp snake around
 my legs and intermittent beads of sweat raced cool across my back.
 The notion originated with Daisy’s suggestion that we hire five
 bathrooms and take cold baths, and then assumed more tangible form as
-“a place to have a **mint julep**.” Each of us said over and over that it
+“a place to have a mint julep.” Each of us said over and over that it
 was a “crazy idea”—we all talked at once to a baffled clerk and
 thought, or pretended to think, that we were being very funny …
 
@@ -1022,7 +1057,7 @@ just that fantastic way.
 It passed, and he began to talk excitedly to Daisy, denying
 everything, defending his name against accusations that had not been
 made. But with every word she was drawing further and further into
-herself, so he gave that up, and only **the dead dream** fought on as the
+herself, so he gave that up, and only the dead dream fought on as the
 afternoon slipped away, trying to touch what was no longer tangible,
 struggling unhappily, undespairingly, toward that lost voice across
 the room.
@@ -1150,7 +1185,7 @@ door made him automatically put on the brakes.
 
 I became aware now of a hollow, wailing sound which issued incessantly
 from the garage, a sound which as we got out of the coupé and walked
-toward the door resolved itself into the words “**Oh, my God!**” uttered
+toward the door resolved itself into the words “Oh, my God!” uttered
 over and over in a gasping moan.
 
 “There’s some bad trouble here,” said Tom excitedly.
@@ -1165,7 +1200,7 @@ The circle closed up again with a running murmur of expostulation; it
 was a minute before I could see anything at all. Then new arrivals
 deranged the line, and Jordan and I were pushed suddenly inside.
 
-Myrtle Wilson’s body, wrapped in a blanket, and then in another
+**Myrtle Wilson’s body**, wrapped in a blanket, and then in another
 blanket, as though she suffered from a chill in the hot night, lay on
 a worktable by the wall, and Tom, with his back to us, was bending
 over it, motionless. Next to him stood a motorcycle policeman taking
@@ -1310,7 +1345,7 @@ frowned slightly.
 do tonight.”
 
 A change had come over him, and he spoke gravely, and with decision.
-As we walked across the moonlight gravel to the porch he disposed of
+As we walked across the **moonlight** gravel to the porch he disposed of
 the situation in a few brisk phrases.
 
 “I’ll telephone for a taxi to take you home, and while you’re waiting
@@ -1383,7 +1418,7 @@ it happen?”
 “Well, I tried to swing the wheel—” He broke off, and suddenly I
 guessed at the truth.
 
-“**Was Daisy driving?**”
+“Was **Daisy driving**?”
 
 “Yes,” he said after a moment, “but of course I’ll say I was. You see,
 when we left New York she was very nervous and she thought it would
@@ -1455,6 +1490,6 @@ He shook his head.
 “I want to wait here till Daisy goes to bed. Good night, old sport.”
 
 He put his hands in his coat pockets and turned back eagerly to his
-scrutiny of the house, as though my presence marred the sacredness of
-the vigil. So I walked away and left him standing there in the
+**scrutiny of the house**, as though my presence marred **the sacredness of
+the vigil**. So I walked away and left him standing there in the
 moonlight—**watching over nothing**.

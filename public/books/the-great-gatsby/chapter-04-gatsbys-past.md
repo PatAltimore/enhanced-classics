@@ -12,135 +12,121 @@ summary:
   - point: "Gatsby's extravagant parties attract a wide array of guests, many of whom know little about him."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
-  - point: "Gatsby shares a fantastical version of his past, including claims of wealth, Oxford education, and military heroics."
-    link: "https://en.wikipedia.org/wiki/World_War_I"
-    link_label: "World War I"
-  - point: "Nick meets Meyer Wolfshiem, who is revealed to have fixed the 1919 World Series."
-    link: "https://en.wikipedia.org/wiki/1919_World_Series"
+  - point: "Gatsby shares a fabricated account of his past, claiming wealth, Oxford education, and European adventures."
+    link: "https://en.wikipedia.org/wiki/Oxford_University"
+    link_label: "Oxford University"
+  - point: "Gatsby recounts his wartime heroics in the Argonne Forest, earning decorations from Allied governments."
+    link: "https://en.wikipedia.org/wiki/Meuse-Argonne_Offensive"
+    link_label: "Argonne Forest"
+  - point: "Meyer Wolfshiem, a gambler, is revealed to have fixed the 1919 World Series, showcasing Gatsby's shady connections."
+    link: "https://en.wikipedia.org/wiki/Black_Sox_Scandal"
     link_label: "1919 World Series"
-  - point: "Jordan Baker recounts Daisy's past, including her romance with Gatsby and her marriage to Tom Buchanan."
-    link: "https://en.wikipedia.org/wiki/Louisville,_Kentucky"
-    link_label: "Louisville, Kentucky"
-  - point: "Gatsby's purchase of his mansion is revealed to be motivated by his longing for Daisy."
+  - point: "Jordan Baker reveals Gatsby's deep connection to Daisy, explaining his purchase of a mansion across the bay from her."
     link: "https://en.wikipedia.org/wiki/Long_Island"
     link_label: "Long Island"
-  - point: "Nick agrees to help Gatsby by arranging a meeting between him and Daisy."
+  - point: "Nick learns Gatsby's plan to reunite with Daisy through a tea invitation at Nick's house."
     link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
     link_label: "F. Scott Fitzgerald"
 
 enhancements:
-  - id: "von-hindenburg-myths-and-mysteries"
+  - id: "von-hindenburg-mythical-family-connection"
     trigger: "Von Hindenburg"
-    title: "Why Gatsby's Guests Linked Him to Hindenburg"
+    title: "Why Gatsby's Guests Linked Him to Von Hindenburg"
     wikipedia_url: "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/330px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Bundesarchiv Bild 183-C06886, Paul v. Hindenburg (cropped)(2) (CC BY-SA 3.0 de)"
-    content: "When Gatsby's guests gossip about him, they weave wild tales, including one that ties him to Von Hindenburg, the German military leader and president. This absurd claim reflects the era's fascination with larger-than-life figures and Gatsby's enigmatic persona. Hindenburg, a towering figure in World War I, symbolized authority and power, qualities Gatsby's guests might project onto him due to his wealth and mysterious background. The rumor also underscores the surreal, almost theatrical atmosphere of Gatsby's parties, where truth and fiction blur. Fitzgerald uses these exaggerated stories to highlight the disconnect between Gatsby's reality and the mythos surrounding him, emphasizing the novel's themes of illusion and identity."
-  - id: "educated-at-oxford-truth-or-fiction"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby's guests speculate that he might be related to Von Hindenburg, they are invoking the name of one of Germany's most famous military leaders and later president during the Weimar Republic. Paul von Hindenburg was a towering figure in World War I, celebrated for his victories on the Eastern Front. The absurdity of the claim reflects the wild rumors swirling around Gatsby, fueled by his mysterious wealth and enigmatic persona. This moment underscores the way Gatsby's life is mythologized by those around him, turning him into a figure of intrigue and suspicion. Fitzgerald uses this rumor to highlight the disconnect between Gatsby's real identity and the image he projects—a theme central to the novel's exploration of illusion and reality."
+  - id: "educated-at-oxford-gatsby-suspicious-claim"
     trigger: "educated at Oxford"
     title: "Was Gatsby Really Educated at Oxford?"
     wikipedia_url: "https://en.wikipedia.org/wiki/University_of_Oxford"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arms_of_University_of_Oxford.svg/330px-Arms_of_University_of_Oxford.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Arms of University of Oxford (Public domain)"
-    content: "When Gatsby claims he was educated at Oxford, Nick immediately senses something off in his hurried delivery. Oxford, one of the world's most prestigious universities, carries an aura of refinement and tradition that Gatsby desperately wants to embody. However, his awkward phrasing and Jordan Baker's earlier skepticism cast doubt on the claim. Historically, Oxford has been a symbol of elite privilege, and Gatsby's invocation of it reveals his deep insecurity about his origins. Fitzgerald uses this moment to explore Gatsby's relentless self-reinvention and the fragility of the identity he has constructed—a central theme of the novel."
-  - id: "argonne-forest-gatsby-s-war-heroics"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby claims he was educated at Oxford, his hurried delivery and Nick's immediate skepticism reveal cracks in his carefully constructed persona. Oxford, one of the world's most prestigious universities, has long been associated with privilege and tradition, making it a perfect detail for Gatsby's fabricated backstory. However, the vagueness of his claim and Jordan Baker's earlier doubts suggest that Gatsby's education may be exaggerated or entirely false. This moment deepens the mystery surrounding Gatsby's identity and foreshadows the eventual unraveling of his carefully curated image, emphasizing the novel's themes of deception and the pursuit of an unattainable ideal."
+  - id: "argonne-forest-gatsby-war-heroics"
     trigger: "Argonne Forest"
-    title: "The Battle That Made Gatsby a Hero"
+    title: "Gatsby's Heroics in the Argonne Forest: Fact or Fiction?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Meuse-Argonne_Offensive"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hannover_CL_IIIa%2C_Forest_of_Argonne%2C_France%2C_1918_%28restored%29.jpg/330px-Hannover_CL_IIIa%2C_Forest_of_Argonne%2C_France%2C_1918_%28restored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Hannover CL IIIa, Forest of Argonne, France, 1918 (restored) (Public domain)"
-    content: "Gatsby recounts his wartime exploits in the Argonne Forest, claiming he led a machine-gun battalion to extraordinary success. The Argonne Forest was the site of the Meuse-Argonne Offensive, a pivotal World War I battle that marked the final Allied push against Germany. Gatsby's story, filled with dramatic details, mirrors the grandiosity of his persona but also raises questions about its authenticity. By placing Gatsby in this historical context, Fitzgerald underscores the tension between Gatsby's desire for recognition and the elusive nature of truth in his life. The war becomes another layer in Gatsby's myth, blending heroism with possible fabrication."
-  - id: "orderi-di-danilo-montenegro-s-medal"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby's tale of leading a machine-gun battalion in the Argonne Forest during World War I paints him as a fearless hero. The Argonne Forest was the site of the Meuse-Argonne Offensive, one of the largest operations involving American forces during the war. While Gatsby's story is compelling, its grandiosity raises questions about its authenticity, especially given his penchant for embellishment. Fitzgerald uses this anecdote to blur the line between truth and fiction in Gatsby's life, illustrating how his self-created narrative serves his ambition to be seen as extraordinary. This moment also ties Gatsby's personal mythology to broader themes of heroism and sacrifice, which contrast sharply with the moral ambiguity of his present life."
+  - id: "orderi-di-danilo-montenegro-medal"
     trigger: "Orderi di Danilo"
-    title: "Why Montenegro Honored Gatsby for Valor"
+    title: "The Montenegro Medal: Gatsby's Badge of Valor"
     wikipedia_url: "https://en.wikipedia.org/wiki/Order_of_Danilo_I"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Order_of_Prince_Danilo.jpg/330px-Order_of_Prince_Danilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Order of Prince Danilo (CC BY-SA 3.0)"
-    content: "Gatsby proudly shows Nick the Orderi di Danilo, a medal from Montenegro, as proof of his wartime heroics. The Order of Danilo I was a real Montenegrin honor awarded for extraordinary valor. Montenegro, a small Balkan nation, has a history of fierce independence and military bravery, making the medal a symbol of high regard. Gatsby's possession of this medal adds a touch of authenticity to his otherwise dubious claims, but it also serves as a poignant reminder of his need to validate his self-made identity. Fitzgerald uses this detail to deepen the mystery of Gatsby's character and his obsession with proving his worth."
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby presents the 'Orderi di Danilo' medal from Montenegro, it serves as tangible proof of his wartime heroics—or so it seems. The Order of Danilo I was a real Montenegrin decoration awarded for valor and service. Montenegro, a small Balkan nation, played a minor but symbolic role in World War I. Gatsby's possession of this medal lends credibility to his story, but its authenticity is never fully verified. Fitzgerald uses this moment to deepen the enigma surrounding Gatsby, showing how physical objects can lend weight to narratives, even when those narratives are suspect. The medal becomes a symbol of Gatsby's ability to manipulate perception, a skill central to his pursuit of Daisy and his dream."
   - id: "trinity-quad-oxford-photo"
     trigger: "Trinity Quad"
-    title: "The Photo Gatsby Uses to Prove His Past"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Trinity_College,_Oxford"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/UK-2014-Oxford-Trinity_College_01.JPG/330px-UK-2014-Oxford-Trinity_College_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Trinity College (Oxford University) founded in 1555. View of the Tower from the Front Quadrangle. (CC BY-SA 4.0)"
-    content: "Gatsby presents a photograph taken in Trinity Quad at Oxford as evidence of his education there. Trinity College, part of the University of Oxford, is renowned for its stunning architecture and academic prestige. The photo, showing Gatsby with a cricket bat, seems authentic but raises questions about its context—was Gatsby truly a student, or did he merely visit? This moment encapsulates Gatsby's reliance on tangible symbols to construct his identity. Fitzgerald uses the photograph to explore themes of authenticity and the lengths to which Gatsby goes to craft his persona, reflecting the novel's broader commentary on the American Dream."
-  - id: "queensboro-bridge-first-glimpse-of-the-city"
-    trigger: "Queensboro Bridge"
-    title: "Why the Queensboro Bridge Feels Magical"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Queensboro_Bridge"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Queensboro_Bridge_from_Manhattan_side.jpg/330px-Queensboro_Bridge_from_Manhattan_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Ed Koch Queensboro Bridge, a bridge between the Queens and Manhattan boroughs of New York City (CC0)"
-    content: "As Nick and Gatsby cross the Queensboro Bridge, Nick reflects on the city's wild promise and mystery. The bridge, connecting Manhattan to Queens, symbolizes transition and opportunity, fitting perfectly into Gatsby's narrative of reinvention. Built in 1909, it was an engineering marvel of its time, embodying the modernity and ambition of New York City. Nick's awe at the cityscape mirrors Gatsby's own dreams, tying the physical journey to the emotional and thematic arcs of the novel. Fitzgerald uses the bridge as a metaphor for the allure and illusion of the American Dream, a central motif in the story."
-  - id: "rosy-rosenthal-metropole-murder"
-    trigger: "Rosy Rosenthal"
-    title: "The Real-Life Murder That Haunts Wolfshiem"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Herman_Rosenthal"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Herman_Rosenthal_%281843-1917%29.jpg/330px-Herman_Rosenthal_%281843-1917%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Herman Rosenthal (1843-1917),  American author and editor (Public domain)"
-    content: "Wolfshiem recounts the murder of Rosy Rosenthal, a gambler shot outside the Metropole Hotel. Herman \"Rosy\" Rosenthal was a real figure in New York's criminal underworld, whose 1912 assassination exposed police corruption and led to the conviction of several men, including Charles Becker, a corrupt officer. Wolfshiem's connection to this infamous event underscores his shady ties and adds a layer of realism to Fitzgerald's depiction of organized crime. By weaving historical events into the narrative, Fitzgerald highlights the darker side of Gatsby's world and the moral compromises underpinning his wealth and ambition."
+    title: "The Oxford Photo: Gatsby's Proof or Prop?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/University_of_Oxford"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby's photograph from Trinity Quad at Oxford is another piece of evidence he uses to bolster his claim of an elite education. Trinity Quad refers to one of the iconic courtyards at Oxford University, a setting steeped in history and tradition. The photo, showing Gatsby with a cricket bat among young men in blazers, evokes an image of privilege and refinement. Yet, Nick's lingering doubts about Gatsby's story suggest the possibility that the photo is staged or misleading. Fitzgerald uses this detail to explore themes of authenticity and the lengths Gatsby goes to craft an identity that aligns with his aspirations, even as cracks in his facade begin to show."
   - id: "world-series-1919-scandal"
     trigger: "World’s Series back in 1919"
-    title: "How One Man Rigged Baseball's Biggest Event"
+    title: "The Scandal That Shook Baseball: 1919 World Series"
     wikipedia_url: "https://en.wikipedia.org/wiki/Black_Sox_Scandal"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eight_men_banned.png/330px-Eight_men_banned.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Eight men banned (Public domain)"
-    content: "Wolfshiem is revealed to have fixed the 1919 World Series, a reference to the infamous Black Sox Scandal. Eight Chicago White Sox players were accused of intentionally losing games in exchange for bribes from gamblers. The scandal rocked America, tarnishing baseball's reputation as the nation's pastime. Wolfshiem's involvement ties Gatsby's world to the corruption and moral decay of the Jazz Age, reflecting the novel's critique of the era's excesses. Fitzgerald uses this detail to deepen the sense of moral ambiguity surrounding Gatsby's wealth and the lengths people go to achieve their dreams."
-  - id: "camp-taylor-daisy-s-romance"
+    image_url: ""
+    image_caption: ""
+    content: "Meyer Wolfshiem's claim to have fixed the 1919 World Series ties Gatsby to one of the most infamous scandals in sports history. The Black Sox Scandal involved eight Chicago White Sox players accused of intentionally losing the series in exchange for bribes from gamblers. This revelation highlights Wolfshiem's criminal influence and Gatsby's association with morally dubious figures. Fitzgerald uses this detail to underscore the corruption and moral decay underlying the glittering surface of Gatsby's world. It also serves as a metaphor for the broader disillusionment of the American Dream, where success is often tainted by compromise and deceit."
+  - id: "camp-taylor-daisy-romance"
     trigger: "Camp Taylor"
-    title: "The Army Base Where Daisy Met Gatsby"
+    title: "The Military Camp Where Gatsby Met Daisy"
     wikipedia_url: "https://en.wikipedia.org/wiki/Camp_Taylor_(Kentucky)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Medical_Department_-_Miscellaneous_-_Army_health_charts._Respiratory_disease_of_army_camps%3B_graphs_for_various_camps_-_NARA_-_45498785_%28cropped%29.jpg/330px-Medical_Department_-_Miscellaneous_-_Army_health_charts._Respiratory_disease_of_army_camps%3B_graphs_for_various_camps_-_NARA_-_45498785_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Medical Department - Miscellaneous - Army health charts. Respiratory disease of army camps; graphs for various camps - NARA - 45498785 (cropped) (Public domain)"
-    content: "Jordan recalls Daisy's romance with Gatsby, which began near Camp Taylor, a World War I training base in Louisville, Kentucky. The camp was one of many established to prepare soldiers for overseas combat. Its proximity to Daisy's home made it a hub for young officers, adding a romantic backdrop to their story. This setting highlights the fleeting nature of their connection, as Gatsby's military service pulled him away. Fitzgerald uses Camp Taylor to underscore the theme of lost time and the impossibility of recapturing the past, central to Gatsby's longing for Daisy."
-  - id: "muhlbach-hotel-tom-and-daisy-s-wedding"
+    image_url: ""
+    image_caption: ""
+    content: "Camp Taylor, a World War I training camp in Louisville, Kentucky, is where Gatsby first encountered Daisy. The camp was one of many established to prepare soldiers for overseas service, and its proximity to Daisy's home allowed young officers to mingle with local society. Gatsby's meeting with Daisy at Camp Taylor marks the beginning of his lifelong obsession with her, a moment that transforms his ambitions and shapes his future choices. Fitzgerald uses this setting to root Gatsby's romantic idealism in a specific historical context, emphasizing the fleeting nature of their initial connection and the enduring impact it has on Gatsby's dream."
+  - id: "muhlbach-hotel-tom-daisy-wedding"
     trigger: "Muhlbach Hotel"
     title: "The Lavish Hotel That Hosted Daisy's Wedding"
     wikipedia_url: "https://en.wikipedia.org/wiki/Muehlebach_Hotel"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Muehlbach-hotel.jpg/330px-Muehlbach-hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Muehlebach Hotel in Kansas City.  Photo by poster in August 2006. (CC BY-SA 2.5)"
-    content: "Daisy and Tom's extravagant wedding took place at the Muhlbach Hotel in Kansas City, a symbol of their wealth and social status. The hotel, built in 1915, was a luxurious venue known for hosting high-profile events. The opulence of the wedding contrasts sharply with Daisy's emotional turmoil, as she drunkenly considers calling it off. Fitzgerald uses the Muhlbach Hotel to highlight the tension between appearances and reality, a recurring theme in the novel. The grandeur of the setting underscores the societal pressures that drive Daisy's decisions, adding depth to her character and her relationship with Tom."
-  - id: "santa-barbara-hotel-tom-s-affair"
+    image_url: ""
+    image_caption: ""
+    content: "The Muhlbach Hotel in Kansas City was the site of Daisy and Tom Buchanan's extravagant wedding festivities. Known for its opulence, the hotel symbolized the wealth and social status that Tom brought to the marriage. Daisy's drunken breakdown before the wedding, clutching a letter presumably from Gatsby, contrasts sharply with the grandeur of the setting, highlighting her inner turmoil and the emotional cost of her decision. Fitzgerald uses the Muhlbach Hotel as a backdrop to explore themes of materialism and the sacrifices made for social conformity, setting the stage for the novel's tragic exploration of love and ambition."
+  - id: "santa-barbara-hotel-tom-affair"
     trigger: "Santa Barbara Hotel"
-    title: "The Scandal That Followed Tom to Santa Barbara"
+    title: "The Scandalous Affair That Tarnished Tom's Reputation"
     wikipedia_url: "https://en.wikipedia.org/wiki/Santa_Barbara,_California"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Santa_Barbara_Downtown_%28may_2012%29_%282%29_%28cropped%29.jpg/330px-Santa_Barbara_Downtown_%28may_2012%29_%282%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Santa Barbara city in Santa Barbara County, California, United States. (CC BY-SA 4.0)"
-    content: "Tom's affair with a chambermaid at the Santa Barbara Hotel becomes public after a car accident. Santa Barbara, known for its luxury and seaside charm, serves as a backdrop for the Buchanans' early marriage. The incident foreshadows Tom's pattern of infidelity and the cracks in their seemingly perfect life. Fitzgerald uses this moment to explore the moral failings of the wealthy and the consequences of their reckless behavior. The hotel becomes a symbol of the Buchanans' privilege and the emotional damage hidden beneath their glamorous exterior."
-  - id: "perfect-reputation-daisy-s-image"
-    trigger: "perfect reputation"
-    title: "How Daisy Maintains Her Flawless Image"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Reputation"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Taylor_Swift_Reputation_Tour_Minneapolis_%2830530324148%29.jpg/330px-Taylor_Swift_Reputation_Tour_Minneapolis_%2830530324148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Taylor Swift Reputation Tour Minneapolis (30530324148) (CC BY 2.0)"
-    content: "Despite her wild social circle, Daisy is described as having a \"perfect reputation,\" partly because she abstains from drinking. In the Jazz Age, when excess and scandal were common among the wealthy, Daisy's restraint sets her apart. Her reputation becomes a shield, allowing her to navigate high society without attracting criticism. Fitzgerald uses this detail to highlight the performative nature of Daisy's life, where appearances matter more than reality. Her \"perfect reputation\" contrasts with the emotional turmoil and moral compromises that define her relationships, adding complexity to her character."
-  - id: "sheik-of-araby-song-in-the-park"
-    trigger: "Sheik of Araby"
-    title: "The Song That Echoes Gatsby's Obsession"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Sheik_of_Araby"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sheik_of_Araby.pdf/page1-250px-Sheik_of_Araby.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Sheet music of \"The Sheik of Araby\". The song was written for the novel The Sheik but popularized by the film. (Public domain)"
-    content: "As Nick and Jordan drive through Central Park, children sing \"The Sheik of Araby,\" a popular song from the 1920s. The song, inspired by the silent film \"The Sheik,\" reflects themes of romantic obsession and exotic allure. Its lyrics, about a man claiming ownership of a woman's love, parallel Gatsby's fixation on Daisy and his belief that he can reclaim her. Fitzgerald uses the song to underscore the cultural backdrop of the Jazz Age and to deepen the novel's exploration of desire and possession. The children's voices add a haunting, ironic layer to Gatsby's dream."
-  - id: "starlight-to-casual-moths-gatsby-s-parties"
-    trigger: "starlight to casual moths"
-    title: "Why Gatsby's Guests Are Like Moths"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Moth"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Autographa_gamma_en_Trachelospermum_jasminoides_-_02.jpg/330px-Autographa_gamma_en_Trachelospermum_jasminoides_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Autographa gamma on Trachelospermum jasminoides. (CC BY-SA 3.0)"
-    content: "Nick describes Gatsby's parties as dispensing \"starlight to casual moths,\" evoking the image of guests drawn to the glamour and mystery of his mansion. Moths, often associated with fleeting attraction to light, symbolize the transient and superficial nature of Gatsby's social circle. The phrase captures the ephemeral allure of Gatsby's world, where people come and go without truly knowing him. Fitzgerald uses this metaphor to critique the emptiness of the Jazz Age's excesses and to highlight Gatsby's isolation despite his apparent success. The image of moths adds a poetic, melancholic touch to the narrative."
-  - id: "universal-scepticism-jordan-s-worldview"
+    image_url: ""
+    image_caption: ""
+    content: "The Santa Barbara Hotel is mentioned in connection with Tom Buchanan's car accident and affair with a chambermaid. Santa Barbara, known for its luxury and coastal charm, serves as a backdrop for Tom's reckless behavior and moral failings. This incident foreshadows the recurring theme of infidelity and the consequences of privilege in the novel. Fitzgerald uses this moment to contrast Daisy's idealized love for Tom with the reality of his character, deepening the tension between appearance and reality that permeates the story."
+  - id: "deauville-daisy-tom-france"
+    trigger: "Deauville"
+    title: "Deauville: Daisy and Tom's French Interlude"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Deauville"
+    image_url: ""
+    image_caption: ""
+    content: "Deauville, a glamorous seaside resort in France, represents the Buchanans' wealth and social status during their European travels. Known for its casinos, horse racing, and luxury, Deauville was a playground for the elite in the early 20th century. Daisy and Tom's time there reflects their attempt to maintain an image of sophistication and happiness, even as cracks in their relationship begin to show. Fitzgerald uses Deauville as a symbol of the Buchanans' superficial lifestyle, contrasting their outward elegance with the emotional emptiness that underlies their marriage."
+  - id: "queensboro-bridge-city-promise"
+    trigger: "Queensboro Bridge"
+    title: "Why the Queensboro Bridge Feels Like Magic"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Queensboro_Bridge"
+    image_url: ""
+    image_caption: ""
+    content: "As Nick and Gatsby cross the Queensboro Bridge, Nick reflects on the city's promise of mystery and beauty. The bridge, connecting Manhattan to Queens, symbolizes transition and opportunity, offering a panoramic view of New York's skyline. Fitzgerald imbues this moment with a sense of wonder, capturing the allure of the city and its potential for reinvention. The bridge becomes a metaphor for Gatsby's dream, a passage to a world where anything seems possible, even as the reality of his aspirations remains elusive."
+  - id: "universal-scepticism-jordan-baker"
     trigger: "universal scepticism"
-    title: "Jordan Baker's Cynical Philosophy Explained"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Skepticism"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hammer_of_Doom_X_W%C3%BCrzburg_Skepticism_14.jpg/330px-Hammer_of_Doom_X_W%C3%BCrzburg_Skepticism_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Hammer of Doom X Würzburg Skepticism 14 (CC BY-SA 4.0)"
-    content: "Nick describes Jordan as dealing in \"universal scepticism,\" a worldview that reflects her detached, pragmatic approach to life. Skepticism, the philosophical doubt of truth or certainty, aligns with Jordan's guarded demeanor and her ability to navigate the morally ambiguous world of the Buchanans and Gatsby. Her skepticism contrasts with Gatsby's idealism, highlighting the novel's tension between hope and disillusionment. Fitzgerald uses Jordan's perspective to explore the complexities of human relationships and the survival strategies of those living in a world defined by wealth and power."
-  - id: "fifty-ninth-street-light-in-the-dark"
+    title: "Jordan Baker's Cynical Philosophy of Life"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Nick describes Jordan Baker as embodying 'universal scepticism,' a trait that defines her detached and pragmatic approach to life. Jordan's skepticism reflects the broader disillusionment of the Jazz Age, where traditional values are questioned and moral ambiguity reigns. Fitzgerald uses her character to explore themes of cynicism and self-interest, contrasting her cool demeanor with Gatsby's idealism. This moment highlights the novel's exploration of different responses to the era's social and cultural upheaval, with Jordan representing a world-weary acceptance of its flaws."
+  - id: "fifty-ninth-street-central-park"
     trigger: "Fifty-Ninth Street"
-    title: "The Glow of Fifty-Ninth Street at Twilight"
-    wikipedia_url: "https://en.wikipedia.org/wiki/59th_Street_(Manhattan)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cpsouth.jpg/330px-Cpsouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Looking west down Central Park South from the vicinity of Grand Army Plaza, Manhattan, New York City. (CC BY-SA 3.0)"
-    content: "As Nick and Jordan pass Fifty-Ninth Street, its pale light beams down into Central Park, creating a moment of quiet beauty. Fifty-Ninth Street, marking the southern boundary of the park, is a bustling area that contrasts with the park's tranquility. The light symbolizes a fleeting sense of clarity and connection amidst the novel's themes of chaos and longing. Fitzgerald uses this detail to evoke the interplay between urban life and personal introspection, adding depth to Nick's evolving relationship with Jordan and his reflections on Gatsby's dream."
+    title: "The Glow of Fifty-Ninth Street: A Symbol of Elegance"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Central_Park"
+    image_url: ""
+    image_caption: ""
+    content: "As Nick and Jordan pass Fifty-Ninth Street, its pale light illuminates the park, creating a moment of quiet beauty. Fifty-Ninth Street marks the southern boundary of Central Park, a space that contrasts the urban chaos with natural tranquility. Fitzgerald uses this setting to evoke a sense of fleeting serenity amidst the novel's emotional turbulence. The street's glow becomes a metaphor for the fragile and ephemeral nature of Gatsby's dream, a brief glimpse of perfection in a world defined by impermanence and disillusionment."
+  - id: "blinding-signs-city-lights"
+    trigger: "blinding signs"
+    title: "The Dazzling Signs of New York's Illusions"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Times_Square"
+    image_url: ""
+    image_caption: ""
+    content: "Nick's mention of 'blinding signs' evokes the neon lights and advertisements that define New York's skyline, particularly in areas like Times Square. These signs symbolize the allure and deception of the city, where appearances often mask deeper truths. Fitzgerald uses this imagery to reflect the novel's themes of illusion and reality, highlighting the contrast between Gatsby's dream and the harshness of the world he inhabits. The 'blinding signs' serve as a reminder of the seductive yet ultimately empty promises of the American Dream."
 ---
 On Sunday morning while church bells rang in the villages alongshore,
 the world and its mistress returned to Gatsby’s house and twinkled
@@ -742,11 +728,11 @@ into the papers, too, because her arm was broken—she was one of the
 chambermaids in the **Santa Barbara Hotel**.
 
 The next April Daisy had her little girl, and they went to France for
-a year. I saw them one spring in Cannes, and later in Deauville, and
+a year. I saw them one spring in Cannes, and later in **Deauville**, and
 then they came back to Chicago to settle down. Daisy was popular in
 Chicago, as you know. They moved with a fast crowd, all of them young
-and rich and wild, but she came out with an absolutely **perfect
-reputation**. Perhaps because she doesn’t drink. It’s a great advantage
+and rich and wild, but she came out with an absolutely perfect
+reputation. Perhaps because she doesn’t drink. It’s a great advantage
 not to drink among hard-drinking people. You can hold your tongue and,
 moreover, you can time any little irregularity of your own so that
 everybody else is so blind that they don’t see or care. Perhaps Daisy
@@ -769,7 +755,7 @@ The sun had gone down behind the tall apartments of the movie stars in
 the West Fifties, and the clear voices of children, already gathered
 like crickets on the grass, rose through the hot twilight:
 
- “I’m the **Sheik of Araby**. Your love belongs to me. At night when
+ “I’m the Sheik of Araby. Your love belongs to me. At night when
  you’re asleep Into your tent I’ll creep—”
 
 “It was a strange coincidence,” I said.
@@ -778,7 +764,7 @@ like crickets on the grass, rose through the hot twilight:
 
 “Why not?”
 
-“Gatsby bought that house so that Daisy would be just across the bay.”
+“Gatsby bought that house so that Daisy would be just **across the bay**.”
 
 Then it had not been merely the stars to which he had aspired on that
 June night. He came alive to me, delivered suddenly from the womb of
@@ -788,7 +774,7 @@ his purposeless splendour.
 house some afternoon and then let him come over.”
 
 The modesty of the demand shook me. He had waited five years and
-bought a mansion where he dispensed **starlight to casual moths**—so that
+bought a mansion where he dispensed starlight to casual moths—so that
 he could “come over” some afternoon to a stranger’s garden.
 
 “Did I have to know all this before he could ask such a little thing?”
@@ -840,6 +826,6 @@ just supposed to invite her to tea.”
 We passed a barrier of dark trees, and then the façade of **Fifty-Ninth
 Street**, a block of delicate pale light, beamed down into the park.
 Unlike Gatsby and Tom Buchanan, I had no girl whose disembodied face
-floated along the dark cornices and blinding signs, and so I drew up
+floated along the dark cornices and **blinding signs**, and so I drew up
 the girl beside me, tightening my arms. Her wan, scornful mouth
 smiled, and so I drew her up again closer, this time to my face.

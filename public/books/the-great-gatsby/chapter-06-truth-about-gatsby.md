@@ -9,117 +9,110 @@ book_slug: "the-great-gatsby"
 license: "public-domain"
 
 summary:
-  - point: "A reporter visits Gatsby, intrigued by the rumors surrounding his life and fame."
+  - point: "A reporter visits Gatsby, intrigued by rumors of his mysterious past and growing notoriety."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
-  - point: "Gatsby's transformation from James Gatz to Jay Gatsby is revealed, rooted in his ambition and encounter with Dan Cody."
-    link: "https://en.wikipedia.org/wiki/Dan_Cody"
-    link_label: "Dan Cody"
-  - point: "Gatsby's past is shaped by his Platonic ideal of himself, striving for a grand and unattainable vision."
-    link: "https://en.wikipedia.org/wiki/Plato"
-    link_label: "Plato"
-  - point: "Tom Buchanan visits Gatsby's party, revealing tensions between Gatsby's world and Daisy's old-money sensibilities."
-    link: "https://en.wikipedia.org/wiki/Old_money"
-    link_label: "Old Money"
-  - point: "Gatsby expresses his belief that the past can be recreated, showcasing his obsessive devotion to Daisy."
+  - point: "Gatsby's transformation from James Gatz to Jay Gatsby is revealed, rooted in his idealized self-conception."
+    link: "https://en.wikipedia.org/wiki/Platonic_realism"
+    link_label: "Platonic conception"
+  - point: "Gatsby's brief stint at St. Olaf's College highlights his ambition and disdain for ordinary life."
+    link: "https://en.wikipedia.org/wiki/St._Olaf_College"
+    link_label: "St. Olaf College"
+  - point: "Dan Cody, a wealthy copper magnate, becomes Gatsby's mentor, shaping his vision of wealth and glamour."
+    link: "https://en.wikipedia.org/wiki/Yukon_Gold_Rush"
+    link_label: "Yukon Gold Rush"
+  - point: "Tom Buchanan's arrival at Gatsby's party introduces tension and underscores Daisy's discomfort with Gatsby's world."
+    link: "https://en.wikipedia.org/wiki/1920s_in_the_United_States"
+    link_label: "1920s social norms"
+  - point: "Gatsby's belief in recreating the past reveals his obsessive longing for Daisy and his idealized vision of their love."
     link: "https://en.wikipedia.org/wiki/Nostalgia"
     link_label: "Nostalgia"
-  - point: "Gatsby's kiss with Daisy symbolizes the merging of his dreams with reality, marking a pivotal moment in his life."
-    link: "https://en.wikipedia.org/wiki/Symbolism_(arts)"
-    link_label: "Symbolism"
 
 enhancements:
   - id: "underground-pipeline-to-canada"
     trigger: "underground pipeline to Canada"
-    title: "Was Gatsby Linked to Prohibition Smuggling?"
+    title: "Was Gatsby Smuggling Liquor Across Borders?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg/330px-Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Detroit police inspecting equipment found in a clandestine underground brewery during the prohibition era - NARA - 541928 (Public domain)"
-    content: "When Fitzgerald mentions the rumor of Gatsby's 'underground pipeline to Canada,' he taps into the era's fascination with bootlegging during Prohibition. Gatsby's mysterious wealth and extravagant lifestyle make him a prime candidate for such speculation. During Prohibition (1920–1933), smuggling alcohol from Canada became a lucrative business, with figures like Al Capone dominating the trade. The idea of Gatsby as a bootlegger aligns with the novel's themes of moral ambiguity and the corruption of the American Dream. By weaving this rumor into Gatsby's legend, Fitzgerald underscores the tension between Gatsby's idealized self-image and the sordid realities of his rise to wealth."
+    image_url: ""
+    image_caption: ""
+    content: "When Fitzgerald mentions the 'underground pipeline to Canada,' he taps into the Prohibition-era rumors that swirled around figures like Gatsby. During the 1920s, the United States banned the production and sale of alcohol, leading to a surge in bootlegging operations. Canada, where alcohol remained legal, became a key supplier for smugglers who transported liquor across the border via hidden routes, tunnels, and even boats disguised as fishing vessels. Gatsby's rumored pipeline evokes the shadowy glamour of this illicit trade, aligning him with the era's most notorious figures. But Fitzgerald's choice to make this rumor false is telling: Gatsby's wealth, though mysterious, is not rooted in the gritty realities of smuggling but in the shimmering illusions he creates. The rumor underscores the gap between Gatsby's constructed persona and the truth, deepening the novel's exploration of identity and deception."
   - id: "platonic-conception-of-himself"
     trigger: "Platonic conception of himself"
-    title: "How Plato’s Philosophy Shapes Gatsby’s Dream"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Plato"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/330px-Plato_Silanion_Musei_Capitolini_MC1377.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Plato Silanion Musei Capitolini MC1377 (Public domain)"
-    content: "Fitzgerald describes Gatsby as springing from a 'Platonic conception of himself,' a phrase that evokes Plato's theory of ideal forms. In Plato's philosophy, the physical world is a shadow of a higher, perfect reality. Gatsby embodies this idea by rejecting his humble origins and creating an idealized version of himself. This self-invention is both his strength and his tragedy. While it fuels his ambition, it also blinds him to the impossibility of achieving his dream. Fitzgerald uses this concept to explore the tension between aspiration and reality, a central theme of the novel."
+    title: "How Philosophy Shapes Gatsby's Self-Invention"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Platonic_realism"
+    image_url: ""
+    image_caption: ""
+    content: "Fitzgerald describes Gatsby as springing from a 'Platonic conception of himself,' a phrase that draws on the philosophy of Plato. Plato's theory of forms suggests that everything in the material world is an imperfect reflection of an ideal, eternal form. Gatsby, rejecting his humble origins, imagines an idealized version of himself—Jay Gatsby—and strives to embody it. This philosophical underpinning adds depth to Gatsby's transformation, framing it not as mere ambition but as a quest for transcendence. Yet, the irony is sharp: Gatsby's 'ideal' self is tied to wealth and superficial beauty, values that are themselves fleeting and flawed. By invoking Plato, Fitzgerald critiques the American Dream, suggesting that its pursuit often leads not to enlightenment but to disillusionment."
   - id: "lutheran-college-of-st-olafs"
     trigger: "Lutheran College of St. Olaf’s"
-    title: "Why Gatsby Left St. Olaf’s After Two Weeks"
+    title: "Why Gatsby Left College After Two Weeks"
     wikipedia_url: "https://en.wikipedia.org/wiki/St._Olaf_College"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Old-Main-St-Olaf-College-Northfield-Minnesota.jpg/330px-Old-Main-St-Olaf-College-Northfield-Minnesota.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Old Main, St. Olaf College, Northfield, Minnesota. June 2008. (CC BY-SA 3.0)"
-    content: "Gatsby’s brief stint at St. Olaf’s College reveals his disdain for the mundane realities of life. He left after two weeks, unable to reconcile the janitor’s work required to pay his tuition with his grand ambitions. St. Olaf’s, a real Lutheran college in Minnesota, was founded in 1874 and known for its rigorous academic and religious environment. Gatsby’s departure underscores his impatience with anything that doesn’t align with his vision of success. Fitzgerald uses this episode to highlight Gatsby’s relentless pursuit of an idealized future, even at the cost of practicality."
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby's brief stint at St. Olaf's College reveals much about his character and aspirations. Founded in 1874 by Norwegian immigrants, St. Olaf's is a small Lutheran college in Minnesota known for its emphasis on humility and hard work. Gatsby's decision to leave after just two weeks, dismayed by the janitorial work required to pay his tuition, highlights his disdain for ordinary labor and his belief that he is destined for greatness. This moment foreshadows his relentless pursuit of wealth and status, which he sees as the only path to his idealized self. Fitzgerald uses this episode to underscore the tension between Gatsby's lofty dreams and the mundane realities he refuses to accept, setting the stage for his eventual rise—and fall."
   - id: "ella-kaye"
     trigger: "Ella Kaye"
-    title: "The Woman Who Stole Gatsby’s Inheritance"
+    title: "The Woman Who Stole Gatsby's Inheritance"
     wikipedia_url: "https://en.wikipedia.org/wiki/Madame_de_Maintenon"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chicago_%28ILL%29%2C_downtown%2C_Oriental_Theatre%2C_1926%2C_Billy_Elliot_%284824262575%29.jpg/330px-Chicago_%28ILL%29%2C_downtown%2C_Oriental_Theatre%2C_1926%2C_Billy_Elliot_%284824262575%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Chicago (ILL), downtown, Oriental Theatre, 1926, Billy Elliot (4824262575) (CC BY 2.0)"
-    content: "Ella Kaye, the newspaper woman who manipulated Dan Cody, plays a pivotal role in Gatsby’s story. Fitzgerald likens her to Madame de Maintenon, a historical figure known for her influence over King Louis XIV. Ella Kaye’s legal maneuvering deprived Gatsby of the $25,000 inheritance Cody intended for him, leaving Gatsby with only the experience of wealth, not its substance. This loss shapes Gatsby’s obsession with achieving financial success on his own terms. Fitzgerald uses Ella Kaye to illustrate the ruthless forces that thwart Gatsby’s dreams, reinforcing the novel’s critique of the American Dream."
-  - id: "mr-sloane"
-    trigger: "Mr. Sloane"
-    title: "The Man Who Snubbed Gatsby’s Hospitality"
+    image_url: ""
+    image_caption: ""
+    content: "Ella Kaye, described as playing 'Madame de Maintenon' to Dan Cody, is a shadowy figure in Gatsby's backstory. Madame de Maintenon was the secret wife of King Louis XIV, known for her influence over the king and her controversial role in court politics. Fitzgerald's comparison suggests that Ella Kaye wielded similar manipulative power over Cody, ultimately securing his fortune for herself. Gatsby's failure to inherit Cody's wealth is a pivotal moment, leaving him with only the 'education' of observing Cody's lifestyle. This loss shapes Gatsby's obsession with creating his own fortune, driving his relentless pursuit of the American Dream. Ella Kaye's role serves as a reminder of the ruthless forces that often undermine idealism in Fitzgerald's world."
+  - id: "i-havent-got-a-horse"
+    trigger: "I haven’t got a horse"
+    title: "Why Gatsby’s Car Symbolizes His New Identity"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Automobile_in_the_United_States"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby admits, 'I haven’t got a horse,' he reveals a subtle divide between himself and Tom Buchanan's world. In the 1920s, horseback riding was a pastime associated with old-money aristocracy, while automobiles symbolized modernity and the rise of the nouveau riche. Gatsby's reliance on his car, rather than a horse, underscores his outsider status in the elite circles he aspires to join. Fitzgerald uses this detail to highlight the cultural and social tensions between Gatsby's self-made wealth and the inherited privilege of characters like Tom. The car, a recurring symbol in the novel, becomes a metaphor for Gatsby's ambition and the precariousness of his position in the world he longs to belong to."
+  - id: "peculiar-quality-of-oppressiveness"
+    trigger: "peculiar quality of oppressiveness"
+    title: "Why Gatsby’s Party Feels Different With Tom There"
     wikipedia_url: "https://en.wikipedia.org/wiki/Social_class_in_the_United_States"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/A_monument_of_working_class.JPG/330px-A_monument_of_working_class.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "A monument of working class (CC BY-SA 3.0)"
-    content: "Mr. Sloane’s dismissive attitude toward Gatsby highlights the social barriers Gatsby faces despite his wealth. Sloane, part of the old-money elite, represents the entrenched class prejudices of the era. His refusal to engage with Gatsby’s overtures of friendship underscores the divide between Gatsby’s nouveau riche status and the established aristocracy. Fitzgerald uses Sloane’s coldness to emphasize Gatsby’s outsider status and the futility of his attempts to integrate into Daisy’s world."
-  - id: "women-run-around-too-much"
-    trigger: "women run around too much"
-    title: "Tom Buchanan’s Fear of Modern Women"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Roaring_Twenties"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Baker_Charleston.jpg/330px-Baker_Charleston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Baker Charleston (Public domain)"
-    content: "Tom’s complaint that 'women run around too much' reflects his discomfort with the changing gender norms of the 1920s. The Roaring Twenties saw women embracing new freedoms, from flapper fashion to increased social mobility. Tom’s traditional views clash with Daisy’s independence and Gatsby’s romantic idealism. Fitzgerald uses Tom’s unease to explore the cultural tensions of the era, highlighting the novel’s themes of change and resistance."
+    image_url: ""
+    image_caption: ""
+    content: "Nick describes Gatsby's party as having a 'peculiar quality of oppressiveness' when Tom Buchanan attends, marking a shift in the atmosphere. Tom's presence introduces the judgmental gaze of old money, which clashes with the carefree, chaotic energy of Gatsby's gatherings. This tension reflects the broader theme of class conflict in the novel, as Gatsby's world of excess and flamboyance is scrutinized by the rigid standards of the established elite. Daisy's discomfort further amplifies the unease, as she struggles to reconcile her affection for Gatsby with her ingrained loyalty to Tom's world. Fitzgerald uses this moment to explore the fragility of Gatsby's dream and the societal barriers that ultimately doom his aspirations."
   - id: "the-polo-player"
     trigger: "the polo player"
-    title: "Why Gatsby Calls Tom ‘The Polo Player’"
+    title: "Tom Buchanan’s Unwanted Nickname at Gatsby’s Party"
     wikipedia_url: "https://en.wikipedia.org/wiki/Polo"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Varsity_Polo_2013.jpg/330px-Varsity_Polo_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Varsity Polo 2013 Oxford vs Cambridge with Lanto Sheridan playing for Oxford (CC BY-SA 3.0)"
-    content: "Gatsby’s nickname for Tom, 'the polo player,' is both a compliment and a subtle jab. Polo, a sport associated with wealth and exclusivity, underscores Tom’s old-money status. However, Gatsby’s use of the term also highlights Tom’s superficiality and reliance on inherited privilege. Fitzgerald uses this moment to contrast Gatsby’s self-made ambition with Tom’s entitlement, deepening the novel’s exploration of class dynamics."
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby introduces Tom as 'the polo player,' the nickname serves as a subtle jab at Tom's privileged background and his sense of entitlement. Polo, a sport historically associated with wealth and aristocracy, underscores Tom's old-money status and the divide between him and Gatsby's self-made fortune. Tom's discomfort with the label reflects his unease at being reduced to a stereotype, especially in a setting where Gatsby's guests represent the brash, unrefined energy of new money. Fitzgerald uses this moment to highlight the social tensions that permeate the novel, as characters navigate the shifting dynamics of class and identity in the Jazz Age."
   - id: "miss-baedeker"
     trigger: "Miss Baedeker"
-    title: "The Cocktail-Fueled Chaos of Gatsby’s Parties"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg/330px-Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Detroit police inspecting equipment found in a clandestine underground brewery during the prohibition era - NARA - 541928 (Public domain)"
-    content: "Miss Baedeker’s drunken antics at Gatsby’s party exemplify the excess and recklessness of the Jazz Age. Her behavior, including screaming and nearly drowning, reflects the era’s fascination with indulgence and the consequences of Prohibition. Gatsby’s parties, filled with uninvited guests and chaotic energy, serve as a microcosm of the societal upheaval of the 1920s. Fitzgerald uses Miss Baedeker to illustrate the emptiness behind the glittering facade of Gatsby’s world."
-  - id: "long-island-fishing-village"
-    trigger: "Long Island fishing village"
-    title: "How West Egg Became a Playground for the Rich"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Great_Neck,_New_York"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Middle_Neck_Road%2C_Great_Neck%2C_New_York.jpg/330px-Middle_Neck_Road%2C_Great_Neck%2C_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Middle Neck Road, Great Neck, New York (CC0)"
-    content: "Fitzgerald describes West Egg as a 'Long Island fishing village' transformed by Broadway’s influence. This evolution mirrors the real-life development of Great Neck, New York, which became a haven for wealthy Manhattanites in the early 20th century. The juxtaposition of its humble origins with its opulent present underscores the novel’s themes of transformation and the clash between old and new money. Gatsby’s mansion, a symbol of his aspirations, stands as a testament to this dramatic change."
+    title: "The Mystery of Miss Baedeker’s Cocktail Meltdown"
+    wikipedia_url: "https://en.wikipedia.org/wiki/1920s_in_the_United_States"
+    image_url: ""
+    image_caption: ""
+    content: "Miss Baedeker's drunken antics at Gatsby's party offer a glimpse into the chaotic excess of the Jazz Age. Her behavior, described as screaming after five or six cocktails, reflects the era's fascination with hedonism and the loosening of social norms. The mention of her near-drowning in New Jersey adds a darkly comic edge, hinting at the dangers lurking beneath the surface of Gatsby's glamorous world. Fitzgerald uses characters like Miss Baedeker to illustrate the emptiness and recklessness that often accompany wealth and privilege, contrasting sharply with Gatsby's idealized vision of success and love."
   - id: "three-oclock-in-the-morning"
     trigger: "Three O’Clock in the Morning"
-    title: "The Song That Captured Gatsby’s Melancholy"
+    title: "The Song That Captures Gatsby’s Romantic Longing"
     wikipedia_url: "https://en.wikipedia.org/wiki/Three_O%27Clock_in_the_Morning_(song)"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Three_O%27Clock_in_the_Morning_%281923%29_-_3.jpg/330px-Three_O%27Clock_in_the_Morning_%281923%29_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Three O'Clock in the Morning (1923) - 3 (Public domain)"
-    content: "The waltz 'Three O’Clock in the Morning,' playing as Daisy leaves Gatsby’s party, encapsulates the bittersweet mood of the evening. Written in 1921, the song became a hit for its haunting melody and lyrics about longing and loss. Its presence in the scene underscores Gatsby’s yearning for Daisy and the unattainable dream he chases. Fitzgerald uses the song to heighten the emotional resonance of Gatsby’s despair, linking the personal and the cultural."
+    image_url: ""
+    image_caption: ""
+    content: "As Daisy hears 'Three O’Clock in the Morning' drifting from Gatsby's party, the song becomes a poignant symbol of her conflicted emotions. Written in 1922, this waltz was a popular hit during the Jazz Age, known for its melancholic melody and lyrics about longing and separation. For Daisy, the song evokes the romantic possibilities of Gatsby's world, contrasting with the stifling conventions of her own life. Yet, the fleeting beauty of the music mirrors the ephemeral nature of Gatsby's dream, which hinges on recapturing a past that can never truly be restored. Fitzgerald uses the song to underscore the novel's themes of nostalgia and the unattainable ideal."
   - id: "cant-repeat-the-past"
     trigger: "Can’t repeat the past?"
-    title: "Why Gatsby Believes the Past Can Be Rewritten"
+    title: "Why Gatsby Believes He Can Rewrite History"
     wikipedia_url: "https://en.wikipedia.org/wiki/Nostalgia"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SaturdayEveningPost30Aug1924.jpg/330px-SaturdayEveningPost30Aug1924.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Saturday Evening Post Cover (30 Aug 1924) (Public domain)"
-    content: "Gatsby’s incredulous response to Nick’s assertion—'Can’t repeat the past?'—reveals his unwavering belief in the power of will and imagination. Gatsby’s entire life is built on recreating an idealized version of his youth with Daisy. This obsession with the past reflects the novel’s exploration of nostalgia and the dangers of living in illusions. Fitzgerald uses Gatsby’s determination to highlight the tragic futility of his dream and the impossibility of recapturing lost time."
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby exclaims, 'Can’t repeat the past? Why of course you can!' he reveals the depth of his obsession with Daisy and his belief in the power of will to overcome time. This moment encapsulates Gatsby's tragic flaw: his inability to accept the irreversibility of life. Nostalgia, a longing for an idealized past, drives Gatsby's every action, from his lavish parties to his relentless pursuit of Daisy. Yet, Fitzgerald suggests that this desire to recreate the past is both futile and destructive, as Gatsby's dream clashes with the realities of time, memory, and human imperfection. The line becomes a haunting refrain, echoing the novel's central theme of the impossibility of reclaiming lost moments."
+  - id: "forever"
+    trigger: "forever"
+    title: "The Kiss That Changed Gatsby’s Life"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Love"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby kisses Daisy 'forever,' Fitzgerald captures the transformative power of love and its ability to reshape identity. This moment marks the culmination of Gatsby's idealized vision of Daisy, as he binds his dreams to her 'perishable breath.' Yet, the word 'forever' carries an irony: Gatsby's love is rooted in a fleeting moment, a memory that he tries to preserve against the passage of time. Fitzgerald uses this kiss to explore the tension between permanence and impermanence, revealing the fragility of Gatsby's dream and the impossibility of achieving the eternal through human relationships."
   - id: "tuning-fork-that-had-been-struck-upon-a-star"
     trigger: "tuning-fork that had been struck upon a star"
-    title: "The Celestial Music of Gatsby’s Love"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Metaphor"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/George_Cruikshank_-_Very_unpleasant_Weather_%28retouched%29.jpg/330px-George_Cruikshank_-_Very_unpleasant_Weather_%28retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "George Cruikshank - Very unpleasant Weather (retouched) (Public domain)"
-    content: "Fitzgerald’s metaphor of the 'tuning-fork that had been struck upon a star' captures the transcendent quality of Gatsby’s love for Daisy. The image evokes a sense of cosmic harmony, suggesting that Gatsby’s feelings are both profound and unattainable. This poetic description underscores the novel’s themes of idealism and the gap between dreams and reality. By likening Gatsby’s emotions to celestial music, Fitzgerald elevates his love to a realm of mythic significance."
-  - id: "uncommunicable-forever"
-    trigger: "uncommunicable forever"
-    title: "The Words Nick Can Never Recover"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lost_generation"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/1906_Heuilley-cotton_%C3%A9cole_de_filles.jpg/330px-1906_Heuilley-cotton_%C3%A9cole_de_filles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Heuilley-Cotton école de filles. (CC BY-SA 4.0)"
-    content: "Nick’s reflection on the 'uncommunicable forever' speaks to the ineffable nature of Gatsby’s dream and the fleeting essence of human experience. This phrase resonates with the disillusionment of the Lost Generation, who grappled with the aftermath of World War I and the emptiness of modern life. Fitzgerald uses Nick’s inability to articulate his thoughts to emphasize the novel’s themes of longing and the limits of language in capturing profound truths."
+    title: "The Cosmic Symbolism of Gatsby’s Love for Daisy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Astronomy"
+    image_url: ""
+    image_caption: ""
+    content: "Fitzgerald's description of Gatsby's love as a 'tuning-fork that had been struck upon a star' evokes a sense of cosmic wonder and transcendence. The image suggests that Gatsby's feelings for Daisy resonate on a celestial level, elevating his passion to something divine and otherworldly. Yet, the metaphor also underscores the fragility of his dream, as stars are distant and untouchable, much like the idealized version of Daisy he pursues. Fitzgerald uses this poetic imagery to highlight the novel's themes of aspiration and disillusionment, as Gatsby's cosmic vision clashes with the harsh realities of life and love."
 ---
 About this time an ambitious young reporter from New York arrived one
 morning at Gatsby’s door and asked him if he had anything to say.
@@ -271,7 +264,7 @@ just a minute.”
 
 He was profoundly affected by the fact that Tom was there. But he
 would be uneasy anyhow until he had given them something, realizing in
-a vague way that that was all they came for. **Mr. Sloane** wanted
+a vague way that that was all they came for. Mr. Sloane wanted
 nothing. A lemonade? No, thanks. A little champagne? Nothing at all,
 thanks … I’m sorry—
 
@@ -344,7 +337,7 @@ Mr. Sloane murmured something close to her ear.
 
 “We won’t be late if we start now,” she insisted aloud.
 
-“I haven’t got a horse,” said Gatsby. “I used to ride in the army, but
+“**I haven’t got a horse**,” said Gatsby. “I used to ride in the army, but
 I’ve never bought a horse. I’ll have to follow you in my car. Excuse
 me for just a minute.”
 
@@ -358,7 +351,7 @@ doesn’t want him?”
 
 “She has a big dinner party and he won’t know a soul there.” He
 frowned. “I wonder where in the devil he met Daisy. By God, I may be
-old-fashioned in my ideas, but **women run around too much** these days to
+old-fashioned in my ideas, but women run around too much these days to
 suit me. They meet all kinds of crazy fish.”
 
 Suddenly Mr. Sloane and the lady walked down the steps and mounted
@@ -374,8 +367,8 @@ front door.
 
 Tom was evidently perturbed at Daisy’s running around alone, for on
 the following Saturday night he came with her to Gatsby’s
-party. Perhaps his presence gave the evening its peculiar quality of
-oppressiveness—it stands out in my memory from Gatsby’s other parties
+party. Perhaps his presence gave the evening its **peculiar quality of
+oppressiveness**—it stands out in my memory from Gatsby’s other parties
 that summer. There were the same people, or at least the same sort of
 people, the same profusion of champagne, the same many-coloured,
 many-keyed commotion, but I felt an unpleasantness in the air, a
@@ -499,8 +492,8 @@ degree and kiss at her cheek.
 
 But the rest offended her—and inarguably because it wasn’t a gesture
 but an emotion. She was appalled by West Egg, this unprecedented
-“place” that Broadway had begotten upon a **Long Island fishing
-village**—appalled by its raw vigour that chafed under the old
+“place” that Broadway had begotten upon a Long Island fishing
+village—appalled by its raw vigour that chafed under the old
 euphemisms and by the too obtrusive fate that herded its inhabitants
 along a shortcut from nothing to nothing. She saw something awful in
 the very simplicity she failed to understand.
@@ -518,7 +511,7 @@ bootlegger?”
 “Where’d you hear that?” I inquired.
 
 “I didn’t hear it. I imagined it. A lot of these newly rich people are
-just big bootleggers, you know.”
+just **big bootlegger**s, you know.”
 
 “Not Gatsby,” I said shortly.
 
@@ -640,7 +633,7 @@ climb to it, if he climbed alone, and once there he could suck on the
 pap of life, gulp down the incomparable milk of wonder.
 
 His heart beat faster as Daisy’s white face came up to his own. He
-knew that when he kissed this girl, and forever wed his unutterable
+knew that when he kissed this girl, and **forever** wed his unutterable
 visions to her perishable breath, his mind would never romp again like
 the mind of God. So he waited, listening for a moment longer to the
 **tuning-fork that had been struck upon a star**. Then he kissed her. At
@@ -653,4 +646,4 @@ that I had heard somewhere a long time ago. For a moment a phrase
 tried to take shape in my mouth and my lips parted like a dumb man’s,
 as though there was more struggling upon them than a wisp of startled
 air. But they made no sound, and what I had almost remembered was
-**uncommunicable forever**.
+uncommunicable forever.

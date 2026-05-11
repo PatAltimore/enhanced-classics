@@ -97,17 +97,18 @@ def _find_match(text: str, phrase: str) -> "tuple[int, int] | None":
         pos = idx + 1
 
     # Pass 2 — typography-normalised (1-to-1 char map keeps indices aligned)
+    # Always search norm_text: the text may have curly quotes/em dashes even
+    # when the model's phrase has straight equivalents (norm_phrase == phrase).
     norm_text = _norm(text)
     norm_phrase = _norm(phrase)
-    if norm_phrase != phrase:
-        pos = 0
-        while pos < len(norm_text):
-            idx = norm_text.find(norm_phrase, pos)
-            if idx == -1:
-                break
-            if _outside(idx):
-                return idx, idx + len(norm_phrase)
-            pos = idx + 1
+    pos = 0
+    while pos < len(norm_text):
+        idx = norm_text.find(norm_phrase, pos)
+        if idx == -1:
+            break
+        if _outside(idx):
+            return idx, idx + len(norm_phrase)
+        pos = idx + 1
 
     # Pass 3 — flexible whitespace (handles line-break splits)
     words = phrase.split()

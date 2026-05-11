@@ -9,138 +9,135 @@ book_slug: "the-great-gatsby"
 license: "public-domain"
 
 summary:
-  - point: "Nick Carraway reflects on his father's advice to reserve judgment, shaping his perspective on people and events."
+  - point: "Nick Carraway introduces himself as someone who reserves judgment, a trait shaped by his father's advice."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
-  - point: "Nick introduces Gatsby as a figure of romantic hope and sensitivity, contrasting him with the 'foul dust' of society."
-    link: "https://en.wikipedia.org/wiki/Jay_Gatsby"
-    link_label: "Jay Gatsby"
-  - point: "Nick recounts his family's history and his decision to move East after the Great War to pursue a career in bonds."
-    link: "https://en.wikipedia.org/wiki/World_War_I"
-    link_label: "World War I"
-  - point: "Nick describes the contrasting communities of West Egg and East Egg, setting the stage for the novel's exploration of class and wealth."
-    link: "https://en.wikipedia.org/wiki/Long_Island"
-    link_label: "Long Island"
-  - point: "Nick visits Tom and Daisy Buchanan's Georgian Colonial mansion, introducing their strained relationship and Daisy's cynicism."
+  - point: "Nick moves from the Midwest to West Egg, a less fashionable area near New York City, to pursue a career in bonds."
+    link: "https://en.wikipedia.org/wiki/West_Egg_and_East_Egg"
+    link_label: "West Egg and East Egg"
+  - point: "Nick describes Gatsby's mansion as a grand imitation of a French Hôtel de Ville, introducing Gatsby as a mysterious figure."
+    link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+    link_label: "F. Scott Fitzgerald"
+  - point: "Nick visits Tom and Daisy Buchanan in their Georgian Colonial mansion in East Egg, where tensions and secrets are hinted at."
     link: "https://en.wikipedia.org/wiki/Georgian_architecture"
     link_label: "Georgian architecture"
-  - point: "Nick observes Gatsby reaching toward a green light across the bay, symbolizing unattainable dreams and longing."
+  - point: "Nick observes Gatsby reaching out toward a green light across the bay, symbolizing unattainable dreams."
     link: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
     link_label: "Symbolism in The Great Gatsby"
 
 enhancements:
   - id: "reserve-all-judgements"
     trigger: "reserve all judgements"
-    title: "Why Nick's Judgment Shapes the Entire Story"
+    title: "Why Nick's Judgment Matters More Than You Think"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "Nick Carraway begins his narrative by sharing his father's advice to 'reserve all judgments,' a principle that has shaped his interactions with others. This habit allows Nick to observe the complexities of human behavior without immediate condemnation, making him a confidant to many, including Gatsby. Historically, the idea of withholding judgment has been a cornerstone of philosophical thought, from Socratic dialogue to modern psychology, emphasizing understanding over criticism. Yet, Nick's tolerance has limits, as he admits later in the chapter, revealing the tension between idealism and reality. Fitzgerald uses this trait to position Nick as both an observer and participant, allowing readers to see the moral ambiguities of the Jazz Age through a lens of cautious empathy."
+    content: "Nick Carraway begins his narrative by explaining his tendency to reserve judgment, a habit instilled by his father’s advice. This self-proclaimed tolerance opens doors to the confidences of others, but also makes him vulnerable to manipulation and deceit. In the context of the 1920s, a decade marked by moral ambiguity and excess, Nick’s restraint contrasts sharply with the flamboyant characters around him. Yet, as the story unfolds, his judgments—though delayed—carry immense weight. They shape the reader’s perception of Gatsby, Daisy, and Tom, and ultimately frame the novel’s moral compass. Fitzgerald uses Nick’s selective judgment to explore themes of hope, disillusionment, and the American Dream, making his perspective central to the story’s impact."
   - id: "abortive-sorrows"
     trigger: "abortive sorrows"
-    title: "What Are 'Abortive Sorrows' in Gatsby's World?"
+    title: "What Are 'Abortive Sorrows' Anyway?"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "Nick reflects on the 'abortive sorrows' and fleeting joys of men, contrasting them with Gatsby's enduring hope. This phrase captures the ephemeral nature of human emotions and ambitions, particularly in the restless, materialistic world of the 1920s. The term 'abortive' suggests failure or incompletion, hinting at the unfulfilled dreams that haunt many characters in the novel. Fitzgerald's choice of words underscores the novel's central theme: the tension between aspiration and reality. By juxtaposing Gatsby's romantic idealism with the transient sorrows of others, Nick highlights the unique tragedy of Gatsby's unwavering pursuit of his dream."
+    content: "Nick reflects on the fleeting and shallow emotions of the people he encounters, describing them as 'abortive sorrows' and 'short-winded elations.' This phrase captures the transient nature of the Jazz Age, a time when emotional depth was often sacrificed for surface-level pleasures. The term evokes a sense of incompleteness and futility, mirroring Gatsby’s own tragic pursuit of an idealized dream. Fitzgerald uses this language to critique the emptiness of the era’s social and moral fabric, setting the stage for the novel’s exploration of ambition, loss, and the cost of chasing illusions."
   - id: "the-great-war"
     trigger: "the Great War"
-    title: "How World War I Shaped Gatsby's Generation"
+    title: "How World War I Shaped Gatsby’s World"
     wikipedia_url: "https://en.wikipedia.org/wiki/World_War_I"
     image_url: ""
     image_caption: ""
-    content: "Nick mentions his participation in 'the Great War,' a pivotal event that profoundly shaped the characters and themes of 'The Great Gatsby.' World War I, known for its unprecedented scale and devastation, left a generation disillusioned and searching for meaning. The post-war era saw the rise of the Jazz Age, characterized by excess, rebellion, and a break from traditional values. For Nick, the war's aftermath fuels his restlessness and decision to move East, while for Gatsby, it becomes part of the mythology he constructs around himself. Fitzgerald uses the war as a backdrop to explore themes of loss, identity, and the pursuit of the American Dream in a fractured world."
+    content: "Nick mentions his participation in 'the Great War,' a reference to World War I, which profoundly shaped the world he inhabits. The war disrupted traditional social structures and ushered in an era of disillusionment and hedonism, epitomized by the Roaring Twenties. For Gatsby, the war was a turning point, providing him with the opportunity to reinvent himself and pursue wealth and status. Fitzgerald uses the war as a backdrop to explore themes of identity, ambition, and the societal shifts that define the Jazz Age. The war’s shadow looms over the characters, influencing their choices and highlighting the fragility of their dreams."
   - id: "long-island-sound"
     trigger: "Long Island Sound"
-    title: "The Real-Life Inspiration for Gatsby's Setting"
+    title: "The Body of Water That Divides Dreams"
     wikipedia_url: "https://en.wikipedia.org/wiki/Long_Island_Sound"
     image_url: ""
     image_caption: ""
-    content: "Nick describes the 'great wet barnyard' of Long Island Sound, a body of water separating West Egg and East Egg. This geographical feature is central to the novel's exploration of class divisions, with West Egg representing new money and East Egg old wealth. Long Island Sound has long been associated with affluence, hosting estates of the nation's elite during the Gilded Age. Fitzgerald's choice of setting reflects the social stratification of the 1920s, where proximity to wealth did not guarantee acceptance into its inner circles. The Sound becomes a metaphor for the barriers—both physical and social—that characters like Gatsby strive to overcome."
+    content: "Nick describes Long Island Sound as the body of water separating West Egg and East Egg, two contrasting worlds of wealth and aspiration. This geographical divide symbolizes the social and moral gulf between the nouveau riche, represented by Gatsby, and the old-money elite, embodied by Tom and Daisy. The Sound becomes a metaphor for the barriers that Gatsby faces in his quest to win Daisy’s love and achieve his dream. Fitzgerald’s use of this natural feature underscores the novel’s themes of class division, ambition, and the elusive nature of the American Dream."
   - id: "gatsby-s-mansion"
     trigger: "Gatsby’s mansion"
-    title: "Why Gatsby's Mansion Is More Than a House"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Jay_Gatsby"
-    image_url: ""
-    image_caption: ""
-    content: "Nick describes Gatsby's mansion as a 'colossal affair,' modeled after a French Hôtel de Ville. This opulent estate symbolizes Gatsby's ambition and his attempt to recreate the grandeur of old money. The mansion's extravagance reflects the excesses of the Jazz Age, but it also serves as a poignant reminder of Gatsby's outsider status. Despite his wealth, Gatsby's home is seen as 'spanking new,' lacking the history and pedigree of East Egg's estates. Fitzgerald uses the mansion to explore themes of identity, aspiration, and the illusion of belonging, making it a central symbol in the novel's critique of the American Dream."
-  - id: "daisy-s-murmur"
-    trigger: "Daisy’s murmur"
-    title: "The Power Hidden in Daisy's Voice"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Daisy_Buchanan"
-    image_url: ""
-    image_caption: ""
-    content: "Nick notes that Daisy's murmur compels people to lean toward her, capturing the allure of her voice. Throughout the novel, Daisy's voice is described as 'thrilling' and 'full of money,' symbolizing both her charm and her connection to wealth. Voices have long been used in literature to convey character traits, and Fitzgerald elevates Daisy's to a defining feature, making it a tool of manipulation and seduction. Her murmur reflects her ability to draw people into her orbit, while also hinting at the insincerity and emptiness beneath her captivating exterior. This detail deepens the reader's understanding of Daisy's role in Gatsby's tragic pursuit."
-  - id: "persistent-wail"
-    trigger: "persistent wail"
-    title: "What Does the 'Persistent Wail' Reveal?"
+    title: "The Mansion That Defines Gatsby’s Myth"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "Nick jokingly describes Chicago as desolate, with a 'persistent wail' along the north shore. This hyperbolic image captures the sense of loss and longing that permeates the novel. The 'wail' evokes the emotional undercurrents of the Jazz Age, where outward gaiety often masked inner despair. Fitzgerald's use of sound imagery here foreshadows the novel's exploration of unfulfilled desires and the haunting echoes of the past. By weaving this detail into Nick's conversation with Daisy, Fitzgerald subtly underscores the theme of yearning that drives both the characters and the narrative."
+    content: "Nick introduces Gatsby’s mansion as a 'colossal affair,' a grand imitation of a French Hôtel de Ville. This opulent residence reflects Gatsby’s ambition and his desire to impress Daisy, but it also highlights the artificiality of his wealth and status. The mansion serves as a physical manifestation of Gatsby’s dream, a space where he hosts extravagant parties in the hope of attracting Daisy’s attention. Fitzgerald uses the mansion to explore themes of illusion, materialism, and the gap between appearance and reality, making it a central symbol in the novel’s critique of the American Dream."
+  - id: "georgian-colonial-mansion"
+    trigger: "Georgian Colonial mansion"
+    title: "Why Tom and Daisy’s Mansion Matters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Georgian_architecture"
+    image_url: ""
+    image_caption: ""
+    content: "The Buchanan’s Georgian Colonial mansion is described as elaborate and imposing, reflecting their wealth and social status. This architectural style, popular among America’s elite, symbolizes stability and tradition, contrasting sharply with Gatsby’s flamboyant mansion. The house becomes a stage for the drama of the novel, embodying the privilege and moral decay of its inhabitants. Fitzgerald uses this setting to critique the emptiness of old-money aristocracy and to highlight the tension between appearance and substance in the lives of his characters."
+  - id: "sunken-italian-garden"
+    trigger: "sunken Italian garden"
+    title: "What’s Hidden in Tom’s Italian Garden?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Italian_garden"
+    image_url: ""
+    image_caption: ""
+    content: "Tom Buchanan’s sunken Italian garden is a detail that underscores his wealth and taste for European luxury. Italian gardens, characterized by symmetry and order, were symbols of refinement and control, qualities Tom seeks to project. However, this cultivated space contrasts with the chaos and moral ambiguity of his personal life. Fitzgerald uses the garden as a subtle critique of Tom’s superficiality, highlighting the disconnect between his outward sophistication and his inner brutishness. The garden becomes a metaphor for the façade of perfection that masks the flaws of the Buchanan household."
+  - id: "daisy-s-murmur"
+    trigger: "Daisy’s murmur"
+    title: "The Voice That Captivates Everyone Around Her"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Nick observes Daisy’s murmur, a soft, compelling way of speaking that draws people toward her. This vocal quality becomes one of Daisy’s defining traits, symbolizing her charm and the allure of wealth and privilege. Fitzgerald uses her voice to explore themes of manipulation and superficiality, as Daisy’s captivating presence often masks her insincerity and moral vacuity. Her murmur is not just a personal trait but a tool that reinforces her position in the social hierarchy, making her both irresistible and enigmatic."
+  - id: "persistent-wail"
+    trigger: "persistent wail"
+    title: "A Wail That Echoes Through Daisy’s World"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Nick jokingly describes a 'persistent wail' along Chicago’s north shore as part of Daisy’s imagined mourning. This playful exaggeration highlights Daisy’s theatricality and her tendency to romanticize her own importance. Fitzgerald uses moments like this to reveal the performative nature of Daisy’s character, where her charm and wit often serve as distractions from deeper truths. The 'wail' becomes a metaphor for the emotional emptiness that underpins her seemingly glamorous life, setting the stage for the novel’s exploration of illusion and reality."
   - id: "the-longest-day"
     trigger: "the longest day"
-    title: "Why Daisy Watches for the Longest Day"
+    title: "Why Daisy Always Misses the Longest Day"
     wikipedia_url: "https://en.wikipedia.org/wiki/Summer_solstice"
     image_url: ""
     image_caption: ""
-    content: "Daisy remarks on the longest day of the year, lamenting how she always watches for it but misses it. This fleeting moment symbolizes the passage of time and the ephemeral nature of happiness. The summer solstice, celebrated in many cultures, marks a peak of light and vitality, yet Daisy's inability to seize it reflects her deeper dissatisfaction. Fitzgerald uses this detail to highlight Daisy's disconnection from the world around her, as well as the novel's broader themes of missed opportunities and the elusiveness of fulfillment. Her comment becomes a poignant metaphor for the characters' struggles to grasp their dreams."
+    content: "Daisy remarks on her habit of watching for the longest day of the year and then missing it, a comment that encapsulates her sense of fleeting time and lost opportunities. The summer solstice, the longest day, symbolizes abundance and vitality, yet Daisy’s inability to seize it reflects her passivity and disconnection from meaningful experiences. Fitzgerald uses this detail to underscore Daisy’s role as a symbol of unfulfilled potential and the ephemeral nature of the dreams that drive the novel’s characters."
   - id: "the-rise-of-the-coloured-empires"
     trigger: "The Rise of the Coloured Empires"
-    title: "The Pseudoscience Behind Tom's Racist Rant"
+    title: "The Pseudoscience That Fueled Tom’s Racism"
     wikipedia_url: "https://en.wikipedia.org/wiki/Lothrop_Stoddard"
     image_url: ""
     image_caption: ""
-    content: "Tom Buchanan references 'The Rise of the Coloured Empires,' a book inspired by Lothrop Stoddard's racist theories. Stoddard's work, popular in the 1920s, promoted eugenics and white supremacy under the guise of scientific analysis. Tom's endorsement of these ideas reveals his deep-seated prejudices and fear of losing his privileged status. Fitzgerald uses this moment to critique the pseudo-intellectual racism that permeated elite circles during the Jazz Age. By exposing Tom's reliance on such ideas, the novel underscores the moral decay hidden beneath the veneer of wealth and sophistication, setting the stage for the conflicts that drive the story."
+    content: "Tom Buchanan references 'The Rise of the Coloured Empires,' a fictional book inspired by Lothrop Stoddard’s real-life work promoting white supremacy. This moment reveals Tom’s deep-seated racism and his belief in the superiority of the 'Nordic' race. Fitzgerald uses Tom’s pseudo-intellectualism to critique the prejudices and insecurities of the American elite, exposing the moral corruption that underpins their privilege. The book serves as a symbol of the toxic ideologies that permeate the social fabric of the Jazz Age, adding depth to the novel’s exploration of class and morality."
   - id: "nordics"
     trigger: "Nordics"
-    title: "Why Tom's Nordic Theory Is So Disturbing"
+    title: "Tom’s Obsession with Nordic Superiority"
     wikipedia_url: "https://en.wikipedia.org/wiki/Nordicism"
     image_url: ""
     image_caption: ""
-    content: "Tom declares that he and others are 'Nordics,' invoking a racial hierarchy popularized by Nordicism. This ideology, rooted in eugenics, claimed the superiority of Northern Europeans and justified exclusionary practices. Tom's fixation on this theory reveals his insecurity and need to assert dominance, even as his personal life crumbles. Fitzgerald uses Tom's rhetoric to critique the pseudo-scientific racism of the era, exposing the hypocrisy and moral emptiness of the wealthy elite. This moment also foreshadows the broader societal tensions that underpin the novel, highlighting the fragility of the American Dream in a divided world."
-  - id: "the-butler-s-nose"
-    trigger: "the butler’s nose"
-    title: "How Polishing Silver Ruined a Butler's Nose"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
-    image_url: ""
-    image_caption: ""
-    content: "Daisy shares a whimsical anecdote about the butler's nose, damaged by years of polishing silver. This seemingly trivial detail adds texture to the world of 'The Great Gatsby,' illustrating the peculiarities of wealth and its impact on those who serve it. The story hints at the physical toll of maintaining appearances, contrasting the effortless glamour of the Buchanans with the labor that sustains it. Fitzgerald uses such moments to subtly critique the class dynamics of the Jazz Age, revealing the hidden costs of privilege and the absurdities of a society obsessed with status and perfection."
-  - id: "some-woman-in-new-york"
-    trigger: "some woman in New York"
-    title: "The Scandal That Shadows Tom Buchanan"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
-    image_url: ""
-    image_caption: ""
-    content: "Miss Baker casually reveals that Tom has 'some woman in New York,' introducing the infidelity that will drive much of the novel's drama. This revelation exposes the moral decay beneath Tom's polished exterior and sets up the tension between him and Daisy. Affairs among the wealthy were common in the Jazz Age, reflecting the era's loosening social norms and pursuit of pleasure. Fitzgerald uses Tom's indiscretions to critique the emptiness of the elite's relationships, contrasting their superficial connections with Gatsby's idealized love for Daisy. This moment foreshadows the conflicts and betrayals that will unravel the characters' lives."
-  - id: "nightingale"
-    trigger: "nightingale"
-    title: "Why Daisy Imagines a Nightingale in America"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Nightingale"
-    image_url: ""
-    image_caption: ""
-    content: "Daisy whimsically suggests that a bird on the lawn might be a nightingale, evoking romance and nostalgia. Nightingales, celebrated in European literature and poetry, symbolize beauty, love, and longing. However, they are not native to America, making Daisy's comment both fanciful and ironic. Fitzgerald uses this detail to highlight Daisy's detachment from reality and her tendency to idealize the world around her. The imagined nightingale becomes a metaphor for the characters' pursuit of unattainable dreams, underscoring the novel's themes of illusion and disillusionment in the Jazz Age."
+    content: "Tom declares that he and the others are 'Nordics,' a term rooted in racial theories that idealized Northern Europeans. This belief in racial superiority reflects Tom’s arrogance and his need to justify his dominance in society. Fitzgerald uses this moment to critique the pseudo-scientific racism of the era, exposing the prejudices that shaped the attitudes of the wealthy elite. Tom’s invocation of 'Nordics' underscores the novel’s themes of privilege, ignorance, and the moral decay hidden beneath the surface of affluence."
   - id: "beautiful-little-fool"
     trigger: "beautiful little fool"
-    title: "Why Daisy Wishes Her Daughter to Be a Fool"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Daisy_Buchanan"
+    title: "Daisy’s Heartbreaking Wish for Her Daughter"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "Daisy confesses that she hopes her daughter will be a 'beautiful little fool,' reflecting her cynicism about women's roles in society. This statement captures the limited options available to women in the 1920s, where beauty and ignorance were often seen as virtues. Daisy's remark reveals her disillusionment with her own life, trapped in a loveless marriage and a world of superficiality. Fitzgerald uses this moment to critique the gender dynamics of the Jazz Age, highlighting the societal pressures that shape Daisy's choices and the broader theme of disillusionment that permeates the novel."
+    content: "Daisy expresses her hope that her daughter will be a 'beautiful little fool,' revealing her cynicism about the role of women in society. This poignant moment highlights Daisy’s awareness of the limitations imposed on women and her resignation to a world where beauty and ignorance are assets. Fitzgerald uses this line to critique the gender dynamics of the Jazz Age, exposing the societal pressures that shape Daisy’s choices and the broader themes of disillusionment and sacrifice in the novel."
+  - id: "stale-ideas"
+    trigger: "stale ideas"
+    title: "Why Tom’s Ideas Are Already Outdated"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    image_url: ""
+    image_caption: ""
+    content: "Nick observes Tom nibbling at the edge of 'stale ideas,' a phrase that captures the intellectual stagnation of the wealthy elite. Tom’s reliance on outdated and prejudiced beliefs reflects his inability to adapt to a changing world. Fitzgerald uses this detail to critique the moral and intellectual decay of the upper class, highlighting their resistance to progress and their reliance on privilege to maintain their status. The 'stale ideas' become a metaphor for the broader themes of disillusionment and the failure of the American Dream."
   - id: "green-light"
     trigger: "green light"
-    title: "Why Gatsby Reaches for the Green Light"
+    title: "The Light That Defines Gatsby’s Dream"
     wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "Nick observes Gatsby stretching his arms toward a 'green light,' a symbol of hope and longing. The light, located at the end of Daisy's dock, represents Gatsby's dream of rekindling their love and achieving his idealized vision of the future. Green, often associated with growth and renewal, takes on a bittersweet meaning here, highlighting the tension between aspiration and reality. Fitzgerald uses the green light as a central motif, encapsulating the novel's themes of ambition, illusion, and the relentless pursuit of the American Dream. Gatsby's gesture becomes a poignant image of yearning, setting the tone for the tragedy to come."
+    content: "Nick sees Gatsby reaching out toward a green light across the bay, a symbol of his unattainable dreams and his longing for Daisy. The green light represents hope, ambition, and the promise of a better future, but it also underscores the distance between Gatsby’s aspirations and reality. Fitzgerald uses this powerful image to explore themes of desire, illusion, and the relentless pursuit of the American Dream, making it one of the most iconic symbols in American literature."
   - id: "unquiet-darkness"
     trigger: "unquiet darkness"
-    title: "What Makes Gatsby's Darkness So 'Unquiet'?"
+    title: "What Lurks in Gatsby’s Unquiet Darkness?"
     wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     image_url: ""
     image_caption: ""
-    content: "Nick describes the night as 'unquiet darkness,' capturing the restless energy that defines Gatsby's world. This phrase evokes a sense of unease and anticipation, reflecting the novel's themes of longing and discontent. Darkness, often a symbol of mystery and the unknown, becomes 'unquiet' in Gatsby's case, hinting at the turmoil beneath his polished exterior. Fitzgerald uses this imagery to foreshadow the conflicts and revelations that will unfold, setting the stage for the novel's exploration of ambition, love, and the cost of chasing dreams. The 'unquiet darkness' becomes a metaphor for the restless pursuit of an ideal that may never be attained."
+    content: "Nick describes the night as 'unquiet darkness,' a phrase that captures the tension and mystery surrounding Gatsby. This evocative image reflects the restless energy of the novel’s characters and their unfulfilled desires. Fitzgerald uses the 'unquiet darkness' to set the mood for Gatsby’s enigmatic presence and to foreshadow the turmoil that will unfold. The phrase becomes a metaphor for the novel’s exploration of ambition, loss, and the haunting nature of dreams that remain just out of reach."
 ---
 In my younger and more vulnerable years my father gave me some advice
 that I’ve been turning over in my mind ever since.
@@ -346,11 +343,11 @@ We talked for a few minutes on the sunny porch.
 restlessly.
 
 Turning me around by one arm, he moved a broad flat hand along the
-front vista, including in its sweep a sunken Italian garden, a half
+front vista, including in its sweep a **sunken Italian garden**, a half
 acre of deep, pungent roses, and a snub-nosed motorboat that bumped
 the tide offshore.
 
-“It belonged to **Demaine, the oil man**.” He turned me around again,
+“It belonged to Demaine, the oil man.” He turned me around again,
 politely and abruptly. “We’ll go inside.”
 
 We walked through a high hallway into a bright rosy-coloured space,
@@ -582,7 +579,7 @@ left the porch Daisy seized upon the momentary interruption and leaned
 towards me.
 
 “I’ll tell you a family secret,” she whispered enthusiastically.
-“It’s about **the butler’s nose**. Do you want to hear about the butler’s
+“It’s about the butler’s nose. Do you want to hear about the butler’s
 nose?”
 
 “That’s why I came over tonight.”
@@ -635,7 +632,7 @@ mounted excitedly, and then ceased altogether.
 
 “I don’t.”
 
-“Why—” she said hesitantly. “Tom’s got **some woman in New York**.”
+“Why—” she said hesitantly. “**Tom’s got some woman** in New York.”
 
 “Got some woman?” I repeated blankly.
 
@@ -653,7 +650,7 @@ the table.
 She sat down, glanced searchingly at Miss Baker and then at me, and
 continued: “I looked outdoors for a minute, and it’s very romantic
 outdoors. There’s a bird on the lawn that I think must be a
-**nightingale** come over on the Cunard or White Star Line. He’s singing
+nightingale come over on the Cunard or White Star Line. He’s singing
 away—” Her voice sang: “It’s romantic, isn’t it, Tom?”
 
 “Very romantic,” he said, and then miserably to me: “If it’s light
@@ -679,7 +676,7 @@ Daisy around a chain of connecting verandas to the porch in front. In
 its deep gloom we sat down side by side on a wicker settee.
 
 Daisy took her face in her hands as if feeling its lovely shape, and
-her eyes moved gradually out into the velvet dusk. I saw that
+her eyes moved gradually out into the **velvet dusk**. I saw that
 turbulent emotions possessed her, so I asked what I thought would be
 some sedative questions about her little girl.
 
@@ -828,7 +825,7 @@ of the house, child in arms—but apparently there were no such
 intentions in her head. As for Tom, the fact that he “had some woman
 in New York” was really less surprising than that he had been
 depressed by a book. Something was making him nibble at the edge of
-stale ideas as if his sturdy physical egotism no longer nourished his
+**stale ideas** as if his sturdy physical egotism no longer nourished his
 peremptory heart.
 
 Already it was deep summer on roadhouse roofs and in front of wayside
