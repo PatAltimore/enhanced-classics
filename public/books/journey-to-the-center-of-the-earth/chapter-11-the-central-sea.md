@@ -9,131 +9,329 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "The explorers encounter the Central Sea, a vast underground body of water illuminated by phosphorescence."
-    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
-    link_label: "Journey to the Center of the Earth"
-  - point: "Professor Lidenbrock marvels at the primeval ocean, speculating about its significance for understanding the origins of life."
-    link: "https://en.wikipedia.org/wiki/Origin_of_life"
-    link_label: "origins of life"
-  - point: "The group prepares a raft using fossilized wood from a petrified forest to explore the subterranean sea."
-    link: "https://en.wikipedia.org/wiki/Petrified_forest"
-    link_label: "petrified forest"
-  - point: "Professor Lidenbrock theorizes about extinct creatures like ichthyosaurs and plesiosaurs possibly inhabiting the depths of the Central Sea."
-    link: "https://en.wikipedia.org/wiki/Mesozoic"
-    link_label: "Mesozoic"
-  - point: "The explorers encounter a massive geyser, which demonstrates volcanic activity and poses a significant danger."
-    link: "https://en.wikipedia.org/wiki/Geyser"
-    link_label: "geyser"
-  - point: "The chapter ends with the group camping near the Central Sea, pondering the mysteries and dangers of their journey."
-    link: "https://en.wikipedia.org/wiki/Subterranean_fiction"
-    link_label: "subterranean fiction"
+  - point: "The travelers arrive at Stapi, a small town surrounded by basaltic formations."
+    link: "https://en.wikipedia.org/wiki/Basalt"
+    link_label: "Basalt"
+  - point: "The narrator marvels at the geometric beauty of the basaltic columns, comparing them to famous formations like the Giant's Causeway."
+    link: "https://en.wikipedia.org/wiki/Giant%27s_Causeway"
+    link_label: "Giant's Causeway"
+  - point: "The group meets the local rector, who is also a blacksmith, and experiences his lack of hospitality."
+    link: "https://en.wikipedia.org/wiki/Clergy"
+    link_label: "Clergy"
+  - point: "The narrator worries about the dangers of descending into Sneffels, fearing volcanic eruptions."
+    link: "https://en.wikipedia.org/wiki/Volcanic_eruption"
+    link_label: "Volcanic eruption"
+  - point: "Professor Hardwigg reassures the narrator using scientific observations of volcanic activity, such as steam spouts."
+    link: "https://en.wikipedia.org/wiki/Volcanic_gas"
+    link_label: "Volcanic gas"
+  - point: "The group departs Stapi, paying an exorbitant bill for their stay, and begins their journey toward the crater."
+    link: "https://en.wikipedia.org/wiki/Icelandic_kr%C3%B3na"
+    link_label: "Icelandic currency"
 
 enhancements:
-  - id: "central-sea"
-    trigger: "Central Sea"
-    title: "The Central Sea's Mysteries"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+  - id: "giants-causeway-irelands-natural-masterpiece"
+    trigger: "Giant's Causeway"
+    title: "Ireland's Natural Masterpiece: A Basaltic Wonder"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Giant%27s_Causeway"
     image_url: ""
     image_caption: ""
-    content: "The Central Sea is a fictional subterranean ocean described in Jules Verne's 'Journey to the Center of the Earth.' It represents the unknown and the awe-inspiring mysteries of Earth's interior. This concept reflects 19th-century scientific curiosity about geology and paleontology, as well as the era's fascination with exploration and discovery."
-  - id: "primeval-ocean"
-    trigger: "primeval ocean"
-    title: "Primeval Oceans and Earth's History"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Origin_of_life"
+    content: "When the narrator marvels at the basaltic formations in Stapi, he recalls the legendary Giant's Causeway in Ireland. This natural wonder consists of around 40,000 interlocking basalt columns, formed by volcanic activity nearly 60 million years ago. According to Irish folklore, the causeway was built by the giant Finn McCool to challenge a rival across the sea. The scientific explanation is equally fascinating: the columns were created by the cooling and cracking of lava flows, resulting in their hexagonal shapes. Verne's reference to the Giant's Causeway underscores his fascination with the interplay between nature's artistry and geological forces. By evoking this famous site, he invites readers to see Iceland's basaltic formations not just as geological phenomena but as awe-inspiring works of natural architecture."
+  - id: "oval-openings-natures-thunderous-portals"
+    trigger: "oval openings"
+    title: "Nature's Thunderous Portals: The Oval Openings"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fjord"
     image_url: ""
     image_caption: ""
-    content: "The idea of a primeval ocean evokes the early conditions of Earth when life first began to emerge. Such environments are thought to have been rich in organic compounds, providing the setting for the chemical processes that led to the origin of life. Verne's depiction ties into scientific theories of abiogenesis and Earth's ancient history."
-  - id: "snaefellsjokull"
-    trigger: "Snæfellsjökull"
-    title: "Snæfellsjökull Volcano in Iceland"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
+    content: "The narrator describes the oval openings in the basaltic wall of the fjord, where waves crash through with thunderous force. These openings are a striking feature of Iceland's rugged coastline, shaped by the relentless power of the North Atlantic Ocean. Fjords, like the one at Stapi, are formed by glacial activity, where ice carves deep valleys that later fill with seawater. The oval openings add a dramatic touch, showcasing the interplay between volcanic rock and erosive water. Verne's vivid imagery transforms these geological features into symbols of nature's raw power and beauty, setting the stage for the travelers' descent into the Earth's depths."
+  - id: "sixty-marks-current-a-clergy-life-on-a-budget"
+    trigger: "sixty marks current"
+    title: "A Clergy Life on a Budget: Sixty Marks Current"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Icelandic_kr%C3%B3na"
     image_url: ""
     image_caption: ""
-    content: "Snæfellsjökull is a glacier-capped volcano in Iceland, famously used as the entry point to Earth's interior in Verne's novel. It has become a symbol of adventure and mystery, attracting tourists and literary enthusiasts alike. Its real-world geological significance adds depth to Verne's fictional narrative."
-  - id: "petrified-forest"
-    trigger: "petrified forest"
-    title: "Petrified Forests and Fossilized Wood"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Petrified_forest"
+    content: "The narrator notes the rector's meager income of sixty marks current, equivalent to about £3 10s sterling. This detail highlights the economic struggles of Icelandic clergy in the 19th century, who often had to take on multiple roles—blacksmith, fisherman, carpenter—to make ends meet. Iceland's isolation and harsh climate made self-sufficiency a necessity, even for those in religious positions. Verne's depiction of the rector as a jack-of-all-trades reflects the resilience and resourcefulness of Icelandic society, while also serving as a subtle critique of the Danish government's inadequate support for its remote territories."
+  - id: "eider-duck-hunter-the-man-who-never-forgets"
+    trigger: "eider-duck hunter"
+    title: "The Man Who Never Forgets: Hans the Eider-Duck Hunter"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eider_duck"
     image_url: ""
     image_caption: ""
-    content: "Petrified forests are formed when trees are buried under sediment and mineralized over time, turning wood into stone. These natural wonders provide insights into ancient ecosystems and geological processes. Verne's use of fossilized wood highlights the theme of deep time in the novel."
-  - id: "manometer"
-    trigger: "manometer"
-    title: "Manometers and Pressure Measurement"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Manometer"
+    content: "Hans, the stoic guide, is introduced as an eider-duck hunter, a profession tied to Iceland's unique ecology. Eider ducks are prized for their down, which is harvested from nests to create some of the world's warmest and lightest insulation. This sustainable practice has been a tradition in Iceland for centuries, with hunters carefully collecting down without harming the birds. Hans's calm demeanor and meticulous preparation reflect the qualities of his trade—patience, precision, and respect for nature. Verne uses Hans's character to embody the themes of survival and harmony with the environment, qualities essential for the perilous journey ahead."
+  - id: "labyrinth-of-subterraneous-galleries-icelands-hidden-worlds"
+    trigger: "labyrinth of subterraneous galleries"
+    title: "Iceland's Hidden Worlds: The Labyrinth Beneath Sneffels"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lava_tube"
     image_url: ""
     image_caption: ""
-    content: "A manometer is an instrument used to measure pressure, often in gases or liquids. In the context of Verne's story, it symbolizes the scientific tools that enable exploration and understanding of extreme environments. Such devices are crucial in both real-world geology and fictional adventures."
-  - id: "thermometer"
-    trigger: "thermometer"
-    title: "Thermometers in Scientific Exploration"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Thermometer"
+    content: "The narrator fears the labyrinth of subterraneous galleries beneath Sneffels, imagining a maze of volcanic tunnels. Lava tubes, formed by flowing lava that cools and solidifies on the surface while remaining molten underneath, are a real geological phenomenon. Iceland is home to many such formations, including the famous Raufarhólshellir cave. These underground networks are both fascinating and treacherous, with narrow passages and unstable rock. Verne's description taps into the human fascination with hidden worlds, using the labyrinth as a metaphor for the unknown and the dangers of exploration. It sets the tone for the journey's blend of scientific curiosity and existential dread."
+  - id: "spouts-of-steam-volcanos-breathing-signals"
+    trigger: "spouts of steam"
+    title: "Volcano's Breathing Signals: The Spouts of Steam"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Volcanic_gas"
     image_url: ""
     image_caption: ""
-    content: "Thermometers measure temperature and are essential in scientific studies of environmental conditions. In Verne's novel, they help the explorers understand the subterranean climate, emphasizing the importance of empirical data in discovery and survival."
-  - id: "carbonic-acid"
-    trigger: "carbonic acid"
-    title: "Carbonic Acid in Earth's Atmosphere"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Carbonic_acid"
+    content: "The narrator observes spouts of steam rising from the volcanic soil, a phenomenon known as fumaroles. These steam vents are caused by volcanic gases escaping through fissures in the Earth's crust, often accompanied by hot water. In Iceland, such geothermal activity is harnessed for energy, making the country a leader in renewable power. Professor Hardwigg uses the steam's behavior to predict volcanic activity, explaining that increased intensity signals an impending eruption. Verne's inclusion of this detail showcases his commitment to scientific accuracy while heightening the tension of the narrative. The steam becomes a symbol of the delicate balance between stability and chaos in the natural world."
+  - id: "elastic-fluids-the-hidden-force-of-eruptions"
+    trigger: "elastic fluids"
+    title: "The Hidden Force of Eruptions: Elastic Fluids"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Volcanic_gas"
     image_url: ""
     image_caption: ""
-    content: "Carbonic acid forms when carbon dioxide dissolves in water, playing a role in Earth's carbon cycle. Its presence in the Central Sea suggests unique chemical processes in the subterranean environment, aligning with Verne's speculative exploration of Earth's hidden realms."
-  - id: "ichthyosaurs"
-    trigger: "ichthyosaurs"
-    title: "Ichthyosaurs: Ancient Marine Reptiles"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ichthyosaur"
+    content: "Professor Hardwigg explains that elastic fluids, such as volcanic gases, play a crucial role in eruptions. These gases, trapped under pressure, can escape through fissures or explode violently when the tension becomes too great. Iceland's volcanic landscape is shaped by these forces, with eruptions creating new landforms and altering the environment. Verne's focus on elastic fluids reflects his fascination with the mechanics of nature, using scientific principles to build suspense. The concept serves as a reminder of humanity's vulnerability to the Earth's immense power, a theme that resonates throughout the novel."
+  - id: "rix-dollars-the-cost-of-icelandic-hospitality"
+    trigger: "rix-dollars"
+    title: "The Cost of Icelandic Hospitality: Rix-Dollars"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Danish_rigsdaler"
     image_url: ""
     image_caption: ""
-    content: "Ichthyosaurs were marine reptiles that lived during the Mesozoic era. Their fossilized remains provide valuable insights into prehistoric marine ecosystems. Verne's suggestion that such creatures might still exist in the Central Sea reflects 19th-century fascination with paleontology and the unknown."
-  - id: "plesiosaurs"
-    trigger: "plesiosaurs"
-    title: "Plesiosaurs: Long-Necked Marine Reptiles"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Plesiosaur"
-    image_url: ""
-    image_caption: ""
-    content: "Plesiosaurs were large marine reptiles known for their long necks and paddle-like limbs. They thrived during the Mesozoic era and are often associated with myths like the Loch Ness Monster. Verne's inclusion of plesiosaurs adds a sense of wonder and danger to the Central Sea."
-  - id: "geyser"
-    trigger: "geyser"
-    title: "Geysers and Volcanic Activity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Geyser"
-    image_url: ""
-    image_caption: ""
-    content: "Geysers are hot springs that periodically erupt, ejecting water and steam due to underground volcanic activity. They are geological marvels that provide insights into Earth's internal processes. The geyser in Verne's novel symbolizes both the beauty and peril of the subterranean world."
+    content: "The narrator mentions rix-dollars, the currency used in Denmark and its territories, including Iceland, during the 19th century. This silver-based currency was replaced by the Icelandic króna in the 20th century. The exorbitant bill presented by the rector and his wife highlights the travelers' frustration with Icelandic hospitality, contrasting the rugged beauty of the landscape with the harsh realities of human interaction. Verne uses this moment to inject humor and critique, showing how even in the midst of grand adventures, mundane annoyances persist. The rix-dollars become a symbol of the travelers' connection to the world above, soon to be left behind."
 ---
-The day began with an eerie silence, broken only by the steady drip-drip of water trickling down unseen fissures in the cavern walls. Our small party stood at the edge of the subterranean cliff, gazing out over the **Central Sea**, a vast expanse of water stretching beyond the limits of sight. Its surface shimmered faintly in the dim phosphorescence emanating from the mineral-laden walls and the peculiar, luminous vapors hanging in the air. It was as if a pale imitation of daylight had been conjured by the bowels of the earth, and yet, all around us lay the oppressive weight of deep time and unimaginable isolation.
+WE REACH MOUNT SNEFFELS--THE "REYKIR"
 
-Professor Lidenbrock, true to his indefatigable nature, was already pacing along the rocky ledge, his eyes alight with an excitement that bordered on mania. "Do you grasp the significance of this discovery, Axel?" he exclaimed, gesturing toward the slate-gray waters. "We stand upon the shore of a **primeval ocean**, untouched by the light of the sun and unmarked by the passage of millennia! This is a world that predates human existence—a world that might reveal secrets about the origins of life itself!"
 
-I, however, was less enthralled by the grandeur of the scene. Beneath the professor's enthusiasm lay a gnawing unease that had gripped me since we first descended into the crater of **Snæfellsjökull**. The air here was heavy, laden with minerals and strange smells that hinted at processes utterly alien to the surface world. The sea itself was unnervingly still, its glassy surface broken only by the occasional ripple, as if some unseen leviathan stirred beneath its depths.
+Stapi is a town consisting of thirty huts, built on a large plain of
+lava, exposed to the rays of the sun, reflected from the volcano. It
+stretches its humble tenements along the end of a little fjord,
+surrounded by a basaltic wall of the most singular character.
 
-Hans, our stoic guide, remained as impassive as ever, his weathered face betraying neither wonder nor fear. He busied himself with preparing the raft—a crude but sturdy vessel constructed from the fossilized wood we had found in the **petrified forest** several leagues back. It was astonishing how his hands, so accustomed to the tools of the Icelandic fisherman, seemed equally adept at crafting solutions for this otherworldly journey.
+Basalt is a brown rock of igneous origin. It assumes regular forms,
+which astonish by their singular appearance. Here we found Nature
+proceeding geometrically, and working quite after a human fashion, as if
+she had employed the plummet line, the compass and the rule. If
+elsewhere she produces grand artistic effects by piling up huge masses
+without order or connection--if elsewhere we see truncated cones,
+imperfect pyramids, with an odd succession of lines; here, as if wishing
+to give a lesson in regularity, and preceding the architects of the
+early ages, she has erected a severe order of architecture, which
+neither the splendors of Babylon nor the marvels of Greece ever
+surpassed.
 
-"Axel, come! Help us load the supplies!" barked the professor, jolting me from my reverie. I joined Hans in arranging the provisions: sacks of dried meat, water skins, and our precious scientific instruments, including the **manometer** and the **thermometer**, which had already proven indispensable in understanding the peculiar conditions of this underground realm.
+I had often heard of the **Giant's Causeway** in Ireland, and of Fingal's
+Cave in one of the Hebrides, but the grand spectacle of a real basaltic
+formation had never yet come before my eyes.
 
-As we pushed the raft into the water, the professor's enthusiasm reached a fever pitch. "Mark my words, Axel! This voyage will rival the expeditions of Magellan and Cook! The **Central Sea** shall be charted, its mysteries unraveled, and its shores cataloged in the annals of scientific history!"
+This at Stapi gave us an idea of one in all its wonderful beauty and
+grace.
 
-We climbed aboard, and Hans took up the oars, his movements steady and methodical. The raft glided across the surface with surprising ease, the water offering little resistance. The silence, however, was unnerving. No sound of waves lapping against the hull, no cry of seabirds overhead—only the faint creak of wood and the occasional echo that seemed to mock our intrusion into this ancient domain.
+The wall of the fjord, like nearly the whole of the peninsula, consisted
+of a series of vertical columns, in height about thirty feet. These
+upright pillars of stone, of the finest proportions, supported an
+archivault of horizontal columns which formed a kind of half-vaulted
+roof above the sea. At certain intervals, and below this natural basin,
+the eye was pleased and surprised by the sight of **oval openings** through
+which the outward waves came thundering in volleys of foam. Some banks
+of basalt, torn from their fastenings by the fury of the waves, lay
+scattered on the ground like the ruins of an ancient temple--ruins
+eternally young, over which the storms of ages swept without producing
+any perceptible effect!
 
-Hours passed as we drifted across the expansive waters, the monotony broken only by the professor's exclamations and observations. He noted the peculiar composition of the air, rich in **carbonic acid**, and speculated on the unusual fauna that might inhabit the depths. "Imagine, Axel," he mused, "creatures long thought extinct, preserved in the cradle of this primordial sea! Perhaps **ichthyosaurs** or **plesiosaurs** still roam beneath us, their forms unchanged since the dawn of the Mesozoic!"
+This was the last stage of our journey. Hans had brought us along with
+fidelity and intelligence, and I began to feel somewhat more comfortable
+when I reflected that he was to accompany us still farther on our way.
 
-I shuddered at the thought, my imagination conjuring monstrous shapes gliding silently through the dark waters below. Hans, as always, remained unperturbed, his focus fixed on the rhythmic motion of the oars.
+When we halted before the house of the Rector, a small and incommodious
+cabin, neither handsome nor more comfortable than those of his
+neighbors, I saw a man in the act of shoeing a horse, a hammer in his
+hand, and a leathern apron tied round his waist.
 
-As we ventured farther, the scenery began to change. The phosphorescent glow grew stronger, illuminating strange rock formations that rose from the water like ancient ruins. Some resembled the twisted spires of cathedrals, while others took the form of grotesque statues carved by the hand of time itself. The professor eagerly cataloged each sight, his notebook filling with sketches and hurried notes that would surely be indecipherable to anyone but himself.
+"Be happy," said the eider-down hunter, using his national salutation in
+his own language.
 
-Suddenly, Hans raised a hand, signaling us to halt. He pointed toward the horizon, where a faint shadow loomed in the distance. As we approached, the shadow resolved into a massive **geyser**, its plume of vapor rising hundreds of feet into the air before dissipating into the cavern's ceiling. The professor was beside himself with excitement, declaring it a "geological marvel of the first order."
+"God dag--good day!" replied the former, in excellent Danish.
 
-We steered the raft closer, and the sound of rushing water became deafening. The geyser erupted periodically, sending waves rippling across the surface and rocking our fragile vessel. I clung to the edge, my heart pounding as the professor leaned dangerously close to the geyser's edge, peering into its depths.
+"Kyrkoherde," cried Hans, turning round and introducing him to my uncle.
 
-"This must be a conduit connecting the sea to a vast subterranean reservoir!" he shouted over the roar. "The heat and pressure are extraordinary—surely a sign of volcanic activity far below!"
+"The Rector," repeated the worthy Professor; "it appears, my dear Harry,
+that this worthy man is the Rector, and is not above doing his own
+work."
 
-His words were abruptly cut off by a sharp crack from above. We looked up to see fragments of rock falling from the cavern ceiling, dislodged by the geyser's violent eruptions. Hans immediately began rowing, his movements swift and precise as he steered us away from the danger. The professor protested, but Hans's instincts proved correct, for moments later, a massive boulder crashed into the water where we had just been.
+During the speaking of these words the guide intimated to the Kyrkoherde
+what was the true state of the case. The good man, ceasing from his
+occupation, gave a kind of halloo, upon which a tall woman, almost a
+giantess, came out of the hut. She was at least six feet high, which in
+that region is something considerable.
 
-The incident left us shaken, and the professor reluctantly agreed to maintain a safer distance from the geyser. As we resumed our journey, the silence returned, though it now carried a palpable tension. The sea, once a source of wonder, had revealed its latent hostility, reminding us that we were trespassers in a world that did not welcome us.
+My first impression was one of horror. I thought she had come to give us
+the Icelandic kiss. I had, however, nothing to fear, for she did not
+even show much inclination to receive us into her house.
 
-Night—or what passed for night in this subterranean realm—fell as the phosphorescent glow dimmed. We anchored the raft near a rocky outcrop and set up camp, the flickering light of our lantern casting eerie shadows on the cavern walls. Hans prepared a simple meal, his calm demeanor a steadying presence amidst the professor's restless energy and my own growing anxiety.
+The room devoted to strangers appeared to me to be by far the worst in
+the presbytery; it was narrow, dirty and offensive. There was, however,
+no choice about the matter. The Rector had no notion of practicing the
+usual cordial and antique hospitality. Far from it. Before the day was
+over, I found we had to deal with a blacksmith, a fisherman, a hunter, a
+carpenter, anything but a clergyman. It must be said in his favor that
+we had caught him on a weekday; probably he appeared to greater
+advantage on the Sunday.
 
-As I lay on the hard surface of the raft, staring up at the cavern ceiling, I found myself pondering the enormity of our undertaking. The **Central Sea** was but one of the countless mysteries hidden within the Earth's depths. What other marvels—and dangers—awaited us on this journey? Would we ever see the surface again, the warm light of the sun and the familiar contours of the world above?
+These poor priests receive from the Danish Government a most
+ridiculously inadequate salary, and collect one quarter of the tithe of
+their parish--not more than **sixty marks current**, or about L3 10s.
+sterling. Hence the necessity of working to live. In truth, we soon
+found that our host did not count civility among the cardinal virtues.
 
-The professor, undeterred by such doubts, continued jotting notes by the lantern's light, his mind racing with theories and speculations. Hans, true to his nature, had already fallen asleep, his steady breathing a counterpoint to the professor's feverish scribbling.
+My uncle soon became aware of the kind of man he had to deal with.
+Instead of a worthy and learned scholar, he found a dull ill-mannered
+peasant. He therefore resolved to start on his great expedition as soon
+as possible. He did not care about fatigue, and resolved to spend a few
+days in the mountains.
 
-And so, we drifted into uneasy slumber, the raft gently rocking on the still waters of the **Central Sea**. The silence was broken only by the occasional drip of water and the distant rumble of unseen forces—a reminder that we were mere specks in the vast, unknowable expanse of the Earth's interior.
+The preparations for our departure were made the very next day after our
+arrival at Stapi; Hans now hired three Icelanders to take the place of
+the horses--which could no longer carry our luggage. When, however,
+these worthy islanders had reached the bottom of the crater, they were
+to go back and leave us to ourselves. This point was settled before they
+would agree to start.
+
+On this occasion, my uncle partly confided in Hans, the **eider-duck
+hunter**, and gave him to understand that it was his intention to continue
+his exploration of the volcano to the last possible limits.
+
+Hans listened calmly, and then nodded his head. To go there, or
+elsewhere, to bury himself in the bowels of the earth, or to travel over
+its summits, was all the same to him! As for me, amused and occupied by
+the incidents of travel, I had begun to forget the inevitable future;
+but now I was once more destined to realize the actual state of affairs.
+What was to be done? Run away? But if I really had intended to leave
+Professor Hardwigg to his fate, it should have been at Hamburg and not
+at the foot of Sneffels.
+
+One idea, above all others, began to trouble me: a very terrible idea,
+and one calculated to shake the nerves of a man even less sensitive than
+myself.
+
+"Let us consider the matter," I said to myself; "we are going to ascend
+the Sneffels mountain. Well and good. We are about to pay a visit to the
+very bottom of the crater. Good, still. Others have done it and did not
+perish from that course.
+
+"That, however, is not the whole matter to be considered. If a road does
+really present itself by which to descend into the dark and
+subterraneous bowels of Mother Earth, if this thrice unhappy Saknussemm
+has really told the truth, we shall be most certainly lost in the midst
+of the **labyrinth of subterraneous galleries** of the volcano. Now, we have
+no evidence to prove that Sneffels is really extinct. What proof have we
+that an eruption is not shortly about to take place? Because the monster
+has slept soundly since 1219, does it follow that he is never to wake?
+
+"If he does wake what is to become of us?"
+
+These were questions worth thinking about, and upon them I reflected
+long and deeply. I could not lie down in search of sleep without
+dreaming of eruptions. The more I thought, the more I objected to be
+reduced to the state of dross and ashes.
+
+I could stand it no longer; so I determined at last to submit the whole
+case to my uncle, in the most adroit manner possible, and under the form
+of some totally irreconcilable hypothesis.
+
+I sought him. I laid before him my fears, and then drew back in order to
+let him get his passion over at his ease.
+
+"I have been thinking about the matter," he said, in the quietest tone
+in the world.
+
+What did he mean? Was he at last about to listen to the voice of reason?
+Did he think of suspending his projects? It was almost too much
+happiness to be true.
+
+I however made no remark. In fact, I was only too anxious not to
+interrupt him, and allowed him to reflect at his leisure. After some
+moments he spoke out.
+
+"I have been thinking about the matter," he resumed. "Ever since we have
+been at Stapi, my mind has been almost solely occupied with the grave
+question which has been submitted to me by yourself--for nothing would
+be unwiser and more inconsistent than to act with imprudence."
+
+"I heartily agree with you, my dear uncle," was my somewhat hopeful
+rejoinder.
+
+"It is now six hundred years since Sneffels has spoken, but though now
+reduced to a state of utter silence, he may speak again. New volcanic
+eruptions are always preceded by perfectly well-known phenomena. I have
+closely examined the inhabitants of this region; I have carefully
+studied the soil, and I beg to tell you emphatically, my dear Harry,
+there will be no eruption at present."
+
+As I listened to his positive affirmations, I was stupefied and could
+say nothing.
+
+"I see you doubt my word," said my uncle; "follow me."
+
+I obeyed mechanically.
+
+Leaving the presbytery, the Professor took a road through an opening in
+the basaltic rock, which led far away from the sea. We were soon in open
+country, if we could give such a name to a place all covered with
+volcanic deposits. The whole land seemed crushed under the weight of
+enormous stones--of trap, of basalt, of granite, of lava, and of all
+other volcanic substances.
+
+I could see many **spouts of steam** rising in the air. These white vapors,
+called in the Icelandic language "reykir," come from hot water
+fountains, and indicate by their violence the volcanic activity of the
+soil. Now the sight of these appeared to justify my apprehension. I was,
+therefore, all the more surprised and mortified when my uncle thus
+addressed me.
+
+"You see all this smoke, Harry, my boy?"
+
+"Yes, sir."
+
+"Well, as long as you see them thus, you have nothing to fear from the
+volcano."
+
+"How can that be?"
+
+"Be careful to remember this," continued the Professor. "At the approach
+of an eruption these spouts of vapor redouble their activity--to
+disappear altogether during the period of volcanic eruption; for the
+**elastic fluids**, no longer having the necessary tension, seek refuge in
+the interior of the crater, instead of escaping through the fissures of
+the earth. If, then, the steam remains in its normal or habitual state,
+if their energy does not increase, and if you add to this, the remark
+that the wind is not replaced by heavy atmospheric pressure and dead
+calm, you may be quite sure that there is no fear of any immediate
+eruption."
+
+"But--"
+
+"Enough, my boy. When science has sent forth her fiat--it is only to
+hear and obey."
+
+I came back to the house quite downcast and disappointed. My uncle had
+completely defeated me with his scientific arguments. Nevertheless, I
+had still one hope, and that was, when once we were at the bottom of the
+crater, that it would be impossible in default of a gallery or tunnel,
+to descend any deeper; and this, despite all the learned Saknussemms in
+the world.
+
+I passed the whole of the following night with a nightmare on my chest!
+and, after unheard-of miseries and tortures, found myself in the very
+depths of the earth, from which I was suddenly launched into planetary
+space, under the form of an eruptive rock!
+
+Next day, June 23d, Hans calmly awaited us outside the presbytery with
+his three companions loaded with provisions, tools, and instruments. Two
+iron-shod poles, two guns, and two large game bags, were reserved for my
+uncle and myself. Hans, who was a man who never forgot even the minutest
+precautions, had added to our baggage a large skin full of water, as an
+addition to our gourds. This assured us water for eight days.
+
+It was nine o'clock in the morning when we were quite ready. The rector
+and his huge wife or servant, I never knew which, stood at the door to
+see us off. They appeared to be about to inflict on us the usual final
+kiss of the Icelanders. To our supreme astonishment their adieu took the
+shape of a formidable bill, in which they even counted the use of the
+pastoral house, really and truly the most abominable and dirty place I
+ever was in. The worthy couple cheated and robbed us like a Swiss
+innkeeper, and made us feel, by the sum we had to pay, the splendors of
+their hospitality.
+
+My uncle, however, paid without bargaining. A man who had made up his
+mind to undertake a voyage into the Interior of the Earth, is not the
+man to haggle over a few miserable **rix-dollars**.
+
+This important matter settled, Hans gave the signal for departure, and
+some few moments later we had left Stapi.

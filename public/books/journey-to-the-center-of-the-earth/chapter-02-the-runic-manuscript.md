@@ -9,161 +9,252 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "Professor Otto Lidenbrock discovers an ancient Icelandic tome containing a mysterious manuscript."
-    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
-    link_label: "Journey to the Center of the Earth"
-  - point: "The manuscript is written in runic script and attributed to Arne Saknussemm, a legendary Icelandic alchemist."
+  - point: "Professor Hardwigg discovers a mysterious parchment written in Runic glyphs and believes it contains a profound secret."
     link: "https://en.wikipedia.org/wiki/Runes"
-    link_label: "Runic script"
-  - point: "Axel and the professor decipher the manuscript, which describes a passage to the center of the Earth via Snæfellsjökull."
-    link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
-    link_label: "Snæfellsjökull"
-  - point: "The professor's enthusiasm for scientific exploration drives him to plan an expedition to follow Saknussemm's directions."
-    link: "https://en.wikipedia.org/wiki/Scientific_exploration"
-    link_label: "Scientific exploration"
-  - point: "Axel reluctantly agrees to join the professor on a perilous journey to uncover the secrets of subterranean worlds."
-    link: "https://en.wikipedia.org/wiki/Subterranean_fiction"
-    link_label: "Subterranean worlds"
-  - point: "The manuscript's cryptic cipher reveals the exact conditions needed to access the passage during the summer solstice."
-    link: "https://en.wikipedia.org/wiki/Summer_solstice"
-    link_label: "Summer solstice"
+    link_label: "Runic glyphs"
+  - point: "He deduces that the parchment is written in a southern dialect, possibly Latin, based on the proportion of vowels to consonants."
+    link: "https://en.wikipedia.org/wiki/Latin"
+    link_label: "Latin"
+  - point: "The name Arne Saknussemm is identified in the book, linking the cryptograph to a 16th-century Icelandic alchemist."
+    link: "https://en.wikipedia.org/wiki/Alchemy"
+    link_label: "alchemist"
+  - point: "Professor Hardwigg compares the cryptograph to Galileo's secrecy about his discoveries, emphasizing the mystery of hidden knowledge."
+    link: "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    link_label: "Galileo"
+  - point: "The professor theorizes that the cryptograph may follow a mathematical plan, suggesting a deliberate arrangement of letters."
+    link: "https://en.wikipedia.org/wiki/Cryptography"
+    link_label: "mathematical plan"
+  - point: "Frustrated by his inability to decode the cryptograph, Professor Hardwigg storms out in a towering passion."
+    link: "https://en.wikipedia.org/wiki/Anger"
+    link_label: "towering passion"
 
 enhancements:
-  - id: "professor-otto-lidenbrock"
-    trigger: "Professor Otto Lidenbrock"
-    title: "Professor Otto Lidenbrock's Character"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
-    image_url: ""
-    image_caption: ""
-    content: "Professor Otto Lidenbrock is one of the central characters in Jules Verne's novel. His unyielding passion for science and exploration drives the narrative forward, showcasing the Victorian era's fascination with discovery and intellectual pursuit. His determination and eccentricity embody the spirit of scientific inquiry, making him a compelling figure in the story."
-  - id: "tablets-of-moses"
-    trigger: "tablets of Moses"
-    title: "The Tablets of Moses"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ten_Commandments"
-    image_url: ""
-    image_caption: ""
-    content: "The tablets of Moses refer to the Ten Commandments, which, according to biblical tradition, were inscribed by God and given to Moses on Mount Sinai. This comparison underscores the professor's reverence for the manuscript, likening its significance to a divine revelation."
-  - id: "runic-script"
-    trigger: "runic script"
-    title: "Runic Script and Its History"
+  - id: "runic-glyphs-origin-and-mystical-legacy"
+    trigger: "Runic Glyphs"
+    title: "Runes: Ancient Symbols of Mystery and Power"
     wikipedia_url: "https://en.wikipedia.org/wiki/Runes"
     image_url: ""
     image_caption: ""
-    content: "Runic script is an ancient writing system used by Germanic peoples, including the Norse and Anglo-Saxons. Its angular characters were often carved into wood or stone. In the novel, the runic manuscript adds an air of mystery and authenticity, connecting the story to historical traditions."
-  - id: "arne-saknussemm"
+    content: "When Professor Hardwigg declares the parchment to be written in Runic glyphs, he taps into a tradition steeped in mystery and ancient lore. Runes were used by Germanic peoples for writing, divination, and magical purposes, with their origins tracing back to the 2nd century CE. These angular characters were designed to be carved into wood or stone, making them durable but enigmatic. What many readers may not know is that runes were often believed to hold mystical powers, capable of invoking protection or foretelling the future. By associating the cryptograph with runes, Verne ties the story to a tradition of hidden knowledge and ancient wisdom. This choice amplifies the sense of discovery and adventure, suggesting that the secrets of the Earth itself might be encoded in these ancient symbols."
+  - id: "icelandic-language-and-its-evolution"
+    trigger: "the Icelandic language"
+    title: "How Icelandic Preserves Its Medieval Roots"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Icelandic_language"
+    image_url: ""
+    image_caption: ""
+    content: "Professor Hardwigg notes that the double M in the cryptograph was added to the Icelandic language in the 12th century, dating the parchment to a later period. Icelandic is unique among modern languages for its remarkable preservation of medieval grammar and vocabulary, making texts from centuries past still comprehensible to contemporary speakers. This linguistic stability is partly due to Iceland's geographic isolation and cultural emphasis on maintaining its literary heritage. By anchoring the cryptograph in Icelandic history, Verne evokes a sense of timelessness and continuity, suggesting that the secrets of the past are not lost but waiting to be rediscovered."
+  - id: "arne-saknussemm-alchemist-and-explorer"
     trigger: "Arne Saknussemm"
-    title: "Arne Saknussemm: Fictional Alchemist"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    title: "Was Saknussemm a Real Historical Figure?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alchemy"
     image_url: ""
     image_caption: ""
-    content: "Arne Saknussemm is a fictional Icelandic alchemist and explorer created by Jules Verne. His inclusion in the story ties the narrative to themes of forbidden knowledge and the pursuit of scientific discovery, reflecting the era's fascination with alchemy and exploration."
-  - id: "center-of-the-earth"
-    trigger: "center of the Earth"
-    title: "The Concept of Earth's Center"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    content: "When Professor Hardwigg triumphantly identifies the name Arne Saknussemm, he connects the cryptograph to a 16th-century Icelandic alchemist. While Saknussemm is fictional, Verne’s invocation of alchemy ties the story to a fascinating historical tradition. Alchemists like Paracelsus and Avicenna sought to transform base metals into gold and discover the elixir of life, blending science, mysticism, and philosophy. Their work laid the groundwork for modern chemistry, even as their methods were shrouded in secrecy. By attributing the cryptograph to an alchemist, Verne imbues the narrative with an air of arcane knowledge and the promise of transformative discovery, mirroring the journey to the Earth’s core."
+  - id: "galileo-and-the-secrecy-of-scientific-discovery"
+    trigger: "Galileo"
+    title: "Why Galileo Kept Saturn’s Secrets Hidden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Galileo_Galilei"
     image_url: ""
     image_caption: ""
-    content: "The idea of traveling to the Earth's center has captivated imaginations for centuries, blending scientific curiosity with fantastical elements. Verne's novel popularized this concept, inspiring generations of readers and influencing the genre of speculative fiction."
-  - id: "subterranean-worlds"
-    trigger: "subterranean worlds"
-    title: "Subterranean Worlds in Literature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Subterranean_fiction"
+    content: "Professor Hardwigg compares the cryptograph’s secrecy to Galileo’s decision to keep his discoveries about Saturn private. Galileo, one of history’s greatest astronomers, observed Saturn’s rings in 1610 but described them cryptically as \"ears\" due to the limitations of his telescope. He often encoded his findings in anagrams to protect them from rivals. This anecdote underscores the tension between sharing knowledge and safeguarding it, a theme that resonates throughout Verne’s novel. By invoking Galileo, Verne suggests that the cryptograph might hold revolutionary insights, hidden not out of selfishness but to preserve their integrity until the right mind could unlock them."
+  - id: "southern-dialect-and-latin-connection"
+    trigger: "southern dialect"
+    title: "Why Latin Dominated the Language of Scholars"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Latin"
     image_url: ""
     image_caption: ""
-    content: "Subterranean worlds have been a recurring theme in literature, symbolizing hidden knowledge and uncharted territories. Jules Verne's depiction of a journey beneath the Earth's surface reflects humanity's enduring fascination with the unknown and the possibility of alternate realities."
-  - id: "linguistic-keys"
-    trigger: "linguistic keys"
-    title: "Linguistic Keys and Cryptography"
+    content: "Professor Hardwigg theorizes that the cryptograph’s proportions of vowels and consonants suggest a southern dialect, likely Latin. Latin was the lingua franca of educated Europeans for centuries, used in science, philosophy, and religion. Its precision and universality made it ideal for scholarly communication across borders. What many readers may not realize is that Latin persisted as the language of academia well into the 19th century, long after it ceased to be spoken conversationally. By linking the cryptograph to Latin, Verne situates the mystery within a tradition of intellectual rigor, suggesting that the secrets it holds are not just ancient but profoundly learned."
+  - id: "barbarous-latin-and-its-surprising-legacy"
+    trigger: "Barbarous Latin"
+    title: "How ‘Barbarous Latin’ Shaped Modern Languages"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Latin"
+    image_url: ""
+    image_caption: ""
+    content: "Professor Hardwigg speculates that the cryptograph might be written in \"barbarous Latin,\" a term used to describe the simplified and altered Latin of medieval Europe. This form of Latin was often mixed with local dialects, giving rise to the Romance languages we know today, such as French, Spanish, and Italian. What many readers may not know is that \"barbarous Latin\" was a practical adaptation, allowing communication across diverse regions and social classes. By suggesting the cryptograph is written in this form, Verne hints at a blend of high scholarship and accessible ingenuity, reflecting the novel’s theme of bridging the known and the unknown."
+  - id: "mathematical-plan-in-cryptography"
+    trigger: "mathematical plan"
+    title: "How Math Unlocks the Secrets of Codes"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cryptography"
     image_url: ""
     image_caption: ""
-    content: "The concept of linguistic keys relates to cryptography, the art of encoding and decoding information. In the novel, deciphering the manuscript's cipher highlights the intellectual challenges of exploration and the importance of language in unlocking secrets."
-  - id: "snæfellsjökull"
-    trigger: "Snæfellsjökull"
-    title: "Snæfellsjökull Volcano"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
+    content: "Professor Hardwigg hypothesizes that the cryptograph might follow a mathematical plan, suggesting a deliberate arrangement of letters. Cryptography, the art of encoding and decoding information, has relied on mathematical principles for centuries, from Caesar ciphers to modern encryption algorithms. What many readers may not realize is that cryptography has shaped history, influencing everything from wartime strategy to digital security. By proposing a mathematical structure, Verne aligns the cryptograph with a tradition of intellectual puzzles, emphasizing the interplay between logic and mystery. This reinforces the novel’s central tension: the quest to uncover hidden truths through both intuition and methodical reasoning."
+  - id: "towering-passion-and-verne-s-characterization"
+    trigger: "towering passion"
+    title: "Why Verne’s Characters Burn With Obsession"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Anger"
     image_url: ""
     image_caption: ""
-    content: "Snæfellsjökull is a real glacier-covered volcano in Iceland, famously featured in Verne's novel as the gateway to the Earth's center. Its dramatic landscape and geological significance make it a fitting setting for the story's fantastical journey."
-  - id: "summer-solstice"
-    trigger: "summer solstice"
-    title: "The Summer Solstice"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Summer_solstice"
-    image_url: ""
-    image_caption: ""
-    content: "The summer solstice, the longest day of the year, plays a crucial role in the novel's plot. Its mention in the manuscript ties the journey to natural phenomena, emphasizing the interplay between science and the environment in Verne's storytelling."
-  - id: "scientific-exploration"
-    trigger: "scientific exploration"
-    title: "The Spirit of Scientific Exploration"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Scientific_exploration"
-    image_url: ""
-    image_caption: ""
-    content: "Scientific exploration embodies humanity's quest for knowledge and understanding. In Verne's novel, the professor's determination to uncover the Earth's secrets reflects the 19th-century enthusiasm for discovery and the belief in science as a means to transcend boundaries."
+    content: "Professor Hardwigg’s towering passion, culminating in his dramatic exit, is emblematic of Verne’s characterization. Verne often imbues his protagonists with obsessive zeal, driving them to pursue knowledge or adventure at all costs. This intensity mirrors the spirit of 19th-century scientific exploration, where breakthroughs were fueled by relentless curiosity and personal sacrifice. What many readers may not realize is that Verne’s characters often reflect real historical figures, such as explorers and inventors, whose passions shaped the modern world. Hardwigg’s fiery determination underscores the novel’s theme: the pursuit of discovery is not just intellectual but deeply emotional, a force that propels humanity forward."
 ---
-It was a quiet afternoon in the professor's study, a room where time itself seemed suspended amidst the clutter of volumes, manuscripts, and scientific instruments. The air was heavy with the scent of old parchment and ink, the light filtering dimly through curtains as though reluctant to disturb the sanctuary of knowledge. My uncle, **Professor Otto Lidenbrock**, sat hunched over a newly acquired treasure: an ancient Icelandic tome, bound in leather so worn it seemed to whisper tales of centuries past. He had obtained it only that morning from an obscure bookseller, and his excitement had not waned since.
+THE MYSTERIOUS PARCHMENT
 
-I stood nearby, feigning interest in a geological specimen—a lump of basalt—while my thoughts wandered elsewhere. The professor’s fervor for his studies, though admirable, often left me yearning for simpler pursuits. Yet, I knew better than to interrupt him. His passion for science was as unyielding as the basalt I held in my hand.
 
-“Axel!” he cried suddenly, his voice sharp enough to make the windowpanes tremble. I turned with a start, and there he was, holding the book aloft as though it were the **tablets of Moses**, his eyes gleaming behind his round spectacles. “Do you know what this is?”
+[Illustration: **Runic Glyphs**]
 
-“A book,” I replied, somewhat cautiously.
+"I Declare," cried my uncle, striking the table fiercely with his fist,
+"I declare to you it is Runic--and contains some wonderful secret, which
+I must get at, at any price."
 
-“Not just a book!” he exclaimed, flipping through pages of dense **runic script**. “This is the ‘Heims Kringla,’ a chronicle of Icelandic sagas written by Snorri Sturluson himself. But more importantly”—his voice dropped to a conspiratorial whisper—“hidden within these pages lies something extraordinary.”
+I was about to reply when he stopped me.
 
-I raised an eyebrow. The professor often spoke of extraordinary things, many of which turned out to be more ordinary than he cared to admit. “What have you found?”
+"Sit down," he said, quite fiercely, "and write to my dictation."
 
-He pointed to a loose sheet of parchment folded neatly within the book. It was yellowed and brittle, the edges frayed as though it had weathered untold storms. “This!” he declared. “A manuscript written in **runic characters**, no doubt by **Arne Saknussemm**, the famous Icelandic alchemist and explorer.”
+I obeyed.
 
-“Saknussemm?” The name struck a chord, its syllables heavy with legend and mystery. “Wasn’t he accused of heresy and his works destroyed?”
+"I will substitute," he said, "a letter of our alphabet for that of the
+Runic: we will then see what that will produce. Now, begin and make no
+mistakes."
 
-“Precisely!” the professor said, his enthusiasm growing. “But clearly not all of his writings were lost. This manuscript may contain secrets that have eluded scholars for centuries. Help me decipher it.”
+The dictation commenced with the following incomprehensible result:
 
-I reluctantly approached, peering over his shoulder at the jumble of angular symbols. Though I had some familiarity with ancient languages, runic script was a puzzle I had little desire to solve. “It could take weeks,” I muttered, hoping to dissuade him.
 
-“Nonsense!” he barked. “With your help, we’ll have it translated in no time.”
+     mm.rnlls esruel seecJde
+     sgtssmf unteief niedrke
+     kt,samn atrateS Saodrrn
+     emtnaeI nuaect  rrilSa
+     Atvaar  .nscrc  ieaabs
+     ccdrmi  eeutul  frantu
+     dt,iac  oseibo  KediiY
 
-And so began the arduous task. Hour after hour, we worked in silence, the professor muttering to himself while I scribbled notes, my mind growing wearier with each passing minute. The runes were unlike anything I had encountered—cryptic, almost defiant in their refusal to yield meaning. Yet, the professor’s determination was unwavering. He spoke of **linguistic keys**, patterns within patterns, as though unlocking the manuscript was a mathematical equation waiting to be solved.
 
-By twilight, our efforts had borne fruit. I had managed to translate a few words, though their arrangement made little sense: “center,” “earth,” “journey.” The professor, however, was undeterred. “We’re close!” he insisted, his voice tinged with triumph. “Don’t you see, Axel? This is no ordinary manuscript. It’s a guide!”
+Scarcely giving me time to finish, my uncle snatched the document from
+my hands and examined it with the most rapt and deep attention.
 
-“A guide to what?” I asked, my patience fraying.
+"I should like to know what it means," he said, after a long period.
 
-“To the **center of the Earth**!” he exclaimed, his words hanging in the air like thunder. “Saknussemm must have discovered a passage leading into the planet’s depths, and this manuscript contains the directions to find it!”
+I certainly could not tell him, nor did he expect me to--his
+conversation being uniformly answered by himself.
 
-I stared at him, incredulous. “You can’t possibly believe that. It’s absurd.”
+"I declare it puts me in mind of a cryptograph," he cried, "unless,
+indeed, the letters have been written without any real meaning; and yet
+why take so much trouble? Who knows but I may be on the verge of some
+great discovery?"
 
-“Absurd?” His face darkened, his brows knitting together in indignation. “Science has always been accused of absurdity, yet it marches onward, defying ignorance and fear. Do you doubt the existence of **subterranean worlds**, Axel?”
+My candid opinion was that it was all rubbish! But this opinion I kept
+carefully to myself, as my uncle's choler was not pleasant to bear. All
+this time he was comparing the book with the parchment.
 
-I hesitated. The idea was fantastical, but so was much of what the professor espoused. “I doubt the feasibility of such a journey,” I said carefully. “Even if Saknussemm’s passage exists, how could one survive the heat, the pressure?”
+"The manuscript volume and the smaller document are written in different
+hands," he said, "the cryptograph is of much later date than the book;
+there is an undoubted proof of the correctness of my surmise. [An
+irrefragable proof I took it to be.] The first letter is a double M,
+which was only added to **the Icelandic language** in the twelfth
+century--this makes the parchment two hundred years posterior to the
+volume."
 
-He waved off my concerns as though swatting at a fly. “Details! Mere details! The question is not whether it’s possible but whether we have the courage to attempt it. And I, for one, do.”
+The circumstances appeared very probable and very logical, but it was
+all surmise to me.
 
-Before I could argue further, he thrust the manuscript into my hands. “Continue translating. The answers are here, Axel. We must find them!”
+"To me it appears probable that this sentence was written by some owner
+of the book. Now who was the owner, is the next important question.
+Perhaps by great good luck it may be written somewhere in the volume."
 
-I sighed, resigning myself to the task. As night fell, the room grew colder, the glow of the lamp casting long shadows across the walls. The professor paced like a caged lion, his energy seemingly inexhaustible, while I labored over the runes, my vision blurring with fatigue. Finally, after what felt like an eternity, I deciphered the last of the text.
+With these words Professor Hardwigg took off his spectacles, and, taking
+a powerful magnifying glass, examined the book carefully.
 
-“It’s a poem,” I said, handing him my notes. “Or at least it reads like one.”
+On the fly leaf was what appeared to be a blot of ink, but on
+examination proved to be a line of writing almost effaced by time. This
+was what he sought; and, after some considerable time, he made out these
+letters:
 
-He snatched the paper eagerly, his lips moving silently as he read. Then, as if struck by lightning, he cried out, “Of course! It’s a cipher!”
+[Illustration: Runic Glyphs]
 
-“A cipher?” I repeated, my heart sinking.
+"**Arne Saknussemm**!" he cried in a joyous and triumphant tone, "that is
+not only an Icelandic name, but of a learned professor of the sixteenth
+century, a celebrated alchemist."
 
-“Yes! The words are encoded. Rearrange them, and they reveal a message. Quickly, Axel, we must crack the code!”
+I bowed as a sign of respect.
 
-By now, my patience was threadbare. “And if we can’t?”
+"These alchemists," he continued, "Avicenna, Bacon, Lully, Paracelsus,
+were the true, the only learned men of the day. They made surprising
+discoveries. May not this Saknussemm, nephew mine, have hidden on this
+bit of parchment some astounding invention? I believe the cryptograph to
+have a profound meaning--which I must make out."
 
-“We will!” he insisted, his tone brooking no argument. “Saknussemm’s genius cannot be wasted. Think, Axel! Use your head!”
+My uncle walked about the room in a state of excitement almost
+impossible to describe.
 
-With reluctance, I set to work again, rearranging the words, searching for patterns, my thoughts muddled by exhaustion. Meanwhile, the professor hovered over me, his presence oppressive, his urgency contagious. It was past midnight when the breakthrough came. A single phrase emerged, clear and indisputable:
+"It may be so, sir," I timidly observed, "but why conceal it from
+posterity, if it be a useful, a worthy discovery?"
 
-“Descend into the crater of **Snæfellsjökull**, penetrated by the sun’s rays at the time of the **summer solstice**, and you will reach the center of the Earth.”
+"Why--how should I know? Did not **Galileo** make a secret of his
+discoveries in connection with Saturn? But we shall see. Until I
+discover the meaning of this sentence I will neither eat nor sleep."
 
-I stared at the paper, my mind reeling. The professor snatched it from me, his eyes wide with triumph. “Do you see, Axel? Saknussemm’s passage is real! Snæfellsjökull—a volcano in Iceland—is the gateway!”
+"My dear uncle--" I began.
 
-“And you intend to go there?” I asked, though I already knew the answer.
+"Nor you neither," he added.
 
-“Of course!” he declared, his voice ringing with conviction. “This is the greatest discovery of our time. We must follow in Saknussemm’s footsteps, no matter the cost.”
+It was lucky I had taken double allowance that day.
 
-My heart sank. The journey he envisioned was fraught with peril, its destination uncertain. Yet, as I gazed at him, his face alight with purpose, I realized there would be no dissuading him. The professor’s will was as immovable as the Earth’s crust itself.
+"In the first place," he continued, "there must be a clue to the
+meaning. If we could find that, the rest would be easy enough."
 
-And so, the decision was made. We would embark on a journey unlike any other, guided by the cryptic words of a long-dead alchemist and the indomitable spirit of **scientific exploration**. Little did I know that this was only the beginning of an adventure that would challenge not only our intellect but our courage, our endurance, and our very humanity.
+I began seriously to reflect. The prospect of going without food and
+sleep was not a promising one, so I determined to do my best to solve
+the mystery. My uncle, meanwhile, went on with his soliloquy.
+
+"The way to discover it is easy enough. In this document there are one
+hundred and thirty-two letters, giving seventy-nine consonants to
+fifty-three vowels. This is about the proportion found in most southern
+languages, the idioms of the north being much more rich in consonants.
+We may confidently predict, therefore, that we have to deal with a
+**southern dialect**."
+
+Nothing could be more logical.
+
+"Now," said Professor Hardwigg, "to trace the particular language."
+
+"As Shakespeare says, 'that is the question,"' was my rather satirical
+reply.
+
+"This man Saknussemm," he continued, "was a very learned man: now as he
+did not write in the language of his birthplace, he probably, like most
+learned men of the sixteenth century, wrote in Latin. If, however, I
+prove wrong in this guess, we must try Spanish, French, Italian, Greek,
+and even Hebrew. My own opinion, though, is decidedly in favor of
+Latin."
+
+This proposition startled me. Latin was my favorite study, and it seemed
+sacrilege to believe this gibberish to belong to the country of Virgil.
+
+"**Barbarous Latin**, in all probability," continued my uncle, "but still
+Latin."
+
+"Very probably," I replied, not to contradict him.
+
+"Let us see into the matter," continued my uncle; "here you see we have
+a series of one hundred and thirty-two letters, apparently thrown
+pell-mell upon paper, without method or organization. There are words
+which are composed wholly of consonants, such as <i>mm.rnlls</i>, others
+which are nearly all vowels, the fifth, for instance, which is unteief,
+and one of the last oseibo. This appears an extraordinary combination.
+Probably we shall find that the phrase is arranged according to some
+**mathematical plan**. No doubt a certain sentence has been written out and
+then jumbled up--some plan to which some figure is the clue. Now, Harry,
+to show your English wit--what is that figure?"
+
+I could give him no hint. My thoughts were indeed far away. While he was
+speaking I had caught sight of the portrait of my cousin Gretchen, and
+was wondering when she would return.
+
+We were affianced, and loved one another very sincerely. But my uncle,
+who never thought even of such sublunary matters, knew nothing of this.
+Without noticing my abstraction, the Professor began reading the
+puzzling cryptograph all sorts of ways, according to some theory of his
+own. Presently, rousing my wandering attention, he dictated one precious
+attempt to me.
+
+I mildly handed it over to him. It read as follows:
+
+
+    <i>mmessunkaSenrA.icefdoK.segnittamurtn
+    ecertserrette,rotaivsadua,ednecsedsadne
+    lacartniiilrJsiratracSarbmutabiledmek
+    meretarcsilucoYsleffenSnI.</i>
+
+
+I could scarcely keep from laughing, while my uncle, on the contrary,
+got in a **towering passion**, struck the table with his fist, darted out of
+the room, out of the house, and then taking to his heels was presently
+lost to sight.

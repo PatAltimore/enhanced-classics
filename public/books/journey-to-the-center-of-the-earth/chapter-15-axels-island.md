@@ -9,131 +9,322 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "The explorers arrive at the Lidenbrock Sea, a subterranean body of water named by Professor Lidenbrock."
-    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
-    link_label: "Journey to the Center of the Earth"
-  - point: "They notice a peculiar island rising from the center of the sea, prompting plans to investigate."
-    link: "https://en.wikipedia.org/wiki/Island"
-    link_label: "Island"
-  - point: "The group constructs a raft to cross the calm waters of the Lidenbrock Sea."
-    link: "https://en.wikipedia.org/wiki/Raft"
-    link_label: "Raft"
-  - point: "The island reveals strange vegetation and fossilized remains of prehistoric creatures, hinting at its ancient origins."
-    link: "https://en.wikipedia.org/wiki/Prehistoric_life"
-    link_label: "Prehistoric life"
-  - point: "Signs of volcanic activity and geothermal systems are observed on the island, adding to its mysterious nature."
-    link: "https://en.wikipedia.org/wiki/Geothermal_energy"
-    link_label: "Geothermal energy"
-  - point: "The explorers leave the island, pondering its secrets and the boundless wonders of the Earth's interior."
-    link: "https://en.wikipedia.org/wiki/Earth%27s_crust"
-    link_label: "Earth's crust"
+  - point: "The travelers awaken to a dazzling display of light refracted through lava prisms, marking the start of their descent."
+    link: "https://en.wikipedia.org/wiki/Lava"
+    link_label: "Lava"
+  - point: "Professor Lidenbrock explains their position at the base of the Sneffels crater, emphasizing they have yet to penetrate deeply into the Earth."
+    link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
+    link_label: "Sneffels crater"
+  - point: "The group uses the Ruhmkorff coil apparatus to illuminate their path, creating a magical effect in the lava-lined tunnel."
+    link: "https://en.wikipedia.org/wiki/Ruhmkorff_coil"
+    link_label: "Ruhmkorff coil apparatus"
+  - point: "Axel marvels at the crystalline formations and variegated lava colors, showcasing the natural beauty of their subterranean journey."
+    link: "https://en.wikipedia.org/wiki/Stalactite"
+    link_label: "Stalactites"
+  - point: "The travelers discuss the surprising lack of heat and water, challenging conventional theories about Earth's interior temperature."
+    link: "https://en.wikipedia.org/wiki/Humphry_Davy"
+    link_label: "Humphry Davy"
+  - point: "Axel calculates their depth, realizing they are far deeper than any previous human exploration, yet the temperature remains unexpectedly low."
+    link: "https://en.wikipedia.org/wiki/Reaumur_scale"
+    link_label: "Reaumur scale"
 
 enhancements:
-  - id: "glassy-expanse"
-    trigger: "glassy expanse"
-    title: "Phosphorescence and Glassy Seas"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Phosphorescence"
+  - id: "crater-of-sneffels"
+    trigger: "the crater of Sneffels"
+    title: "The Icelandic Volcano That Inspired Jules Verne"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
     image_url: ""
     image_caption: ""
-    content: "Phosphorescence is the emission of light by a substance that has absorbed light or other electromagnetic radiation. The shimmering, glassy expanse described in the subterranean sea evokes the natural phenomenon seen in bioluminescent organisms or certain minerals. This adds an eerie and otherworldly quality to the setting, emphasizing the alien nature of the Earth's depths."
-  - id: "lidenbrock-sea"
-    trigger: "Lidenbrock Sea"
-    title: "Naming Discoveries in Science"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Scientific_discovery"
+    content: "When Professor Lidenbrock declares they are at the base of the Sneffels crater, he situates the story within one of Iceland's most iconic landmarks. Snæfellsjökull, a glacier-capped volcano, has long captured imaginations, even before Verne's novel. In Icelandic folklore, it was believed to be a gateway to other worlds, and its mystical aura has persisted into modern times. The volcano last erupted around 200 AD, leaving behind the dramatic geological formations that Verne describes. By choosing Sneffels as the entry point to Earth's depths, Verne taps into its mythic reputation, blending science with fantasy. This choice underscores the novel's theme of exploration—not just of the physical world, but of the boundaries between reality and imagination."
+  - id: "schiedam"
+    trigger: "Schiedam"
+    title: "Why Dutch Gin Fueled 19th-Century Expeditions"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Schiedam"
     image_url: ""
     image_caption: ""
-    content: "Professor Lidenbrock's naming of the sea reflects a tradition in science where discoverers often name their findings. This practice underscores the human drive to claim and categorize the unknown, a theme central to exploration narratives like Verne's."
-  - id: "primeval-forces"
-    trigger: "primeval forces"
-    title: "Primeval Forces of Nature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Primeval"
+    content: "During breakfast, the travelers sip water flavored with Schiedam, a nod to the Dutch city famous for its gin production. Schiedam was the epicenter of jenever, a juniper-flavored spirit that predated modern gin. By the 19th century, jenever was not just a drink but a staple for explorers and laborers, valued for its caloric content and perceived medicinal properties. Verne's inclusion of Schiedam highlights the practicalities of expedition life, where even luxuries like flavored water served functional purposes. This small detail enriches the realism of the journey, grounding the fantastical descent in the everyday habits of the era."
+  - id: "ruhmkorff-coil-apparatus"
+    trigger: "Ruhmkorff coil apparatus"
+    title: "The Invention That Lit Jules Verne's Underground World"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ruhmkorff_coil"
     image_url: ""
     image_caption: ""
-    content: "Primeval forces refer to the ancient, fundamental powers that shaped the Earth long before human existence. In the context of the novel, these forces highlight the timeless and untouched nature of the subterranean world, emphasizing its contrast with the surface."
-  - id: "raft"
-    trigger: "raft"
-    title: "Rafts in Exploration"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Raft"
+    content: "As Professor Lidenbrock activates the Ruhmkorff coil apparatus, the dark tunnel bursts into light, transforming their descent into a surreal spectacle. This ingenious device, invented by Heinrich Ruhmkorff in 1851, was a high-voltage induction coil used to power early electric lamps. It represented cutting-edge technology in Verne's time, symbolizing humanity's ability to conquer even the darkest corners of the Earth. By equipping his characters with this apparatus, Verne bridges the gap between science fiction and scientific reality, showcasing the transformative power of innovation in exploration."
+  - id: "stalactites"
+    trigger: "stalactites"
+    title: "Nature's Underground Chandeliers: The Science of Stalactites"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Stalactite"
     image_url: ""
     image_caption: ""
-    content: "Rafts have been used for centuries as simple yet effective means of water transport. In the story, the raft symbolizes human ingenuity and adaptability, enabling the explorers to traverse the unknown waters of the Lidenbrock Sea."
-  - id: "rockfall"
-    trigger: "rockfall"
-    title: "Rockfalls in Geology"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rockfall"
+    content: "Axel marvels at the stalactites adorning the tunnel, likening them to luminous globes. These formations, created by mineral-rich water dripping over centuries, are a testament to Earth's slow geological artistry. Stalactites grow at an average rate of 0.13 millimeters per year, making them symbols of patience and time. Verne's vivid description elevates these natural phenomena to the realm of fantasy, turning the subterranean world into a palace of wonders. This moment encapsulates the novel's blend of scientific observation and poetic imagination, inviting readers to see the Earth as both a laboratory and a gallery."
+  - id: "humphry-davy"
+    trigger: "Humphry Davy"
+    title: "The Chemist Who Reimagined Earth's Fiery Core"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Humphry_Davy"
     image_url: ""
     image_caption: ""
-    content: "Rockfalls are sudden collapses of rock from cliffs or slopes, often triggered by natural erosion or seismic activity. The mention of distant rockfalls adds tension and realism to the subterranean setting, reminding readers of the Earth's dynamic and unstable nature."
-  - id: "vegetation"
-    trigger: "vegetation"
-    title: "Alien Vegetation in Fiction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Plant"
+    content: "Axel's observation of the low temperature aligns with Humphry Davy's theories about Earth's interior. Davy, a pioneering chemist, challenged the prevailing idea of a molten core, suggesting instead that chemical reactions could explain volcanic activity. Though later disproven, his ideas influenced 19th-century thought and provided Verne with a scientific framework for his story. By referencing Davy, Verne grounds his fantastical journey in contemporary scientific debates, adding credibility to his narrative while inviting readers to question established truths."
+  - id: "reaumur-scale"
+    trigger: "Reaumur"
+    title: "The Forgotten Temperature Scale of Exploration"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Reaumur_scale"
     image_url: ""
     image_caption: ""
-    content: "The strange vegetation described on the island reflects the novel's theme of encountering the unknown. Plants of bizarre shapes and hues challenge the explorers' understanding of biology, emphasizing the alien and prehistoric nature of the subterranean world."
-  - id: "lost-world"
-    trigger: "lost world"
-    title: "Lost Worlds in Literature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lost_World_(genre)"
+    content: "Axel notes the temperature in degrees Réaumur, a scale largely abandoned today but widely used in Europe during Verne's time. Invented by René Antoine Ferchault de Réaumur in 1730, it divided the boiling and freezing points of water into 80 degrees. Its precision made it popular among scientists and explorers, including those charting uncharted territories. Verne's use of Réaumur situates the novel firmly in its historical context, reminding readers of the tools and measurements that shaped 19th-century scientific inquiry. This detail enriches the realism of the journey, connecting the characters' observations to the era's intellectual landscape."
+  - id: "yakoust-in-siberia"
+    trigger: "Yakoust in Siberia"
+    title: "The Siberian Town Where Earth's Heat Speaks Louder"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yakutsk"
     image_url: ""
     image_caption: ""
-    content: "The concept of a 'lost world' is a popular literary trope, often depicting isolated ecosystems untouched by modern civilization. Verne's depiction of the island as a lost world serves to highlight humanity's fascination with discovering hidden realms and ancient secrets."
-  - id: "prehistoric-creatures"
-    trigger: "prehistoric creatures"
-    title: "Fossils and Prehistoric Life"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fossil"
+    content: "Axel references Yakoust in Siberia, where the Earth's temperature rises unusually quickly with depth. Yakutsk, known for its extreme climate, sits atop permafrost that reveals unique geothermal properties. This anomaly intrigued scientists, offering insights into Earth's thermal conductivity and the variability of subterranean heat. Verne's inclusion of Yakoust reflects his fascination with Earth's mysteries, using real-world phenomena to deepen the novel's scientific texture. It reminds readers that the planet's interior is as diverse and unpredictable as its surface."
+  - id: "eighty-one-degrees"
+    trigger: "eighty-one"
+    title: "Why Earth's Heat Defied Expectations in Verne's Tale"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Geothermal_gradient"
     image_url: ""
     image_caption: ""
-    content: "Fossils provide a window into Earth's distant past, preserving the remains of creatures that lived millions of years ago. The discovery of prehistoric fossils on the island underscores the novel's exploration of Earth's ancient history and the scientific curiosity driving the characters."
-  - id: "geothermal-system"
-    trigger: "geothermal system"
-    title: "Geothermal Systems and Volcanism"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Geothermal_energy"
-    image_url: ""
-    image_caption: ""
-    content: "Geothermal systems are areas where heat from the Earth's interior escapes to the surface, often associated with volcanic activity. The warm soil and steam fissures on the island suggest a connection to these systems, adding a layer of scientific intrigue and danger to the explorers' journey."
-  - id: "earths-interior"
-    trigger: "Earth’s interior"
-    title: "Exploring Earth's Interior"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Earth%27s_crust"
-    image_url: ""
-    image_caption: ""
-    content: "The Earth's interior remains largely unexplored, with its layers offering clues to the planet's formation and geological processes. Verne's novel imagines a fantastical journey into these depths, blending scientific curiosity with adventure to captivate readers."
+    content: "Axel calculates that the temperature should be 81 degrees Fahrenheit at their depth, yet it remains far cooler. This discrepancy challenges the geothermal gradient theory, which predicts a steady increase in heat with depth. Verne uses this anomaly to heighten the sense of mystery surrounding Earth's interior, suggesting that scientific laws may bend in unexplored realms. This moment encapsulates the novel's tension between known science and the unknown, inviting readers to imagine a world where the rules are rewritten beneath our feet."
 ---
-The subterranean sea stretched before us, its **glassy expanse** shimmering faintly in the phosphorescent light that seemed to emanate from no discernible source. It was a paradox of nature, a place where the laws of the surface world seemed inverted, and where time itself held its breath. We had arrived at this strange shore after days of arduous trekking through chambers of rock and labyrinthine tunnels, our bodies wearied but our minds aflame with the fervent curiosity that had driven us into the Earth’s depths.
+WE CONTINUE OUR DESCENT
 
-“Axel,” said my uncle, Professor Lidenbrock, his voice trembling with a rare note of awe, “this is a moment that will forever change the annals of science. Behold the **Lidenbrock Sea**, named by me, for it is fitting that the discoverer should claim it.”
 
-I nodded, though my gaze was fixed not on the vast water, but on the peculiar **island** that rose from its center—a dark, jagged silhouette against the pale luminescence of the cavernous sky. It seemed close enough to reach with a sturdy raft, though its surface was indistinct from this distance. Hans, our unflappable guide, stood silently beside us, his sharp eyes already assessing the feasibility of constructing a vessel to cross the water. 
+At eight o'clock the next morning, a faint kind of dawn of day awoke us.
+The thousand and one prisms of the lava collected the light as it passed
+and brought it to us like a shower of sparks.
 
-The air was heavy with moisture, carrying a faint salt tang that was both familiar and alien. The sea itself was eerily calm, its surface broken only by the occasional ripple, as if some unseen creature stirred beneath. Here was a prehistoric world, a place untouched by the hand of man, where **primeval forces** still held sway. 
+We were able with ease to see objects around us.
 
-“We must investigate the island,” declared my uncle, his scientific zeal overpowering any notion of caution. “Who knows what secrets it may hold? Axel, Hans, let us prepare to explore. We must not falter in the face of discovery.”
+"Well, Harry, my boy," cried the delighted Professor, rubbing his hands
+together, "what say you now? Did you ever pass a more tranquil night in
+our house in the Konigstrasse? No deafening sounds of cart wheels, no
+cries of hawkers, no bad language from boatmen or watermen!"
 
-Hans gave a curt nod, and before long we were at work. Using remnants of timber and rope from our supplies, we fashioned a crude but sturdy **raft**, its simplicity belying the complex task of navigating the unknown waters. Hans worked with the quiet efficiency that marked his every action, while I labored under my uncle’s relentless direction, my mind torn between excitement and trepidation. 
+"Well, Uncle, we are quite at the bottom of this well--but to me there
+is something terrible in this calm."
 
-As we pushed off from the shore, the raft glided smoothly across the water, propelled by Hans’s strong arms and the oars he had carved from ancient wood. The silence was profound, broken only by the rhythmic splash of the oars and the occasional echo of a distant **rockfall** somewhere in the cavern. The light remained constant, neither dimming nor brightening, lending the scene an eternal quality, as if we had entered a realm beyond the passage of time.
+"Why," said the Professor hotly, "one would say you were already
+beginning to be afraid. How will you get on presently? Do you know, that
+as yet, we have not penetrated one inch into the bowels of the earth."
 
-The island grew larger as we approached, its contours revealing themselves in greater detail. Strange **vegetation**, unlike anything I had ever seen, clung to its rocky surface—plants of bizarre shapes and hues, some luminous, others dark and foreboding. The sight sent shivers down my spine, for it was a reminder that we were far from the familiar world above.
+"What can you mean, sir?" was my bewildered and astonished reply.
 
-“This is a true **lost world**, Axel,” my uncle murmured, his eyes gleaming with a mixture of wonder and hunger. “Every discovery here is a window into the Earth’s past, a glimpse of epochs long forgotten.”
+"I mean to say that we have only just reached the soil of the island
+itself. This long vertical tube, which ends at the bottom of **the crater
+of Sneffels**, ceases here just about on a level with the sea."
 
-We reached the island’s edge and disembarked, our boots crunching against the coarse, mineral-rich soil. The air felt different here, heavier somehow, and the faint sound of trickling water reached my ears, though I could not locate its source. Hans took the lead, his instincts guiding us up a narrow path that wound toward the island’s summit.
+"Are you sure, sir?"
 
-As we climbed, strange sights greeted us at every turn. Fossilized remains of **prehistoric creatures** lay embedded in the rock, their forms preserved in exquisite detail. I marveled at the sight of a massive trilobite, its intricate carapace a testament to the ancient life that had once thrived in these depths. Nearby, the skeleton of a fish-like creature with sharp, serrated teeth hinted at the terrifying predators that had prowled these waters.
+"Quite sure. Consult the barometer."
 
-At last, we reached the summit—a plateau that offered a commanding view of the sea and the cavern beyond. Here, the vegetation grew thicker, though it remained alien in appearance. My uncle bent to examine a peculiar plant with spiral-shaped leaves, his scientific mind racing to classify it. Hans, meanwhile, gazed out at the horizon, his stoic expression betraying no hint of emotion.
+It was quite true that the mercury, after rising gradually in the
+instrument, as long as our descent was taking place, had stopped
+precisely at twenty-nine degrees.
 
-It was then that I noticed something peculiar. The soil beneath our feet was warm, almost unnaturally so, and faint wisps of steam rose from fissures in the ground. My uncle, too, seemed to notice, for he knelt to inspect the phenomenon. “Volcanic activity,” he murmured, his tone infused with both curiosity and caution. “This island may be connected to a deeper **geothermal system**, Axel. We must tread carefully.”
+"You perceive," said the Professor, "we have as yet only to endure the
+pressure of air. I am curious to replace the barometer by the
+manometer."
 
-As if to underscore his words, a sudden tremor shook the ground, causing us to stagger. Hans steadied the raft with a firm hand, while my uncle and I clung to the nearest rocks. The tremor was brief, but it left an unsettling impression, a reminder of the volatile forces that lurked beneath us.
+The barometer, in fact, was about to become useless--as soon as the
+weight of the air was greater than what was calculated as above the
+level of the ocean.
 
-We spent hours exploring the island, cataloging its strange flora and fauna, its geological features, and its eerie atmosphere. My uncle was tireless in his efforts, his enthusiasm undiminished by the challenges we faced. Hans remained as implacable as ever, his quiet strength a source of reassurance in this otherworldly realm.
+"But," said I, "is it not very much to be feared that this
+ever-increasing pressure may not in the end turn out very painful and
+inconvenient?"
 
-As the day—or what passed for a day in this timeless cavern—came to a close, we returned to our raft and set off once more for the shore. The island receded into the distance, its mysteries lingering in our minds. My uncle spoke at length about the implications of our discoveries, his voice brimming with excitement, while Hans rowed silently, his gaze fixed on the horizon.
+"No," said he. "We shall descend very slowly, and our lungs will be
+gradually accustomed to breathe compressed air. It is well known that
+aeronauts have gone so high as to be nearly without air at all--why,
+then, should we not accustom ourselves to breathe when we have, say, a
+little too much of it? For myself, I am certain I shall prefer it. Let
+us not lose a moment. Where is the packet which preceded us in our
+descent?"
 
-For my part, I could not shake the feeling that the island had only revealed a fraction of its secrets. There was something profoundly unsettling about the place, a sense that it held truths too vast and too ancient for our minds to fully grasp. As we reached the shore and disembarked, I cast one last glance at the island, its silhouette dark against the shimmering sea.
+I smilingly pointed it out to my uncle. Hans had not seen it, and
+believed it caught somewhere above us: "Huppe" as he phrased it.
 
-“Axel,” my uncle said, placing a hand on my shoulder, “this is only the beginning. The wonders of the **Earth’s interior** are boundless, and we have but scratched the surface. Remember this day, for it is a milestone in the journey of discovery.”
+"Now," said my uncle, "let us breakfast, and break fast like people who
+have a long day's work before them."
 
-I nodded, though my thoughts were far away, lost in the depths of the strange island and the enigmatic forces that shaped it. As we prepared to continue our journey, I could not help but wonder what other marvels—and dangers—awaited us in this hidden world.
+Biscuit and dried meat, washed down by some mouthfuls of water flavored
+with **Schiedam**, was the material of our luxurious meal.
+
+As soon as it was finished, my uncle took from his pocket a notebook
+destined to be filled by memoranda of our travels. He had already placed
+his instruments in order, and this is what he wrote:
+
+
+     Monday, June 29th
+
+     Chronometer, 8h. 17m. morning.
+
+     Barometer, 29.6 inches.
+
+     Thermometer, 6 degrees [43 degrees Fahr.]
+
+     Direction, E.S.E.
+
+
+
+This last observation referred to the obscure gallery, and was indicated
+to us by the compass.
+
+"Now, Harry," cried the Professor, in an enthusiastic tone of voice, "we
+are truly about to take our first step into the Interior of the Earth;
+never before visited by man since the first creation of the world. You
+may consider, therefore, that at this precise moment our travels really
+commence."
+
+As my uncle made this remark, he took in one hand the **Ruhmkorff coil
+apparatus**, which hung round his neck, and with the other he put the
+electric current into communication with the worm of the lantern. And a
+bright light at once illumined that dark and gloomy tunnel!
+
+The effect was magical!
+
+Hans, who carried the second apparatus, had it also put into operation.
+This ingenious application of electricity to practical purposes enabled
+us to move along by the light of an artificial day, amid even the flow
+of the most inflammable and combustible gases.
+
+"Forward!" cried my uncle. Each took up his burden. Hans went first, my
+uncle followed, and I going third, we entered the somber gallery!
+
+Just as we were about to engulf ourselves in this dismal passage, I
+lifted up my head, and through the tubelike shaft saw that Iceland sky I
+was never to see again!
+
+Was it the last I should ever see of any sky?
+
+The stream of lava flowing from the bowels of the earth in 1219 had
+forced itself a passage through the tunnel. It lined the whole of the
+inside with its thick and brilliant coating. The electric light added
+very greatly to the brilliancy of the effect.
+
+The great difficulty of our journey now began. How were we to prevent
+ourselves from slipping down the steeply inclined plane? Happily some
+cracks, abrasures of the soil, and other irregularities, served the
+place of steps; and we descended slowly; allowing our heavy luggage to
+slip on before, at the end of a long cord.
+
+But that which served as steps under our feet became in other places
+**stalactites**. The lava, very porous in certain places, took the form of
+little round blisters. Crystals of opaque quartz, adorned with limpid
+drops of natural glass suspended to the roof like lusters, seemed to
+take fire as we passed beneath them. One would have fancied that the
+genii of romance were illuminating their underground palaces to receive
+the sons of men.
+
+"Magnificent, glorious!" I cried in a moment of involuntary enthusiasm,
+"What a spectacle, Uncle! Do you not admire these variegated shades of
+lava, which run through a whole series of colors, from reddish brown to
+pale yellow--by the most insensible degrees? And these crystals, they
+appear like luminous globes."
+
+"You are beginning to see the charms of travel, Master Harry," cried my
+uncle. "Wait a bit, until we advance farther. What we have as yet
+discovered is nothing--onwards, my boy, onwards!"
+
+It would have been a far more correct and appropriate expression, had he
+said, "let us slide," for we were going down an inclined plane with
+perfect ease. The compass indicated that we were moving in a
+southeasterly direction. The flow of lava had never turned to the right
+or the left. It had the inflexibility of a straight line.
+
+Nevertheless, to my surprise, we found no perceptible increase in heat.
+This proved the theories of **Humphry Davy** to be founded on truth, and
+more than once I found myself examining the thermometer in silent
+astonishment.
+
+Two hours after our departure it only marked fifty-four degrees
+Fahrenheit. I had every reason to believe from this that our descent was
+far more horizontal than vertical. As for discovering the exact depth to
+which we had attained, nothing could be easier. The Professor as he
+advanced measured the angles of deviation and inclination; but he kept
+the result of his observations to himself.
+
+About eight o'clock in the evening, my uncle gave the signal for
+halting. Hans seated himself on the ground. The lamps were hung to
+fissures in the lava rock. We were now in a large cavern where air was
+not wanting. On the contrary, it abounded. What could be the cause of
+this--to what atmospheric agitation could be ascribed this draught? But
+this was a question which I did not care to discuss just then. Fatigue
+and hunger made me incapable of reasoning. An unceasing march of seven
+hours had not been kept up without great exhaustion. I was really and
+truly worn out; and delighted enough I was to hear the word Halt.
+
+Hans laid out some provisions on a lump of lava, and we each supped with
+keen relish. One thing, however, caused us great uneasiness--our water
+reserve was already half exhausted. My uncle had full confidence in
+finding subterranean resources, but hitherto we had completely failed in
+so doing. I could not help calling my uncle's attention to the
+circumstance.
+
+"And you are surprised at this total absence of springs?" he said.
+
+"Doubtless--I am very uneasy on the point. We have certainly not enough
+water to last us five days."
+
+"Be quite easy on that matter," continued my uncle. "I answer for it we
+shall find plenty of water--in fact, far more than we shall want."
+
+"But when?"
+
+"When we once get through this crust of lava. How can you expect springs
+to force their way through these solid stone walls?"
+
+"But what is there to prove that this concrete mass of lava does not
+extend to the centre of the earth? I don't think we have as yet done
+much in a vertical way."
+
+"What puts that into your head, my boy?" asked my uncle mildly.
+
+"Well, it appears to me that if we had descended very far below the
+level of the sea--we should find it rather hotter than we have."
+
+"According to your system," said my uncle; "but what does the
+thermometer say?"
+
+"Scarcely fifteen degrees by **Reaumur**, which is only an increase of nine
+since our departure."
+
+"Well, and what conclusion does that bring you to?" inquired the
+Professor.
+
+"The deduction I draw from this is very simple. According to the most
+exact observations, the augmentation of the temperature of the interior
+of the earth is one degree for every hundred feet. But certain local
+causes may considerably modify this figure. Thus at **Yakoust in Siberia**,
+it has been remarked that the heat increases a degree every thirty-six
+feet. The difference evidently depends on the conductibility of certain
+rocks. In the neighborhood of an extinct volcano, it has been remarked
+that the elevation of temperature was only one degree in every
+five-and-twenty feet. Let us, then, go upon this calculation--which is
+the most favorable--and calculate."
+
+"Calculate away, my boy."
+
+"Nothing easier," said I, pulling out my notebook and pencil. "Nine
+times one hundred and twenty-five feet make a depth of eleven hundred
+and twenty-five feet."
+
+"Archimedes could not have spoken more geometrically."
+
+"Well?"
+
+"Well, according to my observations, we are at least ten thousand feet
+below the level of the sea."
+
+"Can it be possible?"
+
+"Either my calculation is correct, or there is no truth in figures."
+
+The calculations of the Professor were perfectly correct. We were
+already six thousand feet deeper down in the bowels of the earth than
+anyone had ever been before. The lowest known depth to which man had
+hitherto penetrated was in the mines of Kitzbuhel, in the Tirol, and
+those of Wurttemberg.
+
+The temperature, which should have been **eighty-one**, was in this place
+only fifteen. This was a matter for serious consideration.

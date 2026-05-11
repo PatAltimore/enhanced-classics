@@ -9,131 +9,307 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "The group ventures deeper into the subterranean world, facing oppressive silence and claustrophobic dread."
-    link: "https://en.wikipedia.org/wiki/Subterranean_environment"
-    link_label: "Subterranean environment"
-  - point: "Professor Lidenbrock identifies geological formations from the Miocene epoch, marveling at their ancient origins."
-    link: "https://en.wikipedia.org/wiki/Miocene"
-    link_label: "Miocene epoch"
-  - point: "Hans discovers a trickle of pure water, confirming Saknussemm’s predictions about subterranean reservoirs."
-    link: "https://en.wikipedia.org/wiki/Aquifer"
-    link_label: "Subterranean reservoirs"
-  - point: "The group encounters stalactites in a vast chamber, showcasing nature’s slow geological artistry."
-    link: "https://en.wikipedia.org/wiki/Stalactite"
-    link_label: "Stalactites"
-  - point: "Saknussemm’s rune-like inscription is found, validating the professor’s faith in their path."
-    link: "https://en.wikipedia.org/wiki/Rune"
-    link_label: "Rune-like inscription"
-  - point: "The journey continues deeper into the Earth, guided by Saknussemm’s symbols and the promise of discovery."
+  - point: "The travelers reach a crossroads of tunnels and choose the eastern path, trusting to chance."
     link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
     link_label: "Journey to the Center of the Earth"
+  - point: "The eastern tunnel features Gothic-like arches and Roman-style architecture carved into the rock."
+    link: "https://en.wikipedia.org/wiki/Gothic_architecture"
+    link_label: "Gothic architecture"
+  - point: "The narrator reflects on the volcanic history of Sneffels and the dangers of its potential reactivation."
+    link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
+    link_label: "volcano of Sneffels"
+  - point: "The travelers encounter Silurian stones, marking a transition in geological strata."
+    link: "https://en.wikipedia.org/wiki/Silurian"
+    link_label: "Silurian period"
+  - point: "The narrator discovers fossil evidence of ancient life, including a trilobite shell."
+    link: "https://en.wikipedia.org/wiki/Trilobite"
+    link_label: "trilobites"
+  - point: "The group faces the looming threat of running out of water as they continue their journey."
+    link: "https://en.wikipedia.org/wiki/Water_scarcity"
+    link_label: "water scarcity"
 
 enhancements:
-  - id: "runic-message-arne-saknussemm"
-    trigger: "runic message of Arne Saknussemm"
-    title: "Arne Saknussemm’s Runic Message"
+  - id: "eastern-tunnel-choice"
+    trigger: "the eastern tunnel"
+    title: "Why the Eastern Tunnel Was Chosen Blindly"
     wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
     image_url: ""
     image_caption: ""
-    content: "Arne Saknussemm is a fictional Icelandic alchemist whose runic inscriptions guide the explorers in Jules Verne's novel. His cipher serves as the key to navigating the subterranean world, symbolizing the intersection of science, history, and mystery. The concept of ancient knowledge hidden in cryptic messages reflects 19th-century fascination with exploration and discovery."
-  - id: "geological-formations-miocene-epoch"
-    trigger: "geological formations"
-    title: "Geological Formations of the Miocene Epoch"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Miocene"
+    content: "When Professor Hardwigg confidently chose the eastern tunnel, it was less a calculated decision than a leap of faith. The crossroads offered no clues, no markings, and no signs to guide the travelers. This moment encapsulates the tension between scientific precision and the unpredictability of exploration. In the 19th century, when Jules Verne wrote this novel, exploration often relied on intuition as much as on instruments. Expeditions into uncharted territories, whether polar ice caps or subterranean caverns, were fraught with uncertainty. Verne uses this choice to underscore the precarious balance between human determination and the vast unknown. The eastern tunnel becomes a metaphor for the journey itself—an act of trust in the face of overwhelming ambiguity."
+  - id: "volcano-of-sneffels-history"
+    trigger: "volcano of Sneffels"
+    title: "Sneffels: The Dormant Volcano That Shapes the Story"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
     image_url: ""
     image_caption: ""
-    content: "The Miocene epoch, spanning 23 to 5 million years ago, was a period of significant geological and biological change. It saw the formation of many modern landscapes and the evolution of mammals and birds. Verne’s reference to Miocene formations highlights the novel’s grounding in scientific knowledge and the awe-inspiring age of Earth's geological history."
-  - id: "lava-walls"
-    trigger: "lava walls"
-    title: "Lava Walls and Volcanic Activity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lava"
+    content: "As the narrator imagines the fiery past of Sneffels, he conjures a vivid picture of molten lava and choking smoke. This Icelandic volcano, Snæfellsjökull, is not just a geological feature but a literary gateway to the Earth's mysteries. Its real-life prominence as a glaciated peak has inspired myths and legends, including its role in Verne's novel. During its active periods, Sneffels would have been a terrifying force, shaping the landscape and the lives of those nearby. Verne uses its dormant state to create a sense of foreboding—what if it awakens? This tension mirrors the novel's theme of humanity's fragile relationship with nature, where even dormant forces can hold immense power."
+  - id: "absolute-solitude-underground"
+    trigger: "absolute solitude"
+    title: "What Absolute Solitude Means Beneath the Earth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
     image_url: ""
     image_caption: ""
-    content: "Lava walls are formed by solidified molten rock from volcanic eruptions. They are a testament to the dynamic processes shaping the Earth’s crust. In the novel, these walls symbolize the raw power of nature and the explorers’ proximity to the Earth’s fiery core, emphasizing the peril and wonder of their journey."
-  - id: "mica-veins"
-    trigger: "mica"
-    title: "Mica: Sparkling Mineral Veins"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mica"
+    content: "The travelers' realization that they are utterly alone in the depths of the Earth is both liberating and terrifying. Unlike explorers in deserts or jungles, they face no external threats—no wild animals, no hostile tribes. Yet this solitude amplifies the psychological weight of their journey. In Verne's time, the idea of absolute solitude was a novel concept, as most expeditions involved interaction with local populations or wildlife. Here, Verne strips away all external distractions, forcing his characters—and readers—to confront the raw isolation of the subterranean world. This solitude becomes a crucible for their resolve, testing their endurance and their ability to navigate the unknown."
+  - id: "silurian-stones-discovery"
+    trigger: "Silurian stones"
+    title: "How Silurian Stones Reveal Earth's Ancient Secrets"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Silurian"
     image_url: ""
     image_caption: ""
-    content: "Mica is a group of silicate minerals known for their shimmering appearance and heat resistance. Its presence in the subterranean gallery adds a touch of beauty to the oppressive environment, symbolizing the hidden treasures of the Earth. Mica has been used historically in industrial applications and as a decorative element."
-  - id: "life-sustaining-water"
-    trigger: "life-sustaining water"
-    title: "Subterranean Water Sources"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Aquifer"
+    content: "When the travelers encounter Silurian stones, they step into a geological time machine. These rocks, formed over 400 million years ago, mark a period when life on Earth was transitioning from simple marine organisms to more complex ecosystems. The Silurian period saw the first coral reefs and the emergence of jawed fish, laying the foundation for terrestrial life. Verne's inclusion of this detail is not just scientific; it's poetic. By highlighting these stones, he connects his characters' journey to the grand narrative of Earth's history. The Silurian rocks remind readers that the Earth's layers are not just physical but temporal, each stratum a chapter in the story of life."
+  - id: "shell-of-a-crustaceous-animal"
+    trigger: "shell of a crustaceous animal"
+    title: "Trilobites: Fossils That Tell a Billion-Year Story"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Trilobite"
     image_url: ""
     image_caption: ""
-    content: "Subterranean water sources, such as aquifers, are vital for sustaining life. They are formed by water seeping through porous rock layers. In the novel, the discovery of drinkable water far beneath the surface underscores the resilience of life and the interconnectedness of Earth’s systems, even in extreme environments."
-  - id: "convection-currents"
-    trigger: "convection currents"
-    title: "Convection Currents in the Earth"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Convection"
+    content: "When the narrator picks up the trilobite shell, he holds a relic of Earth's distant past. Trilobites, extinct for over 250 million years, were among the first arthropods to thrive in ancient seas. Their fossilized remains are found worldwide, offering clues about early marine ecosystems. In Verne's novel, this discovery is more than scientific—it symbolizes the continuity of life across epochs. The narrator's excitement contrasts with his uncle's stoic pragmatism, highlighting the tension between wonder and reason. The trilobite becomes a touchstone for the novel's themes, reminding readers that even in the depths of the Earth, traces of life persist, connecting the present to the primordial."
+  - id: "want-of-water-danger"
+    trigger: "want of water"
+    title: "Why Water Scarcity Is the Ultimate Threat Underground"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Water_scarcity"
     image_url: ""
     image_caption: ""
-    content: "Convection currents in the Earth’s mantle drive the movement of tectonic plates, shaping continents and causing earthquakes and volcanic activity. These currents are a fundamental aspect of geology, illustrating the dynamic nature of the planet. Verne’s mention of them reflects his integration of scientific principles into the narrative."
-  - id: "stalactites"
-    trigger: "stalactites"
-    title: "Stalactites: Nature’s Slow Sculptures"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Stalactite"
-    image_url: ""
-    image_caption: ""
-    content: "Stalactites are mineral formations that hang from cave ceilings, created by the deposition of calcium carbonate from dripping water over thousands of years. They are a striking example of geological artistry, showcasing the slow, deliberate processes that shape the subterranean world. Their presence adds to the novel’s atmosphere of wonder and timelessness."
-  - id: "rune-like-inscription"
-    trigger: "rune-like inscription"
-    title: "Rune-like Inscription: Ancient Guidance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Rune"
-    image_url: ""
-    image_caption: ""
-    content: "Runes are ancient alphabets used by Germanic peoples, often associated with mysticism and hidden knowledge. In the novel, the rune-like inscription serves as a beacon, guiding the explorers deeper into the Earth. It symbolizes the enduring legacy of human curiosity and the quest for understanding the unknown."
-  - id: "fossils"
-    trigger: "fossils"
-    title: "Fossils: Windows to Earth’s Past"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fossil"
-    image_url: ""
-    image_caption: ""
-    content: "Fossils are the preserved remains of ancient organisms, offering insights into Earth’s biological and ecological history. They are crucial for understanding evolution and environmental changes over time. Verne’s mention of fossils highlights the scientific potential of the journey and the allure of uncovering secrets buried deep within the Earth."
-  - id: "mineralogical-composition"
-    trigger: "mineralogical composition"
-    title: "Mineralogical Composition of Rocks"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mineralogy"
-    image_url: ""
-    image_caption: ""
-    content: "Mineralogy is the study of minerals, their properties, and their formation. The mineralogical composition of rocks reveals the processes that shaped them and their geological history. In the novel, the professor’s observations reflect his scientific curiosity and the importance of understanding Earth’s materials in unraveling its mysteries."
+    content: "As the travelers face the prospect of running out of water, the stakes of their journey become starkly clear. Water scarcity is not just a logistical challenge; it is a life-or-death issue. In the subterranean world, where no streams or springs exist, dehydration looms as an ever-present danger. Verne uses this threat to heighten the tension, forcing his characters to ration their supplies and confront their vulnerability. In the broader context of exploration, water scarcity has historically been a critical factor, shaping the outcomes of expeditions and the survival of explorers. Here, it serves as a reminder of humanity's dependence on Earth's resources, even in the most inhospitable environments."
 ---
-The gloom of the subterranean world pressed upon us like the weight of the Earth itself. As I followed my uncle and Hans deeper into the yawning rock corridor, the oppressive silence became almost tangible, broken only by the rhythmic crunch of our boots against the coarse floor. The air, stale and heavy, had a peculiar mineral tang that seemed to linger at the back of my throat. My uncle, Professor Otto Lidenbrock, strode ahead with the animated determination of a man chasing the very dreams of his youth, the **runic message of Arne Saknussemm** burning in his mind like a guiding star. I, Axel, his reluctant nephew, wondered if those dreams might lead us not to glory, but to doom.
+THE EASTERN TUNNEL
 
-As we advanced, the flicker of our lamps threw grotesque, flickering shadows onto the jagged walls, which seemed to close in around us. The corridor narrowed, and I felt my pulse quicken with a claustrophobic dread. My uncle, wholly absorbed in the task of navigating the mysterious **geological formations**, called back to me, his voice echoing strangely in the confined space. "Axel, do you see? These striations indicate volcanic activity of the Miocene epoch! Imagine it—millions of years old, and yet here it lies, untouched by the hand of man!"
 
-I nodded without comment, my thoughts drifting to the surface world I feared we might never see again. Hans, our taciturn guide, followed silently behind, his steady demeanor as solid as the **lava walls** that surrounded us. He carried our supplies with the stoicism of one who had endured the trials of Iceland's harsh terrain and now found this journey to be no more daunting than a walk among the glaciers.
+The next day was Tuesday, the 30th of June--and at six o'clock in the
+morning we resumed our journey.
 
-Suddenly, the professor halted, his lamp held high to illuminate a peculiar sight on the rock face. "Look here, Axel! Do you see this fissure? It aligns perfectly with the directions in Saknussemm’s cipher. We are on the right path!" He gestured grandly, his enthusiasm infectious despite my misgivings. I approached the fissure, noting how its jagged edges seemed almost deliberately carved, as though some ancient hand had shaped it. Could it be that **Saknussemm himself**, centuries ago, had passed this very way?
+We still continued to follow the gallery of lava, a perfect natural
+pathway, as easy of descent as some of those inclined planes which, in
+very old German houses, serve the purpose of staircases. This went on
+until seventeen minutes past twelve, the precise instant at which we
+rejoined Hans, who, having been somewhat in advance, had suddenly
+stopped.
 
-We pressed onward, the fissure expanding into a wider gallery. Here, the air grew cooler, and the walls shimmered with veins of **mica**, which sparkled like starlight under the glow of our lamps. My uncle’s voice took on the tone of a lecturer addressing an eager audience, though his only listeners were Hans and me. "Do you see, Axel? This is evidence of metamorphic activity—rock transformed under immense pressure and heat over eons! Marvelous, simply marvelous!"
+"At last," cried my uncle, "we have reached the end of the shaft."
 
-Hans remained impassive, his expression unreadable as he scanned the gallery with the practiced eye of a man attuned to nature’s signals. He suddenly raised his hand, stopping us in our tracks. "Water," he said simply, pointing to a trickle that ran down the wall and pooled at the base of the gallery. The professor bent down to examine it, his excitement mounting.
+I looked wonderingly about me. We were in the centre of four cross
+paths--somber and narrow tunnels. The question now arose as to which it
+was wise to take; and this of itself was no small difficulty.
 
-"Excellent, Hans! This water must have seeped through fissures from a subterranean reservoir. It is pure and drinkable, as Saknussemm predicted!" He filled a flask, handing it to Hans, who sipped and nodded his approval. I followed suit, the cool liquid refreshing in this oppressive environment. It struck me as remarkable that **life-sustaining water** could exist so far beneath the surface, hidden from the sun and sky.
+My uncle, who did not wish to appear to have any hesitation about the
+matter before myself or the guide, at once made up his mind. He pointed
+quietly to **the eastern tunnel**; and, without delay, we entered within its
+gloomy recesses.
 
-As we continued, the gallery narrowed again, forcing us to proceed single file. The silence grew more profound, broken only by the occasional drip of water or the faint rumble of shifting rock deep within the Earth’s crust. My thoughts turned to the incredible forces at work beneath us—the **convection currents** of molten magma, the ceaseless movement of the planet’s tectonic plates. How fragile seemed the surface world, perched atop this roiling cauldron of unimaginable power.
+Besides, had he entertained any feeling of hesitation it might have been
+prolonged indefinitely, for there was no indication by which to
+determine on a choice. It was absolutely necessary to trust to chance
+and good fortune!
 
-We entered another chamber, this one vast and vaulted, its ceiling disappearing into darkness above. Here, strange formations hung like frozen cascades, their contours glistening with the damp sheen of mineral deposits. My uncle’s lamp revealed the presence of **stalactites**, their needle-like points descending from the roof as though threatening to impale any unwary traveler. "Axel, Hans, behold the wonders of nature’s architecture! This chamber is a testament to geological artistry, shaped over millennia by water and stone!"
+The descent of this obscure and narrow gallery was very gradual and
+winding. Sometimes we gazed through a succession of arches, its course
+very like the aisles of a Gothic cathedral. The great artistic sculptors
+and builders of the Middle Ages might have here completed their studies
+with advantage. Many most beautiful and suggestive ideas of
+architectural beauty would have been discovered by them. After passing
+through this phase of the cavernous way, we suddenly came, about a mile
+farther on, upon a square system of arch, adopted by the early Romans,
+projecting from the solid rock, and keeping up the weight of the roof.
 
-I felt a chill as I gazed upward, imagining those ancient drops of water carving their slow, deliberate path down through the rock. Time had no meaning here; the processes that shaped this world operated on a scale beyond human comprehension. Yet here we were, mere mortals, trespassing upon this eternal realm.
+Suddenly we would come upon a series of low subterranean tunnels which
+looked like beaver holes, or the work of foxes--through whose narrow and
+winding ways we had literally to crawl!
 
-Hans suddenly stopped again, his sharp eyes scanning the chamber. He pointed to a faint mark upon the far wall—a symbol etched into the rock. My uncle hurried forward, his excitement reaching a fever pitch. "Saknussemm’s mark!" he exclaimed. "He was here, Axel, Hans! This is the proof we sought!" The symbol was unmistakable, a **rune-like inscription** that matched the cipher we had deciphered from the old manuscript. My uncle’s faith in Saknussemm’s guidance was vindicated, and even I felt a glimmer of hope that our journey was not in vain.
+The heat still remained at quite a supportable degree. With an
+involuntary shudder, I reflected on what the heat must have been when
+the **volcano of Sneffels** was pouring its smoke, flames, and streams of
+boiling lava--all of which must have come up by the road we were now
+following. I could imagine the torrents of hot seething stone darting
+on, bubbling up with accompaniments of smoke, steam, and sulphurous
+stench!
 
-We rested briefly in the chamber, Hans distributing dried meat and bread from our provisions. The meal was sparse but sufficient, and the water from the subterranean spring refreshed us. As we ate, my uncle spoke at length about the implications of our discovery. "Imagine the secrets we may uncover, Axel! **Fossils** of creatures unknown to science, evidence of Earth’s primordial past, perhaps even proof of life existing in these depths! Our names shall be immortalized in the annals of geology and natural history!"
+"Only to think of the consequences," I mused, "if the old volcano were
+once more to set to work."
 
-I could not share his enthusiasm. My thoughts were consumed by the dangers that lay ahead—**cave-ins**, poisonous gases, the suffocating darkness that seemed to close around us like a living thing. Yet I could not deny the allure of the unknown, the tantalizing promise of discovery that drove my uncle forward with such relentless zeal.
+I did not communicate these rather unpleasant reflections to my uncle.
+He not only would not have understood them, but would have been
+intensely disgusted. His only idea was to go ahead. He walked, he slid,
+he clambered over piles of fragments, he rolled down heaps of broken
+lava, with an earnestness and conviction it was impossible not to
+admire.
 
-After our brief respite, we resumed our march, following the faint trail of Saknussemm’s symbols. Each mark was a beacon, guiding us deeper into this labyrinth of stone. The rock formations grew stranger, their shapes twisted and alien, as though sculpted by forces beyond human understanding. I felt a growing unease, as though we were intruding upon a world that was not meant for us.
+At six o'clock in the evening, after a very wearisome journey, but one
+not so fatiguing as before, we had made six miles towards the southward,
+but had not gone more than a mile downwards.
 
-At last, we reached a point where the gallery split into two tunnels, each equally dark and foreboding. My uncle examined the walls carefully, searching for Saknussemm’s guidance. "This way," he declared, pointing to the left-hand tunnel. "The symbols indicate that this path leads downward, closer to the Earth’s core!"
+My uncle, as usual, gave the signal to halt. We ate our meal in
+thoughtful silence, and then retired to sleep.
 
-Hans adjusted his pack and nodded, his quiet acceptance of the professor’s decision a testament to his unwavering resolve. I hesitated, staring into the abyss of the tunnel, its darkness seeming to swallow the faint light of our lamps. But there was no turning back. With a deep breath, I followed them, stepping into the unknown.
+Our arrangements for the night were very primitive and simple. A
+traveling rug, in which each rolled himself, was all our bedding. We had
+no necessity to fear cold or any unpleasant visit. Travelers who bury
+themselves in the wilds and depths of the African desert, who seek
+profit and pleasure in the forests of the New World, are compelled to
+take it in turn to watch during the hours of sleep; but in this region
+of the earth **absolute solitude** and complete security reigned supreme.
 
-The descent grew steeper, and the air colder. The walls of the tunnel seemed to pulse faintly, as though alive with the heartbeat of the Earth itself. My uncle’s excitement remained undiminished, his voice rising as he expounded upon the **mineralogical composition** of the rock and the implications of Saknussemm’s discoveries. Hans remained silent, his watchful eyes scanning the tunnel for any signs of danger.
+We had nothing to fear either from savages or from wild beasts.
 
-As for me, I could not shake the feeling that we were being drawn deeper into a mystery beyond our understanding. The Earth held its secrets close, and we were but intruders, seeking answers to questions that might best remain unasked. Yet, even as fear gnawed at my heart, I felt a flicker of wonder—a recognition of the vastness of the world beneath our feet, a realm of infinite possibilities and unimaginable beauty.
+After a night's sweet repose, we awoke fresh and ready for action. There
+being nothing to detain us, we started on our journey. We continued to
+burrow through the lava tunnel as before. It was impossible to make out
+through what soil we were making way. The tunnel, moreover, instead of
+going down into the bowels of the earth, became absolutely horizontal.
 
-So we journeyed onward, guided by the faint signals Saknussemm had left behind, each step taking us deeper into the heart of the Earth and closer to the unknown fate that awaited us. Whether that fate would be triumph or tragedy, only time would tell.
+I even thought, after some examination, that we were actually tending
+upwards. About ten o'clock in the day this state of things became so
+clear that, finding the change very fatiguing, I was obliged to slacken
+my pace and finally come to a halt.
+
+"Well," said the Professor quickly, "what is the matter?"
+
+"The fact is, I am dreadfully tired," was my earnest reply.
+
+"What," cried my uncle, "tired after a three hours' walk, and by so easy
+a road?"
+
+"Easy enough, I dare say, but very fatiguing."
+
+"But how can that be, when all we have to do is to go downwards."
+
+"I beg your pardon, sir. For some time I have noticed that we are going
+upwards."
+
+"Upwards," cried my uncle, shrugging his shoulders, "how can that be?"
+
+"There can be no doubt about it. For the last half hour the slopes have
+been upward--and if we go on in this way much longer we shall find
+ourselves back in Iceland."
+
+My uncle shook his head with the air of a man who does not want to be
+convinced. I tried to continue the conversation. He would not answer me,
+but once more gave the signal for departure. His silence I thought was
+only caused by concentrated ill-temper.
+
+However this might be, I once more took up my load, and boldly and
+resolutely followed Hans, who was now in advance of my uncle. I did not
+like to be beaten or even distanced. I was naturally anxious not to lose
+sight of my companions. The very idea of being left behind, lost in that
+**terrible labyrinth**, made me shiver as with the ague.
+
+Besides, if the ascending path was more arduous and painful to clamber,
+I had one source of secret consolation and delight. It was to all
+appearance taking us back to the surface of the earth. That of itself
+was hopeful. Every step I took confirmed me in my belief, and I began
+already to build castles in the air in relation to my marriage with my
+pretty little cousin.
+
+About twelve o'clock there was a great and sudden change in the aspect
+of the rocky sides of the gallery. I first noticed it from the
+diminution of the rays of light which cast back the reflection of the
+lamp. From being coated with shining and resplendent lava, it became
+living rock. The sides were sloping walls, which sometimes became quite
+vertical.
+
+We were now in what the geological professors call a state of
+transition, in the period of **Silurian stones**, so called because this
+specimen of early formation is very common in England in the counties
+formerly inhabited by the Celtic nation known as Silures.
+
+"I can see clearly now," I cried; "the sediment from the waters which
+once covered the whole earth formed during the second period of its
+existence these schists and these calcareous rocks. We are turning our
+backs on the granite rocks, and are like people from Hamburg who would
+go to Lubeck by way of Hanover."
+
+I might just as well have kept my observations to myself. My geological
+enthusiasm got the better, however, of my cooler judgment, and Professor
+Hardwigg heard my observations.
+
+"What is the matter now?" he said, in a tone of great gravity.
+
+"Well," cried I, "do you not see these different layers of calcareous
+rocks and the first indication of slate strata?"
+
+"Well; what then?"
+
+"We have arrived at that period of the world's existence when the first
+plants and the first animals made their appearance."
+
+"You think so?"
+
+"Yes, look; examine and judge for yourself."
+
+I induced the Professor with some difficulty to cast the light of his
+lamp on the sides of the long winding gallery. I expected some
+exclamation to burst from his lips. I was very much mistaken. The worthy
+Professor never spoke a word.
+
+It was impossible to say whether he understood me or not. Perhaps it was
+possible that in his pride--my uncle and a learned professor--he did not
+like to own that he was wrong in having chosen the eastern tunnel, or
+was he determined at any price to go to the end of it? It was quite
+evident we had left the **region of lava**, and that the road by which we
+were going could not take us back to the great crater of Mount Sneffels.
+
+As we went along I could not help ruminating on the whole question, and
+asked myself if I did not lay too great a stress on these sudden and
+peculiar modifications of the earth's crust.
+
+After all, I was very likely to be mistaken--and it was within the range
+of probability and possibility that we were not making our way through
+the strata of rocks which I believed I recognized piled on the lower
+layer of granitic formation.
+
+"At all events, if I am right," I thought to myself, "I must certainly
+find some remains of primitive plants, and it will be absolutely
+necessary to give way to such indubitable evidence. Let us have a good
+search."
+
+I accordingly lost no opportunity of searching, and had not gone more
+than about a hundred yards, when the evidence I sought for cropped up in
+the most incontestable manner before my eyes. It was quite natural that
+I should expect to find these signs, for during the Silurian period the
+seas contained no fewer than fifteen hundred different animal and
+vegetable species. My feet, so long accustomed to the hard and arid lava
+soil, suddenly found themselves treading on a kind of soft dust, the
+remains of plants and shells.
+
+Upon the walls themselves I could clearly make out the outline, as plain
+as a sun picture, of the fucus and the lycopods. The worthy and
+excellent Professor Hardwigg could not of course make any mistake about
+the matter; but I believe he deliberately closed his eyes, and continued
+on his way with a firm and unalterable step.
+
+I began to think that he was carrying his obstinacy a great deal too
+far. I could no longer act with prudence or composure. I stooped on a
+sudden and picked up an almost perfect shell, which had undoubtedly
+belonged to some animal very much resembling some of the present day.
+Having secured the prize, I followed in the wake of my uncle.
+
+"Do you see this?" I said.
+
+"Well, said the Professor, with the most imperturbable tranquillity, "it
+is the **shell of a crustaceous animal** of the extinct order of the
+trilobites; nothing more, I assure you."
+
+"But," cried I, much troubled at his coolness, "do you draw no
+conclusion from it?"
+
+"Well, if I may ask, what conclusion do you draw from it yourself?"
+
+"Well, I thought--"
+
+"I know, my boy, what you would say, and you are right, perfectly and
+incontestably right. We have finally abandoned the crust of lava and the
+road by which the lava ascended. It is quite possible that I may have
+been mistaken, but I shall be unable to discover my error until I get to
+the end of this gallery."
+
+"You are quite right as far as that is concerned," I replied, "and I
+should highly approve of your decision, if we had not to fear the
+greatest of all dangers."
+
+"And what is that?"
+
+"**Want of water**."
+
+"Well, my dear Henry, it can't be helped. We must put ourselves on
+rations."
+
+And on he went.

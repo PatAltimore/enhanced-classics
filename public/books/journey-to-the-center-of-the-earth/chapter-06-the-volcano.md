@@ -9,122 +9,310 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "The chapter begins with a vivid description of Reykjavik and the distant Snæfellsjökull glacier, setting the stage for the journey."
-    link: "https://en.wikipedia.org/wiki/Reykjavik"
+  - point: "The travelers depart Copenhagen aboard the schooner Valkyrie, heading for Iceland."
+    link: "https://en.wikipedia.org/wiki/Copenhagen"
+    link_label: "Copenhagen"
+  - point: "They pass landmarks like Cape Skagen and Mount Myrdals Yokul during their voyage."
+    link: "https://en.wikipedia.org/wiki/Cape_Skagen"
+    link_label: "Cape Skagen"
+  - point: "After a stormy journey, they arrive in Reykjavik and meet local officials like Baron Trampe."
+    link: "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
     link_label: "Reykjavik"
-  - point: "Professor Lidenbrock carries the manuscript of Arne Saknussemm, which guides their expedition to the Earth's interior."
-    link: "https://en.wikipedia.org/wiki/Arne_Saknussemm"
-    link_label: "Arne Saknussemm"
-  - point: "The group traverses fields of hardened lava and geothermal springs, showcasing Iceland's volcanic landscape."
-    link: "https://en.wikipedia.org/wiki/Geothermal_spring"
-    link_label: "Geothermal springs"
-  - point: "The summit of Snæfells is reached, and the group prepares to descend into the crater, believed to be the gateway to the Earth's core."
+  - point: "Professor Hardwigg is eager to explore Mount Sneffels, the gateway to their subterranean adventure."
     link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
-    link_label: "Snæfellsjökull"
-  - point: "The descent begins, with the group encountering igneous formations and a fissure leading deeper into the subterranean realm."
-    link: "https://en.wikipedia.org/wiki/Igneous_rock"
-    link_label: "Igneous formations"
-  - point: "Professor Lidenbrock inspires Axel to trust in science and reason as they venture into the unknown depths of the Earth."
-    link: "https://en.wikipedia.org/wiki/Earth's_core"
-    link_label: "Earth's core"
+    link_label: "Mount Sneffels"
+  - point: "The narrator explores Reykjavik, observing its sparse vegetation, volcanic landscape, and unique culture."
+    link: "https://en.wikipedia.org/wiki/Iceland"
+    link_label: "Iceland"
+  - point: "The professor plans to consult manuscripts by Saknussemm, a key figure in their quest."
+    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    link_label: "Saknussemm"
 
 enhancements:
-  - id: "reykjavik-capital-of-iceland"
-    trigger: "Reykjavik"
-    title: "Reykjavik: Capital of Iceland"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Reykjavik"
+  - id: "cape-skagen-northernmost-tip-of-denmark"
+    trigger: "Cape Skagen"
+    title: "Why This Danish Cape Is a Sailor's Landmark"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cape_Skagen"
     image_url: ""
     image_caption: ""
-    content: "Reykjavik is the capital and largest city of Iceland, known for its unique blend of natural beauty and urban culture. It is often a starting point for travelers exploring Iceland's dramatic landscapes, including glaciers, volcanoes, and geothermal springs. Its proximity to Snæfellsjökull makes it a fitting launchpad for the expedition described in Jules Verne's novel."
-  - id: "snaefellsjokull-glacier-and-volcano"
-    trigger: "Snæfellsjökull glacier"
-    title: "Snæfellsjökull Glacier and Volcano"
+    content: "As the Valkyrie rounds Cape Skagen, Jules Verne's narrative pauses to mark this northernmost tip of Denmark. The cape, a sandy spit jutting into the sea, has long been a crucial waypoint for sailors navigating the treacherous waters of the Skagerrak and Kattegat straits. Its shifting sands and shallow waters have historically posed challenges, earning it a reputation as a maritime hazard. In the 19th century, Cape Skagen was also a cultural touchstone, inspiring painters of the Skagen art colony who captured its windswept beauty. For Verne, this geographical marker serves as a transition point, moving his characters from the familiar European mainland toward the remote and mysterious Iceland. The cape's stark isolation mirrors the journey's thematic shift: from the known to the unknown, from surface exploration to the depths of the Earth."
+  - id: "mount-myrdals-yokul-icelands-glacial-giant"
+    trigger: "Mount Myrdals Yokul"
+    title: "The Glacier That Hides a Fiery Secret"
+    wikipedia_url: "https://en.wikipedia.org/wiki/M%C3%BDrdalsj%C3%B6kull"
+    image_url: ""
+    image_caption: ""
+    content: "As the Valkyrie approaches Iceland, Mount Myrdals Yokul looms into view, its snow-covered peak a striking contrast to the surrounding Atlantic waves. Beneath its icy surface lies Katla, one of Iceland's most active and dangerous volcanoes. Katla has erupted roughly every 50 years, with its last major eruption occurring in 1918, causing catastrophic flooding from glacial meltwater. This duality of fire and ice encapsulates Iceland's geological extremes, a theme Verne exploits throughout the novel. The sight of Myrdals Yokul foreshadows the volcanic landscapes the characters will traverse, underscoring the raw power and unpredictability of nature—a force they must confront both above and below ground."
+  - id: "bay-of-faxa-icelands-natural-harbor"
+    trigger: "bay of Faxa"
+    title: "The Bay That Welcomes Iceland's Visitors"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Faxafl%C3%B3i"
+    image_url: ""
+    image_caption: ""
+    content: "The Valkyrie anchors in the bay of Faxa, a vast natural harbor stretching along Iceland's southwestern coast. Faxaflói Bay has historically been a lifeline for Reykjavik, providing access for fishing vessels and trade ships. Its waters teem with marine life, including cod and whales, making it a cornerstone of Iceland's economy. In Verne's narrative, the bay serves as the travelers' first encounter with Iceland's stark beauty and isolation. The bay's glacial backdrop, dominated by Mount Sneffels, sets the stage for the novel's descent into the Earth's depths. This moment captures the tension between the surface world's serene landscapes and the subterranean chaos awaiting the explorers."
+  - id: "mount-sneffels-gateway-to-earths-depths"
+    trigger: "Mount Sneffels"
+    title: "The Icelandic Volcano That Leads to Adventure"
     wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
     image_url: ""
     image_caption: ""
-    content: "Snæfellsjökull is a glacier-capped stratovolcano in western Iceland, famous for its role in Jules Verne's 'Journey to the Center of the Earth.' It has been a source of inspiration for explorers and writers due to its striking beauty and mystical associations. The glacier is also a popular destination for hikers and nature enthusiasts."
-  - id: "arne-saknussemm-icelandic-alchemist"
-    trigger: "Arne Saknussemm"
-    title: "Arne Saknussemm: Icelandic Alchemist"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Arne_Saknussemm"
+    content: "When Professor Hardwigg first glimpses Mount Sneffels, his awe is palpable. This glacier-capped volcano, located on Iceland's Snæfellsnes Peninsula, has captured imaginations for centuries. Its summit offers panoramic views of the surrounding fjords and ocean, but its true intrigue lies beneath: Sneffels is a dormant volcano with a crater that Verne transforms into the gateway to the Earth's core. In Icelandic folklore, the mountain is considered mystical, often associated with spiritual journeys. Verne taps into this mysticism, using Sneffels as both a literal and symbolic threshold. Its eternal snow contrasts with the fiery depths below, embodying the novel's central tension between surface and subterranean worlds."
+  - id: "baron-trampe-icelands-19th-century-governor"
+    trigger: "Baron Trampe"
+    title: "The Danish Nobleman Who Governed Iceland"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Baron_Trampe"
     image_url: ""
     image_caption: ""
-    content: "Arne Saknussemm is a fictional Icelandic alchemist in Jules Verne's novel, credited with discovering the path to the Earth's core. His manuscript serves as the key to the expedition, blending science and mysticism in the story. The character reflects Verne's fascination with historical figures who pushed the boundaries of knowledge."
-  - id: "geothermal-springs-natural-phenomena"
-    trigger: "geothermal springs"
-    title: "Geothermal Springs: Natural Phenomena"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Geothermal_spring"
+    content: "Baron Trampe, the governor of Iceland, greets Professor Hardwigg with formal courtesy upon his arrival. Trampe was a real historical figure, serving as governor during a period when Iceland was under Danish rule. His role was administrative, overseeing trade, law, and relations between Denmark and Iceland. Verne's inclusion of Trampe adds a layer of authenticity to the narrative, grounding the fantastical journey in a real political context. The baron's willingness to assist the professor reflects Iceland's historical openness to scientific exploration, a theme that resonates throughout the novel. Trampe's presence underscores the intersection of governance and discovery, as the travelers prepare to delve into Iceland's geological mysteries."
+  - id: "national-school-icelands-educational-hub"
+    trigger: "national school"
+    title: "The School That Taught Iceland's Future Leaders"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Education_in_Iceland"
     image_url: ""
     image_caption: ""
-    content: "Geothermal springs are natural outlets of heated water from the Earth's crust, often found in volcanic regions like Iceland. They are a testament to the planet's geothermal activity and are used for energy production and recreation. In the novel, they symbolize the dynamic forces shaping the Earth's surface."
-  - id: "earths-core-geological-mystery"
-    trigger: "Earth's core"
-    title: "Earth's Core: Geological Mystery"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Earth's_core"
+    content: "During his exploration of Reykjavik, the narrator passes the national school, a modest institution teaching subjects like Hebrew, English, French, and Danish. In the 19th century, Iceland's educational system was limited but deeply valued, with schools often focusing on classical studies and theology. The national school represents Iceland's commitment to intellectual growth despite its isolation and harsh environment. For Verne, this detail enriches the setting, highlighting the resilience and resourcefulness of Icelandic society. The school serves as a quiet counterpoint to the novel's grand adventure, reminding readers of the human pursuit of knowledge—a theme mirrored in the explorers' quest to uncover Earth's secrets."
+  - id: "vadmel-icelands-woolen-tradition"
+    trigger: "vadmel"
+    title: "The Wool That Kept Iceland Warm"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Vadmal"
     image_url: ""
     image_caption: ""
-    content: "The Earth's core is the innermost layer of our planet, composed primarily of iron and nickel. It remains largely inaccessible, making it a subject of scientific intrigue and speculative fiction. Verne's depiction of a journey to the core reflects 19th-century curiosity about Earth's hidden depths."
-  - id: "hardened-lava-volcanic-remnants"
-    trigger: "hardened lava"
-    title: "Hardened Lava: Volcanic Remnants"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lava"
+    content: "The narrator observes Icelanders wearing vadmel, a coarse woolen fabric that has been a staple of Scandinavian clothing for centuries. Vadmal is tightly woven, making it durable and insulating—ideal for Iceland's harsh climate. Historically, it was used not only for clothing but also as a form of currency in trade. Verne's mention of vadmel underscores the resourcefulness of Icelandic culture, where practicality often trumps aesthetics. This detail adds texture to the novel's depiction of Iceland, emphasizing the interplay between human adaptation and the environment. The fabric's ruggedness mirrors the resilience required for the journey ahead, as the explorers prepare to face the Earth's unforgiving depths."
+  - id: "saknussemm-icelands-legendary-explorer"
+    trigger: "Saknussemm"
+    title: "The Mysterious Icelandic Alchemist Who Mapped the Earth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
     image_url: ""
     image_caption: ""
-    content: "Hardened lava forms when molten rock cools and solidifies after a volcanic eruption. These formations are common in Iceland, a land shaped by volcanic activity. The jagged terrain described in the novel highlights the raw power of nature and the challenges faced by explorers."
-  - id: "igneous-formations-volcanic-rocks"
-    trigger: "igneous formations"
-    title: "Igneous Formations: Volcanic Rocks"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Igneous_rock"
-    image_url: ""
-    image_caption: ""
-    content: "Igneous rocks are formed through the cooling and solidification of magma or lava. They are a key feature of volcanic landscapes and provide insights into Earth's geological history. In the novel, their twisted shapes add to the eerie and otherworldly atmosphere of the descent."
-  - id: "prehistoric-seas-ancient-ecosystems"
-    trigger: "prehistoric seas"
-    title: "Prehistoric Seas: Ancient Ecosystems"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Prehistoric_sea"
-    image_url: ""
-    image_caption: ""
-    content: "Prehistoric seas refer to ancient bodies of water that existed millions of years ago, often teeming with now-extinct marine life. Verne's reference to these seas evokes the idea of untouched ecosystems and the possibility of discovering unknown species, a theme central to the novel's exploration of the Earth's depths."
-  - id: "subterranean-realm-hidden-worlds"
-    trigger: "subterranean realm"
-    title: "Subterranean Realm: Hidden Worlds"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Subterranean_world"
-    image_url: ""
-    image_caption: ""
-    content: "The concept of a subterranean realm has fascinated humans for centuries, appearing in myths, literature, and scientific speculation. In Verne's novel, it represents the ultimate frontier, a hidden world beneath the Earth's surface that challenges the limits of human exploration and understanding."
+    content: "Professor Hardwigg eagerly anticipates finding manuscripts by Saknussemm, the enigmatic Icelandic scholar whose work guides their subterranean journey. In Verne's novel, Saknussemm is portrayed as a 16th-century alchemist and explorer who discovered a path to the Earth's core. While fictional, his character draws on real historical figures like Tycho Brahe and Johannes Kepler, blending science and mysticism. Saknussemm's cryptic writings symbolize the allure of hidden knowledge, a recurring theme in Verne's works. By invoking this figure, Verne ties the explorers' quest to a lineage of intellectual curiosity and daring, framing their descent as both a scientific endeavor and a spiritual odyssey."
 ---
-The morning sun rose crisp and bright over **Reykjavik**, its rays spreading across the humble dwellings and glinting off the icy crests of the **Snæfellsjökull glacier** in the far distance. The air bore an untainted freshness, invigorating and sharp as the wind carried with it the faint tang of sea salt and volcanic sulfur. It was the dawn of our departure, the day we would set foot upon the mighty **Snæfells**, whose ancient summit promised entry to the Earth’s most guarded secrets. My mind, however, remained a battlefield of apprehension and excitement as I joined my uncle and our stoic guide Hans at the ready.
+Our Voyage to Iceland
 
-Professor Lidenbrock, who was always one to thrive on fervor, strode ahead with determined steps. He carried the leather-bound manuscript of **Arne Saknussemm**, that old Icelandic alchemist and our cryptic benefactor, tucked safely under his arm. The manuscript had drawn us here, to this land of fire and ice, beckoning us toward the volcanic maw that promised passage to the **Earth's interior**. My uncle’s excitement bordered on madness, his eyes alight with the fervor of discovery. To him, we were not merely travelers; we were pioneers, poised to rewrite the boundaries of human knowledge.
 
-Hans, the taciturn Icelandic hunter and our indispensable guide, carried our provisions with the quiet competence of one accustomed to harsh terrain. His demeanor was as inscrutable as the mountain itself, but his presence lent comfort. He knew Snæfells as though the glacier were an old friend, its crevices and caverns mapped in his mind. He was a pillar of reliability, even as my own nerves wavered.
+The hour of departure came at last. The night before, the worthy Mr.
+Thompson brought us the most cordial letters of introduction for Baron
+Trampe, Governor of Iceland, for M. Pictursson, coadjutor to the bishop,
+and for M. Finsen, mayor of the town of Reykjavik. In return, my uncle
+nearly crushed his hands, so warmly did he shake them.
 
-The journey to the volcano’s base was arduous, though the landscape unfolded before us in stunning grandeur. We traversed fields of **hardened lava**, their jagged edges bearing testament to eruptions long past. The earth seemed alive beneath our feet, the **geothermal springs** bubbling and hissing like whispers from the underworld. Great basalt columns rose like sentinels, their angular forms creating a surreal contrast to the wild, untamed beauty of this land. Above us loomed Snæfells, its snow-capped summit gleaming like a beacon against the azure sky.
+On the second of the month, at two in the morning, our precious cargo of
+luggage was taken on board the good ship <i>Valkyrie</i>. We followed, and
+were very politely introduced by the captain to a small cabin with two
+standing bed places, neither very well ventilated nor very comfortable.
+But in the cause of science men are expected to suffer.
 
-As we began our ascent, the path grew steeper, the air thinner. Each step seemed a test of endurance, and I marveled at Hans’s unflagging pace. The guide was as steady as the march of time itself, unbothered by the strain that weighed upon my limbs. My uncle, too, pressed onward with unrelenting determination, his gaze fixed upward toward our goal. The professor’s voice rang out occasionally, a mixture of encouragement and exultation, as though he could already see the secrets hidden within the mountain’s depths.
+"Well, and have we a fair wind?" cried my uncle, in his most mellifluous
+accents.
 
-“We are upon the threshold of history!” he declared at one point, pausing to catch his breath. “Imagine, Axel, a world untouched by the hand of man, a realm preserved in its primordial splendor. The **prehistoric seas** await us, teeming with creatures that defy imagination. And we shall prove Saknussemm’s prophecy true!”
+"An excellent wind!" replied Captain Bjarne; "we shall leave the Sound,
+going free with all sails set."
 
-Though his words were intended to inspire, they only deepened the trepidation in my heart. The notion of descending into the belly of the Earth seemed an affront to nature itself, a trespass into realms meant to remain undisturbed. Yet I could not abandon him; the bond of family and the pull of curiosity bound me to his side despite my fears.
+A few minutes afterwards, the schooner started before the wind, under
+all the canvas she could carry, and entered the channel. An hour later,
+the capital of Denmark seemed to sink into the waves, and we were at no
+great distance from the coast of Elsinore. My uncle was delighted; for
+myself, moody and dissatisfied, I appeared almost to expect a glimpse of
+the ghost of Hamlet.
 
-At last, we reached the summit, where the ice and rock converged in a stark, otherworldly tableau. The crater of Snæfells stretched before us, its depths hidden in shadow. The air was colder here, laden with the silence of ages. My uncle approached the edge with reverence, his eyes scanning the cavity as though searching for the key to unlock its secrets.
+"Sublime madman," thought I, "you doubtless would approve our
+proceedings. You might perhaps even follow us to the centre of the
+earth, there to resolve your eternal doubts."
 
-“This is it,” he murmured, his voice trembling with awe. “The gateway to the **Earth’s core**, Axel. Here begins our descent into the unknown.”
+But no ghost or anything else appeared upon the ancient walls. The fact
+is, the castle is much later than the time of the heroic prince of
+Denmark. It is now the residence of the keeper of the Strait of the
+Sound, and through that Sound more than fifteen thousand vessels of all
+nations pass every year.
 
-Hans, ever pragmatic, began unpacking our equipment without a word. Ropes, lanterns, provisions—each item was checked and secured with the precision of a craftsman. My uncle joined him, his hands trembling slightly as he handled the tools of our endeavor. I, on the other hand, hesitated, my gaze fixed on the abyss that awaited us.
+The castle of Kronborg soon disappeared in the murky atmosphere, as well
+as the tower of Helsinborg, which raises its head on the Swedish Bank.
+And here the schooner began to feel in earnest the breezes of the
+Kattegat. The <i>Valkyrie</i> was swift enough, but with all sailing boats
+there is the same uncertainty. Her cargo was coal, furniture, pottery,
+woolen clothing, and a load of corn. As usual, the crew was small, five
+Danes doing the whole of the work.
 
-The crater was a marvel, its walls lined with layers of volcanic rock that told the story of countless eruptions. The **igneous formations**, twisted and contorted, seemed almost alive, their colors shifting from deep black to ruddy orange in the changing light. The air carried the faint odor of sulfur, a reminder of the fiery forces that had shaped this land.
+"How long will the voyage last?" asked my uncle.
 
-Hans led the way, descending the first few feet with practiced ease. My uncle followed, his enthusiasm undiminished despite the treacherous footing. I took a deep breath, steeling myself, and stepped into the crater, the world above receding with each cautious movement.
+"Well, I should think about ten days," replied the skipper, "unless,
+indeed, we meet with some northeast gales among the Faroe Islands."
 
-The descent was slow and deliberate, the darkness growing more oppressive as we ventured deeper. The lanterns cast flickering shadows upon the walls, revealing the intricate patterns etched by molten rock. The silence was broken only by the sound of our boots scraping against stone and the occasional drip of water echoing through the cavern.
+"At all events, there will be no very considerable delay," cried the
+impatient Professor.
 
-We paused at a narrow ledge, where Hans pointed to a fissure in the rock—a passage leading further downward. My uncle’s eyes gleamed with anticipation as he examined the opening, his mind already racing ahead to the discoveries that awaited.
+"No, Mr. Hardwigg," said the captain, "no fear of that. At all events,
+we shall get there some day."
 
-“This is the path Saknussemm described,” he said, his voice barely above a whisper. “The **subterranean realm** lies beyond. Axel, Hans—this is the threshold of wonders.”
+Towards evening the schooner doubled **Cape Skagen**, the northernmost part
+of Denmark, crossed the Skagerrak during the night--skirted the extreme
+point of Norway through the gut of Cape Lindesnes, and then reached the
+Northern Seas. Two days later we were not far from the coast of
+Scotland, somewhere near what Danish sailors call Peterhead, and then
+the <i>Valkyrie</i> stretched out direct for the Faroe Islands, between
+Orkney and Shetland. Our vessel now felt the full force of the ocean
+waves, and the wind shifting, we with great difficulty made the Faroe
+Isles. On the eighth day, the captain made out Myganness, the
+westernmost of the isles, and from that moment headed direct for
+Portland, a cape on the southern shores of the singular island for which
+we were bound.
 
-Hans nodded and began preparing the ropes for the next stage of our descent. I felt a chill run through me, not from the cold but from the enormity of what lay ahead. The world above seemed a distant memory, and the weight of the Earth pressed down upon us as we prepared to venture further into its depths.
+The voyage offered no incident worthy of record. I bore it very well,
+but my uncle to his great annoyance, and even shame, was remarkably
+seasick! This mal de mer troubled him the more that it prevented him
+from questioning Captain Bjarne as to the subject of Sneffels, as to the
+means of communication, and the facilities of transport. All these
+explanations he had to adjourn to the period of his arrival. His time,
+meanwhile, was spent lying in bed groaning, and dwelling anxiously on
+the hoped--for termination of the voyage. I didn't pity him.
 
-My uncle turned to me, his expression one of fierce resolve tempered by a touch of tenderness. “Axel,” he said, “we stand on the brink of discovery. Trust in science, in reason, and in the strength of our purpose. Together, we shall uncover the mysteries of the deep.”
+On the eleventh day we sighted Cape Portland, over which towered **Mount
+Myrdals Yokul**, which, the weather being clear, we made out very readily.
+The cape itself is nothing but a huge mount of granite standing naked
+and alone to meet the Atlantic waves. The <i>Valkyrie</i> kept off the coast,
+steering to the westward. On all sides were to be seen whole "schools"
+of whales and sharks. After some hours we came in sight of a solitary
+rock in the ocean, forming a mighty vault, through which the foaming
+waves poured with intense fury. The islets of Westman appeared to leap
+from the ocean, being so low in the water as scarcely to be seen until
+you were right upon them. From that moment the schooner was steered to
+the westward in order to round Cape Reykjanes, the western point of
+Iceland.
 
-I nodded, though my heart was heavy with doubt. The journey ahead was fraught with danger, but it was also a journey of unparalleled significance. As Hans secured the ropes and my uncle prepared the lanterns, I took one last look at the faint glimmer of daylight above. Then, with a deep breath, I followed them into the shadowed depths of Snæfells, the unknown stretching before us like an endless, beckoning void.
+My uncle, to his great disgust, was unable even to crawl on deck, so
+heavy a sea was on, and thus lost the first view of the Land of Promise.
+Forty-eight hours later, after a storm which drove us far to sea under
+bare poles, we came once more in sight of land, and were boarded by a
+pilot, who, after three hours of dangerous navigation, brought the
+schooner safely to an anchor in the **bay of Faxa** before Reykjavik.
+
+My uncle came out of his cabin pale, haggard, thin, but full of
+enthusiasm, his eyes dilated with pleasure and satisfaction. Nearly the
+whole population of the town was on foot to see us land. The fact was,
+that scarcely any one of them but expected some goods by the periodical
+vessel.
+
+Professor Hardwigg was in haste to leave his prison, or rather as he
+called it, his hospital; but before he attempted to do so, he caught
+hold of my hand, led me to the quarterdeck of the schooner, took my arm
+with his left hand, and pointed inland with his right, over the northern
+part of the bay, to where rose a high two-peaked mountain--a double cone
+covered with eternal snow.
+
+"Behold he whispered in an awe-stricken voice, behold--**Mount Sneffels**!"
+
+Then without further remark, he put his finger to his lips, frowned
+darkly, and descended into the small boat which awaited us. I followed,
+and in a few minutes we stood upon the soil of mysterious Iceland!
+
+Scarcely were we fairly on shore when there appeared before us a man of
+excellent appearance, wearing the costume of a military officer. He was,
+however, but a civil servant, a magistrate, the governor of the
+island--**Baron Trampe**. The Professor knew whom he had to deal with. He
+therefore handed him the letters from Copenhagen, and a brief
+conversation in Danish followed, to which I of course was a stranger,
+and for a very good reason, for I did not know the language in which
+they conversed. I afterwards heard, however, that Baron Trampe placed
+himself entirely at the beck and call of Professor Hardwigg.
+
+My uncle was most graciously received by M. Finsen, the mayor, who as
+far as costume went, was quite as military as the governor, but also
+from character and occupation quite as pacific. As for his coadjutor, M.
+Pictursson, he was absent on an episcopal visit to the northern portion
+of the diocese. We were therefore compelled to defer the pleasure of
+being presented to him. His absence was, however, more than compensated
+by the presence of M. Fridriksson, professor of natural science in the
+college of Reykjavik, a man of invaluable ability. This modest scholar
+spoke no languages save Icelandic and Latin. When, therefore, he
+addressed himself to me in the language of Horace, we at once came to
+understand one another. He was, in fact, the only person that I did
+thoroughly understand during the whole period of my residence in this
+benighted island.
+
+Out of three rooms of which his house was composed, two were placed at
+our service, and in a few hours we were installed with all our baggage,
+the amount of which rather astonished the simple inhabitants of
+Reykjavik.
+
+"Now, Harry," said my uncle, rubbing his hands, "an goes well, the worse
+difficulty is now over."
+
+"How the worse difficulty over?" I cried in fresh amazement.
+
+"Doubtless. Here we are in Iceland. Nothing more remains but to descend
+into the bowels of the earth."
+
+"Well, sir, to a certain extent you are right. We have only to go
+down--but, as far as I am concerned, that is not the question. I want to
+know how we are to get up again."
+
+"That is the least part of the business, and does not in any way trouble
+me. In the meantime, there is not an hour to lose. I am about to visit
+the public library. Very likely I may find there some manuscripts from
+the hand of **Saknussemm**. I shall be glad to consult them."
+
+"In the meanwhile," I replied, "I will take a walk through the town.
+Will you not likewise do so?"
+
+"I feel no interest in the subject," said my uncle. "What for me is
+curious in this island, is not what is above the surface, but what is
+below."
+
+I bowed by way of reply, put on my hat and furred cloak, and went out.
+
+It was not an easy matter to lose oneself in the two streets of
+Reykjavik; I had therefore no need to ask my way. The town lies on a
+flat and marshy plain, between two hills. A vast field of lava skirts it
+on one side, falling away in terraces towards the sea. On the other hand
+is the large bay of Faxa, bordered on the north by the enormous glacier
+of Sneffels, and in which bay the <i>Valkyrie</i> was then the only vessel at
+anchor. Generally there were one or two English or French gunboats, to
+watch and protect the fisheries in the offing. They were now, however,
+absent on duty.
+
+The longest of the streets of Reykjavik runs parallel to the shore. In
+this street the merchants and traders live in wooden huts made with
+beams of wood, painted red--mere log huts, such as you find in the wilds
+of America. The other street, situated more to the west, runs toward a
+little lake between the residences of the bishop and the other
+personages not engaged in commerce.
+
+I had soon seen all I wanted of these weary and dismal thoroughfares.
+Here and there was a strip of discolored turf, like an old worn-out bit
+of woolen carpet; and now and then a bit of kitchen garden, in which
+grew potatoes, cabbage, and lettuce, almost diminutive enough to suggest
+the idea of Lilliput.
+
+In the centre of the new commercial street, I found the public cemetery,
+enclosed by an earthen wall. Though not very large, it appeared not
+likely to be filled for centuries. From hence I went to the house of the
+Governor--a mere hut in comparison with the Mansion House of
+Hamburg--but a palace alongside the other Icelandic houses. Between the
+little lake and the town was the church, built in simple Protestant
+style, and composed of calcined stones, thrown up by volcanic action. I
+have not the slightest doubt that in high winds its red tiles were blown
+out, to the great annoyance of the pastor and congregation. Upon an
+eminence close at hand was the **national school**, in which were taught
+Hebrew, English, French, and Danish.
+
+In three hours my tour was complete. The general impression upon my mind
+was sadness. No trees, no vegetation, so to speak--on all sides volcanic
+peaks--the huts of turf and earth--more like roofs than houses. Thanks
+to the heat of these residences, grass grows on the roof, which grass is
+carefully cut for hay. I saw but few inhabitants during my excursion,
+but I met a crowd on the beach, drying, salting and loading codfish, the
+principal article of exportation. The men appeared robust but heavy;
+fair-haired like Germans, but of pensive mien--exiles of a higher scale
+in the ladder of humanity than the Eskimos, but, I thought, much more
+unhappy, since with superior perceptions they are compelled to live
+within the limits of the Polar Circle.
+
+Sometimes they gave vent to a convulsive laugh, but by no chance did
+they smile. Their costume consists of a coarse capote of black wool,
+known in Scandinavian countries as the "**vadmel**," a broad-brimmed hat,
+trousers of red serge, and a piece of leather tied with strings for a
+shoe--a coarse kind of moccasin. The women, though sad-looking and
+mournful, had rather agreeable features, without much expression. They
+wear a bodice and petticoat of somber vadmel. When unmarried they wear a
+little brown knitted cap over a crown of plaited hair; but when married,
+they cover their heads with a colored handkerchief, over which they tie
+a white scarf.

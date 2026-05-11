@@ -9,117 +9,313 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "The travelers return to Hamburg, reflecting on their extraordinary journey beneath the Earth's surface."
-    link: "https://en.wikipedia.org/wiki/Hamburg"
-    link_label: "Hamburg"
-  - point: "Professor Lidenbrock eagerly prepares to share their discoveries, clutching his journal documenting their descent into the Earth's crust."
-    link: "https://en.wikipedia.org/wiki/Earth%27s_crust"
-    link_label: "Earth's crust"
-  - point: "Hans, the Icelandic hunter, is quietly recognized for his stoic endurance and vital contributions to the expedition."
-    link: "https://en.wikipedia.org/wiki/Iceland"
-    link_label: "Iceland"
-  - point: "The travelers recount their journey through the Snæfells volcano, subterranean ocean, and encounters with prehistoric creatures."
-    link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
-    link_label: "Snæfells volcano"
-  - point: "Professor Lidenbrock reflects on Arne Saknussemm's cryptic message that guided their expedition."
-    link: "https://en.wikipedia.org/wiki/Arne_Saknussemm"
-    link_label: "Arne Saknussemm"
-  - point: "The narrator contemplates the profound truths and mysteries revealed during their journey, questioning their impact on the world above."
-    link: "https://en.wikipedia.org/wiki/Subterranean_fiction"
-    link_label: "Subterranean fiction"
+  - point: "The characters spend a Sunday underground, reflecting on their journey and adapting to their unusual environment."
+    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    link_label: "Journey to the Center of the Earth"
+  - point: "Professor Hardwigg calculates their position and plans to create a vertical map of their expedition."
+    link: "https://en.wikipedia.org/wiki/Geologic_map"
+    link_label: "Geologic map"
+  - point: "The Professor discusses the theories of heat increase within the Earth's crust, contrasting them with Humphry Davy's ideas."
+    link: "https://en.wikipedia.org/wiki/Humphry_Davy"
+    link_label: "Humphry Davy"
+  - point: "The characters debate the challenges of atmospheric pressure and density as they descend further into the Earth."
+    link: "https://en.wikipedia.org/wiki/Atmospheric_pressure"
+    link_label: "Atmospheric pressure"
+  - point: "The Professor references the historical journey of Saknussemm as a precedent for their expedition."
+    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth#Plot_summary"
+    link_label: "Saknussemm's journey"
+  - point: "Hans, the guide, remains indifferent and stoic, contrasting with the Professor's scientific enthusiasm."
+    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth#Characters"
+    link_label: "Hans"
 
 enhancements:
-  - id: "hamburg-spires"
-    trigger: "Hamburg's spires"
-    title: "Hamburg's Iconic Architecture"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hamburg"
+  - id: "vertical-section-of-the-globe"
+    trigger: "vertical section of the globe"
+    title: "Mapping Earth's Depths: A Bold Scientific Vision"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Geologic_map"
     image_url: ""
     image_caption: ""
-    content: "Hamburg, Germany, is renowned for its distinctive skyline, marked by historic spires such as those of St. Michael's Church and other landmarks. These architectural features symbolize the city's rich history as a major port and cultural hub. In the context of the story, the spires represent a return to civilization and normalcy after the extraordinary subterranean journey."
-  - id: "descent-earths-crust"
-    trigger: "descent into the Earth's crust"
-    title: "Exploring Earth's Crust"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Earth%27s_crust"
-    image_url: ""
-    image_caption: ""
-    content: "The Earth's crust is the outermost layer of our planet, composed of rock and minerals. It is a relatively thin layer compared to the mantle and core. Jules Verne's depiction of descending through the crust into a fantastical underworld reflects 19th-century scientific curiosity about geology and Earth's structure, themes that were emerging during the era."
-  - id: "icelandic-hunter"
-    trigger: "Icelandic hunter"
-    title: "Hans and Icelandic Heritage"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Iceland"
-    image_url: ""
-    image_caption: ""
-    content: "Hans, the stoic guide, embodies the resilience and resourcefulness often associated with Icelandic culture. Iceland, with its rugged landscapes and volcanic activity, serves as a fitting origin for a character who navigates the harsh environments of the subterranean world. His quiet strength is a key element in the group's survival."
-  - id: "snaefells-volcano"
-    trigger: "Snæfells volcano"
-    title: "Snæfellsjökull Volcano"
+    content: "When Professor Hardwigg declares his intention to create a \"vertical section of the globe,\" he is imagining a groundbreaking geological map of their subterranean journey. This idea reflects the 19th-century fascination with mapping and categorizing the natural world, a time when explorers and scientists were charting uncharted territories both above and below ground. Geologic maps, which show the distribution of rock formations and structures, were still in their infancy during Verne's era. The Professor's ambition mirrors the era's scientific optimism, where even the Earth's core seemed conquerable. By envisioning such a map, Verne not only underscores the meticulousness of his protagonist but also invites readers to consider the audacity of human curiosity. The map becomes a metaphor for the novel itself: an attempt to chart the unknown and make sense of the mysteries beneath our feet."
+  - id: "base-of-sneffels"
+    trigger: "the base of Sneffels"
+    title: "Sneffels: Iceland's Gateway to the Earth's Core?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
     image_url: ""
     image_caption: ""
-    content: "Snæfellsjökull is a glacier-capped volcano in western Iceland, famously used by Jules Verne as the entry point to the Earth's interior in 'Journey to the Center of the Earth.' The volcano has inspired numerous myths and literary works, symbolizing the gateway to unknown worlds and the intersection of science and imagination."
-  - id: "subterranean-ocean"
-    trigger: "subterranean ocean"
-    title: "Imagining Subterranean Oceans"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Subterranean_fiction"
+    content: "The \"base of Sneffels\" is a pivotal location in Verne's narrative, marking the starting point of the protagonists' descent into the Earth. Snæfellsjökull, the real Icelandic volcano that inspired this setting, has long been steeped in myth and mystery. Known for its striking glacier-covered peak, it has been a source of fascination for both locals and visitors. In Icelandic folklore, the mountain is considered a place of spiritual energy, and in modern times, it has been linked to New Age beliefs about cosmic connections. By choosing Sneffels as the entryway to his subterranean adventure, Verne taps into its mystical reputation, blending scientific exploration with a sense of wonder. The volcano becomes a symbol of the thin boundary between the known and the unknown, a fitting gateway for a journey that challenges the limits of human understanding."
+  - id: "humphry-davy"
+    trigger: "Humphry Davy"
+    title: "Humphry Davy's Radical Ideas on Earth's Heat"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Humphry_Davy"
     image_url: ""
     image_caption: ""
-    content: "The concept of a subterranean ocean reflects 19th-century fascination with hidden worlds beneath Earth's surface. While no such oceans exist in reality, Verne's imaginative depiction aligns with the era's speculative fiction, which often explored uncharted territories and the mysteries of geology and paleontology."
-  - id: "antediluvian-monsters"
-    trigger: "antediluvian monsters"
-    title: "Prehistoric Creatures in Fiction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Prehistoric_life"
+    content: "When Professor Hardwigg praises Humphry Davy, he aligns himself with one of the most innovative chemists of the early 19th century. Davy proposed an alternative theory to the widely accepted idea of proportional heat increase within the Earth's crust. He suggested that chemical reactions, rather than pressure and depth, might explain the Earth's internal temperature. This was a bold departure from conventional geology at the time. Davy's theories were controversial but reflected the era's willingness to challenge established scientific norms. Verne's inclusion of Davy's ideas serves a dual purpose: it adds scientific credibility to the narrative while emphasizing the theme of questioning accepted truths. In the subterranean world of the novel, where conventional science often fails, Davy's radical thinking becomes a metaphor for the necessity of intellectual flexibility in the face of the unknown."
+  - id: "latitude-of-iceland"
+    trigger: "latitude of Iceland"
+    title: "Why Iceland Became Science Fiction's Frontier"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Iceland"
     image_url: ""
     image_caption: ""
-    content: "The term 'antediluvian' refers to creatures from a time before the biblical flood, often used to describe prehistoric life. Verne's inclusion of such monsters highlights the fascination with paleontology during the 19th century, when discoveries of fossils were reshaping humanity's understanding of Earth's history."
-  - id: "luminous-cavern"
-    trigger: "luminous cavern"
-    title: "Phosphorescence in Nature"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Phosphorescence"
+    content: "The \"latitude of Iceland\" situates the characters in one of Earth's most geologically active regions. Iceland, straddling the Mid-Atlantic Ridge, is a land of volcanoes, glaciers, and geothermal wonders. Its unique geography has made it a natural setting for tales of exploration and discovery. In the 19th century, Iceland was relatively remote and mysterious to much of the world, adding an air of intrigue to Verne's choice of location. The island's volcanic activity, including eruptions and lava flows, mirrors the novel's themes of Earth's dynamic and unpredictable nature. By anchoring the story in Iceland, Verne not only grounds his fantastical journey in a real-world location but also highlights the interplay between science and imagination. Iceland becomes a symbol of the untamed forces that lie beneath the surface, both literally and metaphorically."
+  - id: "pressure-of-seven-hundred-and-ten-atmospheres"
+    trigger: "pressure of seven hundred and ten atmospheres"
+    title: "What Happens at Extreme Atmospheric Pressure?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Atmospheric_pressure"
     image_url: ""
     image_caption: ""
-    content: "Phosphorescence is the emission of light by a substance without combustion or heat, often seen in certain minerals and biological organisms. Verne's luminous cavern evokes the eerie beauty of natural phenomena, adding to the sense of wonder and mystery in the subterranean world."
-  - id: "forest-giant-mushrooms"
-    trigger: "forest of giant mushrooms"
-    title: "Giant Mushrooms in Fiction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fungi"
+    content: "The \"pressure of seven hundred and ten atmospheres\" mentioned by Professor Hardwigg is an almost unimaginable force. Atmospheric pressure increases with depth, and at such levels, air would become as dense as water, fundamentally altering its properties. In real-world science, this kind of pressure is studied in deep-sea environments, where organisms have adapted to survive under crushing forces. For humans, such pressure would be lethal without specialized equipment. Verne's description pushes the boundaries of plausibility, but it serves to heighten the sense of danger and wonder in the journey. The idea of navigating through an atmosphere so dense it becomes solid challenges the characters' resilience and underscores the novel's exploration of human limits. It also invites readers to ponder the extremes of nature and the lengths to which science might go to uncover its secrets."
+  - id: "example-of-saknussemm"
+    trigger: "example of Saknussemm"
+    title: "Saknussemm: Fact, Fiction, or Folklore?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth#Plot_summary"
     image_url: ""
     image_caption: ""
-    content: "Fungi, including mushrooms, are vital components of ecosystems, breaking down organic matter and recycling nutrients. Verne's depiction of giant mushrooms taps into the fantastical, imagining a prehistoric world where life forms are exaggerated in size, reflecting the novel's themes of exploration and discovery."
-  - id: "hollow-earth"
-    trigger: "hollow earth"
-    title: "The Hollow Earth Theory"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hollow_Earth"
+    content: "The \"example of Saknussemm\" is a cornerstone of the novel's plot, providing both inspiration and justification for the expedition. Arne Saknussemm, a fictional 16th-century Icelandic scholar, is said to have successfully reached the Earth's center, leaving cryptic instructions for others to follow. Verne's invention of Saknussemm adds a layer of historical intrigue to the story, blending the real-world tradition of explorers with the fantastical premise of subterranean travel. The character's supposed journey reflects the Renaissance spirit of discovery, where science and mysticism often intertwined. By invoking Saknussemm, Verne creates a sense of continuity between past and present, suggesting that the quest for knowledge transcends generations. The fictional scholar becomes a symbol of humanity's enduring curiosity and the belief that even the most impossible goals might one day be achieved."
+  - id: "perfect-indifference-of-hans"
+    trigger: "perfect indifference of Hans"
+    title: "Hans: The Stoic Heart of Verne's Adventure"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth#Characters"
     image_url: ""
     image_caption: ""
-    content: "The Hollow Earth theory posits that the planet contains vast empty spaces or even entire civilizations within. Though scientifically disproven, it has been a popular concept in literature and pseudoscience, inspiring works like Verne's novel and fueling imaginations about hidden worlds beneath our feet."
-  - id: "arne-saknussemm"
-    trigger: "Arne Saknussemm"
-    title: "Arne Saknussemm's Legacy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Arne_Saknussemm"
-    image_url: ""
-    image_caption: ""
-    content: "Arne Saknussemm is a fictional 16th-century alchemist in Verne's novel, whose cryptic writings guide the explorers to the Earth's interior. He represents the blend of science and mysticism, reflecting the era's fascination with alchemy and its transition to modern scientific inquiry."
+    content: "Hans, the Icelandic guide, embodies the \"perfect indifference\" that contrasts sharply with the Professor's fervent enthusiasm and Axel's skepticism. His stoic demeanor reflects the archetype of the unflappable adventurer, a figure often found in exploration narratives. Hans's calm acceptance of their journey, regardless of its dangers or uncertainties, serves as a stabilizing force for the group. His character is rooted in the Icelandic tradition of resilience and practicality, traits shaped by living in a harsh and unpredictable environment. By including Hans, Verne highlights the importance of adaptability and quiet strength in the face of the unknown. Hans's indifference is not apathy but a deep trust in the natural order, making him a silent yet profound counterpoint to the scientific and emotional turmoil of the other characters."
 ---
-The sun had barely begun its descent when we beheld the familiar silhouettes of **Hamburg's spires**, their points piercing the evening sky like the triumphant banners of a conquered land. It was the end of our long ordeal, a journey that had taken us into the bowels of the Earth and through epochs that defied imagination. Yet here we were, returned to the surface, our bodies weary but our spirits buoyant with the thrill of discovery. The streets teemed with the hum of life, and yet for us, the ordinary sounds of commerce and chatter bore an almost otherworldly quality, as though we were visitors to a world we had left behind and now barely recognized.
+SUNDAY BELOW GROUND
 
-My uncle, Professor Otto Lidenbrock, strode ahead, his gait brisk despite the toll of our subterranean adventures. His eyes shone with the manic light of ambition fulfilled, and his lips twitched with the anticipation of recounting our incredible tale to any ear that would listen. He carried under his arm the leather-bound journal in which he had painstakingly documented every twist and turn of our **descent into the Earth's crust**, every marvel, every terror, and every triumph. He clutched it as though it were more precious than gold, and indeed, to him, it was.
 
-Hans, our steadfast guide, followed close behind, his broad figure as unyielding as the basalt walls that had surrounded us in the depths. He was silent, as ever, his expression impassive, but I knew his heart must be swelling with quiet pride. His vigilance, his strength, his unflinching resolve had carried us through dangers that might have broken lesser men. The **Icelandic hunter** was a pillar of stoic endurance, and though he did not seek recognition, his contribution to our success was undeniable.
+I Awoke on Sunday morning without any sense of hurry and bustle
+attendant on an immediate departure. Though the day to be devoted to
+repose and reflection was spent under such strange circumstances, and in
+so wonderful a place, the idea was a pleasant one. Besides, we all began
+to get used to this kind of existence. I had almost ceased to think of
+the sun, of the moon, of the stars, of the trees, houses, and towns; in
+fact, about any terrestrial necessities. In our peculiar position we
+were far above such reflections.
 
-As we crossed the threshold of our home, the familiar creak of the door welcomed us like an old friend. Martha, our loyal housekeeper, gasped when she saw us, her hands flying to her mouth as tears sprang to her eyes. “Herr Lidenbrock! Axel! You’re alive!” she exclaimed, her voice trembling. The sight of her warm, welcoming face was like a balm to my soul, a reminder that we had truly returned to the world of the living. She ushered us in, fussing over us with a mixture of relief and disbelief, her questions tumbling over one another in her eagerness to understand where we had been and what had transpired.
+The grotto was a vast and magnificent hall. Along its granitic soil the
+stream flowed placidly and pleasantly. So great a distance was it now
+from its fiery source that its water was scarcely lukewarm, and could be
+drunk without delay or difficulty.
 
-We settled into the sitting room, the walls lined with familiar books and artifacts that seemed both comforting and strangely mundane after the wonders we had seen. My uncle wasted no time in beginning his account, his words pouring forth in an unstoppable tide as he recounted our journey to the **Snæfells volcano**, our descent through its crater, the discovery of the **subterranean ocean**, the encounter with the **antediluvian monsters**, and the final, chaotic eruption that had propelled us back to the surface. His voice rose and fell with the drama of the tale, his gestures animated, his eyes blazing with the fervor of a man who had stared into the abyss and emerged victorious.
+After a frugal breakfast, the Professor made up his mind to devote some
+hours to putting his notes and calculations in order.
 
-I listened with half an ear, my own mind drifting back to the awe-inspiring sights that had greeted us in the underworld. The **luminous cavern**, where phosphorescent light bathed the walls in an eerie glow. The **forest of giant mushrooms**, their caps towering above us like the canopies of some primeval jungle. The **hollow earth**, a realm so vast and ancient that it seemed to defy all natural laws. These images were etched into my memory, indelible and eternal, a secret treasure trove that I would carry with me always.
+"In the first place," he said, "I have a good many to verify and prove,
+in order that we may know our exact position. I wish to be able on our
+return to the upper regions to make a map of our journey, a kind of
+**vertical section of the globe**, which will be, as it were, the profile of
+the expedition."
 
-Hans, meanwhile, sat quietly in the corner, his hands folded over his lap, his gaze fixed on the floor. He seemed content to let my uncle take the stage, his own role in our journey unspoken but understood. Martha brought us refreshments, her eyes darting between us as though she were afraid we might vanish again if she looked away for too long.
+"That would indeed be a curious work, Uncle; but can you make your
+observations with anything like certainty and precision?"
 
-As the evening wore on and my uncle’s narrative reached its climax, I felt a pang of unease. The world we had left behind seemed distant now, its concerns trivial in comparison to the profound truths we had glimpsed beneath the surface. Would anyone believe our story? Would they dismiss it as the ravings of madmen or the fabrications of charlatans? And even if they did believe us, would they truly understand the magnitude of what we had discovered?
+"I can. I have never on any occasion failed to note with great care the
+angles and slopes. I am certain as to having made no mistake. Take the
+compass and examine how she points."
 
-My uncle, of course, had no such doubts. He was already planning the publication of his account, the lectures he would deliver, the accolades he would receive. He spoke of **Arne Saknussemm**, the sixteenth-century alchemist whose cryptic message had set us on our path, as though he were a kindred spirit, a fellow seeker of truth across the ages. He speculated on the implications of our findings, the scientific revolutions they might inspire, the mysteries they might unravel. His enthusiasm was infectious, and yet I could not shake the feeling that our journey had raised as many questions as it had answered.
+I looked at the instrument with care.
 
-As the clock struck midnight and the house fell silent, I retired to my room, eager for the comfort of my own bed after so many nights spent on rocky ground. Yet sleep did not come easily. My mind was a whirlwind of memories—the **roaring geysers**, the **underground storms**, the **colossal sea reptiles** locked in eternal combat. I thought of the forces that had shaped our planet, forces so vast and incomprehensible that they made human endeavors seem like mere trifles. I thought of the courage it had taken to confront those forces, to venture into the unknown, to face the abyss and emerge unscathed.
+"East one quarter southeast."
 
-And I thought of Hans, the quiet hero of our tale, who had guided us through the darkness with unwavering resolve. I resolved to speak with him in the morning, to thank him properly for his service, and perhaps to ask him what he thought of it all—the journey, the discoveries, the world we had left behind and the one we had returned to. For in his silence, I suspected, lay a wisdom that was deeper than words.
+"Very good," resumed the Professor, noting the observation, and going
+through some rapid calculations. "I make out that we have journeyed two
+hundred and fifty miles from the point of our departure."
 
-As my eyes finally closed and sleep claimed me, I dreamed of the subterranean world—a world of endless wonders, of ancient secrets, of unimaginable beauty and peril. And though I was home at last, I knew that a part of me would always remain in that underworld, forever bound to the mysteries it had revealed.
+"Then the mighty waves of the Atlantic are rolling over our heads?"
+
+"Certainly."
+
+"And at this very moment it is possible that fierce tempests are raging
+above, and that men and ships are battling against the angry blasts just
+over our heads?"
+
+"It is quite within the range of possibility," rejoined my uncle,
+smiling.
+
+"And that whales are playing in shoals, thrashing the bottom of the sea,
+the roof of our adamantine prison?"
+
+"Be quite at rest on that point; there is no danger of their breaking
+through. But to return to our calculations. We are to the southeast, two
+hundred and fifty miles from **the base of Sneffels**, and, according to my
+preceding notes, I think we have gone sixteen leagues in a downward
+direction."
+
+"Sixteen leagues--fifty miles!" I cried.
+
+"I am sure of it."
+
+"But that is the extreme limit allowed by science for the thickness of
+the earth's crust," I replied, referring to my geological studies.
+
+"I do not contravene that assertion," was his quiet answer.
+
+"And at this stage of our journey, according to all known laws on the
+increase of heat, there should be here a temperature of <i>fifteen hundred
+degrees of Reaumur</i>."
+
+"There should be--you say, my boy."
+
+"In which case this granite would not exist, but be in a state of
+fusion."
+
+"But you perceive, my boy, that it is not so, and that facts, as usual,
+are very stubborn things, overruling all theories."
+
+"I am forced to yield to the evidence of my senses, but I am
+nevertheless very much surprised."
+
+"What heat does the thermometer really indicate?" continued the
+philosopher.
+
+"Twenty-seven six-tenths."
+
+"So that science is wrong by fourteen hundred and seventy-four degrees
+and four-tenths. According to which, it is demonstrated that the
+proportional increase in temperature is an exploded error. **Humphry Davy**
+here shines forth in all his glory. He is right, and I have acted wisely
+to believe him. Have you any answer to make to this statement?"
+
+Had I chosen to have spoken, I might have said a great deal. I in no way
+admitted the theory of Humphry Davy--I still held out for the theory of
+proportional increase of heat, though I did not feel it.
+
+I was far more willing to allow that this chimney of an extinct volcano
+was covered by lava of a kind refractory to heat--in fact a bad
+conductor--which did not allow the great increase of temperature to
+percolate through its sides. The hot water jet supported my view of the
+matter.
+
+But without entering on a long and useless discussion, or seeking for
+new arguments to controvert my uncle, I contented myself with taking up
+facts as they were.
+
+"Well, sir, I take for granted that all your calculations are correct,
+but allow me to draw from them a rigorous and definite conclusion."
+
+"Go on, my boy--have your say," cried my uncle goodhumoredly.
+
+"At the place where we now are, under the **latitude of Iceland**, the
+terrestrial depth is about fifteen hundred and eighty-three leagues."
+
+"Fifteen hundred eighty-three and a quarter."
+
+"Well, suppose we say sixteen hundred in round numbers. Now, out of a
+voyage of sixteen hundred leagues we have completed sixteen."
+
+"As you say, what then?"
+
+"At the expense of a diagonal journey of no less than eighty-five
+leagues."
+
+"Exactly."
+
+"We have been twenty days about it."
+
+"Exactly twenty days."
+
+"Now sixteen is the hundredth part of our contemplated expedition. If we
+go on in this way we shall be two thousand days, that is about five
+years and a half, going down."
+
+The Professor folded his arms, listened, but did not speak.
+
+"Without counting that if a vertical descent of sixteen leagues costs us
+a horizontal of eighty-five, we shall have to go about eight thousand
+leagues to the southeast, and we must therefore come out somewhere in
+the circumference long before we can hope to reach the centre."
+
+"Bother your calculations," cried my uncle in one of his old rages. "On
+what basis do they rest? How do you know that this passage does not take
+us direct to the end we require? Moreover, I have in my favor,
+fortunately, a precedent. What I have undertaken to do, another has
+done, and he having succeeded, why should I not be equally successful?"
+
+"I hope, indeed, you will, but still, I suppose I may be allowed to--"
+
+"You are allowed to hold your tongue," cried Professor Hardwigg, "when
+you talk so unreasonably as this."
+
+I saw at once that the old doctorial Professor was still alive in my
+uncle--and fearful to rouse his angry passions, I dropped the unpleasant
+subject.
+
+"Now, then," he explained, "**consult the manometer**. What does that
+indicate?"
+
+"A considerable amount of pressure."
+
+"Very good. You see, then, that by descending slowly, and by gradually
+accustoming ourselves to the density of this lower atmosphere, we shall
+not suffer."
+
+"Well, I suppose not, except it may be a certain amount of pain in the
+ears," was my rather grim reply.
+
+"That, my dear boy, is nothing, and you will easily get rid of that
+source of discomfort by bringing the exterior air in communication with
+the air contained in your lungs."
+
+"Perfectly," said I, for I had quite made up my mind in no wise to
+contradict my uncle. "I should fancy almost that I should experience a
+certain amount of satisfaction in making a plunge into this dense
+atmosphere. Have you taken note of how wonderfully sound is propagated?"
+
+"Of course I have. There can be no doubt that a journey into the
+interior of the earth would be an excellent cure for deafness."
+
+"But then, Uncle," I ventured mildly to observe, "this density will
+continue to increase."
+
+"Yes--according to a law which, however, is scarcely defined. It is true
+that the intensity of weight will diminish just in proportion to the
+depth to which we go. You know very well that it is on the surface of
+the earth that its action is most powerfully felt, while on the
+contrary, in the very centre of the earth bodies cease to have any
+weight at all."
+
+"I know that is the case, but as we progress will not the atmosphere
+finally assume the density of water?"
+
+"I know it; when placed under the **pressure of seven hundred and ten
+atmospheres**," cried my uncle with imperturbable gravity.
+
+"And when we are still lower down?" I asked with natural anxiety.
+
+"Well, lower down, the density will become even greater."
+
+"Then how shall we be able to make our way through this atmospheric
+fog?"
+
+"Well, my worthy nephew, we must ballast ourselves by filling our
+pockets with stones," said Professor Hardwigg.
+
+"Faith, Uncle, you have an answer for everything," was my only reply.
+
+I began to feel that it was unwise of me to go any farther into the wide
+field of hypotheses for I should certainly have revived some difficulty,
+or rather impossibility, that would have enraged the Professor.
+
+It was evident, nevertheless, that the air under a pressure which might
+be multiplied by thousands of atmospheres, would end by becoming
+perfectly solid, and that then admitting our bodies resisted the
+pressure, we should have to stop, in spite of all the reasonings in the
+world. Facts overcome all arguments.
+
+But I thought it best not to urge this argument. My uncle would simply
+have quoted the **example of Saknussemm**. Supposing the learned Icelander's
+journey ever really to have taken place--there was one simple answer to
+be made:
+
+In the sixteenth century neither the barometer nor the manometer had
+been invented--how, then, could Saknussemm have been able to discover
+when he did reach the centre of the earth?
+
+This unanswerable and learned objection I, however, kept to myself and,
+bracing up my courage, awaited the course of events--little aware of how
+adventurous yet were to be the incidents of our remarkable journey.
+
+The rest of this day of leisure and repose was spent in calculation and
+conversation. I made it a point to agree with the Professor in
+everything; but I envied the **perfect indifference of Hans**, who, without
+taking any such trouble about the cause and effect, went blindly onwards
+wherever destiny chose to lead him.

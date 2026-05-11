@@ -9,133 +9,314 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "The party navigates a perilous subterranean environment filled with sulfur and seismic activity."
-    link: "https://en.wikipedia.org/wiki/Sulfur"
-    link_label: "Sulfur"
-  - point: "Professor Lidenbrock marvels at the geological phenomena, describing the Earth's molten core as a symphony of creation."
-    link: "https://en.wikipedia.org/wiki/Earth%27s_core"
-    link_label: "Earth's core"
-  - point: "The group encounters a magma chamber, a cauldron of liquid fire threatening eruption."
-    link: "https://en.wikipedia.org/wiki/Magma_chamber"
-    link_label: "Magma chamber"
-  - point: "Hans leads the group through a tunnel lined with igneous formations, showcasing rapid cooling under immense pressure."
-    link: "https://en.wikipedia.org/wiki/Igneous_rock"
-    link_label: "Igneous rock"
-  - point: "The eruption cycle begins, forcing the group to flee as lava and tremors threaten their survival."
-    link: "https://en.wikipedia.org/wiki/Volcanic_eruption"
-    link_label: "Volcanic eruption"
-  - point: "The party escapes to a plateau overlooking the Snæfells volcano, reflecting on the forces that govern the planet."
-    link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
-    link_label: "Snæfells volcano"
+  - point: "Hans returns with news of water, reviving hope for the group."
+    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    link_label: "Journey to the Center of the Earth"
+  - point: "The group descends deeper into the tunnel, following the sound of a subterranean river."
+    link: "https://en.wikipedia.org/wiki/Subterranean_river"
+    link_label: "Subterranean river"
+  - point: "Hans uses a crowbar to break through the granite wall, risking structural collapse."
+    link: "https://en.wikipedia.org/wiki/Crowbar_(tool)"
+    link_label: "Crowbar"
+  - point: "The water discovered is scalding hot, but eventually cools enough to drink."
+    link: "https://en.wikipedia.org/wiki/Hot_spring"
+    link_label: "Hot spring"
+  - point: "The water is found to be chalybeate, rich in minerals, and named 'Hansbach' after the guide."
+    link: "https://en.wikipedia.org/wiki/Chalybeate"
+    link_label: "Chalybeate water"
+  - point: "The group decides to let the water flow freely, using it as a guide for their journey."
+    link: "https://en.wikipedia.org/wiki/Atmospheric_pressure"
+    link_label: "Atmospheric pressure"
 
 enhancements:
-  - id: "earths-molten-heart"
-    trigger: "earth’s molten heart"
-    title: "Earth's Molten Core"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Earth%27s_core"
+  - id: "vatten-danish-word-for-water"
+    trigger: "Vatten"
+    title: "Why 'Vatten' Matters in This Moment of Crisis"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Danish_language"
     image_url: ""
     image_caption: ""
-    content: "The Earth's molten core is a critical component of our planet's geology, consisting of a liquid outer core and a solid inner core primarily made of iron and nickel. This core generates Earth's magnetic field through the dynamo effect, protecting the planet from harmful solar radiation. In the context of the novel, the molten core symbolizes the raw, untamed power of nature and humanity's quest to understand it."
-  - id: "planets-primeval-core"
-    trigger: "planet’s primeval core"
-    title: "Primeval Core of Earth"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Earth%27s_core"
+    content: "When Hans returns and utters the single word 'Vatten,' the protagonist instinctively understands its meaning despite not knowing Danish. This moment underscores the primal urgency of their situation; thirst transcends language barriers. Danish, a North Germanic language spoken primarily in Denmark, has roots that connect it to Old Norse, the language of the Vikings. The simplicity of Hans's communication reflects his stoic character and the survivalist ethos of mountain dwellers. Jules Verne uses this linguistic moment to highlight the universality of human needs and the intuitive bonds that form under extreme conditions. The word 'Vatten' becomes a lifeline, a spark of hope that propels the group forward into the depths of the earth."
+  - id: "subterranean-river-hidden-worlds-beneath-our-feet"
+    trigger: "subterranean river"
+    title: "The Hidden Worlds Beneath Our Feet"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Subterranean_river"
     image_url: ""
     image_caption: ""
-    content: "The term 'primeval core' evokes the ancient and foundational aspects of Earth's interior, which has existed for billions of years. This core plays a vital role in plate tectonics and volcanic activity, shaping the planet's surface over geological time. Jules Verne uses this imagery to highlight the awe-inspiring and mysterious nature of Earth's inner workings."
-  - id: "magma-chamber"
-    trigger: "magma chamber"
-    title: "What is a Magma Chamber?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Magma_chamber"
+    content: "As the group descends deeper into the earth, they hear the roar of a subterranean river—a tantalizing promise of survival. Subterranean rivers are real geological phenomena, often formed when surface water infiltrates limestone caves, creating underground waterways. Some, like the Puerto Princesa Underground River in the Philippines, are navigable and teeming with unique ecosystems. Verne's depiction of this hidden torrent captures the awe and mystery of Earth's unseen landscapes. By situating the river just out of reach, he heightens the tension and underscores the fragility of human existence in the face of nature's vast and indifferent power."
+  - id: "heavy-crowbar-tool-that-changed-their-fate"
+    trigger: "heavy crowbar"
+    title: "The Tool That Changed Their Fate"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Crowbar_(tool)"
     image_url: ""
     image_caption: ""
-    content: "A magma chamber is a reservoir of molten rock beneath the Earth's surface, often feeding volcanic eruptions. These chambers are formed by the melting of mantle rock due to heat and pressure. In the novel, the magma chamber represents the imminent danger and destructive power of geological forces, adding tension and drama to the narrative."
-  - id: "igneous-formations"
-    trigger: "igneous formations"
-    title: "Formation of Igneous Rocks"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Igneous_rock"
+    content: "Hans's decision to use a heavy crowbar to break through the granite wall is a pivotal moment in the chapter. Crowbars, simple yet versatile tools, have been used for centuries in construction and mining. Their leverage and durability make them indispensable for breaking through tough materials. Hans's calm and methodical approach contrasts sharply with the group's desperation, showcasing his resourcefulness and experience as a guide. Verne uses the crowbar as a symbol of human ingenuity—a reminder that even in the most dire circumstances, simple tools can unlock extraordinary possibilities."
+  - id: "scalding-hot-water-a-dangerous-discovery"
+    trigger: "scalding hot"
+    title: "Why the Water Was Scalding Hot"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hot_spring"
     image_url: ""
     image_caption: ""
-    content: "Igneous rocks are formed through the cooling and solidification of magma or lava. They are categorized into intrusive (formed beneath the surface) and extrusive (formed above the surface) types. The crystalline formations described in the chapter highlight the beauty and complexity of geological processes, serving as a moment of wonder amidst the chaos."
-  - id: "geological-forces"
-    trigger: "geological forces"
-    title: "Forces Shaping the Earth"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Geology"
+    content: "When the water bursts through the granite wall, it is scalding hot—a shocking twist for the thirsty explorers. This phenomenon is common in geothermal systems, where water is heated by magma or hot rocks deep within the Earth's crust. Hot springs, like those in Iceland or Yellowstone, are natural outlets for such heated water. Verne's choice to make the water boiling adds a layer of irony: the life-saving liquid initially poses a new danger. This moment reflects the unpredictable nature of exploration and the delicate balance between risk and reward in the pursuit of discovery."
+  - id: "chalybeate-water-mineral-rich-elixir"
+    trigger: "chalybeate water"
+    title: "The Mineral-Rich Elixir That Revived Them"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chalybeate"
     image_url: ""
     image_caption: ""
-    content: "Geological forces, such as plate tectonics, erosion, and volcanic activity, continuously shape Earth's surface. These processes are responsible for creating mountains, valleys, and other landforms. In the novel, these forces are depicted as both destructive and creative, emphasizing the duality of nature's power."
-  - id: "ancients"
-    trigger: "ancients"
-    title: "Ancient Texts and Geology"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_history"
+    content: "The group discovers that the water is chalybeate, rich in iron and minerals. Chalybeate springs were historically prized for their health benefits, with spas like those in Bath, England, attracting visitors seeking cures for ailments. The 'inky flavor' described by Verne is characteristic of iron-rich water, which was believed to aid digestion and boost vitality. Naming the stream 'Hansbach' honors the guide's pivotal role in their survival. Verne uses this discovery to emphasize the transformative power of nature—not just as a source of survival, but as a provider of unexpected gifts that enrich the journey."
+  - id: "atmospheric-pressure-force-behind-the-water-jet"
+    trigger: "atmospheric pressure"
+    title: "The Force Behind the Water Jet"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Atmospheric_pressure"
     image_url: ""
     image_caption: ""
-    content: "The 'ancients' often refers to early civilizations that speculated about Earth's structure and phenomena. Ancient texts, such as those from Greek philosophers, laid the groundwork for modern geology and scientific inquiry. Verne's reference underscores humanity's enduring curiosity about the natural world."
-  - id: "eruption-cycle"
-    trigger: "eruption cycle"
-    title: "Understanding Eruption Cycles"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Volcanic_eruption"
+    content: "The group marvels at the immense pressure driving the water jet through the granite wall, speculating that the column of water might be 32,000 feet high. Atmospheric pressure plays a crucial role in such phenomena, as water trapped underground can be forced upward by the weight of the surrounding rock and air. This principle is similar to how artesian wells work, where pressure causes water to flow naturally to the surface. Verne uses this scientific detail to ground his fantastical narrative in real-world physics, blending wonder with plausibility and deepening the reader's immersion in the subterranean adventure."
+  - id: "chronometer-timekeeping-in-the-depths-of-the-earth"
+    trigger: "chronometer"
+    title: "Timekeeping in the Depths of the Earth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chronometer"
     image_url: ""
     image_caption: ""
-    content: "Volcanic eruption cycles are determined by the buildup and release of pressure within magma chambers. These cycles can vary widely, from frequent eruptions to dormant periods lasting centuries. The chapter's depiction of an eruption cycle highlights the unpredictability and danger of volcanic activity."
-  - id: "viscosity-of-lava"
-    trigger: "viscosity of lava"
-    title: "Lava Viscosity Explained"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lava"
-    image_url: ""
-    image_caption: ""
-    content: "The viscosity of lava determines its flow rate and behavior during eruptions. High-viscosity lava moves slowly and can create explosive eruptions, while low-viscosity lava flows more freely. This scientific detail adds realism to Verne's narrative, showcasing the complexity of volcanic phenomena."
-  - id: "snæfells-volcano"
-    trigger: "Snæfells volcano"
-    title: "Snæfellsjökull Volcano"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
-    image_url: ""
-    image_caption: ""
-    content: "Snæfellsjökull is a glacier-capped stratovolcano in Iceland, famously featured in Jules Verne's novel as the entry point to the Earth's interior. Its real-world significance includes its geological features and cultural importance, attracting tourists and scientists alike. Verne's choice of this location adds authenticity and intrigue to the story."
-  - id: "hidden-realms-of-nature"
-    trigger: "hidden realms of nature"
-    title: "Exploring Nature's Hidden Realms"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Natural_history"
-    image_url: ""
-    image_caption: ""
-    content: "The 'hidden realms of nature' refer to the unexplored and mysterious aspects of the natural world, such as deep oceans, caves, and Earth's interior. These realms inspire scientific discovery and literary imagination, as seen in Verne's work. They remind readers of the vastness and complexity of the world we inhabit."
+    content: "As the group prepares to rest, the chronometer reminds them of the passage of time—a rare moment of normalcy in their extraordinary journey. Chronometers, precision timekeeping devices, were essential for navigation and exploration in the 19th century, particularly for determining longitude. Verne's inclusion of this detail highlights the tension between human technology and the untamed natural world. In the depths of the Earth, where day and night lose meaning, the chronometer becomes a tether to the surface—a reminder of the explorers' connection to the world above and their relentless march forward into the unknown."
 ---
-The air was thick with the acrid scent of sulfur as our weary party stumbled forward, the ground beneath us trembling with a rhythmic cadence that could only foretell the tumultuous upheaval of the **earth’s molten heart**. Hans led the way, his stoic frame silhouetted against the flickering orange glow that seeped through jagged fissures in the cavern walls. Professor Lidenbrock, his spectacles glinting in the fiery light, was a man possessed, his scientific fervor undeterred by the obvious peril. I, however, lagged behind, my nerves stretched taut, every fiber of my being aware that we stood precariously on the precipice of disaster.
+WATER, WHERE IS IT? A BITTER DISAPPOINTMENT
 
-"Axel!" the Professor called out, his voice echoing like a ghost through the labyrinthine tunnels. "Do you not feel it? The pulse of the **planet’s primeval core**? This is no mere tremor; it is the symphony of creation itself!"
 
-I could hardly muster a reply, my senses overwhelmed by the cacophony around me. The ground beneath my boots cracked and hissed, exhaling bursts of heated vapor that curled upward like specters. Beneath the surface, I could sense the **magma chamber** roiling, a gargantuan cauldron of liquid fire eager to escape its prison. The walls of the chamber seemed to pulse, alive with the promise of eruption.
+During a long, long, weary hour, there crossed my wildly delirious brain
+all sorts of reasons as to what could have aroused our quiet and
+faithful guide. The most absurd and ridiculous ideas passed through my
+head, each more impossible than the other. I believe I was either half
+or wholly mad.
 
-Suddenly, Hans halted and raised a hand. He motioned toward a narrow tunnel, its mouth lined with crystalline formations that sparkled like shards of starlight. "This way," he said simply, his calm demeanor an anchor in the storm of chaos. We followed him into the passage, the temperature rising with every step. My shirt clung to my back, soaked through with sweat, and the air seemed to shimmer with heat. The Professor paused to examine the crystals, his fingers brushing against their jagged edges. "Remarkable," he murmured, his eyes alight with wonder. "These **igneous formations** suggest rapid cooling under immense pressure. Such beauty amidst destruction!"
+Suddenly, however, there arose, as it were from the depths of the earth,
+a voice of comfort. It was the sound of footsteps! Hans was returning.
 
-As we pressed onward, the tunnel widened into a vast chamber, the scale of which defied comprehension. It was a cathedral of fire and stone, its vaulted ceiling illuminated by the fiery rivers that snaked through the cavern. At the center of the chamber stood a massive column of basalt, its surface slick with molten rock that dripped into the glowing pools below. The sight was both magnificent and terrifying, a testament to the raw power of the **geological forces** shaping the world beneath our feet.
+Presently the uncertain light began to shine upon the walls of the
+passage, and then it came in view far down the sloping tunnel. At length
+Hans himself appeared.
 
-"Behold!" cried Lidenbrock, his voice trembling with excitement. "This is what the **ancients** spoke of in their cryptic texts! The very veins of the Earth laid bare before us!" He turned to me, his eyes wild. "Axel, do you not see? We are witnesses to the truth that has eluded mankind for centuries!"
+He approached my uncle, placed his hand upon his shoulder, and gently
+awakened him. My uncle, as soon as he saw who it was, instantly arose.
 
-I could only nod, my throat dry and my mind reeling. The heat was oppressive now, the air thick and difficult to breathe. Hans, ever practical, produced a flask of water and passed it to me. I drank deeply, the cool liquid offering a brief respite from the infernal conditions. 
+"Well!" exclaimed the Professor.
 
-But respite was fleeting. The ground beneath us shuddered violently, a deep rumble resonating through the chamber. Lidenbrock clung to the basalt column for support, his face pale but determined. "It is beginning," he said, his voice steady despite the chaos. "The **eruption cycle** has been triggered. We must observe!"
+"**Vatten**," said the hunter.
 
-"Observe?" I exclaimed, my voice rising in panic. "Professor, we must escape! The entire cavern could collapse!"
+I did not know a single word of the Danish language, and yet by a sort
+of mysterious instinct I understood what the guide had said.
 
-Hans, as if to affirm my fears, gestured toward a distant section of the chamber where cracks were forming in the rock. Chunks of stone fell into the molten pools with a hiss, the sound swallowed by the deafening roar of the Earth’s fury. Lava began to seep through the fissures, pooling and bubbling like some monstrous creature awakening from slumber.
+"Water, water!" I cried, in a wild and frantic tone, clapping my hands,
+and gesticulating like a madman.
 
-Still, Lidenbrock refused to retreat. His notebook was out, his pencil flying across the page as he recorded every detail of the unfolding catastrophe. "This is history in the making, Axel! The **viscosity of lava**, the rate of flow, the interaction with the surrounding strata—it must all be documented!"
+"Water!" murmured my uncle, in a voice of deep emotion and gratitude.
+"Hvar?" ("Where?")
 
-Hans, ever the pragmatist, placed a firm hand on the Professor’s shoulder. "Time to go," he said, his tone leaving no room for argument. Reluctantly, Lidenbrock closed his notebook and followed us toward the opposite end of the chamber, where a narrow passage offered a potential escape route.
+"Nedat." ("Below.")
 
-We scrambled through the tunnel, the walls closing in tightly around us. The heat was unbearable now, each breath a struggle. Behind us, the roar of the eruption grew louder, the sound of rock and magma colliding in a violent symphony. I dared a glance over my shoulder and saw the fiery river advancing, consuming everything in its path.
+"Where? below!" I understood every word. I had caught the hunter by the
+hands, and I shook them heartily, while he looked on with perfect
+calmness.
 
-"Faster!" Hans urged, his voice rising above the din. We pressed on, our bodies aching and our minds filled with dread. The tunnel began to slope upward, a faint breeze offering the promise of fresh air. My heart leapt with hope, but the tremors continued, each one threatening to send us tumbling back into the fiery abyss.
+The preparations for our departure did not take long, and we were soon
+making a rapid descent into the tunnel.
 
-At last, we emerged into an open space, a ledge overlooking a vast subterranean sea. The water shimmered with an eerie phosphorescence, its surface disturbed by the vibrations emanating from the eruption. Across the expanse, I could see the glowing outline of the volcanic funnel—the **Snæfells volcano**, our entry point into this infernal world. It was as if the Earth itself was exhaling its fury, the molten rock spewing forth into the dark waters below.
+An hour later we had advanced a thousand yards, and descended two
+thousand feet.
 
-Hans pointed toward a rocky outcrop that led toward higher ground. "There," he said simply, and we followed. The climb was arduous, the rocks slick with moisture and trembling with each quake. The Professor stumbled, his footing precarious, but Hans was there to steady him. My own legs felt like lead, each step a battle against exhaustion and fear.
+At this moment I heard an accustomed and well-known sound running along
+the floors of the granite rock--a kind of dull and sullen roar, like
+that of a distant waterfall.
 
-As we ascended, the roar of the eruption faded, replaced by the sound of rushing water. A fissure had opened in the cavern wall, and a torrent of liquid cascaded into the sea below. The sight was mesmerizing, a stark contrast to the destruction behind us. It was as if the Earth, in its infinite complexity, sought both to destroy and to renew.
+During the first half hour of our advance, not finding the discovered
+spring, my feelings of intense suffering appeared to return. Once more I
+began to lose all hope. My uncle, however, observing how downhearted I
+was again becoming, took up the conversation.
 
-Finally, we reached a plateau, the air cooler and more breathable. We collapsed onto the rocky surface, our bodies spent but our spirits unbroken. Lidenbrock stared out over the subterranean sea, his face a mixture of awe and relief. "We have witnessed the **forces that govern our planet**," he said quietly. "It is a privilege few will ever know."
+"Hans was right," he exclaimed enthusiastically; "that is the dull
+roaring of a torrent."
 
-Hans said nothing, his gaze fixed on the distant glow of the volcanic funnel. I, too, remained silent, my thoughts a whirlwind of fear, wonder, and gratitude. We were alive, though the Earth’s fury had come perilously close to claiming us. And yet, as I looked at the Professor’s face, I saw no regret—only the unyielding determination of a man who had glimpsed the truth and would stop at nothing to uncover its mysteries.
+"A torrent," I cried, delighted at even hearing the welcome words.
 
-The journey was far from over, but in that moment, amidst the chaos and the beauty of the subterranean world, I understood the profound significance of our quest. We were explorers, witnesses to the **hidden realms of nature**, and though the path ahead was fraught with danger, we would press on. For the pursuit of knowledge, as Professor Lidenbrock had taught me, was worth any risk—even the wrath of the Earth itself.
+"There's not the slightest doubt about it," he replied, "a **subterranean
+river** is flowing beside us."
+
+I made no reply, but hastened on, once more animated by hope. I began
+not even to feel the deep fatigue which hitherto had overpowered me. The
+very sound of this glorious murmuring water already refreshed me. We
+could hear it increasing in volume every moment. The torrent, which for
+a long time could be heard flowing over our heads, now ran distinctly
+along the left wall, roaring, rushing, spluttering, and still falling.
+
+Several times I passed my hand across the rock hoping to find some trace
+of humidity--of the slightest percolation. Alas! in vain.
+
+Again a half hour passed in the same weary toil. Again we advanced.
+
+It now became evident that the hunter, during his absence, had not been
+able to carry his researches any farther. Guided by an instinct peculiar
+to the dwellers in mountain regions and water finders, he "smelt" the
+living spring through the rock. Still he had not seen the precious
+liquid. He had neither quenched his own thirst, nor brought us one drop
+in his gourd.
+
+Moreover, we soon made the disastrous discovery that, if our progress
+continued, we should soon be moving away from the torrent, the sound of
+which gradually diminished. We turned back. Hans halted at the precise
+spot where the sound of the torrent appeared nearest.
+
+I could bear the suspense and suffering no longer, and seated myself
+against the wall, behind which I could hear the water seething and
+effervescing not two feet away. But a **solid wall of granite** still
+separated us from it!
+
+Hans looked keenly at me, and, strange enough, for once I thought I saw
+a smile on his imperturbable face.
+
+He rose from a stone on which he had been seated, and took up the lamp.
+I could not help rising and following. He moved slowly along the firm
+and solid granite wall. I watched him with mingled curiosity and
+eagerness. Presently he halted and placed his ear against the dry stone,
+moving slowly along and listening with the most extreme care and
+attention. I understood at once that he was searching for the exact spot
+where the torrent's roar was most plainly heard. This point he soon
+found in the lateral wall on the left side, about three feet above the
+level of the tunnel floor.
+
+I was in a state of intense excitement. I scarcely dared believe what
+the eider-duck hunter was about to do. It was, however, impossible in a
+moment more not to both understand and applaud, and even to smother him
+in my embraces, when I saw him raise the **heavy crowbar** and commence an
+attack upon the rock itself.
+
+"Saved!" I cried.
+
+"Yes," cried my uncle, even more excited and delighted than myself;
+"Hans is quite right. Oh, the worthy, excellent man! We should never
+have thought of such an idea."
+
+And nobody else, I think, would have done so. Such a process, simple as
+it seemed, would most certainly not have entered our heads. Nothing
+could be more dangerous than to begin to work with pickaxes in that
+particular part of the globe. Supposing while he was at work a break-up
+were to take place, and supposing the torrent once having gained an inch
+were to take an ell, and come pouring bodily through the broken rock!
+
+Not one of these dangers was chimerical. They were only too real. But at
+that moment no fear of falling in of the roof, or even of inundation was
+capable of stopping us. Our thirst was so intense that to quench it we
+would have dug below the bed of old Ocean itself.
+
+Hans went quietly to work--a work which neither my uncle nor I would
+have undertaken at any price. Our impatience was so great that if we had
+once begun with pickax and crowbar, the rock would soon have split into
+a hundred fragments. The guide, on the contrary, calm, ready, moderate,
+wore away the hard rock by little steady blows of his instrument, making
+no attempt at a larger hole than about six inches. As I stood, I heard,
+or I thought I heard, the roar of the torrent momentarily increasing in
+loudness, and at times I almost felt the pleasant sensation of water
+upon my parched lips.
+
+At the end of what appeared an age, Hans had made a hole which enabled
+his crowbar to enter two feet into the solid rock. He had been at work
+exactly an hour. It appeared a dozen. I was getting wild with
+impatience. My uncle began to think of using more violent measures. I
+had the greatest difficulty in checking him. He had indeed just got hold
+of his crowbar when a loud and welcome hiss was heard. Then a stream, or
+rather jet, of water burst through the wall and came out with such force
+as to hit the opposite side!
+
+Hans, the guide, who was half upset by the shock, was scarcely able to
+keep down a cry of pain and grief. I understood his meaning when,
+plunging my hands into the sparkling jet, I myself gave a wild and
+frantic cry. The water was **scalding hot**!
+
+"Boiling," I cried, in bitter disappointment.
+
+"Well, never mind," said my uncle, "it will soon get cool."
+
+The tunnel began to be filled by clouds of vapor, while a small stream
+ran away into the interior of the earth. In a short time we had some
+sufficiently cool to drink. We swallowed it in huge mouthfuls.
+
+Oh! what exalted delight--what rich and incomparable luxury! What was
+this water, whence did it come? To us what was that? The simple fact
+was--it was water; and, though still with a tingle of warmth about it,
+it brought back to the heart, that life which, but for it, must surely
+have faded away. I drank greedily, almost without tasting it.
+
+When, however, I had almost quenched my ravenous thirst, I made a
+discovery.
+
+"Why, it is **chalybeate water**!"
+
+"A most excellent stomachic," replied my uncle, "and highly mineralized.
+Here is a journey worth twenty to Spa."
+
+"It's very good," I replied.
+
+"I should think so. Water found six miles under ground. There is a
+peculiarly inky flavor about it, which is by no means disagreeable. Hans
+may congratulate himself on having made a rare discovery. What do you
+say, nephew, according to the usual custom of travelers, to name the
+stream after him?"
+
+"Good," said I. And the name of "Hansbach" ("Hans Brook") was at once
+agreed upon.
+
+Hans was not a bit more proud after hearing our determination than he
+was before. After having taken a very small modicum of the welcome
+refreshment, he had seated himself in a corner with his usual
+imperturbable gravity.
+
+"Now," said I, "it is not worth while letting this water run to waste."
+
+"What is the use," replied my uncle, "the source from which this river
+rises is inexhaustible."
+
+"Never mind," I continued, "let us fill our goatskin and gourds, and
+then try to stop the opening up."
+
+My advice, after some hesitation, was followed or attempted to be
+followed. Hans picked up all the broken pieces of granite he had knocked
+out, and using some tow he happened to have about him, tried to shut up
+the fissure he had made in the wall. All he did was to scald his hands.
+The pressure was too great, and all our attempts were utter failures.
+
+"It is evident," I remarked, "that the upper surface of these springs is
+situated at a very great height above--as we may fairly infer from the
+great pressure of the jet."
+
+"That is by no means doubtful," replied my uncle, "if this column of
+water is about thirty-two thousand feet high, the **atmospheric pressure**
+must be something enormous. But a new idea has just struck me."
+
+"And what is that?"
+
+"Why be at so much trouble to close this aperture?"
+
+"Because--"
+
+I hesitated and stammered, having no real reason.
+
+"When our water bottles are empty, we are not at all sure that we shall
+be able to fill them," observed my uncle.
+
+"I think that is very probable."
+
+"Well, then, let this water run. It will, of course, naturally follow in
+our track, and will serve to guide and refresh us."
+
+"I think the idea a good one," I cried in reply, "and with this rivulet
+as a companion, there is no further reason why we should not succeed in
+our marvelous project."
+
+"Ah, my boy," said the Professor, laughing, "after all, you are coming
+round."
+
+"More than that, I am now confident of ultimate success."
+
+"One moment, nephew mine. Let us begin by taking some hours of repose."
+
+I had utterly forgotten that it was night. The **chronometer**, however,
+informed me of the fact. Soon we were sufficiently restored and
+refreshed, and had all fallen into a profound sleep.

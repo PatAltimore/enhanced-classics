@@ -9,115 +9,257 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "Professor Otto Lidenbrock announces a journey to Iceland, causing chaos in the household."
-    link: "https://en.wikipedia.org/wiki/Iceland"
-    link_label: "Iceland"
-  - point: "The cryptic runic manuscript by Arne Saknussemm drives the expedition's purpose."
-    link: "https://en.wikipedia.org/wiki/Runes"
-    link_label: "Runes"
-  - point: "Scientific instruments like the aneroid barometer and Ruhmkorff coil are meticulously prepared for the journey."
-    link: "https://en.wikipedia.org/wiki/Aneroid_barometer"
-    link_label: "Aneroid barometer"
-  - point: "Hans Belke, a stoic Icelandic guide, joins the expedition, offering stability and expertise."
-    link: "https://en.wikipedia.org/wiki/Icelandic_people"
-    link_label: "Icelandic people"
-  - point: "The volcanic crater of Snæfellsjökull is identified as the entry point to the Earth's depths."
+  - point: "Professor Hardwigg explains the volcanic nature of Iceland and the meaning of 'Yocul' as glacier."
+    link: "https://en.wikipedia.org/wiki/Volcanism_of_Iceland"
+    link_label: "Volcanism of Iceland"
+  - point: "Sneffels, an extinct volcano in Iceland, is identified as the entry point to the Earth's center."
     link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
     link_label: "Snæfellsjökull"
-  - point: "The expedition sets sail for Reykjavik, marking the beginning of their extraordinary journey."
-    link: "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
-    link_label: "Reykjavik"
+  - point: "Professor Hardwigg interprets Saknussemm's directions about the shadow of Mount Scartaris falling on the correct crater."
+    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    link_label: "Journey to the Center of the Earth"
+  - point: "Henry Lawson struggles with doubts and excitement about the feasibility of the journey."
+    link: "https://en.wikipedia.org/wiki/Geothermal_gradient"
+    link_label: "Geothermal gradient"
+  - point: "The group prepares for departure with equipment like rope ladders, torches, and crowbars."
+    link: "https://en.wikipedia.org/wiki/Mountaineering_equipment"
+    link_label: "Mountaineering equipment"
+  - point: "The journey begins with a post chaise carrying the adventurers toward Iceland."
+    link: "https://en.wikipedia.org/wiki/Post_chaise"
+    link_label: "Post chaise"
 
 enhancements:
-  - id: "cryptic-runic-manuscript"
-    trigger: "cryptic runic manuscript"
-    title: "Runic Manuscripts and Their Mysteries"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Runes"
+  - id: "the-name-of-yocul"
+    trigger: "the name of Yocul"
+    title: "Why Iceland's Volcanoes Are Named After Glaciers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Volcanism_of_Iceland"
     image_url: ""
     image_caption: ""
-    content: "Runic manuscripts are ancient texts written in runes, a system of writing used by Germanic peoples from the 2nd to 8th centuries. These symbols were often carved into stone, wood, or metal and were used for inscriptions, magical purposes, and communication. In literature, runes are frequently associated with mystery and hidden knowledge, as seen in 'Journey to the Center of the Earth.' The manuscript by Arne Saknussemm serves as a cryptic guide, propelling the characters into their perilous adventure."
-  - id: "arne-saknussemm"
-    trigger: "Arne Saknussemm"
-    title: "Arne Saknussemm: Fictional Explorer"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
-    image_url: ""
-    image_caption: ""
-    content: "Arne Saknussemm is a fictional 16th-century Icelandic alchemist and scholar created by Jules Verne. In the novel, Saknussemm's manuscript provides the key to accessing the Earth's interior through Snæfellsjökull. His character embodies the archetype of the enigmatic scientist whose discoveries challenge the boundaries of human knowledge, inspiring the protagonists to undertake their daring expedition."
-  - id: "aneroid-barometer"
-    trigger: "aneroid barometer"
-    title: "Measuring Atmospheric Pressure"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Aneroid_barometer"
-    image_url: ""
-    image_caption: ""
-    content: "An aneroid barometer is a device used to measure atmospheric pressure without the use of liquid. Invented in the 19th century, it is compact and portable, making it ideal for scientific expeditions like the one described in the novel. Accurate pressure readings are crucial for understanding environmental conditions, especially in extreme settings such as underground caverns."
-  - id: "ruhmkorff-coil"
-    trigger: "Ruhmkorff coil"
-    title: "Ruhmkorff Coil: Early Electric Light"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ruhmkorff_coil"
-    image_url: ""
-    image_caption: ""
-    content: "The Ruhmkorff coil is an induction coil used to generate high-voltage electricity, enabling early forms of electric lighting. Invented by Heinrich Ruhmkorff in the 19th century, it was a groundbreaking tool for explorers and scientists working in dark or inaccessible environments. In Verne's novel, the coil symbolizes the intersection of science and adventure, providing light in the unknown depths of the Earth."
-  - id: "volcanic-crater-of-snaefellsjokull"
-    trigger: "volcanic crater of Snæfellsjökull"
-    title: "Snæfellsjökull: Gateway to the Earth"
+    content: "When Professor Hardwigg explains that all Icelandic volcanoes bear the name 'Yocul,' meaning glacier, he highlights a striking geological paradox: fire and ice coexist in Iceland's volcanic landscape. Iceland is one of the most volcanically active regions on Earth, sitting atop the Mid-Atlantic Ridge where tectonic plates diverge. Its glaciers often cap volcanoes, creating a dramatic interplay between molten lava and frozen ice. This unique combination has led to explosive eruptions known as jökulhlaups, where glacial meltwater floods out during volcanic activity. Verne's choice to emphasize this detail is not just scientific—it sets the stage for a journey where opposites collide, mirroring the tension between skepticism and wonder that drives the narrative."
+  - id: "sneffels-is-one"
+    trigger: "Sneffels is one"
+    title: "The Volcano That Became a Gateway to Adventure"
     wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
     image_url: ""
     image_caption: ""
-    content: "Snæfellsjökull is a glacier-capped stratovolcano in western Iceland, famous for its dramatic landscapes and mystical associations. In 'Journey to the Center of the Earth,' it serves as the entry point to the subterranean world. The volcano's geological features and cultural significance make it an iconic setting for exploration and adventure, blending natural wonder with literary imagination."
-  - id: "geological-hammer"
-    trigger: "geological hammer"
-    title: "Geological Hammer: A Scientist's Tool"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Geologist%27s_hammer"
+    content: "Sneffels, the extinct volcano at the heart of Verne's tale, is more than just a geological feature—it’s a literary portal to the unknown. Rising over 5,000 feet on Iceland's Snæfellsnes Peninsula, Sneffels has captivated imaginations for centuries. Its last eruption in 1219 left it dormant, but its glacier-covered peak continues to inspire myths and legends. In Icelandic folklore, Sneffels is often associated with mystical energies, and Verne taps into this aura to transform it into the entry point to the Earth's core. By choosing Sneffels, Verne grounds his fantastical journey in a real, awe-inspiring location, blending scientific plausibility with the allure of the extraordinary."
+  - id: "shadow-of-mount-scartaris"
+    trigger: "shadow of Mount Scartaris"
+    title: "How Shadows Became a Map to the Earth's Core"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
     image_url: ""
     image_caption: ""
-    content: "A geological hammer is an essential tool for geologists, used to break and examine rock samples. Its design allows for precision and durability, making it indispensable for fieldwork. In Verne's novel, the hammer symbolizes the scientific rigor and curiosity driving the expedition, as the characters seek to uncover the Earth's secrets layer by layer."
-  - id: "compass"
-    trigger: "compass"
-    title: "The Compass: Navigational Marvel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Compass"
+    content: "The shadow of Mount Scartaris falling on the correct crater is a vivid example of Verne's knack for blending science with storytelling. Scartaris, though fictional, serves as a precise astronomical marker, guiding the adventurers to their subterranean path. This detail reflects Verne's fascination with navigation and exploration, echoing the methods of ancient mariners who relied on celestial cues. By anchoring the journey in such specific instructions, Verne adds a layer of realism to his fantastical tale, making the impossible seem tantalizingly plausible. The shadow becomes a symbol of clarity amidst uncertainty, a beacon leading the characters—and readers—into the depths of discovery."
+  - id: "arne-saknussemm"
+    trigger: "Arne Saknussemm"
+    title: "The Mysterious Explorer Who Charted the Impossible"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
     image_url: ""
     image_caption: ""
-    content: "The compass is a navigational instrument that has guided explorers for centuries. By indicating magnetic north, it helps travelers maintain their bearings in unfamiliar terrain. In 'Journey to the Center of the Earth,' the compass is a vital tool for navigating the labyrinthine depths, emphasizing the importance of preparation and precision in scientific exploration."
-  - id: "hans-belke"
-    trigger: "Hans Belke"
-    title: "Hans Belke: The Stoic Guide"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Icelandic_people"
+    content: "Arne Saknussemm, the enigmatic Icelandic scholar, is a fictional creation who embodies the spirit of discovery. In Verne's narrative, Saknussemm is credited with finding the path to the Earth's core, leaving cryptic instructions for future explorers. His name evokes the tradition of Renaissance polymaths, blending science, art, and adventure. While Saknussemm never existed, his character reflects Verne's admiration for historical figures like Galileo and Humboldt, who pushed the boundaries of human knowledge. By invoking Saknussemm, Verne creates a lineage of exploration that connects past, present, and future, urging readers to imagine what lies beyond the limits of known science."
+  - id: "banks-of-the-elbe"
+    trigger: "banks of the Elbe"
+    title: "The River That Sparked a Scientist's Doubts"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Elbe"
     image_url: ""
     image_caption: ""
-    content: "Hans Belke is a fictional Icelandic guide in Verne's novel, characterized by his calm demeanor and physical prowess. His expertise in Iceland's rugged terrain provides a stabilizing presence amid the chaos of the expedition. Hans represents the practical knowledge and resilience required for survival in extreme conditions, contrasting with the scientific zeal of Professor Lidenbrock."
-  - id: "glycerin"
-    trigger: "glycerin"
-    title: "Glycerin: Versatile Substance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Glycerol"
+    content: "As Henry Lawson walks along the banks of the Elbe, he wrestles with the enormity of his uncle's plan. The Elbe, one of Central Europe's major rivers, has long been a site of reflection and inspiration. Flowing through Germany and the Czech Republic, its serene waters have witnessed centuries of history, from medieval trade routes to modern industrial development. For Lawson, the river becomes a metaphor for the flow of ideas—both exhilarating and overwhelming. Verne uses this moment to deepen Lawson's character, showing how even amidst natural beauty, the human mind grapples with fear and wonder, setting the stage for the transformative journey ahead."
+  - id: "rope-ladders"
+    trigger: "rope ladders"
+    title: "The Tools That Made Impossible Journeys Possible"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mountaineering_equipment"
     image_url: ""
     image_caption: ""
-    content: "Glycerin, or glycerol, is a versatile compound used in various applications, from food preservation to explosives. In the novel, it is employed as a fuel for lamps, highlighting its utility in scientific and exploratory contexts. Its inclusion underscores the meticulous planning required for the expedition, ensuring the team is equipped to face the unknown."
-  - id: "latitude-of-the-volcano"
-    trigger: "latitude of the volcano"
-    title: "Latitude and Geological Significance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Latitude"
+    content: "The sight of rope ladders and other equipment in Professor Hardwigg's garden signals the shift from theory to action. Rope ladders, a staple of mountaineering and exploration, have enabled humans to traverse vertical landscapes for centuries. Their design, simple yet ingenious, reflects the ingenuity required for survival in extreme environments. Verne's inclusion of such tools underscores the practical challenges of the journey, grounding the fantastical premise in the realities of exploration. These ladders are not just props; they symbolize the human capacity to adapt and innovate, turning dreams of discovery into tangible achievements."
+  - id: "post-chaise"
+    trigger: "post chaise"
+    title: "The 19th-Century Vehicle of Adventure"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Post_chaise"
     image_url: ""
     image_caption: ""
-    content: "Latitude refers to a location's position relative to the equator, influencing climate and geological features. In the novel, the latitude of Snæfellsjökull is noted for its thin crust, making it an ideal entry point to the Earth's interior. This detail reflects Verne's attention to scientific plausibility, blending geography with speculative fiction."
+    content: "The post chaise that carries the adventurers to their starting point is more than just transportation—it’s a symbol of the era’s spirit of exploration. Popular in the 18th and 19th centuries, post chaises were lightweight carriages designed for speed and efficiency, often used for long-distance travel. They were the vehicles of choice for travelers seeking to cover vast distances quickly, embodying the technological advancements of the time. By including this detail, Verne situates his story firmly in the context of contemporary travel, reminding readers that even the most extraordinary journeys begin with ordinary means. The post chaise becomes a bridge between the familiar and the fantastical, carrying the characters—and readers—toward the unknown."
+  - id: "henry-lawson"
+    trigger: "Henry Lawson"
+    title: "The Reluctant Adventurer Who Found His Courage"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    image_url: ""
+    image_caption: ""
+    content: "Henry Lawson, the narrator and nephew of Professor Hardwigg, is the skeptical voice of reason in Verne's tale. His doubts about the journey reflect the scientific debates of the time, particularly regarding the Earth's interior. Yet Lawson's transformation—from reluctant participant to enthusiastic explorer—mirrors the broader theme of human curiosity overcoming fear. Verne uses Lawson's character to explore the tension between skepticism and wonder, showing how even the most rational minds can be swept up in the thrill of discovery. Lawson’s journey is not just physical; it’s a testament to the power of imagination and the courage to embrace the unknown."
 ---
-The household was in chaos from the moment Professor Otto Lidenbrock proclaimed our imminent departure for Iceland. To this day, I cannot say whether the whirlwind of activity was driven more by his relentless energy or my growing sense of dread. Every corner of the house became a staging ground for his grand expedition, with maps unfurled across dining tables, geological instruments stacked precariously on chairs, and books piled in haphazard towers that threatened to topple at any ill-timed breath. The **cryptic runic manuscript**, penned centuries ago by the enigmatic **Arne Saknussemm**, had transformed our lives, and now it seemed determined to drag us into its depths—both figuratively and literally.
+WE START ON THE JOURNEY
 
-My uncle’s enthusiasm was boundless. His booming voice echoed through every room as he barked instructions at Martha, our bewildered housekeeper, or rattled off lists of provisions that seemed to grow longer each hour. "Axel, my boy! Have you packed the **aneroid barometer**? It will be indispensable for measuring atmospheric pressure as we descend! And don’t forget the **Ruhmkorff coil**—the electric light will guide us where the sun cannot!" His words were accompanied by gestures so animated that I feared he might knock over the very instruments he sought to safeguard.
 
-I, on the other hand, was consumed by apprehension. While my uncle was exhilarated by the prospect of uncovering the Earth’s secrets, I could not shake a gnawing unease. The thought of plunging into the bowels of the **volcanic crater of Snæfellsjökull** seemed nothing short of madness. What horrors might await us in the subterranean abyss? What cataclysmic forces might rend us asunder? I dared not voice these fears aloud, for my uncle would surely dismiss them as the ramblings of a coward. Yet the more I pondered the risks, the less I could reconcile myself to the idea of stepping beyond the threshold of safety.
+"You see, the whole island is composed of volcanoes," said the
+Professor, "and remark carefully that they all bear **the name of Yocul**.
+The word is Icelandic, and means a glacier. In most of the lofty
+mountains of that region the volcanic eruptions come forth from icebound
+caverns. Hence the name applied to every volcano on this extraordinary
+island."
 
-Despite my reluctance, I was swept along by the inexorable tide of preparations. My uncle’s scientific fervor was matched only by his meticulousness. He insisted on inspecting every item himself: the **geological hammer** to break apart rock samples, the **compass** to ensure we maintained our bearings in the labyrinthine depths, the sturdy ropes and grappling hooks for scaling treacherous surfaces. "Nothing must be overlooked!" he exclaimed, his eyes bright with the fire of discovery. "This is no mere excursion, Axel—it is a journey into the very heart of creation!"
+"But what does this word Sneffels mean?"
 
-I found some solace in the arrival of the guide, **Hans Belke**, a stoic Icelander of few words but immense stature. His calm demeanor seemed to promise a measure of stability amidst the chaos, and I took comfort in the thought that his experience with Iceland’s rugged terrain might help us avoid catastrophe. Hans carried with him an air of quiet confidence that contrasted sharply with my uncle’s fiery zeal. He nodded gravely as my uncle explained our mission, his eyes betraying neither surprise nor doubt. It was as though he had accepted the absurdity of our venture without question, a trait I found both baffling and oddly reassuring.
+To this question I expected no rational answer. I was mistaken.
 
-As the days wore on, the house became more like a depot than a dwelling. Crates of provisions were stacked against the walls, filled with dried meats, biscuits, and bottles of **glycerin**—a substance my uncle claimed would serve as a fuel for our lamps. The library was transformed into a war room, with charts of Iceland pinned to every available surface. My uncle pored over the details with a magnifying glass, tracing the route from Copenhagen to Reykjavik and then onward to the base of Snæfellsjökull. "The **latitude of the volcano** places it in a uniquely advantageous position," he explained to me one evening, his finger tapping the map with urgency. "It is here that the Earth’s crust is thinnest, Axel. Saknussemm knew this. He chose wisely."
+"Follow my finger to the western coast of Iceland, there you see
+Reykjavik, its capital. Follow the direction of one of its innumerable
+fjords or arms of the sea, and what do you see below the sixty-fifth
+degree of latitude?"
 
-As departure day approached, my unease grew to a fever pitch. My uncle, oblivious to my trepidation, remained consumed by his vision. "Imagine, Axel," he said, his voice quivering with excitement. "We may encounter **strata from the Silurian epoch**, or fossils that defy all known classifications! Think of the glory, the fame—it will be our names etched in the annals of science!" His fervent declarations only deepened my dread, for his ambitions seemed to blind him to the dangers we might face.
+"A peninsula--very like a thighbone in shape."
 
-On the final evening before we were to set sail, I found myself alone in my room, staring at the packed bags that would accompany me into the unknown. The weight of the **runic manuscript** seemed to bear down upon my chest, its secrets both tantalizing and terrifying. I thought of the cryptic words that had set this entire ordeal in motion, and I wondered whether Saknussemm had truly intended for anyone to follow his path—or whether his message was a warning, a cautionary tale meant to dissuade the foolhardy.
+"And in the centre of it--?"
 
-Sleep evaded me that night, and I rose before dawn to find the house already buzzing with activity. My uncle was in high spirits, his booming laughter filling the air as he directed the loading of our crates onto the waiting carriage. Hans stood silently by, his presence a steady anchor amid the tempest. I climbed aboard with a heavy heart, my mind a whirl of doubts and fears. The streets of Hamburg blurred past as we made our way to the port, where the **ship bound for Reykjavik** awaited us.
+"A mountain."
 
-As the vessel’s sails unfurled and we began our voyage across the North Sea, I stood at the railing, gazing at the receding shore. My uncle joined me, clapping a hand on my shoulder. "Axel, my boy," he said, his voice brimming with confidence, "this is the beginning of something extraordinary. Trust in the science, and trust in me. We shall conquer the unknown together."
+"Well, that's Sneffels."
 
-I nodded, though my heart remained heavy. The ship’s prow cut through the waves, carrying us toward a destiny I could not yet fathom. The words of Saknussemm echoed in my mind, their meaning shrouded in mystery. And so, with equal measures of hope and foreboding, I embarked on the journey that would forever alter my understanding of the world—and of myself.
+I had nothing to say.
+
+"That is Sneffels--a mountain about five thousand feet in height, one of
+the most remarkable in the whole island, and certainly doomed to be the
+most celebrated in the world, for through its crater we shall reach the
+centre of the earth."
+
+"Impossible!" cried I, startled and shocked at the thought.
+
+"Why impossible?" said Professor Hardwigg in his severest tones.
+
+"Because its crater is choked with lava, by burning rocks--by infinite
+dangers."
+
+"But if it be extinct?"
+
+"That would make a difference."
+
+"Of course it would. There are about three hundred volcanoes on the
+whole surface of the globe--but the greater number are extinct. Of these
+**Sneffels is one**. No eruption has occurred since 1219--in fact it has
+ceased to be a volcano at all."
+
+After this what more could I say? Yes,--I thought of another objection.
+
+"But what is all this about Scartaris and the kalends of July--?"
+
+My uncle reflected deeply. Presently he gave forth the result of his
+reflections in a sententious tone. "What appears obscure to you, to me
+is light. This very phrase shows how particular Saknussemm is in his
+directions. The Sneffels mountain has many craters. He is careful
+therefore to point the exact one which is the highway into the Interior
+of the Earth. He lets us know, for this purpose, that about the end of
+the month of June, the **shadow of Mount Scartaris** falls upon the one
+crater. There can be no doubt about the matter."
+
+My uncle had an answer for everything.
+
+"I accept all your explanations" I said, "and Saknussemm is right. He
+found out the entrance to the bowels of the earth, he has indicated
+correctly, but that he or anyone else ever followed up the discovery is
+madness to suppose."
+
+"Why so, young man?"
+
+"All scientific teaching, theoretical and practical, shows it to be
+impossible."
+
+"I care nothing for theories," retorted my uncle.
+
+"But is it not well-known that heat increases one degree for every
+seventy feet you descend into the earth? Which gives a fine idea of the
+central heat. All the matters which compose the globe are in a state of
+incandescence; even gold, platinum, and the hardest rocks are in a state
+of fusion. What would become of us?"
+
+"Don't be alarmed at the heat, my boy."
+
+"How so?"
+
+"Neither you nor anybody else know anything about the real state of the
+earth's interior. All modern experiments tend to explode the older
+theories. Were any such heat to exist, the upper crust of the earth
+would be shattered to atoms, and the world would be at an end."
+
+A long, learned and not uninteresting discussion followed, which ended
+in this wise:
+
+"I do not believe in the dangers and difficulties which you, Henry, seem
+to multiply; and the only way to learn, is like **Arne Saknussemm**, to go
+and see."
+
+"Well," cried I, overcome at last, "let us go and see. Though how we can
+do that in the dark is another mystery."
+
+"Fear nothing. We shall overcome these, and many other difficulties.
+Besides, as we approach the centre, I expect to find it luminous--"
+
+"Nothing is impossible."
+
+"And now that we have come to a thorough understanding, not a word to
+any living soul. Our success depends on secrecy and dispatch."
+
+Thus ended our memorable conference, which roused a perfect fever in me.
+Leaving my uncle, I went forth like one possessed. Reaching the **banks of
+the Elbe**, I began to think. Was all I had heard really and truly
+possible? Was my uncle in his sober senses, and could the interior of
+the earth be reached? Was I the victim of a madman, or was he a
+discoverer of rare courage and grandeur of conception?
+
+To a certain extent I was anxious to be off. I was afraid my enthusiasm
+would cool. I determined to pack up at once. At the end of an hour,
+however, on my way home, I found that my feelings had very much changed.
+
+"I'm all abroad," I cried; "'tis a nightmare--I must have dreamed it."
+
+At this moment I came face to face with Gretchen, whom I warmly
+embraced.
+
+"So you have come to meet me," she said; "how good of you. But what is
+the matter?"
+
+Well, it was no use mincing the matter, I told her all. She listened
+with awe, and for some minutes she could not speak.
+
+"Well?" I at last said, rather anxiously.
+
+"What a magnificent journey. If I were only a man! A journey worthy of
+the nephew of Professor Hardwigg. I should look upon it as an honor to
+accompany him."
+
+"My dear Gretchen, I thought you would be the first to cry out against
+this mad enterprise."
+
+"No; on the contrary, I glory in it. It is magnificent, splendid--an
+idea worthy of my father. **Henry Lawson**, I envy you."
+
+This was, as it were, conclusive. The final blow of all.
+
+When we entered the house we found my uncle surrounded by workmen and
+porters, who were packing up. He was pulling and hauling at a bell.
+
+"Where have you been wasting your time? Your portmanteau is not
+packed--my papers are not in order--the precious tailor has not brought
+my clothes, nor my gaiters--the key of my carpet bag is gone!"
+
+I looked at him stupefied. And still he tugged away at the bell.
+
+"We are really off, then?" I said.
+
+"Yes--of course, and yet you go out for a stroll, unfortunate boy!"
+
+"And when do we go?"
+
+"The day after tomorrow, at daybreak."
+
+I heard no more; but darted off to my little bedchamber and locked
+myself in. There was no doubt about it now. My uncle had been hard at
+work all the afternoon. The garden was full of ropes, **rope ladders**,
+torches, gourds, iron clamps, crowbars, alpenstocks, and
+pickaxes--enough to load ten men.
+
+I passed a terrible night. I was called early the next day to learn that
+the resolution of my uncle was unchanged and irrevocable. I also found
+my cousin and affianced wife as warm on the subject as was her father.
+
+Next day, at five o'clock in the morning, the **post chaise** was at the
+door. Gretchen and the old cook received the keys of the house; and,
+scarcely pausing to wish anyone good-by, we started on our adventurous
+journey into the centre of the earth.

@@ -9,123 +9,379 @@ book_slug: "journey-to-the-center-of-the-earth"
 license: "public-domain"
 
 summary:
-  - point: "The team prepares to embark on a deeper journey into the Earth's depths, led by Professor Lidenbrock's enthusiasm for discovery."
-    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
-    link_label: "Journey to the Center of the Earth"
-  - point: "The Snæfells volcanic tube serves as their entry point into the subterranean world, presenting both challenges and wonders."
+  - point: "The group begins their ascent of Mount Sneffels, a towering volcano in Iceland."
     link: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
-    link_label: "Snæfellsjökull"
-  - point: "Professor Lidenbrock uses a manometer to measure atmospheric pressure during their descent."
-    link: "https://en.wikipedia.org/wiki/Pressure_measurement"
-    link_label: "Pressure measurement"
-  - point: "The team encounters a subterranean river, which they navigate using a raft built from available materials."
-    link: "https://en.wikipedia.org/wiki/Underground_river"
-    link_label: "Underground river"
-  - point: "They discover a vast subterranean sea, named the Lidenbrock Sea, which defies known scientific theories."
-    link: "https://en.wikipedia.org/wiki/Subterranean_river#Subterranean_seas"
-    link_label: "Subterranean seas"
-  - point: "The professor identifies paleozoic stratum with fossilized remains, showcasing the ancient history of Earth's geology."
-    link: "https://en.wikipedia.org/wiki/Paleozoic"
-    link_label: "Paleozoic"
+    link_label: "Mount Sneffels"
+  - point: "Hans, the guide, leads the group through treacherous terrain with remarkable calm and precision."
+    link: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    link_label: "Hans (character)"
+  - point: "The narrator reflects on Iceland's volcanic origins and geological history."
+    link: "https://en.wikipedia.org/wiki/Geology_of_Iceland"
+    link_label: "Geology of Iceland"
+  - point: "The group encounters a dangerous sandstorm phenomenon called 'mistour' during their climb."
+    link: "https://en.wikipedia.org/wiki/Sandstorm"
+    link_label: "Sandstorm"
+  - point: "After enduring extreme fatigue and peril, the group reaches the summit of Mount Sneffels."
+    link: "https://en.wikipedia.org/wiki/Summit_(topography)"
+    link_label: "Summit"
+  - point: "The narrator marvels at the midnight sun, a rare Arctic phenomenon visible from the summit."
+    link: "https://en.wikipedia.org/wiki/Midnight_sun"
+    link_label: "Midnight Sun"
 
 enhancements:
-  - id: "professor-lidenbrock"
-    trigger: "Professor Lidenbrock"
-    title: "Professor Lidenbrock's Scientific Zeal"
+  - id: "professor-hardwigg-quirky-scientist-or-obsessive-genius"
+    trigger: "Professor Hardwigg"
+    title: "Quirky Scientist or Obsessive Genius?"
     wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
     image_url: ""
     image_caption: ""
-    content: "Professor Otto Lidenbrock is the driving force behind the expedition in Jules Verne's novel. His unyielding curiosity and passion for science embody the spirit of 19th-century exploration and discovery. Lidenbrock's character reflects the era's fascination with geology and the unknown, making him a quintessential figure in the genre of scientific adventure fiction."
-  - id: "snaefells-volcanic-tube"
-    trigger: "Snæfells volcanic tube"
-    title: "Snæfellsjökull's Geological Significance"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sn%C3%A6fellsj%C3%B6kull"
+    content: "When the narrator refers to his uncle as 'Professor Hardwigg,' it’s with a mix of admiration and exasperation. Hardwigg is the quintessential 19th-century scientist: brilliant, eccentric, and utterly relentless in pursuit of discovery. Jules Verne modeled characters like Hardwigg on the real-life scientific explorers of his era, who were pushing boundaries in geology, paleontology, and physics. The professor’s obsessive drive mirrors the spirit of the Industrial Revolution, where curiosity and ambition often outpaced caution. But Hardwigg’s single-mindedness also raises questions about the cost of such pursuits. In this chapter, his impatience to continue climbing Sneffels despite the group's exhaustion reveals both his determination and his disregard for human limits. Verne uses Hardwigg’s character to explore the tension between scientific ambition and human vulnerability—a theme that resonates throughout the novel."
+  - id: "subterranean-fires-what-lies-beneath-iceland"
+    trigger: "subterranean fires"
+    title: "What Lies Beneath Iceland?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Volcanism_of_Iceland"
     image_url: ""
     image_caption: ""
-    content: "Snæfellsjökull is a glacier-capped stratovolcano in Iceland, famously used by Jules Verne as the entry point to the Earth's interior. Its real-world geological features and cultural significance have made it a popular destination for tourists and geologists alike. The volcano symbolizes the intersection of science and imagination in Verne's narrative."
-  - id: "manometer"
-    trigger: "manometer"
-    title: "Manometer: Measuring Pressure"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pressure_measurement"
+    content: "The narrator speculates that Iceland owes its existence to 'subterranean fires,' a poetic nod to the island's volcanic origins. Iceland sits atop the Mid-Atlantic Ridge, where tectonic plates diverge, creating a hotspot for volcanic activity. The island’s fiery birth is not just a geological marvel but also a cultural one; its volcanoes have shaped Icelandic folklore, inspiring tales of fire giants and subterranean realms. In Verne’s story, these fires symbolize the untamed forces of nature that the explorers seek to confront. By grounding his adventure in real geological phenomena, Verne invites readers to imagine the Earth not as a static surface but as a dynamic, living entity—a theme that underscores the novel’s blend of science and wonder."
+  - id: "six-sided-prisms-natures-perfect-geometry"
+    trigger: "six-sided prisms"
+    title: "Nature's Perfect Geometry"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Basalt"
     image_url: ""
     image_caption: ""
-    content: "A manometer is an instrument used to measure pressure, often in scientific experiments. In the novel, Professor Lidenbrock uses it to track their descent, emphasizing the importance of precise measurements in exploration. This device highlights the blend of scientific rigor and adventurous spirit in Verne's storytelling."
-  - id: "feldspar-and-mica"
-    trigger: "feldspar and mica"
-    title: "Feldspar and Mica in Geology"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Feldspar"
+    content: "As the group crosses a plain covered in 'six-sided prisms,' they encounter one of geology’s most striking formations: basalt columns. These hexagonal shapes form when molten lava cools and contracts, creating fractures that naturally align into geometric patterns. Famous examples include the Giant’s Causeway in Northern Ireland and Svartifoss in Iceland. The narrator’s awe at these formations reflects Verne’s fascination with the natural world’s ability to produce order from chaos. In the context of the novel, these prisms serve as a metaphor for the hidden structures and patterns that underpin the Earth—an idea central to the explorers’ journey into its depths."
+  - id: "stone-steps-volcanic-staircase-to-the-sky"
+    trigger: "stone steps"
+    title: "Volcanic Staircase to the Sky"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Volcanic_rock"
     image_url: ""
     image_caption: ""
-    content: "Feldspar and mica are common minerals found in Earth's crust. Feldspar is a major component of igneous rocks, while mica is known for its layered structure and reflective properties. Their presence in the subterranean tunnel underscores the geological authenticity of Verne's descriptions and the Earth's complex mineral composition."
-  - id: "underground-aquifer"
-    trigger: "underground aquifer"
-    title: "Aquifers: Earth's Water Reservoirs"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Aquifer"
+    content: "The 'stone steps' that aid the group’s ascent are a remarkable natural feature formed by volcanic activity. These steps, created by torrents of stones during eruptions, highlight the transformative power of volcanoes. In Iceland, such formations are not uncommon, as the island’s volcanic landscape constantly reshapes itself. For the explorers, these steps are both a blessing and a reminder of the mountain’s violent origins. Verne uses this moment to emphasize the interplay between nature’s destructive and constructive forces, a theme that recurs throughout their journey into the Earth’s depths."
+  - id: "region-of-eternal-snows-where-time-stands-still"
+    trigger: "region of eternal snows"
+    title: "Where Time Stands Still"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Snow"
     image_url: ""
     image_caption: ""
-    content: "Aquifers are underground layers of water-bearing rock, crucial for sustaining ecosystems and human water supplies. The discovery of an ancient aquifer in the novel highlights the hidden hydrological systems beneath Earth's surface and their potential to reveal geological history."
-  - id: "saknussemm-cryptic-message"
-    trigger: "Saknussemm’s cryptic message"
-    title: "Saknussemm's Mysterious Guide"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
+    content: "Reaching the 'region of eternal snows,' the explorers enter a realm where nature seems frozen in time. Eternal snowfields are common at high altitudes and latitudes, where temperatures remain below freezing year-round. These icy landscapes evoke both beauty and danger, as they are often accompanied by treacherous winds and avalanches. For Verne’s characters, the snowfields symbolize the threshold between the known world and the mysteries that lie beneath. The stark, unyielding environment challenges their resolve, setting the stage for the deeper trials they will face as they descend into the Earth."
+  - id: "whirlwind-of-sand-icelands-hidden-tempests"
+    trigger: "whirlwind of sand"
+    title: "Iceland's Hidden Tempests"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sandstorm"
     image_url: ""
     image_caption: ""
-    content: "Arne Saknussemm is a fictional Icelandic alchemist whose writings guide the explorers in Verne's novel. His cryptic message serves as a narrative device to propel the journey forward, blending elements of mystery and science. Saknussemm represents the historical fascination with alchemy and its transition into modern scientific inquiry."
-  - id: "paleozoic-stratum"
-    trigger: "paleozoic stratum"
-    title: "Paleozoic Era Fossils"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Paleozoic"
+    content: "The 'whirlwind of sand' that threatens the group is a dramatic reminder of Iceland’s unpredictable weather. Known locally as 'mistour,' these sandstorms occur when strong winds lift volcanic ash and pumice into the air, creating a dense, choking cloud. Similar phenomena are seen in deserts like the Sahara, but in Iceland, they are tied to its volcanic terrain. This moment underscores the precariousness of the explorers’ journey, as even the mountain’s surface proves hostile. Verne uses the sandstorm to heighten tension and to illustrate the raw, untamed power of nature—a force that the characters must navigate both physically and psychologically."
+  - id: "england-to-norway-midnight-sun-tourism"
+    trigger: "England to Norway"
+    title: "Midnight Sun Tourism: A Victorian Obsession"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Midnight_sun"
     image_url: ""
     image_caption: ""
-    content: "The Paleozoic Era, spanning 541 to 252 million years ago, is known for its diverse marine life and the emergence of terrestrial organisms. Fossils from this era provide critical insights into Earth's evolutionary history. Verne's inclusion of paleozoic stratum adds scientific depth to the narrative, showcasing the Earth's ancient past."
-  - id: "subterranean-sea"
-    trigger: "subterranean sea"
-    title: "Subterranean Seas in Fiction"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Subterranean_river#Subterranean_seas"
-    image_url: ""
-    image_caption: ""
-    content: "The concept of subterranean seas, while scientifically speculative, has captured the imagination of writers and readers alike. In Verne's novel, the Lidenbrock Sea represents the ultimate frontier of exploration, blending geological plausibility with fantastical elements. Such settings challenge our understanding of Earth's hidden landscapes."
-  - id: "lidenbrock-sea"
-    trigger: "Lidenbrock Sea"
-    title: "Lidenbrock Sea: A Fictional Marvel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth"
-    image_url: ""
-    image_caption: ""
-    content: "The Lidenbrock Sea is a fictional subterranean ocean discovered by the explorers in Verne's novel. Its vastness and mystery symbolize the uncharted territories of science and imagination. This discovery challenges the boundaries of geology and serves as a testament to the novel's enduring appeal as a work of speculative fiction."
-  - id: "compass"
-    trigger: "compass"
-    title: "Compass: Navigating the Unknown"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Compass"
-    image_url: ""
-    image_caption: ""
-    content: "The compass is a vital tool for navigation, relying on Earth's magnetic field to indicate direction. In the novel, it underscores the explorers' reliance on scientific instruments to traverse the unknown. The compass symbolizes humanity's ingenuity in overcoming challenges and exploring new frontiers."
+    content: "The narrator marvels that people travel 'from England to Norway' to witness the midnight sun, a phenomenon where the sun remains visible at midnight during summer months in Arctic regions. In the 19th century, this spectacle became a popular attraction for adventurous travelers, including many Victorians who romanticized the natural world. The midnight sun symbolizes the allure of the unknown and the extremes of nature, themes central to Verne’s novel. By including this detail, Verne connects his fictional journey to real-world phenomena, grounding his fantastical narrative in the wonders of the Earth."
 ---
-The morning light filtered faintly through the rocky aperture above, casting a pale, spectral glow over the subterranean chamber where we had spent the night. The air was thick and humid, laden with the earthy scent of minerals and the faint tang of sulfur. We arose in silence, our minds already set upon the task ahead. **Professor Lidenbrock**, his eyes alight with that peculiar fervor of discovery, was the first to speak, his voice cutting through the stillness like the strike of a flint.
+THE ASCENT OF MOUNT SNEFFELS
 
-“Axel, Hans, today is the day we embark upon the most extraordinary leg of our journey,” he declared, his hand gesturing grandly toward the dark tunnel ahead, which wound downward into the depths like the gaping maw of some ancient beast. “The subterranean sea awaits, and beyond it, who knows what wonders we may encounter? This is the very heart of science, the pursuit of the unknown!”
 
-Hans, ever stoic, merely nodded and adjusted the straps of his pack. He was a man of few words, his actions speaking more eloquently than any utterance could. How I envied his calm demeanor; for my own nerves were as taut as the strings of a well-tuned violin. The **Snæfells volcanic tube** had already proven a formidable descent, but the prospect of venturing farther into the Earth’s bowels filled me with equal parts dread and wonder.
+The huge volcano which was the first stage of our daring experiment is
+above five thousand feet high. Sneffels is the termination of a long
+range of volcanic mountains, of a different character to the system of
+the island itself. One of its peculiarities is its two huge pointed
+summits. From whence we started it was impossible to make out the real
+outlines of the peak against the grey field of sky. All we could
+distinguish was a vast dome of white, which fell downwards from the head
+of the giant.
 
-As we prepared for the day’s journey, I took stock of our provisions. Hans had meticulously organized the supplies: bundles of rope, sturdy pickaxes, a collection of scientific instruments carefully packed to withstand the rigors of travel, and our dwindling stock of food and water. The professor had insisted on bringing his **manometer**, a device he used to measure atmospheric pressure. “It will be indispensable,” he had said, “for tracking our descent into the Earth’s core.”
+The commencement of the great undertaking filled me with awe. Now that
+we had actually started, I began to believe in the reality of the
+undertaking!
 
-We set off with lanterns in hand, their flickering light casting eerie shadows upon the walls of the cavern. The tunnel sloped steeply downward, its walls rugged and uneven, coated with deposits of **feldspar** and **mica** that shimmered faintly in the light. My uncle’s enthusiasm seemed boundless; he paused frequently to examine the geological formations, muttering excitedly about their composition and the epochs they represented. Hans, meanwhile, maintained a steady pace ahead, his steps deliberate and unerring. I, struggling to keep up, found my thoughts wavering between admiration for the ancient forces that had shaped this subterranean realm and fear of the unknown perils that surely awaited us.
+Our party formed quite a procession. We walked in single file, preceded
+by Hans, the imperturbable eider-duck hunter. He calmly led us by narrow
+paths where two persons could by no possibility walk abreast.
+Conversation was wholly impossible. We had all the more opportunity to
+reflect and admire the awful grandeur of the scene around.
 
-After several hours of descent, the tunnel widened, and we emerged into a cavern of astonishing grandeur. The walls towered high above us, their surfaces encrusted with minerals that sparkled like stars in the black void. At the center of the chamber lay a deep, still pool, its surface mirroring the rocky ceiling. “A marvel of hydrology!” exclaimed Professor Lidenbrock as he knelt beside the water’s edge, his hand cupped to scoop some of the liquid for examination. “This must be a remnant of an **underground aquifer**, untouched for millennia!”
+Beyond the extraordinary basaltic wall of the fjord of Stapi we found
+ourselves making our way through fibrous turf, over which grew a scanty
+vegetation of grass, the residuum of the ancient vegetation of the
+swampy peninsula. The vast mass of this combustible, the field of which
+as yet is utterly unexplored, would suffice to warm Iceland for a whole
+century. This mighty turf pit, measured from the bottom of certain
+ravines, is often not less than seventy feet deep, and presents to the
+eye the view of successive layers of black burned-up rocky detritus,
+separated by thin streaks of porous sandstone.
 
-Suddenly, Hans raised his hand, signaling us to silence. We froze, ears straining against the oppressive quiet. A faint, rhythmic sound reached us—a distant rush of water, like the heartbeat of the Earth itself. “A subterranean river,” my uncle whispered, his voice trembling with excitement. “If we can follow its course, it may lead us to the sea described in **Saknussemm’s cryptic message**!”
+The grandeur of the spectacle was undoubted, as well as its arid and
+deserted air.
 
-We pressed forward, the sound growing louder with each step until at last we stood at the edge of the river. It was a torrent of astonishing force, its waters churning with a wild energy that seemed to defy the stillness of the cavern. Hans quickly assessed the situation, his keen eyes scanning the rocky banks for a safe passage. “We’ll need a raft,” he said at last, his voice calm and measured. “The current is too strong to cross otherwise.”
+As a true nephew of the great **Professor Hardwigg**, and despite my
+preoccupation and doleful fears of what was to come, I observed with
+great interest the vast collection of mineralogical curiosities spread
+out before me in this vast museum of natural history. Looking back to my
+recent studies, I went over in thought the whole geological history of
+Iceland.
 
-The professor nodded in agreement, and we set to work with the tools at our disposal. Hans proved invaluable, his strength and skill enabling us to fashion a crude but sturdy vessel from the logs and vines that lay scattered along the banks. By the time we were finished, my hands were raw and blistered, my muscles aching from the effort. Yet there was no time for rest; the river beckoned, its roaring waters promising both peril and progress.
+This extraordinary and curious island must have made its appearance from
+out of the great world of waters at a comparatively recent date. Like
+the coral islands of the Pacific, it may, for aught we know, be still
+rising by slow and imperceptible degrees.
 
-We launched the raft into the current, the three of us climbing aboard with our supplies tightly secured. Hans took up the pole, his movements precise and controlled as he guided the vessel through the tumultuous waters. The professor, meanwhile, was absorbed in his instruments, his gaze fixed upon the needle of the **compass** as it quivered with the motion of the raft. I sat at the rear, clutching the ropes with white-knuckled hands, my heart pounding in rhythm with the river’s roar.
+If this really be the case, its origin can be attributed to only one
+cause--that of the continued action of **subterranean fires**.
 
-Hours passed as we navigated the winding course of the subterranean river, the lantern casting a pale glow upon the rocky walls that seemed to close in around us. The air grew colder, the moisture condensing upon our skin in icy droplets. My uncle’s voice rang out intermittently, his observations and hypotheses flowing freely as if the river itself had infused him with its relentless energy. “This must be a **paleozoic stratum**!” he exclaimed at one point, gesturing toward a series of fossilized remains embedded in the walls. “Imagine, Axel, these creatures lived millions of years ago, their forms preserved by the very forces that shaped this subterranean world!”
+This was a happy thought.
 
-At last, the river widened, its pace slowing as it emptied into a vast, open expanse. What lay before us was an image so extraordinary that it seemed torn from the pages of myth and legend. A **subterranean sea**, its surface shimmering with an ethereal light, stretched as far as the eye could see. Towering pillars of rock rose from the depths like ancient sentinels, their bases shrouded in mist. The air was thick with the scent of salt and minerals, and the faint cry of distant creatures echoed through the cavern.
+If so, if this were true, away with the theories of Sir Humphry Davy;
+away with the authority of the parchment of Arne Saknussemm; the
+wonderful pretensions to discovery on the part of my uncle--and to our
+journey!
 
-Professor Lidenbrock stood speechless, his eyes wide with wonder as he surveyed the scene. “Axel,” he murmured at last, “this is beyond anything I could have imagined. The existence of such a sea defies all known scientific theories! We must chart its dimensions, analyze its waters, and uncover its secrets. This is a discovery that will redefine the very boundaries of geology!”
+All must end in smoke.
 
-Hans, ever practical, began to unload the supplies, his movements steady and unhurried. I, meanwhile, felt a strange mixture of awe and unease. The sea was beautiful, yes, but its vastness and mystery filled me with a profound sense of insignificance. What creatures might dwell beneath its surface? What ancient forces had shaped its existence? And what perils awaited us as we set sail upon its uncharted waters?
+Charmed with the idea, I began more carefully to look about me. A
+serious study of the soil was necessary to negative or confirm my
+hypothesis. I took in every item of what I saw, and I began to
+comprehend the succession of phenomena which had preceded its formation.
 
-The professor’s voice brought me back to the present. “Axel, Hans, prepare yourselves,” he said, his tone resolute. “Tomorrow, we embark upon the greatest journey of all—across the **Lidenbrock Sea**, toward the very heart of the Earth itself!”
+Iceland, being absolutely without sedimentary soil, is composed
+exclusively of volcanic tufa; that is to say, of an agglomeration of
+stones and of rocks of a porous texture. Long before the existence of
+volcanoes, it was composed of a solid body of massive trap rock lifted
+bodily and slowly out of the sea, by the action of the centrifugal force
+at work in the earth.
+
+The internal fires, however, had not as yet burst their bounds and
+flooded the exterior cake of Mother Earth with hot and raging lava.
+
+My readers must excuse this brief and somewhat pedantic geological
+lecture. But it is necessary to the complete understanding of what
+follows.
+
+At a later period in the world's history, a huge and mighty fissure
+must, reasoning by analogy, have been dug diagonally from the southwest
+to the northeast of the island, through which by degrees flowed the
+volcanic crust. The great and wondrous phenomenon then went on without
+violence--the outpouring was enormous, and the seething fused matter,
+ejected from the bowels of the earth, spread slowly and peacefully in
+the form of vast level plains, or what are called mamelons or mounds.
+
+It was at this epoch that the rocks called feldspars, syenites, and
+porphyries appeared.
+
+But as a natural consequence of this overflow, the depth of the island
+increased. It can readily be believed what an enormous quantity of
+elastic fluids were piled up within its centre, when at last it afforded
+no other openings, after the process of cooling the crust had taken
+place.
+
+At length a time came when despite the enormous thickness and weight of
+the upper crust, the mechanical forces of the combustible gases below
+became so great, that they actually upheaved the weighty back and made
+for themselves huge and gigantic shafts. Hence the volcanoes which
+suddenly arose through the upper crust, and next the craters, which
+burst forth at the summit of these new creations.
+
+It will be seen that the first phenomena in connection with the
+formation of the island were simply eruptive; to these, however, shortly
+succeeded the volcanic phenomena.
+
+Through the newly formed openings, escaped the marvelous mass of
+basaltic stones with which the plain we were now crossing was covered.
+We were trampling our way over heavy rocks of dark grey color, which,
+while cooling, had been moulded into **six-sided prisms**. In the "back
+distance" we could see a number of flattened cones, which formerly were
+so many fire-vomiting mouths.
+
+After the basaltic eruption was appeased and set at rest, the volcano,
+the force of which increased with that of the extinct craters, gave free
+passage to the fiery overflow of lava, and to the mass of cinders and
+pumice stone, now scattered over the sides of the mountain, like
+disheveled hair on the shoulders of a Bacchante.
+
+Here, in a nutshell, I had the whole history of the phenomena from which
+Iceland arose. All take their rise in the fierce action of interior
+fires, and to believe that the central mass did not remain in a state of
+liquid fire, white hot, was simply and purely madness.
+
+This being satisfactorily proved (Q.E.D.), what insensate folly to
+pretend to penetrate into the interior of the mighty earth!
+
+This mental lecture delivered to myself while proceeding on a journey,
+did me good. I was quite reassured as to the fate of our enterprise; and
+therefore went, like a brave soldier mounting a bristling battery, to
+the assault of old Sneffels.
+
+As we advanced, the road became every moment more difficult. The soil
+was broken and dangerous. The rocks broke and gave way under our feet,
+and we had to be scrupulously careful in order to avoid dangerous and
+constant falls.
+
+Hans advanced as calmly as if he had been walking over Salisbury Plain;
+sometimes he would disappear behind huge blocks of stone, and we
+momentarily lost sight of him. There was a little period of anxiety and
+then there was a shrill whistle, just to tell us where to look for him.
+
+Occasionally he would take it into his head to stop to pick up lumps of
+rock, and silently pile them up into small heaps, in order that we might
+not lose our way on our return.
+
+He had no idea of the journey we were about to undertake.
+
+At all events, the precaution was a good one; though how utterly useless
+and unnecessary--but I must not anticipate.
+
+Three hours of terrible fatigue, walking incessantly, had only brought
+us to the foot of the great mountain. This will give some notion of what
+we had still to undergo.
+
+Suddenly, however, Hans cried a halt--that is, he made signs to that
+effect--and a summary kind of breakfast was laid out on the lava before
+us. My uncle, who now was simply Professor Hardwigg, was so eager to
+advance, that he bolted his food like a greedy clown. This halt for
+refreshment was also a halt for repose. The Professor was therefore
+compelled to wait the good pleasure of his imperturbable guide, who did
+not give the signal for departure for a good hour.
+
+The three Icelanders, who were as taciturn as their comrade, did not say
+a word; but went on eating and drinking very quietly and soberly.
+
+From this, our first real stage, we began to ascend the slopes of the
+Sneffels volcano. Its magnificent snowy nightcap, as we began to call
+it, by an optical delusion very common in mountains, appeared to me to
+be close at hand; and yet how many long weary hours must elapse before
+we reached its summit. What unheard-of fatigue must we endure!
+
+The stones on the mountain side, held together by no cement of soil,
+bound together by no roots or creeping herbs, gave way continually under
+our feet, and went rushing below into the plains, like a series of small
+avalanches.
+
+In certain places the sides of this stupendous mountain were at an angle
+so steep that it was impossible to climb upwards, and we were compelled
+to get round these obstacles as best we might.
+
+Those who understand Alpine climbing will comprehend our difficulties.
+Often we were obliged to help each other along by means of our climbing
+poles.
+
+I must say this for my uncle, that he stuck as close to me as possible.
+He never lost sight of me, and on many occasions his arm supplied me
+with firm and solid support. He was strong, wiry, and apparently
+insensible to fatigue. Another great advantage with him was that he had
+the innate sentiment of equilibrium--for he never slipped or failed in
+his steps. The Icelanders, though heavily loaded, climbed with the
+agility of mountaineers.
+
+Looking up, every now and then, at the height of the great volcano of
+Sneffels, it appeared to me wholly impossible to reach to the summit on
+that side; at all events, if the angle of inclination did not speedily
+change.
+
+Fortunately, after an hour of unheard-of fatigues, and of gymnastic
+exercises that would have been trying to an acrobat, we came to a vast
+field of ice, which wholly surrounded the bottom of the cone of the
+volcano. The natives called it the tablecloth, probably from some such
+reason as the dwellers in the Cape of Good Hope call their mountain
+Table Mountain, and their roads Table Bay.
+
+Here, to our mutual surprise, we found an actual flight of **stone steps**,
+which wonderfully assisted our ascent. This singular flight of stairs
+was, like everything else, volcanic. It had been formed by one of those
+torrents of stones cast up by the eruptions, and of which the Icelandic
+name is stina. If this singular torrent had not been checked in its
+descent by the peculiar shape of the flanks of the mountain, it would
+have swept into the sea, and would have formed new islands.
+
+Such as it was, it served us admirably. The abrupt character of the
+slopes momentarily increased, but these remarkable stone steps, a little
+less difficult than those of the Egyptian pyramids, were the one simple
+natural means by which we were enabled to proceed.
+
+About seven in the evening of that day, after having clambered up two
+thousand of these rough steps, we found ourselves overlooking a kind of
+spur or projection of the mountain--a sort of buttress upon which the
+conelike crater, properly so called, leaned for support.
+
+The ocean lay beneath us at a depth of more than three thousand two
+hundred feet--a grand and mighty spectacle. We had reached the **region of
+eternal snows**.
+
+The cold was keen, searching and intense. The wind blew with
+extraordinary violence. I was utterly exhausted.
+
+My worthy uncle, the Professor, saw clearly that my legs refused further
+service, and that, in fact, I was utterly exhausted. Despite his hot and
+feverish impatience, he decided, with a sigh, upon a halt. He called the
+eider-duck hunter to his side. That worthy, however, shook his head.
+
+"Ofvanfor," was his sole spoken reply.
+
+"It appears," says my uncle with a woebegone look, "that we must go
+higher."
+
+He then turned to Hans, and asked him to give some reason for this
+decisive response.
+
+"Mistour," replied the guide.
+
+"Ja, mistour--yes, the mistour," cried one of the Icelandic guides in a
+terrified tone.
+
+It was the first time he had spoken.
+
+"What does this mysterious word signify?" I anxiously inquired.
+
+"Look," said my uncle.
+
+I looked down upon the plain below, and I saw a vast, a prodigious
+volume of pulverized pumice stone, of sand, of dust, rising to the
+heavens in the form of a mighty waterspout. It resembled the fearful
+phenomenon of a similar character known to the travelers in the desert
+of the great Sahara.
+
+The wind was driving it directly towards that side of Sneffels on which
+we were perched. This opaque veil standing up between us and the sun
+projected a deep shadow on the flanks of the mountain. If this sand
+spout broke over us, we must all be infallibly destroyed, crushed in its
+fearful embraces. This extraordinary phenomenon, very common when the
+wind shakes the glaciers, and sweeps over the arid plains, is in the
+Icelandic tongue called "mistour."
+
+"Hastigt, hastigt!" cried our guide.
+
+Now I certainly knew nothing of Danish, but I thoroughly understood that
+his gestures were meant to quicken us.
+
+The guide turned rapidly in a direction which would take us to the back
+of the crater, all the while ascending slightly.
+
+We followed rapidly, despite our excessive fatigue.
+
+A quarter of an hour later Hans paused to enable us to look back. The
+mighty **whirlwind of sand** was spreading up the slope of the mountain to
+the very spot where we had proposed to halt. Huge stones were caught up,
+cast into the air, and thrown about as during an eruption. We were
+happily a little out of the direction of the wind, and therefore out of
+reach of danger. But for the precaution and knowledge of our guide, our
+dislocated bodies, our crushed and broken limbs, would have been cast to
+the wind, like dust from some unknown meteor.
+
+Hans, however, did not think it prudent to pass the night on the bare
+side of the cone. We therefore continued our journey in a zigzag
+direction. The fifteen hundred feet which remained to be accomplished
+took us at least five hours. The turnings and windings, the
+no-thoroughfares, the marches and marches, turned that insignificant
+distance into at least three leagues. I never felt such misery, fatigue
+and exhaustion in my life. I was ready to faint from hunger and cold.
+The rarefied air at the same time painfully acted upon my lungs.
+
+At last, when I thought myself at my last gasp, about eleven at night,
+it being in that region quite dark, we reached the summit of Mount
+Sneffels! It was in an awful mood of mind, that despite my fatigue,
+before I descended into the crater which was to shelter us for the
+night, I paused to behold the sun rise at midnight on the very day of
+its lowest declension, and enjoyed the spectacle of its ghastly pale
+rays cast upon the isle which lay sleeping at our feet!
+
+I no longer wondered at people traveling all the way from **England to
+Norway** to behold this magical and wondrous spectacle.
