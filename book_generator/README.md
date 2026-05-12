@@ -19,8 +19,8 @@ Results are written to `public/books/` and `catalog.json` is updated automatical
 
 - Python 3.11+
 - Azure AI Foundry project with the following models deployed:
-  - **Azure OpenAI**: `gpt-4o`, `gpt-4o-mini`
-  - **Serverless (Model Catalog)**: `Meta-Llama-3.3-70B-Instruct`, `Mistral-Large-3`
+  - **Azure OpenAI**: `gpt-4o`
+  - **Serverless (Model Catalog)**: `Llama-3.3-70B-Instruct`, `Mistral-Large-3`, `Phi-4`
 
 ## Setup
 
@@ -33,14 +33,24 @@ cp .env.example .env
 Edit `.env` with your Azure credentials:
 
 ```env
+# Azure OpenAI resource (gpt-4o)
 AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com
 AZURE_OPENAI_KEY=your-key
 
-AZURE_FOUNDRY_ENDPOINT=https://your-project.eastus.models.ai.azure.com
-AZURE_FOUNDRY_KEY=your-key
+# Azure AI Foundry unified endpoint — all three serverless models share this URL
+AZURE_LLAMA_ENDPOINT=https://your-project.services.ai.azure.com/models/chat/completions?api-version=2024-05-01-preview
+AZURE_LLAMA_KEY=your-foundry-project-key
+
+AZURE_MISTRAL_ENDPOINT=https://your-project.services.ai.azure.com/models/chat/completions?api-version=2024-05-01-preview
+AZURE_MISTRAL_KEY=your-foundry-project-key
+
+AZURE_PHI4_ENDPOINT=https://your-project.services.ai.azure.com/models/chat/completions?api-version=2024-05-01-preview
+AZURE_PHI4_KEY=your-foundry-project-key
 ```
 
 Endpoint URLs and keys are found in **Azure AI Foundry → your project → Models + endpoints**.
+The `AZURE_OPENAI_KEY` comes from the Azure OpenAI resource; the Foundry keys come from the
+Foundry project (**Settings → API keys**) — these are different values.
 
 ## Usage
 
@@ -153,16 +163,16 @@ errors. To change the chain, edit `config/books.yaml`:
 models:
   primary: "gpt-4o"
   fallback:
-    - "Meta-Llama-3.3-70B-Instruct"
+    - "Phi-4"
+    - "Llama-3.3-70B-Instruct"
     - "Mistral-Large-3"
-    - "gpt-4o-mini"
 ```
 
-To add a new model, also add it to `_ENDPOINT_MAP` in `client.py` with the correct endpoint
-environment variable:
+To add a new model, also add it to `_MODEL_CONFIGS` in `client.py` with the endpoint kind
+and environment variables:
 
 ```python
-"My-New-Model": ("AZURE_FOUNDRY_ENDPOINT", "AZURE_FOUNDRY_KEY"),
+"My-New-Model": ("foundry", "AZURE_MYMODEL_ENDPOINT", "AZURE_MYMODEL_KEY"),
 ```
 
 ## Resilience
@@ -172,6 +182,7 @@ environment variable:
 | Rate limit (429) | Exponential backoff, up to 3 retries on the same model |
 | Server error (5xx) | Linear backoff, up to 3 retries |
 | Model fails all retries | Falls through to the next model in the chain |
+| Content filter (400) | Chain aborted immediately — other models will reject the same prompt |
 | Script interrupted | Already-written `.md` files are skipped on restart |
 | Bad JSON from enhancements pass | Strips markdown fences, falls back to regex extraction |
 
