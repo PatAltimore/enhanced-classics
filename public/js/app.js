@@ -143,7 +143,7 @@
           '<span class="chapter-title">' + ch.title + '</span></div>';
       }).join('') +
       '<button id="download-btn" class="download-btn"></button>' +
-      '<p class="offline-legend"><span class="offline-legend-dot">↓</span> Saved for offline reading</p>' +
+      '<p class="offline-legend"><span class="offline-legend-dot">↓</span> = Chapter downloaded for offline reading</p>' +
       '</div>';
     var dlBtn = document.getElementById('download-btn');
     updateDownloadBtn(book, dlBtn);
