@@ -104,7 +104,9 @@
           '<span class="chapter-num">' + ch.number + '</span>' +
           '<span class="chapter-title">' + ch.title + '</span></div>';
       }).join('') +
-      '<button id="download-btn" class="download-btn"></button></div>';
+      '<button id="download-btn" class="download-btn"></button>' +
+      '<p class="offline-legend"><span class="offline-legend-dot">●</span> Saved for offline reading</p>' +
+      '</div>';
     var dlBtn = document.getElementById('download-btn');
     updateDownloadBtn(book, dlBtn);
     dlBtn.addEventListener('click', function () { downloadBook(book, dlBtn); });

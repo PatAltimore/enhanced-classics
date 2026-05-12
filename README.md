@@ -34,6 +34,25 @@ book_generator/      # Python pipeline — run locally to generate content
 
 The site is a single `index.html` that reads `catalog.json` and the per-chapter markdown files. No build step — push to `main` and Azure Static Web Apps deploys automatically.
 
+## Testing locally
+
+Serve the `public/` folder with any static file server. Python (already required for the generator) is the simplest option:
+
+```bash
+cd public
+python -m http.server 3000
+```
+
+Then open [http://localhost:3000](http://localhost:3000).
+
+If you prefer Node:
+
+```bash
+npx serve public
+```
+
+The app reads `catalog.json` and the per-chapter `.md` files at runtime, so any changes to those files are picked up on the next page load with no build step.
+
 ## Generating content
 
 See [book_generator/README.md](book_generator/README.md) for setup and usage. The short version:

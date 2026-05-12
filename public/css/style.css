@@ -274,7 +274,10 @@ main { padding: 2rem; }
 .download-btn--done { border-color: var(--link); color: var(--link); }
 .download-btn:disabled { opacity: .7; cursor: default; }
 
-.chapter-item--cached .chapter-num::after { content: ' ✓'; color: var(--link); font-size: .75rem; }
+.chapter-item--cached::after { content: '●'; color: var(--link); font-size: .55rem; margin-left: auto; flex-shrink: 0; }
+
+.offline-legend { display: flex; align-items: center; gap: .35rem; margin-top: .5rem; font-family: var(--sans); font-size: .8rem; color: var(--muted); }
+.offline-legend-dot { color: var(--link); font-size: .55rem; line-height: 1; }
 
 .offline-badge {
   display: inline-block;
