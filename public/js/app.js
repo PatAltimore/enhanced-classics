@@ -9,6 +9,20 @@
   let catalog           = null;
   let scrollHandler     = null;
 
+  /* ── Offline cache helpers ── */
+  function _chKey(bookSlug, chapterSlug) {
+    return 'offline_ch_' + bookSlug + '_' + chapterSlug;
+  }
+  function getStoredChapter(bookSlug, chapterSlug) {
+    return localStorage.getItem(_chKey(bookSlug, chapterSlug));
+  }
+  function storeChapter(bookSlug, chapterSlug, text) {
+    try { localStorage.setItem(_chKey(bookSlug, chapterSlug), text); } catch (e) {}
+  }
+  function isChapterCached(bookSlug, chapterSlug) {
+    return localStorage.getItem(_chKey(bookSlug, chapterSlug)) !== null;
+  }
+
   function saveScrollFor(key) {
     if (scrollHandler) window.removeEventListener('scroll', scrollHandler);
     var t;
@@ -37,8 +51,17 @@
 
   async function loadCatalog() {
     if (catalog) return catalog;
-    catalog = await fetch('/catalog.json').then(r => r.json());
-    return catalog;
+    try {
+      const r = await fetch('/catalog.json', { cache: 'no-cache' });
+      if (r.ok) {
+        catalog = await r.json();
+        try { localStorage.setItem('offline_catalog', JSON.stringify(catalog)); } catch (e) {}
+        return catalog;
+      }
+    } catch (e) { /* offline */ }
+    const stored = localStorage.getItem('offline_catalog');
+    if (stored) { catalog = JSON.parse(stored); return catalog; }
+    throw new Error('Library unavailable offline.');
   }
 
   /* ── Shelf ── */
@@ -47,7 +70,8 @@
     backBtn.style.display = 'none';
     homeBtn.style.display = 'none';
     headerTitle.textContent = 'Enhanced Classics';
-    const cat = await loadCatalog();
+    let cat;
+    try { cat = await loadCatalog(); } catch (e) { showError(e.message); return; }
     main.innerHTML = '<div id="shelf"><h2>Library</h2>' +
       cat.books.map(b =>
         '<div class="book-card" onclick="location.hash=\'#/' + b.slug + '\'">' +
@@ -63,7 +87,8 @@
   /* ── Chapter list ── */
   async function showChapterList(bookSlug) {
     clearScrollHandler();
-    const cat  = await loadCatalog();
+    let cat;
+    try { cat = await loadCatalog(); } catch (e) { showError(e.message); return; }
     const book = cat.books.find(b => b.slug === bookSlug);
     if (!book) { showError('Book not found.'); return; }
     backBtn.style.display = 'inline-block';
@@ -72,14 +97,52 @@
     headerTitle.textContent = book.title;
     main.innerHTML = '<div id="chapter-list"><h2>' + book.title + '</h2>' +
       '<div class="book-meta">' + book.author + ' &middot; ' + book.year + '</div>' +
-      book.chapters.map(ch =>
-        '<div class="chapter-item" onclick="location.hash=\'#/' + bookSlug + '/' + ch.slug + '\'">' +
-        '<span class="chapter-num">' + ch.number + '</span>' +
-        '<span class="chapter-title">' + ch.title + '</span></div>'
-      ).join('') + '</div>';
+      book.chapters.map(function (ch) {
+        var cached = isChapterCached(bookSlug, ch.slug);
+        return '<div class="chapter-item' + (cached ? ' chapter-item--cached' : '') +
+          '" onclick="location.hash=\'#/' + bookSlug + '/' + ch.slug + '\'">' +
+          '<span class="chapter-num">' + ch.number + '</span>' +
+          '<span class="chapter-title">' + ch.title + '</span></div>';
+      }).join('') +
+      '<button id="download-btn" class="download-btn"></button></div>';
+    var dlBtn = document.getElementById('download-btn');
+    updateDownloadBtn(book, dlBtn);
+    dlBtn.addEventListener('click', function () { downloadBook(book, dlBtn); });
     var saved = localStorage.getItem('scroll_list_' + bookSlug);
     if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
     saveScrollFor('scroll_list_' + bookSlug);
+  }
+
+  function updateDownloadBtn(book, btn) {
+    var all = book.chapters.every(function (ch) { return isChapterCached(book.slug, ch.slug); });
+    if (all) {
+      btn.textContent = '✓ Available offline';
+      btn.classList.add('download-btn--done');
+      btn.disabled = true;
+    } else {
+      btn.textContent = '↓ Download for offline reading';
+      btn.classList.remove('download-btn--done');
+      btn.disabled = false;
+    }
+  }
+
+  async function downloadBook(book, btn) {
+    btn.disabled = true;
+    var total = book.chapters.length, done = 0;
+    for (var i = 0; i < book.chapters.length; i++) {
+      var ch = book.chapters[i];
+      if (!isChapterCached(book.slug, ch.slug)) {
+        try {
+          var r = await fetch('/books/' + book.slug + '/' + ch.slug + '.md');
+          if (r.ok) storeChapter(book.slug, ch.slug, await r.text());
+        } catch (e) { /* skip on error */ }
+      }
+      done++;
+      btn.textContent = 'Downloading… ' + done + '/' + total;
+      var item = document.querySelector('.chapter-item[onclick*="' + ch.slug + '"]');
+      if (item && isChapterCached(book.slug, ch.slug)) item.classList.add('chapter-item--cached');
+    }
+    updateDownloadBtn(book, btn);
   }
 
   /* ── Reader ── */
@@ -90,10 +153,23 @@
     homeBtn.style.display = 'inline-block';
     homeBtn.onclick = function () { location.hash = '#/'; };
     try {
-      const [text, cat] = await Promise.all([
-        fetch('/books/' + bookSlug + '/' + chapterSlug + '.md').then(r => r.text()),
-        loadCatalog()
-      ]);
+      let text = null, fromCache = false;
+      try {
+        const r = await fetch('/books/' + bookSlug + '/' + chapterSlug + '.md', { cache: 'no-cache' });
+        if (r.ok) {
+          text = await r.text();
+          storeChapter(bookSlug, chapterSlug, text);
+        }
+      } catch (e) { /* offline */ }
+      if (!text) {
+        text = getStoredChapter(bookSlug, chapterSlug);
+        fromCache = text !== null;
+      }
+      if (!text) {
+        showError('This chapter isn\u2019t saved for offline reading yet. Open it while connected to save it.');
+        return;
+      }
+      const cat = await loadCatalog();
       const { meta, body } = parseFrontmatter(text);
       headerTitle.innerHTML = meta.title + '<span class="header-chapter">Chapter\u00a0' + meta.chapter + ': ' + meta.chapter_title + '</span>';
       const scrollKey = 'scroll_' + bookSlug + '_' + chapterSlug;
@@ -103,7 +179,7 @@
         const idx = book.chapters.findIndex(ch => ch.slug === chapterSlug);
         if (idx >= 0 && idx < book.chapters.length - 1) nextChapter = book.chapters[idx + 1];
       }
-      renderReader(meta, body, bookSlug, nextChapter);
+      renderReader(meta, body, bookSlug, nextChapter, fromCache);
       const saved = localStorage.getItem(scrollKey);
       if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
       saveScrollFor(scrollKey);
@@ -224,7 +300,7 @@
   }
 
   /* ── Render reader ── */
-  function renderReader(meta, body, bookSlug, nextChapter) {
+  function renderReader(meta, body, bookSlug, nextChapter, fromCache) {
     const enhancements = meta.enhancements || [];
     const summary      = meta.summary      || [];
 
@@ -304,7 +380,8 @@
     main.innerHTML =
       '<div id="reader">' +
       '<div class="reader-header">' +
-      '<div class="book-name">' + meta.author + ' &middot; ' + meta.year + '</div>' +
+      '<div class="book-name">' + meta.author + ' &middot; ' + meta.year +
+      (fromCache ? '<span class="offline-badge">Offline</span>' : '') + '</div>' +
       '<h2>Chapter ' + meta.chapter + ': ' + meta.chapter_title + '</h2></div>' +
       '<div class="prose">' + prose + '</div>' +
       summaryHtml + nextHtml + '</div>';

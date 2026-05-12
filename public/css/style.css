@@ -255,3 +255,37 @@ main { padding: 2rem; }
 }
 
 #def-popup-mw { font-family: var(--sans); font-size: .8rem; color: var(--link); }
+
+/* ── Offline / download ── */
+.download-btn {
+  display: inline-block;
+  margin: 1.5rem 0 .5rem;
+  padding: .55rem 1.1rem;
+  background: none;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  color: var(--accent);
+  font-family: var(--sans);
+  font-size: .9rem;
+  cursor: pointer;
+  transition: background .15s;
+}
+.download-btn:hover:not(:disabled) { background: var(--paper-dark); }
+.download-btn--done { border-color: var(--link); color: var(--link); }
+.download-btn:disabled { opacity: .7; cursor: default; }
+
+.chapter-item--cached .chapter-num::after { content: ' ✓'; color: var(--link); font-size: .75rem; }
+
+.offline-badge {
+  display: inline-block;
+  margin-left: .6rem;
+  padding: .1rem .4rem;
+  background: var(--paper-dark);
+  border: 1px solid var(--panel-border);
+  border-radius: 3px;
+  font-size: .7rem;
+  font-family: var(--sans);
+  color: var(--muted);
+  vertical-align: middle;
+  letter-spacing: .02em;
+}
