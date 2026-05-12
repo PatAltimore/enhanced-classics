@@ -34,6 +34,14 @@ book_generator/      # Python pipeline — run locally to generate content
 
 The site is a single `index.html` that reads `catalog.json` and the per-chapter markdown files. No build step — push to `main` and Azure Static Web Apps deploys automatically.
 
+## Offline support
+
+The app works offline after the first visit. A Service Worker (`public/sw.js`) caches the app shell (HTML, JS, CSS, icons, fonts) on install. Chapter content is cached in two layers: the Service Worker caches `.md` files on first fetch, and `localStorage` mirrors them explicitly when downloaded.
+
+On the chapter list screen, a **Download for offline reading** button fetches and stores all chapters for a book. Downloaded chapters are marked with a dot indicator. The library and chapter list screens use a cached copy of `catalog.json` when offline.
+
+**Updating the app shell:** When `index.html`, `app.js`, or `style.css` changes, bump the `CACHE` constant in `public/sw.js` (e.g. `ec-v1` → `ec-v2`). The Service Worker's activate handler automatically removes the old cache on next load.
+
 ## Testing locally
 
 Serve the `public/` folder with any static file server. Python (already required for the generator) is the simplest option:
