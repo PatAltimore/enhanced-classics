@@ -8,6 +8,32 @@
   const headerTitle = document.getElementById('header-title');
   let catalog           = null;
   let scrollHandler     = null;
+  let _installPrompt    = null;
+
+  /* ── Install-to-homescreen helpers ── */
+  function _isIos() {
+    return /iphone|ipad|ipod/i.test(navigator.userAgent);
+  }
+  function _isSilk() {
+    return navigator.userAgent.indexOf('Silk') !== -1;
+  }
+  function _isStandalone() {
+    return window.matchMedia('(display-mode: standalone)').matches ||
+           window.navigator.standalone === true;
+  }
+
+  window.addEventListener('beforeinstallprompt', function (e) {
+    e.preventDefault();
+    _installPrompt = e;
+    var btn = document.getElementById('install-btn');
+    if (btn) btn.style.display = 'inline-flex';
+  });
+
+  window.addEventListener('appinstalled', function () {
+    _installPrompt = null;
+    var btn = document.getElementById('install-btn');
+    if (btn) btn.remove();
+  });
 
   /* ── Offline cache helpers ── */
   function _chKey(bookSlug, chapterSlug) {
@@ -72,13 +98,25 @@
     headerTitle.textContent = 'Enhanced Classics';
     let cat;
     try { cat = await loadCatalog(); } catch (e) { showError(e.message); return; }
-    main.innerHTML = '<div id="shelf"><h2>Library</h2>' +
+    var installBtn = '';
+    if (!_isStandalone()) {
+      if (_installPrompt) {
+        installBtn = '<button id="install-btn" class="install-btn">Add to Home Screen</button>';
+      } else if (_isIos()) {
+        installBtn = '<button id="install-btn" class="install-btn">Add to Home Screen</button>';
+      } else if (_isSilk()) {
+        installBtn = '<button id="install-btn" class="install-btn">Add to Home Screen</button>';
+      }
+    }
+    main.innerHTML = '<div id="shelf"><h2>Library</h2>' + installBtn +
       cat.books.map(b =>
         '<div class="book-card" onclick="location.hash=\'#/' + b.slug + '\'">' +
         '<h3>' + b.title + '</h3>' +
         '<div class="meta">' + b.author + ' &middot; ' + b.year + '</div>' +
         '<p>' + b.description + '</p></div>'
       ).join('') + '</div>';
+    var installEl = document.getElementById('install-btn');
+    if (installEl) installEl.addEventListener('click', _handleInstallClick);
     var saved = localStorage.getItem('scroll_shelf');
     if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
     saveScrollFor('scroll_shelf');
@@ -437,6 +475,46 @@
     var trigger = document.querySelector('.enhance-trigger[onclick="togglePanel(\'' + id + '\')"]');
     if (trigger) trigger.classList.toggle('enhance-trigger--active', e.target.open);
   }, true);
+
+  /* ── Install modal ── */
+  function _handleInstallClick() {
+    if (_installPrompt) {
+      _installPrompt.prompt();
+      _installPrompt.userChoice.then(function () { _installPrompt = null; });
+      return;
+    }
+    var body = document.getElementById('install-modal-body');
+    if (_isIos()) {
+      body.innerHTML =
+        '<ol class="install-steps">' +
+        '<li>Tap the <strong>Share</strong> button in Safari’s toolbar</li>' +
+        '<li>Scroll down and tap <strong>Add to Home Screen</strong></li>' +
+        '<li>Tap <strong>Add</strong></li>' +
+        '</ol>';
+    } else {
+      body.innerHTML =
+        '<ol class="install-steps">' +
+        '<li>Tap the <strong>Menu</strong> button <strong>⋮</strong> in Silk’s toolbar</li>' +
+        '<li>Tap <strong>Add to Home Screen</strong></li>' +
+        '<li>Tap <strong>Add</strong></li>' +
+        '</ol>';
+    }
+    var modal = document.getElementById('install-modal');
+    modal.classList.add('open');
+    modal.setAttribute('aria-hidden', 'false');
+  }
+
+  document.getElementById('install-modal-close').addEventListener('click', function () {
+    var modal = document.getElementById('install-modal');
+    modal.classList.remove('open');
+    modal.setAttribute('aria-hidden', 'true');
+  });
+  document.getElementById('install-modal').addEventListener('click', function (e) {
+    if (e.target === this) {
+      this.classList.remove('open');
+      this.setAttribute('aria-hidden', 'true');
+    }
+  });
 
   function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
 

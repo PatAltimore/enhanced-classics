@@ -8,8 +8,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/css/style.css">
+  <link rel="manifest" href="/manifest.json">
   <link rel="apple-touch-icon" href="/icon.png">
   <link rel="icon" type="image/svg+xml" href="/icon.svg">
+  <meta name="theme-color" content="#5c4a2a">
 </head>
 <body>
   <div id="app">
@@ -50,6 +52,15 @@
           <a id="def-popup-mw" target="_blank" rel="noopener">Search Merriam-Webster &#8594;</a>
         </div>
       </div>
+    </div>
+  </div>
+  <div id="install-modal" aria-hidden="true">
+    <div id="install-modal-card" role="dialog" aria-labelledby="install-modal-title">
+      <div id="install-modal-head">
+        <span id="install-modal-title">+ Add to device home screen</span>
+        <button id="install-modal-close" aria-label="Close">&#215;</button>
+      </div>
+      <div id="install-modal-body"></div>
     </div>
   </div>
   <script src="/js/app.js"></script>

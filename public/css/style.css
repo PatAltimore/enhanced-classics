@@ -256,6 +256,58 @@ main { padding: 2rem; }
 
 #def-popup-mw { font-family: var(--sans); font-size: .8rem; color: var(--link); }
 
+/* ── Install to home screen ── */
+.install-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  margin-bottom: 1.5rem;
+  padding: .45rem 1rem;
+  background: none;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  color: var(--accent);
+  font-family: var(--sans);
+  font-size: .875rem;
+  cursor: pointer;
+  transition: background .15s;
+}
+.install-btn:hover { background: var(--paper-dark); }
+
+#install-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.45);
+  z-index: 700;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+#install-modal.open { display: flex; }
+
+#install-modal-card {
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 10px;
+  box-shadow: 0 8px 32px rgba(0,0,0,.2);
+  width: 320px;
+  max-width: calc(100vw - 32px);
+  animation: popup-in .15s ease;
+}
+#install-modal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: .75rem 1rem .6rem;
+  border-bottom: 1px solid var(--panel-border);
+}
+#install-modal-title { font-family: var(--serif); font-size: 1.05rem; font-weight: 700; color: var(--accent); }
+#install-modal-close { background: none; border: none; cursor: pointer; color: var(--muted); font-size: 1.2rem; padding: .1rem .4rem; border-radius: 4px; }
+#install-modal-close:hover { background: var(--paper-dark); color: var(--ink); }
+#install-modal-body { padding: 1rem 1.25rem 1.25rem; }
+.install-steps { padding-left: 1.25rem; }
+.install-steps li { font-family: var(--sans); font-size: .95rem; line-height: 1.6; margin-bottom: .5rem; color: var(--ink); }
+
 /* ── Offline / download ── */
 .download-btn {
   display: inline-block;
