@@ -1,6 +1,9 @@
 # Enhanced Classics
 
+
 A static literature website that publishes classic public-domain books with AI-generated annotation cards — historical context, scientific explanations, and cultural details surfaced inline as readers encounter them.
+
+The demo site is available at **[Enhanced Classics](https://red-grass-08f946a1e.7.azurestaticapps.net/)**.
 
 ## How it works
 
