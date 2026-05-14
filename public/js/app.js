@@ -9,6 +9,7 @@
   let catalog           = null;
   let scrollHandler     = null;
   let _installPrompt    = null;
+  let _blobUrls         = [];
 
   /* ── Install-to-homescreen helpers ── */
   function _isIos() {
@@ -89,6 +90,8 @@
     if (scrollHandler) { window.removeEventListener('scroll', scrollHandler); scrollHandler = null; }
     window.scrollTo(0, 0);
     document.querySelector('header').classList.remove('header-hidden');
+    _blobUrls.forEach(function (u) { URL.revokeObjectURL(u); });
+    _blobUrls = [];
   }
 
   /* ── Routing ── */
@@ -383,7 +386,7 @@
         '<div class="panel-body">' +
         '<div class="panel-text"><p>' + e.content + '</p>' +
         '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
-        (e.image_url ? '<figure class="panel-image"><img src="' + e.image_url + '" alt="' + (e.image_caption || '') + '" loading="eager">' +
+        (e.image_url ? '<figure class="panel-image"><img data-src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
         '<figcaption>' + (e.image_caption || '') +
         (commonsUrl(e.image_url) ? ' <a href="' + commonsUrl(e.image_url) + '" target="_blank" rel="noopener" class="commons-link">via Wikimedia Commons</a>' : '') +
         '</figcaption></figure>' : '') +
@@ -457,24 +460,19 @@
       '<div class="prose">' + prose + '</div>' +
       summaryHtml + nextHtml + '</div>';
 
-    // Force-fetch all panel images by placing real <img> elements in a
-    // hidden off-screen container. This is more reliable than <link rel="preload">
-    // on iOS Safari for cross-origin images inside closed <details> panels.
-    var old = document.getElementById('img-prefetch');
-    if (old) old.remove();
-    var prefetch = document.createElement('div');
-    prefetch.id = 'img-prefetch';
-    prefetch.setAttribute('aria-hidden', 'true');
-    prefetch.style.cssText = 'position:absolute;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none;';
-    enhancements.forEach(function (e) {
-      if (!e.image_url) return;
-      var img = document.createElement('img');
-      img.src = e.image_url;
-      img.loading = 'eager';
-      img.decoding = 'async';
-      prefetch.appendChild(img);
+    // Load each image via fetch → blob URL so WebKit treats it as same-origin.
+    // Cross-origin images inside closed <details> panels are not reliably painted
+    // by iOS Safari; blob URLs bypass that restriction entirely.
+    document.querySelectorAll('.panel-image img[data-src]').forEach(function (img) {
+      var url = img.dataset.src;
+      fetch(url).then(function (r) { return r.blob(); }).then(function (blob) {
+        var blobUrl = URL.createObjectURL(blob);
+        _blobUrls.push(blobUrl);
+        img.src = blobUrl;
+      }).catch(function () {
+        img.src = url; // fallback to direct URL if fetch fails
+      });
     });
-    document.body.appendChild(prefetch);
   }
 
   window.togglePanel = function (id) {
@@ -482,16 +480,15 @@
     if (!p) return;
     p.open = !p.open;
     if (p.open) {
-      // iOS/WebKit defers painting images inside <details> until a compositing
-      // flush occurs. Reading offsetHeight forces that flush.
-      // If the image is still downloading when the panel opens, the flush must
-      // also run after load completes — otherwise it paints nothing and never
-      // retries.
       var img = p.querySelector('.panel-image img');
       if (img) {
-        img.offsetHeight;
-        if (!img.complete) {
-          img.addEventListener('load', function() { img.offsetHeight; }, { once: true });
+        // Blob URLs are same-origin so WebKit paints them without a compositing
+        // flush, but we keep the offsetHeight read as a safety measure for any
+        // image that hasn't resolved its src yet.
+        if (!img.src) {
+          img.addEventListener('load', function () { img.offsetHeight; }, { once: true });
+        } else {
+          img.offsetHeight;
         }
       }
     }
