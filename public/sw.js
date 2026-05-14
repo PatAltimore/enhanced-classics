@@ -1,7 +1,8 @@
 'use strict';
 
 /* Bump this string whenever the app shell changes to force cache refresh. */
-const CACHE = 'ec-v1';
+const CACHE = 'ec-v2';
+const IMG_CACHE = 'ec-images'; /* persists across CACHE version bumps */
 
 /* Files cached on install — the minimum needed to render the app offline. */
 const SHELL = [
@@ -28,7 +29,7 @@ self.addEventListener('activate', function (e) {
     caches.keys()
       .then(function (keys) {
         return Promise.all(
-          keys.filter(function (k) { return k !== CACHE; })
+          keys.filter(function (k) { return k !== CACHE && k !== IMG_CACHE; })
               .map(function (k) { return caches.delete(k); })
         );
       })
@@ -46,6 +47,19 @@ self.addEventListener('fetch', function (e) {
       caches.match(e.request).then(function (hit) {
         return hit || fetch(e.request).then(function (res) {
           caches.open(CACHE).then(function (c) { c.put(e.request, res.clone()); });
+          return res;
+        });
+      })
+    );
+    return;
+  }
+
+  /* Wikimedia images: cache-first using the persistent image cache */
+  if (url.hostname === 'upload.wikimedia.org') {
+    e.respondWith(
+      caches.match(e.request).then(function (hit) {
+        return hit || fetch(e.request).then(function (res) {
+          if (res.ok) caches.open(IMG_CACHE).then(function (c) { c.put(e.request, res.clone()); });
           return res;
         });
       })

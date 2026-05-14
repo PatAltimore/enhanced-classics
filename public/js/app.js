@@ -35,6 +35,32 @@
     if (btn) btn.remove();
   });
 
+  /* ── Image caching ── */
+  function _extractImageUrls(text) {
+    var urls = [], m;
+    var re = /image_url:\s*["']([^"'\s]+)["']/g;
+    while ((m = re.exec(text)) !== null) {
+      if (m[1] && m[1].startsWith('http')) urls.push(m[1]);
+    }
+    return urls;
+  }
+
+  function _cacheImages(text) {
+    if (!('caches' in window)) return;
+    var urls = _extractImageUrls(text);
+    if (!urls.length) return;
+    caches.open('ec-images').then(function (cache) {
+      urls.forEach(function (url) {
+        caches.match(url).then(function (hit) {
+          if (hit) return;
+          fetch(url, { mode: 'cors' }).then(function (res) {
+            if (res.ok) cache.put(url, res);
+          }).catch(function () {});
+        });
+      });
+    }).catch(function () {});
+  }
+
   /* ── Offline cache helpers ── */
   function _chKey(bookSlug, chapterSlug) {
     return 'offline_ch_' + bookSlug + '_' + chapterSlug;
@@ -174,7 +200,11 @@
       if (!isChapterCached(book.slug, ch.slug)) {
         try {
           var r = await fetch('/books/' + book.slug + '/' + ch.slug + '.md');
-          if (r.ok) storeChapter(book.slug, ch.slug, await r.text());
+          if (r.ok) {
+            var chText = await r.text();
+            storeChapter(book.slug, ch.slug, chText);
+            _cacheImages(chText);
+          }
         } catch (e) { /* skip on error */ }
       }
       done++;
@@ -199,6 +229,7 @@
         if (r.ok) {
           text = await r.text();
           storeChapter(bookSlug, chapterSlug, text);
+          _cacheImages(text);
         }
       } catch (e) { /* offline */ }
       if (!text) {
