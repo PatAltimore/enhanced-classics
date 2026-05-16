@@ -70,5 +70,7 @@ def sync(config: dict, checkpointer) -> None:
         catalog_book["chapters"].sort(key=lambda c: c["number"])
 
     if changed:
-        catalog["books"] = list(existing_books.values())
+        catalog["books"] = sorted(
+            existing_books.values(), key=lambda b: (b.get("year") or 9999)
+        )
         _save_catalog(catalog)

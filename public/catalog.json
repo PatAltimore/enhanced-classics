@@ -1,6 +1,45 @@
 {
   "books": [
     {
+      "slug": "hamlet",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "year": 1603,
+      "description": "Prince Hamlet of Denmark is visited by his father's ghost, who reveals he was murdered by Hamlet's uncle Claudius, now king. Torn between grief, doubt, and the demand for revenge, Hamlet's hesitation spirals into madness — real and feigned — destroying everyone around him.\n",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Ghost's Warning",
+          "slug": "chapter-01-the-ghosts-warning"
+        },
+        {
+          "number": 2,
+          "title": "The Players Arrive",
+          "slug": "chapter-02-the-players-arrive"
+        },
+        {
+          "number": 3,
+          "title": "The Mousetrap",
+          "slug": "chapter-03-the-mousetrap"
+        },
+        {
+          "number": 4,
+          "title": "The Killing of Polonius",
+          "slug": "chapter-04-the-killing-of-polonius"
+        },
+        {
+          "number": 5,
+          "title": "Ophelia's Madness",
+          "slug": "chapter-05-ophelias-madness"
+        },
+        {
+          "number": 6,
+          "title": "The Final Reckoning",
+          "slug": "chapter-06-the-final-reckoning"
+        }
+      ]
+    },
+    {
       "slug": "walden",
       "title": "Walden",
       "author": "Henry David Thoreau",
@@ -96,208 +135,6 @@
           "number": 18,
           "title": "Conclusion",
           "slug": "chapter-18-conclusion"
-        }
-      ]
-    },
-    {
-      "slug": "twenty-thousand-leagues",
-      "title": "Twenty Thousand Leagues Under the Sea",
-      "author": "Jules Verne",
-      "year": 1870,
-      "description": "Something vast and luminous is moving through the world's oceans — and no one can explain it. A Victorian thriller from the father of science fiction.",
-      "chapters": [
-        {
-          "number": 1,
-          "title": "A Shifting Reef",
-          "slug": "chapter-01-a-shifting-reef"
-        },
-        {
-          "number": 2,
-          "title": "The Pros and Cons",
-          "slug": "chapter-02-pros-and-cons"
-        },
-        {
-          "number": 3,
-          "title": "As My Lord Pleases",
-          "slug": "chapter-03-as-my-lord-pleases"
-        },
-        {
-          "number": 4,
-          "title": "Ned Land",
-          "slug": "chapter-04-ned-land"
-        },
-        {
-          "number": 5,
-          "title": "At a Venture",
-          "slug": "chapter-05-at-a-venture"
-        },
-        {
-          "number": 6,
-          "title": "At Full Steam",
-          "slug": "chapter-06-at-full-steam"
-        },
-        {
-          "number": 7,
-          "title": "An Unknown Species of Whale",
-          "slug": "chapter-07-unknown-species"
-        },
-        {
-          "number": 8,
-          "title": "Mobilis in Mobili",
-          "slug": "chapter-08-mobilis-in-mobili"
-        },
-        {
-          "number": 9,
-          "title": "Ned Land's Tempers",
-          "slug": "chapter-09-ned-lands-tempers"
-        },
-        {
-          "number": 10,
-          "title": "The Man of the Seas",
-          "slug": "chapter-10-man-of-the-seas"
-        }
-      ]
-    },
-    {
-      "slug": "the-great-gatsby",
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "year": 1925,
-      "description": "One summer in Long Island's gilded world — a Jazz Age fable of money, longing, and the lies we tell ourselves.",
-      "chapters": [
-        {
-          "number": 1,
-          "title": "Nick Carraway",
-          "slug": "chapter-01-nick-carraway"
-        },
-        {
-          "number": 2,
-          "title": "The Valley of Ashes",
-          "slug": "chapter-02-the-valley-of-ashes"
-        },
-        {
-          "number": 3,
-          "title": "Gatsby's Party",
-          "slug": "chapter-03-gatsbys-party"
-        },
-        {
-          "number": 4,
-          "title": "Gatsby's Past",
-          "slug": "chapter-04-gatsbys-past"
-        },
-        {
-          "number": 5,
-          "title": "The Reunion",
-          "slug": "chapter-05-the-reunion"
-        },
-        {
-          "number": 6,
-          "title": "The Truth About Gatsby",
-          "slug": "chapter-06-truth-about-gatsby"
-        },
-        {
-          "number": 7,
-          "title": "The Confrontation",
-          "slug": "chapter-07-the-confrontation"
-        },
-        {
-          "number": 8,
-          "title": "Death",
-          "slug": "chapter-08-death"
-        },
-        {
-          "number": 9,
-          "title": "The Aftermath",
-          "slug": "chapter-09-the-aftermath"
-        }
-      ]
-    },
-    {
-      "slug": "the-time-machine",
-      "title": "The Time Machine",
-      "author": "H.G. Wells",
-      "year": 1895,
-      "description": "A Victorian scientist builds a machine that carries him far into the future, where he discovers a world divided between the gentle Eloi and the subterranean Morlocks — a chilling vision of where class division might lead.\n",
-      "chapters": [
-        {
-          "number": 1,
-          "title": "Introduction",
-          "slug": "chapter-01-introduction"
-        },
-        {
-          "number": 2,
-          "title": "The Machine",
-          "slug": "chapter-02-the-machine"
-        },
-        {
-          "number": 3,
-          "title": "The Time Traveller Returns",
-          "slug": "chapter-03-the-time-traveller-returns"
-        },
-        {
-          "number": 4,
-          "title": "Time Travelling",
-          "slug": "chapter-04-time-travelling"
-        },
-        {
-          "number": 5,
-          "title": "In the Golden Age",
-          "slug": "chapter-05-in-the-golden-age"
-        },
-        {
-          "number": 6,
-          "title": "The Sunset of Mankind",
-          "slug": "chapter-06-the-sunset-of-mankind"
-        },
-        {
-          "number": 7,
-          "title": "A Sudden Shock",
-          "slug": "chapter-07-a-sudden-shock"
-        },
-        {
-          "number": 8,
-          "title": "Explanation",
-          "slug": "chapter-08-explanation"
-        },
-        {
-          "number": 9,
-          "title": "The Morlocks",
-          "slug": "chapter-09-the-morlocks"
-        },
-        {
-          "number": 10,
-          "title": "When Night Came",
-          "slug": "chapter-10-when-night-came"
-        },
-        {
-          "number": 11,
-          "title": "The Palace of Green Porcelain",
-          "slug": "chapter-11-the-palace-of-green-porcelain"
-        },
-        {
-          "number": 12,
-          "title": "In the Darkness",
-          "slug": "chapter-12-in-the-darkness"
-        },
-        {
-          "number": 13,
-          "title": "The Trap of the White Sphinx",
-          "slug": "chapter-13-the-trap-of-the-white-sphinx"
-        },
-        {
-          "number": 14,
-          "title": "The Further Vision",
-          "slug": "chapter-14-the-further-vision"
-        },
-        {
-          "number": 15,
-          "title": "The Time Traveller's Return",
-          "slug": "chapter-15-the-time-travellers-return"
-        },
-        {
-          "number": 16,
-          "title": "After the Story",
-          "slug": "chapter-16-after-the-story"
         }
       ]
     },
@@ -421,41 +258,263 @@
       ]
     },
     {
-      "slug": "hamlet",
-      "title": "Hamlet",
-      "author": "William Shakespeare",
-      "year": 1603,
-      "description": "Prince Hamlet of Denmark is visited by his father's ghost, who reveals he was murdered by Hamlet's uncle Claudius, now king. Torn between grief, doubt, and the demand for revenge, Hamlet's hesitation spirals into madness — real and feigned — destroying everyone around him.\n",
+      "slug": "twenty-thousand-leagues",
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "author": "Jules Verne",
+      "year": 1870,
+      "description": "Something vast and luminous is moving through the world's oceans — and no one can explain it. A Victorian thriller from the father of science fiction.",
       "chapters": [
         {
           "number": 1,
-          "title": "The Ghost's Warning",
-          "slug": "chapter-01-the-ghosts-warning"
+          "title": "A Shifting Reef",
+          "slug": "chapter-01-a-shifting-reef"
         },
         {
           "number": 2,
-          "title": "The Players Arrive",
-          "slug": "chapter-02-the-players-arrive"
+          "title": "The Pros and Cons",
+          "slug": "chapter-02-pros-and-cons"
         },
         {
           "number": 3,
-          "title": "The Mousetrap",
-          "slug": "chapter-03-the-mousetrap"
+          "title": "As My Lord Pleases",
+          "slug": "chapter-03-as-my-lord-pleases"
         },
         {
           "number": 4,
-          "title": "The Killing of Polonius",
-          "slug": "chapter-04-the-killing-of-polonius"
+          "title": "Ned Land",
+          "slug": "chapter-04-ned-land"
         },
         {
           "number": 5,
-          "title": "Ophelia's Madness",
-          "slug": "chapter-05-ophelias-madness"
+          "title": "At a Venture",
+          "slug": "chapter-05-at-a-venture"
         },
         {
           "number": 6,
-          "title": "The Final Reckoning",
-          "slug": "chapter-06-the-final-reckoning"
+          "title": "At Full Steam",
+          "slug": "chapter-06-at-full-steam"
+        },
+        {
+          "number": 7,
+          "title": "An Unknown Species of Whale",
+          "slug": "chapter-07-unknown-species"
+        },
+        {
+          "number": 8,
+          "title": "Mobilis in Mobili",
+          "slug": "chapter-08-mobilis-in-mobili"
+        },
+        {
+          "number": 9,
+          "title": "Ned Land's Tempers",
+          "slug": "chapter-09-ned-lands-tempers"
+        },
+        {
+          "number": 10,
+          "title": "The Man of the Seas",
+          "slug": "chapter-10-man-of-the-seas"
+        }
+      ]
+    },
+    {
+      "slug": "the-time-machine",
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "year": 1895,
+      "description": "A Victorian scientist builds a machine that carries him far into the future, where he discovers a world divided between the gentle Eloi and the subterranean Morlocks — a chilling vision of where class division might lead.\n",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "slug": "chapter-01-introduction"
+        },
+        {
+          "number": 2,
+          "title": "The Machine",
+          "slug": "chapter-02-the-machine"
+        },
+        {
+          "number": 3,
+          "title": "The Time Traveller Returns",
+          "slug": "chapter-03-the-time-traveller-returns"
+        },
+        {
+          "number": 4,
+          "title": "Time Travelling",
+          "slug": "chapter-04-time-travelling"
+        },
+        {
+          "number": 5,
+          "title": "In the Golden Age",
+          "slug": "chapter-05-in-the-golden-age"
+        },
+        {
+          "number": 6,
+          "title": "The Sunset of Mankind",
+          "slug": "chapter-06-the-sunset-of-mankind"
+        },
+        {
+          "number": 7,
+          "title": "A Sudden Shock",
+          "slug": "chapter-07-a-sudden-shock"
+        },
+        {
+          "number": 8,
+          "title": "Explanation",
+          "slug": "chapter-08-explanation"
+        },
+        {
+          "number": 9,
+          "title": "The Morlocks",
+          "slug": "chapter-09-the-morlocks"
+        },
+        {
+          "number": 10,
+          "title": "When Night Came",
+          "slug": "chapter-10-when-night-came"
+        },
+        {
+          "number": 11,
+          "title": "The Palace of Green Porcelain",
+          "slug": "chapter-11-the-palace-of-green-porcelain"
+        },
+        {
+          "number": 12,
+          "title": "In the Darkness",
+          "slug": "chapter-12-in-the-darkness"
+        },
+        {
+          "number": 13,
+          "title": "The Trap of the White Sphinx",
+          "slug": "chapter-13-the-trap-of-the-white-sphinx"
+        },
+        {
+          "number": 14,
+          "title": "The Further Vision",
+          "slug": "chapter-14-the-further-vision"
+        },
+        {
+          "number": 15,
+          "title": "The Time Traveller's Return",
+          "slug": "chapter-15-the-time-travellers-return"
+        },
+        {
+          "number": 16,
+          "title": "After the Story",
+          "slug": "chapter-16-after-the-story"
+        }
+      ]
+    },
+    {
+      "slug": "botchan-master-darling",
+      "title": "Botchan (Master Darling)",
+      "author": "Soseki Natsume",
+      "year": 1906,
+      "description": "A hot-headed young Tokyo man takes his first teaching job at a middle school in rural Matsuyama, where his quick temper and straightforward nature clash with both mischievous students and scheming colleagues.\n",
+      "chapters": [
+        {
+          "number": 2,
+          "title": "Chapter 2",
+          "slug": "chapter-02-chapter-2"
+        },
+        {
+          "number": 3,
+          "title": "Chapter 3",
+          "slug": "chapter-03-chapter-3"
+        },
+        {
+          "number": 4,
+          "title": "Chapter 4",
+          "slug": "chapter-04-chapter-4"
+        },
+        {
+          "number": 5,
+          "title": "Chapter 5",
+          "slug": "chapter-05-chapter-5"
+        },
+        {
+          "number": 6,
+          "title": "Chapter 6",
+          "slug": "chapter-06-chapter-6"
+        },
+        {
+          "number": 7,
+          "title": "Chapter 7",
+          "slug": "chapter-07-chapter-7"
+        },
+        {
+          "number": 8,
+          "title": "Chapter 8",
+          "slug": "chapter-08-chapter-8"
+        },
+        {
+          "number": 9,
+          "title": "Chapter 9",
+          "slug": "chapter-09-chapter-9"
+        },
+        {
+          "number": 10,
+          "title": "Chapter 10",
+          "slug": "chapter-10-chapter-10"
+        },
+        {
+          "number": 11,
+          "title": "Chapter 11",
+          "slug": "chapter-11-chapter-11"
+        }
+      ]
+    },
+    {
+      "slug": "the-great-gatsby",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "description": "One summer in Long Island's gilded world — a Jazz Age fable of money, longing, and the lies we tell ourselves.",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Nick Carraway",
+          "slug": "chapter-01-nick-carraway"
+        },
+        {
+          "number": 2,
+          "title": "The Valley of Ashes",
+          "slug": "chapter-02-the-valley-of-ashes"
+        },
+        {
+          "number": 3,
+          "title": "Gatsby's Party",
+          "slug": "chapter-03-gatsbys-party"
+        },
+        {
+          "number": 4,
+          "title": "Gatsby's Past",
+          "slug": "chapter-04-gatsbys-past"
+        },
+        {
+          "number": 5,
+          "title": "The Reunion",
+          "slug": "chapter-05-the-reunion"
+        },
+        {
+          "number": 6,
+          "title": "The Truth About Gatsby",
+          "slug": "chapter-06-truth-about-gatsby"
+        },
+        {
+          "number": 7,
+          "title": "The Confrontation",
+          "slug": "chapter-07-the-confrontation"
+        },
+        {
+          "number": 8,
+          "title": "Death",
+          "slug": "chapter-08-death"
+        },
+        {
+          "number": 9,
+          "title": "The Aftermath",
+          "slug": "chapter-09-the-aftermath"
         }
       ]
     }
