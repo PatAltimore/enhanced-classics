@@ -81,7 +81,8 @@ def _foundry_base_url(endpoint: str) -> tuple[str, str | None]:
 class ContentFilterError(Exception):
     """Raised when a prompt is rejected by a content/safety filter.
 
-    No point falling through to other models — they will reject the same prompt.
+    The chain will fall through to the next model — different models have
+    different filter sensitivity levels.
     """
 
 
@@ -119,7 +120,8 @@ class ModelClient:
             try:
                 result = self._try_model(name, kind, endpoint, key, messages, **kwargs)
             except ContentFilterError:
-                raise  # prompt rejected by safety filter — no point trying other models
+                console.print(f"  [yellow]Falling through from {name} (content filter) to next model[/yellow]")
+                continue  # try next model — different models have different filter sensitivity
             if result is not None:
                 return result
             console.print(f"  [yellow]Falling through from {name} to next model[/yellow]")
@@ -164,7 +166,7 @@ class ModelClient:
                     time.sleep(delay)
                 else:
                     if _is_content_filter(e):
-                        console.print(f"  [red]{name} content filter — prompt blocked, aborting chain[/red]")
+                        console.print(f"  [red]{name} content filter — prompt blocked, trying next model[/red]")
                         raise ContentFilterError(str(e.message))
                     console.print(f"  [red]{name} HTTP {e.status_code}: {e.message}[/red]")
                     if e.status_code == 404:

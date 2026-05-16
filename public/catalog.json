@@ -413,6 +413,11 @@
       "description": "A hot-headed young Tokyo man takes his first teaching job at a middle school in rural Matsuyama, where his quick temper and straightforward nature clash with both mischievous students and scheming colleagues.\n",
       "chapters": [
         {
+          "number": 1,
+          "title": "Chapter 1",
+          "slug": "chapter-01-chapter-1"
+        },
+        {
           "number": 2,
           "title": "Chapter 2",
           "slug": "chapter-02-chapter-2"
