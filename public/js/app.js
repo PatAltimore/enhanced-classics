@@ -577,7 +577,6 @@
   });
 
   /* ── Word lookup ── */
-  var _ctxWord = '', _ctxX = 0, _ctxY = 0;
   var _lpTimer = null, _lpMoved = false, _lpX = 0, _lpY = 0, _cmAt = 0;
 
   function _wordAtPoint(x, y) {
@@ -608,19 +607,6 @@
   }
 
   function _inProse(el) { var p = document.querySelector('.prose'); return !!(p && p.contains(el)); }
-
-  function _showMenu(x, y) {
-    var m = document.getElementById('word-menu');
-    m.style.display = 'block';
-    var mw = m.offsetWidth, mh = m.offsetHeight;
-    var left = Math.max(8, Math.min(x, window.innerWidth - mw - 8));
-    var top  = y + 8;
-    if (top + mh > window.innerHeight - 8) top = y - mh - 8;
-    m.style.left = left + 'px';
-    m.style.top  = Math.max(8, top) + 'px';
-  }
-
-  function _hideMenu() { document.getElementById('word-menu').style.display = 'none'; }
 
   function _showDef(word, ax, ay) {
     var popup = document.getElementById('def-popup');
@@ -679,8 +665,16 @@
     clearTimeout(_lpTimer);
     var word = _getWord(e.clientX, e.clientY);
     if (!word) return;
-    _ctxWord = word; _ctxX = e.clientX; _ctxY = e.clientY;
-    _showMenu(e.clientX, e.clientY);
+    _showDef(word, e.clientX, e.clientY);
+  });
+
+  document.addEventListener('mouseup', function (e) {
+    if (!_inProse(e.target)) return;
+    var sel = window.getSelection ? window.getSelection() : null;
+    if (!sel || sel.isCollapsed || !sel.toString().trim()) return;
+    var word = _getWord(e.clientX, e.clientY);
+    if (!word) return;
+    _showDef(word, e.clientX, e.clientY);
   });
 
   document.addEventListener('touchstart', function (e) {
@@ -691,9 +685,8 @@
       if (_lpMoved || Date.now() - _cmAt < 800) return;
       var word = _getWord(_lpX, _lpY);
       if (!word) return;
-      _ctxWord = word; _ctxX = _lpX; _ctxY = _lpY;
       if (navigator.vibrate) navigator.vibrate(40);
-      _showMenu(_lpX, _lpY);
+      _showDef(word, _lpX, _lpY);
     }, 550);
   }, { passive: true });
 
@@ -709,19 +702,15 @@
   });
 
   document.addEventListener('click', function (e) {
-    if (!e.target.closest('#word-menu')) _hideMenu();
-    if (document.getElementById('def-popup').classList.contains('open') &&
-        !e.target.closest('#def-popup-card') && !e.target.closest('#word-menu')) _hideDef();
+    if (e.target.closest('#def-popup-card')) return;
+    // A word selection (e.g. double-click) leaves an active range and just
+    // opened the popup — don't let the trailing click dismiss it.
+    var sel = window.getSelection ? window.getSelection() : null;
+    if (sel && !sel.isCollapsed && _inProse(e.target)) return;
+    if (document.getElementById('def-popup').classList.contains('open')) _hideDef();
   });
 
-  document.addEventListener('scroll', _hideMenu, { passive: true });
-  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { _hideMenu(); _hideDef(); } });
-
-  document.getElementById('word-menu-define').addEventListener('click', function () {
-    var word = _ctxWord, ax = _ctxX, ay = _ctxY;
-    _hideMenu();
-    if (word) _showDef(word, ax, ay);
-  });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') _hideDef(); });
 
   document.getElementById('def-popup-close').addEventListener('click', _hideDef);
 
