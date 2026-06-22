@@ -11,6 +11,16 @@
   let _installPrompt    = null;
   let _blobUrls         = [];
 
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function safeHref(url) {
+    return (url && /^https?:\/\//.test(url)) ? url : '#';
+  }
+  function validSlug(s) {
+    return typeof s === 'string' && /^[\w-]+$/.test(s);
+  }
+
   /* ── Install-to-homescreen helpers ── */
   function _isIos() {
     return /iphone|ipad|ipod/i.test(navigator.userAgent);
@@ -52,6 +62,7 @@
     if (!urls.length) return;
     caches.open('ec-images').then(function (cache) {
       urls.forEach(function (url) {
+        try { if (new URL(url).hostname !== 'upload.wikimedia.org') return; } catch (e) { return; }
         caches.match(url).then(function (hit) {
           if (hit) return;
           fetch(url, { mode: 'cors' }).then(function (res) {
@@ -139,10 +150,10 @@
     }
     main.innerHTML = '<div id="shelf"><h2>Library</h2>' + installBtn +
       cat.books.map(b =>
-        '<div class="book-card" onclick="location.hash=\'#/' + b.slug + '\'">' +
-        '<h3>' + b.title + '</h3>' +
-        '<div class="meta">' + b.author + ' &middot; ' + b.year + '</div>' +
-        '<p>' + b.description + '</p></div>'
+        '<div class="book-card" onclick="location.hash=\'#/' + esc(b.slug) + '\'">' +
+        '<h3>' + esc(b.title) + '</h3>' +
+        '<div class="meta">' + esc(b.author) + ' &middot; ' + esc(b.year) + '</div>' +
+        '<p>' + esc(b.description) + '</p></div>'
       ).join('') + '</div>';
     var installEl = document.getElementById('install-btn');
     if (installEl) installEl.addEventListener('click', _handleInstallClick);
@@ -162,14 +173,14 @@
     backBtn.onclick = function () { location.hash = '#/'; };
     homeBtn.style.display = 'none';
     headerTitle.textContent = book.title;
-    main.innerHTML = '<div id="chapter-list"><h2>' + book.title + '</h2>' +
-      '<div class="book-meta">' + book.author + ' &middot; ' + book.year + '</div>' +
+    main.innerHTML = '<div id="chapter-list"><h2>' + esc(book.title) + '</h2>' +
+      '<div class="book-meta">' + esc(book.author) + ' &middot; ' + esc(book.year) + '</div>' +
       book.chapters.map(function (ch) {
         var cached = isChapterCached(bookSlug, ch.slug);
         return '<div class="chapter-item' + (cached ? ' chapter-item--cached' : '') +
-          '" onclick="location.hash=\'#/' + bookSlug + '/' + ch.slug + '\'">' +
-          '<span class="chapter-num">' + ch.number + '</span>' +
-          '<span class="chapter-title">' + ch.title + '</span></div>';
+          '" onclick="location.hash=\'#/' + esc(bookSlug) + '/' + esc(ch.slug) + '\'">' +
+          '<span class="chapter-num">' + esc(ch.number) + '</span>' +
+          '<span class="chapter-title">' + esc(ch.title) + '</span></div>';
       }).join('') +
       '<button id="download-btn" class="download-btn"></button>' +
       '<p class="offline-legend"><span class="offline-legend-dot">↓</span> = Chapter downloaded for offline reading</p>' +
@@ -220,7 +231,11 @@
 
   /* ── Reader ── */
   async function showReader(bookSlug, chapterSlug) {
-    main.innerHTML = '<div id="loading">Loading chapter\u2026</div>';
+    if (!validSlug(bookSlug) || !validSlug(chapterSlug)) {
+      showError('Invalid chapter address.');
+      return;
+    }
+    main.innerHTML = '<div id="loading">Loading chapter…</div>';
     backBtn.style.display = 'inline-block';
     backBtn.onclick = function () { location.hash = '#/' + bookSlug; };
     homeBtn.style.display = 'inline-block';
@@ -240,12 +255,12 @@
         fromCache = text !== null;
       }
       if (!text) {
-        showError('This chapter isn\u2019t saved for offline reading yet. Open it while connected to save it.');
+        showError('This chapter isn’t saved for offline reading yet. Open it while connected to save it.');
         return;
       }
       const cat = await loadCatalog();
       const { meta, body } = parseFrontmatter(text);
-      headerTitle.innerHTML = meta.title + '<span class="header-chapter">Chapter\u00a0' + meta.chapter + ': ' + meta.chapter_title + '</span>';
+      headerTitle.innerHTML = esc(meta.title) + '<span class="header-chapter">Chapter ' + esc(meta.chapter) + ': ' + esc(meta.chapter_title) + '</span>';
       const scrollKey = 'scroll_' + bookSlug + '_' + chapterSlug;
       const book = cat.books.find(b => b.slug === bookSlug);
       let nextChapter = null;
@@ -258,7 +273,7 @@
       if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
       saveScrollFor(scrollKey);
     } catch (e) {
-      showError('Could not load chapter: ' + e.message);
+      showError('Could not load chapter.');
     }
   }
 
@@ -335,10 +350,10 @@
 
   /* ── Markdown → HTML ── */
   function normTypo(s) {
-    return s.replace(/[‘’]/g, "'")
-            .replace(/[“”]/g, '"')
+    return s.replace(/['']/g, "'")
+            .replace(/[""]/g, '"')
             .replace(/[–—]/g, '-')
-            .replace(/ /g, ' ')
+            .replace(/ /g, ' ')
             .replace(/…/g, '...')
             .replace(/\n/g, ' ');
   }
@@ -381,13 +396,13 @@
     const panels = {};
     enhancements.forEach(e => {
       panels[e.id] =
-        '<details class="enhancement-panel" id="panel-' + e.id + '">' +
-        '<summary>' + e.title + '</summary>' +
+        '<details class="enhancement-panel" id="panel-' + esc(e.id) + '">' +
+        '<summary>' + esc(e.title) + '</summary>' +
         '<div class="panel-body">' +
-        '<div class="panel-text"><p>' + e.content + '</p>' +
-        '<div class="panel-link"><a href="' + e.wikipedia_url + '" target="_blank" rel="noopener">Read more on Wikipedia \u2192</a></div></div>' +
-        (e.image_url ? '<figure class="panel-image"><img data-src="' + e.image_url + '" alt="' + (e.image_caption || '') + '">' +
-        '<figcaption>' + (e.image_caption || '') +
+        '<div class="panel-text"><p>' + esc(e.content) + '</p>' +
+        '<div class="panel-link"><a href="' + safeHref(e.wikipedia_url) + '" target="_blank" rel="noopener">Read more on Wikipedia →</a></div></div>' +
+        (e.image_url ? '<figure class="panel-image"><img data-src="' + esc(e.image_url) + '" alt="' + esc(e.image_caption || '') + '">' +
+        '<figcaption>' + esc(e.image_caption || '') +
         (commonsUrl(e.image_url) ? ' <a href="' + commonsUrl(e.image_url) + '" target="_blank" rel="noopener" class="commons-link">via Wikimedia Commons</a>' : '') +
         '</figcaption></figure>' : '') +
         '</div></details>';
@@ -441,22 +456,22 @@
     const summaryHtml = summary.length
       ? '<div class="chapter-summary"><h3>&#128214; Key Points</h3>' +
         summary.map(s =>
-          '<div class="summary-item"><span>' + s.point +
-          (s.link ? ' <a href="' + s.link + '" target="_blank" rel="noopener">' + (s.link_label || 'Learn more') + ' \u2192</a>' : '') +
+          '<div class="summary-item"><span>' + esc(s.point) +
+          (s.link ? ' <a href="' + safeHref(s.link) + '" target="_blank" rel="noopener">' + esc(s.link_label || 'Learn more') + ' →</a>' : '') +
           '</span></div>'
         ).join('') + '</div>'
       : '';
 
     const nextHtml = nextChapter
-      ? '<div class="next-chapter"><a href="#/' + bookSlug + '/' + nextChapter.slug + '">Chapter ' + nextChapter.number + ': ' + nextChapter.title + ' \u2192</a></div>'
+      ? '<div class="next-chapter"><a href="#/' + esc(bookSlug) + '/' + esc(nextChapter.slug) + '">Chapter ' + esc(nextChapter.number) + ': ' + esc(nextChapter.title) + ' →</a></div>'
       : '';
 
     main.innerHTML =
       '<div id="reader">' +
       '<div class="reader-header">' +
-      '<div class="book-name">' + meta.author + ' &middot; ' + meta.year +
+      '<div class="book-name">' + esc(meta.author) + ' &middot; ' + esc(meta.year) +
       (fromCache ? '<span class="offline-badge">Offline</span>' : '') + '</div>' +
-      '<h2>Chapter ' + meta.chapter + ': ' + meta.chapter_title + '</h2></div>' +
+      '<h2>Chapter ' + esc(meta.chapter) + ': ' + esc(meta.chapter_title) + '</h2></div>' +
       '<div class="prose">' + prose + '</div>' +
       summaryHtml + nextHtml + '</div>';
 
@@ -465,6 +480,7 @@
     // by iOS Safari; blob URLs bypass that restriction entirely.
     document.querySelectorAll('.panel-image img[data-src]').forEach(function (img) {
       var url = img.dataset.src;
+      try { if (new URL(url).hostname !== 'upload.wikimedia.org') return; } catch (e) { return; }
       fetch(url).then(function (r) { return r.blob(); }).then(function (blob) {
         var blobUrl = URL.createObjectURL(blob);
         _blobUrls.push(blobUrl);
@@ -544,7 +560,13 @@
     }
   });
 
-  function showError(msg) { main.innerHTML = '<div id="error">' + msg + '</div>'; }
+  function showError(msg) {
+    var d = document.createElement('div');
+    d.id = 'error';
+    d.textContent = msg;
+    main.innerHTML = '';
+    main.appendChild(d);
+  }
 
   /* ── Font size control ── */
   const fontSizes = ['', 'font-md', 'font-lg'];
@@ -576,156 +598,9 @@
     });
   });
 
-  /* ── Word lookup ── */
-  var _ctxWord = '', _ctxX = 0, _ctxY = 0;
-  var _lpTimer = null, _lpMoved = false, _lpX = 0, _lpY = 0, _cmAt = 0;
-
-  function _wordAtPoint(x, y) {
-    var node, offset;
-    if (document.caretRangeFromPoint) {
-      var rng = document.caretRangeFromPoint(x, y);
-      if (!rng) return '';
-      node = rng.startContainer; offset = rng.startOffset;
-    } else if (document.caretPositionFromPoint) {
-      var cpos = document.caretPositionFromPoint(x, y);
-      if (!cpos) return '';
-      node = cpos.offsetNode; offset = cpos.offset;
-    } else { return ''; }
-    if (!node || node.nodeType !== Node.TEXT_NODE) return '';
-    var txt = node.textContent;
-    var sm = txt.slice(0, offset).match(/[a-zA-ZÀ-ž'-]+$/);
-    var em = txt.slice(offset).match(/^[a-zA-ZÀ-ž'-]+/);
-    var ws = sm ? offset - sm[0].length : offset;
-    var we = em ? offset + em[0].length : offset;
-    return txt.slice(ws, we).replace(/^['-]+|['-]+$/g, '');
-  }
-
-  function _getWord(x, y) {
-    var sel = window.getSelection ? window.getSelection() : null;
-    var s = sel ? sel.toString().trim() : '';
-    if (s && s.length < 40 && /^[\wÀ-ž' -]+$/.test(s)) return s.split(/\s+/)[0];
-    return _wordAtPoint(x, y);
-  }
-
-  function _inProse(el) { var p = document.querySelector('.prose'); return !!(p && p.contains(el)); }
-
-  function _showMenu(x, y) {
-    var m = document.getElementById('word-menu');
-    m.style.display = 'block';
-    var mw = m.offsetWidth, mh = m.offsetHeight;
-    var left = Math.max(8, Math.min(x, window.innerWidth - mw - 8));
-    var top  = y + 8;
-    if (top + mh > window.innerHeight - 8) top = y - mh - 8;
-    m.style.left = left + 'px';
-    m.style.top  = Math.max(8, top) + 'px';
-  }
-
-  function _hideMenu() { document.getElementById('word-menu').style.display = 'none'; }
-
-  function _showDef(word, ax, ay) {
-    var popup = document.getElementById('def-popup');
-    var card  = document.getElementById('def-popup-card');
-    document.getElementById('def-popup-word').textContent = word;
-    document.getElementById('def-popup-body').innerHTML = '<p class="def-msg">Looking up…</p>';
-    document.getElementById('def-popup-mw').href =
-      'https://www.merriam-webster.com/dictionary/' + encodeURIComponent(word.toLowerCase());
-    popup.classList.add('open');
-
-    requestAnimationFrame(function () {
-      var cw = card.offsetWidth, ch = card.offsetHeight;
-      var vw = window.innerWidth,  vh = window.innerHeight;
-      var left, top;
-      if (vw <= 600) {
-        left = Math.max(12, (vw - cw) / 2);
-        top  = Math.max(12, (vh - ch) / 3);
-      } else {
-        left = Math.min(ax, vw - cw - 12); left = Math.max(left, 12);
-        top  = ay + 12;
-        if (top + ch > vh - 12) top = ay - ch - 12;
-        top  = Math.max(top, 12);
-      }
-      card.style.left = left + 'px';
-      card.style.top  = top  + 'px';
-    });
-
-    fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word.replace(/[^a-zA-Z'-]/g, '').toLowerCase()))
-      .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
-      .then(function (data) {
-        var html = '';
-        data.slice(0, 2).forEach(function (entry) {
-          (entry.meanings || []).slice(0, 3).forEach(function (m) {
-            html += '<div class="def-pos">' + m.partOfSpeech + '</div>';
-            (m.definitions || []).slice(0, 2).forEach(function (d) {
-              html += '<div class="def-text">' + d.definition + '</div>';
-              if (d.example) html += '<div class="def-example">“' + d.example + '”</div>';
-            });
-          });
-        });
-        document.getElementById('def-popup-body').innerHTML =
-          html || '<p class="def-msg">No definitions found.</p>';
-      })
-      .catch(function () {
-        document.getElementById('def-popup-body').innerHTML =
-          '<p class="def-msg">No definition found. Try Merriam-Webster below.</p>';
-      });
-  }
-
-  function _hideDef() { document.getElementById('def-popup').classList.remove('open'); }
-
-  document.addEventListener('contextmenu', function (e) {
-    if (!_inProse(e.target)) return;
-    e.preventDefault();
-    _cmAt = Date.now();
-    clearTimeout(_lpTimer);
-    var word = _getWord(e.clientX, e.clientY);
-    if (!word) return;
-    _ctxWord = word; _ctxX = e.clientX; _ctxY = e.clientY;
-    _showMenu(e.clientX, e.clientY);
-  });
-
-  document.addEventListener('touchstart', function (e) {
-    if (!_inProse(e.target)) return;
-    _lpMoved = false;
-    var t = e.touches[0]; _lpX = t.clientX; _lpY = t.clientY;
-    _lpTimer = setTimeout(function () {
-      if (_lpMoved || Date.now() - _cmAt < 800) return;
-      var word = _getWord(_lpX, _lpY);
-      if (!word) return;
-      _ctxWord = word; _ctxX = _lpX; _ctxY = _lpY;
-      if (navigator.vibrate) navigator.vibrate(40);
-      _showMenu(_lpX, _lpY);
-    }, 550);
-  }, { passive: true });
-
-  document.addEventListener('touchmove', function (e) {
-    var t = e.touches[0];
-    if (Math.abs(t.clientX - _lpX) > 8 || Math.abs(t.clientY - _lpY) > 8) {
-      _lpMoved = true; clearTimeout(_lpTimer);
-    }
-  }, { passive: true });
-
-  ['touchend', 'touchcancel'].forEach(function (ev) {
-    document.addEventListener(ev, function () { clearTimeout(_lpTimer); }, { passive: true });
-  });
-
-  document.addEventListener('click', function (e) {
-    if (!e.target.closest('#word-menu')) _hideMenu();
-    if (document.getElementById('def-popup').classList.contains('open') &&
-        !e.target.closest('#def-popup-card') && !e.target.closest('#word-menu')) _hideDef();
-  });
-
-  document.addEventListener('scroll', _hideMenu, { passive: true });
-  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { _hideMenu(); _hideDef(); } });
-
-  document.getElementById('word-menu-define').addEventListener('click', function () {
-    var word = _ctxWord, ax = _ctxX, ay = _ctxY;
-    _hideMenu();
-    if (word) _showDef(word, ax, ay);
-  });
-
-  document.getElementById('def-popup-close').addEventListener('click', _hideDef);
-
   loadCatalog().then(route);
+
+  if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js');
 
   /* ── Header hide/show on scroll ── */
   var hdr = document.querySelector('header');
