@@ -12,7 +12,7 @@
   <link rel="apple-touch-icon" href="/icon.png">
   <link rel="icon" type="image/svg+xml" href="/icon.svg">
   <meta name="theme-color" content="#5c4a2a">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' blob:; connect-src 'self' https://upload.wikimedia.org; manifest-src 'self'; worker-src 'self'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' blob:; connect-src 'self' https://upload.wikimedia.org https://api.dictionaryapi.dev; manifest-src 'self'; worker-src 'self'">
 </head>
 <body>
   <div id="app">
@@ -38,6 +38,22 @@
       <div id="loading">Loading…</div>
     </main>
 
+    <div id="word-menu" role="menu">
+      <button id="word-menu-define" role="menuitem">Look up definition</button>
+    </div>
+
+    <div id="def-popup">
+      <div id="def-popup-card" role="dialog" aria-labelledby="def-popup-word">
+        <div id="def-popup-head">
+          <span id="def-popup-word"></span>
+          <button id="def-popup-close" aria-label="Close">&#215;</button>
+        </div>
+        <div id="def-popup-body"></div>
+        <div id="def-popup-foot">
+          <a id="def-popup-mw" target="_blank" rel="noopener">Search Merriam-Webster &#8594;</a>
+        </div>
+      </div>
+    </div>
   </div>
   <div id="install-modal" aria-hidden="true">
     <div id="install-modal-card" role="dialog" aria-labelledby="install-modal-title">

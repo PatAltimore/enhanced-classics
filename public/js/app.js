@@ -598,6 +598,167 @@
     });
   });
 
+  /* ── Word lookup ── */
+  var _ctxWord = '', _ctxX = 0, _ctxY = 0;
+  var _lpTimer = null, _lpMoved = false, _lpX = 0, _lpY = 0, _cmAt = 0;
+
+  function _wordAtPoint(x, y) {
+    var node, offset;
+    if (document.caretRangeFromPoint) {
+      var rng = document.caretRangeFromPoint(x, y);
+      if (!rng) return '';
+      node = rng.startContainer; offset = rng.startOffset;
+    } else if (document.caretPositionFromPoint) {
+      var cpos = document.caretPositionFromPoint(x, y);
+      if (!cpos) return '';
+      node = cpos.offsetNode; offset = cpos.offset;
+    } else { return ''; }
+    if (!node || node.nodeType !== Node.TEXT_NODE) return '';
+    var txt = node.textContent;
+    var sm = txt.slice(0, offset).match(/[a-zA-ZÀ-ž'-]+$/);
+    var em = txt.slice(offset).match(/^[a-zA-ZÀ-ž'-]+/);
+    var ws = sm ? offset - sm[0].length : offset;
+    var we = em ? offset + em[0].length : offset;
+    return txt.slice(ws, we).replace(/^['-]+|['-]+$/g, '');
+  }
+
+  function _getWord(x, y) {
+    var sel = window.getSelection ? window.getSelection() : null;
+    var s = sel ? sel.toString().trim() : '';
+    if (s && s.length < 40 && /^[\wÀ-ž' -]+$/.test(s)) return s.split(/\s+/)[0];
+    return _wordAtPoint(x, y);
+  }
+
+  function _inProse(el) { var p = document.querySelector('.prose'); return !!(p && p.contains(el)); }
+
+  function _showMenu(x, y) {
+    var m = document.getElementById('word-menu');
+    m.style.display = 'block';
+    var mw = m.offsetWidth, mh = m.offsetHeight;
+    var left = Math.max(8, Math.min(x, window.innerWidth - mw - 8));
+    var top  = y + 8;
+    if (top + mh > window.innerHeight - 8) top = y - mh - 8;
+    m.style.left = left + 'px';
+    m.style.top  = Math.max(8, top) + 'px';
+  }
+
+  function _hideMenu() { document.getElementById('word-menu').style.display = 'none'; }
+
+  function _showDef(word, ax, ay) {
+    var popup = document.getElementById('def-popup');
+    var card  = document.getElementById('def-popup-card');
+    document.getElementById('def-popup-word').textContent = word;
+    var body = document.getElementById('def-popup-body');
+    body.textContent = 'Looking up…';
+    document.getElementById('def-popup-mw').href =
+      'https://www.merriam-webster.com/dictionary/' + encodeURIComponent(word.toLowerCase());
+    popup.classList.add('open');
+
+    requestAnimationFrame(function () {
+      var cw = card.offsetWidth, ch = card.offsetHeight;
+      var vw = window.innerWidth,  vh = window.innerHeight;
+      var left, top;
+      if (vw <= 600) {
+        left = Math.max(12, (vw - cw) / 2);
+        top  = Math.max(12, (vh - ch) / 3);
+      } else {
+        left = Math.min(ax, vw - cw - 12); left = Math.max(left, 12);
+        top  = ay + 12;
+        if (top + ch > vh - 12) top = ay - ch - 12;
+        top  = Math.max(top, 12);
+      }
+      card.style.left = left + 'px';
+      card.style.top  = top  + 'px';
+    });
+
+    fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word.replace(/[^a-zA-Z'-]/g, '').toLowerCase()))
+      .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+      .then(function (data) {
+        body.textContent = '';
+        var found = false;
+        data.slice(0, 2).forEach(function (entry) {
+          (entry.meanings || []).slice(0, 3).forEach(function (m) {
+            var pos = document.createElement('div');
+            pos.className = 'def-pos';
+            pos.textContent = m.partOfSpeech;
+            body.appendChild(pos);
+            (m.definitions || []).slice(0, 2).forEach(function (d) {
+              var defEl = document.createElement('div');
+              defEl.className = 'def-text';
+              defEl.textContent = d.definition;
+              body.appendChild(defEl);
+              if (d.example) {
+                var ex = document.createElement('div');
+                ex.className = 'def-example';
+                ex.textContent = '“' + d.example + '”';
+                body.appendChild(ex);
+              }
+              found = true;
+            });
+          });
+        });
+        if (!found) { body.textContent = 'No definitions found.'; }
+      })
+      .catch(function () {
+        body.textContent = 'No definition found. Try Merriam-Webster below.';
+      });
+  }
+
+  function _hideDef() { document.getElementById('def-popup').classList.remove('open'); }
+
+  document.addEventListener('contextmenu', function (e) {
+    if (!_inProse(e.target)) return;
+    e.preventDefault();
+    _cmAt = Date.now();
+    clearTimeout(_lpTimer);
+    var word = _getWord(e.clientX, e.clientY);
+    if (!word) return;
+    _ctxWord = word; _ctxX = e.clientX; _ctxY = e.clientY;
+    _showMenu(e.clientX, e.clientY);
+  });
+
+  document.addEventListener('touchstart', function (e) {
+    if (!_inProse(e.target)) return;
+    _lpMoved = false;
+    var t = e.touches[0]; _lpX = t.clientX; _lpY = t.clientY;
+    _lpTimer = setTimeout(function () {
+      if (_lpMoved || Date.now() - _cmAt < 800) return;
+      var word = _getWord(_lpX, _lpY);
+      if (!word) return;
+      _ctxWord = word; _ctxX = _lpX; _ctxY = _lpY;
+      if (navigator.vibrate) navigator.vibrate(40);
+      _showMenu(_lpX, _lpY);
+    }, 550);
+  }, { passive: true });
+
+  document.addEventListener('touchmove', function (e) {
+    var t = e.touches[0];
+    if (Math.abs(t.clientX - _lpX) > 8 || Math.abs(t.clientY - _lpY) > 8) {
+      _lpMoved = true; clearTimeout(_lpTimer);
+    }
+  }, { passive: true });
+
+  ['touchend', 'touchcancel'].forEach(function (ev) {
+    document.addEventListener(ev, function () { clearTimeout(_lpTimer); }, { passive: true });
+  });
+
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('#word-menu')) _hideMenu();
+    if (document.getElementById('def-popup').classList.contains('open') &&
+        !e.target.closest('#def-popup-card') && !e.target.closest('#word-menu')) _hideDef();
+  });
+
+  document.addEventListener('scroll', _hideMenu, { passive: true });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { _hideMenu(); _hideDef(); } });
+
+  document.getElementById('word-menu-define').addEventListener('click', function () {
+    var word = _ctxWord, ax = _ctxX, ay = _ctxY;
+    _hideMenu();
+    if (word) _showDef(word, ax, ay);
+  });
+
+  document.getElementById('def-popup-close').addEventListener('click', _hideDef);
+
   loadCatalog().then(route);
 
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js');
