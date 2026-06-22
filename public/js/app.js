@@ -637,18 +637,26 @@
     fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word.replace(/[^a-zA-Z'-]/g, '').toLowerCase()))
       .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
       .then(function (data) {
-        var html = '';
+        var body = document.getElementById('def-popup-body');
+        body.textContent = '';
+        function add(cls, text) {
+          var div = document.createElement('div');
+          div.className = cls;
+          div.textContent = text;
+          body.appendChild(div);
+        }
         data.slice(0, 2).forEach(function (entry) {
           (entry.meanings || []).slice(0, 3).forEach(function (m) {
-            html += '<div class="def-pos">' + m.partOfSpeech + '</div>';
+            add('def-pos', m.partOfSpeech);
             (m.definitions || []).slice(0, 2).forEach(function (d) {
-              html += '<div class="def-text">' + d.definition + '</div>';
-              if (d.example) html += '<div class="def-example">“' + d.example + '”</div>';
+              add('def-text', d.definition);
+              if (d.example) add('def-example', '“' + d.example + '”');
             });
           });
         });
-        document.getElementById('def-popup-body').innerHTML =
-          html || '<p class="def-msg">No definitions found.</p>';
+        if (!body.childNodes.length) {
+          body.innerHTML = '<p class="def-msg">No definitions found.</p>';
+        }
       })
       .catch(function () {
         document.getElementById('def-popup-body').innerHTML =
