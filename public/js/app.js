@@ -94,6 +94,55 @@
     _blobUrls = [];
   }
 
+  /* ── Anchor-based reader bookmarks ──
+     We record the reading position relative to a prose paragraph (its index plus
+     how far we've scrolled past its top) rather than as an absolute pixel offset.
+     Absolute offsets break when enhancement panels are expanded at save time but
+     collapsed on return, which pushes the restored position further into the
+     chapter. Anchors are recomputed against the current layout, so they're stable
+     regardless of which panels are open. */
+  function _proseParas() {
+    var prose = document.querySelector('.prose');
+    if (!prose) return [];
+    return Array.prototype.filter.call(prose.children, function (el) {
+      return el.tagName === 'P';
+    });
+  }
+
+  function _currentAnchor() {
+    var paras = _proseParas();
+    if (!paras.length) return null;
+    var idx = 0;
+    for (var k = 0; k < paras.length; k++) {
+      if (paras[k].getBoundingClientRect().top <= 0) idx = k; else break;
+    }
+    return { i: idx, o: Math.round(-paras[idx].getBoundingClientRect().top) };
+  }
+
+  function _scrollToAnchor(a) {
+    if (!a) return;
+    var paras = _proseParas();
+    if (!paras.length) return;
+    var idx  = Math.min(a.i, paras.length - 1);
+    var top  = paras[idx].getBoundingClientRect().top;
+    window.scrollTo(0, Math.max(0, window.scrollY + top + (a.o || 0)));
+  }
+
+  function saveReaderScroll(bookSlug, chapterSlug) {
+    if (scrollHandler) window.removeEventListener('scroll', scrollHandler);
+    var t;
+    var posKey = 'pos_' + bookSlug + '_' + chapterSlug;
+    scrollHandler = function () {
+      clearTimeout(t);
+      t = setTimeout(function () {
+        var a = _currentAnchor();
+        if (!a) return;
+        try { localStorage.setItem(posKey, JSON.stringify(a)); } catch (e) {}
+      }, 150);
+    };
+    window.addEventListener('scroll', scrollHandler);
+  }
+
   /* ── Routing ── */
   function route() {
     const hash  = location.hash.replace('#', '') || '/';
@@ -162,8 +211,15 @@
     backBtn.onclick = function () { location.hash = '#/'; };
     homeBtn.style.display = 'none';
     headerTitle.textContent = book.title;
+    var lastSlug = localStorage.getItem('last_chapter_' + bookSlug);
+    var lastCh   = lastSlug ? book.chapters.find(function (c) { return c.slug === lastSlug; }) : null;
+    var continueHtml = lastCh
+      ? '<button id="continue-btn" class="continue-btn">Continue reading → Chapter ' +
+        lastCh.number + ': ' + lastCh.title + '</button>'
+      : '';
     main.innerHTML = '<div id="chapter-list"><h2>' + book.title + '</h2>' +
       '<div class="book-meta">' + book.author + ' &middot; ' + book.year + '</div>' +
+      continueHtml +
       book.chapters.map(function (ch) {
         var cached = isChapterCached(bookSlug, ch.slug);
         return '<div class="chapter-item' + (cached ? ' chapter-item--cached' : '') +
@@ -174,6 +230,10 @@
       '<button id="download-btn" class="download-btn"></button>' +
       '<p class="offline-legend"><span class="offline-legend-dot">↓</span> = Chapter downloaded for offline reading</p>' +
       '</div>';
+    var contBtn = document.getElementById('continue-btn');
+    if (contBtn && lastCh) contBtn.addEventListener('click', function () {
+      location.hash = '#/' + bookSlug + '/' + lastCh.slug;
+    });
     var dlBtn = document.getElementById('download-btn');
     updateDownloadBtn(book, dlBtn);
     dlBtn.addEventListener('click', function () { downloadBook(book, dlBtn); });
@@ -246,7 +306,7 @@
       const cat = await loadCatalog();
       const { meta, body } = parseFrontmatter(text);
       headerTitle.innerHTML = meta.title + '<span class="header-chapter">Chapter\u00a0' + meta.chapter + ': ' + meta.chapter_title + '</span>';
-      const scrollKey = 'scroll_' + bookSlug + '_' + chapterSlug;
+      try { localStorage.setItem('last_chapter_' + bookSlug, chapterSlug); } catch (e) {}
       const book = cat.books.find(b => b.slug === bookSlug);
       let nextChapter = null;
       if (book) {
@@ -254,9 +314,11 @@
         if (idx >= 0 && idx < book.chapters.length - 1) nextChapter = book.chapters[idx + 1];
       }
       renderReader(meta, body, bookSlug, nextChapter, fromCache);
-      const saved = localStorage.getItem(scrollKey);
-      if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
-      saveScrollFor(scrollKey);
+      // Restore the last reading position (anchor-based, so panel state is safe).
+      let anchor = null;
+      try { anchor = JSON.parse(localStorage.getItem('pos_' + bookSlug + '_' + chapterSlug) || 'null'); } catch (e) {}
+      if (anchor) requestAnimationFrame(function () { _scrollToAnchor(anchor); });
+      saveReaderScroll(bookSlug, chapterSlug);
     } catch (e) {
       showError('Could not load chapter: ' + e.message);
     }
