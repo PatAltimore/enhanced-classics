@@ -112,11 +112,17 @@
   function _currentAnchor() {
     var paras = _proseParas();
     if (!paras.length) return null;
-    var idx = 0;
+    // Anchor to the first paragraph still reaching the viewport top (bottom > 0),
+    // with the offset measured WITHIN that paragraph. Using the last paragraph
+    // above the top instead would fold an expanded panel's height into the offset,
+    // so a collapsed panel on return would overshoot further into the chapter.
     for (var k = 0; k < paras.length; k++) {
-      if (paras[k].getBoundingClientRect().top <= 0) idx = k; else break;
+      var rect = paras[k].getBoundingClientRect();
+      if (rect.bottom > 0) {
+        return { i: k, o: Math.max(0, Math.round(-rect.top)) };
+      }
     }
-    return { i: idx, o: Math.round(-paras[idx].getBoundingClientRect().top) };
+    return { i: paras.length - 1, o: 0 };   // scrolled past all prose (summary/footer)
   }
 
   function _scrollToAnchor(a) {
