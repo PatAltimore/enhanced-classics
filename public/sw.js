@@ -1,7 +1,7 @@
 'use strict';
 
 /* Bump this string whenever the app shell changes to force cache refresh. */
-const CACHE = 'ec-v2';
+const CACHE = 'ec-v3';
 const IMG_CACHE = 'ec-images'; /* persists across CACHE version bumps */
 
 /* Files cached on install — the minimum needed to render the app offline. */

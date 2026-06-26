@@ -86,6 +86,14 @@ main { padding: 2rem; }
 
 .prose { max-width: var(--max-prose); }
 .prose p { margin-bottom: 1.4em; }
+.prose blockquote.verse {
+  margin: 1.4em 0 1.4em 1.5em;
+  padding-left: 1.1em;
+  border-left: 2px solid var(--panel-border);
+  font-style: italic;
+  color: var(--muted);
+  line-height: 1.7;
+}
 
 /* Enhancement triggers */
 .enhance-trigger { border-bottom: 2px dotted var(--gold); cursor: pointer; font-weight: 700; border-radius: 2px; }

@@ -416,9 +416,17 @@
     (enhancements || []).forEach(e => { if (e.trigger) triggerMap[e.trigger] = e.id; });
     const triggers = Object.keys(triggerMap).sort((a, b) => b.length - a.length);
 
-    return md.split(/\n\n+/).map(para => {
-      let p = para.trim();
-      if (!p) return '';
+    return md.split(/\n\n+/).map(block => {
+      if (!block.trim()) return '';
+      // A block whose every non-empty line is indented is set-off verse or a
+      // block quotation in the source (e.g. Gutenberg poetry). Render it as a
+      // blockquote with its line breaks preserved, instead of letting the lines
+      // collapse into one running prose line.
+      // Require 2+ indented lines: genuine verse/quotation spans multiple lines,
+      // whereas a single indented line is usually a scene heading or stage cue.
+      const lines   = block.split('\n').filter(l => l.trim());
+      const isVerse = lines.length >= 2 && lines.every(l => /^\s/.test(l));
+      let p = block.trim();
       p = p.replace(/\*\*([\s\S]+?)\*\*/g, (_, text) => {
         const normText = normTypo(text);
         const t = triggers.find(tr => normText.includes(normTypo(tr)));
@@ -427,6 +435,7 @@
       });
       p = p.replace(/_(.+?)_/g, (_, t) => '<em>' + t + '</em>');
       p = p.replace(/\*(.+?)\*/g, (_, t) => '<em>' + t + '</em>');
+      if (isVerse) return '<blockquote class="verse">' + p.replace(/\n[ \t]*/g, '<br>') + '</blockquote>';
       return '<p>' + p + '</p>';
     }).join('\n');
   }
@@ -462,24 +471,29 @@
     });
 
     let prose = mdToHtml(body, enhancements);
+    // Block boundaries are the end of each rendered <p> or verse <blockquote>.
+    const paraEnds = [];
+    for (let m, re = /<\/(?:p|blockquote)>/g; (m = re.exec(prose)); ) paraEnds.push(m.index + m[0].length);
+
+    // Place each panel after the block containing its trigger word.
     const insertions = [];
     enhancements.forEach(e => {
       const marker = 'togglePanel(\'' + e.id + '\')';
       const idx    = prose.indexOf(marker);
-      if (idx >= 0) {
-        const after = prose.indexOf('</p>', idx) + 4;
-        insertions.push({ after, triggerIdx: idx, html: panels[e.id] });
-      }
+      if (idx < 0) return;
+      const after = paraEnds.find(pe => pe > idx);   // end of the block holding the trigger
+      if (after != null) insertions.push({ after, triggerIdx: idx, html: panels[e.id] });
     });
-    // Place each panel after the paragraph containing its trigger word.
-    // Build the list of paragraph-end positions in the rendered prose string.
-    const paraEnds = [];
-    for (let pp = 0; ; ) {
-      const pi = prose.indexOf('</p>', pp);
-      if (pi < 0) break;
-      paraEnds.push(pi + 4);
-      pp = pi + 4;
-    }
+    // Does paragraph `i` end on sentence-terminating punctuation? Markdown
+    // paragraph breaks don't always coincide with sentence ends (a clause can
+    // wrap into a following verse quote), so we avoid dropping a panel on a
+    // boundary that would split a sentence.
+    const endsSentence = i => {
+      const start = i === 0 ? 0 : paraEnds[i - 1];
+      const txt = prose.slice(start, paraEnds[i])
+        .replace(/<[^>]+>/g, '').replace(/&[^;]+;/g, ' ').trim();
+      return /[.!?:”’"')\]]$/.test(txt);
+    };
     if (paraEnds.length && insertions.length) {
       // Tag each insertion with the paragraph index of its trigger.
       insertions.forEach(ins => {
@@ -493,6 +507,9 @@
       insertions.forEach(ins => {
         let t = ins.paraIdx;
         if (t <= lastPara) t = lastPara + 1;   // stagger same-paragraph clusters by 1
+        // Advance past boundaries that fall mid-sentence (e.g. a clause wrapping
+        // into the next verse-quote paragraph), so the panel lands on a real break.
+        while (t < paraEnds.length - 1 && !endsSentence(t)) t++;
         t = Math.min(t, paraEnds.length - 1);
         ins.after = paraEnds[t];
         lastPara = t;
