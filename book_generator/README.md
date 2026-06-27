@@ -56,17 +56,26 @@ Foundry project (**Settings → API keys**) — these are different values.
 
 ### Recommended workflow for original text
 
+> **The book must exist in `config/books.yaml` before you fetch anything.**
+> `fetch_texts.py` looks the book up by `--book <slug>` and reads its `gutenberg_id`
+> and split settings from that file — it will skip a slug that isn't there. Add the
+> entry first (see [Adding books and chapters](#adding-books-and-chapters)), either
+> with `add_book.py` or by editing the YAML by hand.
+
 ```bash
-# 1. Preview how the Gutenberg text will be split into chapters (no files written)
+# 1. Add the book to config/books.yaml (auto-detects chapters from a Gutenberg URL)
+python add_book.py https://www.gutenberg.org/ebooks/205   # creates the "walden" entry
+
+# 2. Preview how the Gutenberg text will be split into chapters (no files written)
 python fetch_texts.py --book walden --list
 
-# 2. Download and split the text into source_texts/walden/*.txt
+# 3. Download and split the text into source_texts/walden/*.txt
 python fetch_texts.py --book walden
 
-# 3. Generate (or regenerate) chapters using the original text
+# 4. Generate (or regenerate) chapters using the original text
 python generator.py --book walden --force
 
-# 4. Verify every chapter body matches its source text
+# 5. Verify every chapter body matches its source text
 python verify_chapters.py --book walden
 ```
 
@@ -123,8 +132,29 @@ Chapters reported as `mismatch` need to be regenerated with `--force`.
 
 ## Adding books and chapters
 
-Edit `config/books.yaml`. Add a new entry under `books:` with a Gutenberg ID and chapter
-split pattern so `fetch_texts.py` can download the original text automatically:
+**Add the book here before running `fetch_texts.py` or `generator.py`** — both look the
+book up by slug in `config/books.yaml`, so a book that isn't listed can't be fetched or
+generated.
+
+### Option A — `add_book.py` (recommended)
+
+Pass a Project Gutenberg ebook URL. The script fetches the metadata, downloads the text,
+auto-detects the chapter heading pattern, and appends a ready-to-use entry to
+`config/books.yaml`:
+
+```bash
+python add_book.py https://www.gutenberg.org/ebooks/2701            # append the entry
+python add_book.py https://www.gutenberg.org/ebooks/2701 --dry-run  # print without writing
+python add_book.py https://www.gutenberg.org/ebooks/2701 --no-append # print entry to copy manually
+```
+
+Review the generated entry (especially `gutenberg_re` and the chapter list), then continue
+with `fetch_texts.py --book <slug> --list`.
+
+### Option B — edit `config/books.yaml` by hand
+
+Add a new entry under `books:` with a Gutenberg ID and chapter split pattern so
+`fetch_texts.py` can download the original text automatically:
 
 ```yaml
 - slug: "moby-dick"
