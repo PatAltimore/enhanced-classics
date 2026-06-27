@@ -411,12 +411,36 @@
             .replace(/\n/g, ' ');
   }
 
+  // A flush-left block of short, line-initial-capitalised lines is set-off verse
+  // (e.g. a chapter epigraph). Unlike indented verse there's no indentation cue,
+  // so we only trust this in predominantly-prose works: in a verse work (a play)
+  // such blocks are ordinary dialogue, not quotations, and must stay plain.
+  function _flushVerseCandidate(block) {
+    const ls = block.split('\n').filter(l => l.trim());
+    if (ls.length < 3) return false;
+    if (ls.some(l => /^\s/.test(l))) return false;             // indented => other path
+    if (ls.some(l => l.trim().length > 50)) return false;      // a near-full line => prose
+    const caps = ls.filter(l => /^[A-Z]/.test(l.replace(/^[\s"“”'‘’(]+/, ''))).length;
+    return caps / ls.length >= 0.7;
+  }
+
   function mdToHtml(md, enhancements) {
     const triggerMap = {};
     (enhancements || []).forEach(e => { if (e.trigger) triggerMap[e.trigger] = e.id; });
     const triggers = Object.keys(triggerMap).sort((a, b) => b.length - a.length);
 
-    return md.split(/\n\n+/).map(block => {
+    const blocks = md.split(/\n\n+/);
+    // Enable flush-left verse styling only when verse blocks are the exception
+    // rather than the rule (ratio of candidates to prose paragraphs is low).
+    let _cand = 0, _prose = 0;
+    blocks.forEach(b => {
+      if (!b.trim()) return;
+      if (_flushVerseCandidate(b)) _cand++;
+      else if (b.split('\n').some(l => l.trim().length > 60)) _prose++;
+    });
+    const flushVerseOn = (_cand + _prose) > 0 && _cand / (_cand + _prose) <= 0.25;
+
+    return blocks.map(block => {
       if (!block.trim()) return '';
       // A block whose every non-empty line is indented is set-off verse or a
       // block quotation in the source (e.g. Gutenberg poetry). Render it as a
@@ -425,7 +449,8 @@
       // Require 2+ indented lines: genuine verse/quotation spans multiple lines,
       // whereas a single indented line is usually a scene heading or stage cue.
       const lines   = block.split('\n').filter(l => l.trim());
-      const isVerse = lines.length >= 2 && lines.every(l => /^\s/.test(l));
+      const isVerse = (lines.length >= 2 && lines.every(l => /^\s/.test(l))) ||
+                      (flushVerseOn && _flushVerseCandidate(block));
       let p = block.trim();
       p = p.replace(/\*\*([\s\S]+?)\*\*/g, (_, text) => {
         const normText = normTypo(text);

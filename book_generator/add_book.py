@@ -48,6 +48,14 @@ _CHAPTER_PATTERNS = [
     (r'^BOOK [IVXLC]+', "BOOK Roman numeral headings"),
     (r'^PART [IVXLC]+', "PART Roman numeral headings"),
     (r'^ACT [IVXLC]+', "ACT Roman numeral headings"),
+    # Inline-title headings: the number and title share one line, e.g.
+    # "Chapter I. Into the Primitive". Anchored at column 0 so the indented
+    # table-of-contents entries (" Chapter I. …") are not matched. Listed last so
+    # that books whose body uses bare headings still win the count tie-break.
+    (r'^CHAPTER [IVXLC]+\.\s+\S.*$', "CHAPTER Roman numeral with inline title"),
+    (r'^CHAPTER \d+\.\s+\S.*$',      "CHAPTER number with inline title"),
+    (r'^Chapter [IVXLC]+\.\s+\S.*$', "Chapter Roman numeral with inline title"),
+    (r'^Chapter \d+\.\s+\S.*$',      "Chapter number with inline title"),
 ]
 
 
@@ -213,6 +221,23 @@ def _heading_to_title(heading: str) -> str:
     return h.rstrip(".")
 
 
+def _inline_title(heading: str) -> "str | None":
+    """Extract a chapter title that shares the heading line with the number.
+
+    'Chapter I. Into the Primitive' -> 'Into the Primitive'. Returns None when the
+    heading is only a number/numeral (the title is on a separate line instead, and
+    the caller should fall back to _get_chapter_subtitle).
+    """
+    h = heading.strip()
+    m = re.match(
+        r'^(?:CHAPTER|Chapter|BOOK|PART|ACT)\s+[IVXLCDM\d]+\s*[.:\-—]?\s*(.+)$',
+        h,
+    )
+    if m and m.group(1).strip():
+        return m.group(1).strip()
+    return None
+
+
 def _roman_to_int(s: str) -> int:
     """Convert a Roman numeral string to integer."""
     roman_vals = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
@@ -227,6 +252,33 @@ def _roman_to_int(s: str) -> int:
             result += val
         prev = val
     return result
+
+
+# Words kept lowercase in a title unless they are the first or last word.
+_TITLE_STOPWORDS = {
+    "a", "an", "the", "and", "but", "or", "nor", "for", "of", "on", "in", "to",
+    "with", "as", "at", "by", "from", "off", "up", "via", "per", "vs",
+}
+
+
+def _needs_titlecasing(text: str) -> bool:
+    """True when a multi-word title looks under-capitalised (e.g. Gutenberg's
+    'the call of the wild') — i.e. no word after the first starts uppercase."""
+    words = text.split()
+    return len(words) >= 2 and not any(w[:1].isupper() for w in words[1:])
+
+
+def _titlecase(text: str) -> str:
+    """Title-case a string, keeping small joining words lowercase mid-title."""
+    words = text.split()
+    out = []
+    for i, w in enumerate(words):
+        lw = w.lower()
+        if 0 < i < len(words) - 1 and lw in _TITLE_STOPWORDS:
+            out.append(lw)
+        else:
+            out.append(lw[:1].upper() + lw[1:])
+    return " ".join(out)
 
 
 def _slugify(text: str) -> str:
@@ -380,6 +432,14 @@ def main() -> None:
     if not author:
         author = input("  Author not found. Enter author: ").strip()
 
+    # Some Gutenberg records store the title all-lowercase ("the call of the
+    # wild"); normalise those while leaving already-cased titles untouched.
+    if _needs_titlecasing(title):
+        fixed = _titlecase(title)
+        if fixed != title:
+            print(f"  Title looks lower-cased; normalised to: {fixed!r}")
+            title = fixed
+
     # Try to guess publication year (not always available from Gutenberg)
     year = None
     release_date = meta.get("Release Date", "")
@@ -460,7 +520,13 @@ def main() -> None:
         if count > 5:
             print(f"    … and {count - 5} more")
 
-        heading_lines = _guess_heading_lines(body, pattern)
+        # Inline-title headings ("Chapter I. Into the Primitive") are a single
+        # line, so only that line is skipped — the subtitle heuristic would
+        # wrongly count a following epigraph/first line as a second heading line.
+        if heading_lines_list and _inline_title(heading_lines_list[0]):
+            heading_lines = 1
+        else:
+            heading_lines = _guess_heading_lines(body, pattern)
         print(f"  Heading lines to skip: {heading_lines}")
 
     # --- Build chapter list ---
@@ -469,12 +535,16 @@ def main() -> None:
 
     if pattern:
         for i in range(count):
-            subtitle = _get_chapter_subtitle(body, pattern, i)
-            if subtitle:
-                ch_title = subtitle.strip().title()
-                # Clean up ALL CAPS to Title Case
-                if subtitle.isupper():
-                    ch_title = subtitle.title()
+            # Prefer a title on the heading line itself ("Chapter I. Into the
+            # Primitive"); otherwise fall back to a subtitle on the next line.
+            heading   = heading_lines_list[i] if i < len(heading_lines_list) else ""
+            raw_title = _inline_title(heading)
+            if not raw_title:
+                subtitle  = _get_chapter_subtitle(body, pattern, i)
+                raw_title = subtitle.strip() if subtitle else None
+            if raw_title:
+                # Title-case ALL-CAPS headings; keep mixed-case titles as written.
+                ch_title = raw_title.title() if raw_title.isupper() else raw_title
             else:
                 ch_title = f"Chapter {i + 1}"
 

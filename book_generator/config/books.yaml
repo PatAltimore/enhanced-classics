@@ -426,3 +426,42 @@ books:
       - number: 11
         title: "Chapter 11"
         slug: "chapter-11-chapter-11"
+
+  - slug: "the-call-of-the-wild"
+    title: "The Call of the Wild"
+    author: "Jack London"
+    year: 1903
+    gutenberg_id: 215
+    gutenberg_split: pattern
+    gutenberg_re: '^Chapter [IVXLC]+\.\s+\S.*$'
+    gutenberg_heading_lines: 1
+    description: >
+      Buck, a powerful dog living comfortably in California, is stolen and
+      sold into service as a sled dog during the Klondike Gold Rush. Thrust
+      into the brutal Yukon wilderness, he must fight to survive among other
+      dogs and harsh masters. As Buck endures the unforgiving environment,
+      he grows increasingly primitive, shedding his domesticated life and
+      answering an ancient instinct that pulls him toward something wild and
+      primal.
+    chapters:
+      - number: 1
+        title: "Into the Primitive"
+        slug: "chapter-01-into-the-primitive"
+      - number: 2
+        title: "The Law of Club and Fang"
+        slug: "chapter-02-the-law-of-club-and-fang"
+      - number: 3
+        title: "The Dominant Primordial Beast"
+        slug: "chapter-03-the-dominant-primordial-beast"
+      - number: 4
+        title: "Who Has Won to Mastership"
+        slug: "chapter-04-who-has-won-to-mastership"
+      - number: 5
+        title: "The Toil of Trace and Trail"
+        slug: "chapter-05-the-toil-of-trace-and-trail"
+      - number: 6
+        title: "For the Love of a Man"
+        slug: "chapter-06-for-the-love-of-a-man"
+      - number: 7
+        title: "The Sounding of the Call"
+        slug: "chapter-07-the-sounding-of-the-call"
