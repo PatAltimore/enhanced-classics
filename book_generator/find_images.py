@@ -6,7 +6,9 @@ Image search priority per enhancement:
   3. Wikimedia Commons search using the Wikipedia article title from the URL.
   4. Wikimedia Commons search using the enhancement card title (last resort).
 
-Each enhancement with an empty image_url is patched in-place.
+Each enhancement with an empty image_url is patched in-place. An image is only
+used once per run: candidates already assigned (this run or in a prior run) are
+skipped, falling through to the next search result or source.
 
 Usage:
     python find_images.py                  # all books
@@ -32,6 +34,22 @@ DRY_RUN     = "--dry-run" in sys.argv
 BOOK_FILTER = sys.argv[sys.argv.index("--book") + 1] if "--book" in sys.argv else None
 
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".tiff", ".tif"}
+
+# Underlying image files already assigned this run. Keyed by source filename so
+# the same picture is never reused, even if requested at a different thumb size.
+USED_IMAGE_KEYS: set[str] = set()
+
+
+def _image_key(image_url: str) -> str:
+    """Identify the underlying file behind a (thumbnail) image URL.
+
+    Commons/Wikipedia thumbs look like
+    .../commons/thumb/a/ab/Some_File.jpg/330px-Some_File.jpg — we key on the
+    'Some_File.jpg' segment so different sizes of the same image collapse to one.
+    """
+    m = re.search(r"/thumb/[0-9a-fA-F]/[0-9a-fA-F]{2}/([^/]+)/", image_url)
+    name = m.group(1) if m else image_url.rsplit("/", 1)[-1]
+    return urllib.parse.unquote(name).lower()
 
 
 # ---------------------------------------------------------------------------
@@ -113,7 +131,7 @@ def _commons_search(query: str) -> tuple[str, str] | None:
         if ext not in IMAGE_EXTS:
             continue
         thumb, caption = _thumb_and_caption(title)
-        if thumb:
+        if thumb and _image_key(thumb) not in USED_IMAGE_KEYS:
             return thumb, caption
     return None
 
@@ -156,12 +174,13 @@ def get_wikipedia_image(wiki_url: str) -> tuple[str, str] | None:
             # Use Commons metadata for the license/caption where possible
             file_title = f"File:{page_image}"
             thumb_url, caption = _thumb_and_caption(file_title)
-            if thumb_url:
+            if thumb_url and _image_key(thumb_url) not in USED_IMAGE_KEYS:
                 return thumb_url, caption
             # Commons lookup failed — use the Wikipedia thumbnail with a plain caption
-            caption = re.sub(r"\.\w+$", "", page_image.replace("_", " "))
-            caption = caption.replace('"', '\\"')[:200]
-            return thumb_info["source"], caption
+            if not thumb_url and _image_key(thumb_info["source"]) not in USED_IMAGE_KEYS:
+                caption = re.sub(r"\.\w+$", "", page_image.replace("_", " "))
+                caption = caption.replace('"', '\\"')[:200]
+                return thumb_info["source"], caption
     return None
 
 
@@ -247,6 +266,7 @@ def process_file(path: pathlib.Path) -> int:
             continue
 
         thumb_url, caption = result
+        USED_IMAGE_KEYS.add(_image_key(thumb_url))
         new_block = block.replace(
             '    image_url: ""\n    image_caption: ""',
             f'    image_url: "{thumb_url}"\n    image_caption: "{caption}"',
@@ -271,6 +291,15 @@ def main():
         if not books:
             print(f"Book '{BOOK_FILTER}' not found under {BOOKS_ROOT}")
             sys.exit(1)
+
+    # Seed with images already assigned in the files we're about to process so a
+    # re-run keeps every image unique rather than re-picking an existing one.
+    for book_dir in books:
+        for md in book_dir.glob("*.md"):
+            for m in re.finditer(r'image_url: "([^"]+)"', md.read_text(encoding="utf-8")):
+                USED_IMAGE_KEYS.add(_image_key(m.group(1)))
+    if USED_IMAGE_KEYS:
+        print(f"Seeded {len(USED_IMAGE_KEYS)} existing image(s) to avoid reuse.")
 
     total = 0
     for book_dir in books:
