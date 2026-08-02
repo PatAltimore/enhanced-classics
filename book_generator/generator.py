@@ -15,6 +15,9 @@ Usage examples:
 
   # Skip catalog.json update after generation
   python generator.py --no-catalog-sync
+
+  # Generate without image_url/image_caption fields on enhancement cards
+  python generator.py --no-images
 """
 import argparse
 import io
@@ -212,7 +215,9 @@ def _source_text_path(book: dict, chapter: dict) -> Path:
     return TEXTS_ROOT / book["slug"] / f"{chapter['slug']}.txt"
 
 
-def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dict) -> str:
+def generate_chapter(
+    client: ModelClient, book: dict, chapter: dict, config: dict, no_images: bool = False
+) -> str:
     import json as _json
 
     gen_cfg     = config.get("generation", {})
@@ -289,7 +294,7 @@ def generate_chapter(client: ModelClient, book: dict, chapter: dict, config: dic
     enh_messages     = build_enhancements_prompt(book, chapter, text)
     enhancements_raw = client.complete(enh_messages, temperature=0.2, max_tokens=8192)
 
-    return format_chapter(book, chapter, text, enhancements_raw)
+    return format_chapter(book, chapter, text, enhancements_raw, no_images=no_images)
 
 
 def main() -> None:
@@ -298,6 +303,10 @@ def main() -> None:
     parser.add_argument("--chapter", metavar="N", type=int, help="Only generate this chapter number")
     parser.add_argument("--dry-run", action="store_true", help="Build prompts but skip API calls")
     parser.add_argument("--force", action="store_true", help="Regenerate even if output file exists")
+    parser.add_argument(
+        "--no-images", action="store_true",
+        help="Omit image_url/image_caption fields from enhancement cards (skips find_images.py pickup)",
+    )
     parser.add_argument("--no-catalog-sync", action="store_true", help="Skip updating catalog.json")
     parser.add_argument("--sync-catalog", action="store_true", help="Sync catalog.json from disk and exit")
     parser.add_argument("--config", default=str(CONFIG_PATH), help="Path to books.yaml")
@@ -352,7 +361,7 @@ def main() -> None:
                 continue
 
             try:
-                content = generate_chapter(client, book, chapter, config)
+                content = generate_chapter(client, book, chapter, config, no_images=args.no_images)
                 path = checkpointer.save(book["slug"], chapter["slug"], content)
                 console.print(f"    [green]OK Saved -> {path}[/green]")
                 total_done += 1

@@ -44,7 +44,7 @@ def _parse_json(raw: str) -> dict:
     raise ValueError(f"Could not parse JSON from model output:\n{raw[:400]}")
 
 
-def _build_yaml(book: dict, chapter: dict, data: dict) -> str:
+def _build_yaml(book: dict, chapter: dict, data: dict, no_images: bool = False) -> str:
     lines = ["---"]
 
     # Scalar metadata
@@ -73,15 +73,16 @@ def _build_yaml(book: dict, chapter: dict, data: dict) -> str:
         lines.append(f'    trigger: {_q(e.get("trigger", ""))}')
         lines.append(f'    title: {_q(e.get("title", ""))}')
         lines.append(f'    wikipedia_url: {_q(e.get("wikipedia_url", ""))}')
-        lines.append(f'    image_url: {_q(e.get("image_url", ""))}')
-        lines.append(f'    image_caption: {_q(e.get("image_caption", ""))}')
+        if not no_images:
+            lines.append(f'    image_url: {_q(e.get("image_url", ""))}')
+            lines.append(f'    image_caption: {_q(e.get("image_caption", ""))}')
         lines.append(f'    content: {_q(e.get("content", ""))}')
 
     lines.append("---")
     return "\n".join(lines)
 
 
-def format_chapter(book: dict, chapter: dict, text: str, enhancements_raw: str) -> str:
+def format_chapter(book: dict, chapter: dict, text: str, enhancements_raw: str, no_images: bool = False) -> str:
     data = _parse_json(enhancements_raw)
-    yaml_block = _build_yaml(book, chapter, data)
+    yaml_block = _build_yaml(book, chapter, data, no_images=no_images)
     return f"{yaml_block}\n{text.strip()}\n"

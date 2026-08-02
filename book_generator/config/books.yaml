@@ -465,3 +465,91 @@ books:
       - number: 7
         title: "The Sounding of the Call"
         slug: "chapter-07-the-sounding-of-the-call"
+
+  - slug: "odyssey"
+    title: "The Odyssey"
+    author: "Homer"
+    year: -800
+    gutenberg_id: 1727
+    gutenberg_split: pattern
+    gutenberg_re: '^BOOK [IVXLC]+'
+    gutenberg_heading_lines: 1
+    description: >
+      Ancient Greek epic composed around the 8th or 7th century BC. It
+      follows Odysseus, king of Ithaca, on his perilous ten-year journey
+      home after the Trojan War. While he battles monsters and loses all his
+      crewmates, his wife Penelope and son Telemachus face aggressive
+      suitors at home who presume him dead.
+    chapters:
+      - number: 1
+        title: "The Gods In Council—Minerva’S Visit To Ithaca—The Challenge From"
+        slug: "chapter-01-the-gods-in-council-minerva-s-visit-to"
+      - number: 2
+        title: "I"
+        slug: "chapter-02-i"
+      - number: 3
+        title: "I"
+        slug: "chapter-03-i"
+      - number: 4
+        title: "V"
+        slug: "chapter-04-v"
+      - number: 5
+        title: "Calypso—Ulysses Reaches Scheria On A Raft."
+        slug: "chapter-05-calypso-ulysses-reaches-scheria-on-a-ra"
+      - number: 6
+        title: "I"
+        slug: "chapter-06-i"
+      - number: 7
+        title: "I"
+        slug: "chapter-07-i"
+      - number: 8
+        title: "I"
+        slug: "chapter-08-i"
+      - number: 9
+        title: "X"
+        slug: "chapter-09-x"
+      - number: 10
+        title: "Aeolus, The Laestrygones, Circe."
+        slug: "chapter-10-aeolus-the-laestrygones-circe"
+      - number: 11
+        title: "I"
+        slug: "chapter-11-i"
+      - number: 12
+        title: "I"
+        slug: "chapter-12-i"
+      - number: 13
+        title: "I"
+        slug: "chapter-13-i"
+      - number: 14
+        title: "V"
+        slug: "chapter-14-v"
+      - number: 15
+        title: "V"
+        slug: "chapter-15-v"
+      - number: 16
+        title: "I"
+        slug: "chapter-16-i"
+      - number: 17
+        title: "I"
+        slug: "chapter-17-i"
+      - number: 18
+        title: "I"
+        slug: "chapter-18-i"
+      - number: 19
+        title: "X"
+        slug: "chapter-19-x"
+      - number: 20
+        title: "X"
+        slug: "chapter-20-x"
+      - number: 21
+        title: "I"
+        slug: "chapter-21-i"
+      - number: 22
+        title: "I"
+        slug: "chapter-22-i"
+      - number: 23
+        title: "I"
+        slug: "chapter-23-i"
+      - number: 24
+        title: "V"
+        slug: "chapter-24-v"

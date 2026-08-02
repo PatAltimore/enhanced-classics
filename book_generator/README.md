@@ -103,7 +103,14 @@ python generator.py --book walden --chapter 6 --force
 
 # Generate without updating catalog.json
 python generator.py --no-catalog-sync
+
+# Generate without image_url/image_caption fields on enhancement cards
+python generator.py --no-images
 ```
+
+`--no-images` omits the `image_url`/`image_caption` lines entirely rather than leaving them
+empty, so `find_images.py` (which matches on those empty lines) will skip the chapter — use
+this for books you never want illustrated.
 
 ### find_images.py
 
