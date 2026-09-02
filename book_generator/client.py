@@ -23,6 +23,8 @@ console = Console()
 # key_var     : env var holding the API key
 _MODEL_CONFIGS = {
     "gpt-4o":                       ("aoai",    "AZURE_OPENAI_ENDPOINT",  "AZURE_OPENAI_KEY"),
+    "gpt-5.6-luna":                 ("aoai",    "AZURE_OPENAI_ENDPOINT",  "AZURE_OPENAI_KEY"),
+    "o4-mini":                      ("aoai",    "AZURE_OPENAI_ENDPOINT",  "AZURE_OPENAI_KEY"),
 
     "Llama-3.3-70B-Instruct":        ("foundry", "AZURE_LLAMA_ENDPOINT",   "AZURE_LLAMA_KEY"),
     "Mistral-Large-3":              ("foundry", "AZURE_MISTRAL_ENDPOINT",  "AZURE_MISTRAL_KEY"),

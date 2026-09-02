@@ -19,8 +19,11 @@ Results are written to `public/books/` and `catalog.json` is updated automatical
 
 - Python 3.11+
 - Azure AI Foundry project with the following models deployed:
-  - **Azure OpenAI**: `gpt-4o`
-  - **Serverless (Model Catalog)**: `Llama-3.3-70B-Instruct`, `Mistral-Large-3`, `Phi-4`
+  - **Azure OpenAI**: `gpt-4o`, `gpt-5.6-luna`, `o4-mini` (the active model chain — see
+    [Changing the model chain](#changing-the-model-chain))
+  - **Serverless (Model Catalog), optional**: `Llama-3.3-70B-Instruct`, `Mistral-Large-3`, `Phi-4`
+    — supported by `client.py` but not in the default chain; add them back to
+    `config/books.yaml` if you want to use them
 
 ## Setup
 
@@ -33,11 +36,14 @@ cp .env.example .env
 Edit `.env` with your Azure credentials:
 
 ```env
-# Azure OpenAI resource (gpt-4o)
+# Azure OpenAI resource — shared by gpt-4o, gpt-5.6-luna, and o4-mini (each is a
+# separate deployment name in this same resource)
 AZURE_OPENAI_ENDPOINT=https://your-resource.openai.azure.com
 AZURE_OPENAI_KEY=your-key
 
-# Azure AI Foundry unified endpoint — all three serverless models share this URL
+# Azure AI Foundry unified endpoint — optional, only needed if you add the
+# serverless Model Catalog fallbacks (Llama-3.3-70B-Instruct, Mistral-Large-3,
+# Phi-4) back into config/books.yaml. All three share this URL.
 AZURE_LLAMA_ENDPOINT=https://your-project.services.ai.azure.com/models/chat/completions?api-version=2024-05-01-preview
 AZURE_LLAMA_KEY=your-foundry-project-key
 
@@ -49,8 +55,9 @@ AZURE_PHI4_KEY=your-foundry-project-key
 ```
 
 Endpoint URLs and keys are found in **Azure AI Foundry → your project → Models + endpoints**.
-The `AZURE_OPENAI_KEY` comes from the Azure OpenAI resource; the Foundry keys come from the
-Foundry project (**Settings → API keys**) — these are different values.
+The `AZURE_OPENAI_KEY` comes from the Azure OpenAI resource (covers all three active models);
+the Foundry keys come from the Foundry project (**Settings → API keys**) and are only needed
+for the optional serverless fallbacks — these are different values.
 
 ## Usage
 
@@ -200,9 +207,8 @@ errors. To change the chain, edit `config/books.yaml`:
 models:
   primary: "gpt-4o"
   fallback:
-    - "Phi-4"
-    - "Llama-3.3-70B-Instruct"
-    - "Mistral-Large-3"
+    - "gpt-5.6-luna"
+    - "o4-mini"
 ```
 
 To add a new model, also add it to `_MODEL_CONFIGS` in `client.py` with the endpoint kind
