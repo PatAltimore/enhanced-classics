@@ -13,6 +13,9 @@ available, or AI-generated prose as a fallback. The pipeline:
 3. **`find_images.py`** — fetches Wikimedia images for enhancement cards.
 4. **`verify_chapters.py`** — confirms each generated markdown body matches its source text.
 
+> **No Azure/Foundry?** Claude Code can do the annotation step itself — see
+> [CLAUDE_WORKFLOW.md](CLAUDE_WORKFLOW.md) (`/add-book`, helper: `cc_chapter.py`).
+
 Results are written to `public/books/` and `catalog.json` is updated automatically.
 
 ## Prerequisites

@@ -195,7 +195,12 @@ def make_windows(text: str) -> list[str]:
     """Split text into annotation windows using the same parameters as build_phrase_prompt."""
     word_count = len(text.split())
     n = max(_MIN_WINDOWS, min(_MAX_WINDOWS, word_count // _WORDS_PER_WINDOW))
-    return _split_text(text, n)
+    windows = _split_text(text, n)
+    # A tiny trailing window (e.g. a single closing line) can't support a good card.
+    if len(windows) > 1 and len(windows[-1].split()) < word_count / n / 4:
+        last = windows.pop()
+        windows[-1] = windows[-1] + "\n\n" + last
+    return windows
 
 
 def build_phrase_prompt(book: dict, chapter: dict, text: str) -> list[dict]:

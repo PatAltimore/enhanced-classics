@@ -2,3 +2,4 @@
 icon-gen/
 book_generator/.env
 **/__pycache__/
+book_generator/work/

@@ -130,6 +130,185 @@
       ]
     },
     {
+      "slug": "inferno",
+      "title": "Inferno",
+      "author": "Dante Alighieri",
+      "year": 1320,
+      "description": "Dante Alighieri's epic journey through the nine circles of Hell, guided by the Roman poet Virgil, as the pilgrim Dante descends toward Satan at the frozen centre of the universe.\n",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The Dark Wood",
+          "slug": "chapter-01-the-dark-wood"
+        },
+        {
+          "number": 2,
+          "title": "Virgil's Promise",
+          "slug": "chapter-02-virgils-promise"
+        },
+        {
+          "number": 3,
+          "title": "The Gate of Hell",
+          "slug": "chapter-03-the-gate-of-hell"
+        },
+        {
+          "number": 4,
+          "title": "Limbo",
+          "slug": "chapter-04-limbo"
+        },
+        {
+          "number": 5,
+          "title": "The Lustful",
+          "slug": "chapter-05-the-lustful"
+        },
+        {
+          "number": 6,
+          "title": "The Gluttons",
+          "slug": "chapter-06-the-gluttons"
+        },
+        {
+          "number": 7,
+          "title": "The Hoarders and the Wasters",
+          "slug": "chapter-07-the-hoarders-and-the-wasters"
+        },
+        {
+          "number": 8,
+          "title": "The River Styx",
+          "slug": "chapter-08-the-river-styx"
+        },
+        {
+          "number": 9,
+          "title": "The City of Dis",
+          "slug": "chapter-09-the-city-of-dis"
+        },
+        {
+          "number": 10,
+          "title": "The Heretics",
+          "slug": "chapter-10-the-heretics"
+        },
+        {
+          "number": 11,
+          "title": "The Order of Hell",
+          "slug": "chapter-11-the-order-of-hell"
+        },
+        {
+          "number": 12,
+          "title": "The River of Blood",
+          "slug": "chapter-12-the-river-of-blood"
+        },
+        {
+          "number": 13,
+          "title": "The Wood of the Suicides",
+          "slug": "chapter-13-the-wood-of-the-suicides"
+        },
+        {
+          "number": 14,
+          "title": "The Burning Sand",
+          "slug": "chapter-14-the-burning-sand"
+        },
+        {
+          "number": 15,
+          "title": "Brunetto Latini",
+          "slug": "chapter-15-brunetto-latini"
+        },
+        {
+          "number": 16,
+          "title": "The Edge of the Abyss",
+          "slug": "chapter-16-the-edge-of-the-abyss"
+        },
+        {
+          "number": 17,
+          "title": "Geryon",
+          "slug": "chapter-17-geryon"
+        },
+        {
+          "number": 18,
+          "title": "The Pits of Malebolge",
+          "slug": "chapter-18-the-pits-of-malebolge"
+        },
+        {
+          "number": 19,
+          "title": "The Simoniacs",
+          "slug": "chapter-19-the-simoniacs"
+        },
+        {
+          "number": 20,
+          "title": "The Diviners",
+          "slug": "chapter-20-the-diviners"
+        },
+        {
+          "number": 21,
+          "title": "The Grafters",
+          "slug": "chapter-21-the-grafters"
+        },
+        {
+          "number": 22,
+          "title": "The Devils' Trick",
+          "slug": "chapter-22-the-devils-trick"
+        },
+        {
+          "number": 23,
+          "title": "The Hypocrites",
+          "slug": "chapter-23-the-hypocrites"
+        },
+        {
+          "number": 24,
+          "title": "The Thieves",
+          "slug": "chapter-24-the-thieves"
+        },
+        {
+          "number": 25,
+          "title": "Serpents and Men",
+          "slug": "chapter-25-serpents-and-men"
+        },
+        {
+          "number": 26,
+          "title": "The Last Voyage of Ulysses",
+          "slug": "chapter-26-the-last-voyage-of-ulysses"
+        },
+        {
+          "number": 27,
+          "title": "Guido da Montefeltro",
+          "slug": "chapter-27-guido-da-montefeltro"
+        },
+        {
+          "number": 28,
+          "title": "The Sowers of Discord",
+          "slug": "chapter-28-the-sowers-of-discord"
+        },
+        {
+          "number": 29,
+          "title": "The Falsifiers",
+          "slug": "chapter-29-the-falsifiers"
+        },
+        {
+          "number": 30,
+          "title": "Alchemists and Impostors",
+          "slug": "chapter-30-alchemists-and-impostors"
+        },
+        {
+          "number": 31,
+          "title": "The Giants",
+          "slug": "chapter-31-the-giants"
+        },
+        {
+          "number": 32,
+          "title": "The Frozen Lake",
+          "slug": "chapter-32-the-frozen-lake"
+        },
+        {
+          "number": 33,
+          "title": "Count Ugolino",
+          "slug": "chapter-33-count-ugolino"
+        },
+        {
+          "number": 34,
+          "title": "Satan",
+          "slug": "chapter-34-satan"
+        }
+      ]
+    },
+    {
       "slug": "hamlet",
       "title": "Hamlet",
       "author": "William Shakespeare",
