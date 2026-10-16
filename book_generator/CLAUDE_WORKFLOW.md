@@ -72,6 +72,9 @@ Rules (enforced by `assemble`, which refuses to write on any ERROR):
   Check `public/books/odyssey` or `walden` for the tone. Titles are curiosity-driven, 6-10 words
   (see `_ENH_SYSTEM` in `prompts.py`). Never end with "This underscores / highlights / reflects /
   reinforces / aligns with / exemplifies...". Do not quote the passage at length.
+- **Long chapters**: for a book whose chapters run well over ~2,500 words, add `words_per_window: 400` (or
+  more) to its `config/books.yaml` entry; `cc_chapter.py` then uses bigger windows so a chapter doesn't
+  get dozens of cards. The default is 250.
 - **Density check**: other books run at a card:body word ratio of ~0.2-0.45. If a chapter's cards
   outweigh its text, there are too many or they are too long.
 - Only use Wikipedia URLs you are confident exist.

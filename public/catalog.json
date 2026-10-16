@@ -348,6 +348,65 @@
       ]
     },
     {
+      "slug": "paradise-lost",
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "year": 1667,
+      "description": "John Milton's epic in blank verse on the fall of Satan and of Adam and Eve, which sets out to justify the ways of God to men.\n",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Hell and the Fallen Angels",
+          "slug": "chapter-01-hell-and-the-fallen-angels"
+        },
+        {
+          "number": 2,
+          "title": "The Council in Hell",
+          "slug": "chapter-02-the-council-in-hell"
+        },
+        {
+          "number": 3,
+          "title": "Heaven and the Son's Offer",
+          "slug": "chapter-03-heaven-and-the-sons-offer"
+        },
+        {
+          "number": 4,
+          "title": "Satan in Eden",
+          "slug": "chapter-04-satan-in-eden"
+        },
+        {
+          "number": 5,
+          "title": "Raphael Visits Adam",
+          "slug": "chapter-05-raphael-visits-adam"
+        },
+        {
+          "number": 6,
+          "title": "The War in Heaven",
+          "slug": "chapter-06-the-war-in-heaven"
+        },
+        {
+          "number": 7,
+          "title": "Creation and Adam's Questions",
+          "slug": "chapter-07-creation-and-adams-questions"
+        },
+        {
+          "number": 8,
+          "title": "The Fall of Man",
+          "slug": "chapter-08-the-fall-of-man"
+        },
+        {
+          "number": 9,
+          "title": "Judgement, Sin and Death",
+          "slug": "chapter-09-judgement-sin-and-death"
+        },
+        {
+          "number": 10,
+          "title": "Repentance and Exile",
+          "slug": "chapter-10-repentance-and-exile"
+        }
+      ]
+    },
+    {
       "slug": "walden",
       "title": "Walden",
       "author": "Henry David Thoreau",

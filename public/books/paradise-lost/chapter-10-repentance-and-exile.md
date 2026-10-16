@@ -1,0 +1,1850 @@
+---
+title: "Paradise Lost"
+author: "John Milton"
+year: 1667
+chapter: 10
+chapter_title: "Repentance and Exile"
+slug: "chapter-10-repentance-and-exile"
+book_slug: "paradise-lost"
+license: "public-domain"
+
+summary:
+  - point: "Repentant, Adam and Eve pray, and the Son presents their prayers to God, who decrees their expulsion and sends Michael to drive them out."
+    link: "https://en.wikipedia.org/wiki/Prevenient_grace"
+    link_label: "Prevenient grace"
+  - point: "Michael tells Adam that he must leave Paradise but that God is everywhere, and takes him to a high hill to see the future."
+    link: "https://en.wikipedia.org/wiki/Omnipresence"
+    link_label: "Omnipresence"
+  - point: "Adam sees Cain kill Abel, the sick in a lazar-house, the tents of Cain's descendants, the wars of the giants and the Flood."
+    link: "https://en.wikipedia.org/wiki/Cain_and_Abel"
+    link_label: "Cain and Abel"
+  - point: "Michael recounts Noah, Nimrod and the tower of Babel, Abraham, the plagues of Egypt, the Law, the kings and the exile in Babylon."
+    link: "https://en.wikipedia.org/wiki/Nimrod"
+    link_label: "Nimrod"
+  - point: "He foretells Christ's birth, death and resurrection, and the corruption of the church by 'grievous Wolves'."
+    link: "https://en.wikipedia.org/wiki/Felix_culpa"
+    link_label: "Felix culpa"
+  - point: "Adam accepts his lesson that wisdom is obedience and love, and the pair leave Eden hand in hand, with the world before them."
+    link: "https://en.wikipedia.org/wiki/Paradise_Lost"
+    link_label: "Paradise Lost"
+
+enhancements:
+  - id: "prevenient-grace"
+    trigger: "Prevenient Grace"
+    title: "The Grace That Arrives Before Repentance"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Prevenient_grace"
+    image_url: ""
+    image_caption: ""
+    content: "Book X opens with Adam and Eve repentant because 'Prevenient Grace descending had remov'd the stonie from thir hearts, and made new flesh regenerat grow instead'. Prevenient grace is the Arminian doctrine, central to Milton, that God's grace comes before any human turning to him, so repentance is both gift and choice. The stony heart replaced by flesh is from Ezekiel 36:26, and the sighs 'unutterable' from Romans 8:26, where the Spirit prays for those who cannot. The Son presents them to the Father as 'first fruits'."
+  - id: "like-one-of-us-man-is-become"
+    trigger: "like one of us Man is become"
+    title: "'Like One of Us': God's Ironic Verdict"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tree_of_life"
+    image_url: ""
+    image_caption: ""
+    content: "God announces: 'O Sons, like one of us Man is become to know both Good and Evil'. The sentence echoes Genesis 3:22, 'Behold, the man is become as one of us', which God says with sorrow rather than triumph. Milton changes the audience to the angels, 'Sons', and adds a bitter wit: 'let him boast his knowledge of Good lost, and Evil got'. The reason for expulsion follows: lest Adam 'eat of the Tree of Life, and live for ever'. Immortality in a fallen state would be a punishment, which is why death becomes, as God says, 'his final remedie'."
+  - id: "became-thy-snare"
+    trigger: "became thy snare"
+    title: "The Name Adam Gave Eve After the Fall"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eve"
+    image_url: ""
+    image_caption: ""
+    content: "After their prayers Adam hails Eve as 'Mother of all Mankind, Mother of all things living', echoing Genesis 3:20: 'Adam called his wife's name Eve; because she was the mother of all living.' Eve, in Hebrew Havvah, sounds like the word for life. Milton makes the renaming an act of hope, drawn from the promise of the Seed that will bruise the Serpent. Eve answers 'with sad demeanour meek' that the title cannot belong to one who 'for thee ordaind a help, became thy snare', and that her pardon is grace. She accepts a name she did not earn."
+  - id: "meliboean"
+    trigger: "Meliboean"
+    title: "The Purple Dye Michael Wears"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tyrian_purple"
+    image_url: ""
+    image_caption: ""
+    content: "Michael arrives as a man in armour with 'a militarie Vest of purple', dyed 'livelier then Meliboean, or the graine of Sarra, worn by Kings and Hero's old in time of Truce'. Meliboea in Thessaly was famed for purple, and Sarra is Tyre, source of Tyrian purple from the murex shellfish, the most expensive dye in the ancient world, reserved for rulers. Milton's comparison makes the archangel royal but peaceful, 'in time of Truce', and ready for a sorrowful task. He adds that Iris, the rainbow goddess, 'had dipt the wooff', foreshadowing the covenant rainbow later in the book."
+  - id: "not-this-rock-onely"
+    trigger: "Not this Rock onely"
+    title: "God Is Not Confined to Paradise"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Omnipresence"
+    image_url: ""
+    image_caption: ""
+    content: "Adam grieves that leaving means losing God's presence, and says he would build altars 'in memorie' where he met him. Michael answers: 'Not this Rock onely; his Omnipresence fills Land, Sea, and Aire.' It is a Protestant lesson, close to Milton's own rejection of sacred places and priestly buildings, and it is also consoling: 'in Vallie and in Plaine God is as here'. Michael adds that Paradise might have been Adam's 'Capital Seate', from which all generations spread. Adam loses the garden but not God, and Milton makes that the first lesson of exile."
+  - id: "el-dorado"
+    trigger: "El Dorado"
+    title: "The World's Empires Seen from Eden's Hill"
+    wikipedia_url: "https://en.wikipedia.org/wiki/El_Dorado"
+    image_url: ""
+    image_caption: ""
+    content: "To prepare Adam's vision, Milton surveys the globe from Paradise's highest hill, naming Cambalu, Samarkand, Peking, Agra, Ispahan, Moscow, Constantinople, Mexico, Cusco and finally Guiana, 'whose great Citie Geryons Sons call El Dorado'. The catalogue combines ancient capitals with places known from the travel books Milton read, including Raleigh's account of Guiana and its fabled city of gold. 'Geryons Sons' means the Spaniards, descended in myth from the king Geryon of Spain. The survey echoes Satan's temptation of Christ with the kingdoms of the world, which Milton mentions just before."
+  - id: "but-have-i-now-seen-death"
+    trigger: "But have I now seen Death"
+    title: "The First Death Adam Ever Saw"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cain_and_Abel"
+    image_url: ""
+    image_caption: ""
+    content: "Michael shows the murder of Abel by Cain, and Adam asks 'But have I now seen Death? Is this the way I must return to native dust?' It is his first sight of death, and Michael says that Death comes in 'many shapes' but is 'more terrible at th' entrance then within'. He then reveals a lazar-house of the sick, where 'triumphant Death his Dart shook, but delaid to strike, though oft invok't'. Milton ties disease to intemperance, 'th' inabstinence of Eve', and offers moderation as a way to a death like 'ripe Fruit'."
+  - id: "resonant-fugue"
+    trigger: "resonant fugue"
+    title: "A Fugue Before Bach Was Born"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fugue"
+    image_url: ""
+    image_caption: ""
+    content: "In the tents of Cain's descendants Adam sees a musician whose 'volant touch... fled and pursu'd transverse the resonant fugue'. The inventor is Jubal, 'father of all such as handle the harp and organ' in Genesis 4:21, and Milton, son of a composer and himself an organist, describes the playing with technical accuracy: a fugue is music in which voices chase one another. Nearby a smith melts iron and brass, Tubal-cain. The scene shows Milton's ambivalence: the arts of civilisation are splendid and come from the line of the murderer, so the 'Tents of wickedness' are also the tents of music."
+  - id: "fair-atheists"
+    trigger: "fair Atheists"
+    title: "The 'Sons of God' Who Fell for the Daughters of Men"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nephilim"
+    image_url: ""
+    image_caption: ""
+    content: "Michael explains the second scene: the sober men who came down from the hills, 'whose lives religious titl'd them the Sons of God', fall for the 'fair Atheists' of Cain's line. Genesis 6:2 says that the sons of God saw the daughters of men and took wives, a verse medieval writers read as fallen angels but that Milton, like many Protestants, reads as the godly line of Seth marrying out. The offspring, the Nephilim of Genesis, become 'Giants of mightie Bone'. Adam's reaction, 'from Woman to begin', and Michael's reply, 'from Mans effeminate slackness', balance the blame."
+  - id: "destroyers-rightlier-call-d-and-plagues-of-men"
+    trigger: "Destroyers rightlier call’d and Plagues of men"
+    title: "Milton's Verdict on Great Conquerors"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    image_url: ""
+    image_caption: ""
+    content: "After a vision of warfare, Michael says that men will call 'great Conquerours, Patrons of Mankind, Gods, and Sons of Gods' those who are 'Destroyers rightlier call'd and Plagues of men'. It reverses the epic tradition Milton inherited: Alexander, Caesar and the heroes of Homer are warnings, not models. 'What most merits fame in silence hid' suggests that goodness goes unnoticed. The righteous man, Enoch, 'daring single to be just', is taken up to heaven, and the Flood follows. The passage is Milton's last word on martial glory, and it undercuts the grandeur of the war in Heaven."
+  - id: "o-visions-ill-foreseen"
+    trigger: "O Visions ill foreseen"
+    title: "Adam's Complaint That Knowing the Future Is a Curse"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Genesis_flood_narrative"
+    image_url: ""
+    image_caption: ""
+    content: "After seeing the Flood destroy his descendants, Adam cries 'O Visions ill foreseen! better had I liv'd ignorant of future, so had borne my part of evil onely, each dayes lot anough to bear'. He fears that foreknowledge gives suffering 'Birth abortive' before its time. Michael answers not with comfort but with more history, showing that peace corrupts as war destroys, until 'one Man except, the onely Son of light in a dark Age' builds the Ark. The complaint turns on the old puzzle of foreknowledge, which the poem's theology tries to keep from becoming fate."
+  - id: "triple-colour-d-bow"
+    trigger: "triple-colour’d Bow"
+    title: "Milton's Three-Coloured Rainbow"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rainbow"
+    image_url: ""
+    image_caption: ""
+    content: "After the Flood Noah sees 'a Bow conspicuous with three lifted colours gay, betok'ning peace from God, and Cov'nant new', and Michael explains that God will set 'his triple-colour'd Bow' in the clouds as a reminder. Three colours reflect the older Aristotelian count of the rainbow, before Newton's prism experiments of 1666 made seven the standard. Adam asks if it is 'a flourie verge to binde the fluid skirts of that watrie Cloud', and Milton lets him guess the meaning before Michael confirms it. The sign marks the first post-Fall covenant with all creatures."
+  - id: "a-mightie-hunter"
+    trigger: "A mightie Hunter"
+    title: "Nimrod, the Tyrant Hunter of Men"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nimrod"
+    image_url: ""
+    image_caption: ""
+    content: "Michael describes Nimrod: 'a mightie Hunter thence he shall be styl'd before the Lord', who hunts 'Men not Beasts' and 'from Rebellion shall derive his name', though 'of Rebellion others he accuse'. Genesis 10:9 calls him a mighty hunter, and Milton makes him the first tyrant and the builder of Babel. Adam's reaction is political: 'Man over men he made not Lord; such title to himself reserving, human left from human free.' It is one of the poem's clearest statements of Milton's republicanism, written under a restored king, and an argument that rule over men has no divine warrant."
+  - id: "servant-of-servants"
+    trigger: "Servant of Servants"
+    title: "Why Milton Cites the Curse on Ham"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Curse_of_Ham"
+    image_url: ""
+    image_caption: ""
+    content: "Explaining why free nations sometimes lose their freedom, Michael cites 'th' irreverent Son of him who built the Ark', who 'heard this heavie curse, Servant of Servants, on his vitious Race'. The curse is Genesis 9:25, laid on Canaan after Ham's offence against Noah, and Europeans often used it to justify slavery. Milton does not use it that way: his argument is that those who 'permit within themselves unworthie Powers to reign over free Reason' will be 'subjected from without to violent Lords', which applies to nations rather than races. The passage shows a defence of liberty and an inherited biblical reading sitting together uneasily."
+  - id: "river-dragon"
+    trigger: "River-dragon"
+    title: "Pharaoh as a River-Dragon"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Plagues_of_Egypt"
+    image_url: ""
+    image_caption: ""
+    content: "Michael lists the ten plagues of Egypt and calls the king 'this River-dragon', who 'tam'd at length submits' but hardens 'still as Ice more hard'nd after thaw' until the Red Sea swallows him. The image comes from Ezekiel 29:3, where Pharaoh is 'the great dragon that lieth in the midst of his rivers'. Milton keeps the plagues in a swift list from blood to 'Palpable darkness' to the death of the firstborn, and sets Pharaoh beside Satan as another tyrant whose hardened heart serves God's purposes. The book of Exodus is compressed into a page without losing its shape."
+  - id: "law-can-discover-sin-but-not-remove"
+    trigger: "Law can discover sin, but not remove"
+    title: "Paul's Theology of the Law in Milton's Mouth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Epistle_to_the_Romans"
+    image_url: ""
+    image_caption: ""
+    content: "Adam asks why God gives a people so many laws, and Michael answers that 'Law can discover sin, but not remove, save by those shadowie expiations weak, the bloud of Bulls and Goats', so that people 'may conclude some bloud more precious must be paid for Man, just for unjust'. The reasoning follows Paul in Romans and Galatians, where the Law is a tutor leading to Christ, and moves 'from shadowie Types to Truth, from Flesh to Spirit, from servil fear to filial'. Milton was a Protestant, and his Michael sets faith against works."
+  - id: "eastern-sages"
+    trigger: "Eastern Sages"
+    title: "The Magi in Adam's Vision"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Biblical_Magi"
+    image_url: ""
+    image_caption: ""
+    content: "Reaching the Nativity, Michael says that a star 'unseen before in Heav'n proclaims him com, and guides the Eastern Sages, who enquire his place, to offer Incense, Myrrh, and Gold'. The Magi of Matthew 2 are given no names or numbers in the Gospel, and Milton calls them simply sages. He had written of the Nativity in his early ode 'On the Morning of Christ's Nativity', and Michael adds the shepherds and 'a Quire of squadrond Angels'. The gospel story is told in a few lines, as befits an epic wary of dwelling on Christ's earthly life."
+  - id: "defeating-sin-and-death-his-two-maine-armes"
+    trigger: "Defeating Sin and Death, his two maine armes"
+    title: "How the Poem Ties Christ's Victory to Book II"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Christus_Victor"
+    image_url: ""
+    image_caption: ""
+    content: "Michael describes the Crucifixion and Resurrection in terms of Satan's allies: Christ's 'God-like act annuls thy doom... this act shall bruise the head of Satan, crush his strength, defeating Sin and Death, his two maine armes'. Sin and Death are the figures who guarded Hell's gate in Book II and built the bridge in Book IX, so the poem's allegory comes to its answer. Michael insists that the victory is 'not by destroying Satan, but his works in thee', and compares death after the Cross to 'a gentle wafting to immortal Life'."
+  - id: "o-goodness-infinite-goodness-immense"
+    trigger: "O goodness infinite, goodness immense"
+    title: "The 'Happy Fault' Adam Cannot Decide About"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Felix_culpa"
+    image_url: ""
+    image_caption: ""
+    content: "Hearing the plan of redemption, Adam cries 'O goodness infinite, goodness immense! That all this good of evil shall produce, and evil turn to good', and doubts 'whether I should repent me now of sin... or rejoyce much more'. This is the idea of the felix culpa, the 'fortunate fall', from the Easter liturgy's 'O happy fault that earned so great a redeemer', attributed to Augustine and Ambrose. Milton gives Adam the thought but leaves it unresolved, since a poem that explains why evil exists cannot easily make it good. Michael's later warning about 'grievous Wolves' in the Church tempers the joy."
+  - id: "paradise-within-thee"
+    trigger: "Paradise within thee"
+    title: "Michael's Last Lesson: Wisdom Is Deeds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Charity_(virtue)"
+    image_url: ""
+    image_caption: ""
+    content: "Adam concludes that 'to obey is best' and that 'suffering for Truths sake is fortitude to highest victorie'. Michael tells him this is 'the summe of wisdom', and that even knowing all the stars is nothing without deeds: 'add Faith, add Vertue, Patience, Temperance, add Love, by name to come call'd Charitie, the soul of all the rest', and then 'thou shalt possess a Paradise within thee, happier farr'. The list echoes 2 Peter 1, and it replaces Raphael's warnings against knowing too much with a positive account of virtue."
+  - id: "the-world-was-all-before-them"
+    trigger: "The World was all before them"
+    title: "The Last Lines, Open-Ended on Purpose"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Paradise_Lost"
+    image_url: ""
+    image_caption: ""
+    content: "The poem ends: 'Som natural tears they drop'd, but wip'd them soon; the World was all before them, where to choose thir place of rest, and Providence thir guide: they hand in hand with wandring steps and slow, through Eden took thir solitarie way.' The tone is subdued, unlike Genesis's curse, and it leaves them hand in hand, with 'Providence thir guide' and a free choice of where to settle. Many readers hear a gentle triumph in the verb 'choose', since the poem's central freedom is now applied to the whole earth, and the weeping is natural and brief."
+---
+Thus they in lowliest plight repentant stood
+Praying, for from the Mercie-seat above
+**Prevenient Grace** descending had remov’d
+The stonie from thir hearts, and made new flesh
+Regenerat grow instead, that sighs now breath’d
+Unutterable, which the Spirit of prayer
+Inspir’d, and wing’d for Heav’n with speedier flight
+Then loudest Oratorie: yet thir port
+Not of mean suiters, nor important less
+Seem’d thir Petition, then when th’ ancient Pair
+In Fables old, less ancient yet then these,
+_Deucalion_ and chaste _Pyrrha_ to restore
+The Race of Mankind drownd, before the Shrine
+Of _Themis_ stood devout.  To Heav’n thir prayers
+
+Flew up, nor missed the way, by envious windes
+Blow’n vagabond or frustrate: in they passd
+Dimentionless through Heav’nly dores; then clad
+With incense, where the Golden Altar fum’d,
+By thir great Intercessor, came in sight
+Before the Fathers Throne: Them the glad Son
+Presenting, thus to intercede began.
+See Father, what first fruits on Earth are sprung
+From thy implanted Grace in Man, these Sighs
+And Prayers, which in this Golden Censer, mixt
+With Incense, I thy Priest before thee bring,
+Fruits of more pleasing savour from thy seed
+Sow’n with contrition in his heart, then those
+Which his own hand manuring all the Trees
+
+Of Paradise could have produc’t, ere fall’n
+From innocence.  Now therefore bend thine eare
+To supplication, heare his sighs though mute;
+Unskilful with what words to pray, let mee
+Interpret for him, mee his Advocate
+And propitiation, all his works on mee
+Good or not good ingraft, my Merit those
+Shall perfet, and for these my Death shall pay.
+
+Accept me, and in mee from these receave
+The smell of peace toward Mankinde, let him live
+Before thee reconcil’d, at least his days
+Numberd, though sad, till Death, his doom (which I
+To mitigate thus plead, not to reverse)
+To better life shall yeeld him, where with mee
+All my redeemd may dwell in joy and bliss,
+Made one with me as I with thee am one.
+
+To whom the Father, without Cloud, serene.
+All thy request for Man, accepted Son,
+Obtain, all thy request was my Decree:
+But longer in that Paradise to dwell,
+The Law I gave to Nature him forbids:
+Those pure immortal Elements that know
+No gross, no unharmoneous mixture foule,
+Eject him tainted now, and purge him off
+As a distemper, gross to aire as gross,
+And mortal food, as may dispose him best
+For dissolution wrought by Sin, that first
+Distemperd all things, and of incorrupt
+Corrupted.  I at first with two fair gifts
+Created him endowd, with Happiness
+
+And Immortalitie: that fondly lost,
+This other serv’d but to eternize woe;
+Till I provided Death; so Death becomes
+His final remedie, and after Life
+Tri’d in sharp tribulation, and refin’d
+By Faith and faithful works, to second Life,
+Wak’t in the renovation of the just,
+Resignes him up with Heav’n and Earth renewd.
+
+But let us call to Synod all the Blest
+Through Heav’ns wide bounds; from them I will not hide
+My judgments, how with Mankind I proceed,
+As how with peccant Angels late they saw;
+And in thir state, though firm, stood more confirmd.
+He ended, and the Son gave signal high
+To the bright Minister that watchd, hee blew
+His Trumpet, heard in _Oreb_ since perhaps
+When God descended, and perhaps once more
+To sound at general Doom.  Th’ Angelic blast
+Filld all the Regions: from thir blissful Bowrs
+Of _Amarantin_ Shade, Fountain or Spring,
+By the waters of Life, where ere they sate
+In fellowships of joy: the Sons of Light
+
+Hasted, resorting to the Summons high,
+And took thir Seats; till from his Throne supream
+Th’ Almighty thus pronounced his sovran Will.
+O Sons, **like one of us Man is become**
+To know both Good and Evil, since his taste
+Of that defended Fruit; but let him boast
+His knowledge of Good lost, and Evil got,
+Happier, had it suffic’d him to have known
+Good by it self, and Evil not at all.
+
+He sorrows now, repents, and prayes contrite,
+My motions in him, longer then they move,
+His heart I know, how variable and vain
+Self-left.  Least therefore his now bolder hand
+Reach also of the Tree of Life, and eat,
+And live for ever, dream at least to live
+Forever, to remove him I decree,
+And send him from the Garden forth to Till
+The Ground whence he was taken, fitter soile.
+
+_Michael_, this my behest have thou in charge,
+Take to thee from among the Cherubim
+Thy choice of flaming Warriours, least the Fiend
+Or in behalf of Man, or to invade
+Vacant possession som new trouble raise:
+Hast thee, and from the Paradise of God
+Without remorse drive out the sinful Pair,
+From hallowd ground th’ unholie, and denounce
+To them and to thir Progenie from thence
+Perpetual banishment.  Yet least they faint
+At the sad Sentence rigorously urg’d,
+For I behold them soft’nd and with tears
+Bewailing thir excess, all terror hide.
+
+If patiently thy bidding they obey,
+Dismiss them not disconsolate; reveale
+To _Adam_ what shall come in future dayes,
+As I shall thee enlighten, intermix
+My Cov’nant in the Womans seed renewd;
+So send them forth, though sorrowing, yet in peace:
+And on the East side of the Garden place,
+Where entrance up from _Eden_ easiest climbes,
+Cherubic watch, and of a Sword the flame
+Wide waving, all approach farr off to fright,
+And guard all passage to the Tree of Life:
+
+Least Paradise a receptacle prove
+To Spirits foule, and all my Trees thir prey,
+With whose stol’n Fruit Man once more to delude.
+He ceas’d; and th’ Archangelic Power prepar’d
+For swift descent, with him the Cohort bright
+Of watchful Cherubim; four faces each
+Had, like a double _Janus_, all thir shape
+Spangl’d with eyes more numerous then those
+Of _Argus_, and more wakeful then to drouze,
+Charm’d with _Arcadian_ Pipe, the Pastoral Reed
+Of _Hermes_, or his opiate Rod.  Meanwhile
+To resalute the World with sacred Light
+_Leucothea_ wak’d, and with fresh dews imbalmd
+The Earth, when _Adam_ and first Matron _Eve_
+
+Had ended now thir Orisons, and found,
+Strength added from above, new hope to spring
+Out of despaire, joy, but with fear yet linkt;
+Which thus to _Eve_ his welcome words renewd.
+_Eve_, easily may Faith admit, that all
+The good which we enjoy, from Heav’n descends
+But that from us ought should ascend to Heav’n
+So prevalent as to concerne the mind
+Of God high blest, or to incline his will,
+Hard to belief may seem; yet this will Prayer,
+Or one short sigh of humane breath, up-borne
+Ev’n to the Seat of God.  For since I saught
+By Prayer th’ offended Deitie to appease,
+Kneel’d and before him humbl’d all my heart,
+
+Methought I saw him placable and mild,
+Bending his eare; perswasion in me grew
+That I was heard with favour; peace returnd
+Home to my brest, and to my memorie
+His promise, that thy Seed shall bruise our Foe;
+Which then not minded in dismay, yet now
+Assures me that the bitterness of death
+Is past, and we shall live.  Whence Haile to thee,
+_Eve_ rightly call’d, Mother of all Mankind,
+Mother of all things living, since by thee
+Man is to live, and all things live for Man.
+
+To whom thus _Eve_ with sad demeanour meek.
+Ill worthie I such title should belong
+To me transgressour, who for thee ordaind
+A help, **became thy snare**; to mee reproach
+Rather belongs, distrust and all dispraise:
+But infinite in pardon was my Judge,
+That I who first brought Death on all, am grac’t
+The sourse of life; next favourable thou,
+Who highly thus to entitle me voutsaf’t,
+Farr other name deserving.  But the Field
+To labour calls us now with sweat impos’d,
+Though after sleepless Night; for see the Morn,
+All unconcern’d with our unrest, begins
+Her rosie progress smiling; let us forth,
+
+I never from thy side henceforth to stray,
+Wherere our days work lies, though now enjoind
+Laborious, till day droop; while here we dwell,
+What can be toilsom in these pleasant Walkes?
+Here let us live, though in fall’n state, content.
+So spake, so wish’d much-humbl’d _Eve_, but Fate
+Subscrib’d not; Nature first gave Signs, imprest
+On Bird, Beast, Aire, Aire suddenly eclips’d
+After short blush of Morn; nigh in her sight
+The Bird of _Jove_, stoopt from his aerie tour,
+Two Birds of gayest plume before him drove:
+
+Down from a Hill the Beast that reigns in Woods,
+First Hunter then, pursu’d a gentle brace,
+Goodliest of all the Forrest, Hart and Hinde;
+Direct to th’ Eastern Gate was bent thir flight.
+_Adam_ observ’d, and with his Eye the chase
+Pursuing, not unmov’d to _Eve_ thus spake.
+O _Eve_, some furder change awaits us nigh,
+Which Heav’n by these mute signs in Nature shews
+Forerunners of his purpose, or to warn
+Us haply too secure of our discharge
+From penaltie, because from death releast
+Some days; how long, and what till then our life,
+Who knows, or more then this, that we are dust,
+And thither must return and be no more.
+
+VVhy else this double object in our sight
+Of flight pursu’d in th’ Air and ore the ground
+One way the self-same hour? why in the East
+Darkness ere Dayes mid-course, and Morning light
+More orient in yon VVestern Cloud that draws
+O’re the blew Firmament a radiant white,
+And slow descends, with somthing heav’nly fraught.
+He err’d not, for by this the heav’nly Bands
+Down from a Skie of Jasper lighted now
+In Paradise, and on a Hill made alt,
+A glorious Apparition, had not doubt
+And carnal fear that day dimm’d _Adams_ eye.
+
+Not that more glorious, when the Angels met
+_Jacob_ in _Mahanaim_, where he saw
+The field Pavilion’d with his Guardians bright;
+Nor that which on the flaming Mount appeerd
+In _Dothan_, cover’d with a Camp of Fire,
+Against the _Syrian_ King, who to surprize
+One man, Assassin-like had levied Warr,
+Warr unproclam’d.  The Princely Hierarch
+In thir bright stand, there left his Powers to seise
+Possession of the Garden; hee alone,
+To finde where _Adam_ shelterd, took his way,
+Not unperceav’d of _Adam_, who to _Eve_,
+While the great Visitant approachd, thus spake.
+
+_Eve_, now expect great tidings, which perhaps
+Of us will soon determin, or impose
+New Laws to be observ’d; for I descrie
+From yonder blazing Cloud that veils the Hill
+One of the heav’nly Host, and by his Gate
+None of the meanest, some great Potentate
+Or of the Thrones above, such Majestie
+Invests him coming; yet not terrible,
+That I should fear, nor sociably mild,
+As _Raphael_, that I should much confide,
+But solemn and sublime, whom not to offend,
+With reverence I must meet, and thou retire.
+
+He ended; and th’ Arch-Angel soon drew nigh,
+Not in his shape Celestial, but as Man
+Clad to meet Man; over his lucid Armes
+A militarie Vest of purple flowd
+Livelier then _**Meliboean**_, or the graine
+Of _Sarra_, worn by Kings and Hero’s old
+In time of Truce; _Iris_ had dipt the wooff;
+His starrie Helme unbuckl’d shew’d him prime
+In Manhood where Youth ended; by his side
+As in a glistering _Zodiac_ hung the Sword,
+Satans dire dread, and in his hand the Spear.
+
+_Adam_ bowd low, hee Kingly from his State
+Inclin’d not, but his coming thus declar’d.
+_Adam_, Heav’ns high behest no Preface needs:
+Sufficient that thy Prayers are heard, and Death,
+Then due by sentence when thou didst transgress,
+Defeated of his seisure many dayes
+Giv’n thee of Grace, wherein thou may’st repent,
+And one bad act with many deeds well done
+Mayst cover: well may then thy Lord appeas’d
+Redeem thee quite from Deaths rapacious claimes;
+But longer in this Paradise to dwell
+Permits not; to remove thee I am come,
+And send thee from the Garden forth to till
+The ground whence thou wast tak’n, fitter Soile.
+
+He added not, for _Adam_ at the newes
+Heart-strook with chilling gripe of sorrow stood,
+That all his senses bound; _Eve_, who unseen
+Yet all had heard, with audible lament
+Discover’d soon the place of her retire.
+O unexpected stroke, worse then of Death!
+Must I thus leave thee Paradise? thus leave
+Thee Native Soile, these happie Walks and Shades,
+Fit haunt of Gods? where I had hope to spend,
+Quiet though sad, the respit of that day
+That must be mortal to us both.  O flours,
+That never will in other Climate grow,
+My early visitation, and my last
+At Eev’n, which I bred up with tender hand
+
+From the first op’ning bud, and gave ye Names,
+Who now shall reare ye to the Sun, or ranke
+Your Tribes, and water from th’ ambrosial Fount?
+Thee lastly nuptial Bowre, by mee adornd
+With what to sight or smell was sweet; from thee
+How shall I part, and whither wander down
+Into a lower World, to this obscure
+And wilde, how shall we breath in other Aire
+Less pure, accustomd to immortal Fruits?
+
+Whom thus the Angel interrupted milde.
+Lament not _Eve_, but patiently resigne
+What justly thou hast lost; nor set thy heart,
+Thus over fond, on that which is not thine;
+Thy going is not lonely, with thee goes
+Thy Husband, him to follow thou art bound;
+Where he abides, think there thy native soile.
+_Adam_ by this from the cold sudden damp
+Recovering, and his scatterd spirits returnd,
+To _Michael_ thus his humble words addressd.
+
+Celestial, whether among the Thrones, or nam’d
+Of them the Highest, for such of shape may seem
+Prince above Princes, gently hast thou tould
+Thy message, which might else in telling wound,
+And in performing end us; what besides
+Of sorrow and dejection and despair
+Our frailtie can sustain, thy tidings bring,
+Departure from this happy place, our sweet
+Recess, and onely consolation left
+Familiar to our eyes, all places else
+Inhospitable appeer and desolate,
+Nor knowing us nor known: and if by prayer
+Incessant I could hope to change the will
+Of him who all things can, I would not cease
+
+To wearie him with my assiduous cries:
+But prayer against his absolute Decree
+No more availes then breath against the winde,
+Blown stifling back on him that breaths it forth:
+Therefore to his great bidding I submit.
+This most afflicts me, that departing hence,
+As from his face I shall be hid, deprivd
+His blessed count’nance; here I could frequent,
+With worship, place by place where he voutsaf’d
+Presence Divine, and to my Sons relate;
+On this Mount he appeerd, under this Tree
+Stood visible, among these Pines his voice
+I heard, here with him at this Fountain talk’d:
+
+So many grateful Altars I would reare
+Of grassie Terfe, and pile up every Stone
+Of lustre from the brook, in memorie,
+Or monument to Ages, and thereon
+Offer sweet smelling Gumms & Fruits and Flours:
+In yonder nether World where shall I seek
+His bright appearances, or footstep trace?
+For though I fled him angrie, yet recall’d
+To life prolongd and promisd Race, I now
+Gladly behold though but his utmost skirts
+Of glory, and farr off his steps adore.
+
+To whom thus _Michael_ with regard benigne.
+_Adam_, thou know’st Heav’n his, and all the Earth
+**Not this Rock onely**; his Omnipresence fills
+Land, Sea, and Aire, and every kinde that lives,
+Fomented by his virtual power and warmd:
+All th’ Earth he gave thee to possess and rule,
+No despicable gift; surmise not then
+His presence to these narrow bounds confin’d
+Of Paradise or _Eden_: this had been
+Perhaps thy Capital Seate, from whence had spred
+All generations, and had hither come
+From all the ends of th’ Earth, to celebrate
+And reverence thee thir great Progenitor.
+
+But this praeeminence thou hast lost, brought down
+To dwell on eeven ground now with thy Sons:
+Yet doubt not but in Vallie and in Plaine
+God is as here, and will be found alike
+Present, and of his presence many a signe
+Still following thee, still compassing thee round
+With goodness and paternal Love, his Face
+Express, and of his steps the track Divine.
+
+Which that thou mayst beleeve, and be confirmd,
+Ere thou from hence depart, know I am sent
+To shew thee what shall come in future dayes
+To thee and to thy Ofspring; good with bad
+Expect to hear, supernal Grace contending
+With sinfulness of Men; thereby to learn
+True patience, and to temper joy with fear
+And pious sorrow, equally enur’d
+By moderation either state to beare,
+Prosperous or adverse: so shalt thou lead
+Safest thy life, and best prepar’d endure
+Thy mortal passage when it comes.  Ascend
+This Hill; let _Eve_ (for I have drencht her eyes)
+Here sleep below while thou to foresight wak’st,
+
+As once thou slepst, while Shee to life was formd.
+To whom thus _Adam_ gratefully repli’d.
+Ascend, I follow thee, safe Guide, the path
+Thou lead’st me, and to the hand of Heav’n submit,
+However chast’ning, to the evil turne
+My obvious breast, arming to overcom
+By suffering, and earne rest from labour won,
+If so I may attain.  So both ascend
+In the Visions of God:  It was a Hill
+Of Paradise the highest, from whose top
+The Hemisphere of Earth in cleerest Ken
+Stretcht out to amplest reach of prospect lay.
+
+Not higher that Hill nor wider looking round,
+Whereon for different cause the Tempter set
+Our second _Adam_ in the Wilderness,
+To shew him all Earths Kingdomes and thir Glory.
+His Eye might there command wherever stood
+City of old or modern Fame, the Seat
+Of mightiest Empire, from the destind Walls
+Of _Cambalu_, seat of _Cathaian Can_
+And _Samarchand_ by _Oxus_, _Temirs_ Throne,
+To _Paquin_ of _Sinaean_ Kings, and thence
+To _Agra_ and _Lahor_ of great _Mogul_
+Down to the golden _Chersones_, or where
+The _Persian_ in _Ecbatan_ sate, or since
+In _Hispahan_, or where the _Russian Ksar_
+
+In _Mosco_, or the Sultan in _Bizance_,
+_Turchestan_-born; nor could his eye not ken
+Th’ Empire of _Negus_ to his utmost Port
+_Ercoco_ and the less Maritine Kings
+_Mombaza_, and _Quiloa_, and _Melind_,
+And _Sofala_ thought _Ophir_, to the Realme
+Of _Congo_, and _Angola_ fardest South;
+Or thence from _Niger_ Flood to _Atlas_ Mount
+The Kingdoms of _Almansor_, _Fez_, and _Sus_,
+_Marocco_ and _Algiers_, and _Tremisen_;
+On _Europe_ thence, and where _Rome_ was to sway
+The VVorld: in Spirit perhaps he also saw
+Rich _Mexico_ the seat of _Motezume_,
+And _Cusco_ in _Peru_, the richer seat
+
+Of _Atabalipa_, and yet unspoil’d
+_Guiana_, whose great Citie _Geryons_ Sons
+Call _**El Dorado**:_ but to nobler sights
+_Michael_ from _Adams_ eyes the Filme remov’d
+VVhich that false Fruit that promis’d clearer sight
+Had bred; then purg’d with Euphrasie and Rue
+The visual Nerve, for he had much to see;
+And from the VVell of Life three drops instill’d.
+
+So deep the power of these Ingredients pierc’d,
+Eevn to the inmost seat of mental sight,
+That _Adam_ now enforc’t to close his eyes,
+Sunk down and all his Spirits became intranst:
+But him the gentle Angel by the hand
+Soon rais’d, and his attention thus recall’d.
+_Adam_, now ope thine eyes, and first behold
+Th’ effects which thy original crime hath wrought
+In some to spring from thee, who never touch’d
+Th’ excepted Tree, nor with the Snake conspir’d,
+Nor sinn’d thy sin, yet from that sin derive
+Corruption to bring forth more violent deeds.
+
+His eyes he op’nd, and beheld a field,
+Part arable and tilth, whereon were Sheaves
+New reapt, the other part sheep-walks and foulds;
+Ith’ midst an Altar as the Land-mark stood
+Rustic, of grassie sord; thither anon
+A sweatie Reaper from his Tillage brought
+First Fruits, the green Eare, and the yellow Sheaf,
+Uncull’d, as came to hand; a Shepherd next
+More meek came with the Firstlings of his Flock
+Choicest and best; then sacrificing, laid
+The Inwards and thir Fat, with Incense strew’d,
+On the cleft Wood, and all due Rites perform’d.
+
+His Offring soon propitious Fire from Heav’n
+Consum’d with nimble glance, and grateful steame;
+The others not, for his was not sincere;
+Whereat hee inlie rag’d, and as they talk’d,
+Smote him into the Midriff with a stone
+That beat out life; he fell, and deadly pale
+Groand out his Soul with gushing bloud effus’d.
+Much at that sight was _Adam_ in his heart
+Dismai’d, and thus in haste to th’ Angel cri’d.
+
+O Teacher, some great mischief hath befall’n
+To that meek man, who well had sacrific’d;
+Is Pietie thus and pure Devotion paid?
+T’ whom _Michael_ thus, hee also mov’d, repli’d.
+These two are Brethren, _Adam_, and to come
+Out of thy loyns; th’ unjust the just hath slain,
+For envie that his Brothers Offering found
+From Heav’n acceptance; but the bloodie Fact
+Will be aveng’d, and th’ others Faith approv’d
+Loose no reward, though here thou see him die,
+Rowling in dust and gore.  To which our Sire.
+
+Alas, both for the deed and for the cause!
+**But have I now seen Death**?  Is this the way
+I must return to native dust?  O sight
+Of terrour, foul and ugly to behold,
+Horrid to think, how horrible to feel!
+To whom thus _Michael_.  Death thou hast seen
+In his first shape on man; but many shapes
+Of Death, and many are the wayes that lead
+To his grim Cave, all dismal; yet to sense
+More terrible at th’ entrance then within.
+
+Some, as thou saw’st, by violent stroke shall die,
+By Fire, Flood, Famin, by Intemperance more
+In Meats and Drinks, which on the Earth shal bring
+Diseases dire, of which a monstrous crew
+Before thee shall appear; that thou mayst know
+What miserie th’ inabstinence of _Eve_
+Shall bring on men.  Immediately a place
+Before his eyes appeard, sad, noysom, dark,
+A Lazar-house it seemd, wherein were laid
+Numbers of all diseas’d, all maladies
+Of gastly Spasm, or racking torture, qualmes
+Of heart-sick Agonie, all feavorous kinds,
+Convulsions, Epilepsies, fierce Catarrhs,
+Intestin Stone and Ulcer, Colic pangs,
+
+Dropsies, and Asthma’s, and Joint-racking Rheums.
+Dire was the tossing, deep the groans, despair
+Tended the sick busiest from Couch to Couch;
+And over them triumphant Death his Dart
+Shook, but delaid to strike, though oft invok’t
+With vows, as thir chief good, and final hope.
+Sight so deform what heart of Rock could long
+Drie-ey’d behold?  _Adam_ could not, but wept,
+Though not of Woman born; compassion quell’d
+His best of Man, and gave him up to tears
+A space, till firmer thoughts restraind excess,
+And scarce recovering words his plaint renew’d.
+
+O miserable Mankind, to what fall
+Degraded, to what wretched state reserv’d?
+Better end heer unborn.  Why is life giv’n
+To be thus wrested from us? rather why
+Obtruded on us thus? who if we knew
+What we receive, would either not accept
+Life offer’d, or soon beg to lay it down,
+Glad to be so dismist in peace.  Can thus
+Th’ Image of God in man created once
+So goodly and erect, though faultie since,
+To such unsightly sufferings be debas’t
+Under inhuman pains?  Why should not Man,
+Retaining still Divine similitude
+In part, from such deformities be free,
+
+And for his Makers Image sake exempt?
+Thir Makers Image, answerd _Michael_, then
+Forsook them, when themselves they villifi’d
+To serve ungovern’d appetite, and took
+His Image whom they serv’d, a brutish vice,
+Inductive mainly to the sin of _Eve_.
+Therefore so abject is thir punishment,
+Disfiguring not Gods likeness, but thir own,
+Or if his likeness, by themselves defac’t
+While they pervert pure Natures healthful rules
+To loathsom sickness, worthily, since they
+Gods Image did not reverence in themselves.
+
+I yeild it just, said _Adam_, and submit.
+But is there yet no other way, besides
+These painful passages, how we may come
+To Death, and mix with our connatural dust?
+There is, said _Michael_, if thou well observe
+The rule of not too much, by temperance taught
+In what thou eatst and drinkst, seeking from thence
+Due nourishment, not gluttonous delight,
+Till many years over thy head return:
+
+So maist thou live, till like ripe Fruit thou drop
+Into thy Mothers lap, or be with ease
+Gatherd, not harshly pluckt, for death mature:
+This is old age; but then thou must outlive
+Thy youth, thy strength, thy beauty, which will change
+To witherd weak & gray; thy Senses then
+Obtuse, all taste of pleasure must forgoe,
+To what thou hast, and for the Aire of youth
+Hopeful and cheerful, in thy blood will reigne
+A melancholly damp of cold and dry
+To waigh thy spirits down, and last consume
+The Balme of Life.  To whom our Ancestor.
+
+Henceforth I flie not Death, nor would prolong
+Life much, bent rather how I may be quit
+Fairest and easiest of this combrous charge,
+Which I must keep till my appointed day
+Of rendring up.  _Michael_ to him repli’d.
+Nor love thy Life, nor hate; but what thou livst
+Live well, how long or short permit to Heav’n:
+And now prepare thee for another sight.
+
+He lookd and saw a spacious Plaine, whereon
+Were Tents of various hue; by some were herds
+Of Cattel grazing: others, whence the sound
+Of Instruments that made melodious chime
+Was heard, of Harp and Organ; and who moovd
+Thir stops and chords was seen: his volant touch
+Instinct through all proportions low and high
+Fled and pursu’d transverse the **resonant fugue**.
+
+In other part stood one who at the Forge
+Labouring, two massie clods of Iron and Brass
+Had melted (whether found where casual fire
+Had wasted woods on Mountain or in Vale,
+Down to the veins of Earth, thence gliding hot
+To som Caves mouth, or whether washt by stream
+From underground) the liquid Ore he dreind
+Into fit moulds prepar’d; from which he formd
+First his own Tooles; then, what might else be wrought
+Fulfil or grav’n in mettle.  After these,
+But on the hether side a different sort
+From the high neighbouring Hills, which was thir Seat,
+Down to the Plain descended: by thir guise
+Just men they seemd, and all thir study bent
+
+To worship God aright, and know his works
+Not hid, nor those things lost which might preserve
+Freedom and Peace to men: they on the Plain
+Long had not walkt, when from the Tents behold
+A Beavie of fair Women, richly gay
+In Gems and wanton dress; to the Harp they sung
+Soft amorous Ditties, and in dance came on:
+The Men though grave, ey’d them, and let thir eyes
+Rove without rein, till in the amorous Net
+Fast caught, they lik’d, and each his liking chose;
+And now of love they treat till th’ Eevning Star
+Loves Harbinger appeerd; then all in heat
+They light the Nuptial Torch, and bid invoke
+Hymen, then first to marriage Rites invok’t;
+
+With Feast and Musick all the Tents resound.
+Such happy interview and fair event
+Of love & youth not lost, Songs, Garlands, Flours,
+And charming Symphonies attach’d the heart
+Of _Adam_, soon enclin’d to admit delight,
+The bent of Nature; which he thus express’d.
+True opener of mine eyes, prime Angel blest,
+Much better seems this Vision, and more hope
+Of peaceful dayes portends, then those two past;
+Those were of hate and death, or pain much worse,
+Here Nature seems fulfilld in all her ends.
+
+To whom thus _Michael_.  Judg not what is best
+By pleasure, though to Nature seeming meet,
+Created, as thou art, to nobler end
+Holie and pure, conformitie divine.
+Those Tents thou sawst so pleasant, were the Tents
+Of wickedness, wherein shall dwell his Race
+Who slew his Brother; studious they appere
+Of Arts that polish Life, Inventers rare,
+Unmindful of thir Maker, though his Spirit
+Taught them, but they his gifts acknowledg’d none.
+
+Yet they a beauteous ofspring shall beget;
+For that fair femal Troop thou sawst, that seemd
+Of Goddesses, so blithe, so smooth, so gay,
+Yet empty of all good wherein consists
+Womans domestic honour and chief praise;
+Bred onely and completed to the taste
+Of lustful apperence, to sing, to dance,
+To dress, and troule the Tongue, and roule the Eye.
+
+To these that sober Race of Men, whose lives
+Religious titl’d them the Sons of God,
+Shall yeild up all thir vertue, all thir fame
+Ignobly, to the trains and to the smiles
+Of these **fair Atheists**, and now swim in joy,
+(Erelong to swim at larg) and laugh; for which
+The world erelong a world of tears must weepe.
+To whom thus _Adam_ of short joy bereft.
+
+O pittie and shame, that they who to live well
+Enterd so faire, should turn aside to tread
+Paths indirect, or in the mid way faint!
+But still I see the tenor of Mans woe
+Holds on the same, from Woman to begin.
+From Mans effeminate slackness it begins,
+Said th’ Angel, who should better hold his place
+By wisdome, and superiour gifts receavd.
+
+But now prepare thee for another Scene.
+He lookd and saw wide Territorie spred
+Before him, Towns, and rural works between,
+Cities of Men with lofty Gates and Towrs,
+Concours in Arms, fierce Faces threatning Warr,
+Giants of mightie Bone, and bould emprise;
+Part wield thir Arms, part courb the foaming Steed,
+Single or in Array of Battel rang’d
+Both Horse and Foot, nor idely mustring stood;
+One way a Band select from forage drives
+A herd of Beeves, faire Oxen and faire Kine
+From a fat Meddow ground; or fleecy Flock,
+Ewes and thir bleating Lambs over the Plaine,
+Thir Bootie; scarce with Life the Shepherds flye,
+
+But call in aide, which tacks a bloody Fray;
+With cruel Tournament the Squadrons joine;
+Where Cattel pastur’d late, now scatterd lies
+With Carcasses and Arms th’ ensanguind Field
+Deserted: Others to a Citie strong
+Lay Siege, encampt; by Batterie, Scale, and Mine,
+Assaulting; others from the Wall defend
+With Dart and Jav’lin, Stones and sulfurous Fire;
+On each hand slaughter and gigantic deeds.
+
+In other part the scepter’d Haralds call
+To Council in the Citie Gates: anon
+Grey-headed men and grave, with Warriours mixt,
+Assemble, and Harangues are heard, but soon
+In factious opposition, till at last
+Of middle Age one rising, eminent
+In wise deport, spake much of Right and Wrong,
+Of Justice, of Religion, Truth and Peace,
+And Judgement from above: him old and young
+Exploded, and had seiz’d with violent hands,
+Had not a Cloud descending snatch’d him thence
+Unseen amid the throng: so violence
+Proceeded, and Oppression, and Sword-Law
+Through all the Plain, and refuge none was found.
+
+_Adam_ was all in tears, and to his guide
+Lamenting turnd full sad; O what are these,
+Deaths Ministers, not Men, who thus deal Death
+Inhumanly to men, and multiply
+Ten thousand fould the sin of him who slew
+His Brother; for of whom such massacher
+Make they but of thir Brethren, men of men?
+But who was that Just Man, whom had not Heav’n
+Rescu’d, had in his Righteousness bin lost?
+
+To whom thus _Michael_; These are the product
+Of those ill-mated Marriages thou saw’st;
+Where good with bad were matcht, who of themselves
+Abhor to joyn; and by imprudence mixt,
+Produce prodigious Births of bodie or mind.
+Such were these Giants, men of high renown;
+For in those dayes Might onely shall be admir’d,
+And Valour and Heroic Vertu call’d;
+To overcome in Battel, and subdue
+Nations, and bring home spoils with infinite
+Man-slaughter, shall be held the highest pitch
+Of human Glorie, and for Glorie done
+Of triumph, to be styl’d great Conquerours,
+Patrons of Mankind, Gods, and Sons of Gods,
+
+**Destroyers rightlier call’d and Plagues of men**.
+Thus Fame shall be achiev’d, renown on Earth,
+And what most merits fame in silence hid.
+But hee the seventh from thee, whom thou beheldst
+The onely righteous in a World perverse,
+And therefore hated, therefore so beset
+With Foes for daring single to be just,
+And utter odious Truth, that God would come
+To judge them with his Saints: Him the most High
+Rapt in a balmie Cloud with winged Steeds
+Did, as thou sawst, receave, to walk with God
+High in Salvation and the Climes of bliss,
+Exempt from Death; to shew thee what reward
+Awaits the good, the rest what punishment;
+
+Which now direct thine eyes and soon behold.
+He look’d, & saw the face of things quite chang’d;
+The brazen Throat of Warr had ceast to roar,
+All now was turn’d to jollitie and game,
+To luxurie and riot, feast and dance,
+Marrying or prostituting, as befell,
+Rape or Adulterie, where passing faire
+Allurd them; thence from Cups to civil Broiles.
+
+At length a Reverend Sire among them came,
+And of thir doings great dislike declar’d,
+And testifi’d against thir wayes; hee oft
+Frequented thir Assemblies, whereso met,
+Triumphs or Festivals, and to them preachd
+Conversion and Repentance, as to Souls
+In prison under Judgements imminent:
+But all in vain: which when he saw, he ceas’d
+Contending, and remov’d his Tents farr off;
+Then from the Mountain hewing Timber tall,
+Began to build a Vessel of huge bulk,
+Measur’d by Cubit, length, & breadth, and highth,
+Smeard round with Pitch, and in the side a dore
+Contriv’d, and of provisions laid in large
+
+For Man and Beast: when loe a wonder strange!
+Of everie Beast, and Bird, and Insect small
+Came seavens, and pairs, and enterd in, as taught
+Thir order; last the Sire, and his three Sons
+With thir four Wives, and God made fast the dore.
+Meanwhile the Southwind rose, & with black wings
+Wide hovering, all the Clouds together drove
+From under Heav’n; the Hills to their supplie
+Vapour, and Exhalation dusk and moist,
+Sent up amain; and now the thick’nd Skie
+Like a dark Ceeling stood; down rush’d the Rain
+Impetuous, and continu’d till the Earth
+No more was seen; the floating Vessel swum
+Uplifted; and secure with beaked prow
+
+Rode tilting o’re the Waves, all dwellings else
+Flood overwhelmd, and them with all thir pomp
+Deep under water rould; Sea cover’d Sea,
+Sea without shoar; and in thir Palaces
+Where luxurie late reign’d, Sea-monsters whelp’d
+And stabl’d; of Mankind, so numerous late,
+All left, in one small bottom swum imbark’t.
+How didst thou grieve then, _Adam_, to behold
+The end of all thy Ofspring, end so sad,
+Depopulation; thee another Floud,
+Of tears and sorrow a Floud thee also drown’d,
+And sunk thee as thy Sons; till gently reard
+By th’ Angel, on thy feet thou stoodst at last,
+Though comfortless, as when a Father mourns
+
+His Childern, all in view destroyd at once;
+And scarce to th’ Angel utterdst thus thy plaint.
+**O Visions ill foreseen**! better had I
+Liv’d ignorant of future, so had borne
+My part of evil onely, each dayes lot
+Anough to bear; those now, that were dispenst
+The burd’n of many Ages, on me light
+At once, by my foreknowledge gaining Birth
+Abortive, to torment me ere thir being,
+With thought that they must be.  Let no man seek
+Henceforth to be foretold what shall befall
+Him or his Childern, evil he may be sure,
+Which neither his foreknowing can prevent,
+And hee the future evil shall no less
+
+In apprehension then in substance feel
+Grievous to bear: but that care now is past,
+Man is not whom to warne: those few escap’t
+Famin and anguish will at last consume
+Wandring that watrie Desert: I had hope
+When violence was ceas’t, and Warr on Earth,
+All would have then gon well, peace would have crownd
+With length of happy days the race of man;
+But I was farr deceav’d; for now I see
+Peace to corrupt no less then Warr to waste.
+
+How comes it thus? unfould, Celestial Guide,
+And whether here the Race of man will end.
+To whom thus _Michael_.  Those whom last thou sawst
+In triumph and luxurious wealth, are they
+First seen in acts of prowess eminent
+And great exploits, but of true vertu void;
+Who having spilt much blood, and don much waste
+Subduing Nations, and achievd thereby
+Fame in the World, high titles, and rich prey,
+Shall change thir course to pleasure, ease, and sloth,
+Surfet, and lust, till wantonness and pride
+Raise out of friendship hostil deeds in Peace.
+
+The conquerd also, and enslav’d by Warr
+Shall with thir freedom lost all vertu loose
+And feare of God, from whom thir pietie feign’d
+In sharp contest of Battel found no aide
+Against invaders; therefore coold in zeale
+Thenceforth shall practice how to live secure,
+Worldlie or dissolute, on what thir Lords
+Shall leave them to enjoy; for th’ Earth shall bear
+More then anough, that temperance may be tri’d:
+
+So all shall turn degenerate, all deprav’d,
+Justice and Temperance, Truth and Faith forgot;
+One Man except, the onely Son of light
+In a dark Age, against example good,
+Against allurement, custom, and a World
+Offended; fearless of reproach and scorn,
+Or violence, hee of thir wicked wayes
+Shall them admonish, and before them set
+The paths of righteousness, how much more safe,
+And full of peace, denouncing wrauth to come
+On thir impenitence; and shall returne
+Of them derided, but of God observd
+The one just Man alive; by his command
+Shall build a wondrous Ark, as thou beheldst,
+
+To save himself and houshold from amidst
+A World devote to universal rack.
+No sooner hee with them of Man and Beast
+Select for life shall in the Ark be lodg’d,
+And shelterd round, but all the Cataracts
+Of Heav’n set open on the Earth shall powre
+Raine day and night, all fountaines of the Deep
+Broke up, shall heave the Ocean to usurp
+Beyond all bounds, till inundation rise
+Above the highest Hills: then shall this Mount
+Of Paradise by might of Waves be moovd
+Out of his place, pushd by the horned floud,
+With all his verdure spoil’d, and Trees adrift
+Down the great River to the op’ning Gulf,
+
+And there take root an Iland salt and bare,
+The haunt of Seales and Orcs, and Sea-mews clang.
+To teach thee that God attributes to place
+No sanctitie, if none be thither brought
+By Men who there frequent, or therein dwell.
+And now what further shall ensue, behold.
+He lookd, and saw the Ark hull on the floud,
+Which now abated, for the Clouds were fled,
+Drivn by a keen North-winde, that blowing drie
+Wrinkl’d the face of Deluge, as decai’d;
+And the cleer Sun on his wide watrie Glass
+Gaz’d hot, and of the fresh Wave largely drew,
+As after thirst, which made thir flowing shrink
+From standing lake to tripping ebbe, that stole
+
+With soft foot towards the deep, who now had stopt
+His Sluces, as the Heav’n his windows shut.
+The Ark no more now flotes, but seems on ground
+Fast on the top of som high mountain fixt.
+And now the tops of Hills as Rocks appeer;
+With clamor thence the rapid Currents drive
+Towards the retreating Sea thir furious tyde.
+Forthwith from out the Arke a Raven flies,
+And after him, the surer messenger,
+A Dove sent forth once and agen to spie
+Green Tree or ground whereon his foot may light;
+The second time returning, in his Bill
+An Olive leafe he brings, pacific signe:
+
+Anon drie ground appeers, and from his Arke
+The ancient Sire descends with all his Train;
+Then with uplifted hands, and eyes devout,
+Grateful to Heav’n, over his head beholds
+A dewie Cloud, and in the Cloud a Bow
+Conspicuous with three lifted colours gay,
+Betok’ning peace from God, and Cov’nant new.
+Whereat the heart of _Adam_ erst so sad
+Greatly rejoyc’d, and thus his joy broke forth.
+
+O thou that future things canst represent
+As present, Heav’nly instructer, I revive
+At this last sight, assur’d that Man shall live
+With all the Creatures, and thir seed preserve.
+Farr less I now lament for one whole World
+Of wicked Sons destroyd, then I rejoyce
+For one Man found so perfet and so just,
+That God voutsafes to raise another World
+From him, and all his anger to forget.
+
+But say, what mean those colourd streaks in Heavn,
+Distended as the Brow of God appeas’d,
+Or serve they as a flourie verge to binde
+The fluid skirts of that same watrie Cloud,
+Least it again dissolve and showr the Earth?
+To whom th’ Archangel.  Dextrously thou aim’st;
+So willingly doth God remit his Ire,
+Though late repenting him of Man deprav’d,
+Griev’d at his heart, when looking down he saw
+The whole Earth fill’d with violence, and all flesh
+Corrupting each thir way; yet those remoov’d,
+Such grace shall one just Man find in his sight,
+That he relents, not to blot out mankind,
+And makes a Covenant never to destroy
+
+The Earth again by flood, nor let the Sea
+Surpass his bounds, nor Rain to drown the World
+With Man therein or Beast; but when he brings
+Over the Earth a Cloud, will therein set
+His **triple-colour’d Bow**, whereon to look
+And call to mind his Cov’nant: Day and Night,
+Seed time and Harvest, Heat and hoary Frost
+Shall hold thir course, till fire purge all things new,
+Both Heav’n and Earth, wherein the just shall dwell.
+
+Thus thou hast seen one World begin and end;
+And Man as from a second stock proceed.
+Much thou hast yet to see, but I perceave
+Thy mortal sight to faile; objects divine
+Must needs impaire and wearie human sense:
+Henceforth what is to com I will relate,
+Thou therefore give due audience, and attend.
+This second sours of Men, while yet but few,
+And while the dread of judgement past remains
+Fresh in thir mindes, fearing the Deitie,
+With some regard to what is just and right
+Shall lead thir lives, and multiplie apace,
+Labouring the soile, and reaping plenteous crop,
+Corn wine and oyle; and from the herd or flock,
+
+Oft sacrificing Bullock, Lamb, or Kid,
+With large Wine-offerings pour’d, and sacred Feast
+Shal spend thir dayes in joy unblam’d, and dwell
+Long time in peace by Families and Tribes
+Under paternal rule; till one shall rise
+Of proud ambitious heart, who not content
+With fair equalitie, fraternal state,
+Will arrogate Dominion undeserv’d
+Over his brethren, and quite dispossess
+Concord and law of Nature from the Earth;
+Hunting (and Men not Beasts shall be his game)
+With Warr and hostile snare such as refuse
+Subjection to his Empire tyrannous:
+
+**A mightie Hunter** thence he shall be styl’d
+Before the Lord, as in despite of Heav’n,
+Or from Heav’n claming second Sovrantie;
+And from Rebellion shall derive his name,
+Though of Rebellion others he accuse.
+Hee with a crew, whom like Ambition joyns
+With him or under him to tyrannize,
+Marching from _Eden_ towards the West, shall finde
+The Plain, wherein a black bituminous gurge
+Boiles out from under ground, the mouth of Hell;
+Of Brick, and of that stuff they cast to build
+A Citie & Towre, whose top may reach to Heav’n;
+And get themselves a name, least far disperst
+In foraign Lands thir memorie be lost,
+
+Regardless whether good or evil fame.
+But God who oft descends to visit men
+Unseen, and through thir habitations walks
+To mark thir doings, them beholding soon,
+Comes down to see thir Citie, ere the Tower
+Obstruct Heav’n Towrs, and in derision sets
+Upon thir Tongues a various Spirit to rase
+Quite out thir Native Language, and instead
+To sow a jangling noise of words unknown:
+
+Forthwith a hideous gabble rises loud
+Among the Builders; each to other calls
+Not understood, till hoarse, and all in rage,
+As mockt they storm; great laughter was in Heav’n
+And looking down, to see the hubbub strange
+And hear the din; thus was the building left
+Ridiculous, and the work Confusion nam’d.
+Whereto thus _Adam_ fatherly displeas’d.
+
+O execrable Son so to aspire
+Above his Brethren, to himself affirming
+Authoritie usurpt, from God not giv’n:
+He gave us onely over Beast, Fish, Fowl
+Dominion absolute; that right we hold
+By his donation; but Man over men
+He made not Lord; such title to himself
+Reserving, human left from human free.
+
+But this Usurper his encroachment proud
+Stayes not on Man; to God his Tower intends
+Siege and defiance: Wretched man! what food
+Will he convey up thither to sustain
+Himself and his rash Armie, where thin Aire
+Above the Clouds will pine his entrails gross,
+And famish him of Breath, if not of Bread?
+To whom thus _Michael_.  Justly thou abhorr’st
+That Son, who on the quiet state of men
+Such trouble brought, affecting to subdue
+Rational Libertie; yet know withall,
+Since thy original lapse, true Libertie
+Is lost, which alwayes with right Reason dwells
+Twinn’d, and from her hath no dividual being:
+
+Reason in man obscur’d, or not obeyd,
+Immediately inordinate desires
+And upstart Passions catch the Government
+From Reason, and to servitude reduce
+Man till then free.  Therefore since hee permits
+Within himself unworthie Powers to reign
+Over free Reason, God in Judgement just
+Subjects him from without to violent Lords;
+Who oft as undeservedly enthrall
+His outward freedom: Tyrannie must be,
+Though to the Tyrant thereby no excuse.
+
+Yet somtimes Nations will decline so low
+From vertue, which is reason, that no wrong,
+But Justice, and some fatal curse annext
+Deprives them of thir outward libertie,
+Thir inward lost: Witness th’ irreverent Son
+Of him who built the Ark, who for the shame
+Don to his Father, heard this heavie curse,
+_**Servant of Servants**_, on his vitious Race.
+
+Thus will this latter, as the former World,
+Still tend from bad to worse, till God at last
+Wearied with their iniquities, withdraw
+His presence from among them, and avert
+His holy Eyes; resolving from thenceforth
+To leave them to thir own polluted wayes;
+And one peculiar Nation to select
+From all the rest, of whom to be invok’d,
+A Nation from one faithful man to spring:
+
+Him on this side _Euphrates_ yet residing,
+Bred up in Idol-worship; O that men
+(Canst thou believe?) should be so stupid grown,
+While yet the Patriark liv’d, who scap’d the Flood,
+As to forsake the living God, and fall
+To-worship thir own work in Wood and Stone
+For Gods! yet him God the most High voutsafes
+To call by Vision from his Fathers house,
+His kindred and false Gods, into a Land
+Which he will shew him, and from him will raise
+A mightie Nation, and upon him showre
+His benediction so, that in his Seed
+All Nations shall be blest; hee straight obeys,
+Not knowing to what Land, yet firm believes:
+
+I see him, but thou canst not, with what Faith
+He leaves his Gods, his Friends, and native Soile
+_Ur_ of _Chaldaea_, passing now the Ford
+To _Haran_, after him a cumbrous Train
+Of Herds and Flocks, and numerous servitude;
+Not wandring poor, but trusting all his wealth
+With God, who call’d him, in a land unknown.
+_Canaan_ he now attains, I see his Tents
+Pitcht about _Sechem_, and the neighbouring Plaine
+Of _Moreb_ there by promise he receaves
+Gift to his Progenie of all that Land;
+From _Hamath_ Northward to the Desert South
+(Things by thir names I call, though yet unnam’d)
+From _Hermon_ East to the great Western Sea,
+
+Mount _Hermon_, yonder Sea, each place behold
+In prospect, as I point them; on the shoare
+Mount _Carmel_; here the double-founted stream
+_Jordan_, true limit Eastward; but his Sons
+Shall dwell to _Senir_, that long ridge of Hills.
+This ponder, that all Nations of the Earth
+Shall in his Seed be blessed; by that Seed
+Is meant thy great deliverer, who shall bruise
+The Serpents head; whereof to thee anon
+Plainlier shall be reveald.  This Patriarch blest,
+Whom _Faithful Abraham_ due time shall call,
+A Son, and of his Son a Grand-childe leaves,
+Like him in faith, in wisdom, and renown;
+The Grandchilde with twelve Sons increast, departs
+
+From _Canaan_, to a Land hereafter call’d
+_Egypt_, divided by the River _Nile_;
+See where it flows, disgorging at seaven mouthes
+Into the Sea: to sojourn in that Land
+He comes invited by a yonger Son
+In time of dearth, a Son whose worthy deeds
+Raise him to be the second in that Realme
+Of _Pharao_: there he dies, and leaves his Race
+Growing into a Nation, and now grown
+Suspected to a sequent King, who seeks
+To stop thir overgrowth, as inmate guests
+Too numerous; whence of guests he makes them slaves
+Inhospitably, and kills thir infant Males:
+
+Till by two brethren (those two brethren call
+_Moses_ and _Aaron_) sent from God to claime
+His people from enthralment, they return
+With glory and spoile back to thir promis’d Land.
+But first the lawless Tyrant, who denies
+To know thir God, or message to regard,
+Must be compelld by Signes and Judgements dire;
+To blood unshed the Rivers must be turnd,
+Frogs, Lice and Flies must all his Palace fill
+With loath’d intrusion, and fill all the land;
+His Cattel must of Rot and Murren die,
+Botches and blaines must all his flesh imboss,
+And all his people; Thunder mixt with Haile,
+Haile mixt with fire must rend th’ _Egyptian_ Skie
+
+And wheel on th’ Earth, devouring where it rouls;
+What it devours not, Herb, or Fruit, or Graine,
+A darksom Cloud of Locusts swarming down
+Must eat, and on the ground leave nothing green:
+Darkness must overshadow all his bounds,
+Palpable darkness, and blot out three dayes;
+Last with one midnight stroke all the first-born
+Of _Egypt_ must lie dead.  Thus with ten wounds
+This **River-dragon** tam’d at length submits
+To let his sojourners depart, and oft
+Humbles his stubborn heart, but still as Ice
+More hard’nd after thaw, till in his rage
+Pursuing whom he late dismissd, the Sea
+Swallows him with his Host, but them lets pass
+
+As on drie land between two christal walls,
+Aw’d by the rod of _Moses_ so to stand
+Divided, till his rescu’d gain thir shoar:
+Such wondrous power God to his Saint will lend,
+Though present in his Angel, who shall goe
+Before them in a Cloud, and Pillar of Fire,
+To guide them in thir journey, and remove
+Behinde them, while th’ obdurat King pursues:
+
+All night he will pursue, but his approach
+Darkness defends between till morning Watch;
+Then through the Firey Pillar and the Cloud
+God looking forth will trouble all his Host
+And craze thir Chariot wheels: when by command
+_Moses_ once more his potent Rod extends
+Over the Sea; the Sea his Rod obeys;
+On thir imbattelld ranks the Waves return,
+And overwhelm thir Warr: the Race elect
+Safe towards _Canaan_ from the shoar advance
+Through the wilde Desert, not the readiest way,
+Least entring on the _Canaanite_ allarmd
+Warr terrifie them inexpert, and feare
+Return them back to _Egypt_, choosing rather
+
+Inglorious life with servitude; for life
+To noble and ignoble is more sweet
+Untraind in Armes, where rashness leads not on.
+This also shall they gain by thir delay
+In the wide Wilderness, there they shall found
+Thir government, and thir great Senate choose
+Through the twelve Tribes, to rule by Laws ordaind:
+God from the Mount of _Sinai_, whose gray top
+Shall tremble, he descending, will himself
+In Thunder Lightning and loud Trumpets sound
+Ordaine them Lawes; part such as appertaine
+To civil Justice, part religious Rites
+Of sacrifice, informing them, by types
+And shadowes, of that destind Seed to bruise
+
+The Serpent, by what meanes he shall achieve
+Mankinds deliverance.  But the voice of God
+To mortal eare is dreadful; they beseech
+That _Moses_ might report to them his will,
+And terror cease; he grants them thir desire,
+Instructed that to God is no access
+Without Mediator, whose high Office now
+_Moses_ in figure beares, to introduce
+One greater, of whose day he shall foretell,
+And all the Prophets in thir Age the times
+Of great _Messiah_ shall sing.  Thus Laws and Rites
+Establisht, such delight hath God in Men
+Obedient to his will, that he voutsafes
+Among them to set up his Tabernacle,
+
+The holy One with mortal Men to dwell:
+By his prescript a Sanctuary is fram’d
+Of Cedar, overlaid with Gold, therein
+An Ark, and in the Ark his Testimony,
+The Records of his Cov’nant, over these
+A Mercie-seat of Gold between the wings
+Of two bright Cherubim, before him burn
+Seaven Lamps as in a Zodiac representing
+The Heav’nly fires; over the Tent a Cloud
+Shall rest by Day, a fierie gleame by Night,
+Save when they journie, and at length they come,
+Conducted by his Angel to the Land
+Promisd to _Abraham_ and his Seed: the rest
+Were long to tell, how many Battels fought,
+
+How many Kings destroyd, and Kingdoms won,
+Or how the Sun shall in mid Heav’n stand still
+A day entire, and Nights due course adjourne,
+Mans voice commanding, Sun in _Gibeon_ stand,
+And thou Moon in the vale of _Aialon_,
+Till _Israel_ overcome; so call the third
+From _Abraham_, Son of _Isaac_, and from him
+His whole descent, who thus shall _Canaan_ win.
+
+Here _Adam_ interpos’d.  O sent from Heav’n,
+Enlightner of my darkness, gracious things
+Thou hast reveald, those chiefly which concerne
+Just _Abraham_ and his Seed: now first I finde
+Mine eyes true op’ning, and my heart much eas’d,
+Erwhile perplext with thoughts what would becom
+Of mee and all Mankind; but now I see
+His day, in whom all Nations shall be blest,
+Favour unmerited by me, who sought
+Forbidd’n knowledge by forbidd’n means.
+
+This yet I apprehend not, why to those
+Among whom God will deigne to dwell on Earth
+So many and so various Laws are giv’n;
+So many Laws argue so many sins
+Among them; how can God with such reside?
+To whom thus _Michael_.  Doubt not but that sin
+Will reign among them, as of thee begot;
+And therefore was Law given them to evince
+Thir natural pravitie, by stirring up
+Sin against Law to fight; that when they see
+**Law can discover sin, but not remove**,
+Save by those shadowie expiations weak,
+The bloud of Bulls and Goats, they may conclude
+Some bloud more precious must be paid for Man,
+
+Just for unjust, that in such righteousness
+To them by Faith imputed, they may finde
+Justification towards God, and peace
+Of Conscience, which the Law by Ceremonies
+Cannot appease, nor Man the moral part
+Perform, and not performing cannot live.
+So Law appears imperfet, and but giv’n
+With purpose to resign them in full time
+Up to a better Cov’nant, disciplin’d
+From shadowie Types to Truth, from Flesh to Spirit,
+From imposition of strict Laws, to free
+Acceptance of large Grace, from servil fear
+To filial, works of Law to works of Faith.
+
+And therefore shall not _Moses_, though of God
+Highly belov’d, being but the Minister
+Of Law, his people into _Canaan_ lead;
+But _Joshua_ whom the Gentiles _Jesus_ call,
+His Name and Office bearing, who shall quell
+The adversarie Serpent, and bring back
+Through the worlds wilderness long wanderd man
+Safe to eternal Paradise of rest.
+
+Meanwhile they in thir earthly _Canaan_ plac’t
+Long time shall dwell and prosper, but when sins
+National interrupt thir public peace,
+Provoking God to raise them enemies:
+From whom as oft he saves them penitent
+By Judges first, then under Kings; of whom
+The second, both for pietie renownd
+And puissant deeds, a promise shall receive
+Irrevocable, that his Regal Throne
+For ever shall endure; the like shall sing
+All Prophecie, That of the Royal Stock
+Of _David_ (so I name this King) shall rise
+A Son, the Womans Seed to thee foretold,
+Foretold to _Abraham_, as in whom shall trust
+
+All Nations, and to Kings foretold, of Kings
+The last, for of his Reign shall be no end.
+But first a long succession must ensue,
+And his next Son for Wealth and Wisdom fam’d,
+The clouded Ark of God till then in Tents
+Wandring, shall in a glorious Temple enshrine.
+Such follow him, as shall be registerd
+Part good, part bad, of bad the longer scrowle,
+Whose foul Idolatries, and other faults
+Heapt to the popular summe, will so incense
+God, as to leave them, and expose thir Land,
+Thir Citie, his Temple, and his holy Ark
+With all his sacred things, a scorn and prey
+To that proud Citie, whose high Walls thou saw’st
+
+Left in confusion, _Babylon_ thence call’d.
+There in captivitie he lets them dwell
+The space of seventie years, then brings them back,
+Remembring mercie, and his Cov’nant sworn
+To _David_, stablisht as the dayes of Heav’n.
+Returnd from _Babylon_ by leave of Kings
+Thir Lords, whom God dispos’d, the house of God
+They first re-edifie, and for a while
+In mean estate live moderate, till grown
+In wealth and multitude, factious they grow;
+But first among the Priests dissension springs,
+Men who attend the Altar, and should most
+Endeavour Peace: thir strife pollution brings
+Upon the Temple it self: at last they seise
+
+The Scepter, and regard not _Davids_ Sons,
+Then loose it to a stranger, that the true
+Anointed King _Messiah_ might be born
+Barr’d of his right; yet at his Birth a Starr
+Unseen before in Heav’n proclaims him com,
+And guides the **Eastern Sages**, who enquire
+His place, to offer Incense, Myrrh, and Gold;
+His place of birth a solemn Angel tells
+To simple Shepherds, keeping watch by night;
+They gladly thither haste, and by a Quire
+Of squadrond Angels hear his Carol sung.
+
+A Virgin is his Mother, but his Sire
+The Power of the most High; he shall ascend
+The Throne hereditarie, and bound his Reign
+With earths wide bounds, his glory with the Heav’ns.
+He ceas’d, discerning _Adam_ with such joy
+Surcharg’d, as had like grief bin dew’d in tears,
+Without the vent of words, which these he breathd.
+O Prophet of glad tidings, finisher
+Of utmost hope! now clear I understand
+What oft my steddiest thoughts have searcht in vain,
+Why our great expectation should be call’d
+The seed of Woman: Virgin Mother, Haile,
+High in the love of Heav’n, yet from my Loynes
+Thou shalt proceed, and from thy Womb the Son
+
+Of God most High; So God with man unites.
+Needs must the Serpent now his capital bruise
+Expect with mortal paine: say where and when
+Thir fight, what stroke shall bruise the Victors heel.
+To whom thus _Michael_.  Dream not of thir fight,
+As of a Duel, or the local wounds
+Of head or heel: not therefore joynes the Son
+Manhood to God-head, with more strength to foil
+Thy enemie; nor so is overcome
+_Satan_, whose fall from Heav’n, a deadlier bruise,
+Disabl’d not to give thee thy deaths wound:
+
+Which hee, who comes thy Saviour, shall recure,
+Not by destroying _Satan_, but his works
+In thee and in thy Seed: nor can this be,
+But by fulfilling that which thou didst want,
+Obedience to the Law of God, impos’d
+On penaltie of death, and suffering death,
+The penaltie to thy transgression due,
+And due to theirs which out of thine will grow:
+
+So onely can high Justice rest appaid.
+The Law of God exact he shall fulfill
+Both by obedience and by love, though love
+Alone fulfill the Law; thy punishment
+He shall endure by coming in the Flesh
+To a reproachful life and cursed death,
+Proclaiming Life to all who shall believe
+In his redemption, and that his obedience
+Imputed becomes theirs by Faith, his merits
+To save them, not thir own, though legal works.
+
+For this he shall live hated, be blasphem’d,
+Seis’d on by force, judg’d, and to death condemnd
+A shameful and accurst, naild to the Cross
+By his own Nation, slaine for bringing Life;
+But to the Cross he nailes thy Enemies,
+The Law that is against thee, and the sins
+Of all mankinde, with him there crucifi’d,
+Never to hurt them more who rightly trust
+In this his satisfaction; so he dies,
+But soon revives, Death over him no power
+Shall long usurp; ere the third dawning light
+Returne, the Starres of Morn shall see him rise
+Out of his grave, fresh as the dawning light,
+Thy ransom paid, which Man from death redeems,
+
+His death for Man, as many as offerd Life
+Neglect not, and the benefit imbrace
+By Faith not void of works: this God-like act
+Annuls thy doom, the death thou shouldst have dy’d,
+In sin for ever lost from life; this act
+Shall bruise the head of _Satan_, crush his strength
+**Defeating Sin and Death, his two maine armes**,
+And fix farr deeper in his head thir stings
+Then temporal death shall bruise the Victors heel,
+Or theirs whom he redeems, a death like sleep,
+A gentle wafting to immortal Life.
+
+Nor after resurrection shall he stay
+Longer on Earth then certaine times to appeer
+To his Disciples, Men who in his Life
+Still follow’d him; to them shall leave in charge
+To teach all nations what of him they learn’d
+And his Salvation, them who shall beleeve
+Baptizing in the profluent streame, the signe
+Of washing them from guilt of sin to Life
+Pure, and in mind prepar’d, if so befall,
+For death, like that which the redeemer dy’d.
+
+All Nations they shall teach; for from that day
+Not onely to the Sons of _Abrahams_ Loines
+Salvation shall be Preacht, but to the Sons
+Of _Abrahams_ Faith wherever through the world;
+So in his seed all Nations shall be blest.
+Then to the Heav’n of Heav’ns he shall ascend
+With victory, triumphing through the aire
+Over his foes and thine; there shall surprise
+The Serpent, Prince of aire, and drag in Chaines
+Through all his realme, & there confounded leave;
+Then enter into glory, and resume
+His Seat at Gods right hand, exalted high
+Above all names in Heav’n; and thence shall come,
+When this worlds dissolution shall be ripe,
+
+With glory and power to judge both quick & dead,
+To judge th’ unfaithful dead, but to reward
+His faithful, and receave them into bliss,
+Whether in Heav’n or Earth, for then the Earth
+Shall all be Paradise, far happier place
+Then this of _Eden_, and far happier daies.
+So spake th’ Archangel _Michael_, then paus’d,
+As at the Worlds great period; and our Sire
+Replete with joy and wonder thus repli’d.
+
+**O goodness infinite, goodness immense**!
+That all this good of evil shall produce,
+And evil turn to good; more wonderful
+Then that which by creation first brought forth
+Light out of darkness! full of doubt I stand,
+Whether I should repent me now of sin
+By mee done and occasiond, or rejoyce
+Much more, that much more good thereof shall spring,
+To God more glory, more good will to Men
+From God, and over wrauth grace shall abound.
+
+But say, if our deliverer up to Heav’n
+Must reascend, what will betide the few
+His faithful, left among th’ unfaithful herd,
+The enemies of truth; who then shall guide
+His people, who defend? will they not deale
+Wors with his followers then with him they dealt?
+Be sure they will, said th’ Angel; but from Heav’n
+Hee to his own a Comforter will send,
+The promise of the Father, who shall dwell
+His Spirit within them, and the Law of Faith
+Working through love, upon thir hearts shall write,
+To guide them in all truth, and also arme
+With spiritual Armour, able to resist
+_Satans_ assaults, and quench his fierie darts
+
+What Man can do against them, not affraid,
+Though to the death, against such cruelties
+With inward consolations recompenc’t,
+And oft supported so as shall amaze
+Thir proudest persecuters: for the Spirit
+Powrd first on his Apostles, whom he sends
+To evangelize the Nations, then on all
+Baptiz’d, shall them with wondrous gifts endue
+To speak all Tongues, and do all Miracles,
+As did thir Lord before them.  Thus they win
+Great numbers of each Nation to receave
+With joy the tidings brought from Heav’n: at length
+Thir Ministry perform’d, and race well run,
+Thir doctrine and thir story written left,
+
+They die; but in thir room, as they forewarne,
+Wolves shall succeed for teachers, grievous Wolves,
+Who all the sacred mysteries of Heav’n
+To thir own vile advantages shall turne
+Of lucre and ambition, and the truth
+With superstitions and traditions taint,
+Left onely in those written Records pure,
+Though not but by the Spirit understood.
+
+Then shall they seek to avail themselves of names,
+Places and titles, and with these to joine
+Secular power, though feigning still to act
+By spiritual, to themselves appropriating
+The Spirit of God, promisd alike and giv’n
+To all Beleevers; and from that pretense,
+Spiritual Lawes by carnal power shall force
+On every conscience; Laws which none shall finde
+Left them inrould, or what the Spirit within
+Shall on the heart engrave.  What will they then
+But force the Spirit of Grace it self, and binde
+His consort Libertie; what, but unbuild
+His living Temples, built by Faith to stand,
+Thir own Faith not anothers: for on Earth
+
+Who against Faith and Conscience can be heard
+Infallible? yet many will presume:
+Whence heavie persecution shall arise
+On all who in the worship persevere
+Of Spirit and Truth; the rest, farr greater part,
+Will deem in outward Rites and specious formes
+Religion satisfi’d; Truth shall retire
+Bestuck with slandrous darts, and works of Faith
+Rarely be found: so shall the World goe on,
+To good malignant, to bad men benigne,
+Under her own waight groaning, till the day
+Appeer of respiration to the just,
+And vengeance to the wicked, at return
+Of him so lately promis’d to thy aid,
+
+The Womans seed, obscurely then foretold,
+Now amplier known thy Saviour and thy Lord,
+Last in the Clouds from Heav’n to be reveald
+In glory of the Father, to dissolve
+_Satan_ with his perverted World, then raise
+From the conflagrant mass, purg’d and refin’d,
+New Heav’ns, new Earth, Ages of endless date
+Founded in righteousness and peace and love,
+To bring forth fruits Joy and eternal Bliss.
+
+He ended; and thus _Adam_ last reply’d.
+How soon hath thy prediction, Seer blest,
+Measur’d this transient World, the Race of time,
+Till time stand fixt: beyond is all abyss,
+Eternitie, whose end no eye can reach.
+Greatly instructed I shall hence depart,
+Greatly in peace of thought, and have my fill
+Of knowledge, what this vessel can containe;
+Beyond which was my folly to aspire.
+
+Henceforth I learne, that to obey is best,
+And love with feare the onely God, to walk
+As in his presence, ever to observe
+His providence, and on him sole depend,
+Merciful over all his works, with good
+Still overcoming evil, and by small
+Accomplishing great things, by things deemd weak
+Subverting worldly strong, and worldly wise
+By simply meek; that suffering for Truths sake
+Is fortitude to highest victorie,
+And to the faithful Death the Gate of Life;
+Taught this by his example whom I now
+Acknowledge my Redeemer ever blest.
+
+To whom thus also th’ Angel last repli’d:
+This having learnt, thou hast attaind the summe
+Of wisdom; hope no higher, though all the Starrs
+Thou knewst by name, and all th’ ethereal Powers,
+All secrets of the deep, all Natures works,
+Or works of God in Heav’n, Air, Earth, or Sea,
+And all the riches of this World enjoydst,
+And all the rule, one Empire; onely add
+Deeds to thy knowledge answerable, add Faith,
+Add Vertue, Patience, Temperance, add Love,
+By name to come call’d Charitie, the soul
+Of all the rest: then wilt thou not be loath
+To leave this Paradise, but shalt possess
+A **Paradise within thee**, happier farr.
+
+Let us descend now therefore from this top
+Of Speculation; for the hour precise
+Exacts our parting hence; and see the Guards,
+By mee encampt on yonder Hill, expect
+Thir motion, at whose Front a flaming Sword,
+In signal of remove, waves fiercely round;
+We may no longer stay: go, waken Eve;
+Her also I with gentle Dreams have calm’d
+Portending good, and all her spirits compos’d
+To meek submission: thou at season fit
+Let her with thee partake what thou hast heard,
+Chiefly what may concern her Faith to know,
+The great deliverance by her Seed to come
+(For by the Womans Seed) on all Mankind.
+
+That ye may live, which will be many dayes,
+Both in one Faith unanimous though sad,
+With cause for evils past, yet much more cheer’d
+With meditation on the happie end.
+He ended, and they both descend the Hill;
+Descended, _Adam_ to the Bowre where _Eve_
+Lay sleeping ran before, but found her wak’t;
+And thus with words not sad she him receav’d.
+
+Whence thou returnst, & whither wentst, I know;
+For God is also in sleep, and Dreams advise,
+Which he hath sent propitious, some great good
+Presaging, since with sorrow and hearts distress
+VVearied I fell asleep: but now lead on;
+In mee is no delay; with thee to goe,
+Is to stay here; without thee here to stay,
+Is to go hence unwilling; thou to mee
+Art all things under Heav’n, all places thou,
+VVho for my wilful crime art banisht hence.
+
+This further consolation yet secure
+I carry hence; though all by mee is lost,
+Such favour I unworthie am voutsaft,
+By mee the Promis’d Seed shall all restore.
+So spake our Mother _Eve_, and _Adam_ heard
+VVell pleas’d, but answer’d not; for now too nigh
+Th’ Archangel stood, and from the other Hill
+To thir fixt Station, all in bright array
+The Cherubim descended; on the ground
+Gliding meteorous, as Ev’ning Mist
+Ris’n from a River o’re the marish glides,
+And gathers ground fast at the Labourers heel
+Homeward returning.  High in Front advanc’t,
+The brandisht Sword of God before them blaz’d
+
+Fierce as a Comet; which with torrid heat,
+And vapour as the _Libyan_ Air adust,
+Began to parch that temperate Clime; whereat
+In either hand the hastning Angel caught
+Our lingring Parents, and to th’ Eastern Gate
+Let them direct, and down the Cliff as fast
+To the subjected Plaine; then disappeer’d.
+They looking back, all th’ Eastern side beheld
+Of Paradise, so late thir happie seat,
+Wav’d over by that flaming Brand, the Gate
+With dreadful Faces throng’d and fierie Armes:
+
+Som natural tears they drop’d, but wip’d them soon;
+**The World was all before them**, where to choose
+Thir place of rest, and Providence thir guide:
+They hand in hand with wandring steps and slow,
+Through _Eden_ took thir solitarie way.

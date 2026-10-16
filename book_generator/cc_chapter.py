@@ -57,13 +57,13 @@ _MIN_WINDOWS = 4
 _MAX_WINDOWS = 25
 
 
-def make_windows(text: str) -> list[str]:
-    n = max(_MIN_WINDOWS, min(_MAX_WINDOWS, round(len(text.split()) / _WORDS_PER_WINDOW)))
+def make_windows(text: str, words_per_window: int = _WORDS_PER_WINDOW) -> list[str]:
+    n = max(_MIN_WINDOWS, min(_MAX_WINDOWS, round(len(text.split()) / words_per_window)))
     windows = _split_text(text, n)
     # A short closing window can't support a card; fold it into the one before.
-    if len(windows) > 1 and len(windows[-1].split()) < len(text.split()) / n * 0.4:
+    while len(windows) > 1 and len(windows[-1].split()) < len(text.split()) / n * 0.4:
         last = windows.pop()
-        windows[-1] = windows[-1] + "\n\n" + last
+        windows[-1] = (windows[-1] + "\n\n" + last).strip()
     return windows
 
 
@@ -99,7 +99,7 @@ def cmd_status(args) -> None:
         src = (TEXTS_ROOT / book["slug"] / f"{c['slug']}.txt").exists()
         done = cp.is_done(book["slug"], c["slug"])
         words = len((TEXTS_ROOT / book["slug"] / f"{c['slug']}.txt").read_text(encoding="utf-8").split()) if src else 0
-        n_win = len(make_windows((TEXTS_ROOT / book["slug"] / f"{c['slug']}.txt").read_text(encoding="utf-8").strip())) if src else 0
+        n_win = len(make_windows((TEXTS_ROOT / book["slug"] / f"{c['slug']}.txt").read_text(encoding="utf-8").strip(), book.get("words_per_window", _WORDS_PER_WINDOW))) if src else 0
         state = "DONE   " if done else ("pending" if src else "no-src ")
         print(f"  {c['number']:>3}  {state}  {words:>6} words  {n_win:>2} windows  {c['title']}")
 
@@ -107,7 +107,7 @@ def cmd_status(args) -> None:
 def cmd_windows(args) -> None:
     config, _ = _load()
     book, chapter = _find_book_chapter(config, args.book, args.chapter)
-    windows = make_windows(_source(book, chapter))
+    windows = make_windows(_source(book, chapter), book.get("words_per_window", _WORDS_PER_WINDOW))
     print(f'Book: "{book["title"]}" by {book["author"]} ({book["year"]})')
     print(f'Chapter {chapter["number"]}: {chapter["title"]}  (slug: {chapter["slug"]})')
     print(f"{len(windows)} windows -> provide EXACTLY {len(windows)} phrases, one verbatim phrase per window, in order.")
@@ -131,7 +131,7 @@ def cmd_assemble(args) -> None:
         sys.exit(f"{json_path} is not valid JSON: {exc}")
 
     original = _source(book, chapter)
-    windows = make_windows(original)
+    windows = make_windows(original, book.get("words_per_window", _WORDS_PER_WINDOW))
     phrases = data.get("phrases", [])
     summary = data.get("summary", [])
     enhancements = data.get("enhancements", [])
