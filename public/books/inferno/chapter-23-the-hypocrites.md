@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Franciscans"
     image_url: ""
     image_caption: ""
-    content: "Slipping away from the squabbling devils, Dante and Virgil walk on silent, alone, not now with company, one first and one behind, as Minor Friars use to make their way. The Minor Friars, the Franciscans, followed the example of Saint Francis of Assisi and travelled in pairs or in single file, in silence and humility, along the roads of Italy. The comparison is conventional but ironic. A canto about to condemn hypocrites begins with a simile that evokes the image of the holiest men in the Church, and it prepares us for a canto that will lampoon false holiness. It also reveals Dante's mood. He has just seen the Malebranche brawl, and he is nervous. His mind goes at once to a fable. On Aesop's fable wholly was my mind intent, the fable where the frog and mouse we find, for Mo and Issa are not more of hue than like the fable shall the fact appear. Mo and issa are Italian words for now and right now, almost synonyms, and the tale he means has a mouse ask a frog for help crossing a stream, and the frog, planning to drown it, is carried off by a hawk. The image of two creatures bound together and ruined by fraud fits the squabbling devils exactly."
-  - id: "mother-fire-child-virgil"
-    trigger: "Even as a mother"
-    title: "Virgil as a Mother Running from a Burning House"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Virgil"
-    image_url: ""
-    image_caption: ""
-    content: "Dante realises that the devils, insulted, will chase them, and he starts to say so when Virgil answers: were I a mirror backed with lead I should no truer glass that form of thine than all thy thought by mine is answered. They have the same idea. Before he can finish the plan, the devils appear overhead with extended wings. Then quickly was I snatched up by my Guide, even as a mother when, awaked by cries, she sees the flames are kindling at her side, delaying not, seizes her child and flies, careful for him her proper danger mocks, nor even with one poor shift herself supplies. The simile is among the warmest in the Inferno. Dante has called Virgil master, lord and father; now Virgil acts as a mother, who does not stop to put on a shift but picks up her child and runs. The comparison is made even more affecting by the details of the house on fire and the child woken by smoke, a scene that every medieval reader would have seen. Virgil then slides down the rock's sheer face, faster than a mill-race at the wheel, with Dante clasped to his chest, like a son locked in a sire's embrace. The poem's rescue scenes are maternal, paternal and mechanical at once."
+    content: "Slipping away from the devils, the poets walk 'silent, alone, one first and one behind, as Minor Friars use to go'. The Minor Friars were the Franciscans, who travelled in pairs or single file, in silence and humility. It is ironic that a canto about hypocrites opens with the image of the holiest men in the Church. Dante's mind turns to Aesop's fable of the frog and mouse, 'mo' and 'issa' being Italian words for 'now' that mean nearly the same thing, a tale of two creatures tied together and ruined by fraud."
   - id: "frederick-lead-cloaks"
     trigger: "Frederick's"
     title: "The Emperor Who Wrapped Traitors in Lead and Melted Them"
     wikipedia_url: "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor"
     image_url: ""
     image_caption: ""
-    content: "In the sixth ditch the poets look down on a painted people weeping as they circle slowly, crushed by fatigue and despair. They wear cloaks with hoods pulled down upon their eyes, fashioned like those which at Cologne for monks they sew. The outer face was gilt so that it gleamed; inside was all of lead, of such a weight Frederick's to these had been but straw esteemed. The reference needs a footnote. According to a legend current in Dante's time, the Emperor Frederick II punished traitors by clothing them in lead, putting them in a cauldron and melting them over a fire. The legend is probably false, but Dante's readers knew it and would have grimaced at the comparison: the cloaks the hypocrites wear are worse than that. The Cologne reference is to the cowls of Benedictine monks, which were wide and flowing. The hypocrites are therefore dressed in the habits of the holy, and the outer gilding is the hypocrisy that they presented to the world, while the lead inside is the weight of their real condition. Notice the allusion to Frederick: the emperor was placed among the heretics in Canto 10, and now his reputation for cruelty is borrowed to describe the severity of this punishment. The same man appears in the poem as sinner and yardstick."
-  - id: "weary-robes-gilded-lead"
-    trigger: "weary robes"
-    title: "The Perfect Punishment for a Life of Appearances"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hypocrisy"
-    image_url: ""
-    image_caption: ""
-    content: "Dante cannot suppress a cry at the sight of the cloaks: O weary robes for an eternal state! The cry names the hypocrites' punishment. Hypocrisy is the sin of the surface, of a person who presents a fine exterior while concealing a different reality. The hypocrites in Dante's ditch carry the symbol of that gap for ever: bright gilt on the outside, lead within. The Italian word hypocrite comes from the Greek for actor, someone who plays a part, and the whole canto is a comment on the stage. Notice that Dante gives them no hands to throw off the load: they walk with the crushing weight of their false lives, so slowly that every step brings new company. The result is a procession in which the pace is set by the heaviest, and it is a slow motion pageant of misery. When Dante says with the Guide turned to the left, intent upon their tears disconsolate, he is walking in step with them. The gilded surface that fools others, in Hell, draws the eye only to the burden beneath. The moral is stark and visual: the better the disguise, the heavier the damnation."
+    content: "The hypocrites wear cloaks gilded outside and leaden within, so heavy that 'Frederick's were straw to them'. A legend current in Dante's time said that Emperor Frederick II punished traitors by encasing them in lead and melting them in a cauldron. The legend is probably false, but readers knew it and would grimace: this punishment is worse. The cloaks are cut like those of Benedictine monks at Cologne, so hypocrites are dressed in the habits of the holy. Frederick, placed among the heretics in Canto 10, here supplies the yardstick of cruelty."
   - id: "frati-gaudenti-catalano-loderingo"
     trigger: "Merry Friars"
     title: "The Two Friars Who Governed Florence and Ruined Its Ghibellines"
     wikipedia_url: "https://en.wikipedia.org/wiki/Order_of_the_Blessed_Virgin_Mary"
     image_url: ""
     image_caption: ""
-    content: "Two hooded figures stop Dante, drawn by his breathing, which shows he is alive, and ask him to tell who he is. He answers that he was born by the Arno in the great city and wears the body he has always worn. Then one of them explains: we, Merry Friars of Bologna's state, I Catalano, Loderingo he, were by thy town together designate, as for the most part one is used to be, to keep the peace within it; and around Gardingo, what we were men still may see. The Merry Friars, in Italian the Frati Gaudenti, were the Knights of the Blessed Virgin Mary, a military religious order founded in Bologna in 1261 whose members took vows but lived comfortably, earning the nickname jolly or merry. Catalano di Guido and Loderingo degli Andalò, one Guelph and one Ghibelline, were invited in 1266 to govern Florence jointly as a neutral pair, and instead favoured the Guelphs and destroyed the Ghibelline houses in the Gardingo district, the quarter of the Uberti, so that the ruins remained visible. They are in Hell because they pretended to impartiality while serving a party. Dante's own city was the victim of their hypocrisy, and the evidence is still standing."
+    content: "Two hooded sinners introduce themselves: 'Merry Friars of Bologna, I Catalano, Loderingo he'. The Frati Gaudenti, Knights of the Blessed Virgin Mary, were a military religious order founded in Bologna in 1261 whose members lived comfortably. In 1266 Catalano di Guido (a Guelph) and Loderingo degli Andalo (a Ghibelline) were invited to govern Florence jointly as a neutral pair, and instead favoured the Guelphs and razed the Ghibelline houses in the Gardingo district, whose ruins could still be seen. They pretended to impartiality while serving a party."
   - id: "caiaphas-crucified-three-stakes"
     trigger: "crucified by three stakes"
     title: "The High Priest Who Lies Where Everyone Walks on Him"
     wikipedia_url: "https://en.wikipedia.org/wiki/Caiaphas"
     image_url: ""
     image_caption: ""
-    content: "Dante is about to answer the friars when he sees, lying across the path, one crucified by three stakes to the ground, who writhes and sighs into his beard when he sees the pilgrim. Catalano explains: he thus fixed counselled the Pharisees that it behoved one man as victim for the folk should die. This is Caiaphas, the high priest in the Gospel of John who persuaded the council that it was better for one man to die for the people than for the whole nation to perish, a counsel that led to the arrest of Jesus. He lies naked, set across the path, so that every passing hypocrite must trample him and prove the weight of his lead; and his father-in-law Annas and the others of the council share the same fate in the ditch. The justification is the contrapasso at its sharpest. Caiaphas crucified Christ in effect, and he is now crucified himself, but face-up on the road, not raised on a hill. He is also the pretext for one of the poem's most subtle moments. Virgil, who has never seen him, looks on with astonishment at his mean exile and eternal loss, for this is a being that the Harrowing could not have known, a man placed in Hell after Virgil came."
-  - id: "devil-father-of-lies"
-    trigger: "father is of lies"
-    title: "The Bolognese Joke That Reveals Virgil Was Fooled"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Father_of_lies"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil asks the friars whether there is a way out of this ditch without needing the black angelic company, the Malebranche, to help. Catalano points to a rib of rock nearby, ruined but climbable, and adds the news that makes Virgil bow his head. The guide mutters: he warned us in imperfect wise who sinners with his hook doth clutch and steep. In other words, Malacoda had lied about the route. The friar remarks with dry wit: at Bologna many a vice I heard the Devil charged with, and among the rest that false he father is of lies. The line quotes the Gospel of John, where Jesus calls the Devil a liar and the father of lies, and it comes from a man who studied theology at Bologna. It is gently amusing, and the comedy goes to a moral point. The devil of Canto 21 presented himself as helpful and exact, giving the date of the Crucifixion to the hour, and it was all to send the travellers to a broken bridge. The fact that Virgil is fooled by the Prince of Lies shows his limits. He moves on with a slight shade of anger on his face, and Dante follows, stepping where those dear feet had left their trace."
+    content: "Dante sees a man 'crucified by three stakes' across the path, trampled by every passing hypocrite. Catalano explains that he is Caiaphas, the high priest in John's Gospel who told the council it was better for one man to die for the people than for the nation to perish, leading to Jesus's arrest. His father-in-law Annas and the council share the fate. The justice is a mirror: he crucified Christ in effect and is now crucified himself, but face-up on the road. Virgil is astonished, since Caiaphas came to Hell after Virgil's time."
 ---
-Silent, alone, not now with company
+  Silent, alone, not now with company
     We onward went, one first and one behind,
     As **Minor Friars** use to make their way.
 
@@ -128,7 +107,7 @@ Silent, alone, not now with company
     Close on us; as of us to make their prey.
 
   Then quickly was I snatched up by my Guide:
-    **Even as a mother** when, awaked by cries,
+    Even as a mother when, awaked by cries,
     She sees the flames are kindling at her side,
 
   Delaying not, seizes her child and flies;
@@ -167,7 +146,7 @@ Silent, alone, not now with company
     Inside was all of lead, of such a weight
     **Frederick's** to these had been but straw esteemed.
 
-  O **weary robes** for an eternal state!
+  O weary robes for an eternal state!
     With them we turned to the left hand once more,
     Intent upon their tears disconsolate.
 
@@ -269,7 +248,7 @@ Silent, alone, not now with company
 
   The Friar: 'At Bologna many a vice
     I heard the Devil charged with, and among
-    The rest that, false, he **father is of lies**.'
+    The rest that, false, he father is of lies.'
 
   Then onward moved my Guide with paces long,
     And some slight shade of anger on his face.

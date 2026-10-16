@@ -335,7 +335,8 @@
     raw = raw.replace(/\r\n/g, '\n');
     const m = raw.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
     if (!m) return { meta: {}, body: raw };
-    return { meta: parseYaml(m[1]), body: m[2].trim() };
+    // Strip leading newlines only: an indented first line is how all-verse books (Inferno) get recognised as verse.
+    return { meta: parseYaml(m[1]), body: m[2].replace(/^\n+/, '').trimEnd() };
   }
 
   function parseYaml(src) {

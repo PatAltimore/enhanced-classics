@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Vexilla_regis"
     image_url: ""
     image_caption: ""
-    content: "The last canto opens in Latin: Vexilla Regis prodeunt Inferni towards where we are; seek then with vision keen, my Master bade, if trace of him thou spy. Virgil is quoting, with a changed word, the first line of a Latin hymn written in the sixth century by Venantius Fortunatus, Vexilla regis prodeunt, the banners of the King come forth. It was sung in the Church's liturgy during Holy Week, in the procession of the cross, and Dante's audience would have recognised it at once. By adding the word Inferni, of Hell, he turns the hymn into a parody: the banners that advance now belong to the King of Hell. The hymn praises the cross as the standard of Christ's victory; here the standard is Satan's wings, beating in the dark. It is also Holy Saturday, the day after Good Friday, and the hymn belongs to the season. The effect is to place the figure of Satan in the Church's calendar as the dark mirror of the Passion. What the poet and his guide first see is a shape like a windmill seen from afar through the mist or at night, a revolving structure that drives Dante behind Virgil for shelter. The great enemy is a machine for making wind, and the wind freezes the lake of Cocytus."
-  - id: "satan-three-faces-trinity"
-    trigger: "three faces grew"
-    title: "Satan's Three Faces: A Mirror of the Trinity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Satan"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil stops: lo, Dis! And lo, we are arrived at last where thou must nerve thee and must make thee bold. Dante cannot describe his feelings: I was not dead, yet living was not quite. The Emperor of that tormented realm stands out of the ice to middle breast, so vast that Dante is smaller compared to a giant than a giant to his arm. If he was fair of old as hideous now, and yet his brows against his Maker raised, meetly from him doth all affliction flow. Then comes the strangest detail: O how it made me horribly amazed when on his head I saw three faces grew! The one vermilion looked straight forward; one rose from each shoulder bone, joining on the crest; the right-hand one was between white and yellow, the left like the people from where the Nile comes down, dark. The three faces mock the Trinity. Red, yellow-white and black are often read as the opposites of the divine attributes of power, wisdom and love, or as the three races of the known world, or as the colours of anger, envy and sloth. Satan, the first created and most beautiful of the angels, is the ultimate distortion of God's image, a Trinity of hatred."
-  - id: "satan-bat-wings-cocytus"
-    trigger: "a bat's wing"
-    title: "How the Devil's Wings Made the Ice at the Bottom of Hell"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cocytus"
-    image_url: ""
-    image_caption: ""
-    content: "Beneath each of Satan's three faces rise two mighty wings, such as this bird tremendous might demand: sails of sea-ships ne'er saw I of such size. Not feathered were they, but in style were planned like a bat's wing; by them a threefold breeze, for still he flapped them, evermore was fanned, and through its depths Cocytus caused to freeze. The cold of Hell's centre is thus produced by the devil's own effort. This is an astonishing reversal of the tradition in which Hell is a place of fire. Dante has made it a place of ice, and the source of the ice is the creature he cannot stop beating his wings in the attempt to rise. The more Satan struggles to escape, the more he freezes his own prison. The wings are bat's wings, not birds' feathers, because the bat is a creature of darkness, and the contrast with the wings of the angels is deliberate: Satan was once the highest seraph, with six wings. From his six eyes tears flow down three chins, mixed with red foam. The tears of the devil add to the waters of Cocytus. Hell's lowest king is neither triumphant nor in command; he weeps, bleeds and chews, and the consequence of his rebellion is pure helplessness."
+    content: "The last canto opens in Latin: 'Vexilla Regis prodeunt Inferni', 'the banners of the King of Hell come forth'. Virgil quotes, with one word added, the opening of a sixth-century hymn by Venantius Fortunatus, Vexilla regis prodeunt, 'the banners of the King come forth', sung in the Holy Week procession of the cross. Dante turns it into parody: the standard now belongs to the King of Hell. What he sees is a vast windmill-like shape in the mist, a machine making wind, and the wind of Satan's six wings freezes the lake."
   - id: "judas-brutus-cassius-three-traitors"
     trigger: "Judas 'Scariot"
     title: "Why Dante Placed Brutus and Cassius Beside Judas"
     wikipedia_url: "https://en.wikipedia.org/wiki/Judas_Iscariot"
     image_url: ""
     image_caption: ""
-    content: "In each of Satan's three mouths a sinner is being chewed. Virgil names them. The soul up yonder in the greater pain is Judas 'Scariot, with his head among the teeth, while outward strain his legs. Of the two whose heads are downward hung, Brutus is from the black jowl pendulous: see how he writhes, yet never wags his tongue. The other, great of thew, is Cassius. Judas betrayed Jesus for thirty pieces of silver. Brutus and Cassius were the leading conspirators who stabbed Julius Caesar in 44 BC. Placing them at the very bottom, in the same position as Judas, shows how Dante read history. For him, Christ founded the Church, the spiritual authority, and Caesar founded the Roman Empire, the temporal authority, and both were instituted by God. To betray either was to betray the divine order, so the worst traitors in history are those who struck at the two foundations of the world. The reading is not universal. Brutus has been admired as a defender of liberty by Cicero and later republicans, and Dante's contemporaries sometimes shared that view. But Dante, who in his political treatise championed universal monarchy, puts the assassins of the first emperor where they can neither speak nor rest. Judas, who suffers most, has his head inside and his back skinned."
+    content: "Satan has three faces, vermilion, pale yellow and black, mocking the Trinity, and in each mouth he chews a sinner: 'Judas 'Scariot', head inside and legs out, and Brutus and Cassius hanging from the other two jaws. Judas betrayed Christ; Brutus and Cassius stabbed Julius Caesar. For Dante, Christ founded the Church and Caesar the Empire, both ordained by God, so the worst traitors are those who struck at the world's two foundations. Brutus was admired by Cicero and later republicans, but Dante, champion of universal monarchy, leaves him silent."
   - id: "satan-upturned-legs-centre-gravity"
     trigger: "his upturned legs and feet"
     title: "The Moment Dante Realised He Had Passed the Centre of the World"
     wikipedia_url: "https://en.wikipedia.org/wiki/Center_of_the_Earth"
     image_url: ""
     image_caption: ""
-    content: "Night is rising, Virgil says, and we must go. Dante clings to his neck, and Virgil, choosing his moment when the wings are wide, grasps Satan's shaggy ribs and climbs down from tuft to tuft between the tangled hair and the crust of ice. At the hip-joint, where the thigh bulges, Virgil turns his head toward where his feet had been, like a climber, and clutches the hair: I thought to Hell that we returned again. He sets Dante on the edge of a rock and climbs up beside him. Dante looks for the head of Lucifer and sees instead his upturned legs and feet. If in perplexity I then was cast, let ignorant people think who do not see what point it was that I had lately passed. They have passed the centre of the earth, the point at which all weights converge. In the medieval cosmos, the earth was the centre of the universe and Satan, fallen from heaven, stuck at its core. By climbing down Satan's body to the waist and then continuing, Virgil has turned over, so that he and Dante are now climbing up. Dante's physical confusion is the poem's last great joke on the reader's senses, and its deepest illustration of a conversion of direction."
-  - id: "antipodes-evening-morning-jerusalem"
-    trigger: "evening yonder when 'tis morning here"
-    title: "How Virgil Explained That the Sun Had Jumped Twelve Hours"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Divine_Comedy"
-    image_url: ""
-    image_caption: ""
-    content: "Dante asks Virgil three bewildered questions: where lies the ice? How hold we Lucifer in sight set upside down? How did the sun pass so quickly from night to morning? Virgil explains. In fancy thou art standing still on yonder side of the centre, where I caught the vile worm's hair which through the world doth drill. When I turned, the centre was passed by which by all weights from every point is sought. And now thou standest 'neath the other sky, opposed to that which vaults the great dry ground, and 'neath whose summit there did whilom die the Man whose birth and life were sinless found. Thy feet are firm upon the little sphere, on this side answering to Judecca's round. 'Tis evening yonder when 'tis morning here. They are in the southern hemisphere, opposite Jerusalem, where Christ died. Time has leapt twelve hours; Virgil said the sun was at mid tierce, around half past seven, though it was evening in the northern hemisphere. Dante has taken the Ptolemaic view of a spherical earth with a sea of water covering the southern half, and Satan's fall, he explains, thrust the land into the northern half, while the land of the south rose up to form the mountain of Purgatory. Geography and theology are the same drawing."
+    content: "Virgil climbs down Satan's shaggy ribs, turns at the hip, and clambers up; Dante expects to see Lucifer's head and sees 'his upturned legs and feet'. They have passed the centre of the earth, where all weights converge. In the medieval cosmos the earth was the centre of the universe and Satan, fallen from heaven, was stuck at its core. By turning over, Virgil and Dante have begun to climb up. It is the poem's last joke on the reader's senses and its deepest picture of conversion: to leave Hell you must go all the way down, then turn."
   - id: "stars-again-stelle-ending"
     trigger: "we saw the stars again"
     title: "The Word Dante Ended Each of the Three Canticles With"
     wikipedia_url: "https://en.wikipedia.org/wiki/Divine_Comedy"
     image_url: ""
     image_caption: ""
-    content: "The poets follow the sound of a brook through a narrow channel in the rock, gently ascending, with no thought of resting. He first, I second, still ascending held our way until the fair celestial train was through an opening round to me revealed: and, issuing thence, we saw the stars again. In Italian the line is e quindi uscimmo a riveder le stelle, and the final word is stelle, stars. It is the last word of the Inferno, and the last word of each of the other two canticles is also stelle: in the Purgatorio, puro e disposto a salire a le stelle, pure and ready to climb to the stars; and in the Paradiso, l'amor che move il sole e l'altre stelle, the love that moves the sun and the other stars. The pattern is deliberate. Each canticle ends by looking up. After the days and nights in the pit, the sight of the night sky has the force of resurrection. The journey has taken them through Hell's centre, up the back of the ancient enemy and through a tunnel to the shore of the southern hemisphere, where the stars of another half of the sky await them. For the reader who has followed the descent, the line is the first full breath. The poem has gone down only to turn."
+    content: "The poets crawl through a tunnel following a brook, 'and thence we came forth to see the stars again'. The Italian ends e quindi uscimmo a riveder le stelle, and each of the Comedy's three parts ends with the word stelle: in Purgatorio, 'pure and ready to climb to the stars', and in Paradiso, 'the love that moves the sun and the other stars'. Each canticle ends by looking up. After a day in the pit, the night sky has the force of resurrection. They are now in the southern hemisphere, at the foot of the mountain of Purgatory."
 ---
-'_Vexilla_ _**Regis prodeunt Inferni**_
+  '_Vexilla_ _**Regis prodeunt Inferni**_
     Towards where we are; seek then with vision keen,'
     My Master bade, 'if trace of him thou spy.'
 
@@ -128,7 +107,7 @@ enhancements:
     Meetly from him doth all affliction flow.
 
   O how it made me horribly amazed
-    When on his head I saw **three faces grew**!
+    When on his head I saw three faces grew!
     The one vermilion which straight forward gazed;
 
   And joining on to it were other two,
@@ -144,7 +123,7 @@ enhancements:
     Sails of sea-ships ne'er saw I of such size.
 
   Not feathered were they, but in style were planned
-    Like **a bat's wing**: by them a threefold breeze--
+    Like a bat's wing: by them a threefold breeze--
     For still he flapped them--evermore was fanned,
 
   And through its depths Cocytus caused to freeze.
@@ -235,7 +214,7 @@ enhancements:
     Thy feet are firm upon the little sphere,
     On this side answering to Judecca's round.
 
-  'Tis **evening yonder when 'tis morning here**;
+  'Tis evening yonder when 'tis morning here;
     And he whose tufts our ladder rungs supplied.
     Fixed as he was continues to appear.
 

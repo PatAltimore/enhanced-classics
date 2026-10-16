@@ -29,61 +29,33 @@ summary:
     link_label: "Li Livres dou Tresor"
 
 enhancements:
-  - id: "flemings-dikes-brenta"
-    trigger: "the Flemings"
-    title: "The Dutch-Style Dikes Dante Imagined Under Hell's Fire"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Flanders"
-    image_url: ""
-    image_caption: ""
-    content: "To describe the stone embankments that carry the poets safely through the rain of fire, Dante reaches for two feats of engineering. Like walls the Flemings, timorous of the flood which towards them pours betwixt Bruges and Cadsand, have made, that ocean's charge may be withstood; or what the Paduans on the Brenta's strand to guard their castles and their homesteads rear, ere Chiarentana feel the spring-tide bland. The first image refers to the sea dikes of Flanders, built along a coast between the port of Bruges and the island of Cadsand, where the sea threatened low farmland. The second is the river Brenta, near Padua, whose banks were walled against the melting of the snows in Carinthia, which Dante calls Chiarentana. These are the poem's equivalent of tourist observations: Dante, an exile who travelled widely, knew about northern European dikes, and he trusts his reader to know them too. Then he deflates his own comparison with dry modesty. The builder, whoever he was, did not make them so high or so vast. The detail that matters is the steam. Vapour from the red rivulet forms a cloud that shelters the walkers, so a stream of blood is the thing that keeps off the fire. Even in this landscape, nature has its own flood control."
   - id: "brunetto-latini-teacher"
     trigger: "Ser Brunetto"
     title: "The Famous Teacher Dante Found in the Burning Sand"
     wikipedia_url: "https://en.wikipedia.org/wiki/Brunetto_Latini"
     image_url: ""
     image_caption: ""
-    content: "A scorched face in the crowd of passing sinners seizes Dante's gown and cries aloud in astonishment. Dante looks at the fire-baked features, recognises them, and exclaims: Ser Brunetto! and is this your place? Brunetto Latini (c. 1220-1294) was a Florentine notary, diplomat and writer. A Guelph, he was exiled after the defeat at Montaperti in 1260, spent years in France, and returned to become a prominent public official. In France he wrote Li Livres dou Tresor, an encyclopaedia in French prose summarising history, science, rhetoric and ethics, and in Italian the allegorical poem Tesoretto. Dante's phrase Ser, the title for a notary, is respectful, almost affectionate, and the whole canto continues in that tone. The surprise is the sin, which Dante does not name here, but which the circle has already announced: sodomy, violence against nature. Early commentators and modern scholars disagree about the evidence. What is certain is the poet's attitude. In place of condemnation there is warm conversation, and Brunetto's courtesy gives the encounter its force. Dante has met his teacher in Hell and treats him as a teacher still, which is one of the poem's quiet challenges to its own system of judgement."
-  - id: "dante-bows-to-brunetto"
-    trigger: "low I bent my head"
-    title: "Why Dante Refuses to Step Off the Path"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Brunetto_Latini"
-    image_url: ""
-    image_caption: ""
-    content: "Brunetto asks to walk with Dante for a while, but warns that none of his band may pause for a moment, or he must lie for an age with no way to fan himself when flames are round him lit. Dante offers to sit with him; Brunetto refuses and says he will follow at Dante's skirts and rejoin his troop afterwards. Dante does not dare step from the path to the plain to walk beside him, but low I bent my head, like one whose steps are all with reverence ta'en. The gesture is full of meaning. The embankment on which Dante walks is the cool stone, and the sand beyond burns; to step down would mean joining the sinners on their ground. It would also be, in the poem's moral code, a violation of the order that keeps him apart. Yet his body language is that of a pupil with a master: bent head, lowered gaze, close attendance. The poem lets Dante express a respect that its doctrine cannot grant. Virgil, the other great teacher in the scene, says nothing at this point. The two relationships overlap, and the poem lets them stand together without reconciling them, which is one of its most honest moments."
+    content: "Dante recognises a scorched face and cries 'Ser Brunetto! and is this your place?' Brunetto Latini (c. 1220-1294) was a Florentine notary and diplomat, exiled after Montaperti, who in France wrote Li Livres dou Tresor, an encyclopaedia in French prose, and in Italian the allegorical Tesoretto. 'Ser' is the notary's respectful title. The sin is not named, though the circle announces it, and scholars disagree about the evidence; what is certain is Dante's warmth. Hell has made him a teacher's pupil again, which quietly challenges its own judgement."
   - id: "fiesole-mellow-fig-crabtrees"
     trigger: "the mellow fig"
     title: "The Founding Myth Behind Brunetto's Warning About Florence"
     wikipedia_url: "https://en.wikipedia.org/wiki/Fiesole"
     image_url: ""
     image_caption: ""
-    content: "Brunetto looks at the destiny of his old pupil and gives a blunt prophecy: that ungrateful and malignant race which down from Fiesole came long ago, and still its rocky origin betrays, will for thy worthiness become thy foe, for 'mong crab-trees wild it ill befits the mellow fig to grow. The reference needs explaining. Florentine legend held that the city had been founded by Roman settlers sent by Julius Caesar, who mixed with the rough hill people of nearby Fiesole, the old Etruscan town on the ridge above. The Florentines, in this story, were a hybrid of cultivated Romans and uncouth highlanders, and Dante believed their worst traits came from the second group. He calls them blind, rapacious, envious and vain. The fig and the crab apple are the image of this mismatch: a sweet, cultivated fruit forced to grow among sour, wild stock. Brunetto's message is a double one. It is a prediction of the exile Dante will suffer after 1302, when the Black party has taken the city. It is also a warning not to become one of them: see by their manners thou be not defiled. The prophecy is delivered by a man who already knows what Florence does to its best."
+    content: "Brunetto prophesies that the 'ungrateful and malignant race that came down from Fiesole' will hate Dante for his worth, since 'among crab-trees wild it ill befits the mellow fig to grow'. Florentine legend said the city had been founded by Romans sent by Caesar who mixed with the rough hill people of Fiesole, so Florentines were cultivated Romans spoiled by uncouth highlanders. Dante calls them blind, rapacious, envious and vain. It is a forecast of the exile after 1302 and also a warning not to become one of them."
   - id: "escape-oblivion-brunetto-fame"
     trigger: "escape oblivion"
     title: "The Immortality Dante Learned From a Man in Hell"
     wikipedia_url: "https://en.wikipedia.org/wiki/Li_Livres_dou_Tresor"
     image_url: ""
     image_caption: ""
-    content: "Dante answers his teacher with feeling. If his own prayer had been answered in full, he says, you would not yet be doomed to this exile from humanity. For in my heart and memory lives the paternal image good and dear of you, as in the world, from day to day, how men escape oblivion you made clear. The sentence is notable for what it admits. Brunetto taught Dante how a person becomes eternal, how to escape oblivion by writing, by learning and by deeds, and the pupil's gratitude will be paid in verse as long as he lives. The wording is a quiet irony. The man who taught the art of being remembered is in Hell, where he is also the one who must ask to be remembered. The claim is also the poem's self-portrait: the Divine Comedy is Dante's own answer to the question of how to escape oblivion, and Brunetto is its first honoured teacher. Medieval ideas of fame came from Cicero and the Roman writers Brunetto translated into French and Italian, with their belief that lasting reputation was the best consolation for a short life. Dante is repaying that debt in full, and also pushing past the lesson: he will use fame in the service of salvation, not as a substitute."
-  - id: "fortune-wheel-mattock"
-    trigger: "Fortune turn her wheel"
-    title: "How Dante Answers Fate With a Peasant's Hoe"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Wheel_of_Fortune"
-    image_url: ""
-    image_caption: ""
-    content: "After hearing the prophecy of exile, Dante replies with resolve: if my conscience gives no reproach, my soul is composed to all my fortune. The hint is not new to me. Therefore let Fortune turn her wheel apace, even as she will; the clown his mattock wield. The image of the wheel was one of the best-known symbols of the Middle Ages. Boethius's Consolation of Philosophy had made Fortune a blind goddess turning a wheel on which kings rise and fall, and manuscripts and church doors showed a king at the top, a beggar at the bottom. Dante has already given Fortune a place in the poem: in the seventh canto Virgil describes her as an angelic minister of God's providence. The reply of the pilgrim is deliberately humble. A peasant with a mattock does not fear the wheel, because he is already at the bottom; he can only dig. Dante identifies with him rather than with the nobles whom Fortune throws down. Virgil, overhearing, turns and says, with a look: he hears to purpose who doth mark the place. The advice is both practical and quietly approving. Don't just listen; keep note of the words, because they will be needed. The remark turns a bad prophecy into a text to be annotated."
-  - id: "priscian-accorso-clerks"
-    trigger: "Priscian"
-    title: "The Scholars and Bishop Who Share Brunetto's Sand"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Priscian"
-    image_url: ""
-    image_caption: ""
-    content: "Pressed by Dante to name his companions, Brunetto says only that all of them were clerks, all men of letters, famous and of might, stained with one sin. Then he lists three: Priscian goes with that crowd of evil plight, Francis d'Accorso too, and the Slave of Slaves, changed from Arno's banks to the Bacchiglione. Priscian of Caesarea was the Latin grammarian of the sixth century, whose textbook Institutiones grammaticae was the foundation of medieval Latin teaching; every schoolboy knew him. Francesco d'Accorso (1225-1293) was a leading jurist from Bologna who also taught at Oxford. The third is Andrea de' Mozzi, bishop of Florence, whom Pope Boniface VIII, the servant of the servants of God, transferred to Vicenza on the river Bacchiglione, where he died. Brunetto's sarcasm is that the pope's own title, Servus servorum Dei, has been twisted into Slave of Slaves. What is striking is the professional profile of the group. Teachers, lawyers and clergy are the same type, men of learning and standing, and the poem hints that the sin attached to such careers was a failing of the learned world. Dante is sorting his teachers and mentors into Hell as well as honouring them, and the list shows how little his gratitude depends on approval."
+    content: "Dante thanks his teacher: 'how men escape oblivion you made clear'. Brunetto taught him how a person becomes eternal through writing, learning and deeds, and the pupil will pay the debt in verse. The irony is sharp: the man who taught the art of being remembered is in Hell and ends by asking, 'Care for my Treasure; I still survive in that my work.' The idea of lasting fame came from Cicero and the Roman writers Brunetto translated. Dante repays the debt and pushes past it, using fame in the service of salvation."
 ---
-Now lies our way along one of the margins hard;
+  Now lies our way along one of the margins hard;
     Steam rising from the rivulet forms a cloud,
     Which 'gainst the fire doth brook and borders guard.
 
-  Like walls **the Flemings**, timorous of the flood
+  Like walls the Flemings, timorous of the flood
     Which towards them pours betwixt Bruges and Cadsand,
     Have made, that ocean's charge may be withstood;
 
@@ -136,7 +108,7 @@ Now lies our way along one of the margins hard;
     Who mourn a loss large as eternity.'
 
   I dared not from the path step to the plain
-    To walk with him, but **low I bent my head**,
+    To walk with him, but low I bent my head,
     Like one whose steps are all with reverence ta'en.
 
   'What fortune or what destiny,' he said,
@@ -204,7 +176,7 @@ Now lies our way along one of the margins hard;
     To all my fortune is my soul composed.
 
   Not new to me the hint by you revealed;
-    Therefore let **Fortune turn her wheel** apace,
+    Therefore let Fortune turn her wheel apace,
     Even as she will; the clown his mattock wield.'
 
   Thereon my Master right about did face,
@@ -223,7 +195,7 @@ Now lies our way along one of the margins hard;
     All men of letters, famous and of might;
     Stained with one sin all from the world are come.
 
-  **Priscian** goes with that crowd of evil plight,
+  Priscian goes with that crowd of evil plight,
     Francis d'Accorso too; and hadst thou mind
     For suchlike trash thou mightest have had sight
 

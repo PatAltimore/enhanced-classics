@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Minos"
     image_url: ""
     image_caption: ""
-    content: "At the entrance to the second circle Dante meets the first of Hell's official judges, Minos, who snarls at each arrival and examines every sin. The sentence is passed by a bodily signal: as he girds him with his tail, he coils it around himself as many times as the number of the circle to which the soul must go. In Greek myth, Minos was the king of Crete, famous as the ruler who kept the Minotaur in the labyrinth. After his death, according to tradition, he became one of the judges of the underworld, and in the sixth book of the Aeneid Virgil shows him shaking an urn and hearing the cases of the silent. Dante keeps the job and strips away the dignity. His Minos is a demon with a tail, who, when he sees Dante, shouts a warning not to be fooled by ease of entry. Virgil's answer uses almost exactly the words that silenced Charon: it is willed where what is willed is done. The repetition is a clue. Hell is a well-run state, and every functionary is an agent of the same order. Even a monster who sentences the damned by a coil of his tail is working to a divine job description."
-  - id: "starlings-cranes-contrapasso"
-    trigger: "starlings in the winter-time"
-    title: "The Flock of Doomed Lovers Dante Compares to Birds"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Contrapasso"
-    image_url: ""
-    image_caption: ""
-    content: "The punishment of the lustful is a storm that never rests, a hurricane that smites and whirls the shades, never letting them be. Dante illustrates it with three bird similes in quick succession. First come starlings in the winter-time, floating in crowded phalanx wide; then cranes in long-drawn company, uttering their song as they fly; later, doves with open wings returning to the nest. The choice of birds is shrewd. Starlings in winter flock in vast, shifting clouds, carried by every gust and unable to settle. Cranes fly in a trailing line, crying out as they go. Doves are the traditional creatures of desire. By describing the lustful as birds, Dante points to their sin: they let impulse rule over reason, and so they are blown wherever the wind sends them. This is the first clear example of what later commentators call contrapasso, the principle that the punishment mirrors the sin. The lovers who were swept away by passion in life are swept away for ever. The passage also contains a rare piece of understatement from Dante: for their comfort they spy no hope of rest, or even of suffering mollified. The storm does not stop for love, and it does not stop for anyone."
+    content: "Minos, king of Crete in Greek myth, became one of the underworld's judges in Virgil's Aeneid. Dante turns him into a snarling demon who sentences souls with his tail, which coils as many times as the number of the circle to which each must descend. He warns Dante not to be misled by the ease of entry, and Virgil silences him with the formula that quieted Charon, 'it is willed where what is willed is done'. Even a monster with a tail is working to a divine job description."
   - id: "semiramis-assyrian-queen"
     trigger: "Semiramis"
     title: "The Queen Who Rewrote the Law to Excuse Herself"
     wikipedia_url: "https://en.wikipedia.org/wiki/Semiramis"
     image_url: ""
     image_caption: ""
-    content: "Virgil begins his roll call with an empress. She is Semiramis, who ruled over many tongues and peoples, ruined so by licentious sin that she decreed lust should be uncontrolled to ease the shame that she herself was in. She was a legendary Assyrian queen, said to have succeeded her husband Ninus, built the walls of Babylon and conquered much of Asia. Ancient writers, followed by Orosius whom Dante knew, told scandalous stories about her, including the claim that she had a love affair with her own son, and that, to hide it, she made every kind of desire legal. Dante takes the rumour as fact and the law as the crime: a ruler who uses power to give her appetite the dignity of statute. The detail about Babylon is also a small geographic slip. The lines say her realms are now ruled by the Sultan, meaning the Sultan of Egypt, because medieval writers often conflated Babylon with Cairo. The list that follows is dazzling and cruel: Dido, who broke her vow to her dead husband, Cleopatra, Helen, Achilles, Paris. In the second circle, Dante makes love an equal-opportunity ruin, and puts a queen at the head of the line."
-  - id: "tristan-arthurian-lovers"
-    trigger: "Tristram"
-    title: "Why Dante Filed a Fictional Knight Beside Helen of Troy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tristan_and_Iseult"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil's list of the carried-away continues: Helen, for whom so many years ran out in woe; the great Achilles, who at the last encountered love for foe; Paris and Tristram. Look at who stands in the same sentence. Helen and Paris are mythic figures from the Trojan story, Achilles a hero in the Iliad, and Tristram is the knight of Arthurian romance, a literary creation of the twelfth century who loved Iseult, his uncle King Mark's bride. Dante treats them all as equally real, a thousand shades and more, whom love from life withdrew. This is a significant choice. For a modern reader there is an obvious difference between figures from history and characters from storybooks, but Dante does not make it. Stories are part of the moral world. The romance of Tristan and Iseult, in which a magic potion makes two people love against their will, was among the most popular tales in Europe. In the lines that follow, Dante will show how such a story can do real damage. The Tristan tale is the preface to the Lancelot tale, and the two together make this circle a library as much as a prison. Dante, himself a poet of courtly love, is putting his own tastes on trial."
+    content: "Virgil begins the roll of the lust-driven with an empress. Semiramis, the legendary Assyrian queen, was said by writers such as Orosius to have had a love affair with her son and to have made lust lawful 'to ease the shame she herself was in'. Dante takes the rumour as fact and the law as the crime: a ruler using power to dignify appetite. He follows with Dido, Cleopatra, Helen, Achilles, Paris and the Arthurian knight Tristan, treating myth and romance as equally real."
   - id: "amor-ch-a-nullo-amato"
     trigger: "absolves no one beloved from love"
     title: "The Line Francesca Borrowed From Dante's Own Early Poems"
     wikipedia_url: "https://en.wikipedia.org/wiki/Francesca_da_Rimini"
     image_url: ""
     image_caption: ""
-    content: "Francesca's speech opens in a trance of repetition. Love, she says in one of the most quoted lines in Italian, absolves no one beloved from loving. In Dante's Italian, three consecutive tercets begin with the word Amor, and the pattern shows how thoroughly she thinks in the idiom of courtly poetry. A courtly reader would have recognised the sources. Her opening, that love is quickly kindled in a gentle heart, quotes the poet Guido Guinizelli, and Dante himself had echoed the same idea in the Vita Nuova. In other words, the dying woman is using the language of Dante's early work, which means that he is hearing his own theories of love turn into an alibi. Her tale gives a historical context. Francesca da Polenta was the daughter of a lord of Ravenna, the city on the coast where the Po meets the sea, and the place where Dante would eventually die in exile. She was married for political reasons to Gianciotto Malatesta of Rimini, and killed around 1285 with her brother-in-law Paolo. Notice what she does not say: she never names herself, and she never names Paolo. The grammar of passion makes the lovers vanish into a force called Love."
-  - id: "caina-ring-of-kin-betrayers"
-    trigger: "Caïna"
-    title: "The Husband Dante Condemned Before He Was Dead"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cocytus"
-    image_url: ""
-    image_caption: ""
-    content: "Francesca ends her account of her death with a prophecy: for him who slew us waits Caïna now. Caïna is the first ring of the lowest level of Hell, where the souls of those who betrayed their own kin lie frozen in the ice, named for Cain, who killed his brother Abel. The man she means is her husband, Gianciotto Malatesta, the lame lord of Rimini who surprised the couple and stabbed them both. Here is the startling fact: in the fictional spring of 1300, Gianciotto was still alive. He died in 1304, and Dante, writing years later in exile, knew it. The poem therefore pronounces a damnation on a living man's behalf, a bold use of the form: Hell as a place where the poet can anticipate verdicts in advance. It also tilts the sympathy of the scene. Francesca's cry that love led us where we in one death were caught asks us to pity the victims while the murderer waits in the pit. Dante will take that pity apart a few lines later, but the order matters. He gives Francesca the first move. The sin that sent her here is still very much alive in her voice, and so is the grievance."
+    content: "Francesca speaks in three tercets that each begin with Amor, and her idiom is borrowed from courtly poetry, including Guido Guinizelli and Dante's own early work, so he hears his theories of love become an alibi. Francesca da Polenta, daughter of the lord of Ravenna, where Dante would die in exile, was married to Gianciotto Malatesta of Rimini and killed with her brother-in-law Paolo around 1285. She never names herself or Paolo; passion makes the lovers vanish into a force called Love."
   - id: "galeotto-lancelot-reading"
     trigger: "The book was Galahad"
     title: "The Book That Became an Italian Word for Matchmaker"
     wikipedia_url: "https://en.wikipedia.org/wiki/Gallehaut"
     image_url: ""
     image_caption: ""
-    content: "Francesca's confession is also a literary review. She and Paolo were reading, for pastime, how Lancelot by love was fettered fast, and when they came to the passage in which the longed-for smile was kissed by one who loved like none before, Paolo kissed her trembling mouth. Then comes the famous verdict on the book: the book was Galahad, and he as well who wrote the book. That day we read no more. The Italian word is Galeotto, and this English version translates it as Galahad. In fact Galehaut was a character in the French prose Lancelot, a knight who arranges the first meeting and the first kiss between Lancelot and Queen Guinevere. His name became an Italian common noun, galeotto, meaning a go-between or procurer, and the word is still used that way. Francesca is saying that the book played the part of the matchmaker, and so did its author. It is an astonishing line from one who has just been described as having been swept away by passion. She cannot look to herself for blame. The poem does not argue the point. It simply lets Dante, who had written poetry of love all his life, faint at the story's close."
+    content: "Francesca blames the book: 'the book was Galahad, and he who wrote it'. The Italian word is galeotto, from Galehaut, the knight in the French Lancelot who arranges the first kiss of Lancelot and Guinevere. His name became an Italian common noun for a go-between, and it still is. Francesca makes the book the matchmaker, and its author too, so she never has to look at herself. Dante, himself a poet of courtly love, answers by fainting, and the poem leaves the verdict to the reader."
 ---
-From the First Circle thus I downward went
+  From the First Circle thus I downward went
     Into the Second, which girds narrower space,
     But greater woe compelling loud lament.
 
@@ -131,7 +110,7 @@ From the First Circle thus I downward went
     Are doomed the sinners of the carnal kind,
     Who o'er their reason let their impulse reign.
 
-  As **starlings in the winter-time** combined
+  As starlings in the winter-time combined
     Float on the wing in crowded phalanx wide,
     So these bad spirits, driven by that wind,
 
@@ -167,7 +146,7 @@ From the First Circle thus I downward went
     Ran out; and I the great Achilles knew,
     Who at the last encountered love for foe.
 
-  Paris I saw and **Tristram**. In review
+  Paris I saw and Tristram. In review
     A thousand shades and more, he one by one
     Pointed and named, whom love from life withdrew.
 
@@ -220,7 +199,7 @@ From the First Circle thus I downward went
     That, as thou seest, I still its mastery prove.
 
   Love led us where we in one death were caught.
-    For him who slew us waits **Caïna** now.'
+    For him who slew us waits Caïna now.'
     Unto our ears these words from them were brought.
 
   When I had heard these troubled souls, my brow

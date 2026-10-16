@@ -29,58 +29,37 @@ summary:
     link_label: "Cavalcanti family"
 
 enhancements:
-  - id: "fig-sign-defiance"
-    trigger: "Made both the figs"
-    title: "The Obscene Hand Gesture Dante Put in a Sinner's Fists"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mano_fico"
-    image_url: ""
-    image_caption: ""
-    content: "Vanni Fucci finishes his prophecy of Dante's doom and makes both the figs, lifting either fist and shouting: there, God! for them at thee I throw. The fig sign, or mano fico, is a rude gesture in which the thumb is thrust between two fingers of a closed fist, and it is still used in Italy today, with roughly the sense of up yours. The Italian expression fare le fiche was already ancient in Dante's time; Roman graffiti show similar signs. It is a deliberate blasphemy. In Canto 14 Capaneus defied Jupiter; here a thief makes a gesture at the Christian God, a defiance so absurd that the poem's response is satirical. Immediately, the snakes become Dante's friends: one coils around the sinner's throat, as if to say, now would I have thee whist, another seizes his arms and ties them with a knot. The comic reversal is quick and deliberate: the monstrous guardians of the ditch silence the blasphemer. Dante then turns on the thief's city, apostrophising Pistoia and wishing it burned to ashes since it has outrun its founders in iniquities. Even in the deepest pits of Hell, he writes, he has seen no soul so spiteful against God, not even Capaneus, who was cast down from Thebes' wall."
   - id: "cacus-centaur-aventine"
     trigger: "Cacus"
     title: "Why Dante Turned a Roman Cave-Dweller into a Centaur"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cacus"
     image_url: ""
     image_caption: ""
-    content: "As Vanni flees, a centaur comes raging along the bank shouting, give me sight of the ribald, with a dragon couchant on his shoulders and a mass of snakes along his back, more than Maremma yieldeth. Virgil names him: this one is Cacus, who underneath the rock of Aventine watered a pool with blood day after day. In Roman legend Cacus was a fire-breathing giant who lived in a cave on the Aventine hill and terrorised the neighbourhood. When the hero Hercules passed through with the cattle of Geryon, Cacus stole some of them, dragging the animals backwards into his cave by their tails so that the tracks would mislead pursuers. Hercules found them by their lowing and killed the thief with his club. The story is told in the eighth book of the Aeneid, where Cacus is a half-human monster. Dante turns him into a centaur, which Virgil did not do, perhaps because he misunderstood the Latin or perhaps to place him with the other centaurs of the seventh circle. He is separated from the rest because of the treacherous theft he wrought upon the neighbouring wealthy herd of kine. His punishment is a mockery of his crime: the thief who hid his stolen cattle is covered with snakes, and the fire-breather carries a dragon."
-  - id: "cianfa-donati-six-footed-serpent"
-    trigger: "Cianfa"
-    title: "The Thief Who Merged with a Six-Footed Snake"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Donati_family"
-    image_url: ""
-    image_caption: ""
-    content: "Three spirits approach beneath the bank, asking who the travellers are. Dante does not recognise them, but one of them says, where stopped Cianfa in the race? He puts his finger to chin and nose to warn Virgil to listen and be quiet. Cianfa is Cianfa Donati, a Florentine nobleman of the Donati family, which was Dante's own wife's family, and the question is whether the missing member of the quartet has been left behind. The answer arrives at once and in horror. A serpent with six feet flew at one of them and held him bodily, its middle feet about his paunch, the front two clutching his arms, its hind feet on his thighs, thrusting its tail between them. The ivy to a tree could never bind itself so firmly as this dreadful beast its members with the other's intertwined. The serpent is Cianfa, who has taken on the form of an animal, and is now fusing with another thief. Dante apologises to the reader for the story: if thou shouldst be slow to believe what now I tell, I wonder not, for I who saw it all scarce find it credible. The warning is a statement of method, and it prepares us for the longest and strangest sequence in the poem, a catalogue of metamorphoses."
+    content: "A centaur arrives with a fire-breathing dragon on his shoulders and snakes on his back: 'This is Cacus', who beneath the Aventine rock 'watered a pool with blood'. In Roman legend Cacus was a fire-breathing giant who stole cattle from Heracles, dragging them backwards into his cave by their tails to mislead pursuers; Heracles found them by their lowing and killed him with his club. In the eighth book of the Aeneid he is a half-human monster. Dante makes him a centaur, perhaps misreading Virgil, and his punishment mocks his crime: the thief who hid cattle is covered with snakes."
   - id: "agnello-brunelleschi-merger"
     trigger: "Agnello"
     title: "The Horror of a Man Who Is No Longer One or Two"
     wikipedia_url: "https://en.wikipedia.org/wiki/Brunelleschi_family"
     image_url: ""
     image_caption: ""
-    content: "The merger of the serpent and the man is described with a grim precision: each lost the colour that it once possessed, and closely they, like heated wax, unite, the former hue of neither manifest, as a flame running up papyrus leaves a brownish stain not yet black though the white is dying. The two spectators watch and cry: Agnello, how art thou made new! Thou art not twain, and yet no longer one. Agnello is Agnello Brunelleschi, another Florentine thief, and he is the second victim of the serpent. A single head was moulded out of two; four separate limbs did but two arms compose; belly with chest, and legs with thighs did grow to members such as nought created shows. Their former fashion was all perished now: the perverse shape did both, yet neither seem, and thus transformed, departed moving slow. The passage is a nightmare of identity. A thief steals what belongs to another; now thief and snake have exchanged what is theirs, with no one left to own it. The horror is philosophical as well as physical, and Dante's treatment is deliberately clinical. The comparison to heated wax and burning paper gives it the exactness of a craftsman's description."
+    content: "A six-footed serpent leaps on one thief and fuses with him, 'like heated wax', their colours blending as flame spreads on papyrus. The two spectators cry 'Agnello, how art thou made new! Thou art not twain, and yet no longer one.' Agnello Brunelleschi was a Florentine thief, and the first merged form has one head from two, two arms from four limbs, a shape 'nought created shows'. The horror is philosophical: a thief takes what belongs to another, and now thief and snake have exchanged what is theirs, with no one left to own it."
   - id: "lucan-ovid-silent-metamorphosis"
     trigger: "Be Lucan henceforth dumb"
     title: "Dante Tells Two Roman Poets to Be Quiet"
     wikipedia_url: "https://en.wikipedia.org/wiki/Ovid"
     image_url: ""
     image_caption: ""
-    content: "A small snake, livid and black as a pepper grain, darts at another thief and pierces him in the navel. Both stare, smoke pours from the wound and the snake's mouth, and the clouds join. Then Dante breaks off to boast: be Lucan henceforth dumb, nor longer tell of plagued Sabellus and Nassidius, but, hearkening to what follows, mark it well. Silent be Ovid: of him telling us how Cadmus to a snake, and to a fount changed Arethuse, I am not envious. The references are precise. Lucan's Pharsalia described two soldiers, Sabellus and Nassidius, who were bitten by snakes in the Libyan desert and who melted or swelled up. Ovid's Metamorphoses told of Cadmus being turned into a serpent and the nymph Arethusa into a fountain. Dante's claim is that neither poet ever described two natures face to face changing places: for never of two natures front to front in metamorphosis, while mutually the forms their matter changed, he gives account. It is the poem's most boldly competitive moment, and the justification is real. Ovid's metamorphoses are one-way: a person becomes a plant or an animal. Dante's are exchanges, in which the man becomes a snake and the snake a man. He is staking a literary claim as much as describing a torment."
-  - id: "smoke-exchange-of-natures"
-    trigger: "Dyed in the smoke"
-    title: "The Slow, Exact Way a Man Turns Into a Serpent"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Metamorphosis"
-    image_url: ""
-    image_caption: ""
-    content: "Dante describes the exchange step by step, with the care of an anatomist. The serpent's tail splits into a fork while the man's legs and thighs knit into one, so thoroughly that no searching could divine where the junction had been wrought. The cloven tail takes the shape that the man loses; the skin of one grows rough, the other's soft and fine. I by the armpits saw the arms drawn in; and now the monster's feet, which had been small, what the other's lost in length appeared to win. Then comes the stroke that gives the passage its eerie unity: dyed in the smoke they took on either side a novel colour; hair unwonted grew on one; the hair upon the other died. One falls prone and the other rises erect; muzzle becomes face, ears are formed on cheeks that were bare, a nose is formed from what was superfluous, lips absorb the skin that was slack. The snake-thief's ears retract like a snail's horns, and the tongue that had been whole and ready for speech cleaves now. The smoke that connects the two is the medium of the change, and the image is of an invisible substance passing between bodies. There is almost no emotion in the account, and that is what makes it frightening."
+    content: "Dante breaks off to boast: 'Be Lucan henceforth dumb; silent be Ovid.' Lucan's Pharsalia described two soldiers, Sabellus and Nassidius, bitten by snakes in Libya; Ovid told of Cadmus turning into a serpent and Arethusa into a fountain. Dante claims neither poet ever showed two natures face to face exchanging forms: Ovid's metamorphoses are one-way, while Dante's are mutual, man becoming snake and snake becoming man. It is his boldest literary rivalry, and it is justified: the exchange is real invention."
   - id: "gaville-cavalcanti-revenge"
     trigger: "Gaville"
     title: "The Village That Paid for the Murder of a Thief"
     wikipedia_url: "https://en.wikipedia.org/wiki/Cavalcanti_family"
     image_url: ""
     image_caption: ""
-    content: "As the transformed thieves part, one hissing off as a serpent and one spluttering as a man, the newly human one says that Buoso may now crawl down the way as he himself earlier sped. Puccio Sciancato, Puccio the Lame, a member of the Galigai family and a Ghibelline thief, is the only one who remains unmodified. The canto closes with a line that sounds like a footnote to the fantastic scene: for the other, tears, Gaville, are shed by thee. The other is Francesco de' Cavalcanti, nicknamed Guercio, the thief who appeared as the little black snake and now stands human again, and who was later murdered by the villagers of Gaville, in the Upper Valdarno. His family took savage revenge on the village, killing many of its people. Dante has chosen a real, small tragedy to end a pageant of marvels, and the final line sets the monstrous scene back on the map of Tuscany. The tears are those of the survivors of Gaville, not of Francesco, and they remind us that every figure in Malebolge was a Florentine with a family, a quarrel and a revenge. Dante's Hell is a local story, told in the language of the cosmos."
+    content: "The canto ends with a footnote that sounds like a local grudge: 'For the other, tears, Gaville, are shed by thee.' The other thief is Francesco de' Cavalcanti, nicknamed Guercio, who was murdered by the villagers of Gaville in the Upper Valdarno; his family took savage revenge on the village. After a pageant of marvels, Dante sets the scene back on the map of Tuscany. Every figure in Malebolge was a Florentine with a family, a quarrel and a revenge, and Dante's Hell is a local story told in the language of the cosmos."
 ---
-The robber, when his words were ended so,
-    **Made both the figs** and lifted either fist,
+  The robber, when his words were ended so,
+    Made both the figs and lifted either fist,
     Shouting: 'There, God! for them at thee I throw.'
 
   Then were the snakes my friends; for one 'gan twist
@@ -135,7 +114,7 @@ The robber, when his words were ended so,
     Till, as it often haps in such a case,
     To name another, one discovered need,
 
-  Saying: 'Now where stopped **Cianfa** in the race?'
+  Saying: 'Now where stopped Cianfa in the race?'
     Then, that my Guide might halt and hearken well,
     On chin and nose I did my finger place.
 
@@ -235,7 +214,7 @@ The robber, when his words were ended so,
     And grew the member men are used to hide:
     For his the wretch gained feet with which to crawl.
 
-  **Dyed in the smoke** they took on either side
+  Dyed in the smoke they took on either side
     A novel colour: hair unwonted grew
     On one; the hair upon the other died.
 

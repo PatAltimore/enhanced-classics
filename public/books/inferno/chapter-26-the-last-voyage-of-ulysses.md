@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Niccol%C3%B2_da_Prato"
     image_url: ""
     image_caption: ""
-    content: "The canto begins with sarcasm: rejoice, O Florence, in thy widening fame! Thy wings thou beatest over land and sea, and even through Inferno spreads thy name. Dante has just met five Florentines among the thieves, and he is ashamed. Then he adds a warning: but if 'tis toward the morning dreams are true, thou shalt experience ere long time be gone the doom even Prato prays for as thy due. The belief that dreams just before dawn come true is ancient; it appears in Horace and in many medieval writers, and Dante repeats it in Purgatory. The vision he claims is of Florence's coming punishment, which he says even her small neighbour Prato desires. A famous incident may lie behind it: in 1304 Cardinal Niccolò da Prato, sent by the pope to reconcile Florence, put the city under an interdict after the Blacks refused, and was said to have cursed them. Whether Dante refers to that or to a general calamity, the effect is a threat. And then comes a note of honesty: and came it now, it would not come too soon. Would it were come as come it must with time; 'twill crush me more the older I am grown. The poet wishes his city punished, and is afraid of how much it will hurt him."
-  - id: "elisha-bears-chariot"
-    trigger: "he whom the bears avenged"
-    title: "The Prophet Who Watched a Fiery Chariot Become a Flash"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Elisha"
-    image_url: ""
-    image_caption: ""
-    content: "Reaching the top of the bridge, Dante looks down on the eighth ditch, which glows with flames as numerous as the fireflies a peasant sees at dusk on a summer hillside, when the gnats replace the flies. Then he reaches into the Bible for a second comparison: as he whom the bears avenged, when passed from the earth Elijah, saw the chariot rise with horses heavenward reared and mounting fast, and no long time had traced it with his eyes till but a flash of light it all became. The man whom the bears avenged is Elisha, the prophet in the Second Book of Kings, who was mocked by a group of boys for his bald head and called down two she-bears from the woods to maul them. He is better remembered for watching his master Elijah taken up in a chariot of fire. Dante's point is the vision's strangeness: he sees shining shapes in the valley and cannot tell what each flame holds, just as Elisha saw only light. Virgil explains that each flame hides a sinner, wrapped as in a garment, and that the souls here are the false counsellors, those who used their intelligence to advise deception. The fire-chariot, a sign of holy departure, is repurposed to describe the unholy."
+    content: "Mocking Florence's 'widening fame' after meeting five Florentine thieves, Dante warns: 'if toward morning dreams are true, thou shalt soon feel what even Prato wishes for thee.' The belief that dreams before dawn come true is ancient, found in Horace and in many medieval writers. The vision is of Florence's coming punishment; in 1304 Cardinal Niccolo da Prato put the city under an interdict, and may be behind it. Then honesty: if it came now, it would not be too soon, and 'it will weigh on me more as I grow older'."
   - id: "eteocles-polynices-split-flame"
     trigger: "Eteocles"
     title: "The Twin Brothers Whose Funeral Fire Wouldn't Stay Whole"
     wikipedia_url: "https://en.wikipedia.org/wiki/Eteocles_and_Polynices"
     image_url: ""
     image_caption: ""
-    content: "One flame in the valley rises in two points, and Dante, leaning dangerously over the bridge, asks who is inside. He compares it to the funeral pyre where with Eteocles there burned of yore his brother. In Greek myth, Eteocles and Polynices were the sons of Oedipus, who agreed to rule Thebes in alternate years, and when Eteocles refused to step down, Polynices brought an army against the city, the war of the Seven against Thebes. The brothers killed each other in single combat. Statius, in his Thebaid, says that when their bodies were laid on the same pyre, the flames divided, as if even in death the hatred persisted. Dante borrows the image because it fits the cloven flame of Ulysses and Diomedes, two warriors punished together. Virgil tells him they burn in punishment thus held together, as they held in ire. The sins listed are three: the stratagem of the Trojan Horse, which opened the door through which the Romans' noble seed forth went, meaning Aeneas and his descendants; the deception that lured Achilles from Deidamia on Scyros; and the theft of the Palladium, the statue on which Troy's safety depended."
-  - id: "virgil-speaks-to-greeks"
-    trigger: "seeing they were Greek"
-    title: "Why Virgil, Not Dante, Questions the Greek Heroes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Odysseus"
-    image_url: ""
-    image_caption: ""
-    content: "Dante begs Virgil to let him speak with the flame, and Virgil approves the wish but forbids him to speak: I know what thou wouldst have; leave me to speak, for they perchance would hear contemptuously shouldst thou address them, seeing they were Greek. The reason is subtle. Ulysses and Diomedes were heroes of Homer's Iliad and Odyssey; to them, a modern Italian poet would be a nobody. Virgil, who immortalised the Trojan side of the war in the Aeneid and placed these men in the story as villains, has standing as a fellow poet and an equal in antiquity. He addresses the flame with courtesy: O ye who twain within one fire are set, if what I did your guerdon meriteth, if much or little ye are in my debt for the great verse I built while I had breath, by one of you be openly confessed where, lost to men, at last he met with death. The speech works as a bargain. Virgil's claim on the Greeks is that he gave them fame in Latin, and now he asks for a story in return. It is also a quiet joke about literary rivalry. Even in Hell, Greek pride must be managed with tact, and Dante knows who should be at the microphone."
+    content: "A flame in the valley rises in two points, like the funeral pyre that held 'Eteocles and his brother'. In Greek myth Eteocles and Polynices, sons of Oedipus, killed each other in the war of the Seven against Thebes, and in Statius's Thebaid the flames on their shared pyre divided, as if the hatred persisted. Dante borrows the image for the cloven flame of Ulysses and Diomedes, punished together for the Trojan Horse, for luring Achilles from Deidamia, and for stealing the Palladium, the statue Troy's safety depended on."
   - id: "ulysses-experience-world"
     trigger: "A full experience of the world"
     title: "The Invented Ending to the Odyssey That Shaped Dante's Ulysses"
     wikipedia_url: "https://en.wikipedia.org/wiki/Odysseus"
     image_url: ""
     image_caption: ""
-    content: "The flame trembles, then speaks as a tongue would: when I had gone from Circe, who a long year kept me tame beside her, ere the near Gaeta had received from Aeneas that new name, no softness for my son, nor reverence sad for my old father, nor the love I owed Penelope, could quench the ardour that within me glowed a full experience of the world to gain, of human vice and worth. This is not Homer. In the Odyssey, Ulysses reaches Ithaca, kills the suitors and lives on. Dante, who had no access to Homer's Greek, invents a different ending based on hints in Latin writers such as Cicero and Horace. His Ulysses abandons his family and sets off again, with one bark and the little band that never deserted him, sailing as far as Spain and Morocco, past Sardinia. The ambition is the point. This is not greed or lust or violence. It is curiosity, the same hunger that drives Dante himself. And the poem condemns it, or at least punishes it, for guile and counsel that led others astray. The tension between admiration and judgement has made this the most discussed passage of the Inferno, and many readers think the poet is looking in a mirror."
+    content: "Ulysses tells how, leaving Circe, 'no softness for my son, nor reverence for my father, nor the love owed Penelope could quench the ardour to gain full experience of the world, of human vice and worth'. This is not Homer: in the Odyssey he reaches Ithaca and lives on. Dante, who knew no Greek, invented the ending from hints in Latin writers. His Ulysses abandons his family and sails off again. The motive is curiosity, the same hunger that drives Dante himself, and the poem punishes it, which is why readers see the poet looking in a mirror."
   - id: "brutish-herd-orazion-picciola"
     trigger: "Ye were not born to live like brutish herd"
     title: "The Little Speech That Made Dante's Ulysses a Hero"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pillars_of_Hercules"
     image_url: ""
     image_caption: ""
-    content: "Old, tired and grown sluggish, Ulysses and his crew reach the narrows where Hercules set his landmarks as a sign to men they should no further aim, with Seville behind on the right and Ceuta on the left. These are the Pillars of Hercules, at the Strait of Gibraltar, the end of the known world. Here Ulysses gives the speech that has become one of the best-known passages in European poetry: O brothers, who through such a fight of a hundred thousand dangers west have won, in this short watch that ushers in the night of all your senses, ere your day be done, refuse not to obtain experience new of worlds unpeopled, yonder, past the sun. Consider whence the seed of life ye drew; ye were not born to live like brutish herd, but righteousness and wisdom to ensue. The Italian line, fatti non foste a viver come bruti, ma per seguir virtute e canoscenza, is quoted by schoolchildren and politicians. Dante is sincerely moved by the grandeur of the speech, and he is also making a moral point, because Ulysses is persuading his men to a fatal journey. The crew are so stirred that they could not be restrained, and they turn the oars into wings for their mad flight."
-  - id: "mountain-of-purgatory-ulysses-end"
-    trigger: "a lofty mountain soar"
-    title: "The Mountain Ulysses Saw Without Being Allowed to Reach"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mount_Purgatory"
-    image_url: ""
-    image_caption: ""
-    content: "After sailing south and west for five months, with the familiar stars sinking and the southern sky rising, Ulysses and his men see a lofty mountain soar, dim in the distance, higher by far than any I had seen before. They rejoice, but their joy turns to despair when a whirlwind bursts from the new-found land and strikes the prow of the ship. Thrice the sea whirls it round; at the fourth time the poop is heaved upward and the prow, as pleased Another, is hurled down, and then above us did the ocean close. The mountain is Purgatory, which in Dante's cosmology stands alone in the southern hemisphere, the only land in a world of water, on the opposite side of the globe from Jerusalem. Ulysses sailed to the very threshold of the place Dante will climb, and drowned because he was trying to reach it by his own power, without grace. The phrase as pleased Another is the sole reference to God in the speech, and it is chilling in its indirectness: even in Hell, Ulysses cannot name the Almighty. The contrast with Dante is the structure of the poem. Ulysses is destroyed on the shore, and Dante, led by a guide and permitted by heaven, will walk up."
+    content: "At the Pillars of Hercules, the end of the known world, Ulysses urges his tired crew: 'Consider whence the seed of life ye drew; ye were not born to live like brutish herd, but righteousness and wisdom to ensue.' The Italian, fatti non foste a viver come bruti, ma per seguir virtute e canoscenza, is among the best-known lines in the language. Dante is moved by the grandeur, yet Ulysses is persuading men to a fatal voyage; the ship ends beneath the mountain of Purgatory, struck by a whirlwind 'as pleased Another', since even in Hell he cannot name God."
 ---
-Rejoice, O Florence, in thy widening fame!
+  Rejoice, O Florence, in thy widening fame!
     Thy wings thou beatest over land and sea,
     And even through Inferno spreads thy name.
 
@@ -123,7 +102,7 @@ Rejoice, O Florence, in thy widening fame!
     Throughout the whole Eighth Bolgia, when at last
     I stood whence I the bottom plain could know.
 
-  And as **he whom the bears avenged**, when passed
+  And as he whom the bears avenged, when passed
     From the earth Elijah, saw the chariot rise
     With horses heavenward reared and mounting fast,
 
@@ -177,7 +156,7 @@ Rejoice, O Florence, in thy widening fame!
 
   I know what thou wouldst have; leave me to speak,
     For they perchance would hear contemptuously
-    Shouldst thou address them, **seeing they were Greek**.'
+    Shouldst thou address them, seeing they were Greek.'
 
   Soon as the flame toward us had come so nigh
     That to my Leader time and place seemed met,
@@ -255,7 +234,7 @@ Rejoice, O Florence, in thy widening fame!
     The moon's face earthward was illumed no more,
     Since out we sailed upon the mighty main;
 
-  Then we beheld **a lofty mountain soar**,
+  Then we beheld a lofty mountain soar,
     Dim in the distance; higher, as I thought,
     By far than any I had seen before.
 

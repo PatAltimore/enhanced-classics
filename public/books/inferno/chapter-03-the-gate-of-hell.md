@@ -35,51 +35,23 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Gates_of_Hell_(Dante)"
     image_url: ""
     image_caption: ""
-    content: "Over the gateway, in dark letters, runs the sentence that has outlived the poem around it: Ye who make entrance, every hope resign. It has been printed above office doors, airport kiosks and a thousand jokes about meetings. But the inscription is far stranger than its reputation. Look at who speaks: the gate itself, in the first person, boasting of its maker. Justice moved my Glorious Maker, it says, and then names the Trinity as its authors: the Power Divine, the Highest Wisdom and the Primal Love. Hell, in Dante's design, was not built by an enemy of God. It was built by Love, as an act of justice, and shares in the order of the universe. The gate also says that nothing was created before it, if not eternal; only the angels and the heavens are older, and Hell will last as long as they do. That is a chilling clock. And notice the warning is not aimed at the damned, who cannot read it, but at the living poet. Virgil's answer is the first practical comfort the poem offers: here it behoves to leave all fears behind. The gate takes away hope; the guide takes away fear. Dante will need to carry the difference through the entire descent."
-  - id: "neutral-angels-caitiff"
-    trigger: "caitiff angels"
-    title: "The Angels Who Took No Side in the Greatest War"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Neutral_angels"
-    image_url: ""
-    image_caption: ""
-    content: "Just inside the gate lies Hell's vestibule, and the first crowd Dante meets is stranger than any monster: the inglorious crew of souls who lived unhonoured, but from guilt kept clear, mingled with caitiff angels who, though from avowed rebellion they refrained, were disloyal to God. When Lucifer rebelled, Dante imagines, a faction of angels stood aside and waited to see who would win. Medieval legend had a place for them: a folk tradition, found in the voyage of Saint Brendan, mentioned angels that were neither with God nor against him. Dante gives that legend a cold new punishment. Heaven hurled them forth lest they stain her beauty, and Hell will not receive them, else the guilty would feel triumph. They belong nowhere. Their torment fits them with brutal logic: they never chased anything in life, so now they chase a blank banner forever, stung by wasps and hornets. What makes the passage radical is the verdict on neutrality. Dante, who spent years in civic politics and then in exile, regarded refusing to choose in a moral crisis as worse than choosing wrong. Virgil's contempt is complete: speak we not of them: glance, and pass them by."
+    content: "The gate speaks in the first person: Justice moved its maker, and the Trinity, Power, Wisdom and Primal Love, built it. Hell, in Dante's design, was created by Love as an act of justice, and it predates humankind; only the angels and heavens are older. The famous warning is really aimed at Dante, since the damned cannot read it. Virgil's reply is the poem's first comfort: the gate takes away hope, but the guide takes away fear."
   - id: "great-refusal-celestine-v"
     trigger: "great refusal"
     title: "The Pope Who Quit and Why Dante Never Forgave Him"
     wikipedia_url: "https://en.wikipedia.org/wiki/Pope_Celestine_V"
     image_url: ""
     image_caption: ""
-    content: "Among the pale crowd, Dante recognises one face: him whose dastard soul the great refusal made. He never says the name. Early commentators agreed that he meant Pietro da Morrone, an elderly hermit who in 1294 was elected pope as Celestine V, after the papal throne had been vacant for more than two years. He lasted five months. Overwhelmed by politics and manipulated by King Charles II of Naples, he issued a decree permitting a pope to resign, and then resigned himself, in December 1294. His successor, Boniface VIII, was the man Dante held most responsible for his own exile from Florence. The poem therefore blames Celestine for opening the door to Boniface, and Dante saves the worst place in Hell's antechamber for the man who walked away from a duty that mattered. The irony is hard to miss. Celestine was a holy man, later canonised in 1313, only about a decade after the vision of this canto. Many modern readers think Dante was unfair, and some believe he was aiming at someone else entirely, such as Pontius Pilate. But the lesson survives the dispute. For Dante, refusal is an action, and the cost of declining to act is borne by everyone else."
-  - id: "acheron-river-of-woe"
-    trigger: "Acheron"
-    title: "The First of Hell's Rivers and the Last One Dante Sees"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Acheron"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil promises that the vanguard of damned souls will be explained once their footsteps are at rest upon the woful shores of Acheron. The name is borrowed from Greek myth, where Acheron, the river of woe, was one of the streams of the underworld; Virgil places it at the border in the Aeneid, and Dante follows. But Dante does something clever with the geography. In his Hell, the rivers are not separate. In the fourteenth canto, Virgil explains that deep inside Mount Ida on Crete stands an enormous statue of an old man, gold at the head and iron and clay below. Every part except the gold is cracked, and from the cracks falls a stream of tears. Those tears pierce the rock, descend into Hell, and become Acheron, then Styx, then Phlegethon, finally pooling as the frozen lake of Cocytus at the bottom. The statue is borrowed from the book of Daniel, a symbol of the declining ages of human history. In other words, the river that the souls here are desperate to cross is the weeping of mankind itself, running downhill. Dante crosses it unconscious, and that fainting leaves a question open: the first river of Hell is the only one he does not see himself pass."
+    content: "Dante never names the soul who made 'the great refusal', but early commentators agree it is Pietro da Morrone, elected Pope Celestine V in 1294 after a two-year vacancy. After five months he issued a decree allowing a pope to resign, and then resigned. His successor was Boniface VIII, whom Dante blamed for his exile. Celestine was canonised in 1313, and some modern readers think Dante meant Pilate; either way, declining to act is shown as an act whose cost others pay."
   - id: "charon-ferryman-demon"
     trigger: "Charon"
     title: "Why Charon Refuses to Take Dante Across"
     wikipedia_url: "https://en.wikipedia.org/wiki/Charon"
     image_url: ""
     image_caption: ""
-    content: "A white-haired old man in a boat shouts at the arrivals: Ye souls depraved, be filled with fear. Then he spots Dante, a breathing man, and orders him to withdraw. This is Charon, the ferryman of the dead, borrowed from Greek myth. In classical tradition he was paid with a coin placed in the mouth or on the eyes of the corpse, and in the sixth book of the Aeneid he is a squalid, hoary boatman who refuses the living Aeneas until the golden bough is shown. Dante adapts him freely: he becomes a demon with wheels of flame round his eyes, who strikes stragglers with his oar. The detail that most readers miss is Charon's prophecy. By other ways, from other ports thou'lt fare, he tells Dante, and a skiff more buoyant must thee bear. He is right. In Purgatorio, a shining angel pilots a light boat across from the mouth of the Tiber, carrying the saved souls to the mountain. Even the demon of the dead can see that Dante does not belong to his passengers. Virgil silences him with a formula he will use again with every guardian: it has been willed where power ne'er came short of the will. The authority of Heaven needs no argument, only mention."
-  - id: "falling-leaves-simile-virgil-homer"
-    trigger: "faded leaves of autumn"
-    title: "A Simile Passed Down From Homer Through Virgil to Dante"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Aeneid"
-    image_url: ""
-    image_caption: ""
-    content: "As the damned drop from the bank into Charon's boat, Dante reaches for an image: they go like the faded leaves of autumn falling one after the other, until at last the bough sees on the ground spread all its coronal. It sounds like a fresh observation from a walk in the woods, but it is among the oldest images in European poetry. In the Iliad, Homer has a warrior compare the generations of men to leaves, which the wind scatters on the ground, while the forest bursts out in spring with new ones. Virgil borrowed it for the sixth book of the Aeneid, where the souls crowd the banks of the underworld river thick as leaves that fall in the first frost of autumn. Dante inherits it and adds a twist of his own. The second image he uses, a flock of fowls fluttering into the ambush, turns the leaves into birds lured into a trap. Look at what he does with the borrowed simile: he keeps the delicate sadness of the original and then undermines it with menace. Falling is no longer natural. These souls fall in turn at signs, each answering Charon's signal as if an order were hidden in the weather. Where Homer and Virgil saw the cycle of life, Dante sees the harvest."
-  - id: "desire-to-cross-divine-justice"
-    trigger: "Heavenly justice goaded on"
-    title: "The Terrible Reason the Damned Rush Toward Hell"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Divine_justice"
-    image_url: ""
-    image_caption: ""
-    content: "One detail in Virgil's explanation unsettles every first-time reader: the souls on the bank are not dragged into the boat. They are impatient to cross, all on fire, as their wills by Heavenly justice are goaded on until their terror merges in desire. Dante's insight is psychological. Earlier he has watched them blaspheme God, their parents and the very moment of their birth, then run weeping to the accursed shore. They cannot love what they are going toward, but they have spent their lives choosing it, and the choice becomes a compulsion. Divine justice does not force them; it simply removes the lie that kept them from facing their own choice. Fear and longing become the same feeling, a hunger to get on with it. It is the first of the poem's great lessons: Hell is not the place where people are forced; it is the place where they finally want what they chose. Then comes the abrupt end of the canto. The plain trembles, a red lightning flashes, and Dante falls as in sudden slumber. We never see him cross the river. The poem skips the passage where a lesser book would linger, as though the point had already been made: the crossing is the easy part. What matters begins on the other side."
+    content: "Charon, ferryman of the dead in Greek myth, refuses to carry the living Dante. In the Aeneid he is a squalid old boatman; Dante makes him a demon with wheels of flame round his eyes who strikes stragglers with his oar. His prophecy is the detail to catch: Dante will cross 'by other ports' in 'a skiff more buoyant', and in Purgatorio an angel pilots a light boat from the mouth of the Tiber. Even the demon of the dead can see that Dante is not one of his passengers."
 ---
-Through me to the city dolorous lies the way,
+  Through me to the city dolorous lies the way,
     Who pass through me shall pains eternal prove,
     Through me are reached the people lost for aye.
 
@@ -127,7 +99,7 @@ Through me to the city dolorous lies the way,
     Are held the souls of that inglorious crew
     Who lived unhonoured, but from guilt kept clear.
 
-  Mingled they are with **caitiff angels**, who,
+  Mingled they are with caitiff angels, who,
     Though from avowed rebellion they refrained,
     Disloyal to God, did selfish ends pursue.
 
@@ -181,7 +153,7 @@ Through me to the city dolorous lies the way,
 
   And he: 'These things shall unto thee be known
     What time our footsteps shall at rest be found
-    Upon the woful shores of **Acheron**.'
+    Upon the woful shores of Acheron.'
 
   Then with ashamèd eyes cast on the ground,
     Fearing my words were irksome in his ear,
@@ -227,7 +199,7 @@ Through me to the city dolorous lies the way,
     Aglow, makes signals, gathering them all;
     And whoso lingers smiteth with his oar.
 
-  And as the **faded leaves of autumn** fall
+  And as the faded leaves of autumn fall
     One after the other, till at last the bough
     Sees on the ground spread all its coronal;
 
@@ -244,7 +216,7 @@ Through me to the city dolorous lies the way,
     From every country muster on this strand.
 
   To cross the river they are all on fire;
-    Their wills by **Heavenly justice goaded on**
+    Their wills by Heavenly justice goaded on
     Until their terror merges in desire.
 
   This way no righteous soul has ever gone;

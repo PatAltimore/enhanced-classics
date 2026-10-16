@@ -35,51 +35,23 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Inferno_(Dante)"
     image_url: ""
     image_caption: ""
-    content: "Dante does not say he is lost in a forest; he says he is lost in the middle of the journey of our days, and the arithmetic matters. The Psalms allot a human life three score years and ten, and half of seventy is thirty-five. Dante was born in 1265, so the fictional year of his vision is 1300 — also the first Jubilee, when Pope Boniface VIII invited pilgrims to Rome and promised remission of sins. The poem's calendar is Holy Week of that year, so the wanderer in the wood is a pilgrim whose road to forgiveness has gone missing. But Dante is playing a trick on time. The man who wrote these lines was not thirty-five. By 1302 he had been condemned in absentia by his own city of Florence, stripped of property and threatened with burning if he returned, and he composed the poem in exile, years after the date it pretends to describe. Every prophecy in the Inferno is therefore a prediction made with the answers already in hand. The darksome wood is the poet's actual midlife wreck, backdated and turned into allegory. Notice that he cannot say how he entered it: he was in slumber drowned. Nobody decides to get lost; the wrong turn is made while looking elsewhere. That confession, at the very first breath of the poem, is what makes the whole descent a story about everyone."
-  - id: "leopard-lion-wolf-jeremiah"
-    trigger: "nimble leopard"
-    title: "Who Sent the Beasts That Blocked Dante's Way?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Three_beasts_of_Dante%27s_Inferno"
-    image_url: ""
-    image_caption: ""
-    content: "Dante has barely begun to climb when the path is blocked by a nimble leopard in a spotted skin, who keeps meeting his face and will not let him pass. Medieval readers would have felt a prickle of recognition, because the trio that follows — leopard, lion, wolf — comes straight from the prophet Jeremiah, who warns that a lion out of the forest, a wolf of the evenings and a leopard watching over the cities will tear in pieces everyone who goes out. Dante takes the prophecy and turns it into a personal obstacle course. Commentators have argued for seven centuries over what each animal stands for: lust, pride and avarice in the usual reading, fraud, violence and incontinence in another that mirrors the structure of Hell itself, or political powers — Florence, France and the Roman Curia — in a third. The ambiguity is probably intended. The detail worth noticing is the time of day. It is dawn, the spring equinox, the sun rising in Aries, the very season tradition assigned to the creation of the world, and Dante takes heart from the leopard's gaudy hide. The poem begins with real hope, and hope is exactly what the second beast will frighten out of him. The beasts are not monsters from outside; they are the habits of a lifetime, waiting on the road."
+    content: "Dante's first line sets the poem's date by arithmetic. The Psalms allot a life seventy years, so the middle of 'the journey of our days' is thirty-five, and Dante was born in 1265: the vision falls in 1300, the year of Pope Boniface VIII's first Jubilee, in Holy Week. But he wrote it in exile after 1302, so every prophecy is hindsight. The dark wood is his own midlife wreck, backdated into allegory, and he cannot say how he entered it: 'slumber drowned' admits that nobody chooses to get lost."
   - id: "she-wolf-rome-avarice"
     trigger: "she-wolf"
     title: "How Rome's Founding Symbol Became Dante's Worst Monster"
     wikipedia_url: "https://en.wikipedia.org/wiki/Capitoline_Wolf"
     image_url: ""
     image_caption: ""
-    content: "The third beast arrives last and hits hardest: a she-wolf in whose leanness all kinds of cravings seem pent, and the sight of her makes Dante lose all hope of climbing. This edition renders her appetite as lust, but Dante's Italian speaks of brame, hungry longings, and the tradition reads her as greed, the cupidity that he blames for ruining Italy. Here is the irony few modern readers catch. For Romans, the she-wolf was not an enemy but a mother: the bronze Capitoline Wolf, who suckled Romulus and Remus, was the emblem of the city itself. Dante deliberately takes the sacred beast of Rome and turns her into the mark of its corruption. In Latin, lupa was also slang for a prostitute, and a brothel was a lupanar, so the animal already carried a double meaning of devouring and selling. Later in the Commedia he calls her the ancient wolf and aims the insult straight at the papal court, where he believed money had replaced the care of souls. When Virgil says she has taken many a mate and will wed yet more, he is describing not a beast but an institution that will not stop feeding. Notice what she defeats: not Dante's body but his ability to hope. Of all three animals, only this one is not scared away by daylight."
-  - id: "mantua-virgil-epitaph"
-    trigger: "Mantua"
-    title: "The Epitaph Virgil Recites Without Quite Saying It"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mantua"
-    image_url: ""
-    image_caption: ""
-    content: "Asked who he is, the shade does not give a name. He gives a biography: Lombard parents, both Mantuan by birth, born late under Julius, living in Rome under good Augustus. It sounds like modesty, and it is almost certainly an echo. A famous epitaph, traditionally carved on Virgil's tomb near Naples, runs: Mantua gave me birth, the Calabrians took me, Naples holds me now; I sang of pastures, farms and leaders. Dante's Virgil rebuilds the first line of his own gravestone from memory. Mantua mattered far beyond Virgil's origins. Dante would later stage an unforgettable scene in Purgatory in which the poet Sordello, a fellow Mantuan, hears the single word Mantua and leaps up to embrace a stranger, while Dante contrasts that tenderness for a countryman with the civil wars tearing up his own Italy. Notice also what Virgil leaves out: nothing about his fame, nothing about his greatest poem beyond the phrase Anchises' righteous son. He is describing himself the way a man in exile might, by time and place rather than glory. There is a second sting. Living in the good Augustus' day, among false and lying gods, is his only crime, and it will keep him out of Heaven forever. The guide introduces himself with the very fact that limits him."
+    content: "The third beast hits hardest. This translation says lust, but Dante's word is brame, hungry craving, and tradition reads her as greed, the cupidity he blamed for Italy's ruin. The irony is that the Capitoline Wolf who suckled Romulus and Remus was Rome's own emblem, so Dante turns the city's sacred beast into the mark of its corruption. In Latin lupa also meant prostitute, and later he aims the same image at the papal court. She defeats not his body but his hope."
   - id: "veltro-greyhound-prophecy"
     trigger: "the hound"
     title: "The Prophecy of a Hound Nobody Has Ever Identified"
     wikipedia_url: "https://en.wikipedia.org/wiki/Veltro"
     image_url: ""
     image_caption: ""
-    content: "Virgil's explanation of the she-wolf ends with a promise: she will keep taking mates until the hound comes forth to slay her. In Dante's Italian this is the veltro, a greyhound, and he is the most debated figure in the entire poem. He will not eat land or money but valour, love and lore; he will save humbled Italy; he will chase the wolf city by city until he thrusts her back to Hell, from where envy first loosed her. Early commentators proposed Can Grande della Scala, the Veronese lord who sheltered Dante in exile and received the dedication of the Paradiso. Others pointed to Henry VII of Luxembourg, the Holy Roman Emperor who crossed the Alps in 1310 and whom Dante greeted as a world-restoring saviour, only to see him die of fever in 1313. Still others propose a pope, a future emperor, or the Second Coming itself. The ambiguity may be the point. A prophecy written after Dante's own fortunes had collapsed is not a forecast but a wish, and the wish never found a body. The quiet strength of the passage is its tone: it never names anyone. Dante, who spends the rest of the poem placing real people in precise circles of Hell, here deliberately leaves the saviour's seat empty, and the poem's long, angry hope hangs in it."
-  - id: "feltro-and-feltro-puzzle"
-    trigger: "Feltro and Feltro"
-    title: "Is Dante's Saviour Born Between Cities or Between Cloths?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Feltre"
-    image_url: ""
-    image_caption: ""
-    content: "Seven words in the middle of Virgil's prophecy have kept scholars arguing for centuries: the hound's birth shall be tra feltro e feltro. This translation renders the line as Feltro 'tween shall be his birth, and the translator even adds a note admitting that he is following a minority reading, taking feltro to be a humble cloth, so that the deliverer would be of lowly origin, born between felt and felt. A second reading treats the word as a place. Feltre is a town in the Veneto, and Montefeltro is a mountainous region in what is now the Marche and Romagna, so the saviour would arise somewhere between them. That geography points toward Can Grande della Scala of Verona, or at least his corner of northern Italy. Nobody has solved it. The delicious irony is that the Montefeltro name returns in the Inferno itself: in Canto 27 Dante meets Guido da Montefeltro, a cunning soldier turned friar whose counsel to a pope earns him a place among the fraudulent. A word that signals future hope in the first canto becomes a surname attached to damnation in the twenty-seventh. Dante, who loved wordplay, may well have heard both echoes. The line stays a riddle because the poem needs its saviour to be sought rather than found."
-  - id: "saint-peters-gate-virgil-leaves"
-    trigger: "Saint Peter's gate"
-    title: "The Promise That Virgil Could Never Keep"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Purgatorio"
-    image_url: ""
-    image_caption: ""
-    content: "Dante's final plea in the opening canto is to see Saint Peter's gate and those in misery thrown. It is a careful sentence. Virgil has not mentioned Peter; Dante names him on his own, as if to announce that this will be a Christian pilgrimage, even with a heathen guide. The gate itself is the one the Church imagined at the entrance of Paradise, but the poem will move it to the foot of Purgatory, where an angel holding Peter's silver and gold keys admits the penitent. Virgil's own speech has already made the limit clear: the Emperor who reigns on high will not let a rebel against his laws approach his city, so another soul, worthier than Virgil, must take over. That soul is Beatrice. The farewell, when it comes, is one of the most celebrated moments in European poetry. At the summit of Purgatory Dante turns to his guide, as a frightened child turns to its mother, to say a few words — and Virgil is gone. Three terraces of Purgatory and the whole of Hell have been given to him, and not one step of Heaven. The poem's first promise, he moved away; behind him held I close, quietly contains its own sorrow: Dante will follow him all the way to the point where following has to stop."
+    content: "Virgil promises a hound, the veltro or greyhound, who will chase the she-wolf back to Hell and save Italy, feeding on valour, love and lore rather than land and money. Commentators have proposed Can Grande della Scala, Henry VII of Luxembourg, a pope, or Christ's return. Since Dante wrote the prophecy after his own fortunes collapsed, it reads as a wish. A poet who names real sinners throughout the poem deliberately leaves this saviour unnamed."
 ---
-In middle of the journey of our days
+  In middle of the journey of our days
     I found that I was in a **darksome wood**--
     The right road lost and vanished in the maze.
 
@@ -120,7 +92,7 @@ In middle of the journey of our days
     The lower foot still that on which I pressed.
 
   And lo! ere I had well beginning made,
-    A **nimble leopard**, light upon her feet,
+    A nimble leopard, light upon her feet,
     And in a skin all spotted o'er arrayed:
 
   Nor ceased she e'er me full in the face to meet,
@@ -169,7 +141,7 @@ In middle of the journey of our days
 
   'No man, though once I was; on either side
     Lombard my parents were, and both of them
-    For native place had **Mantua**,' he replied.
+    For native place had Mantua,' he replied.
 
   'Though late, _sub Julio_, to the world I came,
     And lived at Rome in good Augustus' day,
@@ -217,7 +189,7 @@ In middle of the journey of our days
 
   He will not batten upon pelf or earth;
     But he shall feed on valour, love, and lore;
-    **Feltro and Feltro** 'tween shall be his birth.
+    Feltro and Feltro 'tween shall be his birth.
 
   He will save humbled Italy, and restore,
     For which of old virgin Camilla died;
@@ -256,7 +228,7 @@ In middle of the journey of our days
     That I may 'scape this present ill, nor meet
 
   With worse, conduct me whither thou hast shown,
-    That I may see **Saint Peter's gate**, and those
+    That I may see Saint Peter's gate, and those
     Whom thou reportest in such misery thrown.'
 
   He moved away; behind him held I close.

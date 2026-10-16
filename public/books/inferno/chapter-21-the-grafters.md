@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Venetian_Arsenal"
     image_url: ""
     image_caption: ""
-    content: "The fifth ditch is full of a black boiling substance, and Dante finds a precise comparison: as the Venetians in their Arsenal boil the tenacious pitch at winter-tide to caulk the ships with for repairs that call; for then they cannot sail. He then lists the activity of the yard: one builds his bark afresh, one stops with tow his vessel's ribs, one hammers at the poop, one at the prow, some fashion oars, others twine cables, others sew the jib and mainsail. The Arsenal of Venice, founded around 1104, was the republic's great shipyard and a wonder of medieval industry, employing thousands of workers and, later, producing ships on an assembly line. It is the only reference to Venice in the whole Inferno, and a sign that Dante had seen it, probably on a diplomatic visit. The comparison is precise but also thematic. The grafters are in a place where the chief commodity is pitch, a sticky substance that clings to whatever touches it, just as the profit of an office clings to the hands of those who take bribes. He adds that the pitch is boiled not by fire but by an art divine, so the heat is a mystery. Dante can see only the bubbles rising and settling; all else is hidden."
-  - id: "santa-zita-lucca-barrators"
-    trigger: "Santa Zita's town"
-    title: "The Devil Who Carried a City Councillor Over His Shoulder"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Zita_of_Lucca"
-    image_url: ""
-    image_caption: ""
-    content: "A black devil with spread wings runs across the bridge, a sinner perched on his shoulder, held by the tendon of the foot, and shouts: Ho, Malebranche! Grip an Elder brought from Santa Zita's town: stuff him below. Santa Zita is Saint Zita of Lucca, a servant-woman who died in 1272 and was venerated as a saint by the city, so the town is Lucca, and the Elder is one of the city's governing council, the Anziani. The devil adds a sneer: there, save Bonturo, barrates every man, and No grows Yes that money may be won. Bonturo Dati was a Lucchese politician notorious for corruption, so the joke is an irony: he is the worst of all, and the devil calls him the exception. Barratry is the sale of public office or justice, graft of the kind that the Italian city-states suffered from. The devil leaves the sinner to be chased, and the poem moves into a mood of cruel comedy. The Malebranche are named for their claws, male branche or evil claws, and the first of their number appears as a performer rather than a fiend, tossing a politician as if he were a sack. A hell of dark humour begins here, and it continues until the end of the next canto."
-  - id: "sacred-countenance-volto-santo"
-    trigger: "Sacred Countenance"
-    title: "The Lucchese Crucifix That the Devils Mock"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Volto_Santo_of_Lucca"
-    image_url: ""
-    image_caption: ""
-    content: "The sinner dives and rises again with his back bent round, and the devils jeer from beneath the bridge: not here the Sacred Countenance is found; one swims not here as on the Serchio's tide. The Sacred Countenance is the Volto Santo, a wooden crucifix kept in the cathedral of Lucca, said to have been carved by Nicodemus and miraculously brought to the city. The figure of Christ on it wears a long robe and a solemn face, and it was one of the most venerated relics in Italy; Lucchese pilgrims would swear by it. The Serchio is the river near Lucca where the citizens swam in summer. The devils are making fun of the dead man's civic piety and of his hometown. In Lucca, the joke goes, he could kneel to the holy face or splash about in the river; in the pitch, there are only hooks. The stroke is cruel. Their taunt makes an ordinary affection for home a cause of shame, and it shows that the devils know everything about the sinners they handle: names, towns, shrines. The Malebranche are not brutes but bureaucrats of damnation. They keep the grafters under the surface of the pitch, so that they cannot hide anything, since concealment is the whole sin."
+    content: "The boiling pitch of the fifth ditch is compared to 'the Venetians in their Arsenal' boiling tenacious pitch in winter to caulk ships, while workers fashion oars, twist cables and sew sails. Venice's Arsenal, founded around 1104, was the republic's great shipyard and a wonder of medieval industry. It is the only reference to Venice in the Inferno, a sign Dante had seen it, probably on a diplomatic visit. The pitch fits the sin: it clings to whatever touches it, as bribes cling to the hands of corrupt officials."
   - id: "malacoda-evil-tail"
     trigger: "Malacoda"
     title: "The Devil Called Evil Tail and Why Heaven Silences Him"
     wikipedia_url: "https://en.wikipedia.org/wiki/Malacoda"
     image_url: ""
     image_caption: ""
-    content: "Virgil steps onto the sixth bank, and the devils swarm out from under the bridge with their grappling hooks, as dogs leap at a beggar who stops to ask for alms. He demands that one of them come forward to hear his words before they strike, and they send Malacoda, Evil-Tail, the leader of the troop. Virgil's speech is a model of bureaucratic firmness: is it credible that I am come secure your opposition to repel, without Heaven's will and fate upon my side? Let me advance, for 'tis by Heaven's behest that I on this rough road another guide. The invocation works as it always does in Hell. Malacoda's haughty spirit is so depressed that he lets his hook drop sudden to his feet, and cries, Strike him not! The names of the Malebranche are among Dante's most inventive: Malacoda, Scarmiglione, Alichino, Calcabrina, Cagnazzo, Barbariccia, Libicocco, Draghignazzo, Ciriatto, Graffiacane, Farfarello, Rubicante. All are slang-heavy Italian: evil tail, torn-hair, hell-bent, goat-beard. Dante writes them as a comic troupe, and the mixture of menace and slapstick is the register of the next two cantos. The devils may be dangerous, but they are also, like all the guardians of Hell, subject to higher orders."
-  - id: "caprona-dante-soldier"
-    trigger: "Caprona"
-    title: "The Battle Dante Fought In and Never Forgot"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Campaldino"
-    image_url: ""
-    image_caption: ""
-    content: "As the devils crowd close, Dante presses against Virgil in fear, and compares his terror to something he had seen himself: so at Caprona saw I footmen fear, spite of their treaty, when a multitude of foes received them, crowding front and rear. The Pisan garrison of the castle of Caprona surrendered in August 1289 to a Florentine and Lucchese army after a siege, under a pledge of safe-conduct, and marched out between two lines of enemy soldiers who stared at them and muttered threats. Dante was there. He was twenty-four, a cavalryman, having fought a few weeks earlier in the battle of Campaldino, in which Florence defeated Arezzo. This is the only time in the Inferno that he refers to his own military service, and the fear he recalls is not from battle but from the aftermath: from the sight of defenceless men afraid that a promise will be broken. The image sharpens the scene. The devils are talking about tickling Dante on the thigh with their hooks, and Malacoda has just given his word. Dante, who knows what a safe-conduct is worth in war, has good reason to doubt it. The poem borrows its authority from memory, and shows the poet as a veteran."
+    content: "Virgil faces the Malebranche ('Evil-claws') and demands that one come forward: 'Malacoda', Evil-Tail, their leader. His speech is bureaucratic firmness: can you imagine I came without Heaven's will and fate on my side? It works as it always does in Hell, and Malacoda lets his hook fall. The devils' names are slang-laden Italian comedy: Scarmiglione, Alichino, Calcabrina, Cagnazzo, Barbariccia, Libicocco, Draghignazzo, Ciriatto, Graffiacane, Farfarello, Rubicante. Menace and slapstick mix, but even these guardians answer to higher orders."
   - id: "twelve-hundred-sixty-six-years"
     trigger: "Twelve hundred sixty-six years"
     title: "The Exact Hour Dante Gave for the Day Christ Died"
     wikipedia_url: "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus"
     image_url: ""
     image_caption: ""
-    content: "Malacoda explains why the way ahead is blocked: the sixth arch lies ruined on the ground. Yestreen, but five hours later than this time, twelve hundred sixty-six years reached an end since the way lost the wholeness of its prime. He is referring to the earthquake that broke the rocks of Hell at the moment of Christ's death. The arithmetic is exact. Dante held that Christ died at the age of thirty-four, in the year 34 of the Christian era, so that 1300 minus 34 gives 1266 years ago. On his reckoning the anniversary falls five hours from now, which puts the present moment at about seven in the morning on Holy Saturday. The detail gives the poem one of its sturdiest anchors: the clock of the Inferno is set by the Crucifixion, and the travellers are standing in the aftermath of it. Malacoda's information is a piece of devilish cunning, because he gives it as proof that the bridge cannot be crossed here and then sends them off with an escort to another bridge, which, as the next canto will show, is also broken. He is lying with precision. The first thing Dante learns in the Malebolge is that the demons' truthful statements are the most dangerous."
+    content: "Malacoda says the broken bridge fell 'twelve hundred sixty-six years' ago, 'yesterday, five hours later than this time'. He means the earthquake at Christ's death. Dante held that Christ died in AD 34 at the sixth hour, midday, so 1300 minus 34 gives 1266, and the anniversary falls five hours from now, putting the present at about seven on Holy Saturday morning. The poem's clock is set by the Crucifixion. Malacoda's accurate statement is devilish cunning: it sends the poets toward another bridge, which is also broken."
   - id: "devils-bite-tongues-trumpet"
     trigger: "each bit his tongue"
     title: "Why the Most Famous Canto Ending in Hell Is a Rude Joke"
     wikipedia_url: "https://en.wikipedia.org/wiki/Divine_Comedy"
     image_url: ""
     image_caption: ""
-    content: "Dante is afraid. The devils grind their teeth and look fierce, and he begs Virgil to go without an escort. Virgil answers that they grin only at the wretches in the pitch confined. The ten wheel and march down the left-hand bank, but first each bit his tongue, and passed the signal on to him who led the van. The last line of the canto delivers the punchline: he answered grossly as with trumpet blast. In Italian, the leader Barbariccia turned his rear into a trumpet. It is the crudest joke in the poem. It also comes at the end of a canto full of grotesque comedy, and it is deliberate. The Malebranche are an assembly of buffoons with sharp hooks, and the scatological finale establishes the tone of the chapters that follow, in which the poet will treat Hell as a farce in which the stakes are real. The humour has a purpose. Medieval comedy was not opposed to seriousness, and the contrast between slapstick and horror was a known technique in the mystery plays. Dante's title, the Comedy, includes this register, and the line acts as its manifesto. The word he uses for the sound, trombetta, a little trumpet, makes the fart a military signal."
+    content: "The ten devils march off, but 'each bit his tongue' at their leader, and the canto ends with a crude joke: Barbariccia 'made a trumpet of his rear'. It is among the crudest lines in the poem, deliberate scatological comedy that sets the tone of the next chapters, where Hell becomes farce with real stakes. Medieval mystery plays also mixed slapstick and horror. Dante's title, the Comedy, includes this register; the word he uses, trombetta, makes the fart a military signal."
 ---
-Conversing still from bridge to bridge we went;
+  Conversing still from bridge to bridge we went;
     But what our words I in my Comedy
     Care not to tell. The top of the ascent
 
@@ -128,7 +107,7 @@ Conversing still from bridge to bridge we went;
     And him he held by tendon of the foot.
 
   He from our bridge: 'Ho, Malebranche! Grip
-    An Elder brought from **Santa Zita's town**:
+    An Elder brought from Santa Zita's town:
     Stuff him below; myself once more I slip
 
   Back to the place where lack of such is none.
@@ -141,7 +120,7 @@ Conversing still from bridge to bridge we went;
 
   The other sank, then rose with back bent round;
     But from beneath the bridge the devils cried:
-    'Not here the **Sacred Countenance** is found,
+    'Not here the Sacred Countenance is found,
 
   One swims not here as on the Serchio's tide;
     So if thou wouldst not with our grapplers deal
@@ -203,7 +182,7 @@ Conversing still from bridge to bridge we went;
     And then the devils, crowding, came so near,
     I feared they to their paction false might show.
 
-  So at **Caprona** saw I footmen fear,
+  So at Caprona saw I footmen fear,
     Spite of their treaty, when a multitude
     Of foes received them, crowding front and rear.
 

@@ -36,7 +36,7 @@ if sys.platform == "win32":
 from checkpointer import Checkpointer
 from formatter import format_chapter
 from markers import _find_match, _inject_markers
-from prompts import make_windows
+from prompts import _split_text
 import catalog_sync
 
 HERE        = Path(__file__).parent
@@ -48,6 +48,23 @@ _FORBIDDEN_CLOSINGS = (
     "this underscores", "this highlights", "this reflects",
     "this reinforces", "this aligns with", "this exemplifies",
 )
+
+
+# Match the density of the existing books: roughly one card per ~250 words of text
+# (cards:body word ratio of ~0.2-0.45), so short chapters get few cards.
+_WORDS_PER_WINDOW = 250
+_MIN_WINDOWS = 4
+_MAX_WINDOWS = 25
+
+
+def make_windows(text: str) -> list[str]:
+    n = max(_MIN_WINDOWS, min(_MAX_WINDOWS, round(len(text.split()) / _WORDS_PER_WINDOW)))
+    windows = _split_text(text, n)
+    # A short closing window can't support a card; fold it into the one before.
+    if len(windows) > 1 and len(windows[-1].split()) < len(text.split()) / n * 0.4:
+        last = windows.pop()
+        windows[-1] = windows[-1] + "\n\n" + last
+    return windows
 
 
 def _load():
@@ -160,8 +177,8 @@ def cmd_assemble(args) -> None:
     for e in enhancements:
         label = e.get("trigger", "?")
         words = len(str(e.get("content", "")).split())
-        if not 180 <= words <= 340:
-            warnings.append(f"card {label!r}: content is {words} words (target 250-300)")
+        if not 70 <= words <= 140:
+            warnings.append(f"card {label!r}: content is {words} words (target ~100)")
         tail = str(e.get("content", "")).strip().lower()
         last_sentence = re.split(r"(?<=[.!?])\s+", tail)[-1] if tail else ""
         if last_sentence.startswith(_FORBIDDEN_CLOSINGS):

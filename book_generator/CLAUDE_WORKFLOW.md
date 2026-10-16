@@ -50,7 +50,7 @@ run `catalog` once at the end, from the main session.
       "wikipedia_url": "https://en.wikipedia.org/wiki/...",
       "image_url": "",
       "image_caption": "",
-      "content": "250-300 word documentary-style card"
+      "content": "~100 word card"
     }
   ]
 }
@@ -60,14 +60,20 @@ Rules (enforced by `assemble`, which refuses to write on any ERROR):
 
 - **phrases**: exactly one per window, in window order, a verbatim substring of *that*
   window (copy character-for-character, keep curly quotes/accents as they appear), preferably
-  1-5 words, specific rather than generic ("Walden Pond", not "the house").
+  1-5 words, specific rather than generic ("Walden Pond", not "the house"). Windows are about
+  250 words each (`cc_chapter.py windows` prints the count), so a 1,100-word chapter gets 3-4 cards.
 - **summary**: 5-6 points, each with a real Wikipedia link.
 - **enhancements**: exactly one card per phrase, no extras; `trigger` equals the phrase.
   `image_url` and `image_caption` stay `""` — `find_images.py` fills them.
-- **Card style** (titles, the three-beat structure, forbidden closings, worked examples):
-  follow `_ENH_SYSTEM` in `prompts.py`. Anchor to the exact moment in the chapter, give
-  context the reader likely does not know, and return to the book. Never end with
-  "This underscores / highlights / reflects / reinforces / aligns with / exemplifies...".
+- **Card style**: the book text lives in the body; cards are short explainers anchored on a
+  Wikipedia topic. Keep each to **about 100 words** (70-140; the existing books average ~100).
+  Anchor to the exact moment in the chapter in one sentence, add context the reader likely does
+  not know (history, myth, science, an irony), and end on a concrete point rather than a summary.
+  Check `public/books/odyssey` or `walden` for the tone. Titles are curiosity-driven, 6-10 words
+  (see `_ENH_SYSTEM` in `prompts.py`). Never end with "This underscores / highlights / reflects /
+  reinforces / aligns with / exemplifies...". Do not quote the passage at length.
+- **Density check**: other books run at a card:body word ratio of ~0.2-0.45. If a chapter's cards
+  outweigh its text, there are too many or they are too long.
 - Only use Wikipedia URLs you are confident exist.
 
 The chapter text itself is never rewritten: `assemble` takes the body straight from

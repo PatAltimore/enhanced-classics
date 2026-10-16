@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Dolphin"
     image_url: ""
     image_caption: ""
-    content: "Dante keeps watching the pitch as the devils walk beside the travellers, and he sees movement in it: as when the dolphins vaulted backs display, warning to mariners they should prepare to trim their vessel ere the storm makes way; so, to assuage the pain he had to bear, some wretch would show his back above the tide, then swifter plunge than lightnings cleave the air. Dolphins leaping ahead of a ship were a traditional sign of coming bad weather among medieval sailors, who read the curved backs as a warning to reef sails. The image is a double. The leaping dolphins save the crew by showing their backs; the sinners show theirs for the opposite reason, seeking relief from the heat, and are hooked for it. Dante follows with a second simile of frogs at the edge of a ditch, with muzzles thrust out of the water but bodies carefully hidden. When Barbariccia comes near, the souls vanish beneath the bubbles. The effect is a pond-side comedy with an unbearable undertone. The grafters, who in life kept their profits out of sight, are now trained to hide, and the devils' pleasure is catching them at the moment they stop being careful. The sailor's language gives the scene a nautical clarity."
-  - id: "otter-graffiacane-hook"
-    trigger: "the look an otter has"
-    title: "How Dante Describes the Sinner as a Hunted Otter"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eurasian_otter"
-    image_url: ""
-    image_caption: ""
-    content: "One sinner is slow to dive. Dante sees him waiting at the edge, like a frog that doesn't plunge when the others do, and Graffiacane, who is nearest, draws him up by the hair, so that he hangs dripping and pitchy: to me he bore the look an otter has. The otter is a precise choice. Medieval hunters knew the animal as a swimmer that could be seized by the fur and hauled out of the water, and as a creature whose pelt was sleek and black when wet. The comparison also catches the pathetic note in a creature that has just been snatched from safety. The devils give a running commentary of the kind a hunter might make over a catch: Rubicante, with thy talons fall upon him and flay well, they call. Dante adds that he knew the names of all the devils because he had listened when they were first chosen, a quiet reminder of his attentiveness, and that his heart is shaken by the memory. Then he asks Virgil to find out who the wretched wight at the mercy of his enemies may be. The scene is horrible and comic at once, and it sets up the extended bargaining that follows, in which a prisoner uses speech as his only weapon."
+    content: "Dante sees sinners surface in the pitch like 'the dolphins' arching their backs: sailors read dolphins leaping ahead of a ship as a warning of storm, so that they should trim their vessel. The simile is a double. The dolphins save the crew by showing their backs; the sinners show theirs to ease the heat and get hooked. A second image follows, frogs with muzzles out and bodies hidden, vanishing when Barbariccia comes near. The grafters, who in life kept profit out of sight, are trained to hide, and the devils' sport is catching them when they relax."
   - id: "theobald-navarre-ciampolo"
     trigger: "Thiebault"
     title: "The Navarrese Servant Who Named His Master a Righteous King"
     wikipedia_url: "https://en.wikipedia.org/wiki/Theobald_II_of_Navarre"
     image_url: ""
     image_caption: ""
-    content: "Asked where he came from, the captured soul says: in kingdom of Navarre I first saw light. Me servant to a lord my mother tied; through her I from a scoundrel sire did spring, waster of goods and of himself beside. As servant next to Thiebault, righteous king, I set myself to ply barratorship, and in this heat discharge my reckoning. The King of Navarre in question is Theobald II (Thibaut II), who reigned from 1253 to 1270, a pious crusader who died at Trapani on the way back from the Eighth Crusade. The unnamed barrator is traditionally called Ciampolo, a name that comes from early commentators, and little else is known about him. His self-portrait is a brilliant mini-biography: a bastard whose father was a spendthrift, whose mother put him in service to a lord, and who then rose to be a minor official in the king's household and sold decisions for money. The word righteous is the poem's irony: a good king, surrounded by a bad court, is exactly the setting in which barratry flourishes. The sinner is not boastful. He is a clever, tired man who has run out of favours, and the poem lets him talk because talk is the only game he knows."
+    content: "A hooked soul says he served 'Thiebault, righteous king'. That is Theobald II of Navarre (reigned 1253-1270), a pious crusader who died at Trapani on the way home from the Eighth Crusade. The sinner, traditionally named Ciampolo, is a bastard whose spendthrift father shamed the family, who served a lord and then rose in the royal household, selling decisions. 'Righteous' is the poem's irony: a good king surrounded by a bad court is exactly where barratry flourishes."
   - id: "gomita-gallura-sardinia"
     trigger: "Gomita of Gallura"
     title: "The Friar Who Sold Prisoners Back to Their Families"
     wikipedia_url: "https://en.wikipedia.org/wiki/Gomita"
     image_url: ""
     image_caption: ""
-    content: "Virgil asks the sinner whether there is an Italian among his fellows in the pitch, and the Navarrese says that he parted a short while ago from one who lived near them, adding that he would like to use him still for shield, so that hook or claw he should no longer fear. The devils are not amused, and Libicocco tears a strip from his arm. Pressed to name the man, the sinner says: Gomita of Gallura, a vessel full of fraud of every kind. Fra Gomita was a Sardinian friar who served Nino Visconti, judge of Gallura, one of the four districts of Sardinia, as his deputy. When Nino held his enemies in prison, Gomita took bribes and let them go, a form of corruption that earned him a reputation as a chieftain among barrators. Nino eventually had him hanged. The sinner then adds Don Michael Zanche of Logodoro, another Sardinian official, with whom Gomita converses endlessly, gossiping about their island. The detail is comic and bitter: even in the boiling pitch, men from the same country talk of home. Sardinia, notorious in Italian satire for its corrupt judges, is thus represented in Hell by two men who never stop talking in their dialect."
-  - id: "whistle-trick-barrator"
-    trigger: "I shall whistle"
-    title: "The Barrator's Offer That Was Really an Escape Plan"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Barratry"
-    image_url: ""
-    image_caption: ""
-    content: "Seeing the devils eager to claw him, the captured sinner makes an offer. If you would talk with, or closer spy, Tuscans or Lombards, I will bring them nigh, but let the Malebranche first give way, that of their vengeance they may not have fear. For me who am but one will bring seven near when I shall whistle as we use to do whenever on the surface we appear. A whistle was a conventional signal among the grafters, who would surface at the call of a friend. Cagnazzo, one of the devils, snaps at once: hear the cheat he has contrived, to throw himself below! The sinner agrees with delighted modesty. Far too malicious, in good sooth, he replies, when for my friends I plan a sorer fate. The exchange is a cat-and-mouse game between a professional liar and demons who are sure they can see through him. Notice the sinner's strategy: he does not pretend to be honest. He admits that his plan will let him escape, and presents it as a service. The whistle is therefore a perfect barrator's tool, a signal that sells access and promises a payoff, and the passage lets the reader watch fraud work exactly as it did in life."
-  - id: "navarrese-escape-timing"
-    trigger: "the Navarrese"
-    title: "How the Sinner Outwitted a Squad of Demons"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ciampolo_di_Navarra"
-    image_url: ""
-    image_caption: ""
-    content: "Alichino, the most daring devil, accepts the challenge: if thou fling thyself hence, I shall not run after thee, but o'er the pitch I'll dart upon the wing. Leave we the ridge, and be the bank a shield; and see if thou canst all of us outspring. Then Dante calls to us directly: O Reader, hear a novel trick revealed. All the devils turn their eyes away, he first who was slowest to agree, and in choice of time the Navarrese was wise. Taking firm stand, himself he forward flung, eluding thus their hostile purposes. The sinner's escape is based on pure timing. The devils have turned their heads to give him room, and he uses the half-second to jump. Alichino, who gave the challenge, is stung with compunction and bitterly regrets his slowness; he grabs, shouts Caught! and misses, because his wings of fear are no match for the sinner's dive. The scene is the closest the Inferno comes to a fable: Aesop's tale of the frog and the mouse will be named in the next canto. The wisdom Dante shows in giving the sinner the last word is double-edged. He escapes, but only to the bottom of the pitch where he is already damned."
+    content: "Asked about Italians in the pitch, the Navarrese names 'Gomita of Gallura, a vessel full of fraud'. Fra Gomita was a Sardinian friar who served Nino Visconti, judge of Gallura, as deputy; when Nino held enemies prisoner, Gomita took bribes and let them go, and Nino finally had him hanged. The sinner adds Don Michael Zanche, another Sardinian official, with whom Gomita gossips endlessly about their island. Even in the boiling pitch, men from the same country talk of home."
   - id: "devils-glued-wings-birdlime"
     trigger: "plastered o'er with glue"
     title: "The Devils Who Were Caught Like Birds"
     wikipedia_url: "https://en.wikipedia.org/wiki/Birdlime"
     image_url: ""
     image_caption: ""
-    content: "Angry at being tricked, the demon Calcabrina sets on Alichino. The other was a spar-hawk terrible to claw in turn; together then the two plunged in the boiling pool. The heat full well how to unlock their fierce embraces knew; but yet they had no power to rise again, so were their wings all plastered o'er with glue. The image is exact. In the Middle Ages, fowlers caught songbirds by smearing branches with birdlime, a sticky paste made from holly bark or mistletoe berries, so that a bird which landed could not take off. The pitch of the fifth ditch works the same way, trapping the devils. Barbariccia, mourning with his train, sends four of his squad flying to the other side with grapplers to haul them out, and now beneath the scum the rescued devils are being fried. The final tercet is calm: and from them thus engaged we onward passed. The Malebranche, who were so skilled at catching sinners, are caught by their own trap, and their comedy hides a moral. A devil who plays the hawk is as likely as any grafter to be stuck in the pitch. Dante and Virgil take advantage of the confusion to slip away unobserved."
+    content: "Alichino and Calcabrina fight in the air over the escaped sinner and fall into the pitch, where 'their wings were plastered o'er with glue'. Medieval fowlers caught songbirds with birdlime, a sticky paste smeared on branches; the pitch traps the devils exactly. Barbariccia sends four more to haul out the glued pair, who are now 'being fried'. The devils who were so skilled at catching sinners are caught in their own trap. Dante and Virgil use the confusion to slip away."
 ---
-Horsemen I've seen in march across the field,
+  Horsemen I've seen in march across the field,
     Hastening to charge, or, answering muster, stand,
     And sometimes too when forced their ground to yield;
 
@@ -125,7 +104,7 @@ Horsemen I've seen in march across the field,
 
   And Graffiacan, who nearest to him was,
     Him upward drew, clutching his pitchy hair:
-    To me he bore **the look an otter has**.
+    To me he bore the look an otter has.
 
   I of their names ere this was well aware,
     For I gave heed unto the names of all
@@ -216,7 +195,7 @@ Horsemen I've seen in march across the field,
     And I to this same place where now I stay
 
   For me, who am but one, will bring seven near
-    When **I shall whistle** as we use to do
+    When I shall whistle as we use to do
     Whenever on the surface we appear.'
 
   On this Cagnazzo up his muzzle threw,
@@ -239,7 +218,7 @@ Horsemen I've seen in march across the field,
     All to the other side turned round their eyes,
     He first who slowest was the boon to yield.
 
-  In choice of time **the Navarrese** was wise;
+  In choice of time the Navarrese was wise;
     Taking firm stand, himself he forward flung,
     Eluding thus their hostile purposes.
 

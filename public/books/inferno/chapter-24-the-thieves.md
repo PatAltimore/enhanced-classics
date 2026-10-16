@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Aquarius_(astrology)"
     image_url: ""
     image_caption: ""
-    content: "The twenty-fourth canto begins with a country scene. In season of the new year, when the sun beneath Aquarius warms again his hair, and the nights are shorter, hoarfrost paints a mimic image of her sister white, the snow. A clown, a peasant, whose fodder is consumed outright rises and looks abroad and, seeing all the plain glisten, smites his thigh in despair. He goes indoors and mourns, but hope revives when looking out again he sees the earth has changed its face, and he takes his crook and drives his sheep to pasture. The sun is in Aquarius in late January and February, so the setting is the end of winter, and the frost is only a dusting that will melt. The point of the simile is the swing of the peasant's feelings. He thinks the snow has returned and his flock will starve, then discovers it is only frost, and his fear dissolves. Dante likens himself to the peasant: he was terrified when he saw Virgil's brows troubled, and relieved when Virgil turned with the expression sweet which he had learned beneath the mountain. The image says that a great teacher's face is the weather by which the pilgrim lives, and a single frown can look like winter."
-  - id: "heavy-cowled-hypocrite-climb"
-    trigger: "The heavy cowled"
-    title: "A Climb Only Possible Because Virgil Was Weightless"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hypocrisy"
-    image_url: ""
-    image_caption: ""
-    content: "To leave the sixth ditch, the poets must climb the fragments of the broken bridge. Virgil looks over the rubble, thinks, opens his arms and lifts Dante to the top of one block, then shows him the next: by this thou now must clamber on; but try it first if it will bear thy load. Then comes a dry aside: the heavy cowled this way could ne'er have gone, for hardly we, I holpen, he so light, could clamber up from shattered stone to stone. The heavy cowled are the hypocrites in their lead-lined cloaks, who could never have climbed this rubble even if they had been free to leave. It is the poem's neatest joke: the escape route is available only to the unburdened. A shade has no weight, so Virgil is light; Dante, with his living body, is heavy but not as heavy as lead. The remark also connects the physical and moral. The hypocrites cannot climb because their gilded cloaks drag them down, and the pilgrim, having shed his own pretensions, can ascend. Dante adds that the wall on the inner side is lower, since Malebolge slopes to the central pit, so each ditch is high on the out, low on the inner wall, and the climb is made possible by the shape of Hell itself."
+    content: "The canto opens with a country scene: when the sun is in Aquarius, in late winter, a peasant sees the plain white with frost, thinks snow has returned and his flock will starve, then sees it melt and drives his sheep out. Dante likens himself to the peasant: he was terrified by Virgil's troubled brows, then relieved at the 'sweet expression' he returned. The simile shows that a great teacher's face is the weather by which the pilgrim lives, and a single frown can look like winter."
   - id: "fame-smoke-foam-virgil"
     trigger: "smoke in air, or foam on water"
     title: "Virgil's Pep Talk About Fame at the Top of the Rubble"
     wikipedia_url: "https://en.wikipedia.org/wiki/Fame"
     image_url: ""
     image_caption: ""
-    content: "At the summit, Dante collapses on the ground, breathless. Virgil does not let him rest. Well it befits that thou shouldst from thee throw all sloth, he says; for stretched in down or under awnings none can glory know. And he who spends his life nor wins renown leaves in the world no more enduring trace than smoke in air, or foam on water blown. Therefore arise; o'ercome thy breathlessness by force of will, victor in every fight when not subservient to the body base. Of stairs thou yet must climb a loftier flight; 'tis not enough to have ascended these. The speech is the best statement of Virgil's ethics in the poem. Fame, for a Roman, was the only form of immortality available to the unbaptised, and Virgil is arguing, as Brunetto did in Canto 15, that a life without achievement leaves no mark. But he is also correct about the climb, which will lead from Hell to Purgatory, and the physical effort has a moral parallel. The loftier flight of stairs is the mountain of Purgatory, and Dante's panting is a preview. He pretends to breathe more easily than he does, hiding his fatigue as he speaks, which is the first of many small hypocrisies the pilgrim indulges in."
-  - id: "sandy-libya-snakes-lucan"
-    trigger: "sandy Libya"
-    title: "Why Dante Told Libya to Stop Boasting About Snakes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pharsalia"
-    image_url: ""
-    image_caption: ""
-    content: "In the seventh ditch, Dante sees something that makes his blood curdle even now: the bolgia is hideously fraught with serpents. Then he addresses a whole country. Henceforth let sandy Libya boast no more! Though she breed hydra, snake that crawls or flies, twy-headed, or fine-speckled, no such store of plagues, nor near so cruel, she supplies, though joined to all the land of Ethiop, and that which by the Red Sea waters lies. The reference is to Lucan's Pharsalia, where the ninth book describes Cato's army marching across the Libyan desert and being attacked by a catalogue of exotic snakes, each with its own deadly effect. Lucan names the amphisbaena, the jaculus, the cenchris, the hydrus and others, and Dante borrows the names for his own purposes. The boast about Libya is a typical piece of Dante's poetic rivalry. He is competing with the Roman poet, and his claim is that his ditch contains more and worse. The competition continues in the next canto, where he explicitly tells Lucan and Ovid to be silent. What is clear is that Dante has read his predecessors thoroughly and wants the reader to know it. The snakes are a joke on literature as well as on thieves."
+    content: "At the summit, Dante collapses, breathless, and Virgil will not let him rest: 'he who spends his life without winning renown leaves such trace on earth as smoke in air, or foam on water.' Stretched in down or under awnings, none gains glory. For a Roman, fame was the only immortality open to the unbaptised, as Brunetto argued in Canto 15. But Virgil also means the climb, from Hell to the mountain of Purgatory, a 'loftier flight of stairs'. Dante pretends to breathe easier than he does, a small hypocrisy."
   - id: "phoenix-ashes-reborn"
     trigger: "The Phoenix"
     title: "The Bird Dante Borrowed to Describe a Sinner Rising from Ashes"
     wikipedia_url: "https://en.wikipedia.org/wiki/Phoenix_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "A naked sinner, hands bound by snakes, is bitten at the junction of neck and shoulder. Nor O nor I did any ever write more quickly than he kindled, burst in flame, and crumbled all to ashes. And when quite he on the earth a wasted heap became, the ashes of themselves together rolled, resuming suddenly their former frame. To make the image believable, Dante appeals to the authority of the learned: thus, as by mighty sages we are told, the Phoenix dies, and then is born again, when it is close upon five centuries old. In all its life it eats not herb nor grain, but only tears that from frankincense flow; it, for a shroud, sweet nard and myrrh contain. The phoenix legend reached medieval Europe from Ovid's Metamorphoses and from the Physiologus, a bestiary that read the bird as a symbol of Christ's resurrection. Dante turns it into a punishment: the thief who stole in the dark is burned and reborn to be bitten again. The simile also makes a sly comparison between the sinner and the bird, because both live only to be consumed. A myth of immortality becomes a description of the damned, whose death is only another form of continuing."
+    content: "A thief is bitten, bursts into flame, crumbles to ash, and the ashes gather and re-form. To make it credible Dante cites the sages: 'the Phoenix dies and is born again when it is close upon five centuries old', eating only frankincense tears and wrapped in nard and myrrh. The legend came from Ovid's Metamorphoses and from the bestiary Physiologus, which read the bird as a symbol of Christ's resurrection. Dante turns it into a punishment: the thief who stole in the dark is burned and reborn to be bitten again."
   - id: "vanni-fucci-pistoia-beast"
     trigger: "Vanni Fucci"
     title: "The Pistoian Thief Who Called Himself a Mule"
     wikipedia_url: "https://en.wikipedia.org/wiki/Vanni_Fucci"
     image_url: ""
     image_caption: ""
-    content: "When the sinner rises from the ashes, dazed like a man who has fallen in a fit, Virgil asks him who he is. From Tuscany I rained, not long ago, into this gullet wild, he says. From bestial life, not human, joy I gained, mule that I was; me, Vanni Fucci, brute, Pistoia, fitting den, in life contained. Vanni Fucci was an illegitimate son of a Pistoian noble family, a Black Guelph and a violent man who took part in the factional fights of his city and died around 1295. The nickname Bestia, the Beast, stuck to him, and he uses it of himself. Dante's reaction is to say that he knew him in rage and blood, not as a thief, and he asks Virgil to detain him. The sinner is not repentant. He turns his face and mind toward Dante with spiteful shame, and says: it pains me more thou shouldst me find and catch me steeped in all this misery, than when the other life I left behind. The line shows what shame means to a certain kind of man: the humiliation of being seen weighs more than the punishment itself. His self-description, brute and mule, is the proud humility of a man who has made a virtue of bestiality."
-  - id: "sacristy-theft-rampino-foresi"
-    trigger: "fairly furnished sacristy"
-    title: "The Church Robbery That Sent an Innocent Man to the Gallows"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Vanni_Fucci"
-    image_url: ""
-    image_caption: ""
-    content: "Pressed to say what crime has put him here, Vanni Fucci answers: I'm plunged thus low because the thief I played within the fairly furnished sacristy; and falsely to another's charge 'twas laid. In 1293 the sacristy of the Cappella di San Jacopo in the cathedral of Pistoia, where the treasures and silver of the church were stored, was robbed. Suspicion fell on an innocent man, Rampino di Francesco Foresi, who was condemned and hanged, while Vanni and his accomplices got away. The crime is the usual theft, but in a holy place, so it is both larceny and sacrilege, and the innocent man's death makes it worse. Vanni then does something vindictive. Lest thou shouldst joy such sight has met thy view if e'er these dreary regions thou evade, give ear and hearken to my utterance true, and he prophesies that the Black party will first be driven out of Pistoia, then the White party will be crushed at Florence, and I have told thee that thou mayst lament. The prophecy refers to the events of 1301 and 1302 that drove Dante into exile. The thief takes his revenge on his captor by predicting the poet's ruin. The poem shows how a damned soul can use truth as a weapon."
+    content: "The reborn sinner says: 'From Tuscany I rained into this gullet wild; a beast's life, not a man's, pleased me, mule that I was; I am Vanni Fucci, beast, and Pistoia was my fitting den.' Vanni Fucci was an illegitimate son of a Pistoian noble family, a violent Black Guelph nicknamed Bestia, who died around 1295. Dante had known him as a man of blood, not a thief. The sinner is unrepentant: being seen in misery pains him more than death did. The shame of being seen outweighs the punishment."
 ---
-In season of the new year, when the sun
+  In season of the new year, when the sun
     Beneath **Aquarius** warms again his hair,
     And somewhat on the nights the days have won;
 
@@ -119,7 +98,7 @@ In season of the new year, when the sun
     Saying: 'By this thou now must clamber on;
     But try it first if it will bear thy load.'
 
-  **The heavy cowled** this way could ne'er have gone,
+  The heavy cowled this way could ne'er have gone,
     For hardly we, I holpen, he so light,
     Could clamber up from shattered stone to stone.
 
@@ -191,7 +170,7 @@ In season of the new year, when the sun
     With serpents; and such monstrous forms they bore,
     Even now my blood is curdled at the thought.
 
-  Henceforth let **sandy Libya** boast no more!
+  Henceforth let sandy Libya boast no more!
     Though she breed hydra, snake that crawls or flies,
     Twy-headed, or fine-speckled, no such store
 
@@ -261,7 +240,7 @@ In season of the new year, when the sun
 
   What thou demandest I can not deny:
     I'm plunged thus low because the thief I played
-    Within the **fairly furnished sacristy**;
+    Within the fairly furnished sacristy;
 
   And falsely to another's charge 'twas laid.
     Lest thou shouldst joy such sight has met thy view

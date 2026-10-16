@@ -35,51 +35,30 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Aeneas"
     image_url: ""
     image_caption: ""
-    content: "Dante's first excuse for turning back is a piece of literary history: Silvius' father, he reminds Virgil, went to the world immortal while still mortal. That is Aeneas, father of the boy Silvius by his Italian wife Lavinia, and the journey is the one Virgil himself invented in the sixth book of the Aeneid, when the Trojan hero descends with the Sibyl of Cumae, plucks the golden bough and meets his dead father Anchises, who shows him a parade of the Romans yet to be born. Dante then makes a daring claim. God allowed that journey, he argues, because Aeneas was destined to found Rome and its empire, and Rome and its empire were in turn founded for the holy seat where the Greater Peter's follower, the pope, now sits. A pagan poem becomes the first chapter of Christian history. This was no throwaway line: Dante's political treatise on monarchy defended exactly the idea that the Roman Empire was divinely ordained. So when he says he is no Aeneas, he is not claiming mere nerves. He is measuring himself against the founder of the civilization he believes God built, and finding himself a small, middle-aged exile with no mission. Virgil's reply, in the rest of the canto, is to prove that he has been chosen after all."
-  - id: "chosen-vessel-paul-vision"
-    trigger: "Chosen Vessel"
-    title: "The Forgotten Medieval Hell That Dante May Have Been Echoing"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Apocalypse_of_Paul"
-    image_url: ""
-    image_caption: ""
-    content: "Dante's second precedent is Saint Paul, the Chosen Vessel, a title taken from the Book of Acts, where the Lord calls the converted persecutor a chosen vessel to carry his name. Paul himself wrote that he knew a man who was caught up to the third heaven, and for centuries readers assumed he meant himself. Medieval imagination filled the gap with a popular text called the Visio Pauli, the Vision of Paul, in which an angel leads the apostle through a Hell of burning rivers and punished sinners, and then up to Paradise. Whether or not Dante read it, his audience would have known the legend, and his pairing is deliberate. Aeneas stands for the Empire; Paul stands for the Church; together they cover the two powers Dante believed should govern a healed world, the emperor and the pope. Between them they close the usual escape routes. If a pagan hero and an apostle could face the other world, what excuse has a poet who has been asked by Heaven itself? Dante's answer is brutal and honest: me worthy of it no one can believe, nor I myself. He does not say the journey is impossible; he says he does not deserve it. That is the doubt that Virgil is about to answer."
+    content: "Dante's first excuse is Aeneas, 'Silvius' father', who descended to the underworld alive in the sixth book of Virgil's Aeneid. Dante argues God allowed it because Aeneas was to found Rome, and Rome was founded for the seat of the pope, so a pagan epic becomes the first chapter of Christian history. His political treatise on monarchy argued exactly this. 'I am no Aeneas' is therefore not just nerves: he measures himself against the founder of a divinely ordained civilization."
   - id: "limbo-suspended-souls"
     trigger: "those in dubious state"
     title: "The Strange Place Where Virgil Spends Eternity Waiting"
     wikipedia_url: "https://en.wikipedia.org/wiki/Limbo"
     image_url: ""
     image_caption: ""
-    content: "Virgil's reason for being found at all is tucked into a half-line: the lady hailed him as he abode among those in dubious state. The Italian word is sospesi, suspended, hanging, neither condemned nor saved. This is Limbo, and Dante is not simply repeating doctrine. Theologians, notably Aquinas, discussed a limbo for unbaptised infants and another for the Old Testament patriarchs before Christ freed them. Dante did something nobody had quite done: he populated it with the virtuous pagans, the philosophers, poets and heroes of antiquity who lived well but without baptism. The poem will spend all of Canto 4 on that company, and no punishment here is worse than hopeless longing. Virgil's own phrasing already shows the ache. He is not in pain; he is in waiting, forever, with no prospect of arrival. And that is exactly why Beatrice came to him. The man who guided Aeneas to the underworld has the experience Dante requires, and the only door open to Virgil is this errand. Notice the quiet cruelty of grace here: a pagan is permitted to act in the cause of salvation, but never to share in it. The man who will take Dante to the edge of Heaven can never step through it."
-  - id: "beatrice-portinari-vita-nuova"
-    trigger: "Beatrice"
-    title: "The Woman Who Went to Hell Because of a Promise"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Beatrice_Portinari"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil lets the name fall late and softly: Know, it is Beatrice seeks thee thus to move. For readers of Dante's earlier book, the Vita Nuova, the name lands like a bell. Beatrice Portinari was a Florentine girl whom Dante says he first saw at the age of nine, and who greeted him in the street nine years later; she died in 1290, aged about twenty-four. The Vita Nuova ends with a vow: he will write of her what has never been written of any woman. The Commedia is that promise kept, and here she breaks the law of Heaven to keep a smaller promise to him. Descending to the edge of Hell in person, she explains that she has no fear because she fears only things which can harm her, and Hell's fire cannot touch a soul made by God. Courtesy, not power, is her weapon: she praises Virgil's fame, calls him Mantuan Shade, and promises to speak well of him to the Lord. Notice that her purpose is not romantic. She sends the poet who loved her a guide and then, years later in the poem, takes the guidance into her own hands. The girl in the Florentine street has become the force that rescues the dead man's soul."
+    content: "Virgil was found among those 'in dubious state', in Italian sospesi, suspended. This is Limbo. Theologians spoke of limbos for unbaptised infants and for the pre-Christian patriarchs, but Dante populated it with virtuous pagans: poets, philosophers and heroes who lived well without baptism. Their only pain is hopeless longing. Beatrice sent for Virgil because the man who guided Aeneas knows the road, yet the grace is bitter: he may serve salvation but never share it."
   - id: "lucia-patron-of-sight"
     trigger: "Lucia"
     title: "Why a Saint of Eyes Appears in Dante's Rescue Chain"
     wikipedia_url: "https://en.wikipedia.org/wiki/Saint_Lucy"
     image_url: ""
     image_caption: ""
-    content: "Beatrice explains how the message travelled: calling on Lucia, a noble lady in Heaven who sighs over Dante, she asked for help. Lucia is Saint Lucy of Syracuse, a Christian girl martyred under Diocletian around 304, and medieval Christians invoked her as the patron saint of eyes and eyesight. Her name comes from the Latin word for light, lux, and a legend says her eyes were torn out and then miraculously restored. Dante had personal reasons to feel her presence: in his Convivio he admits that his own eyesight was weakened by long, hard study. In the poem, Lucia comes to stand for illuminating grace, the light that reaches a person who cannot find his way. She is also, notably, in the line of transmission rather than the origin of the plan: a blessed lady in Heaven moves her; she moves Beatrice; Beatrice moves Virgil; Virgil moves Dante. Each rung is a woman, until the chain reaches a man who needs to be told he is not alone. When Lucia hears the cry, she rises in haste and describes Dante's trouble as a flood which is worse than the sea. For a nearly blind pilgrim, light is the first miracle."
-  - id: "three-ladies-mary-lucia-beatrice"
-    trigger: "three such blessed ladies"
-    title: "The Name Dante Refuses to Say in Hell"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil finishes by counting what protects Dante: three such blessed ladies who have a care for him in Heaven's court. Two are named: Lucia and Beatrice. The first, the noble lady who started the whole chain, is never named at all. She is the Virgin Mary, and Dante's silence is deliberate. Throughout the Inferno, sacred names are kept out of reach: the damned cannot speak them, and the poem itself seems unwilling to pronounce them in a place from which hope has been exiled. Mary appears only as a gentle lady, donna gentil, whose compassion breaks the rigid edict of the skies, the law that forbids a living man to enter the dead realm without cause. There is a quiet theology in this chain of intercession. In medieval devotion Mary was the mediatrix, the one who carried human cries to her Son, and the sequence here follows it: Mary to Lucia, Lucia to Beatrice, Beatrice to Virgil, Virgil to the fallen pilgrim. Dante is rescued not by his own merit but by being prayed for. Virgil's rhetorical question, where is thy bravery, when three such women watch over you, turns fear into shame. A man cannot go on sulking once he knows that Heaven has been talking about him."
+    content: "Lucia is Saint Lucy of Syracuse, martyred around 304 and invoked as patron of eyesight; her name echoes the Latin lux, light. Dante had weakened his own eyes with study, and in the poem she stands for illuminating grace. She is one link in a chain: a lady in Heaven moves Lucia, Lucia moves Beatrice, Beatrice moves Virgil, Virgil moves Dante. Each rung is a woman, until the chain reaches a man who needs to learn that Heaven has been talking about him."
   - id: "duca-signore-maestro-virgil-oracle"
     trigger: "Guide, Lord, Master"
     title: "Why Dante Called a Pagan Poet His Lord"
     wikipedia_url: "https://en.wikipedia.org/wiki/Virgil"
     image_url: ""
     image_caption: ""
-    content: "As his courage returns, Dante gives Virgil a triple title, and each word is chosen: guide, lord, master. In the original it is duca, segnore e maestro. The guide leads, the lord commands, the master teaches. Calling a dead heathen poet lord can sound like pure hyperbole, but it was close to the way medieval Europe actually treated Virgil. Schoolboys learned Latin from the Aeneid. Churchmen read the fourth Eclogue, with its child who brings back a golden age, as a prophecy of Christ. In the Middle Ages and long afterward, people consulted the Aeneid as an oracle, opening it at random and reading the first line they saw, a practice called the Sortes Virgilianae. The people of Naples told stories of Virgil the wizard, who was said to have cast a bronze fly that kept the city free of flies. Dante keeps the awe but removes the magic. His Virgil is a man of reason, and reason can take a pilgrim only so far. Notice the order of the titles, too. At this moment Virgil is a master whose authority Dante accepts without question. As the descent progresses, the vocabulary will warm and shift: the lord will become a father, and at the poem's end the guide must go."
+    content: "Dante's triple title for Virgil, duca, segnore e maestro, is not mere flattery. Medieval schoolboys learned Latin from the Aeneid, churchmen read his fourth Eclogue as a prophecy of Christ, and people consulted the poem as an oracle, the Sortes Virgilianae. Neapolitans told of Virgil the wizard, said to have cast a bronze fly that kept the city free of flies. Dante keeps the awe but drops the magic. As the descent goes on, 'lord' will warm into 'father'."
 ---
-It was the close of day; the twilight brown
+  It was the close of day; the twilight brown
     All living things on earth was setting free
     From toil, while I preparing was alone
 
@@ -115,7 +94,7 @@ It was the close of day; the twilight brown
     And heard things by him, to the which he owed
     His triumph, whence derives the Papal gown.
 
-  That path the **Chosen Vessel** later trod
+  That path the Chosen Vessel later trod
     So of the faith assurance to receive,
     Which is beginning of salvation's road.
 
@@ -171,7 +150,7 @@ It was the close of day; the twilight brown
     And with all needful help his guardian prove,
     That touching him I may be comforted.
 
-  Know, it is **Beatrice** seeks thee thus to move.
+  Know, it is Beatrice seeks thee thus to move.
     Thence come I where I to return am fain:
     My coming and my plea are ruled by love.
 
@@ -243,7 +222,7 @@ It was the close of day; the twilight brown
     Why cherish in thy heart a craven fear?
     Where is thy franchise, where thy bravery,
 
-  When **three such blessed ladies** have a care
+  When three such blessed ladies have a care
     For thee in Heaven's court, and these words of mine
     Thee for such wealth of blessedness prepare?'
 

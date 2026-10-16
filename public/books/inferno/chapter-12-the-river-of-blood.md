@@ -35,51 +35,23 @@ enhancements:
     wikipedia_url: "https://en.wikipedia.org/wiki/Minotaur"
     image_url: ""
     image_caption: ""
-    content: "The way down to the seventh circle is a broken cliff, and on its edge lies the beast that all eyes turn away from: the Cretan Infamy which was conceived in the pretended cow. This is the Minotaur, half man and half bull, born when Pasiphae, wife of King Minos, hid inside a wooden cow to mate with a bull. Minos shut the creature in the Labyrinth and fed it youths from Athens until the hero Theseus killed it with the help of Minos's daughter Ariadne. Dante's Minotaur is a figure of bestial violence, so it presides over a circle devoted to violence. The poet is careful to make the creature a symbol and not simply a monster. When Virgil taunts him, calling him the Duke of Athens come to kill him, he is mocking the beast's anger. The Minotaur bites himself for rage, then stumbles like a bull struck by the fatal blow, snapping its tether. Virgil's taunt is also a form of rescue. By reminding it that this man is untutored by thy sister, Ariadne, who taught Theseus how to enter and leave the maze, he marks the contrast between this pilgrim, who comes to see, and the hero who came to kill. Rage collapses when it is not met with fear."
-  - id: "earthquake-harrowing-ruin"
-    trigger: "wrenched great prey from Dis"
-    title: "The Earthquake That Left Hell's Slopes in Ruins"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Harrowing_of_Hell"
-    image_url: ""
-    image_caption: ""
-    content: "Sliding down the scree, Virgil explains the landscape. When he came down here before, the cliff was whole. It was not long after, he says, that He appeared who wrenched great prey from Dis, from out the upmost circle: Christ taking souls out of Limbo. The abyss trembled through all its parts with such violence that Virgil thought the world was stirred by love, as they say it is, which has often brought it back to chaos. That last clause is an allusion to Empedocles, the pre-Socratic philosopher who taught that the universe alternates between two forces, love, which draws things together, and strife, which pulls them apart. Virgil mistook the earthquake for a moment of love's triumph, which would dissolve the elements into a unity. In the Gospel of Matthew, the earth quakes and rocks split at the moment of Christ's death, and Dante makes this the cause of the shattered rampart. The ruined slope is therefore a piece of evidence, a geological scar of the Harrowing. It also tells us something about Virgil's limits. He understood the shock, but not the cause, and he explains it in terms of a Greek philosopher instead of a Saviour whose name he cannot pronounce."
-  - id: "centaurs-river-guardians"
-    trigger: "Centaurs"
-    title: "Why Dante Posted Half-Horse Archers at the River of Blood"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Centaur"
-    image_url: ""
-    image_caption: ""
-    content: "Between the rock and the ditch of boiling blood race centaurs armed with bows, as if they hunted on the earth again. In Greek myth centaurs were creatures with the upper body of a man and the lower body of a horse, associated with wildness and violence. At the wedding of Pirithous, they got drunk and attacked the Lapith guests and women, the story told in Ovid's Metamorphoses. They were the natural wardens for a circle of violence, and Dante uses their traditional skills. They gallop along the bank in their thousands, shooting any sinner who lifts his head from the boiling blood higher than his crime allows. The design is a precise reflection of the sin. Those who lived by bloodshed are drowned in blood, and those who inflicted wounds receive them from arrows. The detail of the archers' hunting also offers a grim joke: the tyrants and murderers once hunted people, and are now hunted themselves. But Dante makes a moral distinction among the centaurs. Some of them, like Nessus, are rash and quarrelsome; others, like Chiron, are wise. The beast with a human torso suggests a mixed nature, and the passage asks which half is steering."
+    content: "Guarding the broken cliff is 'the Cretan Infamy', the Minotaur, half man and half bull, born when Pasiphae hid in a wooden cow to mate with a bull, and later shut in the Labyrinth by King Minos until Theseus killed him with Ariadne's help. Dante makes him a figure of bestial violence presiding over the circle of violence. Virgil taunts him by mentioning the Duke of Athens, and he bites himself in rage and staggers like a struck bull. Rage collapses when it is not met with fear."
   - id: "chiron-tutor-of-achilles"
     trigger: "Chiron"
     title: "The Wise Centaur Who Taught Heroes and Combed His Beard With an Arrow"
     wikipedia_url: "https://en.wikipedia.org/wiki/Chiron"
     image_url: ""
     image_caption: ""
-    content: "Virgil refuses to answer the rash Nessus until they reach mighty Chiron, who Achilles bred. In myth Chiron was unlike the other centaurs: wise, gentle and a healer, the teacher of heroes such as Achilles, Jason and Asclepius. Dante keeps the wisdom and gives him a comic bit of business. As the poets approach, Chiron draws an arrow from his quiver and uses the notch to push his beard back from his mouth, clearing the way to speak. Then he notices something the other centaurs have missed: the second of these walkers moves the things he touches, which dead feet could never do. Stones shift under Dante's weight. It is a small, vivid proof that the pilgrim has a body. Virgil's reply is deferential and grave. He gestures toward the centaur's breast, where the two natures join, and explains that Dante lives and is brought here by necessity, not pleasure. Chiron's reaction is to turn to Nessus and order him to guide the visitors across and keep other bands from touching them. A teacher of Achilles has just accepted Virgil's word on trust, and the scene shows how rank and manners work even in a pit of blood."
-  - id: "beatrice-alleluias-one-came"
-    trigger: "alleluiahs roll"
-    title: "How Virgil Describes Beatrice Without Saying Her Name"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Beatrice_Portinari"
-    image_url: ""
-    image_caption: ""
-    content: "Explaining himself to Chiron, Virgil says that one came from where the alleluiahs roll, who charged him with this office strange and new. He is describing Beatrice and the whole machinery of Dante's rescue in a single line, and he does not name her. He does not say the name of God either; he refers only to that Power which makes him pursue his journey. The reticence is not cowardice. In Hell, Heaven's names are not spoken, and Virgil, a pagan who learned the vocabulary late, is careful with the words. The alleluia is the Hebrew word of praise, meaning praise the Lord, that the Church sang throughout the liturgy, and it is not a word the damned can hear. Virgil's phrasing places Beatrice in an eternal choir. He then makes two legal-sounding assurances: no robber is Dante, nor is he, Virgil, a felon soul. That is a bureaucratic way of answering the centaurs' question whether these two intruders are criminals. They are not. They hold a commission from above. Look at the contrast with the earlier scene at the gate of Dis: there, the demons challenged them and Virgil failed. Here the same claim is accepted at once, because it is made to a creature of reason."
+    content: "Virgil will answer only the wise 'mighty Chiron, who Achilles bred', not the rash Nessus. In myth Chiron was the gentle exception among centaurs, a healer and tutor of Achilles, Jason and Asclepius. Dante gives him a comic gesture: he draws an arrow and combs his beard back from his mouth with its notch so he can speak. Then he notices that Dante moves the stones he touches, proof of a living body. A teacher of heroes accepts Virgil's word on trust and orders Nessus to guide them across."
   - id: "guy-de-montfort-heart-thames"
     trigger: "In God's house ran he weapon through"
     title: "The English Prince Murdered in a Church, Whose Heart Went to London"
     wikipedia_url: "https://en.wikipedia.org/wiki/Guy_de_Montfort,_Count_of_Nola"
     image_url: ""
     image_caption: ""
-    content: "Among the boiling shades, Nessus points to a lone figure standing apart and says that in God's house ran he weapon through the heart which still on Thames wins cult devout. The victim was Henry of Almain, a cousin of King Edward I; the killer was Guy de Montfort, son of the rebel Simon de Montfort. In March 1271, at Viterbo in Italy, Guy stabbed Henry while he knelt at Mass in the church of San Silvestro, as revenge for the death of his father at the battle of Evesham six years earlier. The murder was a double outrage, a killing at the altar. Henry's heart was carried to England and kept in a golden cup at the tomb of Edward the Confessor in Westminster Abbey, where Londoners revered it, which is why Nessus speaks of a heart that wins cult devout on the Thames. For Dante, the crime is unusual because it took place across Europe, a story that had reached Italy by rumour and by the English tourists who came to see the rest of the evidence. He shows his knowledge of the wider world by naming one English prince among Italian tyrants. Guy, unlike the others, stands apart from the crowd, as if isolated by the church floor on which he struck."
-  - id: "attila-scourge-of-god-tyrants"
-    trigger: "Attila"
-    title: "Why Dante Parked the Scourge of God at the Deepest Point of Blood"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Attila"
-    image_url: ""
-    image_caption: ""
-    content: "Nessus ends his tour with a map of the river: as the blood grows shallower on this hand, it deepens toward the opposite extreme, until it reaches the place where tyrants must lament. There supreme justice torments Attila, once of the world the pest, Pyrrhus and Sextus, and wrings tears for ever from Rinier of Corneto and Rinier Pazzo, brigands whose crimes infested the roads. Attila is the Hun king who invaded the Roman Empire in the fifth century, nicknamed the Scourge of God because medieval writers saw him as a punishment sent for the sins of Christendom. Dante's Florence told its own story about him: a local legend held that he had destroyed the city, which was later rebuilt by Charlemagne. Pyrrhus is either the Greek king of Epirus who fought Rome or Achilles's son Neoptolemus, who killed Priam; Sextus is probably Sextus Pompeius, a pirate in the Roman civil wars. The mixing of ages is the point. In the river of blood, a fifth-century conqueror, a classical pirate and two thirteenth-century highway robbers stand in the same pool, and the only quality that matters is that they made violence a trade. The last line of the canto is chilling in its simplicity: then turned he back alone, the ford to pass."
+    content: "Nessus points to a lone shade who 'in God's house ran weapon through the heart which still on Thames is honoured'. In 1271 Guy de Montfort stabbed Henry of Almain, cousin of Edward I, at Mass in Viterbo, avenging his father Simon de Montfort, killed at Evesham. Henry's heart was carried to England and kept in a golden cup at Edward the Confessor's tomb in Westminster Abbey. Dante shows his wide knowledge by naming an English prince among the Italian tyrants."
 ---
-The place of our descent before us lay
+  The place of our descent before us lay
     Precipitous, and there was something more
     From sight of which all eyes had turned away.
 
@@ -128,7 +100,7 @@ The place of our descent before us lay
     The cliff had not this ruin undergone.
 
   It was not long, if I distinguish well,
-    Ere He appeared who **wrenched great prey from Dis**
+    Ere He appeared who wrenched great prey from Dis
     From out the upmost circle. Trembling fell
 
   Through all its parts the nauseous abyss
@@ -152,7 +124,7 @@ The place of our descent before us lay
     As from my Escort I had lately heard.
 
   Between this and the rock in single train
-    **Centaurs** were running who were armed with bows,
+    Centaurs were running who were armed with bows,
     As if they hunted on the earth again.
 
   Observing us descend they all stood close,
@@ -195,7 +167,7 @@ The place of our descent before us lay
     He seeks the valley dim 'neath my control,
     Necessity, not pleasure, leads him on.
 
-  One came from where the **alleluiahs roll**,
+  One came from where the alleluiahs roll,
     Who charged me with this office strange and new:
     No robber he, nor mine a felon soul.
 
@@ -256,7 +228,7 @@ The place of our descent before us lay
     The place where tyrants must lament. Supreme
 
   Justice upon that side involves in pains,
-    With **Attila**, once of the world the pest,
+    With Attila, once of the world the pest,
     Pyrrhus and Sextus: and for ever drains
 
   Tears out of Rinier of Corneto pressed

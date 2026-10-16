@@ -29,66 +29,31 @@ summary:
     link_label: "Man in the Moon"
 
 enhancements:
-  - id: "lay-the-first-twentieth-canto"
-    trigger: "Lay the First"
-    title: "Why Dante Stops to Count His Own Cantos"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Terza_rima"
-    image_url: ""
-    image_caption: ""
-    content: "The twentieth canto begins by announcing its own position: now of new torment must my verses tell, and matter for the Twentieth Canto win of Lay the First, which treats of souls in Hell. The poem is aware of its own architecture. Dante has designed the Divine Comedy in three canticles, or lays, each of thirty-three cantos, with the Inferno carrying an additional opening canto that serves as a prologue, so the whole adds up to one hundred. The structure is full of significance. Three is the number of the Trinity, and the verse form, terza rima, links each tercet to the next by rhyme so that the pattern ABA BCB CDC never quite closes. Ten is the number of perfection, and the square of ten gives the total. By interrupting himself to count, Dante shows that he regards form as meaning, not just ornament. Even the sentence is a small joke: the matter for the Twentieth Canto is new torment, and the poet comes at once to the horror of the diviners. The reader is told, in the most matter-of-fact way, that they are twenty cantos into a hundred, and that the poem is going as planned."
   - id: "piety-pity-dies-virgil-rebuke"
     trigger: "piety revives as pity dies"
     title: "The Harshest Rebuke Virgil Ever Gives Dante"
     wikipedia_url: "https://en.wikipedia.org/wiki/Divine_justice"
     image_url: ""
     image_caption: ""
-    content: "Dante sees a human form so wrenched that tears, rained down out of the eyes, between the buttocks fell, and he weeps, leaning on a boss of the hard cliff. Virgil rounds on him: art thou of the other fools one? Here piety revives as pity dies; for who more irreligious is than he in whom God's judgments to regret give rise? The Italian pun is on pietà, which means both pity and piety. In Hell, Virgil says, the only reverent response is to accept justice, and any sympathy for a damned soul is a kind of rebellion against God. The line is the harshest in the Inferno, and it is placed in the middle of the poem on purpose, as a correction of Dante's earlier fainting, weeping and compassion. It is also a lesson in reading. The punishment of the diviners twists their heads backward as a mirror of their sin: they tried to see too far ahead, and now they can only look behind. Virgil's severity may be harsh, but it is also an act of care, since it redirects the pilgrim's feeling from the sinners' pain to its cause."
-  - id: "tiresias-theban-seer"
-    trigger: "Tiresias"
-    title: "The Seer Who Lived as a Man and a Woman"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tiresias"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil begins the parade of seers with Amphiaraus, the Argive prophet who foresaw his own death at Thebes and was swallowed alive by the earth, then points to Tiresias, who was changed all o'er, till for a man a woman met the sight. The story is from Ovid: the Theban prophet saw two serpents mating on Mount Cithaeron and struck them with his staff, and was turned into a woman. Seven years later he found the same snakes and struck them again, and became a man. Because he had known both sexes, Zeus and Hera asked him to settle a quarrel about which enjoyed love more; he said women, and Hera blinded him in anger, while Zeus gave him the gift of prophecy as compensation. In the Odyssey he is the shade whom Odysseus consults in the underworld, and in Oedipus the King he tells the king the truth he does not wish to hear. Dante's version gives only the transformation, and the detail he picks is physical: he had to smite the same two twisted serpents with his wand ere he again in manly plumes was dight. The twisted serpents are a clever echo of the twisted necks of the diviners."
+    content: "Dante weeps at the contorted bodies of the diviners, and Virgil rounds on him: 'Here piety revives as pity dies; who is more irreligious than he in whom God's judgment stirs regret?' The Italian puns on pietà, meaning both pity and piety. In Hell the only reverent response is to accept justice. The line is the harshest of the Inferno, a correction of Dante's earlier fainting and weeping. The diviners tried to see too far ahead, so their heads are turned backward, and Virgil's severity redirects the pilgrim's feeling from the sinners' pain to its cause."
   - id: "manto-founder-of-mantua"
     trigger: "Manto"
     title: "Virgil Rewrites the Founding of His Own Hometown"
     wikipedia_url: "https://en.wikipedia.org/wiki/Manto_(mythology)"
     image_url: ""
     image_caption: ""
-    content: "Virgil points to a woman whose flowing tresses hide her bosom, all her hair falling on the far side, and says: was Manto; who through many regions sought; where I was born, at last her foot she stayed. Manto was the daughter of Tiresias, and a prophetess in her own right, who fled Thebes after Bacchus' city fell to tyranny and wandered across lands until she reached the marshy shores of the Mincio. There, according to Virgil's account, she lived alone with her servants to practise her arts, died, and was buried. The people of the region, finding the place defensible by its swamp, built a city over her body, and named it Mantua after her, without casting lot, meaning without the usual divination. The tale is a startling revision. In the tenth book of the Aeneid, Virgil himself wrote that Mantua was founded by Ocnus, Manto's son. Dante's Virgil now corrects his poem, insisting that if anyone tells you another story, let by no fraud the truth be overruled. The pilgrim agrees at once; what others say, he replies, I shall black embers find. A dead poet is correcting his own epic from the underworld."
-  - id: "mincio-benaco-garda"
-    trigger: "Mincio"
-    title: "The Lake and River That Frame Dante's Map of Virgil's Home"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Mincio"
-    image_url: ""
-    image_caption: ""
-    content: "To tell the story of Manto, Dante's Virgil gives a map of northern Italy in a few tercets. Beneath the mountains that wall Germany from Tirol lies a lake called Benacus, fed by the waters of a thousand springs between Val Camonica and Garda. At a point midway, the shepherds of Verona, Trent and Brescia could all give blessings. Peschiera, a strong fortress, stands facing Brescia and Bergamo where the bank lowers. There the waters, seeking more ease, since in Benacus is not room for all, form a river, which from its very source men call no more Benacus but Mincio, until it falls into the Po at Governo. Benacus is the Latin name of Lake Garda, the largest lake in Italy, and the Mincio flows from its southern end through the plain toward Mantua. Dante's geography is exact; he had visited Verona in exile and probably knew these places. The river then spreads into a marshy fen from which oft in summer pestilence has grown, a detail that explains why no one else wanted to live there and why Manto chose it. The description is Dante's quiet tribute to Virgil's countryside."
-  - id: "pinamonte-casalodi-mantua"
-    trigger: "Pinamonte"
-    title: "The Political Trick That Ruined Virgil's Native City"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pinamonte_Bonacolsi"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil finishes his story of Mantua with a grim footnote: the dwellers were in number great, till stupid Casalodi was befooled and victimised by Pinamonte's cheat. This is thirteenth-century politics. Count Alberto da Casalodi was the lord of Mantua, who in 1272 was persuaded by Pinamonte Bonacolsi, a rival noble, to expel the leading families of the city on the pretext that they were a danger to him. Once the nobles were gone, Pinamonte, having the people on his side, drove out Alberto himself and made himself master of Mantua. His family, the Bonacolsi, ruled the city until 1328. The fraud is the heart of the story. Virgil does not want Mantua remembered for deceit, but for its pure founding, and he urges Dante to keep the true account. It is a comic moment, because the poet of Rome's greatest epic is anxious about the reputation of a provincial town, and a sad one, because the city that he sings of has fallen victim to the very kind of treachery that Malebolge punishes. The speech links the pit of the diviners to the pit of the barrators, whose chief crime is deceiving a master for gain."
+    content: "Virgil points to Manto, the prophetess daughter of Tiresias, who fled Thebes and settled in marshes by the Mincio, where people later built a city over her body and named it Mantua. In the tenth book of the Aeneid, Virgil himself said Mantua was founded by Ocnus, Manto's son. Dante's Virgil now corrects his own epic from the underworld, insisting that no lie should ever defraud the truth, and Dante agrees. The reputation of a provincial hometown is a dead poet's anxiety even in Hell."
   - id: "michael-scot-astrologer"
     trigger: "Michael Scott"
     title: "The Scottish Scholar Who Brought Aristotle to Frederick's Court"
     wikipedia_url: "https://en.wikipedia.org/wiki/Michael_Scot"
     image_url: ""
     image_caption: ""
-    content: "Among the later diviners Virgil identifies is one thin of flank: that other, thin of flank, was known to fame as Michael Scott; and of a verity he knew right well the black art's inmost game. Michael Scot (c. 1175-c. 1232) was a Scottish scholar who worked in Toledo, translating Arabic texts of Aristotle and Averroes into Latin, and later served at the court of Frederick II in Sicily as an astrologer and philosopher. In the Middle Ages his learning gave him a reputation as a wizard, and legends in Scotland and Italy described him as a magician who could command spirits. Dante's decision to place him in the pit of the diviners is therefore double-edged: the man who helped bring the new Aristotle to Europe is condemned for astrology and prophecy. The lines that follow add Guido Bonatti, a Forlì astrologer who advised Guido da Montefeltro, and Asdente, a Parma cobbler who became a celebrated fortune-teller and who mourns he ever should have parted from his thread and leather, but too late mourns he. The catalogue moves from a university scholar to a shoemaker to women who left loom, spindle and needle for spells."
-  - id: "moon-cain-thorns-time"
-    trigger: "The moon was full already yesternight"
-    title: "How Dante Uses the Man in the Moon to Tell Time"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Man_in_the_Moon"
-    image_url: ""
-    image_caption: ""
-    content: "Virgil closes the canto with a sentence about the sky. The hemispheres confine Cain and the Thorns, he says, is falling, to alight underneath Seville on the ocean line: the moon was full already yesternight, which to recall thou shouldst be well content, for in the wood she somewhat helped thy plight. Cain and the Thorns is the medieval name for the markings on the moon, which folklore read as the face of Cain carrying a bundle of thorns, the first murderer condemned to wander for ever in the sky. The line says that the moon, now setting over the western horizon above Seville, was full the night before, which fits the poem's chronology: it was a full moon in the dark wood on the night before Good Friday. It is now early on Saturday morning, and the travellers have been in Hell for about a day. The reference is more than a clock. The moon had helped Dante when he was lost, and Virgil, who is never sentimental, takes a moment to remember that act of mercy as the diviners disappear behind them. The one thing about the future that Dante and his guide can see, the phases of the moon, is the one thing the diviners could never get right."
+    content: "Among the later diviners is 'Michael Scott, who knew the black art's inmost game'. Michael Scot (c. 1175-c. 1232) worked at Toledo translating Aristotle and Averroes from Arabic and later served Frederick II in Sicily as astrologer and philosopher. His learning made him a legendary wizard in Scotland and Italy. Dante's choice is double-edged: a man who helped bring the new Aristotle to Europe is condemned for astrology. He is followed by Guido Bonatti, a Forli astrologer, and Asdente, a Parma cobbler turned fortune-teller."
 ---
-Now of new torment must my verses tell,
+  Now of new torment must my verses tell,
     And matter for the Twentieth Canto win
-    Of **Lay the First**, which treats of souls in Hell.
+    Of Lay the First, which treats of souls in Hell.
 
   Already was I eager to begin
     To peer into the visible profound,
@@ -138,7 +103,7 @@ Now of new torment must my verses tell,
     Because he wished to see too far before
     Backward he looks, to backward course addressed.
 
-  Behold **Tiresias**, who was changed all o'er,
+  Behold Tiresias, who was changed all o'er,
     Till for a man a woman met the sight,
     And not a limb its former semblance bore;
 
@@ -187,7 +152,7 @@ Now of new torment must my verses tell,
     Forming a river, lapse by green degrees.
 
   The river, from its very source, men call
-    No more Benacus--'tis as **Mincio** known,
+    No more Benacus--'tis as Mincio known,
     Which into Po does at Governo fall.
 
   A flat it reaches ere it far has run,
@@ -212,7 +177,7 @@ Now of new torment must my verses tell,
 
   The dwellers in it were in number great,
     Till stupid Casalodi was befooled
-    And victimised by **Pinamonte**'s cheat.
+    And victimised by Pinamonte's cheat.
 
   Hence, shouldst thou ever hear (now be thou schooled!)
     Another story to my town assigned,
@@ -254,7 +219,7 @@ Now of new torment must my verses tell,
     Cain and the Thorns is falling, to alight
     Underneath Seville on the ocean line.
 
-  **The moon was full already yesternight**;
+  The moon was full already yesternight;
     Which to recall thou shouldst be well content,
     For in the wood she somewhat helped thy plight.'
 
