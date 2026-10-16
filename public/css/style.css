@@ -78,6 +78,16 @@ main { padding: 2rem; }
 .chapter-item:hover { background: var(--paper-dark); }
 .chapter-num { font-family: var(--sans); color: var(--muted); font-size: .875rem; min-width: 2rem; }
 
+/* Characters */
+#characters { max-width: 700px; margin: 0 auto; }
+#characters h2 { font-size: 1.5rem; color: var(--accent); margin-bottom: .25rem; }
+.character { background: white; border: 1px solid var(--panel-border); border-radius: 6px; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
+.character h3 { font-size: 1.25rem; color: var(--accent); }
+.character-role { font-family: var(--sans); font-size: .85rem; color: var(--muted); margin: .15rem 0 .75rem; }
+.character p { margin-bottom: .75em; }
+.character-analysis { font-size: .95em; border-top: 1px solid var(--panel-border); padding-top: .75em; margin-bottom: 0; }
+.chapter-item--characters { background: var(--paper-dark); font-weight: 600; }
+
 /* Reader */
 #reader { max-width: 900px; margin: 0 auto; }
 .reader-header { margin-bottom: 2.5rem; border-bottom: 2px solid var(--gold); padding-bottom: 1rem; }

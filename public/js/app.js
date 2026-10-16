@@ -155,6 +155,7 @@
     const parts = hash.split('/').filter(Boolean);
     if (parts.length === 0)       showShelf();
     else if (parts.length === 1)  showChapterList(parts[0]);
+    else if (parts[1] === 'characters') showCharacters(parts[0]);
     else                          showReader(parts[0], parts[1]);
   }
   window.addEventListener('hashchange', route);
@@ -226,6 +227,10 @@
     main.innerHTML = '<div id="chapter-list"><h2>' + book.title + '</h2>' +
       '<div class="book-meta">' + book.author + ' &middot; ' + book.year + '</div>' +
       continueHtml +
+      (book.characters
+        ? '<div class="chapter-item chapter-item--characters" onclick="location.hash=\'#/' + bookSlug + '/characters\'">' +
+          '<span class="chapter-num">★</span><span class="chapter-title">Characters</span></div>'
+        : '') +
       book.chapters.map(function (ch) {
         var cached = isChapterCached(bookSlug, ch.slug);
         return '<div class="chapter-item' + (cached ? ' chapter-item--cached' : '') +
@@ -282,6 +287,41 @@
       if (item && isChapterCached(book.slug, ch.slug)) item.classList.add('chapter-item--cached');
     }
     updateDownloadBtn(book, btn);
+  }
+
+  /* ── Characters ── */
+  async function showCharacters(bookSlug) {
+    clearScrollHandler();
+    main.innerHTML = '<div id="loading">Loading characters…</div>';
+    backBtn.style.display = 'inline-block';
+    backBtn.onclick = function () { location.hash = '#/' + bookSlug; };
+    homeBtn.style.display = 'inline-block';
+    homeBtn.onclick = function () { location.hash = '#/'; };
+    try {
+      let text = null;
+      try {
+        const r = await fetch('/books/' + bookSlug + '/characters.md', { cache: 'no-cache' });
+        if (r.ok) { text = await r.text(); storeChapter(bookSlug, 'characters', text); }
+      } catch (e) { /* offline */ }
+      if (!text) text = getStoredChapter(bookSlug, 'characters');
+      if (!text) { showError('Characters aren’t saved for offline reading yet. Open them while connected to save them.'); return; }
+      const { meta } = parseFrontmatter(text);
+      headerTitle.innerHTML = meta.title + '<span class="header-chapter">Characters</span>';
+      const esc = function (t) { return String(t || '').replace(/&/g, '&amp;').replace(/</g, '&lt;'); };
+      main.innerHTML = '<div id="characters"><h2>Characters</h2>' +
+        '<div class="book-meta">' + esc(meta.title) + ' &middot; ' + esc(meta.author) + '</div>' +
+        (meta.characters || []).map(function (c) {
+          return '<section class="character">' +
+            '<h3>' + esc(c.name) + '</h3>' +
+            '<div class="character-role">' + esc(c.role) + '</div>' +
+            '<p>' + esc(c.summary) + '</p>' +
+            '<p class="character-analysis"><strong>Role in the book.</strong> ' + esc(c.analysis) + '</p>' +
+            '</section>';
+        }).join('') + '</div>';
+      window.scrollTo(0, 0);
+    } catch (e) {
+      showError('Could not load characters: ' + e.message);
+    }
   }
 
   /* ── Reader ── */
