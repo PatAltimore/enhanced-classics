@@ -19,7 +19,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Filippo_Argenti"
     link_label: "Filippo Argenti"
   - point: "Phlegyas lands them at the iron walls of the city of Dis, where Dante sees red mosques glowing in the valley."
-    link: "https://en.wikipedia.org/wiki/Dis_(Dante)"
+    link: "https://en.wikipedia.org/wiki/Dis_(Divine_Comedy)"
     link_label: "City of Dis"
   - point: "A thousand fallen angels slam the gate on Virgil, leaving Dante terrified and abandoned."
     link: "https://en.wikipedia.org/wiki/Fallen_angel"

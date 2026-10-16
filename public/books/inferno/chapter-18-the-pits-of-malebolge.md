@@ -16,7 +16,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Jubilee_(Christianity)"
     link_label: "Jubilee"
   - point: "Dante recognises Venedico Caccianimico of Bologna, who sold his own sister to a marquis."
-    link: "https://en.wikipedia.org/wiki/Venedico_Caccianimico"
+    link: "https://en.wikipedia.org/wiki/Inferno_(Dante)"
     link_label: "Venedico Caccianimico"
   - point: "Virgil points out Jason, who still walks with kingly bearing despite abandoning Hypsipyle and Medea."
     link: "https://en.wikipedia.org/wiki/Jason"
@@ -25,7 +25,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Flattery"
     link_label: "Flattery"
   - point: "Virgil identifies the filthy, clawing harlot Thais, and tells Dante that they have seen enough."
-    link: "https://en.wikipedia.org/wiki/Thais_(Terence)"
+    link: "https://en.wikipedia.org/wiki/Eunuchus"
     link_label: "Thais"
 
 enhancements:
@@ -39,7 +39,7 @@ enhancements:
   - id: "venedico-caccianimico-sister"
     trigger: "Venedico Caccianimico"
     title: "The Bolognese Who Sold His Sister to a Marquis"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Venedico_Caccianimico"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Inferno_(Dante)"
     image_url: ""
     image_caption: ""
     content: "Dante recognises a scourged soul hiding his face: 'Venedico Caccianimico thou!' A Guelph politician of Bologna, he reluctantly admits he 'led Ghisola the fair to serve the Marquis' evil will', his own sister, procured for Marquis Obizzo d'Este of Ferrara. He adds that more Bolognese are in this pit than live between the Reno and Savena rivers who say 'sipa', the Bolognese word for yes. A demon shouts 'Pander, begone!' The man turns away because to be seen is already to be punished."

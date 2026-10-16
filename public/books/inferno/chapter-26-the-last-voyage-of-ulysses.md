@@ -39,7 +39,7 @@ enhancements:
   - id: "eteocles-polynices-split-flame"
     trigger: "Eteocles"
     title: "The Twin Brothers Whose Funeral Fire Wouldn't Stay Whole"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Eteocles_and_Polynices"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eteocles"
     image_url: ""
     image_caption: ""
     content: "A flame in the valley rises in two points, like the funeral pyre that held 'Eteocles and his brother'. In Greek myth Eteocles and Polynices, sons of Oedipus, killed each other in the war of the Seven against Thebes, and in Statius's Thebaid the flames on their shared pyre divided, as if the hatred persisted. Dante borrows the image for the cloven flame of Ulysses and Diomedes, punished together for the Trojan Horse, for luring Achilles from Deidamia, and for stealing the Palladium, the statue Troy's safety depended on."

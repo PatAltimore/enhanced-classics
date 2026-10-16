@@ -53,7 +53,7 @@ enhancements:
   - id: "galeotto-lancelot-reading"
     trigger: "The book was Galahad"
     title: "The Book That Became an Italian Word for Matchmaker"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Gallehaut"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Galehaut"
     image_url: ""
     image_caption: ""
     content: "Francesca blames the book: 'the book was Galahad, and he who wrote it'. The Italian word is galeotto, from Galehaut, the knight in the French Lancelot who arranges the first kiss of Lancelot and Guinevere. His name became an Italian common noun for a go-between, and it still is. Francesca makes the book the matchmaker, and its author too, so she never has to look at herself. Dante, himself a poet of courtly love, answers by fainting, and the poem leaves the verdict to the reader."

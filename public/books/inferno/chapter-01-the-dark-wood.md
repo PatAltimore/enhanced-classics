@@ -13,7 +13,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Inferno_(Dante)"
     link_label: "Inferno"
   - point: "He tries to climb a sunlit hill but is driven back by a leopard, a lion and a ravenous she-wolf."
-    link: "https://en.wikipedia.org/wiki/Three_beasts_of_Dante%27s_Inferno"
+    link: "https://en.wikipedia.org/wiki/Inferno_(Dante)"
     link_label: "The three beasts"
   - point: "The shade of the Roman poet Virgil appears and Dante hails him as his master and author."
     link: "https://en.wikipedia.org/wiki/Virgil"

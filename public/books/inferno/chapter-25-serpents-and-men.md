@@ -25,7 +25,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Pharsalia"
     link_label: "Pharsalia"
   - point: "Only Puccio Sciancato remains unchanged, as the transformed figures flee and the canto ends with the name of Gaville."
-    link: "https://en.wikipedia.org/wiki/Cavalcanti_family"
+    link: "https://en.wikipedia.org/wiki/Guido_Cavalcanti"
     link_label: "Cavalcanti family"
 
 enhancements:
@@ -39,7 +39,7 @@ enhancements:
   - id: "agnello-brunelleschi-merger"
     trigger: "Agnello"
     title: "The Horror of a Man Who Is No Longer One or Two"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Brunelleschi_family"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Inferno_(Dante)"
     image_url: ""
     image_caption: ""
     content: "A six-footed serpent leaps on one thief and fuses with him, 'like heated wax', their colours blending as flame spreads on papyrus. The two spectators cry 'Agnello, how art thou made new! Thou art not twain, and yet no longer one.' Agnello Brunelleschi was a Florentine thief, and the first merged form has one head from two, two arms from four limbs, a shape 'nought created shows'. The horror is philosophical: a thief takes what belongs to another, and now thief and snake have exchanged what is theirs, with no one left to own it."
@@ -53,7 +53,7 @@ enhancements:
   - id: "gaville-cavalcanti-revenge"
     trigger: "Gaville"
     title: "The Village That Paid for the Murder of a Thief"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Cavalcanti_family"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Guido_Cavalcanti"
     image_url: ""
     image_caption: ""
     content: "The canto ends with a footnote that sounds like a local grudge: 'For the other, tears, Gaville, are shed by thee.' The other thief is Francesco de' Cavalcanti, nicknamed Guercio, who was murdered by the villagers of Gaville in the Upper Valdarno; his family took savage revenge on the village. After a pageant of marvels, Dante sets the scene back on the map of Tuscany. Every figure in Malebolge was a Florentine with a family, a quarrel and a revenge, and Dante's Hell is a local story told in the language of the cosmos."

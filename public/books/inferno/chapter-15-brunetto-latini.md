@@ -25,7 +25,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Priscian"
     link_label: "Priscian"
   - point: "He asks Dante to remember his Treasure and runs off like a winner in the Verona footrace."
-    link: "https://en.wikipedia.org/wiki/Li_Livres_dou_Tresor"
+    link: "https://en.wikipedia.org/wiki/Brunetto_Latini"
     link_label: "Li Livres dou Tresor"
 
 enhancements:
@@ -46,7 +46,7 @@ enhancements:
   - id: "escape-oblivion-brunetto-fame"
     trigger: "escape oblivion"
     title: "The Immortality Dante Learned From a Man in Hell"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Li_Livres_dou_Tresor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brunetto_Latini"
     image_url: ""
     image_caption: ""
     content: "Dante thanks his teacher: 'how men escape oblivion you made clear'. Brunetto taught him how a person becomes eternal through writing, learning and deeds, and the pupil will pay the debt in verse. The irony is sharp: the man who taught the art of being remembered is in Hell and ends by asking, 'Care for my Treasure; I still survive in that my work.' The idea of lasting fame came from Cicero and the Roman writers Brunetto translated. Dante repays the debt and pushes past it, using fame in the service of salvation."

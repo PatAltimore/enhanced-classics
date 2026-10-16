@@ -22,7 +22,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Suicide"
     link_label: "Suicide"
   - point: "Two naked spendthrifts, Lano and James of St. Andrews, race through the wood pursued by black hounds."
-    link: "https://en.wikipedia.org/wiki/Squanderer"
+    link: "https://en.wikipedia.org/wiki/Inferno_(Dante)"
     link_label: "Squanderer"
   - point: "A Florentine suicide, speaking from a torn bush, laments that Florence abandoned Mars for the Baptist."
     link: "https://en.wikipedia.org/wiki/Florence"

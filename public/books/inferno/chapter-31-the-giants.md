@@ -10,7 +10,7 @@ license: "public-domain"
 
 summary:
   - point: "Virgil's rebuke, like Achilles' lance, wounds and then heals Dante, and the poets leave the last ditch in silence."
-    link: "https://en.wikipedia.org/wiki/Spear_of_Achilles"
+    link: "https://en.wikipedia.org/wiki/Achilles"
     link_label: "Spear of Achilles"
   - point: "Out of the dim light, Dante mistakes a ring of giants standing in the pit for a circle of towers, like Montereggioni."
     link: "https://en.wikipedia.org/wiki/Monteriggioni"
@@ -32,7 +32,7 @@ enhancements:
   - id: "achilles-lance-heals"
     trigger: "the lance Achilles bore"
     title: "The Lance That Healed the Wounds It Made"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Spear_of_Achilles"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Achilles"
     image_url: ""
     image_caption: ""
     content: "Dante's shame at Virgil's rebuke is eased as 'the very tongue that first had caused me pain' heals him, 'so have I heard the lance Achilles bore, first wounds then heals the wound'. The Pelian ash spear given by Chiron to Peleus and passed to Achilles was said to heal with its rust the wounds it made, as it healed Telephus. The image answers Virgil's severity at the end of Canto 30: the words that hurt are the words that cured. The poets then climb out of the pit in silence, in a light less than night and less than day."
