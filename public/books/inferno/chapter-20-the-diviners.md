@@ -51,176 +51,176 @@ enhancements:
     image_caption: ""
     content: "Among the later diviners is 'Michael Scott, who knew the black art's inmost game'. Michael Scot (c. 1175-c. 1232) worked at Toledo translating Aristotle and Averroes from Arabic and later served Frederick II in Sicily as astrologer and philosopher. His learning made him a legendary wizard in Scotland and Italy. Dante's choice is double-edged: a man who helped bring the new Aristotle to Europe is condemned for astrology. He is followed by Guido Bonatti, a Forli astrologer, and Asdente, a Parma cobbler turned fortune-teller."
 ---
-  Now of new torment must my verses tell,
-    And matter for the Twentieth Canto win
-    Of Lay the First, which treats of souls in Hell.
+Now of new torment must my verses tell,
+And matter for the Twentieth Canto win
+Of Lay the First, which treats of souls in Hell.
 
-  Already was I eager to begin
-    To peer into the visible profound,
-    Which tears of agony was bathèd in:
+Already was I eager to begin
+To peer into the visible profound,
+Which tears of agony was bathèd in:
 
-  And I saw people in the valley round;
-    Like that of penitents on earth the pace
-    At which they weeping came, nor uttering sound.
+And I saw people in the valley round;
+Like that of penitents on earth the pace
+At which they weeping came, nor uttering sound.
 
-  When I beheld them with more downcast gaze,
-    That each was strangely screwed about I learned,
-    Where chest is joined to chin. And thus the face
+When I beheld them with more downcast gaze,
+That each was strangely screwed about I learned,
+Where chest is joined to chin. And thus the face
 
-  Of every one round to his loins was turned;
-    And stepping backward all were forced to go,
-    For nought in front could be by them discerned.
+Of every one round to his loins was turned;
+And stepping backward all were forced to go,
+For nought in front could be by them discerned.
 
-  Smitten by palsy although one might show
-    Perhaps a shape thus twisted all awry,
-    I never saw, and am to think it slow.
+Smitten by palsy although one might show
+Perhaps a shape thus twisted all awry,
+I never saw, and am to think it slow.
 
-  As, Reader, God may grant thou profit by
-    Thy reading, for thyself consider well
-    If I could then preserve my visage dry
+As, Reader, God may grant thou profit by
+Thy reading, for thyself consider well
+If I could then preserve my visage dry
 
-  When close at hand to me was visible
-    Our human form so wrenched that tears, rained down
-    Out of the eyes, between the buttocks fell.
+When close at hand to me was visible
+Our human form so wrenched that tears, rained down
+Out of the eyes, between the buttocks fell.
 
-  In very sooth I wept, leaning upon
-    A boss of the hard cliff, till on this wise
-    My Escort asked: 'Of the other fools art one?
+In very sooth I wept, leaning upon
+A boss of the hard cliff, till on this wise
+My Escort asked: 'Of the other fools art one?
 
-  Here **piety revives as pity dies**;
-    For who more irreligious is than he
-    In whom God's judgments to regret give rise?
+Here **piety revives as pity dies**;
+For who more irreligious is than he
+In whom God's judgments to regret give rise?
 
-  Lift up, lift up thy head, and thou shalt see
-    Him for whom earth yawned as the Thebans saw,
-    All shouting meanwhile: "Whither dost thou flee,
+Lift up, lift up thy head, and thou shalt see
+Him for whom earth yawned as the Thebans saw,
+All shouting meanwhile: "Whither dost thou flee,
 
-  Amphiaraüs? Wherefore thus withdraw
-    From battle?" But he sinking found no rest
-    Till Minos clutched him with all-grasping claw.
+Amphiaraüs? Wherefore thus withdraw
+From battle?" But he sinking found no rest
+Till Minos clutched him with all-grasping claw.
 
-  Lo, how his shoulders serve him for a breast!
-    Because he wished to see too far before
-    Backward he looks, to backward course addressed.
+Lo, how his shoulders serve him for a breast!
+Because he wished to see too far before
+Backward he looks, to backward course addressed.
 
-  Behold Tiresias, who was changed all o'er,
-    Till for a man a woman met the sight,
-    And not a limb its former semblance bore;
+Behold Tiresias, who was changed all o'er,
+Till for a man a woman met the sight,
+And not a limb its former semblance bore;
 
-  And he behoved a second time to smite
-    The same two twisted serpents with his wand,
-    Ere he again in manly plumes was dight.
+And he behoved a second time to smite
+The same two twisted serpents with his wand,
+Ere he again in manly plumes was dight.
 
-  With back to him, see Aruns next at hand,
-    Who up among the hills of Luni, where
-    Peasants of near Carrara till the land,
+With back to him, see Aruns next at hand,
+Who up among the hills of Luni, where
+Peasants of near Carrara till the land,
 
-  Among the dazzling marbles held his lair
-    Within a cavern, whence could be descried
-    The sea and stars of all obstruction bare.
+Among the dazzling marbles held his lair
+Within a cavern, whence could be descried
+The sea and stars of all obstruction bare.
 
-  The other one, whose flowing tresses hide
-    Her bosom, of the which thou seest nought,
-    And all whose hair falls on the further side,
+The other one, whose flowing tresses hide
+Her bosom, of the which thou seest nought,
+And all whose hair falls on the further side,
 
-  Was **Manto**; who through many regions sought:
-    Where I was born, at last her foot she stayed.
-    It likes me well thou shouldst of this be taught.
+Was **Manto**; who through many regions sought:
+Where I was born, at last her foot she stayed.
+It likes me well thou shouldst of this be taught.
 
-  When from this life her father exit made,
-    And Bacchus' city had become enthralled,
-    She for long time through many countries strayed.
+When from this life her father exit made,
+And Bacchus' city had become enthralled,
+She for long time through many countries strayed.
 
-  'Neath mountains by which Germany is walled
-    And bounded at Tirol, a lake there lies
-    High in fair Italy, Benacus called.
+'Neath mountains by which Germany is walled
+And bounded at Tirol, a lake there lies
+High in fair Italy, Benacus called.
 
-  The waters of a thousand springs that rise
-    'Twixt Val Camonica and Garda flow
-    Down Pennine; and their flood this lake supplies.
+The waters of a thousand springs that rise
+'Twixt Val Camonica and Garda flow
+Down Pennine; and their flood this lake supplies.
 
-  And from a spot midway, if they should go
-    Thither, the Pastors of Verona, Trent,
-    And Brescia might their blessings all bestow.
+And from a spot midway, if they should go
+Thither, the Pastors of Verona, Trent,
+And Brescia might their blessings all bestow.
 
-  Peschiera, with its strength for ornament,
-    Facing the Brescians and the Bergamese
-    Lies where the bank to lower curve is bent.
+Peschiera, with its strength for ornament,
+Facing the Brescians and the Bergamese
+Lies where the bank to lower curve is bent.
 
-  And there the waters, seeking more of ease,
-    For in Benacus is not room for all,
-    Forming a river, lapse by green degrees.
+And there the waters, seeking more of ease,
+For in Benacus is not room for all,
+Forming a river, lapse by green degrees.
 
-  The river, from its very source, men call
-    No more Benacus--'tis as Mincio known,
-    Which into Po does at Governo fall.
+The river, from its very source, men call
+No more Benacus--'tis as Mincio known,
+Which into Po does at Governo fall.
 
-  A flat it reaches ere it far has run,
-    Spreading o'er which it feeds a marshy fen,
-    Whence oft in summer pestilence has grown.
+A flat it reaches ere it far has run,
+Spreading o'er which it feeds a marshy fen,
+Whence oft in summer pestilence has grown.
 
-  Wayfaring here the cruel virgin, when
-    She found land girdled by the marshy flood,
-    Untilled and uninhabited of men,
+Wayfaring here the cruel virgin, when
+She found land girdled by the marshy flood,
+Untilled and uninhabited of men,
 
-  That she might 'scape all human neighbourhood
-    Stayed on it with her slaves, her arts to ply;
-    And there her empty body was bestowed.
+That she might 'scape all human neighbourhood
+Stayed on it with her slaves, her arts to ply;
+And there her empty body was bestowed.
 
-  On this the people from the country nigh
-    Into that place came crowding, for the spot,
-    Girt by the swamp, could all attack defy,
+On this the people from the country nigh
+Into that place came crowding, for the spot,
+Girt by the swamp, could all attack defy,
 
-  And for the town built o'er her body sought
-    A name from her who made it first her seat,
-    Calling it Mantua, without casting lot.
+And for the town built o'er her body sought
+A name from her who made it first her seat,
+Calling it Mantua, without casting lot.
 
-  The dwellers in it were in number great,
-    Till stupid Casalodi was befooled
-    And victimised by Pinamonte's cheat.
+The dwellers in it were in number great,
+Till stupid Casalodi was befooled
+And victimised by Pinamonte's cheat.
 
-  Hence, shouldst thou ever hear (now be thou schooled!)
-    Another story to my town assigned,
-    Let by no fraud the truth be overruled.'
+Hence, shouldst thou ever hear (now be thou schooled!)
+Another story to my town assigned,
+Let by no fraud the truth be overruled.'
 
-  And I: 'Thy reasonings, Master, to my mind
-    So cogent are, and win my faith so well,
-    What others say I shall black embers find.
+And I: 'Thy reasonings, Master, to my mind
+So cogent are, and win my faith so well,
+What others say I shall black embers find.
 
-  But of this people passing onward tell,
-    If thou, of any, something canst declare,
-    For all my thoughts on that intently dwell.'
+But of this people passing onward tell,
+If thou, of any, something canst declare,
+For all my thoughts on that intently dwell.'
 
-  And then he said: 'The one whose bearded hair
-    Falls from his cheeks upon his shoulders dun,
-    Was, when the land of Greece of males so bare
+And then he said: 'The one whose bearded hair
+Falls from his cheeks upon his shoulders dun,
+Was, when the land of Greece of males so bare
 
-  Was grown the very cradles scarce held one,
-    An augur; he with Calchas gave the sign
-    In Aulis through the first rope knife to run.
+Was grown the very cradles scarce held one,
+An augur; he with Calchas gave the sign
+In Aulis through the first rope knife to run.
 
-  Eurypylus was he called, and in some line
-    Of my high Tragedy is sung the same,
-    As thou know'st well, who mad'st it wholly thine.
+Eurypylus was he called, and in some line
+Of my high Tragedy is sung the same,
+As thou know'st well, who mad'st it wholly thine.
 
-  That other, thin of flank, was known to fame
-    As **Michael Scott**; and of a verity
-    He knew right well the black art's inmost game.
+That other, thin of flank, was known to fame
+As **Michael Scott**; and of a verity
+He knew right well the black art's inmost game.
 
-  Guido Bonatti, and Asdente see
-    Who mourns he ever should have parted from
-    His thread and leather; but too late mourns he.
+Guido Bonatti, and Asdente see
+Who mourns he ever should have parted from
+His thread and leather; but too late mourns he.
 
-  Lo the unhappy women who left loom,
-    Spindle, and needle that they might divine;
-    With herb and image hastening men's doom.
+Lo the unhappy women who left loom,
+Spindle, and needle that they might divine;
+With herb and image hastening men's doom.
 
-  But come; for where the hemispheres confine
-    Cain and the Thorns is falling, to alight
-    Underneath Seville on the ocean line.
+But come; for where the hemispheres confine
+Cain and the Thorns is falling, to alight
+Underneath Seville on the ocean line.
 
-  The moon was full already yesternight;
-    Which to recall thou shouldst be well content,
-    For in the wood she somewhat helped thy plight.'
+The moon was full already yesternight;
+Which to recall thou shouldst be well content,
+For in the wood she somewhat helped thy plight.'
 
-  Thus spake he to me while we forward went.
+Thus spake he to me while we forward went.

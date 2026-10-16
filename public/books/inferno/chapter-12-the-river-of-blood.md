@@ -51,188 +51,188 @@ enhancements:
     image_caption: ""
     content: "Nessus points to a lone shade who 'in God's house ran weapon through the heart which still on Thames is honoured'. In 1271 Guy de Montfort stabbed Henry of Almain, cousin of Edward I, at Mass in Viterbo, avenging his father Simon de Montfort, killed at Evesham. Henry's heart was carried to England and kept in a golden cup at Edward the Confessor's tomb in Westminster Abbey. Dante shows his wide knowledge by naming an English prince among the Italian tyrants."
 ---
-  The place of our descent before us lay
-    Precipitous, and there was something more
-    From sight of which all eyes had turned away.
+The place of our descent before us lay
+Precipitous, and there was something more
+From sight of which all eyes had turned away.
 
-  As at the ruin which upon the shore
-    Of Adige fell upon this side of Trent--
-    Through earthquake or by slip of what before
+As at the ruin which upon the shore
+Of Adige fell upon this side of Trent--
+Through earthquake or by slip of what before
 
-  Upheld it--from the summit whence it went
-    Far as the plain, the shattered rocks supply
-    Some sort of foothold to who makes descent;
+Upheld it--from the summit whence it went
+Far as the plain, the shattered rocks supply
+Some sort of foothold to who makes descent;
 
-  Such was the passage down the precipice high.
-    And on the riven gully's very brow
-    Lay spread at large the **Cretan Infamy**
+Such was the passage down the precipice high.
+And on the riven gully's very brow
+Lay spread at large the **Cretan Infamy**
 
-  Which was conceived in the pretended cow.
-    Us when he saw, he bit himself for rage
-    Like one whose anger gnaws him through and through.
+Which was conceived in the pretended cow.
+Us when he saw, he bit himself for rage
+Like one whose anger gnaws him through and through.
 
-  'Perhaps thou deemest,' called to him the Sage,
-    'This is the Duke of Athens drawing nigh,
-    Who war to the death with thee on earth did wage.
+'Perhaps thou deemest,' called to him the Sage,
+'This is the Duke of Athens drawing nigh,
+Who war to the death with thee on earth did wage.
 
-  Begone, thou brute, for this one passing by
-    Untutored by thy sister has thee found,
-    And only comes thy sufferings to spy,'
+Begone, thou brute, for this one passing by
+Untutored by thy sister has thee found,
+And only comes thy sufferings to spy,'
 
-  And as the bull which snaps what held it bound
-    On being smitten by the fatal blow,
-    Halts in its course, and reels upon the ground,
+And as the bull which snaps what held it bound
+On being smitten by the fatal blow,
+Halts in its course, and reels upon the ground,
 
-  The Minotaur I saw reel to and fro;
-    And he, the alert, cried: 'To the passage haste;
-    While yet he chafes 'twere well thou down shouldst go.'
+The Minotaur I saw reel to and fro;
+And he, the alert, cried: 'To the passage haste;
+While yet he chafes 'twere well thou down shouldst go.'
 
-  So we descended by the slippery waste
-    Of shivered stones which many a time gave way
-    'Neath the new weight my feet upon them placed.
+So we descended by the slippery waste
+Of shivered stones which many a time gave way
+'Neath the new weight my feet upon them placed.
 
-  I musing went; and he began to say:
-    'Perchance this ruined slope thou thinkest on,
-    Watched by the brute rage I did now allay.
+I musing went; and he began to say:
+'Perchance this ruined slope thou thinkest on,
+Watched by the brute rage I did now allay.
 
-  But I would have thee know, when I came down
-    The former time into this lower Hell,
-    The cliff had not this ruin undergone.
+But I would have thee know, when I came down
+The former time into this lower Hell,
+The cliff had not this ruin undergone.
 
-  It was not long, if I distinguish well,
-    Ere He appeared who wrenched great prey from Dis
-    From out the upmost circle. Trembling fell
+It was not long, if I distinguish well,
+Ere He appeared who wrenched great prey from Dis
+From out the upmost circle. Trembling fell
 
-  Through all its parts the nauseous abyss
-    With such a violence, the world, I thought,
-    Was stirred by love; for, as they say, by this
+Through all its parts the nauseous abyss
+With such a violence, the world, I thought,
+Was stirred by love; for, as they say, by this
 
-  She back to Chaos has been often brought.
-    And then it was this ancient rampart strong
-    Was shattered here and at another spot.
+She back to Chaos has been often brought.
+And then it was this ancient rampart strong
+Was shattered here and at another spot.
 
-  But toward the valley look. We come ere long
-    Down to the river of blood where boiling lie
-    All who by violence work others wrong.'
+But toward the valley look. We come ere long
+Down to the river of blood where boiling lie
+All who by violence work others wrong.'
 
-  O insane rage! O blind cupidity!
-    By which in our brief life we are so spurred,
-    Ere downward plunged in evil case for aye!
+O insane rage! O blind cupidity!
+By which in our brief life we are so spurred,
+Ere downward plunged in evil case for aye!
 
-  An ample ditch I now beheld engird
-    And sweep in circle all around the plain,
-    As from my Escort I had lately heard.
+An ample ditch I now beheld engird
+And sweep in circle all around the plain,
+As from my Escort I had lately heard.
 
-  Between this and the rock in single train
-    Centaurs were running who were armed with bows,
-    As if they hunted on the earth again.
+Between this and the rock in single train
+Centaurs were running who were armed with bows,
+As if they hunted on the earth again.
 
-  Observing us descend they all stood close,
-    Save three of them who parted from the band
-    With bow, and arrows they in coming chose.
+Observing us descend they all stood close,
+Save three of them who parted from the band
+With bow, and arrows they in coming chose.
 
-  'What torment,' from afar one made demand,
-    'Come ye to share, who now descend the hill?
-    I shoot unless ye answer whence ye stand.'
+'What torment,' from afar one made demand,
+'Come ye to share, who now descend the hill?
+I shoot unless ye answer whence ye stand.'
 
-  My Master said: 'We yield no answer till
-    We come to **Chiron** standing at thy side;
-    But thy quick temper always served thee ill.'
+My Master said: 'We yield no answer till
+We come to **Chiron** standing at thy side;
+But thy quick temper always served thee ill.'
 
-  Then touching me: ''Tis Nessus; he who died
-    With love for beauteous Dejanire possessed,
-    And who himself his own vendetta plied.
+Then touching me: ''Tis Nessus; he who died
+With love for beauteous Dejanire possessed,
+And who himself his own vendetta plied.
 
-  He in the middle, staring on his breast,
-    Is mighty Chiron, who Achilles bred;
-    And next the wrathful Pholus. They invest
+He in the middle, staring on his breast,
+Is mighty Chiron, who Achilles bred;
+And next the wrathful Pholus. They invest
 
-  The fosse and in their thousands round it tread,
-    Shooting whoever from the blood shall lift,
-    More than his crime allows, his guilty head.'
+The fosse and in their thousands round it tread,
+Shooting whoever from the blood shall lift,
+More than his crime allows, his guilty head.'
 
-  As we moved nearer to those creatures swift
-    Chiron drew forth a shaft and dressed his beard
-    Back on his jaws, using the arrow's cleft.
+As we moved nearer to those creatures swift
+Chiron drew forth a shaft and dressed his beard
+Back on his jaws, using the arrow's cleft.
 
-  And when his ample mouth of hair was cleared,
-    He said to his companions: 'Have ye seen
-    The things the second touches straight are stirred,
+And when his ample mouth of hair was cleared,
+He said to his companions: 'Have ye seen
+The things the second touches straight are stirred,
 
-  As they by feet of shades could ne'er have been?'
-    And my good Guide, who to his breast had gone--
-    The part where join the natures, 'Well I ween
+As they by feet of shades could ne'er have been?'
+And my good Guide, who to his breast had gone--
+The part where join the natures, 'Well I ween
 
-  He lives,' made answer; 'and if, thus alone,
-    He seeks the valley dim 'neath my control,
-    Necessity, not pleasure, leads him on.
+He lives,' made answer; 'and if, thus alone,
+He seeks the valley dim 'neath my control,
+Necessity, not pleasure, leads him on.
 
-  One came from where the alleluiahs roll,
-    Who charged me with this office strange and new:
-    No robber he, nor mine a felon soul.
+One came from where the alleluiahs roll,
+Who charged me with this office strange and new:
+No robber he, nor mine a felon soul.
 
-  But, by that Power which makes me to pursue
-    The rugged journey whereupon I fare,
-    Accord us one of thine to keep in view,
+But, by that Power which makes me to pursue
+The rugged journey whereupon I fare,
+Accord us one of thine to keep in view,
 
-  That he may show where lies the ford, and bear
-    This other on his back to yonder strand;
-    No spirit he, that he should cleave the air.'
+That he may show where lies the ford, and bear
+This other on his back to yonder strand;
+No spirit he, that he should cleave the air.'
 
-  Wheeled to the right then Chiron gave command
-    To Nessus: 'Turn, and lead them, and take tent
-    They be not touched by any other band.'
+Wheeled to the right then Chiron gave command
+To Nessus: 'Turn, and lead them, and take tent
+They be not touched by any other band.'
 
-  We with our trusty Escort forward went,
-    Threading the margin of the boiling blood
-    Where they who seethed were raising loud lament.
+We with our trusty Escort forward went,
+Threading the margin of the boiling blood
+Where they who seethed were raising loud lament.
 
-  People I saw up to the chin imbrued,
-    'These all are tyrants,' the great Centaur said,
-    'Who blood and plunder for their trade pursued.
+People I saw up to the chin imbrued,
+'These all are tyrants,' the great Centaur said,
+'Who blood and plunder for their trade pursued.
 
-  Here for their pitiless deeds tears now are shed
-    By Alexander, and Dionysius fell,
-    Through whom in Sicily dolorous years were led.
+Here for their pitiless deeds tears now are shed
+By Alexander, and Dionysius fell,
+Through whom in Sicily dolorous years were led.
 
-  The forehead with black hair so terrible
-    Is Ezzelino; that one blond of hue,
-    Obizzo d'Este, whom, as rumours tell,
+The forehead with black hair so terrible
+Is Ezzelino; that one blond of hue,
+Obizzo d'Este, whom, as rumours tell,
 
-  His stepson murdered, and report speaks true.'
-    I to the Poet turned, who gave command:
-    'Regard thou chiefly him. I follow you.'
+His stepson murdered, and report speaks true.'
+I to the Poet turned, who gave command:
+'Regard thou chiefly him. I follow you.'
 
-  Ere long the Centaur halted on the strand,
-    Close to a people who, far as the throat,
-    Forth of that bulicamë seemed to stand.
+Ere long the Centaur halted on the strand,
+Close to a people who, far as the throat,
+Forth of that bulicamë seemed to stand.
 
-  Thence a lone shade to us he pointed out
-    Saying: '**In God's house ran he weapon through**
-    The heart which still on Thames wins cult devout.'
+Thence a lone shade to us he pointed out
+Saying: '**In God's house ran he weapon through**
+The heart which still on Thames wins cult devout.'
 
-  Then I saw people, some with heads in view,
-    And some their chests above the river bore;
-    And many of them I, beholding, knew.
+Then I saw people, some with heads in view,
+And some their chests above the river bore;
+And many of them I, beholding, knew.
 
-  And thus the blood went dwindling more and more,
-    Until at last it covered but the feet:
-    Here took we passage to the other shore.
+And thus the blood went dwindling more and more,
+Until at last it covered but the feet:
+Here took we passage to the other shore.
 
-  'As on this hand thou seest still abate
-    In depth the volume of the boiling stream,'
-    The Centaur said, 'so grows its depth more great,
+'As on this hand thou seest still abate
+In depth the volume of the boiling stream,'
+The Centaur said, 'so grows its depth more great,
 
-  Believe me, towards the opposite extreme,
-    Until again its circling course attains
-    The place where tyrants must lament. Supreme
+Believe me, towards the opposite extreme,
+Until again its circling course attains
+The place where tyrants must lament. Supreme
 
-  Justice upon that side involves in pains,
-    With Attila, once of the world the pest,
-    Pyrrhus and Sextus: and for ever drains
+Justice upon that side involves in pains,
+With Attila, once of the world the pest,
+Pyrrhus and Sextus: and for ever drains
 
-  Tears out of Rinier of Corneto pressed
-    And Rinier Pazzo in that boiling mass,
-    Whose brigandage did so the roads infest.'
+Tears out of Rinier of Corneto pressed
+And Rinier Pazzo in that boiling mass,
+Whose brigandage did so the roads infest.'
 
-  Then turned he back alone, the ford to pass.
+Then turned he back alone, the ford to pass.
