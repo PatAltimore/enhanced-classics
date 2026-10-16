@@ -3,7 +3,7 @@
 
 A static literature website that publishes classic public-domain books with AI-generated annotation cards — historical context, scientific explanations, and cultural details surfaced inline as readers encounter them.
 
-The demo site is available at **[Enhanced Classics](https://red-grass-08f946a1e.7.azurestaticapps.net/)**.
+The demo site is available at **[Enhanced Classics](https://pataltimore.github.io/enhanced-classics/)**.
 
 ## How it works
 
@@ -12,7 +12,7 @@ Original chapter text comes from [Project Gutenberg](https://www.gutenberg.org/)
 ## Repo structure
 
 ```
-public/              # Static site — deployed to Azure Static Web Apps
+public/              # Static site — deployed to GitHub Pages
 ├── index.html
 ├── catalog.json     # Book/chapter index read by the frontend
 └── books/
@@ -32,7 +32,7 @@ book_generator/      # Python pipeline — run locally to generate content
 
 ## Frontend
 
-The site is a single `index.html` that reads `catalog.json` and the per-chapter markdown files. No build step — push to `main` and Azure Static Web Apps deploys automatically.
+The site is a single `index.html` that reads `catalog.json` and the per-chapter markdown files. No build step — push to `main` and GitHub Pages deploys automatically.
 
 ## Offline support
 
@@ -75,7 +75,7 @@ python generator.py --book walden
 
 ## Deployment
 
-GitHub Actions deploys the `public/` folder to Azure Static Web Apps on every push to `main`. No build step is required — the workflow uploads the folder as-is.
+GitHub Actions (`.github/workflows/pages.yml`) deploys the `public/` folder to GitHub Pages on every push to `main`. No build step is required — the workflow uploads the folder as-is. In the repository settings, set **Pages → Source** to **GitHub Actions**. All asset and data URLs are relative, so the site works from the `/enhanced-classics/` subpath.
 
 ## License
 

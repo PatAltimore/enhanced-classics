@@ -1,18 +1,21 @@
 'use strict';
 
 /* Bump this string whenever the app shell changes to force cache refresh. */
-const CACHE = 'ec-v5';
+const CACHE = 'ec-v6';
 const IMG_CACHE = 'ec-images'; /* persists across CACHE version bumps */
 
 /* Files cached on install — the minimum needed to render the app offline. */
 const SHELL = [
-  '/',
-  '/index.html',
-  '/js/app.js',
-  '/css/style.css',
-  '/icon.svg',
-  '/icon.png',
+  './',
+  'index.html',
+  'js/app.js',
+  'css/style.css',
+  'icon.svg',
+  'icon.png',
 ];
+/* Pathnames of the shell files, resolved against the SW scope so the app
+   works from a subpath (e.g. GitHub Pages project sites). */
+const SHELL_PATHS = SHELL.map(function (p) { return new URL(p, self.registration.scope).pathname; });
 
 /* ── Install: precache the app shell ── */
 self.addEventListener('install', function (e) {
@@ -71,7 +74,7 @@ self.addEventListener('fetch', function (e) {
   if (url.origin !== location.origin) return;
 
   /* App shell: cache-first — bump CACHE version above to force an update */
-  if (SHELL.includes(url.pathname)) {
+  if (SHELL_PATHS.includes(url.pathname)) {
     e.respondWith(
       caches.match(e.request).then(function (hit) {
         return hit || fetch(e.request).then(function (res) {

@@ -163,7 +163,7 @@
   async function loadCatalog() {
     if (catalog) return catalog;
     try {
-      const r = await fetch('/catalog.json', { cache: 'no-cache' });
+      const r = await fetch('catalog.json', { cache: 'no-cache' });
       if (r.ok) {
         catalog = await r.json();
         try { localStorage.setItem('offline_catalog', JSON.stringify(catalog)); } catch (e) {}
@@ -273,7 +273,7 @@
       var ch = book.chapters[i];
       if (!isChapterCached(book.slug, ch.slug)) {
         try {
-          var r = await fetch('/books/' + book.slug + '/' + ch.slug + '.md');
+          var r = await fetch('books/' + book.slug + '/' + ch.slug + '.md');
           if (r.ok) {
             var chText = await r.text();
             storeChapter(book.slug, ch.slug, chText);
@@ -300,7 +300,7 @@
     try {
       let text = null;
       try {
-        const r = await fetch('/books/' + bookSlug + '/characters.md', { cache: 'no-cache' });
+        const r = await fetch('books/' + bookSlug + '/characters.md', { cache: 'no-cache' });
         if (r.ok) { text = await r.text(); storeChapter(bookSlug, 'characters', text); }
       } catch (e) { /* offline */ }
       if (!text) text = getStoredChapter(bookSlug, 'characters');
@@ -334,7 +334,7 @@
     try {
       let text = null, fromCache = false;
       try {
-        const r = await fetch('/books/' + bookSlug + '/' + chapterSlug + '.md', { cache: 'no-cache' });
+        const r = await fetch('books/' + bookSlug + '/' + chapterSlug + '.md', { cache: 'no-cache' });
         if (r.ok) {
           text = await r.text();
           storeChapter(bookSlug, chapterSlug, text);
