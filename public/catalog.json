@@ -190,6 +190,7 @@
       "title": "Inferno",
       "author": "Dante Alighieri",
       "year": 1320,
+      "characters": true,
       "description": "Dante Alighieri's epic journey through the nine circles of Hell, guided by the Roman poet Virgil, as the pilgrim Dante descends toward Satan at the frozen centre of the universe.\n",
       "chapters": [
         {
@@ -369,6 +370,7 @@
       "title": "Hamlet",
       "author": "William Shakespeare",
       "year": 1603,
+      "characters": true,
       "description": "Prince Hamlet of Denmark is visited by his father's ghost, who reveals he was murdered by Hamlet's uncle Claudius, now king. Torn between grief, doubt, and the demand for revenge, Hamlet's hesitation spirals into madness — real and feigned — destroying everyone around him.\n",
       "chapters": [
         {
@@ -408,6 +410,7 @@
       "title": "Paradise Lost",
       "author": "John Milton",
       "year": 1667,
+      "characters": true,
       "description": "John Milton's epic in blank verse on the fall of Satan and of Adam and Eve, which sets out to justify the ways of God to men.\n",
       "chapters": [
         {
@@ -566,6 +569,7 @@
       "title": "Journey to the Center of the Earth",
       "author": "Jules Verne",
       "year": 1864,
+      "characters": true,
       "description": "Professor Otto Lidenbrock discovers a cryptic runic message pointing to a passage into the Earth's interior. With his nephew Axel and Icelandic guide Hans, he descends into the volcano Snæfells and journeys through a vast underground world of prehistoric seas, ancient forests, and living monsters beneath the surface.\n",
       "chapters": [
         {
@@ -685,6 +689,7 @@
       "title": "Twenty Thousand Leagues Under the Sea",
       "author": "Jules Verne",
       "year": 1870,
+      "characters": true,
       "description": "Something vast and luminous is moving through the world's oceans — and no one can explain it. A Victorian thriller from the father of science fiction.",
       "chapters": [
         {
@@ -744,6 +749,7 @@
       "title": "The Time Machine",
       "author": "H.G. Wells",
       "year": 1895,
+      "characters": true,
       "description": "A Victorian scientist builds a machine that carries him far into the future, where he discovers a world divided between the gentle Eloi and the subterranean Morlocks — a chilling vision of where class division might lead.\n",
       "chapters": [
         {
@@ -833,6 +839,7 @@
       "title": "The Call of the Wild",
       "author": "Jack London",
       "year": 1903,
+      "characters": true,
       "description": "Buck, a powerful dog living comfortably in California, is stolen and sold into service as a sled dog during the Klondike Gold Rush. Thrust into the brutal Yukon wilderness, he must fight to survive among other dogs and harsh masters. As Buck endures the unforgiving environment, he grows increasingly primitive, shedding his domesticated life and answering an ancient instinct that pulls him toward something wild and primal.\n",
       "chapters": [
         {
@@ -877,6 +884,7 @@
       "title": "Botchan (Master Darling)",
       "author": "Soseki Natsume",
       "year": 1906,
+      "characters": true,
       "description": "A hot-headed young Tokyo man takes his first teaching job at a middle school in rural Matsuyama, where his quick temper and straightforward nature clash with both mischievous students and scheming colleagues.\n",
       "chapters": [
         {

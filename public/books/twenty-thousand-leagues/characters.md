@@ -1,0 +1,33 @@
+---
+title: "Twenty Thousand Leagues Under the Sea"
+author: "Jules Verne"
+year: 1870
+book_slug: "twenty-thousand-leagues"
+license: "public-domain"
+
+characters:
+  - name: "Captain Nemo"
+    role: "Commander of the Nautilus; a self-exiled genius"
+    summary: "The mysterious master of the submarine Nautilus, who has withdrawn from human society to live entirely from the sea. He receives the three captives with courtesy but refuses to let them go, explaining that he has cut every tie with the land. He shows Aronnax his library, museum and ship."
+    analysis: "Nemo is a figure of Romantic isolation, a man of science and sorrow whose motives are only hinted at. His name means 'nobody' in Latin, and his rejection of society makes him both attractive and menacing. He drives the book's tension between freedom and captivity."
+  - name: "Professor Pierre Aronnax"
+    role: "Narrator; a French marine naturalist"
+    summary: "A professor at the Paris Museum of Natural History who has just returned from an expedition to Nebraska. His article about a giant narwhal brings an invitation to join the American frigate Abraham Lincoln, and he leaves with his servant Conseil. After the frigate is struck, he is pulled aboard the Nautilus."
+    analysis: "Aronnax is a curious, rational observer whose delight in the marine world is a counterpoint to the captain's grim purposes. His learned descriptions give the book its encyclopedic quality, and his divided feelings, between wonder and captivity, drive the narrative."
+  - name: "Conseil"
+    role: "Aronnax's loyal, methodical servant"
+    summary: "A cheerful servant who follows Aronnax into the expedition without hesitation, and calmly classifies everything he sees. When Aronnax falls overboard, he stays by his master's side and helps him to the submarine."
+    analysis: "Conseil is a comic and affectionate figure whose devotion and love of taxonomy make a foil for the professor. His steadiness and politeness help ground the extraordinary events."
+  - name: "Ned Land"
+    role: "Canadian harpooner; the expedition's sceptic"
+    summary: "A skilled, strong and outspoken whale-hunter who doubts that there is a monster and then hurls the harpoon at it. Thrown into the sea with the others, he finds the metal 'monster' is a vessel and is dragged inside. Hunger and impatience make him quarrel with the steward."
+    analysis: "Ned is a man of action and appetite, and his urge to escape is the main push against Nemo. His blunt common sense and desire for fresh meat and freedom contrast with Aronnax's scientific enthusiasm."
+  - name: "Commander Farragut"
+    role: "Captain of the Abraham Lincoln"
+    summary: "The determined American naval officer who leads the hunt for the sea monster and welcomes Aronnax as a guest. He promises to abandon the search if nothing appears within three days, but orders an attack when the creature is sighted."
+    analysis: "Farragut represents the confident, practical certainty of the age of steam and gunnery, and his single-minded hunt sets up the surprise that the monster is a machine. His failure shows the limits of force against Nemo's technology."
+  - name: "The Nautilus"
+    role: "The submarine; Nemo's world"
+    summary: "An electrically powered submarine, stronger and faster than any ship, which rams the Abraham Lincoln. Inside it are a library of twelve thousand volumes, a museum of sea treasures and a motto, 'Mobilis in mobili', on the dinnerware. It renews its air by surfacing."
+    analysis: "The Nautilus is almost a character in itself, a symbol of technological mastery and of Nemo's separation from the world. Its luxury and its prison-like control show the tension at the heart of the book."
+---
