@@ -9,4 +9,5 @@ look up); if it is missing or ambiguous, ask for it.
 
 Summary: `add_book.py` -> review/fix `config/books.yaml` -> `fetch_texts.py` -> for each chapter
 `cc_chapter.py windows` -> write `work/<book>/<chapter-slug>.json` -> `cc_chapter.py assemble` ->
-`find_images.py` -> `verify_chapters.py` -> `cc_chapter.py catalog`. Do not commit unless asked.
+`find_images.py` -> `verify_chapters.py` -> `cc_chapter.py catalog` -> invoke the `add-characters`
+skill (Skill tool, argument: the book slug) to add the book's Characters page. Do not commit unless asked.

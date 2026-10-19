@@ -1,0 +1,1034 @@
+---
+title: "The Tale of Genji"
+author: "Murasaki Shikibu"
+year: 1008
+chapter: 6
+chapter_title: "The Saffron-Flower"
+slug: "chapter-06-the-saffron-flower"
+book_slug: "the-tale-of-genji"
+license: "public-domain"
+
+summary:
+  - point: "Still mourning Yūgao, Genji hears from the lady-in-waiting Myōbu of Prince Hitachi’s lonely, music-loving daughter."
+    link: "https://en.wikipedia.org/wiki/Koto_(instrument)"
+    link_label: "Koto"
+  - point: "He listens to the princess play by night, and is followed by Tō no Chūjō, who becomes his rival for her."
+    link: "https://en.wikipedia.org/wiki/Heian_period"
+    link_label: "Heian period"
+  - point: "After months of unanswered letters, Genji forces his way in while her maid Jijū answers his poems for her."
+    link: "https://en.wikipedia.org/wiki/Waka_(poetry)"
+    link_label: "Waka"
+  - point: "In the dawn light after a snowfall, he sees her face and finds her extremely plain, with a long red-tipped nose."
+    link: "https://en.wikipedia.org/wiki/Samantabhadra_(Bodhisattva)"
+    link_label: "Samantabhadra"
+  - point: "Moved to pity, he keeps supporting her, and she sends him a clumsy New Year’s gift and an awkward poem."
+    link: "https://en.wikipedia.org/wiki/Safflower"
+    link_label: "Safflower"
+  - point: "At New Year, Genji visits her again and then plays at painting a red nose on himself for Murasaki."
+    link: "https://en.wikipedia.org/wiki/Heich%C5%AB_Monogatari"
+    link_label: "Taira no Sadafun"
+
+enhancements:
+  - id: "three-friends"
+    trigger: "Three Friends"
+    title: "The Three Friends a Chinese Poet Named"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Guqin"
+    image_url: ""
+    image_caption: ""
+    content: "Genji jokes that of the ‘Three Friends’ one at least would be unsuitable for a lady. The phrase comes from Bai Juyi, who named the qin, a stringed instrument, poetry and wine as his three companions, and the allusion was familiar at the Japanese court. A woman might play the zither and write verses, but wine was a man’s friend. Genji’s quip tells us the princess’s only companion is her instrument, and he is interested in her because she is musical, well-born and solitary, a kind of woman he has not met."
+  - id: "blossoming-plum-tree"
+    trigger: "blossoming plum-tree"
+    title: "The Scent That Heralds a Heian Spring"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Prunus_mume"
+    image_url: ""
+    image_caption: ""
+    content: "The princess is enjoying the scent of a blossoming plum-tree. In the Heian period plum blossom, ume, came from China, and was the flower of the early spring, loved for its fragrance, before cherry blossom became the national favourite. Poets praised the plum’s scent at night, when the blossoms could not be seen. Myōbu’s visit by moonlight, with the scent from the garden and the sound of a zither, makes a scene in the manner of ‘an old tale’, as the narrator says, and gives the princess her first appearance in a flattering light."
+  - id: "duet-upon-their-flutes"
+    trigger: "duet upon their flutes"
+    title: "Two Rivals Making Music on the Way Home"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ry%C5%ABteki"
+    image_url: ""
+    image_caption: ""
+    content: "Genji and Tō no Chūjō, caught spying on the same house, make up by playing a duet on their flutes as they ride to the Great Hall. The standard transverse flute of the court orchestra, the ryūteki or ‘dragon flute’, was carried by gentlemen in their sleeves, and a young man was expected to play it well. The scene is a lighthearted moment of friendship between two rivals who will compete in love and in dance, and it also shows the cost of their bond: each knows the other’s habits and has to share his secrets."
+  - id: "sent-letters-to-the-lady"
+    trigger: "sent letters to the lady"
+    title: "Courtship by Poem and Silence"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Heian_period"
+    image_url: ""
+    image_caption: ""
+    content: "Both Genji and Tō no Chūjō send letters to the princess, and neither gets an answer. At the Heian court courtship began with a man’s poem, usually on carefully chosen paper tied to a seasonal flower, and the woman’s reply, often composed by a lady-in-waiting, was read as a judgement of her taste and of the man’s chances. Silence was the strongest refusal, or the sign of a woman too shy to reply, which is what the rivals can’t decide, and the mystery makes each of them more determined."
+  - id: "wind-in-the-pine-tree-branches"
+    trigger: "wind in the pine-tree branches"
+    title: "Why Pine Trees Mean ‘Waiting’ in Japanese Poetry"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pine"
+    image_url: ""
+    image_caption: ""
+    content: "The princess, waiting for the moon to rise, is oppressed by the moaning of the wind in the pine branches. In Japanese poetry the pine, matsu, puns on the verb matsu, ‘to wait’, so pine trees stand for patient longing, and the sound of wind in their needles was a stock image of solitude. A woman waiting by a pine-shadowed house is therefore a perfect picture of the abandoned lady in the tales, and Murasaki’s readers would hear the pun, understanding that her isolation is what Genji is drawn to."
+  - id: "strangers-dais"
+    trigger: "strangers’ dais"
+    title: "How a Heian House Kept Visitors at a Distance"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Shinden-zukuri"
+    image_url: ""
+    image_caption: ""
+    content: "The princess bolts a hatch between the women’s quarters and the strangers’ dais. In a Heian mansion, male visitors were received on a raised platform in the outer rooms, while the women’s quarters lay behind screens, curtains and doors. A suitor could talk through the barrier but not see the lady, which is why Genji has so little sense of what she looks like. The mattress she stuffs against the hatch, to close every chink, is comic, but it also tells us how seriously she took the rule and how little she knows how to deal with a man."
+  - id: "dumb-crambo"
+    trigger: "dumb-crambo"
+    title: "A Victorian Parlour Game in a Heian Poem"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dumb_crambo"
+    image_url: ""
+    image_caption: ""
+    content: "Genji’s poem ends by calling their exchange ‘dumb-crambo’. That is Arthur Waley’s own touch: dumb crambo is an English parlour game in which players act out words that rhyme with a clue, without speaking. The original poem makes a pun on silence and refusal to speak, and Waley found a game that matches, adding a note of Edwardian humour to Genji’s irritation. It is a good example of how a translator replaces an image of the original with one from his reader’s world, and why readers of the same poem in different translations can see different things."
+  - id: "once-been-purple-but-was-now-faded"
+    trigger: "once been purple but was now faded"
+    title: "The Faded Paper That Gave Away Her Poverty"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Washi"
+    image_url: ""
+    image_caption: ""
+    content: "Jijū dictates the princess’s reply, which she writes on paper that ‘had once been purple but was now faded and shabby’. At the Heian court the colour, thickness and freshness of a lady’s paper were part of the message, and good washi paper was costly. The faded purple, once expensive, speaks of a household that has fallen on hard times, and her coarse, stiff handwriting compounds the effect. Genji is dismayed by the letter, yet he sees that these are signs of a woman without the means or the training to meet his world."
+  - id: "royal-blue"
+    trigger: "royal blue"
+    title: "The Rare Chinese Porcelain on a Poor Table"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yue_ware"
+    image_url: ""
+    image_caption: ""
+    content: "Peeping into the house, Genji sees a meal served in Chinese dishes that look like the famous ‘royal blue’ ware. This was probably Chinese Yue celadon, a pale green glaze that Japanese called hisoku, ‘secret colour’, and prized as imported tableware for the aristocracy. The dishes are damaged and the food unworthy of them, so they are a sign that the household once had wealth and now has only relics. The scene is the first of a series of images of the same decline, from the shabby gate to the sable coat."
+  - id: "samantabhadras-steed"
+    trigger: "Samantabhadra’s steed"
+    title: "A Bodhisattva’s Elephant in a Joke About a Nose"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Samantabhadra_(Bodhisattva)"
+    image_url: ""
+    image_caption: ""
+    content: "Genji sees the princess’s long nose and thinks it resembles the trunk of Samantabhadra’s steed. In Buddhist art the bodhisattva Samantabhadra, Fugen in Japanese, rides a white elephant, and the allusion would be understood by anyone who had seen a temple painting. It is one of the best-known jokes in the book, and also one of its cruellest: a prince mocks a woman for her face, even as he decides he must support her. Murasaki asks us to see both his shallowness and his decency."
+  - id: "sable-skins"
+    trigger: "sable-skins"
+    title: "A Fur Mantle From a Vanished Kingdom"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Balhae"
+    image_url: ""
+    image_caption: ""
+    content: "The princess wears a mantle of sable-skins, heavily perfumed. Sable furs were luxury imports, brought to Japan in the ninth and tenth centuries mainly by envoys of Balhae, a kingdom in north-eastern Asia that fell in 926, and aristocrats wore them in cold weather. By Genji’s day the fashion had passed, so the coat is old-fashioned as well as costly. It is a good detail: she is dressed in the grandeur of her father’s time, now faded, and is in danger of perishing with cold without it."
+  - id: "silk-satin-and-quilted-stuffs"
+    trigger: "silk, satin and quilted stuffs"
+    title: "Why Genji Pays Everyone in Cloth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Silk"
+    image_url: ""
+    image_caption: ""
+    content: "To help the princess, Genji sends silk, satin and quilted clothing, and thick cloth for the old gatekeeper. In Heian Japan cloth was a form of wealth: courtiers received silk and cotton as salary, gave it as presents and paid servants with it. Clothing, not money, was the natural gift, so a prince who sent it was being generous in the usual way. The gifts also let him keep the relationship within limits, since he can help her without having to visit, and Murasaki hints that this is just what he wants."
+  - id: "saffron-flower"
+    trigger: "saffron-flower"
+    title: "The Flower Pun About a Princess’s Red Nose"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Safflower"
+    image_url: ""
+    image_caption: ""
+    content: "Genji writes a poem about brushing against ‘this saffron-flower that has no loveliness either of shape or hue’. The suetsumuhana is the safflower, Carthamus tinctorius, whose petals gave a red dye. The poem puns on the flower’s name, beni-bana, ‘red flower’, a hint at the red tip of the princess’s nose, and on the verb for brushing a sleeve against something. It also gives the chapter its title. Myōbu’s puzzled reaction, and then her sudden recollection of the moonlit night, show that the joke is intended for those who have seen her face."
+  - id: "festival-of-the-white-horse"
+    trigger: "festival of the White Horse"
+    title: "The New Year Ceremony That Honoured White Horses"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Heian_period"
+    image_url: ""
+    image_caption: ""
+    content: "On the seventh day of the New Year the court held the festival of the White Horse, the Aouma no sekku, at which the Emperor watched white horses led before him. White horses were thought to carry yang energy and ward off evil for the year, and the festival was one of the main events of the court’s first month. Genji, leaving the ceremony at nightfall, goes straight to the princess’s house, so Murasaki gives a splendid public occasion followed at once by a shabby private one."
+  - id: "heichu"
+    trigger: "Heichū"
+    title: "The Comic Lover Who Wept Black Tears"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Heich%C5%AB_Monogatari"
+    image_url: ""
+    image_caption: ""
+    content: "Genji tells Murasaki not to treat him as Heichū was treated by his lady. Heichū, Taira no Sadafun, was a ninth-century courtier remembered as a famous lover, and the Heichū Monogatari tells how a lady, tired of his tearful excuses, tricked him by giving him a water pot of ink, so that his face was blackened when he wiped his eyes. Genji’s joke refers to this tale as he pretends that his painted red nose will not wash off, and in his teasing, tender game, the child is moved to tears."
+---
+Try as he might he could not dispel the melancholy into which Yūgao’s
+sudden death had cast him, and though many months had gone by he
+longed for her passionately as ever. In other quarters where he had
+looked for affection, coldness vied with coldness and pride with
+pride. He longed to escape once more from the claims of these
+passionate and exacting natures, and renew the life of tender intimacy
+which for a while had given him so great a happiness. But alas, no
+second Yūgao would he ever find. Despite his bitter experience he
+still fancied that one day he might at least discover some beautiful
+girl of humble origin whom he could meet without concealment, and he
+listened eagerly to any hint that was likely to put him upon a
+promising track. If the prospects seemed favourable he would follow up
+his enquiries by writing a discreet letter which, as he knew from
+experience, would seldom indeed meet with a wholly discouraging reply.
+Even those who seemed bent on showing by the prim stiffness of their
+answers that they placed virtue high above sensibility, and who at
+first appeared hardly conversant with the usages of polite society,
+would suddenly collapse into the wildest intimacy which would continue
+until their marriage with some commonplace husband cut short the
+correspondence.
+
+There were vacant moments when he thought of Utsusemi with regret. And
+there was her companion too; some time or other there would surely be
+an opportunity of sending her a surprise message. If only he could see
+her again as he had seen her that night sitting by the chess-board in
+the dim lamplight. It was not indeed in his nature ever to forget
+anyone of whom he had once been fond.
+
+Among his old nurses there was one called Sayemon to whom, next after
+Koremitsu’s mother, he was most deeply attached. She had a daughter
+called Taifu no Myōbu who was in service at the Palace. This girl was
+an illegitimate child of a certain member of the Imperial family who
+was then Vice-minister of the Board of War. She was a young person of
+very lively disposition and Genji often made use of her services. Her
+mother, Genji’s nurse, had afterwards married the governor of Echizen
+and had gone with him to his province, so the girl when she was not at
+the Palace lived chiefly at her father’s.
+
+She happened one day when she was talking with Genji to mention a
+certain princess, daughter of the late Prince Hitachi. This lady, she
+said, was born to the Prince when he was quite an old man and every
+care had been lavished upon her upbringing. Since his death she had
+lived alone and was very unhappy. Genji’s sympathy was aroused and he
+began to question Myōbu about this unfortunate lady. ‘I do not really
+know much either about her character or her appearance’ said Myōbu;
+‘she is extremely seclusive in her habits. Sometimes I have talked to
+her a little in the evening, but always with a curtain between us. I
+believe her zithern is the only companion in whom she is willing to
+confide.’ ‘Of the **Three Friends** one at least would in her case be
+unsuitable’ said Genji. ‘But I should like to hear her play; her
+father was a great performer on this instrument and it is
+unlikely that she has not inherited some of his skill.’ ‘Oh, I am
+afraid she is not worth your coming to hear,’ said Myōbu. ‘You are
+very discouraging,’ he answered, ‘but all the same I shall hide there
+one of these nights when the full moon is behind the clouds and listen
+to her playing; and you shall come with me.’ She was not best pleased;
+but just then even upon the busy Palace a springtime quiet seemed to
+have settled, and being quite at leisure she consented to accompany
+him. Her father’s house was at some distance from the town and for
+convenience he sometimes lodged in Prince Hitachi’s palace. Myōbo got
+on badly with her step-mother, and taking a fancy to the lonely
+princess’s quarters she kept a room there.
+
+It was indeed on the night after the full moon, in just such a veiled
+light as Genji had spoken of, that they visited the Hitachi palace. ‘I
+am afraid,’ said Myōbu, ‘that it is not a very good night for
+listening to music; sounds do not seem to carry very well.’ But he
+would not be thus put off. ‘Go to her room’ he said, ‘and persuade her
+to play a few notes; it would be a pity if I went away without hearing
+her at all.’ Myōbu felt somewhat shy of leaving him like this in her
+own little private room. She found the princess sitting by the window,
+her shutters not yet closed for the night; she was enjoying the scent
+of a **blossoming plum-tree** which stood in the garden just outside. It
+did indeed seem just the right moment. ‘I thought how lovely your
+zithern would sound on such a night as this,’ she said, ‘and could not
+resist coming to see you. I am always in such a hurry, going to and
+from the Palace, that do you know I have never had time to hear you
+play. It is such a pity.’ ‘Music of this sort,’ she replied, ‘gives no
+pleasure to those who have not studied it. What do they care for such
+matters _who all day long run hither and thither in the City of a
+Hundred Towers_?’ She sent for her zithern; but her heart beat fast.
+What impression would her playing make upon this girl? Timidly she
+sounded a few notes. The effect was very agreeable. True, she was not
+a great performer; but the instrument was a particularly fine one and
+Genji found her playing by no means unpleasant to listen to.
+
+Living in this lonely and half-ruined palace after such an upbringing
+(full no doubt of antiquated formalities and restrictions) as her
+father was likely to have given her it would be strange indeed if her
+life did not for the most part consist of memories and regrets. This
+was just the sort of place which in an old tale would be chosen as the
+scene for the most romantic happenings. His imagination thus stirred,
+he thought of sending her a message. But perhaps she would think this
+rather sudden. For some reason he felt shy, and hesitated.
+
+‘It seems to be clouding over,’ said the astute Myōbu, who knew that
+Genji would carry away a far deeper impression if he heard no more for
+the present. ‘Someone was coming to see me’ she continued; ‘I must
+not keep him waiting. Perhaps some other time when I am not in such a
+hurry.... Let me close your window for you,’ and with that she
+rejoined Genji, giving the princess no encouragement to play any more.
+‘She stopped so soon,’ he complained, ‘that it was hardly worth
+getting her to play at all. One had not time to catch the drift of
+what she was playing. Really it was a pity!’ That the princess was
+beautiful he made no doubt at all. ‘I should be very much obliged if
+you would arrange for me to hear her at closer quarters.’ But Myōbu,
+thinking that this would lead to disappointment, told him that the
+princess who led so hermit-like an existence and seemed always so
+depressed and subdued would hardly welcome the suggestion that
+she should perform before a stranger. ‘Of course,’ said Genji, ‘a
+thing of that kind could only be suggested between people who were on
+familiar terms or to someone of very different rank. This lady’s rank,
+as I am perfectly well aware, entitles her to be treated with every
+consideration, and I would not ask you to do more than hint at my
+desire.’ He had promised to meet someone else that night and carefully
+disguising himself he was preparing to depart when Myōbu said laughing
+‘It amuses me sometimes to think how the Emperor deplores the too
+strict and domesticated life which he suffers you to lead. What would
+he think if he could see you disguising yourself like this?’ Genji
+laughed. ‘I am afraid,’ he said as he left the room, ‘that you are not
+quite the right person to denounce me. Those who think such conduct
+reprehensible in a man must find it even less excusable in a girl.’
+She remembered that Genji had often been obliged to reproach her for
+her reckless flirtations, and blushing made no reply.
+
+Still hoping to catch a glimpse of the zithern-player he crept softly
+towards her window. He was about to hide at a point where the
+bamboo-fence was somewhat broken down when he perceived that a man was
+already ensconced there. Who could it be? No doubt it was one of the
+princess’s lovers and he stepped back to conceal himself in the
+darkness. The stranger followed him and turned out to be no other than
+Tō no Chūjō. That evening they had left the Palace together, but when
+they parted Genji (Chūjō had noticed) did not either go in the
+direction of the Great Hall nor back to his own palace. This aroused
+Chūjō’s curiosity and, despite the fact that he too had a secret
+appointment that night, he decided first to follow Genji and discover
+what was afoot. So riding upon a strange horse and wearing a
+hunting-cloak, he had got himself up altogether so villainously
+that he was able to follow Genji without being recognized upon the
+road. Seeing him enter so unexpected a place, Chūjō was trying to
+imagine what business his friend could possibly have in such a quarter
+when the music began and he secreted himself with a vague idea of
+waylaying Genji when he came out. But the prince, not knowing who the
+stranger was and frightened of being recognized, stole on tip-toe into
+the shadow. Chūjō suddenly accosted him: ‘Though you shook me off so
+uncivilly, I thought it my duty to keep an eye on you’ he said, and
+recited the poem: ‘Though together we left the great Palace hill, your
+setting-place you would not show me, Moon of the sixteenth night!’
+Thus he remonstrated; and Genji, though at first he had been somewhat
+put out by finding that he was not alone, when he recognized Tō no
+Chūjō could not help being rather amused. ‘This is indeed an
+unexpected attention on your part’ he said, and expressed his slight
+annoyance in the answering verse: ‘Though wheresoever it shines men
+marvel at its light, who has before thought fit to follow the full
+moon to the hill whereon it sets?’
+
+‘It is most unsafe for you to go about like this,’ said Chūjō. ‘I
+really mean it. You ought always to have a bodyguard; then you are all
+right whatever happens. I wish you would always let me come with you.
+I am afraid that these clandestine expeditions may one day get you
+into trouble,’ and he solemnly repeated the warning. What chiefly
+worried Genji was the thought that this might not be the first
+occasion upon which Chūjō had followed him; but if it had been his
+habit to do so it was certainly very tactful of him never to have
+questioned Genji about Yūgao’s child.
+
+Though each of them had an appointment elsewhere, they agreed not
+to part. Both of them got into Genji’s carriage and the moon having
+vanished behind a cloud, beguiled the way to the Great Hall by playing
+a **duet upon their flutes**. They did not send for torch-bearers to see
+them in at the gates, but creeping in very quietly stole to a portico
+where they could not be seen and had their ordinary clothes brought to
+them there. Having changed, they entered the house merrily blowing
+their flutes as though they had just come back from the Palace.
+
+Chūjō’s father, who usually pretended not to hear them when they
+returned late at night, on this occasion brought out his flageolet,
+which was his favourite instrument, and began to play very agreeably.
+Aoi sent for her zithern and made all her ladies play on the
+instruments at which they excelled. Only Nakatsukasa, though she was
+known for her lute-playing, having thrown over Tō no Chūjō who had
+been her lover because of her infatuation for Genji with whom her sole
+intercourse was that she sometimes saw him casually when he visited
+the Great Hall,—only Nakatsukasa sat drooping listlessly; for her
+passion had become known to Aoi’s mother and the rest, and they were
+being very unpleasant about it. She was thinking in her despair that
+perhaps it would be better if she went and lived in some place where
+she would never see Genji at all; but the step was hard to take and
+she was very unhappy.
+
+The young princes were thinking of the music they had heard earlier in
+the evening, of those romantic surroundings tinged with a peculiar and
+inexplicable beauty. Merely because it pleased him so to imagine her,
+Tō no Chūjō had already endowed the occupant of the lonely mansion
+with every charm. He had quite decided that Genji had been courting
+her for months or even years, and thought impatiently that he for his
+part, if like Genji he were violently in love with a lady of this
+kind, would have been willing to risk a few reproaches or even
+the loss of a little reputation. He could not however believe that his
+friend intended to let the matter rest as it was much longer and
+determined to amuse himself by a little rivalry. From that time
+onwards both of them **sent letters to the lady**, but neither ever
+received any answer. This both vexed and puzzled them. What could be
+the reason? Thinking that such images were suitable to a lady brought
+up in these rustic surroundings, in most of the poems which they sent
+her they alluded to delicate trees and flowers or other aspects of
+nature, hoping sooner or later to hit on some topic which would arouse
+her interest in their suit. Though she was of good birth and
+education, perhaps through being so long buried away in her vast
+mansion she had not any longer the wits to write a reply. And what
+indeed did it matter whether she answered or not, thought Tō no Chūjō,
+who none the less was somewhat piqued. With his usual frankness he
+said to Genji: ‘I wonder whether you have had any answer. I must
+confess that as an experiment I too sent a mild hint, but without any
+success, so I have not repeated it.’ ‘So he too has been trying his
+hand,’ thought Genji smiling to himself. ‘No,’ he answered aloud, ‘my
+letter did not need an answer, which was perhaps the reason that I did
+not receive one.’ From this enigmatic reply Chūjō deduced that Genji
+had been in communication of some kind with the lady and he was
+slightly piqued by the fact that she had shown a preference between
+them. Genji’s deeper feelings were in no way involved, and though his
+vanity was a little wounded he would not have pursued the matter
+farther had he not known the persuasive power of Chūjō’s style, and
+feared that even now she might overcome her scruples and send him a
+reply. Chūjō would become insufferably cock-a-hoop if he got into his
+head the idea that the princess had transferred her affections from
+Genji to himself. He must see what Myōbu could be persuaded to
+do. ‘I cannot understand,’ he said to her, ‘why the princess should
+refuse to take any notice of my letters. It is really very uncivil of
+her. I suppose she thinks I am a frivolous person who intends to amuse
+himself a little in her company and then disappear. It is a strangely
+false conception of my character. As you know, my affections never
+alter, and if I have ever seemed to the world to be unfaithful it has
+always been because in reality my suit had met with some unexpected
+discouragement. But this lady is so placed that no opposition from
+parents or brothers can interrupt our friendship, and if she will but
+trust me she will find that her being alone in the world, so far from
+exposing her to callous treatment, makes her the more attractive.’
+‘Come,’ answered Myōbu, ‘it will never do for you to run away with the
+idea that you can treat this great lady as a pleasant wayside
+distraction; on the contrary she is extremely difficult of access and
+her rank has accustomed her to be treated with deference and
+ceremony.’ So spoke Myōbu, in accordance indeed with her own
+experience of the princess. ‘She has evidently no desire to be thought
+clever or dashing’ said Genji; ‘for some reason I imagine her as very
+gentle and forgiving.’ He was thinking of Yūgao when he said this.
+
+Soon after this he fell sick of his fever and after that was occupied
+by a matter of great secrecy; so that spring and summer had both
+passed away before he could again turn his attention to the lonely
+lady. But in the autumn came a time of quiet meditation and reflexion.
+Again the sound of the cloth-beaters’ mallets reached his ears,
+tormenting him with memories and longings. He wrote many letters to
+the zithern-player, but with no more success than before. Her
+churlishness exasperated him. More than ever he was determined not to
+give in, and sending for Myōbu he scolded her for having been of
+so little assistance to him. ‘What can be going on in the princess’s
+mind?’ he said; ‘such strange behaviour I have never met with before.’
+If he was piqued and surprised, Myōbu for her part was vexed that the
+affair had gone so badly. ‘No one can say that you have done anything
+so very eccentric or indiscreet, and I do not think she feels so. If
+she does not answer your letters it is only part of her general
+unwillingness to face the outer world.’ ‘But such a way of behaving is
+positively barbarous,’ said Genji; ‘if she were a girl in her ’teens
+and under the care of parents or guardians, such timidity might be
+pardoned; but in an independent woman it is inconceivable. I would
+never have written had I not taken it for granted that she had some
+experience of the world. I was merely hoping that I had found someone
+who in moments of idleness or depression would respond to me
+sympathetically. I did not address her in the language of gallantry,
+but only begged for permission sometimes to converse with her in that
+strange and lonely dwelling-place. But since she seems unable to
+understand what it is I am asking of her, we must see what can be done
+without waiting for her permission. If you will help me, you may be
+sure I shall not disgrace you in any way.’
+
+Myōbu had once been in the habit of describing to him the appearance
+of people whom she had chanced to meet and he always listened to such
+accounts with insatiable interest and curiosity; but for a long while
+he had paid no attention to her reports. Now for no reason at all the
+mere mention of the princess’s existence had aroused in him a fever of
+excitement and activity. It was all very unaccountable. Probably he
+would find the poor lady extremely unattractive when he saw her and
+she would be doing her a very poor service in effecting the
+introduction; but to give Genji no help in a matter to which he
+evidently attached so much importance, would seem very ill-natured.
+
+Even in Prince Hitachi’s life-time visitors to this stiff,
+old-fashioned establishment had been very rare, and now no foot at all
+ever made its way through the thickets which were closing in around
+the house. It may be imagined then what the visit of so celebrated a
+person as Genji would have meant to the ladies-in-waiting and lesser
+persons of the household and with what urgency they begged their
+mistress to send a favourable reply. But the same desperate shyness
+still possessed her and Genji’s letters she would not even read.
+Hearing this Myōbu determined to submit Genji’s request to her at some
+suitable moment when she and the princess were carrying on one of
+their usual uneasy conversations, with the princess’s screen-of-honour
+planted between them. ‘If she seems displeased,’ thought Myōbu, ‘I
+will positively have nothing more to do with the matter; but if she
+receives him and some sort of an affair starts between them, there is
+fortunately no one connected with her to scold me or get me into
+trouble.’ As the result of these and other reflections, being quite at
+home in matters of this kind, she sensibly decided to say nothing
+about the business to anybody, not even to her father.
+
+Late one night, soon after the twentieth day of the eighth month, the
+princess sat waiting for the moon to rise. Though the star-light shone
+clear and lovely the moaning of the **wind in the pine-tree branches**
+oppressed her with its melancholy, and growing weary of waiting she
+was with many tears and sighs recounting to Myōbu stories of bygone
+men and days.
+
+Now was the time to convey Genji’s message, thought Myōbu. She sent
+for him, and secretly as before he crept up to the palace. The moon
+was just rising. He stood where the neglected bamboo-hedge grew
+somewhat sparsely and watched. Persuaded by Myōbu the princess was
+already at her zithern. So far as he could hear it at this
+distance, he did not find the music displeasing; but Myōbu in her
+anxiety and confusion thought the tune very dull and wished it would
+occur to the princess to play something rather more up-to-date. The
+place where Genji was waiting was well screened from view and he had
+no difficulty in creeping unobserved into the house. Here he called
+for Myōbu, who pretending that the visit was a complete surprise to
+her said to the princess: ‘I am so sorry, here is Prince Genji come to
+see me. I am always getting into trouble with him for failing to
+secure him your favour. I have really done my best, but you do not
+make it possible for me to give him any encouragement, so now I
+imagine he has come to deal with the matter for himself. What am I to
+say to him? I can answer for it that he will do nothing violent or
+rash. I think that considering all the trouble he has taken you might
+at least tell him that you will speak to him through a screen or
+curtain.’ The idea filled the princess with consternation. ‘I should
+not know what to say to him,’ she wailed and as she said the words
+bolted towards the far side of the room with a bashfulness so
+infantile that Myōbu could not help laughing. ‘Indeed, Madam,’ she
+said, ‘it is childish of you to take the matter to heart in this way.
+If you were an ordinary young lady under the eye of stern parents and
+brothers, one could understand it; but for a person in your position
+to go on for ever being afraid to face the world is fantastic.’ So
+Myōbu admonished her and the princess, who could never think of any
+argument against doing what she was told to do, said at last: ‘If I
+have only to listen and need not say anything he may speak to me from
+behind the lattice-door, so long as it is well locked.’ ‘I cannot ask
+him to sit on the servant’s bench,’ said Myōbu. ‘You really need not
+be afraid that he will do anything violent or sudden.’ Thus persuaded,
+the princess went to a hatch which communicated between the
+women’s quarters and the **strangers’ dais** and firmly locking it with
+her own hand stuffed a mattress against it to make sure that no chink
+was left unstopped. She was in such a terrible state of confusion that
+she had not the least idea what she should say to her visitor, if she
+had to speak to him, and had agreed to listen to him only because
+Myōbu told her that she ought to.
+
+Several elderly serving-women of the wet-nurse type had been lying
+half-asleep in the inner room since dusk. There were however one or
+two younger maids who had heard a great deal about this Prince Genji
+and were ready to fall in love with him at a moment’s notice. They now
+brought out their lady’s handsomest dress and persuaded her to let
+them put her a little to rights; but she displayed no interest in
+these preparations. Myōbu meanwhile was thinking how well Genji looked
+in the picturesque disguise which he had elaborated for use on these
+night excursions and wished it were being employed in some quarter
+where it was more likely to be appreciated. Her only consolation was
+that so mild a lady was not likely to make inordinate demands upon him
+or pester him with jealousies and exactions. On the other hand, she
+was rather worried about the princess. ‘What’ thought Myōbu, ‘if she
+should fall in love with him and her heart be broken merely because I
+was frightened of getting scolded?’
+
+Remembering her rank and upbringing, he was far from expecting her to
+behave with the lively pertness of an up-to-date miss. She would be
+langorous; yes, langorous and passionate. When, half-pushed by Myōbu,
+the princess at last took her stand near the partition where she was
+to converse with her visitor, a delicious scent of sandal-wood
+invaded his nostrils, and this piece of coquetry at once raised
+his hopes. He began to tell her with great earnestness and eloquence
+how for almost a year she had continually occupied his thoughts. But
+not a word did she answer; talking to her was no better than writing!
+Irritated beyond measure he recited the verse: ‘If with a Vow of
+Silence thus ten times and again my combat I renew, ’tis that against
+me at least no sentence of muteness has been passed.’ ‘Speak at least
+one word of dismissal,’ he continued; ‘do not leave me in this
+bewilderment.’ There was among her ladies one called Jijū, the
+daughter of her old nurse. Being a girl of great liveliness and
+intelligence she could not bear to see her mistress cutting such a
+figure as this and stepping to her side she answered with the poem:
+‘The bell had sounded and for a moment silence was imposed upon my
+lips. To have kept you waiting grieves me, and there let the matter
+rest.’ She said the words in such a way that Genji was completely
+taken in and thought it was the princess who had thus readily answered
+his poem. He had not expected such smartness from an aristocratic lady
+of the old school; but the surprise was agreeable and he answered:
+‘Madam, you have won the day,’ adding the verse: ‘Though well I know
+that thoughts unspoken count more than thoughts expressed, yet
+**dumb-crambo** is not a cheering game to play.’
+
+He went on to speak of one trifle or another as it occurred to him,
+doing his very best to entertain her; but it was no use. Thinking at
+last that silence might after all in this strange creature be merely a
+sign of deep emotion he could no longer restrain his curiosity and,
+easily pushing back the bolted door, entered the room. Myōbu, seeing
+with consternation that he had falsified all her assurances, thought
+it better to know nothing of what followed and without turning her
+head rushed away to her own apartments. Jijū and the other
+ladies-in-waiting had heard so much about Genji and were so anxious to
+catch sight of him that they were more than ready to forgive his
+uncivil intrusion. Their only fear was that their mistress would be at
+a loss how to deal with so unexpected a situation. He did indeed find
+her in the last extremity of bashfulness and embarrassment, but under
+the circumstances that, thought Genji, was natural. Much was to be
+explained by the strict seclusion in which she had been brought up. He
+must be patient with her....
+
+As his eyes grew used to the dim light he began to see that she was
+not at all beautiful. Had she then not one quality at all to justify
+all these hopes and schemes? Apparently not one. It was late. What was
+the use of staying? Bitterly disappointed he left the house. Myōbu,
+intensely curious to know what would happen, had lain awake listening.
+She wanted however to keep up the pretence that she had not witnessed
+Genji’s intrusion and though she plainly heard him leaving the house
+she did not go to see him off or utter a sound of any kind. Stealing
+away as quietly as possible he returned to the Nijō-in and lay down
+upon his bed. This time at least he thought he was on the right path.
+What a disillusionment! And the worst of it was that she was a
+princess, a great lady. What a mess he was in! So he lay thinking,
+when Tō no Chūjō entered the room. ‘How late you are!’ he cried; ‘I
+can easily guess the reason.’ Genji rose: ‘I was so comfortable
+sleeping here all alone that I overslept myself,’ he said. ‘Have you
+come here from the Palace?’ ‘Yes,’ said Chūjō, ‘I was on my way home.
+I heard yesterday that to-day they are choosing the dancers and
+musicians for the celebrations of the Emperor’s visit to the Suzaku-in
+and I am going home to tell my father of this. I will look in here on
+my way back.’ Seeing that Chūjō was in a hurry Genji said that he
+would go with him to the Great Hall. He sent at once for his
+breakfast, bidding them also serve the guest. Two carriages were drawn
+up waiting for them, but they both got into the same one. ‘You still
+seem very sleepy,’ said Chūjō in an aggrieved tone; ‘I am sure you
+have been doing something interesting that you do not want to tell me
+about.’
+
+That day he had a number of important duties to perform and was hard
+at work in the Palace till nightfall. It did not occur to him till a
+very late hour that he ought at least to send the customary letter. It
+was raining. Myōbu had only the day before reproached him for using
+the princess’s palace as a ‘wayside refuge.’ To-day however he had no
+inclination whatever to halt there.
+
+When hour after hour went by and still no letter came Myōbu began to
+feel very sorry for the princess whom she imagined to be suffering
+acutely from Genji’s incivility. But in reality the poor lady was
+still far too occupied with shame and horror at what had happened the
+night before to think of anything else, and when late in the evening
+Genji’s note at last arrived she could not understand in the least
+what it meant. It began with the poem: ‘Scarce had the evening mist
+lifted and revealed the prospect to my sight when the night rain
+closed gloomily about me.’ ‘I shall watch with impatience for a sign
+that the clouds are breaking,’ the letter continued. The ladies of the
+household at once saw with consternation the meaning of this note:
+Genji did not intend ever to come again. But they were all agreed that
+an answer must be sent, and their mistress was for the time being in
+far too overwrought a condition to put brush to paper; so Jijū
+(pointing out that it was late and there was no time to be lost) again
+came to the rescue: ‘Give a thought to the country folk who wait for
+moonlight on this cloudy night, though, while they gaze, so different
+their thoughts from yours!’ This she dictated to her mistress
+who, under the joint direction of all her ladies, wrote it upon a
+piece of paper which had **once been purple but was now faded** and
+shabby. Her writing was coarse and stiff, very mediocre in style, the
+upward and downward strokes being of the same thickness. Genji laid it
+aside scarcely glancing at it; but he was very much worried by the
+situation. How should he avoid hurting her feelings? Such an affair
+was certain to get him into trouble of some kind. What was he to do?
+He made up his mind that at all costs he must go on seeing her.
+Meanwhile, knowing nothing of this decision, the poor lady was very
+unhappy.
+
+That night his father-in-law called for him on the way back from the
+Palace and carried him off to the Great Hall.
+
+Here in preparation for the coming festival all the young princes were
+gathered together, and during the days which followed everyone was
+busy practising the songs or dances which had been assigned to him.
+Never had the Great Hall resounded with such a continual flow of
+music. The recorder and the big flute were all the while in full
+blast; and even the big drum was rolled out on to the verandah, the
+younger princes amusing themselves by experimenting upon it. Genji was
+so busy that he had barely time to pay an occasional surreptitious
+visit even to his dearest friends, and the autumn passed without his
+returning to the Hitachi Palace. The princess could not make it out.
+
+Just at the time when the music-practices were at their height Myōbu
+came to see him. Her account of the princess’s condition was very
+distressing. ‘It is sad to witness day by day as I do how the poor
+lady suffers from your unkind treatment,’ she said and almost wept as
+she told him about it. He was doubly embarrassed. What must Myōbu be
+thinking of him since she found out that he had so recklessly
+falsified all the assurances of good behaviour that she had made
+on his account? And then the princess herself.... He could imagine
+what a pathetic figure she must be, dumbly buried in her own
+despondent thoughts and questionings. ‘Please make it clear to her’ he
+said, ‘that I have been extremely busy; that is really the sole reason
+that I have not visited her.’ But he added with a sigh ‘I hope soon to
+have a chance of teaching her not to be quite so stiff and shy.’ He
+smiled as he said it, and because he was so young and charming Myōbu
+somehow felt that despite her indignation she must smile too. At his
+age it was inevitable that he should cause a certain amount of
+suffering. Suddenly it seemed to her perfectly right that he should do
+as he felt inclined without thinking much about the consequences. When
+the busy festival time was over he did indeed pay several visits to
+the Hitachi Palace, but then followed his adoption of little Murasaki
+whose ways so entranced him that he became very irregular even in his
+visits to the Sixth Ward; still less had he any inclination, though
+he felt as sorry for the princess as ever, to visit that desolate
+palace. For a long while he had no desire to probe the secret of her
+bashfulness, to drive her into the light of day. But at last the idea
+occurred to him that he had perhaps all the while been mistaken. It
+was only a vague impression gathered in a room so dark that one could
+hardly see one’s hand in front of one’s face. If only he could
+persuade her to let him see her properly? But she seemed frightened to
+submit herself to the ordeal of daylight. Accordingly one night when
+he knew that he should catch her household quite at its ease he crept
+in unobserved and peeped through a gap in the door of the women’s
+apartments. The princess herself was not visible. There was a very
+dilapidated screen-of-honour at the end of the room, but it looked as
+if it had not been moved from where it stood for years and years.
+Four or five elderly gentlewomen were in the room. They were preparing
+their mistress’s supper in Chinese vessels which looked like the
+famous ‘**royal blue**’ ware, but they were much damaged and the food
+which had been provided seemed quite unworthy of these precious
+dishes. The old ladies soon retired, presumably to have their own
+supper. In a closet opening out of the main road he could see a very
+chilly-looking lady in an incredibly smoke-stained white dress and
+dirty apron tied at the waist. Despite this shabbiness, her hair was
+done over a comb in the manner of Court servants in ancient days when
+they waited at their master’s table, though it hung down untidily. He
+had sometimes seen figures such as this haunting the housekeeper’s
+rooms in the Palace, but he had no idea that they could still actually
+be seen waiting upon a living person! ‘O dear, O dear,’ cried the lady
+in the apron, ‘what a cold winter we are having! It was not worth
+living so long only to meet times like these,’ and she shed a tear.
+‘If only things had but gone on as they were in the old Prince’s
+time!’ she moaned. ‘What a change! No discipline, no authority. To
+think that I should have lived to see such days!’ and she quivered
+with horror like one who ‘were he a bird would take wing and fly
+away.’ She went on to pour out such a pitiful tale of things gone
+awry that Genji could bear it no longer, and pretending that he had
+just arrived tapped at the partition-door. With many exclamations of
+surprise the old lady brought a candle and let him in. Unfortunately
+Jijū had been chosen with other young persons to wait upon the Vestal
+Virgin and was not at home. Her absence made the house seem more
+rustic and old-fashioned than ever, and its oddity struck him even
+more forcibly than before.
+
+The melancholy snow was now falling faster and faster. Dark
+clouds hung in the sky, the wind blew fierce and wild. The big lamp
+had burnt out and it seemed to be no one’s business to light it. He
+remembered the terrible night upon which Yūgao had been bewitched. The
+house indeed was almost as dilapidated. But it was not quite so large
+and was (to Genji’s comfort) at least to some small degree inhabited.
+Nevertheless it was a depressing place to spend the night at in such
+weather as this. Yet the snow-storm had a beauty and fascination of
+its own and it was tiresome that the lady whom he had come to visit
+was far too stiff and awkward to join him in appreciating its
+wildness. The dawn was just breaking and lifting one of the shutters
+with his own hand, he looked out at the snow-covered flower-beds.
+Beyond them stretched great fields of snow untrodden by any foot. The
+sight was very strange and lovely, and moved by the thought that he
+must soon leave it: ‘Come and look how beautiful it is out of doors,’
+he cried to the princess who was in an inner room. ‘It is unkind of
+you always to treat me as though I were a stranger.’ Although it was
+still dark the light of the snow enabled the ancient gentlewomen who
+had now returned to the room to see the freshness and beauty of
+Genji’s face. Gazing at him with undisguised wonder and delight, they
+cried out to their mistress: ‘Yes, madam, indeed you must come. You
+are not behaving as you should. A young lady should be all kindness
+and pretty ways.’ Thus admonished, the princess who when told what to
+do could never think of any reasons for not doing it, giving her
+costume a touch here and there reluctantly crept into the front room.
+Genji pretended to be still looking out of the window, but presently
+he managed to glance back into the room. His first impression was that
+her manner, had it been a little less diffident, would have been
+extremely pleasing. What an absurd mistake he had made. She was
+certainly very tall as was shown by the length of her back when
+she took her seat; he could hardly believe that such a back could
+belong to a woman. A moment afterwards he suddenly became aware of her
+main defect. It was her nose. He could not help looking at it. It
+reminded him of the trunk of **Samantabhadra’s steed**! Not only was
+it amazingly prominent, but (strangest of all) the tip which drooped
+downwards a little was tinged with pink, contrasting in the oddest
+manner with the rest of her complexion which was of a whiteness that
+would have put snow to shame. Her forehead was unusually high, so that
+altogether (though this was partly concealed by the forward tilt of
+her head) her face must be hugely long. She was very thin, her bones
+showing in the most painful manner, particularly her shoulder-bones
+which jutted out pitiably above her dress. He was sorry now that he
+had exacted from her this distressing exhibition, but so extraordinary
+a spectacle did she provide that he could not help continuing to gaze
+upon her. In one point at least she yielded nothing to the greatest
+beauties of the Capital. Her hair was magnificent; she was wearing it
+loose and it hung a foot or more below the skirt of her gown. A
+complete description of people’s costumes is apt to be tedious, but as
+in stories the first thing that is said about the characters is
+invariably _what they wore_, I shall once in a way attempt such a
+description. Over a terribly faded bodice of imperial purple she wore
+a gown of which the purple had turned definitely black with age. Her
+mantle was of **sable-skins** heavily perfumed with scent. Such a garment
+as this mantle was considered very smart several generations ago, but
+it struck him as the most extraordinary costume for a comparatively
+young girl. However as a matter of fact she looked as though without
+this monstrous wrapping she would perish with cold and he could
+not help feeling sorry for her. As usual she seemed quite devoid of
+conversation and her silence ended by depriving Genji also of the
+power of speech. He felt however that he must try again to conquer her
+religious muteness and began making a string of casual remarks.
+Overcome with embarrassment she hid her face with her sleeve. This
+attitude, together with her costume, reminded him so forcibly of queer
+pompous old officials whom he had sometimes seen walking at funeral
+pace in state processions, hugging their emblems of office to their
+breasts, that he could not help laughing. This he felt to be very
+rude. Really he was very sorry for her and longing to put a quick end
+to her embarrassment he rose to go. ‘Till I began to look after you
+there was no one in whom you could possibly have confided. But
+henceforward I think you must make up your mind to be frank with me
+and tell me all your secrets. Your stern aloofness is very painful to
+me,’ and he recited the verse: ‘Already the icicle that hangs from the
+eaves is melting in the rays of the morning sun. How comes it that
+these drippings to new ice should turn?’ At this she tittered
+slightly. Finding her inability to express herself quite unendurable
+he left the house. Even in the dim light of early morning he noticed
+that the courtyard gate at which his carriage awaited him was shaky on
+its posts and much askew; daylight, he was sure, would have revealed
+many other signs of dilapidation and neglect. In all the desolate
+landscape which stretched monotonously before him under the bleak
+light of dawn only the thick mantle of snow which covered the
+pine-trees gave a note of comfort and almost of warmth.
+
+Surely it was such a place as this, sombre as a little village in the
+hills, that his friends had thought of on that rainy night when they
+had spoken of the gate ‘deep buried in green thickets.’ If only there
+were really hidden behind _these_ walls some such exquisite
+creature as they had imagined. How patiently, how tenderly he would
+court her! He longed for some experience which would bring him respite
+from the anguish with which a certain hopeless and illicit passion was
+at that time tormenting him. Alas, no one could have been less likely
+to bring him the longed-for distraction than the owner of this
+romantic mansion. Yet the very fact that she had nothing to recommend
+her made it impossible for him to give her up, for it was certain that
+no one else would ever take the trouble to visit her. But why, why had
+it fallen to him of all people to become her intimate? Had the spirit
+of the departed Prince Hitachi, unhappy at the girl’s friendless
+plight, chosen him out and led him to her?
+
+At the side of the road he noticed a little orange-tree almost buried
+in snow. He ordered one of his attendants to uncover it. As though
+jealous of the attention that the man was paying to its neighbour a
+pine-tree near by shook its heavily laden branches, pouring great
+billows of snow over his sleeve. Delighted with the scene Genji
+suddenly longed for some companion with whom he might share this
+pleasure; not necessarily someone who loved such things as he did, but
+one who at least responded to them in an ordinary way.
+
+The gate through which his carriage had to pass in order to leave
+the grounds was still locked. When at last the man who kept the key
+had been discovered he turned out to be immensely old and feeble.
+With him was a big, awkward girl who seemed to be his daughter or
+grand-daughter. Her dress looked very grimy in contrast with the new
+snow amid which she was standing. She seemed to be suffering very much
+from the cold, for she was hugging a little brazier of some kind with
+a stick or two of charcoal burning none too brightly in it. The old
+man had not the strength to push back the door, and the girl was
+dragging at it as well. Taking pity on them one of Genji’s
+servants went to their assistance and quickly opened it. Genji
+remembered the poem in which Po Chü-i describes the sufferings of
+villagers in wintry weather and he murmured the lines ‘The little
+children run naked in the cold; the aged shiver for lack of winter
+clothes.’ All at once he remembered the chilly appearance which that
+unhappy bloom had given to the princess’s face and he could not help
+smiling. If ever he were able to show her to Tō no Chūjō, what strange
+comparison, he wondered, would Chūjō use concerning it? He remembered
+how Chūjō had followed him on the first occasion. Had he continued to
+do so? Perhaps even at this minute he was under observation. The
+thought irritated him.
+
+Had her defects been less striking he could not possibly have
+continued these distressing visits. But since he had actually seen her
+in all her tragic uncouthness pity gained the upper hand, and
+henceforward he kept in constant touch with her and showed her every
+kindness. In the hope that she would abandon her sables he sent her
+presents of **silk, satin and quilted stuffs**. He also sent thick cloth
+such as old people wear, that the old man at the gate might be more
+comfortably dressed. Indeed he sent presents to everyone on the estate
+from the highest to the lowest. She did not seem to have any objection
+to receiving these donations, which under the circumstances was very
+convenient as it enabled him for the most part to limit their very
+singular friendship to good offices of this kind.
+
+Utsusemi too, he remembered, had seemed to him far from handsome when
+he had peeped at her on the evening of her sudden flight. But she at
+least knew how to behave and that saved her plainness from being
+obtrusive. It was hard to believe that the princess belonged to a
+class so far above that of Utsusemi. It only showed how little these
+things have to do with birth or station. For in idle moments he
+still regretted the loss of Utsusemi and it rankled in him yet that he
+had in the end allowed her unyielding persistency to win the day.
+
+And so the year drew to its close. One day when he was at his
+apartments in the Emperor’s Palace, Myōbu came to see him. He liked to
+have her to do his hair and do small commissions for him. He was not
+in the least in love with her; but they got on very well together and
+he found her conversation so amusing that even when she had no duty to
+perform at the Palace he encouraged her to come and see him whenever
+she had any news. ‘Something so absurd has happened’ she said, ‘that I
+can hardly bring myself to tell you about it ...,’ and she paused
+smiling. ‘I can hardly think,’ answered Genji, ‘that there can be
+anything which you are frightened of telling to me.’ ‘If it were
+connected with my own affairs,’ she said, ‘you know quite well that I
+should tell you at once. But this is something quite different. I
+really find it very hard to talk about.’ For a long while he could get
+nothing out of her, and only after he had scolded her for making so
+unnecessary a fuss she at last handed him a letter. It was from the
+princess. ‘But this,’ said Genji taking it, ‘is the last thing in the
+world that you could have any reason to hide from me.’ She watched
+with interest while he read it. It was written on thick paper drenched
+with a strong perfume; the characters were bold and firm. With it was
+a poem: ‘Because of your hard heart, your hard heart only, the sleeves
+of this my Chinese dress are drenched with tears.’ The poem must, he
+thought, refer to something not contained in the letter.
+
+He was considering what this could be, when his eye fell on a clumsy,
+old-fashioned clothes-box wrapped in a painted canvas cover. ‘Now’
+said Myōbu, ‘perhaps you understand why I was feeling rather
+uncomfortable. You may not believe it, but the princess means you to
+wear this jacket on New Year’s Day. I am afraid I cannot take it back
+to her; that would be too unkind. But if you like I will keep it for
+you and no one else shall see it. Only please, since it was to you
+that she sent, just have one look at it before it goes away.’ ‘But I
+should hate it to go away,’ said Genji; ‘I think it was so kind of her
+to send it.’ It was difficult to know what to say. Her poem was indeed
+the most unpleasant jangle of syllables that he had ever encountered.
+He now realized that the other poems must have been dictated to her,
+perhaps by Jijū or one of the other ladies. And Jijū too it must
+surely be who held the princess’s brush and acted as writing-master.
+When he considered what her utmost poetic endeavour would be likely to
+produce he realized that these absurd verses were probably her
+masterpiece and should be prized accordingly. He began to examine the
+parcel; Myōbu blushed while she watched him. It was a plain,
+old-fashioned, buff-coloured jacket of finely woven material, but
+apparently not particularly well cut or stitched. It was indeed a
+strange present, and spreading out her letter he wrote something
+carelessly in the margin. When Myōbu looked over his shoulder she saw
+that he had written the verse: ‘How comes it that with my sleeve I
+brushed this **saffron-flower** that has no loveliness either of shape
+or hue?’
+
+What, wondered Myōbu, could be the meaning of this outburst against a
+flower? At last turning over in her mind the various occasions when
+Genji had visited the princess she remembered something which she
+had herself noticed one moonlit night, and though she felt the joke
+was rather unkind, she could not help being amused. With practised
+ease she threw out a verse in which she warned him that in the
+eyes of a censorious world even this half-whimsical courtship might
+fatally damage his good name. Her impromptu poem was certainly faulty;
+but Genji reflected that if the poor princess had even Myōbu’s very
+ordinary degree of alertness it would make things much easier; and it
+was quite true that to tamper with a lady of such high rank was not
+very safe.
+
+At this point visitors began to arrive. ‘Please put this somewhere out
+of sight,’ said Genji pointing to the jacket; ‘could one have believed
+that it was possible to be presented with such an object?’ and he
+groaned. ‘Oh why ever did I show it to him?’ thought Myōbu. ‘The only
+result is that now he will be angry with me as well as with the
+princess,’ and in very low spirits she slipped out of his apartments.
+
+Next day she was in attendance upon the Emperor and while she was
+waiting with other gentlewomen in the ladies’ common-room Genji came
+up saying: ‘Here you are. The answer to yesterday’s letter. I am
+afraid it is rather far-fetched,’ and he flung a note to her. The
+curiosity of the other gentlewomen was violently aroused. Genji left
+the room humming ‘The Lady of Mikasa Hill,’ which naturally amused
+Myōbu very much. The other ladies wanted to know why the prince was
+laughing to himself. Was there some joke...? ‘Oh, no,’ said Myōbu; ‘I
+think it was only that he had noticed someone whose nose was a little
+red with the morning cold. The song he hummed was surely very
+appropriate.’ ‘I think it was very silly,’ said one of the ladies.
+‘There is no one here to-day with a red nose. He must be thinking of
+Lady Sakon or Higo no Uneme.’ They were completely mystified. When
+Myōbu presented Genji’s reply, the ladies of the Hitachi Palace
+gathered round her to admire it. It was written negligently on plain
+white paper but was none the less very elegant. ‘Does your gift of a
+garment mean that you wish a greater distance than ever to be kept
+between us?’
+
+On the evening of the last day of the year he sent back the box which
+had contained his jacket, putting into it a court dress which had
+formerly been presented to him, a dress of woven stuff dyed
+grape-colour and various stuffs of yellow-rose colour and the like.
+The box was brought by Myōbu. The princess’s ancient gentlewomen
+realized that Genji did not approve of their mistress’s taste in
+colours and wished to give her a lesson. ‘Yes,’ they said grudgingly,
+‘that’s a fine deep red while its new, but just think how it will
+fade. And in Madam’s poem too, I am sure, there was much more good
+sense. In his answer he only tries to be smart.’ The princess shared
+their good opinion of her poem. It had cost her a great deal of effort
+and before she sent it she had been careful to copy it into her
+note-book.
+
+Then came the New Year’s Day celebrations; and this year there was
+also to be the New Year’s mumming, a band of young noblemen going
+round dancing and singing in various parts of the Palace. After the
+**festival of the White Horse** on the seventh day Genji left the
+Emperor’s presence at nightfall and went to his own apartments in the
+Palace as though intending to stay the night there. But later he
+adjourned to the Hitachi Palace which had on this occasion a less
+forbidding appearance than usual. Even the princess was rather more
+ordinary and amenable. He was hoping that like the season she too had
+begun anew, when he saw that sunlight was coming into the room. After
+hesitating for a while, he got up and went out into the front room. The
+double doors at the end of the eastern wing were wide open, and
+the roof of the verandah having fallen in, the sunshine poured
+straight into the house. A little snow was still falling and its
+brightness made the morning light yet more exquisitely brilliant and
+sparkling. She watched a servant helping him into his cloak. She was
+lying half out of the bed, her head hanging a little downwards and her
+hair falling in great waves to the floor. Pleased with the sight he
+began to wonder whether she would not one day outgrow her plainness.
+He began to close the door of the women’s apartments, but suddenly
+feeling that he owed her amends for the harsh opinion of her
+appearance which he had formed before, he did not quite shut the door,
+but bringing a low stool towards it sat there putting his disordered
+head-dress to rights. One of the maids brought him an incredibly
+battered mirror-stand, Chinese combs, a box of toilet articles and
+other things. It amused him to discover that in this household of
+women a little male gear still survived, even in so decrepit a state.
+
+He noticed that the princess, who was now up and dressed, was looking
+quite fashionable. She was in fact wearing the clothes which he had
+sent her before the New Year, but he did not at first recognize them.
+He began however to have a vague idea that her mantle, with its rather
+conspicuous pattern, was very like one of the things he had given her.
+‘I do hope,’ he said presently, ‘that this year you will be a little
+more conversational. I await the day when you will unbend a little
+towards me more eagerly than the poet longs for the first nightingale.
+If only like the year that has changed you too would begin anew!’ Her
+face brightened. She had thought of a remark and trembling from head
+to foot with a tremendous effort she brought out the quotation ‘When
+plovers chirp and all things grow anew.’ ‘Splendid,’ said Genji, ‘This
+is a sign that the new year has indeed begun’ and smiling
+encouragingly at her he left the house, she following him with her
+eyes from the couch on which she lay. Her face as usual was half
+covered by her arm; but the unfortunate flower still bloomed
+conspicuously. ‘Poor thing, she really _is_ very ugly,’ thought Genji
+in despair.
+
+When he returned to the Nijō-in he found Murasaki waiting for him. She
+was growing up as handsome a girl as one could wish, and promised well
+for the future. She was wearing a plain close-fitting dress of cherry
+colour; above all, the unstudied grace and ease of her movements
+charmed and delighted him as he watched her come to meet him. In
+accordance with the wishes of her old-fashioned grandmother her teeth
+were not blackened, but her eyebrows were delicately touched with
+stain. ‘Why, when I might be playing with a beautiful child, do I
+spend my time with an ugly woman? ‘Genji kept on asking himself in
+bewilderment while they sat together playing with her dolls. Next she
+began to draw pictures and colour them. After she had painted all
+sorts of queer and amusing things, ‘Now I am going to do a picture for
+you,’ said Genji and drawing a lady with very long hair he put a dab
+of red on her nose. Even in a picture, he thought pausing to look at
+the effect, it gave one a most uncomfortable feeling. He went and
+looked at himself in the mirror and as though dissatisfied with his
+own fresh complexion he suddenly put on his own nose a dab of red such
+as he had given to the lady in the picture. He looked at himself in
+the mirror. His handsome face had in an instant become ridiculous and
+repulsive. At first the child laughed. ‘Should you go on liking me if
+I were always as ugly as this?’ he asked. Suddenly she began to be
+afraid that the paint would not come off. ‘Oh why did you do it?’ she
+cried. ‘How horrible!’ He pretended to rub it without effect. ‘No,’ he
+said ruefully, ‘it will not come off. What a sad end to our game! I
+wonder what the Emperor will say when I go back to the Palace?’
+He said it so seriously that she became very unhappy, and longing to
+cure him dipped a piece of thick soft paper in the water-jug which
+stood by his writing-things, and began scrubbing at his nose. ‘Take
+care,’ he cried laughing, ‘that you do not serve me as **Heichū** was
+treated by his lady. I would rather have a red nose than a black one.’
+So they passed their time, making the prettiest couple.
+
+In the gentle spring sunshine the trees were already shimmering with a
+haze of new-grown buds. Among them it was the plum-trees that gave the
+surest promise, for already their blossoms were uncurling, like lips
+parted in a faint smile. Earliest of them all was a red plum that grew
+beside the covered steps. It was in full colour. ‘Though fair the tree
+on which it blooms, this red flower fills me with a strange
+misgiving,’ sang Genji with a deep sigh.
+
+We shall see in the next chapter what happened in the end to all these
+people.

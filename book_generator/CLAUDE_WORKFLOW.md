@@ -15,6 +15,7 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
 | Wikimedia images | script | `python find_images.py --book <slug>` |
 | Confirm body text == source text | script | `python verify_chapters.py --book <slug>` |
 | Update `public/catalog.json` | script | `python cc_chapter.py catalog` |
+| Characters page | **Claude** | `add-characters` skill |
 
 `cc_chapter.py status --book <slug>` shows which chapters are pending.
 
@@ -28,7 +29,10 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
    to `work/<book>/<chapter-slug>.json`, then run `cc_chapter.py assemble`. Fix whatever it
    reports and re-run until it prints `OK saved`.
 3. **Finish.** `find_images.py --book <slug>`, `verify_chapters.py --book <slug>`,
-   `cc_chapter.py catalog`. Report any chapters that failed. Do not commit unless asked.
+   `cc_chapter.py catalog`. Report any chapters that failed.
+4. **Characters page.** Once the catalog is updated, invoke the `add-characters` skill (Skill tool,
+   argument: the book slug) to write `characters.md` and set `"characters": true` in the catalog.
+   Do not commit unless asked.
 
 Chapters are independent, so several can be done in parallel (e.g. one subagent per
 chapter, a handful at a time). Subagents write their own JSON and run `assemble`;

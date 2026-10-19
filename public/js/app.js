@@ -227,10 +227,6 @@
     main.innerHTML = '<div id="chapter-list"><h2>' + book.title + '</h2>' +
       '<div class="book-meta">' + book.author + ' &middot; ' + book.year + '</div>' +
       continueHtml +
-      (book.characters
-        ? '<div class="chapter-item chapter-item--characters" onclick="location.hash=\'#/' + bookSlug + '/characters\'">' +
-          '<span class="chapter-num">★</span><span class="chapter-title">Characters</span></div>'
-        : '') +
       book.chapters.map(function (ch) {
         var cached = isChapterCached(bookSlug, ch.slug);
         return '<div class="chapter-item' + (cached ? ' chapter-item--cached' : '') +
@@ -238,6 +234,10 @@
           '<span class="chapter-num">' + ch.number + '</span>' +
           '<span class="chapter-title">' + ch.title + '</span></div>';
       }).join('') +
+      (book.characters
+        ? '<div class="chapter-item chapter-item--characters" onclick="location.hash=\'#/' + bookSlug + '/characters\'">' +
+          '<span class="chapter-num">★</span><span class="chapter-title">Characters</span></div>'
+        : '') +
       '<button id="download-btn" class="download-btn"></button>' +
       '<p class="offline-legend"><span class="offline-legend-dot">↓</span> = Chapter downloaded for offline reading</p>' +
       '</div>';

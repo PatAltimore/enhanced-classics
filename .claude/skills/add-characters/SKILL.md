@@ -9,8 +9,8 @@ ask. The book must already exist in `public/catalog.json`.
 ## What the page is
 
 `public/books/<book-slug>/characters.md` is rendered by the app at `#/<book-slug>/characters`.
-A "★ Characters" row appears at the top of the book's chapter list when the book's catalog
-entry has `"characters": true`. (The app code, CSS and service worker already support this;
+A "★ Characters" row appears at the end of the book's chapter list (after the last chapter, so
+spoilers are not seen first) when the book's catalog entry has `"characters": true`. (The app code, CSS and service worker already support this;
 do not change them for a new book.)
 
 ## Steps
@@ -53,7 +53,7 @@ do not change them for a new book.)
    `cc_chapter.py catalog` / `catalog_sync.py` do not remove it.
 5. Verify: serve `public/` (e.g. `python -m http.server <port>` from `public/`, on a port not
    used before so a stale service worker does not interfere), open `#/<book-slug>`, confirm
-   the Characters row is first, open it, and check that every character renders with all
+   the Characters row is last in the chapter list (after the final chapter), open it, and check that every character renders with all
    fields and that there are no console errors. Stop the server afterwards.
 6. Do not commit unless asked.
 

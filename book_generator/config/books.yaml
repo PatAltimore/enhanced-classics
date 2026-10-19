@@ -715,3 +715,45 @@ books:
       - number: 10
         title: "Repentance and Exile"
         slug: "chapter-10-repentance-and-exile"
+
+  - slug: "the-tale-of-genji"
+    title: "The Tale of Genji"
+    author: "Murasaki Shikibu"
+    year: 1008
+    gutenberg_id: 66057
+    gutenberg_split: pattern
+    gutenberg_re: '^ +CHAPTER [IVXLC]+\s*$'
+    gutenberg_heading_lines: 2
+    words_per_window: 600
+    description: >
+      The 11th-century Japanese court novel of Genji, the emperor's son, and
+      his loves and rivalries, in Arthur Waley's 1925 translation (Chapters
+      I-IX).
+    chapters:
+      - number: 1
+        title: "Kiritsubo"
+        slug: "chapter-01-kiritsubo"
+      - number: 2
+        title: "The Broom-Tree"
+        slug: "chapter-02-the-broom-tree"
+      - number: 3
+        title: "Utsusemi"
+        slug: "chapter-03-utsusemi"
+      - number: 4
+        title: "Yugao"
+        slug: "chapter-04-yugao"
+      - number: 5
+        title: "Murasaki"
+        slug: "chapter-05-murasaki"
+      - number: 6
+        title: "The Saffron-Flower"
+        slug: "chapter-06-the-saffron-flower"
+      - number: 7
+        title: "The Festival of Red Leaves"
+        slug: "chapter-07-the-festival-of-red-leaves"
+      - number: 8
+        title: "The Flower Feast"
+        slug: "chapter-08-the-flower-feast"
+      - number: 9
+        title: "Aoi"
+        slug: "chapter-09-aoi"
