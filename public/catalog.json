@@ -5,6 +5,7 @@
       "title": "The Odyssey",
       "author": "Homer",
       "year": -800,
+      "characters": true,
       "description": "Ancient Greek epic composed around the 8th or 7th century BC. It follows Odysseus, king of Ithaca, on his perilous ten-year journey home after the Trojan War. While he battles monsters and loses all his crewmates, his wife Penelope and son Telemachus face aggressive suitors at home who presume him dead.\n",
       "chapters": [
         {
