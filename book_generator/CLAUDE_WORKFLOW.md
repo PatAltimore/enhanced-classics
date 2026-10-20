@@ -13,6 +13,7 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
 | Pick phrases, write summary + cards | **Claude** | writes `work/<slug>/<chapter-slug>.json` |
 | Validate, inject `**markers**`, write markdown | script | `python cc_chapter.py assemble --book <slug> --chapter N` |
 | Wikimedia images | script | `python find_images.py --book <slug>` |
+| Check images fit their topic | script + **Claude** | `python review_images.py sheet/remove --book <slug>` |
 | Confirm body text == source text | script | `python verify_chapters.py --book <slug>` |
 | Update `public/catalog.json` | script | `python cc_chapter.py catalog` |
 | Characters page | **Claude** | `add-characters` skill |
@@ -28,7 +29,8 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
 2. **Per chapter**, run `cc_chapter.py windows`, then write the JSON (schema below)
    to `work/<book>/<chapter-slug>.json`, then run `cc_chapter.py assemble`. Fix whatever it
    reports and re-run until it prints `OK saved`.
-3. **Finish.** `find_images.py --book <slug>`, `verify_chapters.py --book <slug>`,
+3. **Finish.** `find_images.py --book <slug>` (skip it if the user says to skip images),
+   then **review the images** (below), then `verify_chapters.py --book <slug>` and
    `cc_chapter.py catalog`. Report any chapters that failed.
 4. **Characters page.** Once the catalog is updated, invoke the `add-characters` skill (Skill tool,
    argument: the book slug) to write `characters.md` and set `"characters": true` in the catalog.
@@ -37,6 +39,22 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
 Chapters are independent, so several can be done in parallel (e.g. one subagent per
 chapter, a handful at a time). Subagents write their own JSON and run `assemble`;
 run `catalog` once at the end, from the main session.
+
+## Image review (after `find_images.py`)
+
+`find_images.py` takes each page's lead image, which is sometimes unrelated to the card (a baseball
+umpire for a character named Jordan Baker, a cargo ship for "Automobile"). Always look at them:
+
+1. `python review_images.py sheet --book <slug>` writes numbered contact sheets to
+   `work/<slug>/image_review/` (image, `#id`, Wikipedia topic, trigger, caption).
+2. Serve that folder (`python -m http.server <port>` from it), open `s0.html`, `s1.html`, ... in the
+   browser pane and take a screenshot of each. Judge every image against its Wikipedia topic and
+   caption: keep it if it depicts or clearly illustrates the topic (a map for a place, a portrait for a
+   person, the book cover for a page about the book); remove it if it is about something else (wrong
+   person or place, stock photo of an unrelated object, generic scene). Zoom in on doubtful ones.
+3. `python review_images.py remove --book <slug> --ids 3,17,42` blanks `image_url` and
+   `image_caption` for those cards (the card text stays). Stop the server when done.
+4. Mention in the report how many images were removed.
 
 ## JSON schema
 
