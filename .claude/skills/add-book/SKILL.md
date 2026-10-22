@@ -9,6 +9,9 @@ look up); if it is missing or ambiguous, ask for it.
 
 Summary: `add_book.py` -> review/fix `config/books.yaml` -> `fetch_texts.py` -> for each chapter
 `cc_chapter.py windows` -> write `work/<book>/<chapter-slug>.json` -> `cc_chapter.py assemble` ->
-`find_images.py` -> review the images (`review_images.py sheet`, look at the contact sheets in the
-browser, `review_images.py remove --ids ...` for any that do not match their Wikipedia topic) -> `verify_chapters.py` -> `cc_chapter.py catalog` -> invoke the `add-characters`
+`verify_chapters.py` -> `cc_chapter.py catalog` -> invoke the `add-characters`
 skill (Skill tool, argument: the book slug) to add the book's Characters page. Do not commit unless asked.
+
+Images are skipped by default. Only if the user asks for images, run `find_images.py` after assembling and
+then the image review described in the workflow (`review_images.py sheet`, look at the contact sheets in
+the browser, `review_images.py remove --ids ...` for any that do not match their Wikipedia topic).

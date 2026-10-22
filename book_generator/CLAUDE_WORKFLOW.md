@@ -12,8 +12,8 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
 | Slice a chapter into annotation windows | script | `python cc_chapter.py windows --book <slug> --chapter N` |
 | Pick phrases, write summary + cards | **Claude** | writes `work/<slug>/<chapter-slug>.json` |
 | Validate, inject `**markers**`, write markdown | script | `python cc_chapter.py assemble --book <slug> --chapter N` |
-| Wikimedia images | script | `python find_images.py --book <slug>` |
-| Check images fit their topic | script + **Claude** | `python review_images.py sheet/remove --book <slug>` |
+| Wikimedia images (**optional, off by default**) | script | `python find_images.py --book <slug>` |
+| Check images fit their topic (only if images were added) | script + **Claude** | `python review_images.py sheet/remove --book <slug>` |
 | Confirm body text == source text | script | `python verify_chapters.py --book <slug>` |
 | Update `public/catalog.json` | script | `python cc_chapter.py catalog` |
 | Characters page | **Claude** | `add-characters` skill |
@@ -29,9 +29,10 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
 2. **Per chapter**, run `cc_chapter.py windows`, then write the JSON (schema below)
    to `work/<book>/<chapter-slug>.json`, then run `cc_chapter.py assemble`. Fix whatever it
    reports and re-run until it prints `OK saved`.
-3. **Finish.** `find_images.py --book <slug>` (skip it if the user says to skip images),
-   then **review the images** (below), then `verify_chapters.py --book <slug>` and
-   `cc_chapter.py catalog`. Report any chapters that failed.
+3. **Finish.** **Images are skipped by default**: do not run `find_images.py` or the image review
+   unless the user asks for images (for example "include images"). Then `verify_chapters.py --book <slug>`
+   and `cc_chapter.py catalog`. If images were requested, run `find_images.py --book <slug>` first and
+   **review the images** (below) before `verify_chapters.py`. Report any chapters that failed.
 4. **Characters page.** Once the catalog is updated, invoke the `add-characters` skill (Skill tool,
    argument: the book slug) to write `characters.md` and set `"characters": true` in the catalog.
    Do not commit unless asked.
@@ -40,7 +41,7 @@ Chapters are independent, so several can be done in parallel (e.g. one subagent 
 chapter, a handful at a time). Subagents write their own JSON and run `assemble`;
 run `catalog` once at the end, from the main session.
 
-## Image review (after `find_images.py`)
+## Image review (only when images were requested; after `find_images.py`)
 
 `find_images.py` takes each page's lead image, which is sometimes unrelated to the card (a baseball
 umpire for a character named Jordan Baker, a cargo ship for "Automobile"). Always look at them:
@@ -86,7 +87,8 @@ Rules (enforced by `assemble`, which refuses to write on any ERROR):
   250 words each (`cc_chapter.py windows` prints the count), so a 1,100-word chapter gets 3-4 cards.
 - **summary**: 5-6 points, each with a real Wikipedia link.
 - **enhancements**: exactly one card per phrase, no extras; `trigger` equals the phrase.
-  `image_url` and `image_caption` stay `""` — `find_images.py` fills them.
+  `image_url` and `image_caption` stay `""`. Leave them empty unless the user asked for images, in which case
+  `find_images.py` fills them.
 - **Card style**: the book text lives in the body; cards are short explainers anchored on a
   Wikipedia topic. Keep each to **about 100 words** (70-140; the existing books average ~100).
   Anchor to the exact moment in the chapter in one sentence, add context the reader likely does
