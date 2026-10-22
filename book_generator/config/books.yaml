@@ -757,3 +757,98 @@ books:
       - number: 9
         title: "Aoi"
         slug: "chapter-09-aoi"
+
+  - slug: "the-war-of-the-worlds"
+    title: "The War of the Worlds"
+    author: "H. G. Wells"
+    year: 1898
+    gutenberg_id: 36
+    gutenberg_split: pattern
+    gutenberg_re: '^[IVXLC]+\.\s*$'
+    gutenberg_heading_lines: 2
+    words_per_window: 400
+    description: >
+      A Victorian science-fiction classic in which Martians land in southern
+      England and the narrator watches civilisation collapse around him.
+    chapters:
+      - number: 1
+        title: "The Eve Of The War"
+        slug: "chapter-01-the-eve-of-the-war"
+      - number: 2
+        title: "The Falling Star"
+        slug: "chapter-02-the-falling-star"
+      - number: 3
+        title: "On Horsell Common"
+        slug: "chapter-03-on-horsell-common"
+      - number: 4
+        title: "The Cylinder Opens"
+        slug: "chapter-04-the-cylinder-opens"
+      - number: 5
+        title: "The Heat-Ray"
+        slug: "chapter-05-the-heat-ray"
+      - number: 6
+        title: "The Heat-Ray In The Chobham Road"
+        slug: "chapter-06-the-heat-ray-in-the-chobham-road"
+      - number: 7
+        title: "How I Reached Home"
+        slug: "chapter-07-how-i-reached-home"
+      - number: 8
+        title: "Friday Night"
+        slug: "chapter-08-friday-night"
+      - number: 9
+        title: "The Fighting Begins"
+        slug: "chapter-09-the-fighting-begins"
+      - number: 10
+        title: "In The Storm"
+        slug: "chapter-10-in-the-storm"
+      - number: 11
+        title: "At The Window"
+        slug: "chapter-11-at-the-window"
+      - number: 12
+        title: "What I Saw Of The Destruction Of Weybridge And Shepperton"
+        slug: "chapter-12-what-i-saw-of-the-destruction-of-weybri"
+      - number: 13
+        title: "How I Fell In With The Curate"
+        slug: "chapter-13-how-i-fell-in-with-the-curate"
+      - number: 14
+        title: "In London"
+        slug: "chapter-14-in-london"
+      - number: 15
+        title: "What Had Happened In Surrey"
+        slug: "chapter-15-what-had-happened-in-surrey"
+      - number: 16
+        title: "The Exodus From London"
+        slug: "chapter-16-the-exodus-from-london"
+      - number: 17
+        title: "The “Thunder Child”"
+        slug: "chapter-17-the-thunder-child"
+      - number: 18
+        title: "Under Foot"
+        slug: "chapter-18-under-foot"
+      - number: 19
+        title: "What We Saw From The Ruined House"
+        slug: "chapter-19-what-we-saw-from-the-ruined-house"
+      - number: 20
+        title: "The Days Of Imprisonment"
+        slug: "chapter-20-the-days-of-imprisonment"
+      - number: 21
+        title: "The Death Of The Curate"
+        slug: "chapter-21-the-death-of-the-curate"
+      - number: 22
+        title: "The Stillness"
+        slug: "chapter-22-the-stillness"
+      - number: 23
+        title: "The Work Of Fifteen Days"
+        slug: "chapter-23-the-work-of-fifteen-days"
+      - number: 24
+        title: "The Man On Putney Hill"
+        slug: "chapter-24-the-man-on-putney-hill"
+      - number: 25
+        title: "Dead London"
+        slug: "chapter-25-dead-london"
+      - number: 26
+        title: "Wreckage"
+        slug: "chapter-26-wreckage"
+      - number: 27
+        title: "The Epilogue"
+        slug: "chapter-27-the-epilogue"
