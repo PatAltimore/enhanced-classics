@@ -743,17 +743,17 @@
     } else { return ''; }
     if (!node || node.nodeType !== Node.TEXT_NODE) return '';
     var txt = node.textContent;
-    var sm = txt.slice(0, offset).match(/[a-zA-ZÀ-ž'-]+$/);
-    var em = txt.slice(offset).match(/^[a-zA-ZÀ-ž'-]+/);
+    var sm = txt.slice(0, offset).match(/[a-zA-ZÀ-ž'’-]+$/);
+    var em = txt.slice(offset).match(/^[a-zA-ZÀ-ž'’-]+/);
     var ws = sm ? offset - sm[0].length : offset;
     var we = em ? offset + em[0].length : offset;
-    return txt.slice(ws, we).replace(/^['-]+|['-]+$/g, '');
+    return txt.slice(ws, we).replace(/^['’-]+|['’-]+$/g, '');
   }
 
   function _getWord(x, y) {
     var sel = window.getSelection ? window.getSelection() : null;
     var s = sel ? sel.toString().trim() : '';
-    if (s && s.length < 40 && /^[\wÀ-ž' -]+$/.test(s)) return s.split(/\s+/)[0];
+    if (s && s.length < 40 && /^[\wÀ-ž'’ -]+$/.test(s)) return s.split(/\s+/)[0];
     return _wordAtPoint(x, y);
   }
 
@@ -785,33 +785,75 @@
       card.style.top  = top  + 'px';
     });
 
-    fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word.replace(/[^a-zA-Z'-]/g, '').toLowerCase()))
-      .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
-      .then(function (data) {
-        var body = document.getElementById('def-popup-body');
-        body.textContent = '';
-        function add(cls, text) {
-          var div = document.createElement('div');
-          div.className = cls;
-          div.textContent = text;
-          body.appendChild(div);
-        }
-        data.slice(0, 2).forEach(function (entry) {
-          (entry.meanings || []).slice(0, 3).forEach(function (m) {
-            add('def-pos', m.partOfSpeech);
-            (m.definitions || []).slice(0, 2).forEach(function (d) {
-              add('def-text', d.definition);
-              if (d.example) add('def-example', '“' + d.example + '”');
-            });
+    var body = document.getElementById('def-popup-body');
+    var key = word.replace(/[‘’]/g, "'").replace(/'s$/i, '').replace(/[^a-zA-Z'-]/g, '').toLowerCase();
+
+    function render(entries) {
+      body.textContent = '';
+      function add(cls, text) {
+        var div = document.createElement('div');
+        div.className = cls;
+        div.textContent = text;
+        body.appendChild(div);
+      }
+      entries.forEach(function (m) {
+        add('def-pos', m.pos);
+        m.defs.forEach(function (d) {
+          add('def-text', d.text);
+          if (d.example) add('def-example', '“' + d.example + '”');
+        });
+      });
+      return body.childNodes.length > 0;
+    }
+
+    function plain(html) {
+      return new DOMParser().parseFromString(html || '', 'text/html').body.textContent.trim();
+    }
+
+    function fromWiktionary(w) {
+      return fetch('https://en.wiktionary.org/api/rest_v1/page/definition/' + encodeURIComponent(w))
+        .then(function (r) { if (!r.ok) throw new Error('nf'); return r.json(); })
+        .then(function (data) {
+          return (data.en || []).slice(0, 3).map(function (m) {
+            return {
+              pos: m.partOfSpeech,
+              defs: (m.definitions || []).filter(function (d) { return plain(d.definition); }).slice(0, 2).map(function (d) {
+                var ex = d.parsedExamples && d.parsedExamples[0] ? plain(d.parsedExamples[0].example) : '';
+                return { text: plain(d.definition), example: ex };
+              })
+            };
           });
         });
-        if (!body.childNodes.length) {
-          body.innerHTML = '<p class="def-msg">No definitions found.</p>';
-        }
+    }
+
+    function fromDictionaryApi(w) {
+      return fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(w))
+        .then(function (r) { if (!r.ok) throw new Error('nf'); return r.json(); })
+        .then(function (data) {
+          var out = [];
+          data.slice(0, 2).forEach(function (entry) {
+            (entry.meanings || []).slice(0, 3).forEach(function (m) {
+              out.push({
+                pos: m.partOfSpeech,
+                defs: (m.definitions || []).slice(0, 2).map(function (d) {
+                  return { text: d.definition, example: d.example || '' };
+                })
+              });
+            });
+          });
+          return out;
+        });
+    }
+
+    if (!key) { body.innerHTML = '<p class="def-msg">No definition found. Try Merriam-Webster below.</p>'; return; }
+
+    fromWiktionary(key)
+      .catch(function () { return fromDictionaryApi(key); })
+      .then(function (entries) {
+        if (!render(entries)) throw new Error('nf');
       })
       .catch(function () {
-        document.getElementById('def-popup-body').innerHTML =
-          '<p class="def-msg">No definition found. Try Merriam-Webster below.</p>';
+        body.innerHTML = '<p class="def-msg">No definition found. Try Merriam-Webster below.</p>';
       });
   }
 
