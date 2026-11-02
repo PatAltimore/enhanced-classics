@@ -43,6 +43,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nabisco_logo.svg/330px-Nabisco_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Logo (Public domain)"
     content: "The National Biscuit Company, now known as Nabisco, was a hallmark of industrialized America in the early 20th century. When Nick hears its whistles break the oppressive summer silence, Fitzgerald subtly ties the modern corporate world to the novel’s themes of mechanization and alienation. Nabisco was a pioneer in mass production, revolutionizing food distribution with products like the Uneeda Biscuit. Its factories were symbols of progress but also of the impersonal forces shaping society. In the context of Gatsby, the whistle serves as a reminder of the relentless march of time and industry, contrasting with Gatsby’s romantic fixation on the past. The juxtaposition underscores the futility of Gatsby’s dream in a world increasingly dominated by modernity and pragmatism."
+  - id: "stiff-straw-hats"
+    trigger: "stiff straw hats"
+    title: "The Hats Worn Until September"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Boater"
+    image_url: ""
+    image_caption: ""
+    content: "At the Buchanans’ door the butler takes the visitors’ stiff straw hats. The boater, a flat-topped, stiff straw hat with a ribbon band, was the standard summer headgear for men in the early twentieth century, and there was a strong custom of wearing one only between mid-May and mid-September. The butler’s polite gesture shows the formal order of the house, even in terrible heat, and Nick’s remark that every extra gesture is an affront to the common store of life underlines how oppressive the day is."
   - id: "gin-rickeys"
     trigger: "gin rickeys"
     title: "The Cocktail That Defined Gatsby’s Era"
@@ -53,10 +60,38 @@ enhancements:
   - id: "her-voice-is-full-of-money"
     trigger: "Her voice is full of money"
     title: "What Gatsby Really Means About Daisy’s Voice"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Gatsby’s observation that Daisy’s voice is 'full of money' is one of the novel’s most incisive lines. It encapsulates her allure and the social world she represents—wealth, privilege, and the effortless charm of the upper class. Daisy’s voice, described earlier as 'thrilling,' is not just beautiful but imbued with the promise of a life Gatsby has always yearned for. The phrase also underscores Gatsby’s fixation on material success as a means to win Daisy’s love, revealing the transactional nature of his dream. Fitzgerald uses this moment to critique the American Dream itself, suggesting that its pursuit often conflates love and wealth, leading to disillusionment. Daisy’s voice becomes a siren call, drawing Gatsby toward a dream that ultimately proves unattainable."
+  - id: "small-tight-hats-of-metallic-cloth"
+    trigger: "small tight hats of metallic cloth"
+    title: "The Fashionable Hats of the Mid-Twenties"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cloche_hat"
+    image_url: ""
+    image_caption: ""
+    content: "Daisy and Jordan come out of the house wearing small tight hats of metallic cloth, with light capes over their arms. The cloche, a close-fitting bell-shaped hat pulled down over the forehead, was the defining hat of the 1920s, and fashionable women wore it with the short bobbed hair of the period. Metallic fabric made it look glamorous and modern. The two women dress as the height of fashion, and their gleaming hats match the heat and the glitter of the day, a sign of the careless beauty that Nick both admires and distrusts."
+  - id: "circus-wagon"
+    trigger: "circus wagon"
+    title: "Tom’s Sneer at Gatsby’s Splendid Car"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rolls-Royce_Silver_Ghost"
+    image_url: ""
+    image_caption: ""
+    content: "Tom offers to take Daisy in this circus wagon, his mocking name for Gatsby’s huge cream-coloured car. In the book the car is a hybrid of luxury and show, long, rich and covered with hatboxes and supper-boxes and tool-boxes, and the Rolls-Royce Silver Ghost of the period is the sort of car that readers imagine. A circus wagon was a gaudy, painted vehicle drawn through towns to advertise a show. Tom’s insult says that Gatsby’s taste is flashy and vulgar, in contrast to old money, which keeps its wealth quieter."
+  - id: "the-coup"
+    trigger: "the coupé"
+    title: "The Blue Car That Tom and Daisy Swap"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Coup%C3%A9"
+    image_url: ""
+    image_caption: ""
+    content: "Daisy proposes that Gatsby, Nick and Jordan go in the big car, and that she and Tom follow in the coupé. A coupé is a closed two-door car for two passengers, often with a small rear seat, and it was a popular model in the early 1920s. Tom’s blue coupé is a modest, easygoing car in comparison with Gatsby’s showy one, and the swap of cars sets up the fatal accident. The change of vehicles puts Tom, who owns the road in his own mind, behind Gatsby’s car, and puts Daisy beside Gatsby in the car that kills."
+  - id: "pink-suit"
+    trigger: "pink suit"
+    title: "Why Tom Sneers at a Man in Pink"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Suit_(clothing)"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby says he went to Oxford, Tom answers: Like hell he is! He wears a pink suit. In the 1920s men’s business and daytime suits came in dark, restrained colours, and a pink one would be taken as showy, a sign of new money and bad taste. Tom uses the colour as proof that Gatsby cannot be genuine. Gatsby’s taste for dazzle is plain to see, and Tom’s snobbery is crude, but he does detect that something about Gatsby is a performance."
   - id: "oxford-new-mexico"
     trigger: "Oxford, New Mexico"
     title: "Tom’s Cutting Insult and Gatsby’s Past"
@@ -67,7 +102,7 @@ enhancements:
   - id: "doctor-t-j-eckleburg"
     trigger: "Doctor T. J. Eckleburg"
     title: "The Eyes That Watch Over Gatsby’s World"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbolism"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "The faded eyes of Doctor T. J. Eckleburg loom over the ash heaps, serving as one of the novel’s most potent symbols. Often interpreted as representing God or moral judgment, the billboard’s dispassionate gaze contrasts with the chaos and moral decay of the characters’ lives. Positioned near Wilson’s garage, the eyes witness Myrtle’s tragic death and the unraveling of Gatsby’s dream. Fitzgerald uses this symbol to critique the emptiness of modern spirituality and the failure of traditional values to guide society. The eyes are not divine but commercial, a relic of advertising that underscores the commodification of everything—even morality—in Gatsby’s world. Their presence in this chapter deepens the sense of foreboding and the inevitability of tragedy."
@@ -78,6 +113,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Wilson’s garage, marked by its modest sign, becomes a pivotal location in the novel’s climax. It is here that Myrtle’s death occurs, setting off a chain of events that lead to Gatsby’s downfall. The garage, situated in the desolate ash heaps, symbolizes the stark divide between the wealthy characters and the working-class Wilsons. George Wilson’s despair and sickness mirror the moral and emotional decay permeating the story. The sign itself, a humble marker of Wilson’s struggling business, contrasts sharply with the opulence of Gatsby’s mansion and the Buchanans’ estate. Fitzgerald uses this setting to highlight the consequences of the characters’ reckless actions, showing how their privilege insulates them from accountability while devastating those on the margins."
+  - id: "fiftieth-street"
+    trigger: "Fiftieth Street"
+    title: "The Cool Movie Houses on Broadway"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Movie_palace"
+    image_url: ""
+    image_caption: ""
+    content: "As they speed toward the city, Jordan remarks that those big movies around Fiftieth Street are cool. In the 1920s the area of Broadway near Fiftieth Street had great movie palaces, such as the Capitol, the Strand and the Rivoli, built as enormous, decorated halls that seated thousands. They were among the first public buildings in America to advertise air conditioning, and on a hot afternoon people flocked to them. Jordan’s remark gives a detail of New York’s summer, in the middle of a drive that Nick describes as sensuous and overripe."
+  - id: "central-park"
+    trigger: "Central Park"
+    title: "The Park Beside Tom’s Chosen Hotel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Central_Park"
+    image_url: ""
+    image_caption: ""
+    content: "Tom tells Gatsby’s car to follow him to the south side of Central Park, in front of the Plaza. Central Park, designed by Frederick Law Olmsted and Calvert Vaux and opened in the 1850s and 1860s, covers more than eight hundred acres in the middle of Manhattan, and it was a place where all classes of New Yorkers could walk, ride and drive. By the 1920s its south end, along Central Park South, was lined with grand hotels. The drive to the park starts the journey that ends in the hot hotel suite and in the climax of the story."
+  - id: "the-plaza-hotel"
+    trigger: "the Plaza Hotel"
+    title: "The Grand Hotel Where the Argument Exploded"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Plaza_Hotel"
+    image_url: ""
+    image_caption: ""
+    content: "Tom, Daisy, Gatsby, Nick and Jordan engage the parlour of a suite in the Plaza Hotel to escape the heat, and the confrontation follows. The Plaza, opened in 1907 at the corner of Fifth Avenue and Central Park South, was one of the most luxurious hotels in New York, with a famous French-chateau design and a great ballroom. It was a social centre of the city’s wealthy, which makes it the natural place for a clash of classes. The heat, the mint julep and the wedding in the ballroom below make the room feel like a pressure cooker."
+  - id: "mint-julep"
+    trigger: "mint julep"
+    title: "The Southern Drink Daisy Craves"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mint_julep"
+    image_url: ""
+    image_caption: ""
+    content: "The idea of renting a hotel room begins with Daisy’s suggestion that they take cold baths, and then becomes a place to have a mint julep. The mint julep, a drink of bourbon, sugar, mint and crushed ice, is a classic of the American South and is closely tied to the Kentucky Derby. Daisy comes from Louisville, so it is her natural comfort drink, and Tom sends for ice for it. The julep is a symbol of ease and old-fashioned gentility, which sits oddly in a room where the heat is about to bring a bitter quarrel."
   - id: "mendelssohns-wedding-march"
     trigger: "Mendelssohn’s Wedding March"
     title: "Why a Wedding Song Plays During Chaos"
@@ -85,6 +148,20 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mendelssohn_wedding_march_autograph_arrangement_for_piano.jpg/330px-Mendelssohn_wedding_march_autograph_arrangement_for_piano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Felix Mendelssohn wedding march - autograph arrangement for piano (Public domain)"
     content: "As the tension between Gatsby and Tom escalates, the strains of Mendelssohn’s Wedding March drift up from the ballroom below. The juxtaposition of this celebratory music with the brewing conflict is deeply ironic, underscoring the dissonance between appearances and reality. The march, a staple of Western weddings, symbolizes union and joy, yet here it serves as a bitter counterpoint to the unraveling relationships and shattered dreams in the room above. Fitzgerald uses this moment to highlight the performative nature of social rituals, suggesting that beneath the surface of wealth and tradition lies a world of betrayal and disillusionment. The music becomes a haunting reminder of the ideals Gatsby chases but can never truly attain."
+  - id: "biloxi"
+    trigger: "Biloxi"
+    title: "The Fainting Man With a Southern Name"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Biloxi,_Mississippi"
+    image_url: ""
+    image_caption: ""
+    content: "As the guests recall Daisy’s wedding in Louisville, Tom says that a man named Biloxi fainted, a man called Blocks Biloxi who made boxes and was from Biloxi, Tennessee. Biloxi is a city on the Gulf coast of Mississippi, so Tom’s Biloxi, Tennessee is a comic muddle, and the confusion matches the dazed talk in the heat. The odd story fills the hot suite with idle chatter before the quarrel begins, and Nick’s remark that he knew a cousin of Biloxi is part of the comedy. The stories give a last moment of lightness."
+  - id: "aluminium-putter"
+    trigger: "aluminium putter"
+    title: "Nick’s Golf Club From a Southern Friend"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Putter"
+    image_url: ""
+    image_caption: ""
+    content: "Nick says that a man named Bill Biloxi from Memphis gave him an aluminium putter that he uses today. A putter is the golf club used on the green to roll the ball into the hole, and aluminium putters were fashionable in the early twentieth century, since the metal was light and the clubs looked modern. Golf is a rich man’s sport in this book, and it ties to Jordan Baker, who is a professional. The remark is a joke that keeps up the stream of silly conversation, in a hot room full of unspoken tension."
   - id: "the-armistice"
     trigger: "the armistice"
     title: "How World War I Shaped Gatsby’s Oxford Dream"
@@ -95,7 +172,7 @@ enhancements:
   - id: "she-never-loved-you"
     trigger: "She never loved you"
     title: "The Moment Gatsby’s Dream Collapses"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "When Gatsby declares that Daisy never loved Tom, he stakes everything on the belief that his idealized vision of their love is real. This confrontation is the emotional climax of the novel, exposing the fragility of Gatsby’s dream and Daisy’s inability to live up to it. Gatsby’s insistence reveals his desperation and his refusal to accept reality, while Daisy’s hesitation and eventual admission that she loved Tom shatter his illusions. Fitzgerald uses this moment to critique the romanticization of the past and the dangers of obsessive idealism. Gatsby’s dream, rooted in a perfect version of Daisy, cannot withstand the complexities of her real emotions and choices, leading to his ultimate downfall."
@@ -106,6 +183,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Tom’s reference to Kapiolani evokes a moment from his and Daisy’s past, tying their relationship to a specific, idyllic memory in Hawaii. Kapiolani Park, located in Honolulu, is known for its lush landscapes and romantic atmosphere, making it a fitting backdrop for Tom’s attempt to rekindle Daisy’s loyalty. The mention of this place serves as a stark contrast to the heated confrontation in the Plaza Hotel, highlighting the distance between their past happiness and present turmoil. Fitzgerald uses this memory to explore the theme of nostalgia and the characters’ attempts to reclaim lost moments. For Daisy, the memory is bittersweet, while for Tom, it becomes a weapon to assert his dominance over Gatsby and reaffirm his connection to Daisy."
+  - id: "punch-bowl"
+    trigger: "Punch Bowl"
+    title: "The Honolulu Crater in Tom’s Memory"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Punchbowl_Crater"
+    image_url: ""
+    image_caption: ""
+    content: "Tom asks Daisy whether she never loved him, not that day he carried her down from the Punch Bowl to keep her shoes dry. The Punch Bowl is Punchbowl Crater, an extinct volcanic crater above Honolulu, now the site of the National Memorial Cemetery of the Pacific. Along with Kapiolani, a Honolulu park, it points to the Buchanans’ honeymoon in the South Seas. Tom’s memory of carrying his bride is a sign that the marriage has real history, and it is his strongest weapon against Gatsby, because Gatsby has only the past of a single summer."
   - id: "walter-chase"
     trigger: "Walter Chase"
     title: "The Man Who Knew Gatsby’s Secrets"
@@ -113,10 +197,31 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Walter Chase, mentioned briefly by Tom, represents the shadowy world of Gatsby’s business dealings. Chase was involved in Gatsby’s bootlegging operations but ended up in jail, a casualty of the illegal enterprise. Tom uses Chase’s story to discredit Gatsby, painting him as a criminal and undermining his claim to legitimacy. This revelation deepens the novel’s critique of the American Dream, showing how Gatsby’s pursuit of wealth and status leads him into morally dubious territory. Fitzgerald uses Walter Chase as a symbol of the collateral damage caused by Gatsby’s ambition, highlighting the ethical compromises and human costs of his relentless drive for success."
+  - id: "new-decade"
+    trigger: "new decade"
+    title: "Nick’s Thirtieth Birthday on the Road to Death"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Roaring_Twenties"
+    image_url: ""
+    image_caption: ""
+    content: "As they drive back toward Long Island, Nick remembers it is his birthday, that he is thirty, and that before him stretches the portentous, menacing road of a new decade. The scene is set in the summer of 1922, deep in the Roaring Twenties, a decade of prosperity, new technology and a loosening of manners that Fitzgerald helped name the Jazz Age. Nick’s sense of dread at turning thirty links his own life to the larger mood. He has reached the age where youth is over, and the wild party of the age is also about to turn tragic."
+  - id: "young-greek"
+    trigger: "young Greek"
+    title: "The Witness From the Coffee Joint"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Greek_Americans"
+    image_url: ""
+    image_caption: ""
+    content: "Michaelis, the young Greek who runs the coffee joint beside the ash-heaps, is the principal witness at the inquest. From the 1890s to the 1920s several hundred thousand Greeks emigrated to the United States, and many ran restaurants, coffee shops, candy stores and small businesses in cities. Michaelis is an honest outsider, one of the few people in the book who shows real compassion for George Wilson. Fitzgerald uses him to tell what happened in the garage after Myrtle’s death, and his calm account is a contrast with the carelessness of the rich."
+  - id: "inquest"
+    trigger: "inquest"
+    title: "The Inquiry Into Myrtle’s Death"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Inquest"
+    image_url: ""
+    image_caption: ""
+    content: "Michaelis is the principal witness at the inquest into Myrtle Wilson’s death. An inquest is a formal inquiry held by a coroner to determine how a person came to die, and in the United States it was a standard part of the legal process after any suspicious death. Fitzgerald does not describe it at length. Myrtle’s killer is not identified, as nobody knows whose car it was, and the inquest hints at the broader failure of justice, in which the rich leave the scene and the poor mourn."
   - id: "a-yellow-car"
     trigger: "a yellow car"
     title: "The Color That Seals Gatsby’s Fate"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbolism"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "The yellow car, Gatsby’s prized possession, becomes a symbol of his wealth and status but also of his downfall. Its bright color, associated with gold and opulence, reflects Gatsby’s aspirations and his attempt to dazzle Daisy. However, the car’s role in Myrtle’s death transforms it into a harbinger of tragedy. The yellow car is mistaken for Tom’s, adding layers of misunderstanding and misdirection that lead to Gatsby’s demise. Fitzgerald uses the car to explore themes of materialism and the destructive consequences of reckless ambition. Its presence in this chapter underscores the fragility of Gatsby’s dream and the inevitability of his tragic end."
@@ -127,6 +232,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The moonlight that bathes Gatsby as he waits outside Daisy’s house adds a poignant, almost ethereal quality to the scene. Moonlight, often associated with romance and mystery, reflects Gatsby’s unwavering devotion and his dreamlike perception of Daisy. Yet it also casts a cold, isolating light, emphasizing his solitude and the futility of his vigil. Fitzgerald uses moonlight as a recurring motif in the novel, symbolizing both hope and illusion. In this moment, it underscores the tragic irony of Gatsby’s situation—he is watching over a dream that has already slipped away, clinging to a vision of love that Daisy cannot fulfill."
+  - id: "daisy-driving"
+    trigger: "Daisy driving"
+    title: "The Hit-and-Run That Gatsby Takes on Himself"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hit_and_run"
+    image_url: ""
+    image_caption: ""
+    content: "When Nick asks Gatsby if Daisy was driving, Gatsby says yes, but of course I’ll say I was. A hit-and-run is an accident in which a driver leaves the scene without stopping or giving help, and as cars became common in the 1920s, deaths on the roads rose sharply and the law struggled to keep up. Daisy’s act is a moment of panic, and Gatsby’s decision to cover for her is a mark of his devotion. It also shows how little the rich were held to account for what they did, since the blame will fall on someone else."
   - id: "cold-fried-chicken"
     trigger: "cold fried chicken"
     title: "The Meal That Reveals Daisy and Tom’s Bond"
@@ -137,7 +249,7 @@ enhancements:
   - id: "scrutiny-of-the-house"
     trigger: "scrutiny of the house"
     title: "Why Gatsby Watches Daisy’s Home All Night"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Gatsby’s scrutiny of Daisy’s house symbolizes his obsessive devotion and his inability to let go of his dream. Standing vigil outside, he imagines himself as her protector, ready to intervene if Tom harms her. This act reflects Gatsby’s idealism and his belief in the transformative power of love, but it also underscores his isolation and the futility of his efforts. Fitzgerald uses this moment to explore themes of longing and disillusionment, showing how Gatsby’s fixation blinds him to reality. His vigil becomes a poignant image of unrequited love and the tragic pursuit of an unattainable ideal, leaving him 'watching over nothing' as the chapter closes."
@@ -151,7 +263,7 @@ enhancements:
   - id: "watching-over-nothing"
     trigger: "watching over nothing"
     title: "The Heartbreaking Truth Behind Gatsby’s Vigil"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Nick’s observation that Gatsby is 'watching over nothing' captures the profound emptiness of Gatsby’s dream. Gatsby’s vigil outside Daisy’s house is driven by his belief that he can protect her and reclaim their love, but Nick’s remark reveals the futility of his actions. Daisy has already chosen Tom, and Gatsby’s idealized vision of her is irreconcilable with reality. Fitzgerald uses this moment to underscore the novel’s central themes of disillusionment and the impossibility of recapturing the past. Gatsby’s watch becomes a poignant image of unrequited love and the tragic pursuit of an unattainable ideal, leaving him isolated and clinging to a dream that has already slipped away."
@@ -246,7 +358,7 @@ noon!”
 What he really said was: “Yes … Yes … I’ll see.”
 
 He set down the receiver and came toward us, glistening slightly, to
-take our stiff straw hats.
+take our **stiff straw hats**.
 
 “Madame expects you in the salon!” he cried, needlessly indicating the
 direction. In this heat every extra gesture was an affront to the
@@ -475,7 +587,7 @@ it, the cymbals’ song of it … High in a white palace the king’s
 daughter, the golden girl …
 
 Tom came out of the house wrapping a quart bottle in a towel, followed
-by Daisy and Jordan wearing small tight hats of metallic cloth and
+by Daisy and Jordan wearing **small tight hats of metallic cloth** and
 carrying light capes over their arms.
 
 “Shall we all go in my car?” suggested Gatsby. He felt the hot, green
@@ -501,7 +613,7 @@ and vaguely recognizable, as if I had only heard it described in
 words, passed over Gatsby’s face.
 
 “Come on, Daisy,” said Tom, pressing her with his hand toward Gatsby’s
-car. “I’ll take you in this circus wagon.”
+car. “I’ll take you in this **circus wagon**.”
 
 He opened the door, but she moved out from the circle of his arm.
 
@@ -540,8 +652,8 @@ investigation of his past.”
 
 “And you found he was an Oxford man,” said Jordan helpfully.
 
-“An Oxford man!” He was incredulous. “Like hell he is! He wears a pink
-suit.”
+“An Oxford man!” He was incredulous. “Like hell he is! He wears a **pink
+suit**.”
 
 “Nevertheless he’s an Oxford man.”
 
@@ -663,7 +775,7 @@ Wilson behind, and we sped along toward Astoria at fifty miles an
 hour, until, among the spidery girders of the elevated, we came in
 sight of the easygoing blue coupé.
 
-“Those big movies around Fiftieth Street are cool,” suggested
+“Those big movies around **Fiftieth Street** are cool,” suggested
 Jordan. “I love New York on summer afternoons when everyone’s away.
 There’s something very sensuous about it—overripe, as if all sorts of
 funny fruits were going to fall into your hands.”
@@ -682,7 +794,7 @@ corner. I’ll be the man smoking two cigarettes.”
 
 “We can’t argue about it here,” Tom said impatiently, as a truck gave
 out a cursing whistle behind us. “You follow me to the south side of
-Central Park, in front of the Plaza.”
+**Central Park**, in front of the Plaza.”
 
 Several times he turned his head and looked back for their car, and if
 the traffic delayed them he slowed up until they came into sight. I
@@ -698,7 +810,7 @@ the course of it, my underwear kept climbing like a damp snake around
 my legs and intermittent beads of sweat raced cool across my back.
 The notion originated with Daisy’s suggestion that we hire five
 bathrooms and take cold baths, and then assumed more tangible form as
-“a place to have a mint julep.” Each of us said over and over that it
+“a place to have a **mint julep**.” Each of us said over and over that it
 was a “crazy idea”—we all talked at once to a baffled clerk and
 thought, or pretended to think, that we were being very funny …
 
@@ -753,7 +865,7 @@ Wedding March** from the ballroom below.
 “Still—I was married in the middle of June,” Daisy remembered.
 “Louisville in June! Somebody fainted. Who was it fainted, Tom?”
 
-“Biloxi,” he answered shortly.
+“**Biloxi**,” he answered shortly.
 
 “A man named Biloxi. ‘Blocks’ Biloxi, and he made boxes—that’s a
 fact—and he was from Biloxi, Tennessee.”
@@ -767,7 +879,7 @@ wasn’t any connection.”
 “I used to know a Bill Biloxi from Memphis,” I remarked.
 
 “That was his cousin. I knew his whole family history before he
-left. He gave me an aluminium putter that I use today.”
+left. He gave me an **aluminium putter** that I use today.”
 
 The music had died down as the ceremony began and now a long cheer
 floated in at the window, followed by intermittent cries of
@@ -958,7 +1070,7 @@ now. It was too late.
 From the ballroom beneath, muffled and suffocating chords were
 drifting up on hot waves of air.
 
-“Not that day I carried you down from the Punch Bowl to keep your
+“Not that day I carried you down from the **Punch Bowl** to keep your
 shoes dry?” There was a husky tenderness in his tone … “Daisy?”
 
 “Please don’t.” Her voice was cold, but the rancour was gone from it.
@@ -1096,7 +1208,7 @@ I didn’t answer.
 “No … I just remembered that today’s my birthday.”
 
 I was thirty. Before me stretched the portentous, menacing road of a
-new decade.
+**new decade**.
 
 It was seven o’clock when we got into the coupé with him and started
 for Long Island. Tom talked incessantly, exulting and laughing, but
@@ -1115,8 +1227,8 @@ So we drove on toward death through the cooling twilight.
 
 ------------------------------------------------------------------------
 
-The young Greek, **Michaelis**, who ran the coffee joint beside the
-ash-heaps was the principal witness at the inquest. He had slept
+The **young Greek**, **Michaelis**, who ran the coffee joint beside the
+ash-heaps was the principal witness at the **inquest**. He had slept
 through the heat until after five, when he strolled over to the
 garage, and found George Wilson sick in his office—really sick, pale
 as his own pale hair and shaking all over. Michaelis advised him to go

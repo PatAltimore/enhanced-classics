@@ -10,26 +10,61 @@ license: "public-domain"
 
 summary:
   - point: "The chapter introduces the desolate Valley of Ashes, a symbolic wasteland between West Egg and New York City."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     link_label: "Themes in The Great Gatsby"
   - point: "Doctor T. J. Eckleburg's billboard, with its giant, brooding eyes, looms over the Valley of Ashes as a symbol of judgment and moral decay."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Symbols"
-    link_label: "Symbols in The Great Gatsby"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
+    link_label: "Major themes of The Great Gatsby"
   - point: "Tom Buchanan introduces Nick to his mistress, Myrtle Wilson, and they travel to New York City together."
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Plot_summary"
     link_label: "Plot summary of The Great Gatsby"
   - point: "Myrtle's vitality contrasts sharply with her husband George Wilson's spiritless demeanor, highlighting their troubled marriage."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Characters"
-    link_label: "Characters in The Great Gatsby"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
+    link_label: "Major characters in The Great Gatsby"
   - point: "The chapter ends with Tom violently breaking Myrtle's nose during an argument, showcasing his brutish nature."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Reception_and_legacy"
-    link_label: "Reception and legacy of The Great Gatsby"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Critical_reception"
+    link_label: "Critical reception of The Great Gatsby"
 
 enhancements:
+  - id: "valley-of-ashes"
+    trigger: "valley of ashes"
+    title: "The Real Dump Behind Fitzgerald’s Wasteland"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flushing_Meadows%E2%80%93Corona_Park"
+    image_url: ""
+    image_caption: ""
+    content: "The valley of ashes was based on a real place in Queens, the Corona ash dump, where coal ash from the furnaces of Brooklyn and Manhattan was carted by railroad and heaped into grey hills. Fitzgerald would have passed it on the train between Long Island and Manhattan. The land was later cleared by the city planner Robert Moses and became Flushing Meadows–Corona Park, the site of two World’s Fairs. In the novel the dump stands between the glamour of the Eggs and the city, the dirty waste that the rich leave behind for the poor to live in."
+  - id: "oculist"
+    trigger: "oculist"
+    title: "The Old-Fashioned Eye Doctor on the Billboard"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ophthalmology"
+    image_url: ""
+    image_caption: ""
+    content: "Nick guesses that some wild wag of an oculist put the huge eyes of Doctor T. J. Eckleburg on the billboard to fatten his practice. Oculist is an older word for a doctor who treats the eyes, a profession now called ophthalmology or optometry, and it already sounded slightly old-fashioned in the 1920s. Advertising signs like this, with enormous painted faces and spectacles, were common beside roads and railways. The joke is that the oculist has gone blind, or has simply disappeared, and his unblinking eyes remain over the ashes, so that the sign seems almost to watch over the valley."
+  - id: "queens"
+    trigger: "Queens"
+    title: "The Borough Between Long Island and the City"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Queens"
+    image_url: ""
+    image_caption: ""
+    content: "The oculist put his eyes up to attract trade in the borough of Queens, the largest borough of New York City by area and the western end of Long Island. In the 1920s Queens was filling up with new housing and factories, and it was linked to Manhattan by the Queensboro Bridge and by the railroad. Travellers from the Eggs crossed it on the way into the city, and it was the least glamorous part of the journey. By placing the ash dump and the Wilsons’ garage here, Fitzgerald puts the poor in the dull space between the rich suburbs and the bright city."
+  - id: "small-foul-river"
+    trigger: "small foul river"
+    title: "The Polluted Creek Beside the Ash Heaps"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flushing_Creek"
+    image_url: ""
+    image_caption: ""
+    content: "The valley of ashes is bounded on one side by a small foul river, which is based on Flushing Creek in Queens. In the early twentieth century the creek was lined with ash dumps, gas works and factories, and it became badly polluted. The drawbridge across it carried the railroad that Fitzgerald and his characters rode. Calling it a small foul river is bitter understatement from Nick, who describes the setting in a cool, observing voice, and the stagnant water makes a fitting border for a wasteland where nothing grows but ashes."
+  - id: "drawbridge"
+    trigger: "drawbridge"
+    title: "The Bridge That Makes Travellers Stare at the Ashes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Drawbridge"
+    image_url: ""
+    image_caption: ""
+    content: "When the drawbridge is up to let barges through, the passengers on waiting trains can stare at the dismal scene for as long as half an hour. A drawbridge is a bridge that lifts or swings aside so that ships can pass, and it holds up road and rail traffic while it is open. Here the delay forces the well-off travellers to look at the valley of ashes. It is also how Nick first meets Myrtle, since the train stops long enough for Tom to lean out and pull Nick off. In this chapter the bridge works as a hinge between two worlds."
   - id: "george-b-wilson"
     trigger: "George B. Wilson"
     title: "The Garage Owner Trapped in the Ashes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Characters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     image_url: ""
     image_caption: ""
     content: "When Nick and Tom enter the garage, George B. Wilson emerges as a pale, spiritless man, wiping his hands on a piece of waste. His garage is a bleak, unprosperous space, mirroring the desolation of the Valley of Ashes. Wilson’s character is a tragic figure, embodying the crushing effects of poverty and unfulfilled dreams. Historically, the 1920s saw the rise of the automobile industry, but small garage owners like Wilson often struggled to compete with larger enterprises. Wilson’s garage, with its dust-covered wreck of a Ford, symbolizes the broken promises of the American Dream. Fitzgerald uses Wilson’s plight to critique the social inequalities of the era, contrasting his lifeless existence with the vitality of characters like Myrtle and Tom. Through Wilson, the novel underscores the human cost of ambition and the moral decay lurking beneath the surface of prosperity."
@@ -40,13 +75,48 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/F%C3%B6rmiddagskl%C3%A4nning%2C_drottning_Victoria_-_Livrustkammaren_-_15799_01.jpg/330px-F%C3%B6rmiddagskl%C3%A4nning%2C_drottning_Victoria_-_Livrustkammaren_-_15799_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Förmiddagsklänning, drottning Victoria - Livrustkammaren - 15799 01 (Public domain)"
     content: "Myrtle Wilson’s spotted dress of dark blue crêpe-de-chine is described as sensuous, reflecting her vitality and desire to rise above her station. Crêpe-de-chine, a luxurious silk fabric, was popular in the 1920s for its elegance and fluidity. Its use here is ironic—Myrtle’s dress is a symbol of her aspirations to escape the drudgery of her life in the Valley of Ashes and enter the glamorous world of wealth and privilege. However, her choice of fabric also highlights the tension between her ambitions and her reality; she is striving for sophistication but remains trapped in a world of pretension and illusion. Fitzgerald uses this detail to emphasize Myrtle’s yearning for transformation and the tragic futility of her attempts to achieve it."
+  - id: "fourth-of-july"
+    trigger: "Fourth of July"
+    title: "The Firecrackers Beside the Railroad Track"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Independence_Day_(United_States)"
+    image_url: ""
+    image_caption: ""
+    content: "As Nick, Tom and Myrtle’s party leave the garage, it is a few days before the Fourth of July, and a grey, scrawny Italian child is setting torpedoes in a row along the railroad track. Railroad torpedoes were small explosive charges clamped to rails to warn drivers, and boys also used them as noisy fireworks on Independence Day, the great summer holiday of the United States. The child is a small, vivid sign of the poor immigrants of the Queens ash heaps. The holiday also sets the story in the heat of high summer."
   - id: "town-tattle"
     trigger: "Town Tattle"
     title: "The Gossip Magazine That Defined the Jazz Age"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Town_Tattle"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gossip_magazine"
     image_url: ""
     image_caption: ""
     content: "When Myrtle buys a copy of Town Tattle at the newsstand, it’s more than a casual purchase—it’s a window into her fascination with the glamorous, scandalous lives of the wealthy. Town Tattle was a real-life gossip magazine that thrived during the Jazz Age, offering readers salacious stories about celebrities and high society. Its popularity reflected the era’s obsession with fame, wealth, and moral decadence. For Myrtle, the magazine represents her longing to be part of the world it depicts, even as she remains an outsider looking in. Fitzgerald’s inclusion of Town Tattle underscores the novel’s themes of illusion and aspiration, showing how characters like Myrtle are seduced by the glittering facade of the American Dream."
+  - id: "airedale"
+    trigger: "Airedale"
+    title: "The Terrier Tom Bought for His Mistress"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Airedale_Terrier"
+    image_url: ""
+    image_caption: ""
+    content: "A street vendor holds up a wriggling puppy, and when Tom says it is no police dog the man admits it is more of an Airedale, passing a hand over its brown washrag of a back. The Airedale Terrier, the largest terrier breed, was nicknamed the King of Terriers and was fashionable in the 1920s. The scruffy animal in the vendor’s hand is nothing like a proper one, but Myrtle thinks it cute and Tom pays, telling the man to go and buy ten more dogs with the money. The scene shows Myrtle’s taste for show and Tom’s careless way with money."
+  - id: "versailles"
+    trigger: "Versailles"
+    title: "A Tiny Flat Stuffed With Palace Furniture"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Palace_of_Versailles"
+    image_url: ""
+    image_caption: ""
+    content: "Tom’s apartment for Myrtle is crowded with oversized furniture, including tapestried scenes of Versailles. The Palace of Versailles, built for Louis XIV outside Paris, was the model of royal splendour, and its style was copied by rich Americans in the Gilded Age and the 1920s. Here the style is used for a small flat in Manhattan, bought cheaply for a mistress. The huge chairs make the rooms look even smaller, and the effect is comic and a little sad. Myrtle has imitation grandeur around her, just as Gatsby has a house copied from a French town hall."
+  - id: "simon-called-peter"
+    trigger: "Simon Called Peter"
+    title: "The Scandalous Bestseller on Myrtle’s Table"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Simon_Called_Peter"
+    image_url: ""
+    image_caption: ""
+    content: "In the Wilsons’ New York flat Nick notices a copy of Simon Called Peter lying among scandal magazines. The novel by Robert Keable, published in 1921, was a bestseller about a chaplain in the Great War who has a love affair, and it shocked many readers for treating sex and doubt about religion so frankly. A copy on Myrtle’s table tells us what she reads: sensational, up-to-date and a little forbidden. Together with Town Tattle and the moving-picture magazines, it fills the room with cheap glamour and shows the kind of life she dreams of."
+  - id: "broadway"
+    trigger: "Broadway"
+    title: "The Street That Meant Theatre and Gossip"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Broadway_theatre"
+    image_url: ""
+    image_caption: ""
+    content: "Among the magazines on Myrtle’s table are some of the small scandal magazines of Broadway. Broadway, the long avenue through Manhattan whose theatre district centres on Times Square, stood for the American stage in the 1920s, and the papers around it fed on rumours about actors and showgirls. Gossip about Broadway celebrities fits Myrtle’s hunger for glamour and her wish to belong to a smart, fast world beyond the ash heaps. The scandal sheets also anticipate the many rumours about Gatsby that Nick will hear at his parties."
   - id: "cream-coloured-chiffon"
     trigger: "cream-coloured chiffon"
     title: "The Dress That Transforms Myrtle’s Persona"
@@ -82,6 +152,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Monte_Carlo_Port_Hercules_b.jpg/330px-Monte_Carlo_Port_Hercules_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Monte Carlo (CC0)"
     content: "Catherine recounts a disastrous trip to Monte Carlo, where she and a friend lost $1,200 in private gambling rooms. Monte Carlo, located in Monaco, has been synonymous with luxury and high-stakes gambling since the opening of its famous casino in the 19th century. During the Jazz Age, it became a playground for the wealthy, embodying the era’s excess and decadence. Catherine’s story highlights the allure and danger of such opulence, as well as the recklessness that defined the period. Fitzgerald uses this anecdote to underscore the characters’ fascination with wealth and their willingness to risk everything for a taste of glamour, reflecting the novel’s broader critique of the American Dream."
+  - id: "marseilles"
+    trigger: "Marseilles"
+    title: "The Port on a Gambler’s Round Trip"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Marseille"
+    image_url: ""
+    image_caption: ""
+    content: "Catherine, Myrtle’s sister, says she went to Monte Carlo and back by way of Marseilles, and that she and another girl lost over twelve hundred dollars in two days in the private gaming rooms. Marseille, the oldest city in France and its great Mediterranean port, was the gateway to the Riviera and its casinos. Catherine tells the story as if it were a glamorous adventure, but she also says how she hated that town. The little tale is part of the chatter of the party, where people use famous places as props to look worldly."
   - id: "celebrated-sandwiches"
     trigger: "celebrated sandwiches"
     title: "The Supper That Captures Gatsby’s Era"
@@ -92,17 +169,24 @@ enhancements:
   - id: "you-cant-live-forever"
     trigger: "You can’t live forever"
     title: "The Reckless Motto That Drives Myrtle’s Affair"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Myrtle recalls thinking \"You can’t live forever\" during her first meeting with Tom, a phrase that encapsulates her impulsive decision to pursue an affair. This sentiment reflects the hedonistic ethos of the Jazz Age, where characters often prioritize immediate gratification over long-term consequences. The phrase also underscores Myrtle’s desperation to escape her stagnant life in the Valley of Ashes, even if it means embracing moral compromise. Fitzgerald uses this moment to explore themes of recklessness and ambition, showing how Myrtle’s pursuit of happiness leads her into a destructive relationship. The phrase lingers as a haunting reminder of the fleeting nature of the characters’ dreams and the inevitable consequences of their choices."
   - id: "tom-buchanan-broke-her-nose"
     trigger: "Tom Buchanan broke her nose"
     title: "The Brutal Act That Defines Tom’s Character"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Characters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     image_url: ""
     image_caption: ""
     content: "In a shocking moment, Tom Buchanan breaks Myrtle’s nose during an argument, revealing his violent and domineering nature. This act of physical abuse underscores Tom’s sense of entitlement and his disregard for others, particularly women. Domestic violence was a taboo subject in the 1920s, but Fitzgerald confronts it head-on to expose the toxic dynamics of Tom and Myrtle’s relationship. The incident also serves as a stark contrast to the romanticized image of wealth and privilege that Tom represents, highlighting the moral corruption beneath the surface. Through this act, Fitzgerald critiques the power imbalances and moral failings of the upper class, adding depth to the novel’s exploration of human flaws and societal decay."
+  - id: "brook-n-bridge"
+    trigger: "Brook’n Bridge"
+    title: "The Photographs in Mr. McKee’s Portfolio"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+    image_url: ""
+    image_caption: ""
+    content: "At the end of the drunken evening Nick stands beside Mr. McKee’s bed while the photographer, sitting up in his underwear, shows him a great portfolio, reading out titles such as Beauty and the Beast, Loneliness, Old Grocery Horse and Brook’n Bridge. The Brooklyn Bridge, designed by John Roebling and opened in 1883, was then the longest suspension bridge in the world. The pompous artist’s titles and the odd spelling are slightly comic, and the scene is Nick’s hazy glimpse of how drink and false intimacy tangle together."
   - id: "pennsylvania-station"
     trigger: "Pennsylvania Station"
     title: "The Gateway to New York’s Jazz Age Dreams"
@@ -113,8 +197,8 @@ enhancements:
 ---
 About halfway between West Egg and New York the motor road hastily
 joins the railroad and runs beside it for a quarter of a mile, so as
-to shrink away from a certain desolate area of land. This is a valley
-of ashes—a fantastic farm where ashes grow like wheat into ridges and
+to shrink away from a certain desolate area of land. This is a **valley
+of ashes**—a fantastic farm where ashes grow like wheat into ridges and
 hills and grotesque gardens; where ashes take the forms of houses and
 chimneys and rising smoke and, finally, with a transcendent effort, of
 ash-grey men, who move dimly and already crumbling through the powdery
@@ -128,14 +212,14 @@ endlessly over it, you perceive, after a moment, the eyes of Doctor T.
 J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and
 gigantic—their retinas are one yard high. They look out of no face,
 but, instead, from a pair of enormous yellow spectacles which pass
-over a nonexistent nose. Evidently some wild wag of an oculist set
-them there to fatten his practice in the borough of Queens, and then
+over a nonexistent nose. Evidently some wild wag of an **oculist** set
+them there to fatten his practice in the borough of **Queens**, and then
 sank down himself into eternal blindness, or forgot them and moved
 away. But his eyes, dimmed a little by many paintless days, under sun
 and rain, brood on over the solemn dumping ground.
 
-The valley of ashes is bounded on one side by a small foul river, and,
-when the drawbridge is up to let barges through, the passengers on
+The valley of ashes is bounded on one side by a **small foul river**, and,
+when the **drawbridge** is up to let barges through, the passengers on
 waiting trains can stare at the dismal scene for as long as half an
 hour. There is always a halt there of at least a minute, and it was
 because of this that I first met Tom Buchanan’s mistress.
@@ -217,7 +301,7 @@ She nodded and moved away from him just as George Wilson emerged with
 two chairs from his office door.
 
 We waited for her down the road and out of sight. It was a few days
-before the Fourth of July, and a grey, scrawny Italian child was
+before the **Fourth of July**, and a grey, scrawny Italian child was
 setting torpedoes in a row along the railroad track.
 
 “Terrible place, isn’t it,” said Tom, exchanging a frown with Doctor
@@ -269,7 +353,7 @@ drew one up, wriggling, by the back of the neck.
 “That’s no police dog,” said Tom.
 
 “No, it’s not exactly a police dog,” said the man with disappointment
-in his voice. “It’s more of an Airedale.” He passed his hand over the
+in his voice. “It’s more of an **Airedale**.” He passed his hand over the
 brown washrag of a back. “Look at that coat. Some coat. That’s a dog
 that’ll never bother you with catching cold.”
 
@@ -318,13 +402,13 @@ The apartment was on the top floor—a small living-room, a small
 dining-room, a small bedroom, and a bath. The living-room was crowded
 to the doors with a set of tapestried furniture entirely too large for
 it, so that to move about was to stumble continually over scenes of
-ladies swinging in the gardens of Versailles. The only picture was an
+ladies swinging in the gardens of **Versailles**. The only picture was an
 over-enlarged photograph, apparently a hen sitting on a blurred rock.
 Looked at from a distance, however, the hen resolved itself into a
 bonnet, and the countenance of a stout old lady beamed down into the
 room. Several old copies of Town Tattle lay on the table together with
 a copy of **Simon Called Peter**, and some of the small scandal magazines
-of Broadway. Mrs. Wilson was first concerned with the dog. A reluctant
+of **Broadway**. Mrs. Wilson was first concerned with the dog. A reluctant
 elevator boy went for a box full of straw and some milk, to which he
 added on his own initiative a tin of large, hard dog biscuits—one of
 which decomposed apathetically in the saucer of milk all
@@ -512,7 +596,7 @@ from **Monte Carlo**.”
 “Stay long?”
 
 “No, we just went to Monte Carlo and back. We went by way of
-Marseilles. We had over twelve hundred dollars when we started, but we
+**Marseilles**. We had over twelve hundred dollars when we started, but we
 got gyped out of it all in two days in the private rooms. We had an
 awful time getting back, I can tell you. God, how I hated that town!”
 
@@ -648,8 +732,8 @@ touching it.”
 … I was standing beside his bed and he was sitting up between the
 sheets, clad in his underwear, with a great portfolio in his hands.
 
-“Beauty and the Beast … Loneliness … Old Grocery Horse … Brook’n
-Bridge …”
+“Beauty and the Beast … Loneliness … Old Grocery Horse … **Brook’n
+Bridge** …”
 
 Then I was lying half asleep in the cold lower level of the
 **Pennsylvania Station**, staring at the morning Tribune, and waiting for

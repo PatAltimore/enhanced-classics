@@ -96,6 +96,7 @@ main { padding: 2rem; }
 
 .prose { max-width: var(--max-prose); }
 .prose p { margin-bottom: 1.4em; }
+.prose hr.scene-break { border: 0; border-top: 1px solid var(--border, currentColor); opacity: .5; margin: 3.5em 0; }
 .prose blockquote.verse {
   margin: 1.4em 0 1.4em 1.5em;
   padding-left: 1.1em;

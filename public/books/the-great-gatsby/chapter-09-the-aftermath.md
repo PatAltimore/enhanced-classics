@@ -16,7 +16,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Funeral"
     link_label: "Funeral"
   - point: "Gatsby's father, Henry C. Gatz, arrives and expresses pride in his son's achievements and aspirations."
-    link: "https://en.wikipedia.org/wiki/Parental_pride"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     link_label: "Parental pride"
   - point: "Nick reflects on the disillusionment of the East and decides to return to the Midwest, seeing the story as one of Westerners unfit for Eastern life."
     link: "https://en.wikipedia.org/wiki/Midwestern_United_States"
@@ -25,7 +25,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/American_Dream"
     link_label: "American Dream"
   - point: "The novel closes with Nick's reflection on Gatsby's belief in the green light and humanity's struggle against the current of time."
-    link: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     link_label: "Symbolism in The Great Gatsby"
 
 enhancements:
@@ -39,10 +39,24 @@ enhancements:
   - id: "dan-cody"
     trigger: "Dan Cody"
     title: "The Man Who Inspired Gatsby's Dream"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Dan_Cody"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jay_Gatsby"
     image_url: ""
     image_caption: ""
     content: "Nick finds a photograph of Dan Cody in Gatsby's desk, a reminder of Gatsby's early aspirations. Cody, a wealthy copper magnate, represented the life of opulence Gatsby longed for. Gatsby worked for Cody as a young man, witnessing the allure and pitfalls of wealth firsthand. This relationship was pivotal in shaping Gatsby's vision of success, though he inherited none of Cody's fortune. Fitzgerald uses Cody as a symbol of the corrupting influence of wealth and the unattainable nature of Gatsby's dream. The photograph serves as a poignant reminder of Gatsby's relentless pursuit of an ideal that ultimately led to his downfall."
+  - id: "long-distance"
+    trigger: "Long Distance"
+    title: "The Telephone Operators Who Connected Chicago"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Long-distance_calling"
+    image_url: ""
+    image_caption: ""
+    content: "When the telephone rings that afternoon and Long Distance says Chicago is calling, Nick hopes it will be Daisy at last. In the early 1920s a call between cities passed through a chain of operators who set up each link by hand, and callers often waited minutes to be connected. A voice would announce that Long Distance was on the line. Fitzgerald uses the pattern of the calls in the last chapters, with Gatsby’s hopeful phone waiting in the previous chapter, and here it is Slagle, a stranger, who brings only news of trouble."
+  - id: "henry-c-gatz"
+    trigger: "Henry C. Gatz"
+    title: "The Father Who Came From Minnesota"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Minnesota"
+    image_url: ""
+    image_caption: ""
+    content: "On the third day a telegram signed Henry C. Gatz arrives from a town in Minnesota, saying only that the sender is leaving immediately and that the funeral should wait. Minnesota, in the upper Midwest, was a state of wheat farms, iron mines and Lutheran immigrant families, which fits what we learn of Gatsby’s origins as James Gatz. The old man’s grief and pride are simple and moving. He is the only real family Gatsby has, and his arrival contrasts with the empty glitter of the parties and the absence of the people who once drank at his house."
   - id: "james-j-hill"
     trigger: "James J. Hill"
     title: "The Railroad Tycoon Gatsby's Father Revered"
@@ -50,6 +64,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Picture_of_James_J._Hill_%28cropped%29_%28b%29.jpg/330px-Picture_of_James_J._Hill_%28cropped%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Cropped portrait of American railroad executive, James J. Hill (Public domain)"
     content: "Gatsby's father compares his son to James J. Hill, the 'Empire Builder' who transformed the American Northwest with his railroads. Hill was a self-made man, embodying the entrepreneurial spirit of the American Dream. This comparison reveals Mr. Gatz's pride in Gatsby's ambition and his belief in his son's potential to achieve greatness. However, Gatsby's path diverged sharply from Hill's; while Hill built tangible infrastructure, Gatsby's empire was rooted in illusion and criminal enterprise. Fitzgerald uses this reference to highlight the gap between genuine achievement and the hollow pursuit of wealth and status that defines Gatsby's life."
+  - id: "greenwich"
+    trigger: "Greenwich"
+    title: "Klipspringer’s Excuse From Connecticut"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Greenwich,_Connecticut"
+    image_url: ""
+    image_caption: ""
+    content: "When Nick telephones to ask Klipspringer to come to Gatsby’s funeral, Klipspringer says he is staying with some people up in Greenwich, and that there is a sort of picnic or something. Greenwich, a wealthy town on the Connecticut shore of Long Island Sound, was a favourite summer and commuter place for rich New Yorkers in the 1920s. The vague excuse is shabby, because the man who lived for free in Gatsby’s house will not come to his funeral. It confirms what Nick has seen, that the crowd of friends was only there for the party."
   - id: "the-swastika-holding-company"
     trigger: "The Swastika Holding Company"
     title: "Why Gatsby's Associate Used a Controversial Symbol"
@@ -57,6 +78,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Nick visits Meyer Wolfshiem's office, marked 'The Swastika Holding Company,' a name that now carries chilling connotations. In the 1920s, the swastika was widely used as a symbol of good luck and prosperity, long before its appropriation by the Nazi Party. Wolfshiem's use of the symbol reflects its original, benign meaning, but its presence in the novel adds an eerie layer for modern readers. Fitzgerald may have chosen this name to underscore Wolfshiem's connection to a world of moral ambiguity and shadowy dealings. The office's name, like Gatsby's dream, reveals how symbols can shift in meaning and become distorted over time."
+  - id: "the-rosary"
+    trigger: "The Rosary"
+    title: "The Sentimental Song in Wolfsheim’s Office"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ethelbert_Nevin"
+    image_url: ""
+    image_caption: ""
+    content: "When Nick visits Wolfsheim’s office, someone inside begins to whistle The Rosary, tunelessly, while a woman insists that Mr. Wolfsheim has gone to Chicago. The Rosary, a song by Ethelbert Nevin with words by Robert Cameron Rogers, was published in 1898 and became one of the most popular parlour songs in America, a sweet, religious-sounding ballad. The sentimental tune is a small but sharp irony, since the man who whistles it is hiding from a funeral. Wolfsheim, who once boasted of friendship with Gatsby, is too afraid to attend."
   - id: "winebrenners-poolroom"
     trigger: "Winebrenner’s poolroom"
     title: "Where Gatsby's Journey to Wealth Began"
@@ -64,6 +92,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Meyer Wolfshiem recalls meeting Gatsby at Winebrenner’s poolroom, where Gatsby sought work after the war. Poolrooms were common gathering places for men in the early 20th century, often associated with gambling and informal business deals. Gatsby's desperation and hunger during this encounter highlight his humble beginnings and the stark contrast to the opulent lifestyle he later achieved. Fitzgerald uses this setting to emphasize Gatsby's transformation and the lengths he went to in pursuit of his dream. The poolroom serves as a reminder of the gritty reality behind Gatsby's polished facade."
+  - id: "oggsford"
+    trigger: "Oggsford"
+    title: "Wolfsheim’s Spelling of Gatsby’s College"
+    wikipedia_url: "https://en.wikipedia.org/wiki/University_of_Oxford"
+    image_url: ""
+    image_caption: ""
+    content: "Wolfsheim says that when Gatsby told him he was at Oggsford, he knew he could use him good. Fitzgerald spells the name as Wolfsheim pronounces it, in a thick accent that makes the university sound like a joke. The University of Oxford is the oldest university in the English-speaking world, and its name stood for the polish of the British upper class. To Wolfsheim, Gatsby’s claim to have gone there is simply a useful quality in an employee. That is a sharp irony, since Gatsby’s mark of respectability is only a few months of study."
+  - id: "albany"
+    trigger: "Albany"
+    title: "The State Capital Behind Wolfsheim’s Business"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Albany,_New_York"
+    image_url: ""
+    image_caption: ""
+    content: "Wolfsheim tells Nick that he made Gatsby join the American Legion and that Gatsby did some work for a client of mine up to Albany. Albany, on the Hudson River, is the capital of New York State, and in the 1920s it was a place of political influence where lawmakers, lobbyists and officials made deals. A job for a client in Albany could mean almost anything, and Wolfsheim’s casual remark hints at the dealings that Gatsby handled for him. It adds a small, ominous detail to the picture of the gangster’s protégé."
   - id: "let-us-learn-to-show-our-friendship"
     trigger: "Let us learn to show our friendship"
     title: "Wolfshiem's Philosophy on Loyalty and Loss"
@@ -78,6 +120,34 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hopalong-Takes-Command.jpg/330px-Hopalong-Takes-Command.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Hopalong-Takes-Command (CC BY-SA 3.0)"
     content: "Gatsby's father shows Nick a copy of 'Hopalong Cassidy,' a Western adventure book Gatsby owned as a boy. The book's flyleaf contains a schedule and resolutions, revealing Gatsby's early determination to improve himself. Hopalong Cassidy, a fictional cowboy, embodied rugged individualism and moral integrity, qualities Gatsby aspired to. This artifact provides a poignant glimpse into Gatsby's youthful idealism and his belief in self-made success. Fitzgerald uses this detail to underscore the tragic irony of Gatsby's life: despite his disciplined efforts, his dream was built on illusion and ultimately unattainable."
+  - id: "schedule"
+    trigger: "schedule"
+    title: "A Boy’s Plan for Self-Improvement"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+    image_url: ""
+    image_caption: ""
+    content: "Mr. Gatz shows Nick a boyhood book of Gatsby’s, with the word schedule on the last flyleaf, dated September 12, 1906, and a list of rules for rising early, exercising, studying electricity and saving money. The plan echoes Benjamin Franklin, whose Autobiography described a thirteen-virtue chart and a daily timetable, and it belongs to the American tradition of self-improvement. The young Gatsby is planning to become someone great. The boyish list is touching and a little comic, and it shows that his hope was real long before any lies about Oxford."
+  - id: "dumbell-exercise-and-wall-scaling"
+    trigger: "Dumbell exercise and wall-scaling"
+    title: "The Boy Gatsby’s Daily Workout"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dumbbell"
+    image_url: ""
+    image_caption: ""
+    content: "On the schedule in the old book, the day starts with rising from bed at six, and then dumbell exercise and wall-scaling from 6:15 to 6:30. Dumbbells, short hand-weights used for strength training, were popular for home exercise in the early twentieth century, thanks to the physical culture movement that urged young men to build their bodies. Wall-scaling, climbing or vaulting walls, was a common drill from military and athletic training. The detail shows the discipline and ambition of the young James Gatz, who is making himself a better man."
+  - id: "practise-elocution-poise-and-how-to-attain-it"
+    trigger: "Practise elocution, poise and how to attain it"
+    title: "The Lessons in Speaking Well"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Elocution"
+    image_url: ""
+    image_caption: ""
+    content: "One item on the schedule reads: practise elocution, poise and how to attain it. Elocution, the art of speaking clearly and with the correct pronunciation and gestures, was taught in schools and by private teachers in the nineteenth and early twentieth centuries, and it was a way for poor young men to appear refined. The goal explains Gatsby’s careful speech and his habit of calling people old sport, a phrase he must have learned as a performance. The boyish ambition to sound like a gentleman is one of the book’s most poignant details."
+  - id: "no-more-smokeing-or-chewing"
+    trigger: "No more smokeing or chewing"
+    title: "Gatsby’s Resolutions as a Boy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chewing_tobacco"
+    image_url: ""
+    image_caption: ""
+    content: "Among the general resolves, the young Gatsby writes, no more smokeing or chewing, with his own spelling. Chewing tobacco, a leaf tobacco held in the cheek, was a common habit among farm boys and working men in the American countryside and was linked to the rough, spitting manners that respectable people looked down on. The resolution shows that Gatsby is trying to leave behind his origins and to learn better manners. The misspelling adds to the sadness of a boy teaching himself to become somebody."
   - id: "blessed-are-the-dead-that-the-rain-falls-on"
     trigger: "Blessed are the dead that the rain falls on"
     title: "Why Rain at Funerals Feels Profound"
@@ -85,6 +155,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "At Gatsby's funeral, someone murmurs, 'Blessed are the dead that the rain falls on,' as rain pours down on the sparse gathering. Rain at funerals has long been seen as a symbol of cleansing, renewal, or even divine mourning. This phrase evokes a sense of poetic justice or cosmic sympathy for Gatsby, whose life ended in disillusionment. Fitzgerald uses the rain to heighten the somber mood and underscore the loneliness of Gatsby's death. It contrasts with the vibrant, sunny scenes of Gatsby's parties, marking the end of his dream and the emptiness left behind."
+  - id: "old-dim-union-station"
+    trigger: "old dim Union Station"
+    title: "The Chicago Station of Nick’s Winter Memories"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chicago_Union_Station"
+    image_url: ""
+    image_caption: ""
+    content: "Nick recalls coming back West at Christmas time, when students gathered in the old dim Union Station at six o’clock of a December evening. Chicago Union Station was the main terminal for the railroads that ran to the upper Midwest, and the older building of Nick’s memory was replaced by the present great hall, which opened in 1925. Fitzgerald’s lyrical memory is a turn away from the East and toward home. The warm, small-town scene of friends parting on a winter night gives Nick the sense of belonging that New York has failed to supply."
   - id: "chicago-milwaukee-and-st-paul-railroad"
     trigger: "Chicago, Milwaukee and St. Paul railroad"
     title: "The Railroad That Defined Midwest Travel"
@@ -92,6 +169,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Skytop_Hiawatha_trains_Chicago_Milwaukee_and_St_Paul_Railroad.jpg/330px-Skytop_Hiawatha_trains_Chicago_Milwaukee_and_St_Paul_Railroad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Skytop Hiawatha trains Chicago Milwaukee and St Paul Railroad (Public domain)"
     content: "Nick recalls traveling on the Chicago, Milwaukee and St. Paul railroad during his youth, associating it with the warmth and identity of the Midwest. This railroad was a major transportation network, connecting Midwestern cities and fostering economic growth. For Nick, it symbolizes the simplicity and authenticity of his roots, contrasting with the distorted values of the East. Fitzgerald uses this memory to frame Nick's decision to return home, emphasizing the novel's theme of disillusionment with the American Dream and the search for genuine connection."
+  - id: "story-of-the-west"
+    trigger: "story of the West"
+    title: "Why Nick Calls His Tale a Western One"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Midwestern_United_States"
+    image_url: ""
+    image_caption: ""
+    content: "Nick decides that this has been a story of the West after all, because Tom and Gatsby, Daisy and Jordan and I were all Westerners, and perhaps we possessed some deficiency in common which made us subtly unadaptable to Eastern life. In Fitzgerald’s time the Midwest meant the states from Ohio to the Dakotas, a region of farms, small towns and strong moral habits. Tom came from Chicago, Gatsby from North Dakota and Nick from the Middle West. Nick’s theory ties up the book’s themes of origin and belonging, and it gives him a reason to go home."
   - id: "el-greco"
     trigger: "El Greco"
     title: "Why Nick Sees West Egg as an El Greco Painting"
@@ -99,6 +183,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Nick imagines West Egg as a surreal night scene painted by El Greco, with grotesque houses and solemn figures. El Greco was known for his dramatic, elongated forms and haunting atmospheres, often depicting spiritual or otherworldly themes. This comparison reflects Nick's view of the East as distorted and alien, a place where moral clarity is lost. Fitzgerald uses this imagery to underscore the novel's critique of the Jazz Age's excesses and the disconnection between appearance and reality. It encapsulates Nick's disillusionment and his yearning for the authenticity of the Midwest."
+  - id: "careless-people"
+    trigger: "careless people"
+    title: "Nick’s Verdict on Tom and Daisy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Class_permanence"
+    image_url: ""
+    image_caption: ""
+    content: "Nick says they were careless people, Tom and Daisy, who smashed up things and creatures and then retreated back into their money or their vast carelessness, and let other people clean up the mess they had made. The remark is the novel’s main moral judgement, and it connects with the theme of class, in which wealth lets people avoid the consequences of what they do. Tom has set George Wilson on Gatsby, and Daisy has killed Myrtle, but neither will answer for it. Nick’s anger, long restrained, finally finds words, and it explains why he turns his back on the East."
+  - id: "dutch-sailors-eyes"
+    trigger: "Dutch sailors’ eyes"
+    title: "The First Europeans Who Saw Long Island"
+    wikipedia_url: "https://en.wikipedia.org/wiki/New_Netherland"
+    image_url: ""
+    image_caption: ""
+    content: "In the last pages Nick imagines the old island that flowered once for Dutch sailors’ eyes, a fresh, green breast of the new world. In 1609 the English navigator Henry Hudson, sailing for the Dutch East India Company, explored the harbour and river now bearing his name, and the Dutch soon founded the colony of New Netherland, with its capital New Amsterdam, which later became New York. Fitzgerald’s image takes us back to the moment before the Gilded Age, when the land held a vast promise. It makes Gatsby’s dream part of a national one."
   - id: "fresh-green-breast-of-the-new-world"
     trigger: "fresh, green breast of the new world"
     title: "The Untouched America Gatsby Could Never Reach"
@@ -109,7 +207,7 @@ enhancements:
   - id: "the-green-light"
     trigger: "the green light"
     title: "Why Gatsby's Green Light Symbolizes Everything"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Nick recalls Gatsby's fixation on the green light at the end of Daisy's dock, a symbol of his dream and the future he longed for. The green light represents hope, ambition, and the elusive nature of the American Dream. Its distance and inaccessibility mirror Gatsby's inability to achieve his idealized vision of life with Daisy. Fitzgerald uses this symbol to encapsulate the novel's themes of aspiration and disillusionment, showing how dreams can drive us forward yet remain forever out of reach. The green light is both a beacon and a mirage, embodying the paradox of human striving."
@@ -236,7 +334,7 @@ and then hasty addenda beneath:
 
  Let me know about the funeral etc do not know his family at all.
 
-When the phone rang that afternoon and Long Distance said Chicago was
+When the phone rang that afternoon and **Long Distance** said Chicago was
 calling I thought this would be Daisy at last. But the connection came
 through as a man’s voice, very thin and far away.
 
@@ -359,7 +457,7 @@ His tone made me suspicious.
 “Wait a minute,” I interrupted. “How about saying you’ll come?”
 
 “Well, the fact is—the truth of the matter is that I’m staying with
-some people up here in Greenwich, and they rather expect me to be with
+some people up here in **Greenwich**, and they rather expect me to be with
 them tomorrow. In fact, there’s a sort of picnic or something. Of
 course I’ll do my best to get away.”
 
@@ -391,7 +489,7 @@ eyes.
 “Nobody’s in,” she said. “Mr. Wolfshiem’s gone to Chicago.”
 
 The first part of this was obviously untrue, for someone had begun to
-whistle “The Rosary,” tunelessly, inside.
+whistle “**The Rosary**,” tunelessly, inside.
 
 “Please say that Mr. Carraway wants to see him.”
 
@@ -439,9 +537,9 @@ in half an hour.”
 
 “I raised him up out of nothing, right out of the gutter. I saw right
 away he was a fine-appearing, gentlemanly young man, and when he told
-me he was at Oggsford I knew I could use him good. I got him to join
+me he was at **Oggsford** I knew I could use him good. I got him to join
 the American Legion and he used to stand high there. Right off he did
-some work for a client of mine up to Albany. We were so thick like
+some work for a client of mine up to **Albany**. We were so thick like
 that in everything”—he held up two bulbous fingers—“always together.”
 
 I wondered if this partnership had included the World’s Series
@@ -515,18 +613,18 @@ the last flyleaf was printed the word **schedule**, and the date September
 12, 1906. And underneath:
 
     Rise from bed                                  6:00      a.m.
-    Dumbell exercise and wall-scaling              6:15-6:30 ”
+    **Dumbell exercise and wall-scaling**              6:15-6:30 ”
     Study electricity, etc.                        7:15-8:15 ”
     Work                                           8:30-4:30 p.m.
     Baseball and sports                            4:30-5:00 ”
-    Practise elocution, poise and how to attain it 5:00-6:00 ”
+    **Practise elocution, poise and how to attain it** 5:00-6:00 ”
     Study needed inventions                        7:00-9:00 ”
 
                General Resolves
 
   * No wasting time at Shafters or [a name, indecipherable]
 
-  * No more smokeing or chewing.
+  * **No more smokeing or chewing**.
 
   * Bath every other day
 
@@ -600,7 +698,7 @@ He took off his glasses and wiped them again, outside and in.
 
 One of my most vivid memories is of coming back West from prep school
 and later from college at Christmas time. Those who went farther than
-Chicago would gather in the old dim Union Station at six o’clock of a
+Chicago would gather in the **old dim Union Station** at six o’clock of a
 December evening, with a few Chicago friends, already caught up into
 their own holiday gaieties, to bid them a hasty goodbye. I remember
 the fur coats of the girls returning from Miss This-or-That’s and the
@@ -626,7 +724,7 @@ wreaths thrown by lighted windows on the snow. I am part of that, a
 little solemn with the feel of those long winters, a little complacent
 from growing up in the Carraway house in a city where dwellings are
 still called through decades by a family’s name. I see now that this
-has been a story of the West, after all—Tom and Gatsby, Daisy and
+has been a **story of the West**, after all—Tom and Gatsby, Daisy and
 Jordan and I, were all Westerners, and perhaps we possessed some
 deficiency in common which made us subtly unadaptable to Eastern life.
 
@@ -771,7 +869,7 @@ Most of the big shore places were closed now and there were hardly any
 lights except the shadowy, moving glow of a ferryboat across the
 Sound. And as the moon rose higher the inessential houses began to
 melt away until gradually I became aware of the old island here that
-flowered once for Dutch sailors’ eyes—a **fresh, green breast of the new
+flowered once for **Dutch sailors’ eyes**—a **fresh, green breast of the new
 world**. Its vanished trees, the trees that had made way for Gatsby’s
 house, had once pandered in whispers to the last and greatest of all
 human dreams; for a transitory enchanted moment man must have held his

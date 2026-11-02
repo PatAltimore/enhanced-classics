@@ -36,6 +36,34 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/330px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Bundesarchiv Bild 183-C06886, Paul v. Hindenburg (cropped)(2) (CC BY-SA 3.0 de)"
     content: "When Gatsby's guests speculate that he might be related to Von Hindenburg, they are invoking the name of one of Germany's most famous military leaders and later president during the Weimar Republic. Paul von Hindenburg was a towering figure in World War I, celebrated for his victories on the Eastern Front. The absurdity of the claim reflects the wild rumors swirling around Gatsby, fueled by his mysterious wealth and enigmatic persona. This moment underscores the way Gatsby's life is mythologized by those around him, turning him into a figure of intrigue and suspicion. Fitzgerald uses this rumor to highlight the disconnect between Gatsby's real identity and the image he projects—a theme central to the novel's exploration of illusion and reality."
+  - id: "henry-l-palmetto"
+    trigger: "Henry L. Palmetto"
+    title: "A Guest List That Ends in a Subway Death"
+    wikipedia_url: "https://en.wikipedia.org/wiki/New_York_City_Subway"
+    image_url: ""
+    image_caption: ""
+    content: "In Nick’s long catalogue of Gatsby’s summer guests is Henry L. Palmetto, who killed himself by jumping in front of a subway train in Times Square. The New York City Subway opened in 1904 and by the 1920s carried millions of riders a day, with Times Square among its busiest stations. The list is full of comic names, such as Beluga and Catlip, but Fitzgerald slips in a flat, unsettling detail about a man who disappeared. It reminds readers that the party crowd includes people in despair, and that those who feast at Gatsby’s house do not always have a good life elsewhere."
+  - id: "times-square"
+    trigger: "Times Square"
+    title: "The Crossroads Named for a Newspaper"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Times_Square"
+    image_url: ""
+    image_caption: ""
+    content: "Times Square, where Henry Palmetto dies, is the crossing of Broadway and Seventh Avenue in Manhattan’s theatre district. It was renamed in 1904 after the New York Times moved its new tower there, and by the 1920s it was ablaze with electric signs and crowded with theatres, restaurants and cabarets. The square stands for the city’s glitter and speed, the same blinding signs that Nick will see on the ride into town. The sudden death in such a bright, busy place gives the guest list a bitter edge."
+  - id: "baedeker"
+    trigger: "Baedeker"
+    title: "The Guidebook Behind the Baedeker Girls"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Baedeker"
+    image_url: ""
+    image_caption: ""
+    content: "Nick remembers the Baedeker girls among the summer visitors at Gatsby’s house. Karl Baedeker’s travel guidebooks, published in Germany from 1832 and in English from 1861, were the standard companions of tourists, with red covers and a star rating system for sights. Calling a pair of girls the Baedeker girls suggests that they travel everywhere, and that they are known as sights to be ticked off. The joke is typical of the long guest list, in which names such as the Hammerheads and the Catlips make the crowd look like a comic procession."
+  - id: "american-legion"
+    trigger: "American Legion"
+    title: "The Veterans’ Organisation in the Guest List"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_Legion"
+    image_url: ""
+    image_caption: ""
+    content: "Among Gatsby’s guests Nick remembers Mr. P. Jewett, once head of the American Legion. The American Legion was founded in Paris in 1919 by officers of the American Expeditionary Forces, and it soon became the country’s largest veterans’ group, with a powerful political voice. Fitzgerald includes a former national leader in his guest list to show how widely Gatsby’s hospitality reached, even to the prominent and respectable. The name also touches the book’s concern with the Great War and its aftermath, a past that Gatsby, Nick and Tom each carry in different ways."
   - id: "educated-at-oxford-gatsby-suspicious-claim"
     trigger: "educated at Oxford"
     title: "Was Gatsby Really Educated at Oxford?"
@@ -43,6 +71,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arms_of_University_of_Oxford.svg/330px-Arms_of_University_of_Oxford.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Arms of University of Oxford (Public domain)"
     content: "When Gatsby claims he was educated at Oxford, his hurried delivery and Nick's immediate skepticism reveal cracks in his carefully constructed persona. Oxford, one of the world's most prestigious universities, has long been associated with privilege and tradition, making it a perfect detail for Gatsby's fabricated backstory. However, the vagueness of his claim and Jordan Baker's earlier doubts suggest that Gatsby's education may be exaggerated or entirely false. This moment deepens the mystery surrounding Gatsby's identity and foreshadows the eventual unraveling of his carefully curated image, emphasizing the novel's themes of deception and the pursuit of an unattainable ideal."
+  - id: "bois-de-boulogne"
+    trigger: "Bois de Boulogne"
+    title: "The Paris Park in Gatsby’s Tall Tale"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bois_de_Boulogne"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby says that after his Oxford days he lived like a young rajah in the capitals of Europe, collecting jewels and hunting big game. Nick hears the phrases as so threadbare that he can only picture a turbaned character leaking sawdust as he pursued a tiger through the Bois de Boulogne. The Bois de Boulogne is a large public park on the western edge of Paris, with carriage drives and lakes, where a tiger would be absurd. The comic image shows that Nick is struggling to believe what he is told, and it is one of his funniest comments."
   - id: "argonne-forest-gatsby-war-heroics"
     trigger: "Argonne Forest"
     title: "Gatsby's Heroics in the Argonne Forest: Fact or Fiction?"
@@ -50,6 +85,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hannover_CL_IIIa%2C_Forest_of_Argonne%2C_France%2C_1918_%28restored%29.jpg/330px-Hannover_CL_IIIa%2C_Forest_of_Argonne%2C_France%2C_1918_%28restored%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Hannover CL IIIa, Forest of Argonne, France, 1918 (restored) (Public domain)"
     content: "Gatsby's tale of leading a machine-gun battalion in the Argonne Forest during World War I paints him as a fearless hero. The Argonne Forest was the site of the Meuse-Argonne Offensive, one of the largest operations involving American forces during the war. While Gatsby's story is compelling, its grandiosity raises questions about its authenticity, especially given his penchant for embellishment. Fitzgerald uses this anecdote to blur the line between truth and fiction in Gatsby's life, illustrating how his self-created narrative serves his ambition to be seen as extraordinary. This moment also ties Gatsby's personal mythology to broader themes of heroism and sacrifice, which contrast sharply with the moral ambiguity of his present life."
+  - id: "montenegro"
+    trigger: "Montenegro"
+    title: "The Tiny Kingdom on Gatsby’s Medal"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Kingdom_of_Montenegro"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby says every Allied government gave him a decoration, even Montenegro, little Montenegro down on the Adriatic Sea. Montenegro was a small Balkan kingdom, ruled by King Nicholas I, and it fought on the Allied side until Austria-Hungary overran it in 1916. A medal from such a place would be unusual, and Gatsby takes it from a drawer as proof of his war record. His pride and the odd detail give the scene its tone of half-comic marvel, a boyish desire to be believed that Nick finds hard to resist."
   - id: "orderi-di-danilo-montenegro-medal"
     trigger: "Orderi di Danilo"
     title: "The Montenegro Medal: Gatsby's Badge of Valor"
@@ -64,6 +106,69 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arms_of_University_of_Oxford.svg/330px-Arms_of_University_of_Oxford.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Arms of University of Oxford (Public domain)"
     content: "Gatsby's photograph from Trinity Quad at Oxford is another piece of evidence he uses to bolster his claim of an elite education. Trinity Quad refers to one of the iconic courtyards at Oxford University, a setting steeped in history and tradition. The photo, showing Gatsby with a cricket bat among young men in blazers, evokes an image of privilege and refinement. Yet, Nick's lingering doubts about Gatsby's story suggest the possibility that the photo is staged or misleading. Fitzgerald uses this detail to explore themes of authenticity and the lengths Gatsby goes to craft an identity that aligns with his aspirations, even as cracks in his facade begin to show."
+  - id: "earl-of-doncaster"
+    trigger: "Earl of Doncaster"
+    title: "The Photograph That Proves the Oxford Story"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Earl_of_Doncaster"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby shows Nick a photograph taken in Trinity Quad at Oxford, saying that the man on his left is now the Earl of Doncaster. Earl of Doncaster is a real title in the British peerage, created in the seventeenth century, and Gatsby’s use of it is meant to impress. The photograph is one of three souvenirs that he produces, with his Montenegrin medal and his war record, and together they persuade Nick that the story is true. It is the proof that Nick wants to believe, and the reader is left to wonder how much it really proves."
+  - id: "grand-canal"
+    trigger: "Grand Canal"
+    title: "Gatsby’s Imaginary Palace in Venice"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Grand_Canal_(Venice)"
+    image_url: ""
+    image_caption: ""
+    content: "After seeing the photograph from Oxford, Nick thinks, then it was all true. He pictures the skins of tigers flaming in a palace on the Grand Canal. The Grand Canal is the main waterway of Venice, an S-shaped route lined with Gothic, Renaissance and baroque palaces, and it was a famous goal for rich Americans on the Grand Tour. Nick’s vision is an extravagant fantasy that Gatsby’s story plants in his mind. Fitzgerald shows how easily a plausible detail can make us believe an absurd tale, and how much Nick wants to believe it."
+  - id: "port-roosevelt"
+    trigger: "Port Roosevelt"
+    title: "Fitzgerald’s Disguised Long Island Town"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Port_Washington,_New_York"
+    image_url: ""
+    image_caption: ""
+    content: "As they near the city, Gatsby’s car passes Port Roosevelt, where Nick glimpses red-belted oceangoing ships. Port Roosevelt is a fictional name, and it probably stands for Port Washington on Long Island’s North Shore, where Fitzgerald lived at Great Neck, nearby. The invented place names of the novel, West Egg, East Egg and Port Roosevelt, let Fitzgerald work with real geography while keeping the freedom of fiction. Naming a town after a president also gives it a hint of public ambition, which matches Gatsby’s own."
+  - id: "astoria"
+    trigger: "Astoria"
+    title: "The Queens Neighbourhood Under the Elevated Tracks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Astoria,_Queens"
+    image_url: ""
+    image_caption: ""
+    content: "On the way to the city Gatsby’s car scatters light through half Astoria, twisting among the pillars of the elevated. Astoria, a neighbourhood in northwestern Queens on the East River, was a mix of factories, working-class housing and immigrant communities, and the elevated railway ran along its streets, casting shadow and noise below. The detail gives a quick, accurate picture of Gatsby’s ride, with the huge cream-coloured car flashing through a grimy district. It also fits the book’s journey from the wealth of the Eggs through the grey area that lies between them and the city."
+  - id: "queensboro-bridge-city-promise"
+    trigger: "Queensboro Bridge"
+    title: "Why the Queensboro Bridge Feels Like Magic"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Queensboro_Bridge"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Queensboro_Bridge_from_Manhattan_side.jpg/330px-Queensboro_Bridge_from_Manhattan_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    image_caption: "The Ed Koch Queensboro Bridge, a bridge between the Queens and Manhattan boroughs of New York City (CC0)"
+    content: "As Nick and Gatsby cross the Queensboro Bridge, Nick reflects on the city's promise of mystery and beauty. The bridge, connecting Manhattan to Queens, symbolizes transition and opportunity, offering a panoramic view of New York's skyline. Fitzgerald imbues this moment with a sense of wonder, capturing the allure of the city and its potential for reinvention. The bridge becomes a metaphor for Gatsby's dream, a passage to a world where anything seems possible, even as the reality of his aspirations remains elusive."
+  - id: "forty-second-street"
+    trigger: "Forty-second Street"
+    title: "The Cellar Where Gatsby Met Nick for Lunch"
+    wikipedia_url: "https://en.wikipedia.org/wiki/42nd_Street_(Manhattan)"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby takes Nick to lunch in a well-fanned Forty-second Street cellar, a basement restaurant in the middle of Manhattan on the street that crosses Times Square and runs past Grand Central and the main library. By the 1920s Forty-second Street was a centre of theatres, hotels and commerce, and it was famed as the busiest crosstown thoroughfare. Nick blinks away the glare of noon when he enters, and the dim cellar suits Wolfsheim, who does his business out of the light. The scene gives Nick his first look at Gatsby’s criminal connections."
+  - id: "metropole"
+    trigger: "Metropole"
+    title: "The Old Hotel With the Bloody History"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hotel_Metropole_(New_York_City)"
+    image_url: ""
+    image_caption: ""
+    content: "Wolfsheim mourns the old Metropole, a place filled with faces dead and gone. The Hotel Metropole stood on West Forty-Third Street near Times Square and was a lively meeting place for gamblers, actors and reporters in the early 1900s. It became notorious in 1912, when the gambler Herman Rosenthal was shot outside it, a murder that led to the conviction of a police lieutenant. Wolfsheim’s sentimental remembrance of such a place says everything about him, and the plain way he speaks of killing as a matter of nostalgia is horrifying."
+  - id: "rosy-rosenthal"
+    trigger: "Rosy Rosenthal"
+    title: "The Gambler Shot Outside a Broadway Hotel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Herman_Rosenthal"
+    image_url: ""
+    image_caption: ""
+    content: "Meyer Wolfsheim brags of the night they shot Rosy Rosenthal at the Metropole. The real Herman Rosenthal was a New York gambler who was shot dead outside the Hotel Metropole in 1912, after telling a newspaper that a police lieutenant, Charles Becker, took payoffs from gambling houses. Becker was convicted of ordering the killing and executed in 1915. Wolfsheim, who is based on the gambler Arnold Rothstein, treats the story as a happy memory, and Fitzgerald gives readers the first clear sign that Gatsby’s business friend lives in a world of crime."
+  - id: "human-molars"
+    trigger: "human molars"
+    title: "Cuff Links Made From Human Teeth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cufflink"
+    image_url: ""
+    image_caption: ""
+    content: "Meyer Wolfsheim shows Nick his cuff buttons, which are made of what he proudly calls the finest specimens of human molars. Cufflinks were a standard part of a gentleman’s dress shirt, and fashionable men chose elaborate designs, so Wolfsheim’s teeth are a grisly parody of wealth and taste. The detail tells us at once that he is cruel, vulgar and quite unashamed about it. It also warns Nick about the company Gatsby keeps, and it sticks in the memory as one of the most chilling touches in the whole novel."
   - id: "world-series-1919-scandal"
     trigger: "World’s Series back in 1919"
     title: "The Scandal That Shook Baseball: 1919 World Series"
@@ -71,10 +176,17 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eight_men_banned.png/330px-Eight_men_banned.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Eight men banned (Public domain)"
     content: "Meyer Wolfshiem's claim to have fixed the 1919 World Series ties Gatsby to one of the most infamous scandals in sports history. The Black Sox Scandal involved eight Chicago White Sox players accused of intentionally losing the series in exchange for bribes from gamblers. This revelation highlights Wolfshiem's criminal influence and Gatsby's association with morally dubious figures. Fitzgerald uses this detail to underscore the corruption and moral decay underlying the glittering surface of Gatsby's world. It also serves as a metaphor for the broader disillusionment of the American Dream, where success is often tainted by compromise and deceit."
+  - id: "louisville"
+    trigger: "Louisville"
+    title: "Daisy’s Kentucky Girlhood"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Louisville,_Kentucky"
+    image_url: ""
+    image_caption: ""
+    content: "Jordan tells Nick that Daisy Fay was by far the most popular of all the young girls in Louisville. Louisville, Kentucky, on the Ohio River, was a well-off Southern city, and it was near Camp Taylor, where thousands of soldiers trained during the Great War. A girl who dressed in white and drove a little white roadster would be the toast of the officers who came to dances. Fitzgerald’s own wife, Zelda Sayre, was a Southern belle from Montgomery, Alabama, whom he met while he was training at an army camp, and Daisy’s background explains her charm and her soft voice."
   - id: "camp-taylor-daisy-romance"
     trigger: "Camp Taylor"
     title: "The Military Camp Where Gatsby Met Daisy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Camp_Taylor_(Kentucky)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Camp_Taylor,_Louisville"
     image_url: ""
     image_caption: ""
     content: "Camp Taylor, a World War I training camp in Louisville, Kentucky, is where Gatsby first encountered Daisy. The camp was one of many established to prepare soldiers for overseas service, and its proximity to Daisy's home allowed young officers to mingle with local society. Gatsby's meeting with Daisy at Camp Taylor marks the beginning of his lifelong obsession with her, a moment that transforms his ambitions and shapes his future choices. Fitzgerald uses this setting to root Gatsby's romantic idealism in a specific historical context, emphasizing the fleeting nature of their initial connection and the enduring impact it has on Gatsby's dream."
@@ -99,13 +211,6 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Deauville_2008_PD_12.JPG/330px-Deauville_2008_PD_12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Deauville, Frankreich (CC BY-SA 3.0)"
     content: "Deauville, a glamorous seaside resort in France, represents the Buchanans' wealth and social status during their European travels. Known for its casinos, horse racing, and luxury, Deauville was a playground for the elite in the early 20th century. Daisy and Tom's time there reflects their attempt to maintain an image of sophistication and happiness, even as cracks in their relationship begin to show. Fitzgerald uses Deauville as a symbol of the Buchanans' superficial lifestyle, contrasting their outward elegance with the emotional emptiness that underlies their marriage."
-  - id: "queensboro-bridge-city-promise"
-    trigger: "Queensboro Bridge"
-    title: "Why the Queensboro Bridge Feels Like Magic"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Queensboro_Bridge"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Queensboro_Bridge_from_Manhattan_side.jpg/330px-Queensboro_Bridge_from_Manhattan_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "The Ed Koch Queensboro Bridge, a bridge between the Queens and Manhattan boroughs of New York City (CC0)"
-    content: "As Nick and Gatsby cross the Queensboro Bridge, Nick reflects on the city's promise of mystery and beauty. The bridge, connecting Manhattan to Queens, symbolizes transition and opportunity, offering a panoramic view of New York's skyline. Fitzgerald imbues this moment with a sense of wonder, capturing the allure of the city and its potential for reinvention. The bridge becomes a metaphor for Gatsby's dream, a passage to a world where anything seems possible, even as the reality of his aspirations remains elusive."
   - id: "universal-scepticism-jordan-baker"
     trigger: "universal scepticism"
     title: "Jordan Baker's Cynical Philosophy of Life"
@@ -185,7 +290,7 @@ Duckweed and Francis Bull. Also from New York were the Chromes and the
 Backhyssons and the Dennickers and Russel Betty and the Corrigans and
 the Kellehers and the Dewars and the Scullys and S. W. Belcher and the
 Smirkes and the young Quinns, divorced now, and **Henry L. Palmetto**, who
-killed himself by jumping in front of a subway train in Times Square.
+killed himself by jumping in front of a subway train in **Times Square**.
 
 Benny McClenahan arrived always with four girls. They were never quite
 the same ones in physical person, but they were so identical one with
@@ -197,10 +302,10 @@ capitalists whose cousins, if pressed, they would confess themselves
 to be.
 
 In addition to all these I can remember that Faustina O’Brien came
-there at least once and the Baedeker girls and young Brewer, who had
+there at least once and the **Baedeker** girls and young Brewer, who had
 his nose shot off in the war, and Mr. Albrucksburger and Miss Haag,
 his fiancée, and Ardita Fitz-Peters and Mr. P. Jewett, once head of
-the American Legion, and Miss Claudia Hip, with a man reputed to be
+the **American Legion**, and Miss Claudia Hip, with a man reputed to be
 her chauffeur, and a prince of something, whom we called Duke, and
 whose name, if I ever knew it, I have forgotten.
 
@@ -295,7 +400,7 @@ forget something very sad that had happened to me long ago.”
 With an effort I managed to restrain my incredulous laughter. The very
 phrases were worn so threadbare that they evoked no image except that
 of a turbaned “character” leaking sawdust at every pore as he pursued
-a tiger through the Bois de Boulogne.
+a tiger through the **Bois de Boulogne**.
 
 “Then came the war, old sport. It was a great relief, and I tried very
 hard to die, but I seemed to bear an enchanted life. I accepted a
@@ -306,7 +411,7 @@ advance. We stayed there two days and two nights, a hundred and thirty
 men with sixteen Lewis guns, and when the infantry came up at last
 they found the insignia of three German divisions among the piles of
 dead. I was promoted to be a major, and every Allied government gave
-me a decoration—even Montenegro, little Montenegro down on the
+me a decoration—even **Montenegro**, little Montenegro down on the
 Adriatic Sea!”
 
 Little Montenegro! He lifted up the words and nodded at them—with his
@@ -330,15 +435,15 @@ Danilo**,” ran the circular legend, “Montenegro, Nicolas Rex.”
 “Major Jay Gatsby,” I read, “For Valour Extraordinary.”
 
 “Here’s another thing I always carry. A souvenir of Oxford days. It
-was taken in **Trinity Quad**—the man on my left is now the Earl of
-Doncaster.”
+was taken in **Trinity Quad**—the man on my left is now the **Earl of
+Doncaster**.”
 
 It was a photograph of half a dozen young men in blazers loafing in an
 archway through which were visible a host of spires. There was Gatsby,
 looking a little, not much, younger—with a cricket bat in his hand.
 
 Then it was all true. I saw the skins of tigers flaming in his palace
-on the Grand Canal; I saw him opening a chest of rubies to ease, with
+on the **Grand Canal**; I saw him opening a chest of rubies to ease, with
 their crimson-lighted depths, the gnawings of his broken heart.
 
 “I’m going to make a big request of you today,” he said, pocketing his
@@ -365,7 +470,7 @@ utterly fantastic, and for a moment I was sorry I’d ever set foot upon
 his overpopulated lawn.
 
 He wouldn’t say another word. His correctness grew on him as we neared
-the city. We passed Port Roosevelt, where there was a glimpse of
+the city. We passed **Port Roosevelt**, where there was a glimpse of
 red-belted oceangoing ships, and sped along a cobbled slum lined with
 the dark, undeserted saloons of the faded-gilt nineteen-hundreds.
 Then the valley of ashes opened out on both sides of us, and I had a
@@ -373,7 +478,7 @@ glimpse of Mrs. Wilson straining at the garage pump with panting
 vitality as we went by.
 
 With fenders spread like wings we scattered light through half
-Astoria—only half, for as we twisted among the pillars of the elevated
+**Astoria**—only half, for as we twisted among the pillars of the elevated
 I heard the familiar “jug-jug-spat!” of a motorcycle, and a frantic
 policeman rode alongside.
 
@@ -412,7 +517,7 @@ Even Gatsby could happen, without any particular wonder.
 
 ------------------------------------------------------------------------
 
-Roaring noon. In a well-fanned Forty-second Street cellar I met Gatsby
+Roaring noon. In a well-fanned **Forty-second Street** cellar I met Gatsby
 for lunch. Blinking away the brightness of the street outside, my eyes
 picked him out obscurely in the anteroom, talking to another man.
 
@@ -451,7 +556,7 @@ hot over there.”
 
 “What place is that?” I asked.
 
-“The old Metropole.”
+“The old **Metropole**.”
 
 “The old Metropole,” brooded Mr. Wolfshiem gloomily. “Filled with
 faces dead and gone. Filled with friends gone now forever. I can’t
@@ -641,7 +746,7 @@ in a disapproving way.
 
 The largest of the banners and the largest of the lawns belonged to
 Daisy Fay’s house. She was just eighteen, two years older than me, and
-by far the most popular of all the young girls in Louisville. She
+by far the most popular of all the young girls in **Louisville**. She
 dressed in white, and had a little white roadster, and all day long
 the telephone rang in her house and excited young officers from **Camp
 Taylor** demanded the privilege of monopolizing her that

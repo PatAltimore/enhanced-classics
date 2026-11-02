@@ -36,6 +36,27 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg/330px-Detroit_police_inspecting_equipment_found_in_a_clandestine_underground_brewery_during_the_prohibition_era_-_NARA_-_541928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Detroit police inspecting equipment found in a clandestine underground brewery during the prohibition era - NARA - 541928 (Public domain)"
     content: "When Fitzgerald mentions the 'underground pipeline to Canada,' he taps into the Prohibition-era rumors that swirled around figures like Gatsby. During the 1920s, the United States banned the production and sale of alcohol, leading to a surge in bootlegging operations. Canada, where alcohol remained legal, became a key supplier for smugglers who transported liquor across the border via hidden routes, tunnels, and even boats disguised as fishing vessels. Gatsby's rumored pipeline evokes the shadowy glamour of this illicit trade, aligning him with the era's most notorious figures. But Fitzgerald's choice to make this rumor false is telling: Gatsby's wealth, though mysterious, is not rooted in the gritty realities of smuggling but in the shimmering illusions he creates. The rumor underscores the gap between Gatsby's constructed persona and the truth, deepening the novel's exploration of identity and deception."
+  - id: "north-dakota"
+    trigger: "North Dakota"
+    title: "The Plains State Gatsby Left Behind"
+    wikipedia_url: "https://en.wikipedia.org/wiki/North_Dakota"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s true name, Nick tells us, was James Gatz of North Dakota, and his parents were shiftless and unsuccessful farm people. North Dakota, on the northern Great Plains, was settled by wheat farmers, many of them immigrants from Germany and Scandinavia, and in the early twentieth century its farms were hard and often poor. Gatz’s family fits the stern picture of the plains, and Fitzgerald sets the drab farm against Gatsby’s dream of splendour. The boy’s imagination never really accepts his parents, and he invents himself as the son of God, who must be about his Father’s business."
+  - id: "lake-superior"
+    trigger: "Lake Superior"
+    title: "The Great Lake Where Gatsby Was Born"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lake_Superior"
+    image_url: ""
+    image_caption: ""
+    content: "The beginning of Jay Gatsby’s career is placed at the moment when Dan Cody’s yacht dropped anchor over the most insidious flat on Lake Superior. Lake Superior, the largest of the Great Lakes by surface area, has cold, deep water, sudden storms and a shore lined with iron-ore ports. A yacht in such a place would be an astonishing sight for a poor boy from the Midwest. Fitzgerald chooses a vast northern lake as the stage for a boy’s transformation, because he is close to the edge of America, ready to sail out of it."
+  - id: "tuolomee"
+    trigger: "Tuolomee"
+    title: "The Yacht Named for the Gold Rush"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tuolumne_County,_California"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby rows out to the Tuolomee, Dan Cody’s yacht, and warns him that a wind might break him up in half an hour. The yacht’s name echoes Tuolumne, a river and county in California’s gold-rush country, which fits a man who made his fortune in the mining camps of the West. A rich man names his boat after the place that made him, and the boy takes the opportunity to become somebody new. The yacht is the means by which James Gatz, a nobody from North Dakota, can leave his past and begin to invent Jay Gatsby."
   - id: "platonic-conception-of-himself"
     trigger: "Platonic conception of himself"
     title: "How Philosophy Shapes Gatsby's Self-Invention"
@@ -50,6 +71,27 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Old-Main-St-Olaf-College-Northfield-Minnesota.jpg/330px-Old-Main-St-Olaf-College-Northfield-Minnesota.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Old Main, St. Olaf College, Northfield, Minnesota. June 2008. (CC BY-SA 3.0)"
     content: "Gatsby's brief stint at St. Olaf's College reveals much about his character and aspirations. Founded in 1874 by Norwegian immigrants, St. Olaf's is a small Lutheran college in Minnesota known for its emphasis on humility and hard work. Gatsby's decision to leave after just two weeks, dismayed by the janitorial work required to pay his tuition, highlights his disdain for ordinary labor and his belief that he is destined for greatness. This moment foreshadows his relentless pursuit of wealth and status, which he sees as the only path to his idealized self. Fitzgerald uses this episode to underscore the tension between Gatsby's lofty dreams and the mundane realities he refuses to accept, setting the stage for his eventual rise—and fall."
+  - id: "nevada-silver-fields"
+    trigger: "Nevada silver fields"
+    title: "The Silver Rush That Made Dan Cody"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Comstock_Lode"
+    image_url: ""
+    image_caption: ""
+    content: "Nick describes Dan Cody as a product of the Nevada silver fields, of the Yukon, of every rush for metal since seventy-five. The Comstock Lode, discovered in Nevada in 1859, was the first major silver deposit in the United States, and its fortunes built Virginia City and San Francisco. Cody belongs to the generation of frontier speculators who made and lost great sums, and he stands for a rough, self-made kind of wealth. Gatsby, who inherits this idea of a man who builds himself from nothing, will repeat the pattern in a different, darker form."
+  - id: "of-the-yukon"
+    trigger: "of the Yukon"
+    title: "The Klondike Rush Behind Cody’s Fortune"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Klondike_Gold_Rush"
+    image_url: ""
+    image_caption: ""
+    content: "Dan Cody had come from the Yukon as well as the Nevada silver fields. The Klondike Gold Rush of 1896 to 1899 drew about a hundred thousand prospectors to the Yukon in northwest Canada, and most found little, though a few became millionaires. Cody was one of the winners, and the money lets him buy a yacht and live as a drifting millionaire. Fitzgerald uses his history to show a type of American fortune built on luck and nerve, and Gatsby learns from him how a man with money can pass for a gentleman."
+  - id: "montana-copper"
+    trigger: "Montana copper"
+    title: "The Copper Boom Behind Cody’s Millions"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Butte,_Montana"
+    image_url: ""
+    image_caption: ""
+    content: "Cody’s transactions in Montana copper made him many times a millionaire. Butte, Montana, nicknamed the richest hill on earth, was the centre of American copper mining, and the metal was in great demand as the country built electric wires and telephone lines. A few Copper Kings, such as Marcus Daly and William A. Clark, fought bitterly for control of the industry and left enormous fortunes. Cody is a minor figure of the same kind, rough, rich and uneducated, and when Gatsby meets him he is still physically robust but on the verge of soft-mindedness, an easy mark for the women who want his money."
   - id: "ella-kaye"
     trigger: "Ella Kaye"
     title: "The Woman Who Stole Gatsby's Inheritance"
@@ -57,10 +99,52 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Ella Kaye, described as playing 'Madame de Maintenon' to Dan Cody, is a shadowy figure in Gatsby's backstory. Madame de Maintenon was the secret wife of King Louis XIV, known for her influence over the king and her controversial role in court politics. Fitzgerald's comparison suggests that Ella Kaye wielded similar manipulative power over Cody, ultimately securing his fortune for herself. Gatsby's failure to inherit Cody's wealth is a pivotal moment, leaving him with only the 'education' of observing Cody's lifestyle. This loss shapes Gatsby's obsession with creating his own fortune, driving his relentless pursuit of the American Dream. Ella Kaye's role serves as a reminder of the ruthless forces that often undermine idealism in Fitzgerald's world."
+  - id: "madame-de-maintenon"
+    trigger: "Madame de Maintenon"
+    title: "The Royal Mistress Behind a Newspaper Woman"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fran%C3%A7oise_d%27Aubign%C3%A9,_Marquise_de_Maintenon"
+    image_url: ""
+    image_caption: ""
+    content: "Nick says the newspaper woman Ella Kaye played Madame de Maintenon to Dan Cody’s weakness. Madame de Maintenon, born Françoise d’Aubigné, was governess to the children of Louis XIV of France and became his secret second wife in 1683, and she was known for her influence over the king and his pious late years. The comparison is learned and a little sarcastic, since it makes Ella Kaye a clever woman who controls a rich old man. It also shows Nick’s habit of using literary allusions and his dry opinion of the scandal of Cody’s death."
+  - id: "turgid-journalism"
+    trigger: "turgid journalism"
+    title: "The Scandal Sheets of 1902"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yellow_journalism"
+    image_url: ""
+    image_caption: ""
+    content: "The shady dealings by which Ella Kaye sent Cody to sea in a yacht were, Nick says, common property of the turgid journalism of 1902. At the turn of the century the newspapers of William Randolph Hearst and Joseph Pulitzer competed with shocking headlines, scandal and exaggeration, a style that became known as yellow journalism. Fitzgerald’s phrase makes fun of the swollen prose of that kind of press. The detail also shows that Cody’s story was publicly known, a reminder that stories of rich men’s failings were national entertainment."
+  - id: "duluth"
+    trigger: "Duluth"
+    title: "The Port Where Gatz Got His Yachting Cap"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Duluth,_Minnesota"
+    image_url: ""
+    image_caption: ""
+    content: "A few days after they meet, Cody takes the boy to Duluth and buys him a blue coat, six pairs of white duck trousers and a yachting cap. Duluth, Minnesota, at the western tip of Lake Superior, was a major port for shipping iron ore and grain, with a busy harbour and shops that served the sailors and the lake boats. The new clothes mark the first stage of Gatsby’s remaking, since he exchanges the torn green jersey of a beach loafer for the uniform of a yacht’s hand. Appearance is the first step toward a new identity."
+  - id: "west-indies"
+    trigger: "West Indies"
+    title: "The Islands on Gatsby’s Years at Sea"
+    wikipedia_url: "https://en.wikipedia.org/wiki/West_Indies"
+    image_url: ""
+    image_caption: ""
+    content: "After leaving Lake Superior the yacht goes to the West Indies, the island chain of the Caribbean, with its sugar plantations, ports and warm seas. For a rich American yachtsman of the 1900s the islands were a fashionable destination, and for a young deckhand they offered a vast new world. Gatsby is employed in a vague personal capacity, serving in turn as steward, mate, skipper, secretary and even jailor, since Dan Cody is a drinker who needs watching. The years at sea give Gatsby a rough education in manners and money, and a taste for the sea-going life."
+  - id: "barbary-coast"
+    trigger: "Barbary Coast"
+    title: "The Pirate Shore on Cody’s Voyage"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Barbary_Coast"
+    image_url: ""
+    image_caption: ""
+    content: "When the Tuolomee leaves for the West Indies and the Barbary Coast, Gatsby goes too. The Barbary Coast was the name Europeans gave from the sixteenth to the nineteenth century to the Mediterranean shore of North Africa, home of the Barbary pirates, who raided ships and held captives for ransom. For a boy from North Dakota, a voyage to such places has the full romance of adventure, and it is probably the source of Gatsby’s taste for exotic stories. Fitzgerald gives him five years of travel that he later turns into a legend."
+  - id: "riding-habit"
+    trigger: "riding-habit"
+    title: "The Riding Clothes of an Unwelcome Visit"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Riding_habit"
+    image_url: ""
+    image_caption: ""
+    content: "Tom arrives at Gatsby’s door on horseback with a man named Sloane and a pretty woman in a brown riding-habit, and they stay for a drink. A riding habit was the fitted jacket and skirt that women wore for riding, usually with a hat and gloves, and it was the proper dress for the hunting and riding set of Long Island. The riders stand for old money, easy and quietly insolent, as they treat Gatsby’s house as a stop on a ride. The visit is awkward, and Gatsby’s eager politeness shows how much he wants their approval."
   - id: "i-havent-got-a-horse"
     trigger: "I haven’t got a horse"
     title: "Why Gatsby’s Car Symbolizes His New Identity"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Automobile_in_the_United_States"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Automotive_industry_in_the_United_States"
     image_url: ""
     image_caption: ""
     content: "When Gatsby admits, 'I haven’t got a horse,' he reveals a subtle divide between himself and Tom Buchanan's world. In the 1920s, horseback riding was a pastime associated with old-money aristocracy, while automobiles symbolized modernity and the rise of the nouveau riche. Gatsby's reliance on his car, rather than a horse, underscores his outsider status in the elite circles he aspires to join. Fitzgerald uses this detail to highlight the cultural and social tensions between Gatsby's self-made wealth and the inherited privilege of characters like Tom. The car, a recurring symbol in the novel, becomes a metaphor for Gatsby's ambition and the precariousness of his position in the world he longs to belong to."
@@ -85,10 +169,17 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Miss Baedeker's drunken antics at Gatsby's party offer a glimpse into the chaotic excess of the Jazz Age. Her behavior, described as screaming after five or six cocktails, reflects the era's fascination with hedonism and the loosening of social norms. The mention of her near-drowning in New Jersey adds a darkly comic edge, hinting at the dangers lurking beneath the surface of Gatsby's glamorous world. Fitzgerald uses characters like Miss Baedeker to illustrate the emptiness and recklessness that often accompany wealth and privilege, contrasting sharply with Gatsby's idealized vision of success and love."
+  - id: "big-bootlegger"
+    trigger: "big bootlegger"
+    title: "Why Tom Guesses That Gatsby Is a Bootlegger"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States"
+    image_url: ""
+    image_caption: ""
+    content: "Tom demands to know whether Gatsby is some big bootlegger, adding that a lot of these newly rich people are just big bootleggers. Prohibition, enforced from 1920 by the Eighteenth Amendment and the Volstead Act, banned the making and sale of alcohol, and gangsters grew rich by supplying it illegally through smugglers, speakeasies and corrupt officials. Tom’s guess is a snobbish way to dismiss anyone with new money. It is also not far from the truth, which Fitzgerald lets the reader half see, and Tom, who is a hypocrite, drinks as much as anyone."
   - id: "three-oclock-in-the-morning"
     trigger: "Three O’Clock in the Morning"
     title: "The Song That Captures Gatsby’s Romantic Longing"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Three_O%27Clock_in_the_Morning_(song)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Three_O%27Clock_in_the_Morning"
     image_url: ""
     image_caption: ""
     content: "As Daisy hears 'Three O’Clock in the Morning' drifting from Gatsby's party, the song becomes a poignant symbol of her conflicted emotions. Written in 1922, this waltz was a popular hit during the Jazz Age, known for its melancholic melody and lyrics about longing and separation. For Daisy, the song evokes the romantic possibilities of Gatsby's world, contrasting with the stifling conventions of her own life. Yet, the fleeting beauty of the music mirrors the ephemeral nature of Gatsby's dream, which hinges on recapturing a past that can never truly be restored. Fitzgerald uses the song to underscore the novel's themes of nostalgia and the unattainable ideal."
@@ -134,16 +225,16 @@ such as the “**underground pipeline to Canada**” attached themselves to
 him, and there was one persistent story that he didn’t live in a house
 at all, but in a boat that looked like a house and was moved secretly
 up and down the Long Island shore. Just why these inventions were a
-source of satisfaction to James Gatz of North Dakota, isn’t easy to
+source of satisfaction to James Gatz of **North Dakota**, isn’t easy to
 say.
 
 James Gatz—that was really, or at least legally, his name. He had
 changed it at the age of seventeen and at the specific moment that
 witnessed the beginning of his career—when he saw Dan Cody’s yacht
-drop anchor over the most insidious flat on Lake Superior. It was
+drop anchor over the most insidious flat on **Lake Superior**. It was
 James Gatz who had been loafing along the beach that afternoon in a
 torn green jersey and a pair of canvas pants, but it was already Jay
-Gatsby who borrowed a rowboat, pulled out to the Tuolomee, and
+Gatsby who borrowed a rowboat, pulled out to the **Tuolomee**, and
 informed Cody that a wind might catch him and break him up in half an
 hour.
 
@@ -185,15 +276,15 @@ work with which he was to pay his way through. Then he drifted back to
 Lake Superior, and he was still searching for something to do on the
 day that Dan Cody’s yacht dropped anchor in the shallows alongshore.
 
-Cody was fifty years old then, a product of the Nevada silver fields,
-of the Yukon, of every rush for metal since seventy-five. The
-transactions in Montana copper that made him many times a millionaire
+Cody was fifty years old then, a product of the **Nevada silver fields**,
+**of the Yukon**, of every rush for metal since seventy-five. The
+transactions in **Montana copper** that made him many times a millionaire
 found him physically robust but on the verge of soft-mindedness, and,
 suspecting this, an infinite number of women tried to separate him
 from his money. The none too savoury ramifications by which **Ella Kaye**,
-the newspaper woman, played Madame de Maintenon to his weakness and
-sent him to sea in a yacht, were common property of the turgid
-journalism in 1902. He had been coasting along all too hospitable
+the newspaper woman, played **Madame de Maintenon** to his weakness and
+sent him to sea in a yacht, were common property of the **turgid
+journalism** in 1902. He had been coasting along all too hospitable
 shores for five years when he turned up as James Gatz’s destiny in
 Little Girl Bay.
 
@@ -202,10 +293,10 @@ that yacht represented all the beauty and glamour in the world. I
 suppose he smiled at Cody—he had probably discovered that people liked
 him when he smiled. At any rate Cody asked him a few questions (one of
 them elicited the brand new name) and found that he was quick and
-extravagantly ambitious. A few days later he took him to Duluth and
+extravagantly ambitious. A few days later he took him to **Duluth** and
 bought him a blue coat, six pairs of white duck trousers, and a
-yachting cap. And when the Tuolomee left for the West Indies and the
-Barbary Coast, Gatsby left too.
+yachting cap. And when the Tuolomee left for the **West Indies** and the
+**Barbary Coast**, Gatsby left too.
 
 He was employed in a vague personal capacity—while he remained with
 Cody he was in turn steward, mate, skipper, secretary, and even
@@ -251,7 +342,7 @@ Buchanan in for a drink. I was startled, naturally, but the really
 surprising thing was that it hadn’t happened before.
 
 They were a party of three on horseback—Tom and a man named Sloane and
-a pretty woman in a brown riding-habit, who had been there previously.
+a pretty woman in a brown **riding-habit**, who had been there previously.
 
 “I’m delighted to see you,” said Gatsby, standing on his porch. “I’m
 delighted that you dropped in.”

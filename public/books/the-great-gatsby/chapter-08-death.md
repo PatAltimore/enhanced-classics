@@ -25,21 +25,35 @@ summary:
     link: "https://en.wikipedia.org/wiki/Jay_Gatsby"
     link_label: "Jay Gatsby"
   - point: "The chapter ends with the discovery of Wilson's body and the completion of the tragic events, leaving Nick to reflect on the loss of Gatsby's incorruptible dream."
-    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     link_label: "incorruptible dream"
 
 enhancements:
+  - id: "atlantic-city"
+    trigger: "Atlantic City"
+    title: "The Seaside Resort Where Nick Wants Gatsby to Hide"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey"
+    image_url: ""
+    image_caption: ""
+    content: "After the accident Nick urges Gatsby to go to Atlantic City for a week. Atlantic City, on the New Jersey shore, was the most famous seaside resort on the East Coast, with its great Boardwalk, amusement piers, grand hotels and crowds of holidaymakers, and in the 1920s it was also known for easy access to illegal drink. It was a place where a man could disappear among thousands of visitors. Gatsby, who will not leave Daisy until he knows what she will do, refuses, and the offer of a quick escape is his last practical chance."
+  - id: "montreal"
+    trigger: "Montreal"
+    title: "The Canadian City Offered as a Hiding Place"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Montreal"
+    image_url: ""
+    image_caption: ""
+    content: "Nick also suggests that Gatsby go up to Montreal. In the 1920s Montreal, the largest city in Canada, was a refuge for Americans who wanted a drink under Prohibition, because Quebec’s liquor laws were relaxed, and it was a hub for the rum-running trade that crossed the border. It also lay beyond the reach of New York police. Nick’s advice is practical and sensible, but Gatsby is not ready to run, as he is still clutching at a hope that Daisy will call, so the suggestion of Montreal passes unheeded."
   - id: "dan-cody-gatsby-mentor"
     trigger: "Dan Cody"
     title: "The Millionaire Who Shaped Gatsby's Dreams"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Characters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     image_url: ""
     image_caption: ""
     content: "When Gatsby recounts his youth to Nick, he mentions Dan Cody, the wealthy copper magnate who introduced him to the world of opulence and ambition. Gatsby served as Cody's assistant, witnessing firsthand the allure and pitfalls of wealth. Cody's influence was profound—he represented the lifestyle Gatsby aspired to, yet Cody's own moral failings served as a cautionary tale. Gatsby's transformation into 'Jay Gatsby' began here, fueled by the belief that wealth could bridge the gap between his humble origins and the world of Daisy Buchanan. This relationship underscores Gatsby's relentless pursuit of an idealized life, revealing the roots of his tragic obsession."
   - id: "camp-taylor-daisy-meeting"
     trigger: "Camp Taylor"
     title: "Where Gatsby First Met Daisy Buchanan"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Camp_Taylor_(Louisville,_Kentucky)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Camp_Taylor,_Louisville"
     image_url: ""
     image_caption: ""
     content: "Gatsby recalls visiting Daisy's house with other officers from Camp Taylor, a military training camp in Louisville during World War I. This setting is pivotal—it was here that Gatsby first encountered Daisy, sparking the infatuation that would define his life. Camp Taylor was one of many such camps established to prepare soldiers for the war, and its proximity to Daisy's affluent world highlighted the stark contrast between Gatsby's modest background and her privileged life. This moment encapsulates Gatsby's yearning to transcend social barriers, setting the stage for his lifelong pursuit of Daisy and the dream she represents."
@@ -50,6 +64,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Gatsby's military service during World War I included the Argonne battles, part of the Meuse-Argonne Offensive, the largest operation by the American Expeditionary Forces. This campaign was marked by intense fighting and significant casualties, but it also showcased Gatsby's leadership, earning him a promotion to major. The war delayed his reunion with Daisy and added a layer of complexity to his character—a man shaped by both ambition and sacrifice. Gatsby's wartime achievements contrast sharply with his later life, where his pursuit of wealth and love becomes his undoing, highlighting the tension between heroism and personal tragedy."
+  - id: "sent-him-to-oxford"
+    trigger: "sent him to Oxford"
+    title: "How a Soldier Ended Up at Oxford"
+    wikipedia_url: "https://en.wikipedia.org/wiki/University_of_Oxford"
+    image_url: ""
+    image_caption: ""
+    content: "After the armistice Gatsby tried frantically to get home, but some complication or misunderstanding sent him to Oxford instead. After the First World War a small number of American officers were offered places at British universities, and several hundred attended Oxford in 1919 for a short term. The detail makes Gatsby’s claim to be an Oxford man partly true, and Nick’s version shows that he was there only for a few months. This is a typical Fitzgerald touch: the lie is built on a real fact, and the fact is much smaller than the lie."
   - id: "beale-street-blues-daisy-world"
     trigger: "Beale Street Blues"
     title: "The Song That Captured Daisy's Glittering World"
@@ -57,38 +78,80 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Fitzgerald evokes the 'Beale Street Blues' to illustrate the vibrant yet hollow world Daisy inhabits. Written by W.C. Handy in 1916, the song became a jazz standard, symbolizing the cultural shifts of the era. Its melancholy undertones mirror the sadness lurking beneath Daisy's glamorous life, filled with orchestras, dances, and fleeting romances. The choice of this song underscores the novel's exploration of the Jazz Age—a time of excess and disillusionment. For Gatsby, Daisy's world is both enchanting and unattainable, a glittering facade that ultimately reveals the emptiness of his dream."
+  - id: "grey-tea-hour"
+    trigger: "grey tea hour"
+    title: "The Afternoon Dances of a Lost Time"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tea_dance"
+    image_url: ""
+    image_caption: ""
+    content: "In Gatsby’s memory of the years of the dance bands, golden and silver slippers shuffled the shining dust all night, and at the grey tea hour there were always rooms that throbbed incessantly with this low, sweet fever. Tea dances were afternoon social gatherings with music and dancing, popular from the 1910s, where young people could meet away from strict supervision. Fitzgerald’s phrase links the endless social round of the Jazz Age with sadness, and it is part of the elegy that Nick writes for Gatsby’s world."
   - id: "tom-buchanan-daisy-choice"
     trigger: "Tom Buchanan"
     title: "The Man Who Pulled Daisy Away From Gatsby"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Tom_Buchanan"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     image_url: ""
     image_caption: ""
     content: "Daisy's decision to marry Tom Buchanan marks a turning point in Gatsby's life. Tom, with his 'wholesome bulkiness' and wealth, represents the stability and social status Daisy craves. Yet, Tom's character is deeply flawed—arrogant, unfaithful, and dismissive of those beneath him. His arrival in Daisy's life underscores the novel's themes of class and power, as Gatsby's dream of winning Daisy is thwarted by the entrenched social barriers Tom embodies. This choice reveals Daisy's pragmatism and Gatsby's idealism, setting the stage for the tragic collision of their worlds."
+  - id: "wedding-trip"
+    trigger: "wedding trip"
+    title: "The Honeymoon That Gatsby Could Not Stop"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Honeymoon"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby came back from France when Tom and Daisy were still on their wedding trip, and he made a miserable but irresistible journey to Louisville on the last of his army pay. The honeymoon, a custom of travel after a wedding, was a mark of wealth for rich couples in the early twentieth century, and Tom took Daisy for months to the South Seas. While they travelled, Gatsby walked through the streets where he had once walked with Daisy, which is a heartbreaking picture of his devotion to a lost past."
+  - id: "louisville"
+    trigger: "Louisville"
+    title: "Gatsby’s Pilgrimage to Daisy’s City"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Louisville,_Kentucky"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby made a miserable but irresistible journey to Louisville on the last of his army pay, and he stayed there a week, walking the streets where their footsteps had clicked together through the November night. Louisville, a river city in Kentucky, had been the scene of the romance, since Daisy had grown up there and the army camp where Gatsby trained was nearby. He cannot hold on to her, and the trip is a pilgrimage to the past. It is the moment where he learns that wanting a woman is not the same as having her."
+  - id: "drain-the-pool"
+    trigger: "drain the pool"
+    title: "The Gardener Who Wants to Close the Season"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Swimming_pool"
+    image_url: ""
+    image_caption: ""
+    content: "The gardener tells Gatsby he is going to drain the pool that day, because leaves will soon start falling and cause trouble with the pipes. Draining the pool is the standard task that marks the end of summer, and it signals that the season, and with it Gatsby’s time, is running out. Gatsby tells him not to, because he has not used the pool all summer. The gardener is the last of Gatsby’s former servants, and his plain routine contrasts sharply with the drama that is about to happen."
   - id: "incorruptible-dream-gatsby"
     trigger: "incorruptible dream"
     title: "Gatsby's Dream That Could Never Be Tainted"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Nick's reflection on Gatsby's 'incorruptible dream' captures the essence of the novel's tragedy. Gatsby's dream—his vision of a perfect life with Daisy—was pure in its intensity but doomed by its impossibility. This phrase encapsulates Gatsby's unwavering belief in the transformative power of love and ambition, even as reality proves otherwise. Fitzgerald uses this idea to critique the American Dream, showing how its promise of success and happiness often leads to disillusionment. Gatsby's dream, though incorruptible in spirit, is ultimately shattered by the harsh truths of society and human nature."
   - id: "jordan-baker-gatsby-phone-call"
     trigger: "Jordan Baker"
     title: "The Cool, Elusive Golfer Who Intrigued Nick"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Jordan_Baker"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     image_url: ""
     image_caption: ""
     content: "Jordan Baker's phone call to Nick reveals her detachment and the strained dynamics of their relationship. A professional golfer with a reputation for dishonesty, Jordan embodies the moral ambiguity of the Jazz Age. Her casual approach to life contrasts with Nick's growing disillusionment, highlighting the novel's exploration of integrity and superficiality. Jordan's role in the story is pivotal—she connects Nick to Gatsby and Daisy, yet remains on the periphery, a symbol of the era's fleeting connections and self-centered pursuits. Her call underscores the emotional distance between her and Nick, mirroring the broader alienation in the novel."
+  - id: "hempstead"
+    trigger: "Hempstead"
+    title: "The Long Island Town of Jordan’s Telephone Call"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hempstead_(village),_New_York"
+    image_url: ""
+    image_caption: ""
+    content: "Jordan telephones Nick to say that she has left Daisy’s house and is at Hempstead, and that she is going down to Southampton that afternoon. Hempstead, a large town in Nassau County on Long Island, was a centre of the wealthy North Shore and South Shore estates, with horse shows, polo and golf clubs nearby. Jordan’s voice is harsh and dry, and she breaks off the connection. The call shows Nick that Daisy’s circle is closing ranks against Gatsby, and that he and Jordan have come to an end."
+  - id: "southampton"
+    trigger: "Southampton"
+    title: "The Summer Colony Where Jordan Escapes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Southampton_(village),_New_York"
+    image_url: ""
+    image_caption: ""
+    content: "Jordan says she is going down to Southampton that afternoon. Southampton, on the south shore of Long Island, was one of the most fashionable summer colonies in America, with great estates, beach clubs and polo fields, and it was a favoured resort for old New York families. For Jordan, who plays golf and moves among the wealthy, it is a natural destination. Her departure suggests that the people with money simply move on to the next place after trouble, leaving others to deal with the consequences."
   - id: "gatsby-house-symbolism"
     trigger: "Gatsby’s house"
     title: "The Mansion That Held Gatsby's Dreams"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Gatsby's house, with its grandeur and emptiness, serves as a powerful symbol of his aspirations and isolation. Built to impress Daisy, the mansion reflects Gatsby's belief that material wealth can bridge the gap between their worlds. Yet, its emptiness during the chapter mirrors Gatsby's emotional state—abandoned and clinging to a fading dream. Fitzgerald uses the house to critique the hollowness of the American Dream, showing how its pursuit often leads to loneliness rather than fulfillment. The house, like Gatsby himself, is a monument to ambition and the tragic cost of chasing an ideal."
   - id: "ash-heaps-valley-of-ashes"
     trigger: "the ash-heaps"
     title: "The Bleak Landscape That Mirrors Moral Decay"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Setting"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Historical_and_biographical_context"
     image_url: ""
     image_caption: ""
     content: "The ash-heaps, part of the 'Valley of Ashes,' symbolize the moral and social decay hidden beneath the glittering surface of the Jazz Age. This desolate area, where Myrtle Wilson meets her tragic end, contrasts sharply with the opulence of Gatsby's world. It represents the consequences of industrialization and the exploitation of the working class, as well as the emptiness of the American Dream for those who cannot attain it. Fitzgerald uses this setting to highlight the stark inequalities of the era, making it a haunting backdrop for the novel's most devastating events."
@@ -99,6 +162,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Myrtle Wilson's death is described as her 'tragic achievement,' a phrase that underscores the futility of her aspirations. Myrtle sought to escape her impoverished life through her affair with Tom Buchanan, believing wealth and status would bring fulfillment. Instead, her pursuit of the American Dream ends in violence and betrayal, highlighting the novel's critique of social ambition. Myrtle's death is not just a personal tragedy but a reflection of the broader societal failures that Fitzgerald explores—where dreams collide with harsh realities, leaving devastation in their wake."
+  - id: "flushing"
+    trigger: "Flushing"
+    title: "The Hospital Town Where Myrtle’s Body Went"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flushing,_Queens"
+    image_url: ""
+    image_caption: ""
+    content: "When the sister, Catherine, finally arrives at the garage drunk, she cannot understand that the ambulance has already gone to Flushing. Flushing is a neighbourhood in Queens, one of the oldest settlements in New York City, with a hospital that served the local area. It lies near the valley of ashes and the Flushing Creek. Fitzgerald mentions it plainly, as he does all the facts of the aftermath, and the detail of the ambulance gives a stark sense of what the accident has done to the Wilsons’ world."
   - id: "braided-silver-dog-leash"
     trigger: "braided silver"
     title: "The Dog Leash That Revealed Myrtle's Affair"
@@ -109,10 +179,38 @@ enhancements:
   - id: "doctor-t-j-eckleburg-eyes"
     trigger: "Doctor T. J. Eckleburg"
     title: "The Billboard That Became God's Eyes"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Themes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Wilson's fixation on the eyes of Doctor T. J. Eckleburg, a faded billboard advertisement, transforms them into a symbol of divine judgment. To Wilson, these eyes represent an omniscient presence that sees through the lies and moral failings of those around him. Fitzgerald uses this imagery to critique the emptiness of modern spirituality, where commercialism replaces genuine faith. The eyes loom over the Valley of Ashes, a stark reminder of the consequences of moral corruption and the inescapable gaze of conscience. This moment deepens the novel's exploration of guilt, accountability, and the search for meaning in a fragmented world."
+  - id: "god-sees-everything"
+    trigger: "God sees everything"
+    title: "The Watching Eyes in Wilson’s Madness"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eye_of_Providence"
+    image_url: ""
+    image_caption: ""
+    content: "Wilson, crushed by grief, tells Michaelis he spoke to Myrtle and said, God knows what you’ve been doing, and that God sees everything. Michaelis tries to tell him that the huge eyes on the billboard are only an advertisement. The Eye of Providence, an all-seeing eye usually enclosed in a triangle, is a Christian symbol of God’s watchfulness and appears on the Great Seal of the United States. In his half-mad state Wilson takes the billboard eyes of Doctor Eckleburg for those of God, and Fitzgerald shows how a broken man finds meaning in an empty sign."
+  - id: "bathing-suit"
+    trigger: "bathing-suit"
+    title: "The Swimsuit Gatsby Wore on His Last Day"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Swimsuit"
+    image_url: ""
+    image_caption: ""
+    content: "At two o’clock Gatsby puts on his bathing-suit and leaves word with the butler that any telephone call is to be brought to him at the pool. In the 1920s men’s swimsuits were often one-piece wool garments with a tank top, and women’s swimwear was shrinking, which was a scandal in itself. The detail makes the scene ordinary, as Gatsby goes for a swim in the afternoon of a hot day. His wait for a telephone call from Daisy gives these final pages their unbearable suspense."
+  - id: "pneumatic-mattress"
+    trigger: "pneumatic mattress"
+    title: "The Air Bed That Amused Gatsby’s Guests"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Air_mattress"
+    image_url: ""
+    image_caption: ""
+    content: "On his last afternoon Gatsby stops at the garage for a pneumatic mattress that had amused his guests during the summer, and the chauffeur helps him pump it up. An air mattress is a rubberised, inflatable float, and in the 1920s such toys were popular on lakes and beaches. The summer toy, once part of his parties, becomes a final private amusement for a lonely man floating on the pool in the autumn sun. Its use here is gentle and bitter at once, and it makes the scene of his last hours extremely vivid."
+  - id: "what-a-grotesque-thing-a-rose-is"
+    trigger: "what a grotesque thing a rose is"
+    title: "The Rose That Gatsby Sees in a New World"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rose"
+    image_url: ""
+    image_caption: ""
+    content: "Nick imagines Gatsby at the end looking up at an unfamiliar sky through frightening leaves and realising what a grotesque thing a rose is, and how raw the sunlight was upon the scarcely created grass. The rose is a classic symbol of love and beauty, and calling it grotesque shows that Gatsby sees the world stripped of its illusions. He has entered a new world, material without being real, where poor ghosts, breathing dreams like air, drift fortuitously about. It is among the most celebrated and haunting passages in the book."
   - id: "wolfshiem-protege-gatsby-servant"
     trigger: "Wolfshiem’s protégés"
     title: "The Shadowy Network Behind Gatsby's Wealth"
@@ -157,7 +255,7 @@ your car.”
 
 “Go away now, old sport?”
 
-“Go to Atlantic City for a week, or up to Montreal.”
+“Go to **Atlantic City** for a week, or up to **Montreal**.”
 
 He wouldn’t consider it. He couldn’t possibly leave Daisy until he
 knew what she was going to do. He was clutching at some last hope and
@@ -249,7 +347,7 @@ He did extraordinarily well in the war. He was a captain before he
 went to the front, and following the **Argonne battles** he got his
 majority and the command of the divisional machine-guns. After the
 armistice he tried frantically to get home, but some complication or
-misunderstanding sent him to Oxford instead. He was worried now—there
+misunderstanding **sent him to Oxford** instead. He was worried now—there
 was a quality of nervous despair in Daisy’s letters. She didn’t see
 why he couldn’t come. She was feeling the pressure of the world
 outside, and she wanted to see him and feel his presence beside her
@@ -260,7 +358,7 @@ and pleasant, cheerful snobbery and orchestras which set the rhythm of
 the year, summing up the sadness and suggestiveness of life in new
 tunes. All night the saxophones wailed the hopeless comment of the
 “**Beale Street Blues**” while a hundred pairs of golden and silver
-slippers shuffled the shining dust. At the grey tea hour there were
+slippers shuffled the shining dust. At the **grey tea hour** there were
 always rooms that throbbed incessantly with this low, sweet fever,
 while fresh faces drifted here and there like rose petals blown by the
 sad horns around the floor.
@@ -308,8 +406,8 @@ What could you make of that, except to suspect some intensity in his
 conception of the affair that couldn’t be measured?
 
 He came back from France when Tom and Daisy were still on their
-wedding trip, and made a miserable but irresistible journey to
-Louisville on the last of his army pay. He stayed there a week,
+**wedding trip**, and made a miserable but irresistible journey to
+**Louisville** on the last of his army pay. He stayed there a week,
 walking the streets where their footsteps had clicked together through
 the November night and revisiting the out-of-the-way places to which
 they had driven in her white car. Just as Daisy’s house had always
@@ -338,7 +436,7 @@ porch. The night had made a sharp difference in the weather and there
 was an autumn flavour in the air. The gardener, the last one of
 Gatsby’s former servants, came to the foot of the steps.
 
-“I’m going to drain the pool today, Mr. Gatsby. Leaves’ll start
+“I’m going to **drain the pool** today, Mr. Gatsby. Leaves’ll start
 falling pretty soon, and then there’s always trouble with the pipes.”
 
 “Don’t do it today,” Gatsby answered. He turned to me apologetically.
@@ -401,8 +499,8 @@ way. Usually her voice came over the wire as something fresh and cool,
 as if a divot from a green golf-links had come sailing in at the
 office window, but this morning it seemed harsh and dry.
 
-“I’ve left Daisy’s house,” she said. “I’m at Hempstead, and I’m going
-down to Southampton this afternoon.”
+“I’ve left Daisy’s house,” she said. “I’m at **Hempstead**, and I’m going
+down to **Southampton** this afternoon.”
 
 Probably it had been tactful to leave Daisy’s house, but the act
 annoyed me, and her next remark made me rigid.
@@ -451,7 +549,7 @@ the garage after we left there the night before.
 They had difficulty in locating the sister, Catherine. She must have
 broken her rule against drinking that night, for when she arrived she
 was stupid with liquor and unable to understand that the ambulance had
-already gone to Flushing. When they convinced her of this, she
+already gone to **Flushing**. When they convinced her of this, she
 immediately fainted, as if that was the intolerable part of the
 affair. Someone, kind or curious, took her in his car and drove her in
 the wake of her sister’s body.
@@ -596,7 +694,7 @@ Standing behind him, Michaelis saw with a shock that he was looking at
 the eyes of **Doctor T. J. Eckleburg**, which had just emerged, pale and
 enormous, from the dissolving night.
 
-“God sees everything,” repeated Wilson.
+“**God sees everything**,” repeated Wilson.
 
 “That’s an advertisement,” Michaelis assured him. Something made him
 turn away from the window and look back into the room. But Wilson
@@ -629,9 +727,9 @@ way to Gatsby’s house. So by that time he knew Gatsby’s name.
 
 ------------------------------------------------------------------------
 
-At two o’clock Gatsby put on his bathing-suit and left word with the
+At two o’clock Gatsby put on his **bathing-suit** and left word with the
 butler that if anyone phoned word was to be brought to him at the
-pool. He stopped at the garage for a pneumatic mattress that had
+pool. He stopped at the garage for a **pneumatic mattress** that had
 amused his guests during the summer, and the chauffeur helped him to
 pump it up. Then he gave instructions that the open car wasn’t to be
 taken out under any circumstances—and this was strange, because the
@@ -649,7 +747,7 @@ believe it would come, and perhaps he no longer cared. If that was
 true he must have felt that he had lost the old warm world, paid a
 high price for living too long with a single dream. He must have
 looked up at an unfamiliar sky through frightening leaves and shivered
-as he found what a grotesque thing a rose is and how raw the sunlight
+as he found **what a grotesque thing a rose is** and how raw the sunlight
 was upon the scarcely created grass. A new world, material without
 being real, where poor ghosts, breathing dreams like air, drifted
 fortuitously about … like that ashen, fantastic figure gliding toward

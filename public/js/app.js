@@ -483,6 +483,8 @@
 
     return blocks.map(block => {
       if (!block.trim()) return '';
+      // A line of hyphens is a scene break in the source text.
+      if (/^\s*-{5,}\s*$/.test(block)) return '<hr class="scene-break">';
       // A block whose every non-empty line is indented is set-off verse or a
       // block quotation in the source (e.g. Gutenberg poetry). Render it as a
       // blockquote with its line breaks preserved, instead of letting the lines

@@ -22,13 +22,27 @@ summary:
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
   - point: "Nick reflects on his own honesty and contrasts it with Jordan Baker's dishonesty."
-    link: "https://en.wikipedia.org/wiki/Jordan_Baker_(The_Great_Gatsby)"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     link_label: "Jordan Baker"
   - point: "The chapter ends with Nick contemplating his relationships and his cardinal virtue of honesty."
     link: "https://en.wikipedia.org/wiki/Nick_Carraway"
     link_label: "Nick Carraway"
 
 enhancements:
+  - id: "like-moths"
+    trigger: "like moths"
+    title: "Why Gatsby’s Guests Drift Like Moths"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Moth"
+    image_url: ""
+    image_caption: ""
+    content: "Nick sees men and girls come and go like moths among the whisperings and the champagne and the stars. Moths are drawn to light and flutter around it without purpose, sometimes burning themselves, and the image makes the guests seem weightless, attracted by glitter and unaware of the host. Hundreds of people pass through the house, and hardly any of them know Gatsby. The comparison is both beautiful and unkind, and it prepares us for the sad truth that this crowd, which treats his house as a free show, will mostly vanish when he is dead."
+  - id: "aquaplane"
+    trigger: "aquaplane"
+    title: "The Water Sport Gatsby’s Guests Enjoyed"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Aquaplaning"
+    image_url: ""
+    image_caption: ""
+    content: "On weekends Gatsby’s motor-boat and his aquaplane are put at the guests’ disposal. An aquaplane was a wide board towed behind a speedboat, ridden standing or kneeling, and it was a forerunner of water skiing, popular in the 1910s and 1920s among wealthy holidaymakers. Using the sport lets Fitzgerald show how lavish the amusements are, as Gatsby provides tools of pure pleasure without asking anything back. His generosity looks like carelessness, but it is also a method of attracting attention, in the hope that Daisy will one day hear of it."
   - id: "rolls-royce-became-an-omnibus"
     trigger: "Rolls-Royce became an omnibus"
     title: "How Gatsby's Car Became a Symbol of Excess"
@@ -36,6 +50,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Fitzgerald describes Gatsby’s Rolls-Royce as an \"omnibus,\" ferrying guests to and from his parties. This detail transforms the luxury car into a utilitarian vehicle, emphasizing Gatsby's desire to impress and accommodate his guests. Rolls-Royce, synonymous with opulence, was a status symbol in the 1920s, often associated with the elite. Gatsby’s use of his car for such a mundane purpose highlights the extravagance and performative nature of his wealth. By repurposing a symbol of exclusivity into a communal shuttle, Fitzgerald subtly critiques the emptiness of Gatsby's pursuit of social validation. The car, like Gatsby himself, is both grand and oddly misplaced, mirroring the tension between appearance and reality in the novel."
+  - id: "station-wagon"
+    trigger: "station wagon"
+    title: "The Wooden Wagon That Met Every Train"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Station_wagon"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s station wagon scampers like a brisk yellow bug to meet all trains, bringing his guests from the station. Early station wagons were built with wooden bodies on car chassis, and they were first used by hotels and rich households to carry people and luggage from railway stations. The vehicle is one more extravagance, since Gatsby has a car for his visitors in addition to his Rolls-Royce. The colour yellow runs through the book, in the cocktail music and in the car that will later matter so much, and the playful comparison with a bug keeps the tone light for now."
+  - id: "oranges-and-lemons"
+    trigger: "oranges and lemons"
+    title: "The Juicer That Squeezed Two Hundred Oranges"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Juicer"
+    image_url: ""
+    image_caption: ""
+    content: "Every Friday five crates of oranges and lemons arrive from a New York fruiterer, and every Monday they leave the back door as a pyramid of pulpless halves. In the kitchen a machine extracts the juice from two hundred oranges in half an hour if a little button is pressed two hundred times by a butler’s thumb. The electric juicer was a modern luxury of the 1920s. The detail is delightfully exact, but it also shows waste on a vast scale, with fruit consumed and thrown away for guests who barely register who pays for it."
+  - id: "hors-d-oeuvre"
+    trigger: "hors-d’oeuvre"
+    title: "The Fancy Starters on Gatsby’s Buffet"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hors_d%27oeuvre"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s buffet tables glitter with glistening hors-d’oeuvre, along with spiced baked hams and salads of harlequin designs. A hors-d’oeuvre is a small dish served before the main meal, and its French name made it a sign of sophistication, a small taste of Europe in a Long Island garden. The catering for Gatsby’s parties is lavish and theatrical: a caterer comes with several hundred feet of canvas and enough coloured lights to make a Christmas tree of the huge garden. The food, like the house, is meant to dazzle, and no cost is spared."
+  - id: "saxophones"
+    trigger: "saxophones"
+    title: "The Instrument That Gave the Jazz Age Its Voice"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Saxophone"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s orchestra has no small band but a full pit, with oboes and trombones and saxophones and viols and cornets and piccolos, and low and high drums. The saxophone, invented by Adolphe Sax in the 1840s, became the signature sound of jazz and dance music in the 1920s, and the wail of its tone was linked with youth and rebellion. Its presence signals that these parties are modern and fast. Fitzgerald, who gave the decade its name in his book Tales of the Jazz Age, pictures the party as an orchestrated spectacle, noisy, expensive and exhilarating."
   - id: "yellow-cocktail-music"
     trigger: "yellow cocktail music"
     title: "What Colorful Music Says About Gatsby's World"
@@ -43,6 +85,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Fitzgerald’s phrase \"yellow cocktail music\" evokes the vibrant, intoxicating atmosphere of Gatsby’s parties. Yellow, often associated with wealth and decadence, reflects the Jazz Age’s obsession with glamour and excess. Jazz itself was revolutionary in the 1920s, breaking traditional musical norms and symbolizing freedom and modernity. The pairing of color and music creates a sensory overload, mirroring the chaotic energy of Gatsby’s gatherings. Yet, beneath the glittering surface lies a hollowness—a recurring theme in the novel. The music, like Gatsby’s wealth, dazzles but ultimately fails to fulfill the deeper emotional needs of its audience."
+  - id: "gilda-gray"
+    trigger: "Gilda Gray"
+    title: "The Dancer Who Made the Shimmy Famous"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gilda_Gray"
+    image_url: ""
+    image_caption: ""
+    content: "As the party begins, a girl dances alone on the canvas platform, and the news goes round that she is Gilda Gray’s understudy from the Follies, which Nick calls erroneous. Gilda Gray, born in Poland, was a real star of the early 1920s, famous for the shimmy, a dance in which the dancer shakes the shoulders and torso, and she appeared in the Ziegfeld Follies and in silent films. Fitzgerald uses her name to place the party in the world of Broadway fame, where guests are eager to be told that someone is someone else."
+  - id: "follies"
+    trigger: "Follies"
+    title: "The Revue That Defined Showgirl Glamour"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ziegfeld_Follies"
+    image_url: ""
+    image_caption: ""
+    content: "A girl at Gatsby’s party is rumoured to be from the Follies, the Ziegfeld Follies, a lavish Broadway revue produced by Florenz Ziegfeld from 1907 to 1931. It combined comedians, singers and beautiful chorus girls in costumes that were famous for their splendour, and it launched stars such as Fanny Brice, W. C. Fields and Will Rogers. Nick says the news is erroneous, which shows how quickly rumours spread at the party. The party has begun, and it has the feel of a show in which every guest hopes to be taken for somebody famous."
   - id: "robin-s-egg-blue"
     trigger: "robin’s-egg blue"
     title: "Why Gatsby's Chauffeur Wears Robin's-Egg Blue"
@@ -53,7 +109,7 @@ enhancements:
   - id: "jordan-baker"
     trigger: "Jordan Baker"
     title: "The Golf Champion Who Hid a Scandal"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Jordan_Baker_(The_Great_Gatsby)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_characters"
     image_url: ""
     image_caption: ""
     content: "Jordan Baker, introduced as a poised and confident golfer, carries an air of sophistication that masks her dishonesty. Her scandal—allegedly cheating in a golf tournament—reveals the moral compromises often made by those seeking success in the Jazz Age. Golf, a sport associated with precision and integrity, becomes ironic in Jordan’s case, as her actions undermine these values. Fitzgerald uses Jordan to explore themes of deception and the erosion of traditional ethics in a world obsessed with appearances. Her relationship with Nick further complicates this, as he admires her charm despite recognizing her flaws, reflecting the novel’s nuanced portrayal of human imperfection."
@@ -64,6 +120,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Jordan Baker’s loss in the golf tournament and her earlier scandal of allegedly moving her ball during a semifinal round highlight the tension between ambition and integrity. Golf, a sport steeped in rules and fairness, serves as a backdrop for Jordan’s moral ambiguity. The scandal, though minor, reflects the broader theme of dishonesty in the novel, where appearances often mask deeper truths. Fitzgerald uses this detail to critique the Jazz Age’s erosion of traditional values, showing how even seemingly trivial actions can reveal larger societal flaws. Jordan’s casual attitude toward the incident mirrors the era’s cavalier approach to morality."
+  - id: "he-was-a-german-spy"
+    trigger: "he was a German spy"
+    title: "The Wartime Rumour About Gatsby"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Anti-German_sentiment"
+    image_url: ""
+    image_caption: ""
+    content: "Among the guests’ rumours is the claim that Gatsby was a German spy during the war. During the Great War, fear of German agents and sabotage swept the United States, and Americans of German descent were harassed, while sauerkraut was renamed liberty cabbage and German was banned in many schools. Only a few years later the suspicion still lingered, and it made a convenient accusation against a rich stranger with an unknown past. The rumour tells us less about Gatsby than about his guests, who cheerfully believe anything that makes the party more exciting."
   - id: "high-gothic-library"
     trigger: "high Gothic library"
     title: "Why Gatsby's Library Is a Masterpiece of Illusion"
@@ -78,6 +141,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Owl Eyes, with his \"owl-eyed spectacles,\" serves as a rare voice of insight in Gatsby’s world of artifice. Owls, often associated with wisdom and perception, symbolize his ability to see through Gatsby’s carefully constructed facade. His discovery that the books in Gatsby’s library are real—but uncut—reveals the performative nature of Gatsby’s wealth and intellect. Owl Eyes’ drunken musings contrast with the superficial gaiety of the party, offering a moment of clarity amidst the chaos. Fitzgerald uses this character to highlight the novel’s central theme: the tension between appearance and reality in the pursuit of the American Dream."
+  - id: "stoddard-lectures"
+    trigger: "Stoddard Lectures"
+    title: "The Travel Books on Gatsby’s Shelves"
+    wikipedia_url: "https://en.wikipedia.org/wiki/John_L._Stoddard"
+    image_url: ""
+    image_caption: ""
+    content: "Owl Eyes pulls Volume One of the Stoddard Lectures from the shelves as proof that the books are real. John L. Stoddard was an American lecturer who toured the country in the 1880s and 1890s with illustrated talks about foreign places. His lectures were published in a popular multi-volume set that sold widely in middle-class homes. The choice is funny and revealing: the library of a supposedly learned man holds a popular set bought by the yard. The pages are real, but the books are there for show, a stage property for Gatsby’s grand effect that nobody will ever read."
+  - id: "regular-belasco"
+    trigger: "regular Belasco"
+    title: "The Theatre Producer Owl Eyes Admires"
+    wikipedia_url: "https://en.wikipedia.org/wiki/David_Belasco"
+    image_url: ""
+    image_caption: ""
+    content: "The drunk man in the library calls Gatsby a regular Belasco, praising the realism of the books. David Belasco was a famous Broadway producer and playwright of the early twentieth century, known for stage sets so realistic that he once put a working restaurant on stage and bought a real room from a boarding house. Owl Eyes means that Gatsby’s library is a perfectly detailed piece of stagecraft, with real books, uncut. The comparison fits a host whose entire life is staged, and it makes the reader wonder how much of him is real."
   - id: "champagne-was-served"
     trigger: "champagne was served"
     title: "Why Champagne Defined Gatsby's Parties"
@@ -85,6 +162,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Glass_of_champagne.jpg/330px-Glass_of_champagne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "A glass of champagne (CC BY 2.0)"
     content: "Champagne, flowing freely at Gatsby’s parties, epitomizes the excess and indulgence of the Jazz Age. Once a symbol of European aristocracy, champagne became a marker of wealth and celebration in 1920s America, fueled by the era’s booming economy and Prohibition-era speakeasies. Its presence at Gatsby’s gatherings underscores his desire to impress and emulate the elite, even as his wealth is rooted in dubious means. Fitzgerald uses champagne as a metaphor for the fleeting nature of Gatsby’s dream—effervescent and intoxicating, yet ultimately insubstantial. The drink mirrors the novel’s exploration of the hollow pursuit of material success."
+  - id: "twenty-eighth-infantry"
+    trigger: "Twenty-eighth Infantry"
+    title: "The Regiment That Revealed an Old Soldier"
+    wikipedia_url: "https://en.wikipedia.org/wiki/28th_Infantry_Regiment_(United_States)"
+    image_url: ""
+    image_caption: ""
+    content: "At Gatsby’s party a polite stranger, who turns out to be Gatsby, asks whether Nick was in the First Division during the war. Nick says he was in the Twenty-eighth Infantry, and the man replies that he was in the Sixteenth until June 1918. Both were regiments of the real First Division, called the Big Red One, which fought at Cantigny, Soissons and the Meuse-Argonne. The brief exchange creates a bond between two veterans, and it makes the host seem a likeable, genuine soldier before Nick knows who he is."
   - id: "i-m-gatsby"
     trigger: "I’m Gatsby"
     title: "The Moment Gatsby Reveals Himself"
@@ -92,6 +176,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Warner_Baxter_as_Jay_Gatsby_in_The_Great_Gatsby_%281926%29_Retouched_Cropped.jpg/330px-Warner_Baxter_as_Jay_Gatsby_in_The_Great_Gatsby_%281926%29_Retouched_Cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Warner Baxter as Jay Gatsby in The Great Gatsby (1926) Retouched Cropped (Public domain)"
     content: "When Gatsby casually introduces himself to Nick, the moment is both understated and profound. Gatsby’s self-revelation contrasts with the grandiosity of his parties and the swirling rumors about his identity. This subtle introduction underscores the complexity of Gatsby’s character—a man who is both enigmatic and deeply human. Fitzgerald uses this moment to peel back the layers of Gatsby’s persona, revealing the charm and vulnerability beneath his carefully curated image. The simplicity of \"I’m Gatsby\" highlights the tension between the myth and the man, setting the stage for the novel’s exploration of identity and ambition."
+  - id: "carnegie-hall"
+    trigger: "Carnegie Hall"
+    title: "The Concert Hall Behind a Fictional Composer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Carnegie_Hall"
+    image_url: ""
+    image_caption: ""
+    content: "The orchestra leader introduces Vladimir Tostoff’s Jazz History of the World, which, he says, attracted so much attention at Carnegie Hall last May. Carnegie Hall, opened in 1891 on West Fifty-Seventh Street in Manhattan, was the most prestigious concert venue in the United States. Jazz had been brought there by bandleaders such as Paul Whiteman, whose famous Aeolian Hall concert of 1924 premiered Gershwin’s Rhapsody in Blue. The joke is in the pompous title, but the mention also shows that Gatsby is able to hire musicians who play in the best halls, as befits his wish to appear a great figure."
   - id: "vladmir-tostoff-s-jazz-history-of-the-world"
     trigger: "Vladmir Tostoff’s Jazz History of the World"
     title: "The Fictional Symphony That Captured the Jazz Age"
@@ -127,10 +218,38 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Nick’s work at Probity Trust reflects his grounding in the world of finance and his pursuit of stability. The name \"Probity,\" meaning integrity, contrasts sharply with the moral ambiguity of the characters he encounters in Gatsby’s world. Investment banking in the 1920s was a booming industry, fueled by post-war economic growth and speculation. Nick’s role in this field underscores his pragmatic nature and his struggle to reconcile the values of his upbringing with the decadence of the Jazz Age. Fitzgerald uses Nick’s profession to highlight his outsider status, as he observes the excesses around him with a critical eye."
+  - id: "yale-club"
+    trigger: "Yale Club"
+    title: "The Gloomy Dinners at Nick’s Club"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yale_Club_of_New_York_City"
+    image_url: ""
+    image_caption: ""
+    content: "Nick took dinner usually at the Yale Club in New York, and, he says, for some reason it was the gloomiest event of his day. The club is a social home for Yale graduates near Grand Central Terminal, with a large building on Vanderbilt Avenue finished in 1915, and it had a library, where Nick spent a conscientious hour studying investments and securities. The detail shows his lonely routine as a young bond salesman, among men of his own class, and it explains why the city’s glittering nights, and Gatsby’s parties, seem such a contrast."
+  - id: "madison-avenue"
+    trigger: "Madison Avenue"
+    title: "The Avenue of Nick’s Evening Strolls"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Madison_Avenue"
+    image_url: ""
+    image_caption: ""
+    content: "On mellow nights Nick strolls down Madison Avenue after his dinner and his hour of study, and he says he began to like New York, the racy, adventurous feel of it at night. Madison Avenue, running through Murray Hill and Midtown, was lined with shops, clubs and offices, and in the 1920s it was becoming the home of the American advertising industry. As he walks, Nick feels the constant flicker of men, women and machines, which gives the restless eye satisfaction. The mood of excited loneliness is a keynote for the whole book."
+  - id: "murray-hill-hotel"
+    trigger: "Murray Hill Hotel"
+    title: "The Old Hotel on Nick’s Night Walk"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Murray_Hill_Hotel_(New_York_City)"
+    image_url: ""
+    image_caption: ""
+    content: "If the night was mellow, Nick says, he strolled down Madison Avenue past the old Murray Hill Hotel, and over 33rd Street to the Pennsylvania Station. The Murray Hill Hotel stood on Park Avenue between 40th and 41st Streets, a short walk from Grand Central, and for decades it was a respectable choice for businessmen. Nick calls it old, which suggests that it was already a little behind the times in the 1920s. The detail traces the nightly walk that makes him begin to like New York, with its racy, adventurous feel at night."
+  - id: "fifth-avenue"
+    trigger: "Fifth Avenue"
+    title: "The Walk That Made Nick Feel Like a Romantic"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fifth_Avenue"
+    image_url: ""
+    image_caption: ""
+    content: "Nick says he liked to walk up Fifth Avenue and pick out romantic women from the crowd, imagining that in a few minutes he would enter their lives. Fifth Avenue, the main street of Manhattan’s wealthy shopping district, ran past great stores, hotels and mansions, and it was the place to see and be seen in the 1920s. Nick’s daydream is gentle and harmless, but it exposes his loneliness and his habit of watching. He is a bystander who loves to look at other people’s lives, which is precisely the role that makes him the right narrator for Gatsby’s story."
   - id: "forties-were-lined-five-deep"
     trigger: "Forties were lined five deep"
     title: "Why New York's Theatre District Was Electric"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Theatre_district"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Theater_District,_Manhattan"
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/NYC_-_Theatre_district_-_1853.jpg/330px-NYC_-_Theatre_district_-_1853.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Theatre district. New York City 2005 (CC BY-SA 3.0)"
     content: "Nick’s description of the \"Forties lined five deep\" with taxicabs captures the bustling energy of New York’s theatre district in the 1920s. The area, centered around Times Square, was a hub of entertainment and nightlife, drawing crowds eager for Broadway shows and speakeasies. The image of throbbing cabs and intimate voices evokes the city’s vibrancy and its promise of excitement. Yet, Nick’s sinking heart reveals his sense of alienation amidst the gaiety, highlighting the novel’s theme of loneliness in a crowd. Fitzgerald uses this setting to contrast the allure of urban life with its underlying emptiness, mirroring Gatsby’s own pursuit of an unattainable dream."
@@ -150,19 +269,19 @@ enhancements:
     content: "Nick’s assertion that he is \"one of the few honest people\" he has ever known is a defining moment in his narrative. This self-assessment positions him as a moral observer amidst the decadence and deceit of Gatsby’s world. Yet, his honesty is complicated by his passive complicity in the events around him, including Gatsby’s illegal activities and Daisy’s manipulations. Fitzgerald uses Nick’s claim to explore themes of self-perception and moral ambiguity, highlighting the difficulty of maintaining integrity in a corrupt society. The statement invites readers to question whether Nick’s honesty is genuine or simply another layer of his carefully constructed persona."
 ---
 There was music from my neighbour’s house through the summer nights.
-In his blue gardens men and girls came and went like moths among the
+In his blue gardens men and girls came and went **like moths** among the
 whisperings and the champagne and the stars. At high tide in the
 afternoon I watched his guests diving from the tower of his raft, or
 taking the sun on the hot sand of his beach while his two motorboats
-slit the waters of the Sound, drawing aquaplanes over cataracts of
+slit the waters of the Sound, drawing **aquaplane**s over cataracts of
 foam. On weekends his **Rolls-Royce became an omnibus**, bearing parties
 to and from the city between nine in the morning and long past
-midnight, while his station wagon scampered like a brisk yellow bug to
+midnight, while his **station wagon** scampered like a brisk yellow bug to
 meet all trains. And on Mondays eight servants, including an extra
 gardener, toiled all day with mops and scrubbing-brushes and hammers
 and garden-shears, repairing the ravages of the night before.
 
-Every Friday five crates of oranges and lemons arrived from a
+Every Friday five crates of **oranges and lemons** arrived from a
 fruiterer in New York—every Monday these same oranges and lemons left
 his back door in a pyramid of pulpless halves. There was a machine in
 the kitchen which could extract the juice of two hundred oranges in
@@ -172,14 +291,14 @@ butler’s thumb.
 At least once a fortnight a corps of caterers came down with several
 hundred feet of canvas and enough coloured lights to make a Christmas
 tree of Gatsby’s enormous garden. On buffet tables, garnished with
-glistening hors-d’oeuvre, spiced baked hams crowded against salads of
+glistening **hors-d’oeuvre**, spiced baked hams crowded against salads of
 harlequin designs and pastry pigs and turkeys bewitched to a dark
 gold. In the main hall a bar with a real brass rail was set up, and
 stocked with gins and liquors and with cordials so long forgotten that
 most of his female guests were too young to know one from another.
 
 By seven o’clock the orchestra has arrived, no thin five-piece affair,
-but a whole pitful of oboes and trombones and saxophones and viols and
+but a whole pitful of oboes and trombones and **saxophones** and viols and
 cornets and piccolos, and low and high drums. The last swimmers have
 come in from the beach now and are dressing upstairs; the cars from
 New York are parked five deep in the drive, and already the halls and
@@ -205,8 +324,8 @@ Suddenly one of these gypsies, in trembling opal, seizes a cocktail
 out of the air, dumps it down for courage and, moving her hands like
 Frisco, dances out alone on the canvas platform. A momentary hush; the
 orchestra leader varies his rhythm obligingly for her, and there is a
-burst of chatter as the erroneous news goes around that she is Gilda
-Gray’s understudy from the Follies. The party has begun.
+burst of chatter as the erroneous news goes around that she is **Gilda
+Gray**’s understudy from the **Follies**. The party has begun.
 
 I believe that on the first night I went to Gatsby’s house I was one
 of the few guests who had actually been invited. People were not
@@ -381,10 +500,10 @@ durable cardboard. Matter of fact, they’re absolutely real.  Pages
 and—Here! Lemme show you.”
 
 Taking our scepticism for granted, he rushed to the bookcases and
-returned with Volume One of the Stoddard Lectures.
+returned with Volume One of the **Stoddard Lectures**.
 
 “See!” he cried triumphantly. “It’s a bona-fide piece of printed
-matter. It fooled me. This fella’s a regular Belasco. It’s a
+matter. It fooled me. This fella’s a **regular Belasco**. It’s a
 triumph. What thoroughness! What realism! Knew when to stop,
 too—didn’t cut the pages. But what do you want? What do you expect?”
 
@@ -438,7 +557,7 @@ At a lull in the entertainment the man looked at me and smiled.
 “Your face is familiar,” he said politely. “Weren’t you in the First
 Division during the war?”
 
-“Why yes. I was in the Twenty-eighth Infantry.”
+“Why yes. I was in the **Twenty-eighth Infantry**.”
 
 “I was in the Sixteenth until June nineteen-eighteen. I knew I’d seen
 you somewhere before.”
@@ -532,7 +651,7 @@ leader rang out suddenly above the echolalia of the garden.
 
 “Ladies and gentlemen,” he cried. “At the request of Mr. Gatsby we are
 going to play for you Mr. Vladmir Tostoff’s latest work, which
-attracted so much attention at Carnegie Hall last May. If you read the
+attracted so much attention at **Carnegie Hall** last May. If you read the
 papers you know there was a big sensation.” He smiled with jovial
 condescension, and added: “Some sensation!” Whereupon everybody
 laughed.
@@ -782,17 +901,17 @@ worked in the accounting department, but her brother began throwing
 mean looks in my direction, so when she went on her vacation in July I
 let it blow quietly away.
 
-I took dinner usually at the Yale Club—for some reason it was the
+I took dinner usually at the **Yale Club**—for some reason it was the
 gloomiest event of my day—and then I went upstairs to the library and
 studied investments and securities for a conscientious hour. There
 were generally a few rioters around, but they never came into the
 library, so it was a good place to work. After that, if the night was
-mellow, I strolled down Madison Avenue past the old Murray Hill Hotel,
+mellow, I strolled down **Madison Avenue** past the old **Murray Hill Hotel**,
 and over 33rd Street to the Pennsylvania Station.
 
 I began to like New York, the racy, adventurous feel of it at night,
 and the satisfaction that the constant flicker of men and women and
-machines gives to the restless eye. I liked to walk up Fifth Avenue
+machines gives to the restless eye. I liked to walk up **Fifth Avenue**
 and pick out romantic women from the crowd and imagine that in a few
 minutes I was going to enter into their lives, and no one would ever
 know or disapprove. Sometimes, in my mind, I followed them to their

@@ -16,13 +16,13 @@ summary:
     link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
     link_label: "F. Scott Fitzgerald"
   - point: "Gatsby nervously prepares for Daisy's arrival, obsessing over details like cutting Nick's grass and sending flowers."
-    link: "https://en.wikipedia.org/wiki/West_Egg_and_East_Egg"
+    link: "https://en.wikipedia.org/wiki/Long_Island"
     link_label: "West Egg and East Egg"
   - point: "Gatsby and Daisy finally reunite, rekindling emotions from their shared past."
     link: "https://en.wikipedia.org/wiki/American_Dream"
     link_label: "American Dream"
   - point: "Gatsby's illusions about Daisy begin to clash with reality, revealing the fragility of his dream."
-    link: "https://en.wikipedia.org/wiki/Illusion_and_reality_in_literature"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#The_American_Dream"
     link_label: "Illusion and reality in literature"
   - point: "The chapter ends with Gatsby and Daisy together, but Nick senses the tension between Gatsby's idealized vision and reality."
     link: "https://en.wikipedia.org/wiki/Romanticism"
@@ -36,6 +36,20 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/1915_George_Sterling_verses_Panama-Pacific_International_Exposition.tif/lossy-page1-330px-1915_George_Sterling_verses_Panama-Pacific_International_Exposition.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "1915 George Sterling verses Panama-Pacific International Exposition (Public domain)"
     content: "When Nick compares Gatsby's illuminated mansion to the World’s Fair, he evokes the grandeur and spectacle of events like the 1893 Chicago World’s Fair, which dazzled visitors with its electric lights and architectural marvels. The World’s Fair symbolized progress, innovation, and the American Dream, themes that resonate deeply with Gatsby’s own aspirations. Gatsby’s house, lit from tower to cellar, mirrors his attempt to create a world of wonder and allure for Daisy, a dream as grand and artificial as the fair itself. Yet, the silence and emptiness within the house hint at the hollowness of his pursuit. Fitzgerald uses this imagery to underscore the tension between Gatsby’s idealized vision and the reality of his loneliness."
+  - id: "coney-island"
+    trigger: "Coney Island"
+    title: "The Amusement Park Gatsby Offers at Midnight"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Coney_Island"
+    image_url: ""
+    image_caption: ""
+    content: "Standing on his lawn before the reunion, Gatsby jumps from idea to idea, saying, let’s go to Coney Island, old sport, in my car. Coney Island, on the southern tip of Brooklyn, was the most famous seaside amusement area in America, with Luna Park, Dreamland, Steeplechase Park, roller coasters, sideshows and a boardwalk, and thousands of New Yorkers went there in summer. Gatsby’s proposal at a late hour shows his nervous energy as he waits for Daisy’s visit, and it also shows how little he knows of ordinary ease. He can only offer entertainment on a huge scale."
+  - id: "invite-her-over-here-to-tea"
+    trigger: "invite her over here to tea"
+    title: "The Modest Meeting That Changed Everything"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Afternoon_tea"
+    image_url: ""
+    image_caption: ""
+    content: "Nick agrees to ask Daisy over for tea, in the quiet that Gatsby has begged him to arrange. Afternoon tea, a light meal of tea, sandwiches and cakes taken at four or five o’clock, became fashionable in Britain in the nineteenth century and had spread to American hotels and homes by the 1920s. It was a gentle, respectable occasion where two people could meet without any suggestion of scandal. Gatsby wants the meeting to look ordinary, but he adds detail after detail, and the quiet little tea becomes a great, nervous drama."
   - id: "wolfshiem-gangster-connection"
     trigger: "Wolfshiem"
     title: "The Shadowy Figure Behind Gatsby’s Fortune"
@@ -43,6 +57,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When Gatsby reassures Nick that he wouldn’t have to deal with Wolfshiem, he alludes to the shady underworld connections that helped build his wealth. Meyer Wolfshiem, based on real-life gangster Arnold Rothstein, is infamous for fixing the 1919 World Series. This association casts a dark shadow over Gatsby’s seemingly glamorous life, revealing the moral compromises behind his success. Fitzgerald uses Wolfshiem to critique the corruption lurking beneath the surface of the American Dream, suggesting that Gatsby’s pursuit of wealth and status is tainted by unethical means. The mention of Wolfshiem adds complexity to Gatsby’s character, blending charm with moral ambiguity."
+  - id: "a-greenhouse-arrived"
+    trigger: "a greenhouse arrived"
+    title: "The Flowers Sent by the Greenhouse Load"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Greenhouse"
+    image_url: ""
+    image_caption: ""
+    content: "Before Daisy comes, Gatsby sends over so many flowers for Nick’s tiny house that, at two o’clock, a greenhouse arrives from his own estate, with innumerable receptacles to hold the blooms. A greenhouse is a glass building in which plants are grown under controlled conditions, and wealthy estates kept them to raise cut flowers all year. Sending a whole greenhouse is a typical Gatsby gesture, extravagant and sincere, and it fills Nick’s living room. It also shows how far he will go to make everything perfect, which is his weakness as well as his charm."
+  - id: "clay-s-economics"
+    trigger: "Clay’s Economics"
+    title: "The Textbook Gatsby Pretends to Read"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_Clay_(economist)"
+    image_url: ""
+    image_caption: ""
+    content: "While waiting for Daisy, Gatsby looks with vacant eyes through a copy of Clay’s Economics. The book is Economics: An Introduction for the General Reader by Henry Clay, an English economist, first published in 1916 and widely used in the 1920s as a plain guide to the subject. The detail is comic, because a man who has made a fortune is staring blankly at a primer on how money works. It also fits the book’s picture of a man too nervous to concentrate, who holds up a book in front of his anxiety while the rain keeps falling."
   - id: "castle-rackrent-secret"
     trigger: "Castle Rackrent"
     title: "What’s the Secret of Castle Rackrent?"
@@ -53,7 +81,7 @@ enhancements:
   - id: "defunct-mantelpiece-clock"
     trigger: "defunct mantelpiece clock"
     title: "The Clock That Couldn’t Stop Time"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time_in_literature"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Time"
     image_url: ""
     image_caption: "Literature saving the past from destruction by Time, in the Wellcome V0007539 (CC BY 4.0)"
     content: "When Gatsby leans against the defunct mantelpiece clock, nearly toppling it, the moment brims with symbolism. The clock, broken and precarious, represents Gatsby’s attempt to stop time and reclaim the past with Daisy. Time is a recurring theme in the novel, and this scene poignantly illustrates the impossibility of reversing its flow. Gatsby’s trembling fingers catching the clock mirror his desperate grasp at a dream that is slipping away. Fitzgerald uses this image to highlight the futility of Gatsby’s quest, suggesting that while he can recreate the setting, he cannot undo the years that have passed."
@@ -85,6 +113,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The marble steps leading to Gatsby’s house symbolize the opulence and permanence he strives to project. Marble, historically associated with classical architecture and wealth, reflects Gatsby’s desire to create a timeless, grandiose image for Daisy. Yet, the emptiness of the house and the absence of guests contrast sharply with the grandeur of the steps, highlighting the hollowness of his dream. Fitzgerald uses this imagery to critique the superficiality of material success, suggesting that while Gatsby can build a palace, he cannot fill it with genuine connection or meaning. The marble steps become a poignant reminder of the gap between appearance and reality."
+  - id: "marie-antoinette-music-rooms"
+    trigger: "Marie Antoinette music-rooms"
+    title: "Rooms Dressed Like a French Queen’s"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Marie_Antoinette"
+    image_url: ""
+    image_caption: ""
+    content: "As Gatsby shows Daisy his house, Nick wanders through Marie Antoinette music-rooms and Restoration Salons. Marie Antoinette, the last queen of France before the Revolution, was the very picture of eighteenth-century courtly luxury, with her gilded rooms, her music and her fashions. Her name was commonly used by decorators of the period to describe a French style of furniture. Gatsby’s mansion is a patchwork of borrowed European styles, put together at speed, and Nick feels as though guests are hidden behind every couch, a hint of how hollow and staged the whole place is."
+  - id: "restoration-salons"
+    trigger: "Restoration Salons"
+    title: "The English Style Behind Gatsby’s Drawing Rooms"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Restoration_(England)"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s house also has Restoration Salons, a phrase that refers to the period after 1660 when Charles II returned to the English throne and the court revived a taste for lavish entertainment, wit and fine furnishing. Restoration style in furniture and interiors, with its carved wood, rich fabrics and showy ornament, was often copied by American decorators of the 1920s. Along with the French music-rooms, the English salons make the house a museum of borrowed grandeur. Nick’s tour shows that Gatsby has gathered the best of everything in Europe except time and tradition, which cannot be bought."
   - id: "merton-college-library"
     trigger: "the Merton College Library"
     title: "Why Gatsby’s Library Feels Like Oxford"
@@ -92,6 +134,27 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Merton_College%2C_Oxford_from_Merton_Field.jpg/330px-Merton_College%2C_Oxford_from_Merton_Field.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Merton College, Oxford from Merton Field (CC BY-SA 4.0)"
     content: "When Gatsby shows Daisy 'the Merton College Library,' he evokes the prestige and tradition of Oxford University. Merton College, one of Oxford’s oldest institutions, symbolizes intellectual achievement and historical depth. Gatsby’s library, filled with uncut books, mirrors his attempt to project sophistication and erudition, even as it reveals the performative nature of his persona. The reference to Merton College adds a layer of irony, as Gatsby’s wealth and charm cannot fully mask the gaps in his authenticity. Fitzgerald uses this detail to underscore the tension between Gatsby’s aspirations and the reality of his origins, highlighting the fragility of his constructed identity."
+  - id: "liver-exercises"
+    trigger: "liver exercises"
+    title: "Physical Culture on Gatsby’s Floor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Physical_culture"
+    image_url: ""
+    image_caption: ""
+    content: "Klipspringer is found on the floor of a bedroom doing liver exercises. The craze for physical culture, led by promoters such as Bernarr Macfadden, taught that daily exercises could improve the organs, cure disease and build a better body, and in the 1920s the idea spread through magazines and gyms. Complaints about the liver were a stock joke of the period, and Nick’s deadpan description makes Klipspringer a comic figure and adds to the mood of strange hospitality at Gatsby’s house."
+  - id: "klipspringer"
+    trigger: "Klipspringer"
+    title: "The Boarder Named After a Mountain Antelope"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Klipspringer"
+    image_url: ""
+    image_caption: ""
+    content: "During the tour Nick comes on a dishevelled man in pyjamas doing exercises on the floor, Mr. Klipspringer, the boarder. A klipspringer is a small African antelope that leaps nimbly from rock to rock. It is a likely joke by Fitzgerald, since the man leaps from one patron to another, living for free at Gatsby’s house and playing the piano for the guests. His name suits a parasite who is quick to move on, and the novel will return to him later on."
+  - id: "an-adam-s-study"
+    trigger: "an Adam’s study"
+    title: "The Scottish Architect Behind Gatsby’s Study"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Adam_style"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby takes Daisy through his own apartment, including a bedroom and bath and an Adam’s study. Robert Adam was an eighteenth-century Scottish architect and designer whose neoclassical interiors, with delicate plaster ceilings and slender furniture, were the height of elegance in Georgian Britain, and Adam style was often imitated in American mansions. A room in Adam style suggests learning and taste. Gatsby’s study is another set piece, quite as impressive as the Marie Antoinette music-rooms, and Daisy, looking at it all, is moved to tears over his belongings."
   - id: "chartreuse-drink"
     trigger: "Chartreuse"
     title: "The Mysterious Liquor That Gatsby Serves"
@@ -99,20 +162,34 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Schnapsglas_gr%C3%BCner_Chartreuse.jpg/330px-Schnapsglas_gr%C3%BCner_Chartreuse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "A shot glass of green Chartreuse (CC BY-SA 3.0)"
     content: "When Gatsby serves Chartreuse, he adds an exotic touch to the scene. Chartreuse, a French herbal liqueur made by Carthusian monks, is known for its vibrant green color and complex flavor. Its history dates back to the 18th century, and it carries an air of sophistication and mystery. Gatsby’s choice of drink reflects his desire to impress Daisy with luxury and rarity, aligning with his broader efforts to create an enchanting world for her. Fitzgerald uses this detail to emphasize Gatsby’s meticulous attention to appearances, while also hinting at the artificiality of his efforts to recreate the past."
+  - id: "man-in-england-who-buys-me-clothes"
+    trigger: "man in England who buys me clothes"
+    title: "The Tailor Overseas Behind the Silk Shirts"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Savile_Row"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby opens his cabinets to show Daisy and Nick suits, dressing-gowns and ties, and says, I’ve got a man in England who buys me clothes. He sends over a selection at the start of each season. English tailoring, especially from London’s Savile Row, set the standard for men’s clothes, and rich Americans paid a lot for it. The remark is both a brag and an admission, since Gatsby cannot easily trust his own taste and has hired someone to choose. The pile of shirts that follows makes the display extravagant and strangely touching."
+  - id: "such-beautiful-shirts"
+    trigger: "such beautiful shirts"
+    title: "Why Daisy Cries Over a Pile of Shirts"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Shirt"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby tosses his shirts from the shelves until they cover the table in a rich disarray of linen, silk and flannel, in stripes, scrolls and plaids of coral, apple-green, lavender and faint orange, with monograms of Indian blue. Daisy bends her head into them and cries, because she has never seen such beautiful shirts before. The famous moment is both comic and moving, since Daisy is overwhelmed by Gatsby’s display of wealth and by his devotion, and Nick sees it as the high point of the reunion. Material things stand in for feeling in a world that is short of it."
   - id: "green-light-symbolism"
     trigger: "green light"
     title: "The Green Light That Haunts Gatsby’s Dreams"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "The green light at the end of Daisy’s dock is one of the most iconic symbols in 'The Great Gatsby.' For Gatsby, it represents hope, ambition, and the dream of a future with Daisy. Its physical proximity contrasts with the emotional and social distance between them, making it a poignant emblem of unattainable desire. When Gatsby realizes that the light’s 'colossal significance' has vanished, Fitzgerald captures the moment his dream begins to unravel. The green light shifts from a beacon of possibility to a reminder of the limits of aspiration, encapsulating the novel’s critique of the American Dream."
-  - id: "deathless-song"
-    trigger: "deathless song"
-    title: "Why Daisy’s Voice Is a Deathless Song"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+  - id: "detroit"
+    trigger: "Detroit"
+    title: "The City Gatsby’s Caller Called Small"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Detroit"
     image_url: ""
     image_caption: ""
-    content: "When Gatsby hears Daisy’s voice described as a 'deathless song,' it captures the hypnotic allure she holds over him. Her voice, often noted for its musicality, symbolizes both her charm and the unattainable ideal she represents. The phrase 'deathless song' suggests timelessness and immortality, aligning with Gatsby’s dream of eternal love and perfection. Yet, it also hints at the danger of his obsession, as he elevates Daisy to a pedestal she cannot realistically occupy. Fitzgerald uses this description to explore the power of illusion and the emotional intensity that drives Gatsby’s pursuit, making Daisy’s voice a central motif in the novel."
+    content: "Gatsby takes a telephone call in the middle of Daisy’s visit, and says that a man is no use if Detroit is his idea of a small town. Detroit was one of the fastest-growing cities in America, with a population of nearly a million by 1920, and it was the centre of the automobile industry, home to Ford, General Motors and Dodge. The remark hints at a business conversation about Gatsby’s hidden affairs. It also shows that Gatsby’s dealings reach across the Midwest and that he uses his telephone to keep them out of sight."
   - id: "the-love-nest-song"
     trigger: "The Love Nest"
     title: "The Song That Sets the Mood in Gatsby’s Mansion"
@@ -120,6 +197,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When Klipspringer plays 'The Love Nest,' the choice of song adds a layer of irony to the scene. Written in 1920, the song celebrates domestic bliss and romantic ideals, contrasting sharply with the tension and uncertainty in Gatsby’s mansion. The lyrics, with their focus on love and happiness, underscore Gatsby’s yearning for a life with Daisy, even as the reality of their reunion falls short of his dream. Fitzgerald uses this musical moment to highlight the gap between Gatsby’s aspirations and the world he inhabits, making the song a poignant counterpoint to the unfolding drama."
+  - id: "deathless-song"
+    trigger: "deathless song"
+    title: "Why Daisy’s Voice Is a Deathless Song"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
+    image_url: ""
+    image_caption: ""
+    content: "When Gatsby hears Daisy’s voice described as a 'deathless song,' it captures the hypnotic allure she holds over him. Her voice, often noted for its musicality, symbolizes both her charm and the unattainable ideal she represents. The phrase 'deathless song' suggests timelessness and immortality, aligning with Gatsby’s dream of eternal love and perfection. Yet, it also hints at the danger of his obsession, as he elevates Daisy to a pedestal she cannot realistically occupy. Fitzgerald uses this description to explore the power of illusion and the emotional intensity that drives Gatsby’s pursuit, making Daisy’s voice a central motif in the novel."
 ---
 When I came home to West Egg that night I was afraid for a moment that
 my house was on fire. Two o’clock and the whole corner of the
@@ -137,7 +221,7 @@ away I saw Gatsby walking toward me across his lawn.
 “Your place looks like the **World’s Fair**,” I said.
 
 “Does it?” He turned his eyes toward it absently. “I have been
-glancing into some of the rooms. Let’s go to Coney Island, old
+glancing into some of the rooms. Let’s go to **Coney Island**, old
 sport. In my car.”
 
 “It’s too late.”
@@ -152,7 +236,7 @@ use of it all summer.”
 He waited, looking at me with suppressed eagerness.
 
 “I talked with Miss Baker,” I said after a moment. “I’m going to call
-up Daisy tomorrow and invite her over here to tea.”
+up Daisy tomorrow and **invite her over here to tea**.”
 
 “Oh, that’s all right,” he said carelessly. “I don’t want to put you
 to any trouble.”
@@ -229,7 +313,7 @@ had forgotten to tell my Finn to come back, so I drove into West Egg
 Village to search for her among soggy whitewashed alleys and to buy
 some cups and lemons and flowers.
 
-The flowers were unnecessary, for at two o’clock a greenhouse arrived
+The flowers were unnecessary, for at two o’clock **a greenhouse arrived**
 from Gatsby’s, with innumerable receptacles to contain it. An hour
 later the front door opened nervously, and Gatsby in a white flannel
 suit, silver shirt, and gold-coloured tie, hurried in. He was pale,
@@ -501,8 +585,8 @@ kiss-me-at-the-gate. It was strange to reach the **marble steps** and find
 no stir of bright dresses in and out the door, and hear no sound but
 bird voices in the trees.
 
-And inside, as we wandered through Marie Antoinette music-rooms and
-Restoration Salons, I felt that there were guests concealed behind
+And inside, as we wandered through **Marie Antoinette music-rooms** and
+**Restoration Salons**, I felt that there were guests concealed behind
 every couch and table, under orders to be breathlessly silent until we
 had passed through. As Gatsby closed the door of “**the Merton College
 Library**” I could have sworn I heard the owl-eyed man break into
@@ -511,10 +595,10 @@ ghostly laughter.
 We went upstairs, through period bedrooms swathed in rose and lavender
 silk and vivid with new flowers, through dressing-rooms and poolrooms,
 and bathrooms with sunken baths—intruding into one chamber where a
-dishevelled man in pyjamas was doing liver exercises on the floor. It
-was Mr. Klipspringer, the “boarder.” I had seen him wandering hungrily
+dishevelled man in pyjamas was doing **liver exercises** on the floor. It
+was Mr. **Klipspringer**, the “boarder.” I had seen him wandering hungrily
 about the beach that morning. Finally we came to Gatsby’s own
-apartment, a bedroom and a bath, and an Adam’s study, where we sat
+apartment, a bedroom and a bath, and **an Adam’s study**, where we sat
 down and drank a glass of some **Chartreuse** he took from a cupboard in
 the wall.
 
@@ -544,7 +628,7 @@ Recovering himself in a minute he opened for us two hulking patent
 cabinets which held his massed suits and dressing-gowns and ties, and
 his shirts, piled like bricks in stacks a dozen high.
 
-“I’ve got a man in England who buys me clothes. He sends over a
+“I’ve got a **man in England who buys me clothes**. He sends over a
 selection of things at the beginning of each season, spring and fall.”
 
 He took out a pile of shirts and began throwing them, one by one,
@@ -556,7 +640,7 @@ coral and apple-green and lavender and faint orange, with monograms of
 indian blue. Suddenly, with a strained sound, Daisy bent her head into
 the shirts and began to cry stormily.
 
-“They’re such beautiful shirts,” she sobbed, her voice muffled in the
+“They’re **such beautiful shirts**,” she sobbed, her voice muffled in the
 thick folds. “It makes me sad because I’ve never seen such—such
 beautiful shirts before.”
 
@@ -606,7 +690,7 @@ rubies when the phone rang, and Gatsby took up the receiver.
 
 “Yes … Well, I can’t talk now … I can’t talk now, old sport … I said a
 small town … He must know what a small town is … Well, he’s no use to
-us if Detroit is his idea of a small town …”
+us if **Detroit** is his idea of a small town …”
 
 He rang off.
 

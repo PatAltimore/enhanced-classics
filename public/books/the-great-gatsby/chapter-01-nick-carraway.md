@@ -13,7 +13,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/The_Great_Gatsby"
     link_label: "The Great Gatsby"
   - point: "Nick moves from the Midwest to West Egg, a less fashionable area near New York City, to pursue a career in bonds."
-    link: "https://en.wikipedia.org/wiki/West_Egg_and_East_Egg"
+    link: "https://en.wikipedia.org/wiki/Long_Island"
     link_label: "West Egg and East Egg"
   - point: "Nick describes Gatsby's mansion as a grand imitation of a French Hôtel de Ville, introducing Gatsby as a mysterious figure."
     link: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
@@ -22,7 +22,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Georgian_architecture"
     link_label: "Georgian architecture"
   - point: "Nick observes Gatsby reaching out toward a green light across the bay, symbolizing unattainable dreams."
-    link: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    link: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     link_label: "Symbolism in The Great Gatsby"
 
 enhancements:
@@ -40,6 +40,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Nick reflects on the fleeting and shallow emotions of the people he encounters, describing them as 'abortive sorrows' and 'short-winded elations.' This phrase captures the transient nature of the Jazz Age, a time when emotional depth was often sacrificed for surface-level pleasures. The term evokes a sense of incompleteness and futility, mirroring Gatsby’s own tragic pursuit of an idealized dream. Fitzgerald uses this language to critique the emptiness of the era’s social and moral fabric, setting the stage for the novel’s exploration of ambition, loss, and the cost of chasing illusions."
+  - id: "dukes-of-buccleuch"
+    trigger: "Dukes of Buccleuch"
+    title: "A Family Legend of Scottish Nobility"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Duke_of_Buccleuch"
+    image_url: ""
+    image_caption: ""
+    content: "Nick says the Carraways have a tradition that they descend from the Dukes of Buccleuch, one of the grandest titles in Scotland. The Duke of Buccleuch has long been among the largest landowners in Britain. Nick’s tone is gently ironic: it is only a family tradition, while the real founder of his line was a great-uncle who started a hardware business. The detail shows how old American families of the Midwest liked to claim noble roots, and it prepares the novel’s larger interest in invented pedigrees, a theme that returns with the mysterious neighbour Nick is about to describe."
+  - id: "sent-a-substitute-to-the-civil-war"
+    trigger: "sent a substitute to the Civil War"
+    title: "How a Rich Man Bought His Way Out of the Draft"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Conscription_in_the_United_States"
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s great-uncle came to the Midwest in 1851 and, in Nick’s dry words, sent a substitute to the Civil War. During the war the Union draft allowed a man who was called up to hire someone to serve in his place, or to pay a commutation fee of $300, and many wealthy men did so. The remark is a small joke about the family’s respectability, since the founder of the Carraway fortune avoided the fighting while others died. It also marks a contrast with Nick himself, who later joins the Great War and comes home restless."
+  - id: "new-haven"
+    trigger: "New Haven"
+    title: "Why Nick, Tom and Gatsby Orbit Yale"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yale_University"
+    image_url: ""
+    image_caption: ""
+    content: "Nick graduated from New Haven in 1915, the home of Yale University, and Tom Buchanan was a famous football star there. Yale in the early twentieth century was a training ground for the American upper class, with its secret societies and its football glory. Fitzgerald himself went to Princeton, but he gave his narrator and his villain the same elite Ivy League background. That shared past explains the easy, unspoken tie between Nick and Tom, and it sets both apart from the stranger next door, whose background nobody can place."
   - id: "the-great-war"
     trigger: "the Great War"
     title: "How World War I Shaped Gatsby’s World"
@@ -47,6 +68,48 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "French soldiers moving into attack from their trench during the Battle of Verdun, 1916. (Public domain)"
     content: "Nick mentions his participation in 'the Great War,' a reference to World War I, which profoundly shaped the world he inhabits. The war disrupted traditional social structures and ushered in an era of disillusionment and hedonism, epitomized by the Roaring Twenties. For Gatsby, the war was a turning point, providing him with the opportunity to reinvent himself and pursue wealth and status. Fitzgerald uses the war as a backdrop to explore themes of identity, ambition, and the societal shifts that define the Jazz Age. The war’s shadow looms over the characters, influencing their choices and highlighting the fragility of their dreams."
+  - id: "bond-business"
+    trigger: "bond business"
+    title: "The Career Everyone Went East to Chase"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bond_(finance)"
+    image_url: ""
+    image_caption: ""
+    content: "Nick moves East to learn the bond business, because, he says, everybody he knew was in it. Selling bonds boomed in the early 1920s after the Liberty Loan drives of the Great War taught ordinary Americans to invest. Wall Street was growing quickly, and young college men flocked to it. The dozen books on banking and credit that Nick buys stand on his shelf like new money from the mint. His job gives him a quiet place in the economy of the Jazz Age, close enough to the very rich to watch them, and it puts him close to men who are making money very fast."
+  - id: "old-dodge"
+    trigger: "old Dodge"
+    title: "The Modest Car of a Young Bond Man"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dodge"
+    image_url: ""
+    image_caption: ""
+    content: "Nick travels East with an old Dodge, a car from the company founded by the brothers John and Horace Dodge, whose cars were known for sturdiness and a reasonable price. A Dodge is a respectable, middle-class vehicle, and it fits Nick’s modest means. Cars become one of the book’s central symbols of status and danger. Nick’s plain Dodge stands beside Tom’s coupé, Gatsby’s huge cream-coloured Rolls-Royce, and each car says something about its owner. In the novel a person’s vehicle is almost a summary of that person’s money and moral weight."
+  - id: "finnish-woman"
+    trigger: "Finnish woman"
+    title: "The Housekeeper Who Muttered Finnish Wisdom"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_Americans"
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s household includes a Finnish woman who makes his bed, cooks breakfast and mutters Finnish wisdom to herself over the electric stove. Finnish immigrants came to the United States in large numbers between the 1880s and the 1920s, and many worked as domestic servants. The housekeeper is a quiet, comic figure, and her wisdom is never translated. Fitzgerald uses her to show that the East Egg and West Egg estates depend on a hidden class of workers and immigrants, who cook and clean and watch the guests without being heard, in a world made by money."
+  - id: "fast-movies"
+    trigger: "fast movies"
+    title: "The Silent-Film Speed of a Summer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time-lapse_photography"
+    image_url: ""
+    image_caption: ""
+    content: "Nick says the leaves are growing on the trees, just as things grow in fast movies, a picture drawn from the new art of cinema. Speeded-up film let audiences watch a plant sprout or a flower open in seconds, and in the early 1920s it was an exciting novelty. Nick’s comparison gives his first summer on Long Island a sense of quick, magical growth, with life beginning over again. Movies are one of the book’s cultural background notes, from the picture people at Gatsby’s parties to the glamour of a world whose events seem staged for a camera."
+  - id: "midas-and-morgan-and-maecenas"
+    trigger: "Midas and Morgan and Maecenas"
+    title: "Three Names That Stand for Wealth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Maecenas"
+    image_url: ""
+    image_caption: ""
+    content: "Nick’s new banking books promise the shining secrets that only Midas and Morgan and Maecenas knew. Midas was the legendary Greek king whose touch turned everything to gold, J. P. Morgan was the most powerful American banker of the age, and Maecenas was the Roman patron who supported the poets Virgil and Horace. The three together cover the myth, the money and the culture of great wealth. Fitzgerald packs the whole theme of the book into one phrase, since the Jazz Age tried to turn gold into glamour and to buy art and taste with it."
+  - id: "yale-news"
+    trigger: "Yale News"
+    title: "Nick’s Early Career as a Campus Editorialist"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yale_Daily_News"
+    image_url: ""
+    image_caption: ""
+    content: "Nick tells us he wrote a series of very solemn and obvious editorials for the Yale News, a reference to the Yale Daily News, the oldest college daily newspaper in the United States, founded in 1878. Its editors have often gone on to careers in politics and journalism. The detail is a modest piece of self-mockery from Nick, who wants to become a well-rounded man, and it supports his role as a writer. He is shaping the story with a trained eye, and his pose of moral detachment is part of the persona he builds in this opening chapter."
   - id: "long-island-sound"
     trigger: "Long Island Sound"
     title: "The Body of Water That Divides Dreams"
@@ -54,6 +117,20 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Wpdms_ev26188_long_island_sound.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
     image_caption: "Wpdms ev26188 long island sound (CC BY-SA 3.0)"
     content: "Nick describes Long Island Sound as the body of water separating West Egg and East Egg, two contrasting worlds of wealth and aspiration. This geographical divide symbolizes the social and moral gulf between the nouveau riche, represented by Gatsby, and the old-money elite, embodied by Tom and Daisy. The Sound becomes a metaphor for the barriers that Gatsby faces in his quest to win Daisy’s love and achieve his dream. Fitzgerald’s use of this natural feature underscores the novel’s themes of class division, ambition, and the elusive nature of the American Dream."
+  - id: "columbus-story"
+    trigger: "Columbus story"
+    title: "The Egg That Columbus Made Stand"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Egg_of_Columbus"
+    image_url: ""
+    image_caption: ""
+    content: "Nick compares West Egg and East Egg to the egg in the Columbus story, since both are crushed flat at the contact end. The Egg of Columbus is a tale in which Christopher Columbus, mocked by courtiers who said that finding the New World was easy, challenged them to stand an egg on its end. When they failed he crushed one end and made it stand. The allusion links the two eggs to an act of bold discovery. Fitzgerald plays with the idea of a new world, a place where people come to invent themselves and to reach for dreams."
+  - id: "h-tel-de-ville-in-normandy"
+    trigger: "Hôtel de Ville in Normandy"
+    title: "A Mansion Copied From a French Town Hall"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Town_hall"
+    image_url: ""
+    image_caption: ""
+    content: "Gatsby’s house is a factual imitation of some Hôtel de Ville in Normandy. A hôtel de ville is a French town hall, usually a grand civic building with a tower, so Gatsby has built a municipal palace as his private home. Wealthy Americans of the Gilded Age and the 1920s often copied European châteaux and manor houses on Long Island’s North Shore. The word factual is a sly touch by Nick: the house is a copy, new and with thin raw ivy, rather than something grown over centuries. It is a good picture of Gatsby himself."
   - id: "gatsby-s-mansion"
     trigger: "Gatsby’s mansion"
     title: "The Mansion That Defines Gatsby’s Myth"
@@ -61,6 +138,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Nick introduces Gatsby’s mansion as a 'colossal affair,' a grand imitation of a French Hôtel de Ville. This opulent residence reflects Gatsby’s ambition and his desire to impress Daisy, but it also highlights the artificiality of his wealth and status. The mansion serves as a physical manifestation of Gatsby’s dream, a space where he hosts extravagant parties in the hope of attracting Daisy’s attention. Fitzgerald uses the mansion to explore themes of illusion, materialism, and the gap between appearance and reality, making it a central symbol in the novel’s critique of the American Dream."
+  - id: "polo-ponies"
+    trigger: "polo ponies"
+    title: "Why Tom Brought His Own Stable East"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Polo_pony"
+    image_url: ""
+    image_caption: ""
+    content: "Tom Buchanan shipped a string of polo ponies East from Lake Forest, a luxury that takes Nick’s breath away. A polo pony is a specially trained horse, chosen for speed, stamina and agility, and a player needs several of them in a match. Polo was a sport of the very rich in the 1920s, with major clubs on Long Island. Keeping a stable of ponies shows both money and idle leisure. Tom and Daisy drift from place to place wherever people played polo and were rich together, and the ponies become part of Tom’s athletic, careless and destructive way of living."
+  - id: "lake-forest"
+    trigger: "Lake Forest"
+    title: "The Wealthy Suburb Tom Left Behind"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lake_Forest,_Illinois"
+    image_url: ""
+    image_caption: ""
+    content: "Before moving East, Tom kept his polo ponies at Lake Forest, an affluent suburb on Lake Michigan north of Chicago. By the 1920s it was famous for estates owned by Chicago industrialists and meatpacking and department store families, and it had an exclusive social life. Tom’s family is described as enormously wealthy, and the name tells readers exactly what kind of money that is, old and settled Midwestern fortune rather than the new money of Gatsby. Fitzgerald often tells us who a character is through where he has lived, and Lake Forest places Tom in the top rank of American society."
   - id: "georgian-colonial-mansion"
     trigger: "Georgian Colonial mansion"
     title: "Why Tom and Daisy’s Mansion Matters"
@@ -68,6 +159,20 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/57_The_Close%2C_Salisbury.jpg/330px-57_The_Close%2C_Salisbury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "57 The Close, Salisbury (CC BY-SA 2.0)"
     content: "The Buchanan’s Georgian Colonial mansion is described as elaborate and imposing, reflecting their wealth and social status. This architectural style, popular among America’s elite, symbolizes stability and tradition, contrasting sharply with Gatsby’s flamboyant mansion. The house becomes a stage for the drama of the novel, embodying the privilege and moral decay of its inhabitants. Fitzgerald uses this setting to critique the emptiness of old-money aristocracy and to highlight the tension between appearance and substance in the lives of his characters."
+  - id: "french-windows"
+    trigger: "French windows"
+    title: "The Doors That Let the Wind Into Daisy’s House"
+    wikipedia_url: "https://en.wikipedia.org/wiki/French_window"
+    image_url: ""
+    image_caption: ""
+    content: "The front of the Buchanans’ house is broken by a line of French windows, glowing with gold and wide open to the warm afternoon. A French window is a tall glazed door that opens like a casement onto a garden or a porch. These windows let the wind blow curtains through the rosy room, and they make a stage on which Daisy and Jordan seem to float. Fitzgerald uses the open windows for his first glimpse of Daisy, in white and weightless, a picture of beauty and luxury that is also strangely cool, empty and unreal."
+  - id: "senior-society"
+    trigger: "senior society"
+    title: "The Secret Clubs of an Ivy League Campus"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Collegiate_secret_societies_in_North_America"
+    image_url: ""
+    image_caption: ""
+    content: "Nick says that he and Tom were in the same senior society at Yale. Yale’s senior societies, among them Skull and Bones, Scroll and Key and Wolf’s Head, pick a small number of juniors each year and meet in windowless tombs. Membership brings lifelong connections to powerful men. For Nick the link explains why Tom assumes his approval and expects him to understand, even though they were never intimate. The detail also hints at how closed the world of the East is, a place where birth and the right college decide who is inside."
   - id: "sunken-italian-garden"
     trigger: "sunken Italian garden"
     title: "What’s Hidden in Tom’s Italian Garden?"
@@ -75,6 +180,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Villa_d%27Este_fountain_and_pools.jpg/330px-Villa_d%27Este_fountain_and_pools.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Fountain and pools at Villa d'Este in Tivoli. (CC BY-SA 3.0)"
     content: "Tom Buchanan’s sunken Italian garden is a detail that underscores his wealth and taste for European luxury. Italian gardens, characterized by symmetry and order, were symbols of refinement and control, qualities Tom seeks to project. However, this cultivated space contrasts with the chaos and moral ambiguity of his personal life. Fitzgerald uses the garden as a subtle critique of Tom’s superficiality, highlighting the disconnect between his outward sophistication and his inner brutishness. The garden becomes a metaphor for the façade of perfection that masks the flaws of the Buchanan household."
+  - id: "demaine-the-oil-man"
+    trigger: "Demaine, the oil man"
+    title: "The Oil Baron Whose House Tom Inherited"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Oil_baron"
+    image_url: ""
+    image_caption: ""
+    content: "Tom proudly says his East Egg house belonged to Demaine, the oil man. American oil fortunes were among the largest of the early twentieth century, after John D. Rockefeller built Standard Oil, and many oil barons built showy estates. Demaine is an invented name, but he stands for that world of fast money, and Tom’s casual remark that the house once belonged to someone else shows how quickly property changes hands among the rich. Tom talks as if he owns the place because of his own merit, and he does not acknowledge that wealth is mostly inherited or bought."
   - id: "daisy-s-murmur"
     trigger: "Daisy’s murmur"
     title: "The Voice That Captivates Everyone Around Her"
@@ -110,6 +222,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Tom declares that he and the others are 'Nordics,' a term rooted in racial theories that idealized Northern Europeans. This belief in racial superiority reflects Tom’s arrogance and his need to justify his dominance in society. Fitzgerald uses this moment to critique the pseudo-scientific racism of the era, exposing the prejudices that shaped the attitudes of the wealthy elite. Tom’s invocation of 'Nordics' underscores the novel’s themes of privilege, ignorance, and the moral decay hidden beneath the surface of affluence."
+  - id: "cunard-or-white-star-line"
+    trigger: "Cunard or White Star Line"
+    title: "The Ocean Liners of the Atlantic"
+    wikipedia_url: "https://en.wikipedia.org/wiki/White_Star_Line"
+    image_url: ""
+    image_caption: ""
+    content: "Daisy imagines that a bird on the lawn must be a nightingale come over on the Cunard or White Star Line. Cunard and White Star were the two great British companies that carried wealthy passengers across the Atlantic, and White Star built the Titanic. The joke fits Daisy’s breathless, charming way of talking, which turns everything into a romantic fancy. It also shows how European glamour dominates the imagination of rich Americans in the 1920s. The nightingale is a poetic bird, linked to Keats and to love, and Daisy’s remark is both playful and slightly desperate."
   - id: "beautiful-little-fool"
     trigger: "beautiful little fool"
     title: "Daisy’s Heartbreaking Wish for Her Daughter"
@@ -127,7 +246,7 @@ enhancements:
   - id: "green-light"
     trigger: "green light"
     title: "The Light That Defines Gatsby’s Dream"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Symbolism_in_The_Great_Gatsby"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Gatsby#Major_themes"
     image_url: ""
     image_caption: ""
     content: "Nick sees Gatsby reaching out toward a green light across the bay, a symbol of his unattainable dreams and his longing for Daisy. The green light represents hope, ambition, and the promise of a better future, but it also underscores the distance between Gatsby’s aspirations and reality. Fitzgerald uses this powerful image to explore themes of desire, illusion, and the relentless pursuit of the American Dream, making it one of the most iconic symbols in American literature."
@@ -190,21 +309,21 @@ interest in the **abortive sorrows** and short-winded elations of men.
 
 My family have been prominent, well-to-do people in this Middle
 Western city for three generations. The Carraways are something of a
-clan, and we have a tradition that we’re descended from the Dukes of
-Buccleuch, but the actual founder of my line was my grandfather’s
-brother, who came here in fifty-one, sent a substitute to the Civil
-War, and started the wholesale hardware business that my father
+clan, and we have a tradition that we’re descended from the **Dukes of
+Buccleuch**, but the actual founder of my line was my grandfather’s
+brother, who came here in fifty-one, **sent a substitute to the Civil
+War**, and started the wholesale hardware business that my father
 carries on today.
 
 I never saw this great-uncle, but I’m supposed to look like him—with
 special reference to the rather hard-boiled painting that hangs in
-father’s office. I graduated from New Haven in 1915, just a quarter of
+father’s office. I graduated from **New Haven** in 1915, just a quarter of
 a century after my father, and a little later I participated in that
 delayed Teutonic migration known as **the Great War**. I enjoyed the
 counter-raid so thoroughly that I came back restless. Instead of being
 the warm centre of the world, the Middle West now seemed like the
-ragged edge of the universe—so I decided to go East and learn the bond
-business. Everybody I knew was in the bond business, so I supposed it
+ragged edge of the universe—so I decided to go East and learn the **bond
+business**. Everybody I knew was in the bond business, so I supposed it
 could support one more single man. All my aunts and uncles talked it
 over as if they were choosing a prep school for me, and finally said,
 “Why—ye-es,” with very grave, hesitant faces. Father agreed to finance
@@ -218,7 +337,7 @@ house together in a commuting town, it sounded like a great idea. He
 found the house, a weather-beaten cardboard bungalow at eighty a
 month, but at the last minute the firm ordered him to Washington, and
 I went out to the country alone. I had a dog—at least I had him for a
-few days until he ran away—and an old Dodge and a Finnish woman, who
+few days until he ran away—and an **old Dodge** and a **Finnish woman**, who
 made my bed and cooked breakfast and muttered Finnish wisdom to
 herself over the electric stove.
 
@@ -232,17 +351,17 @@ a pathfinder, an original settler. He had casually conferred on me the
 freedom of the neighbourhood.
 
 And so with the sunshine and the great bursts of leaves growing on the
-trees, just as things grow in fast movies, I had that familiar
+trees, just as things grow in **fast movies**, I had that familiar
 conviction that life was beginning over again with the summer.
 
 There was so much to read, for one thing, and so much fine health to
 be pulled down out of the young breath-giving air. I bought a dozen
 volumes on banking and credit and investment securities, and they
 stood on my shelf in red and gold like new money from the mint,
-promising to unfold the shining secrets that only Midas and Morgan and
-Maecenas knew. And I had the high intention of reading many other
+promising to unfold the shining secrets that only **Midas and Morgan and
+Maecenas** knew. And I had the high intention of reading many other
 books besides. I was rather literary in college—one year I wrote a
-series of very solemn and obvious editorials for the Yale News—and now
+series of very solemn and obvious editorials for the **Yale News**—and now
 I was going to bring back all such things into my life and become
 again that most limited of all specialists, the “well-rounded man.”
 This isn’t just an epigram—life is much more successfully looked at
@@ -256,7 +375,7 @@ land. Twenty miles from the city a pair of enormous eggs, identical in
 contour and separated only by a courtesy bay, jut out into the most
 domesticated body of salt water in the Western hemisphere, the great
 wet barnyard of **Long Island Sound**. They are not perfect ovals—like the
-egg in the Columbus story, they are both crushed flat at the contact
+egg in the **Columbus story**, they are both crushed flat at the contact
 end—but their physical resemblance must be a source of perpetual
 wonder to the gulls that fly overhead. To the wingless a more
 interesting phenomenon is their dissimilarity in every particular
@@ -268,7 +387,7 @@ sinister contrast between them. My house was at the very tip of the
 egg, only fifty yards from the Sound, and squeezed between two huge
 places that rented for twelve or fifteen thousand a season. The one on
 my right was a colossal affair by any standard—it was a factual
-imitation of some Hôtel de Ville in Normandy, with a tower on one
+imitation of some **Hôtel de Ville in Normandy**, with a tower on one
 side, spanking new under a thin beard of raw ivy, and a marble
 swimming pool, and more than forty acres of lawn and garden. It was
 **Gatsby’s mansion**. Or, rather, as I didn’t know Mr. Gatsby, it was a
@@ -292,8 +411,8 @@ limited excellence at twenty-one that everything afterward savours of
 anticlimax. His family were enormously wealthy—even in college his
 freedom with money was a matter for reproach—but now he’d left Chicago
 and come East in a fashion that rather took your breath away: for
-instance, he’d brought down a string of polo ponies from Lake
-Forest. It was hard to realize that a man in my own generation was
+instance, he’d brought down a string of **polo ponies** from **Lake
+Forest**. It was hard to realize that a man in my own generation was
 wealthy enough to do that.
 
 Why they came East I don’t know. They had spent a year in France for
@@ -311,8 +430,8 @@ was even more elaborate than I expected, a cheerful red-and-white
 the beach and ran towards the front door for a quarter of a mile,
 jumping over sundials and brick walks and burning gardens—finally when
 it reached the house drifting up the side in bright vines as though
-from the momentum of its run. The front was broken by a line of French
-windows, glowing now with reflected gold and wide open to the warm
+from the momentum of its run. The front was broken by a line of **French
+windows**, glowing now with reflected gold and wide open to the warm
 windy afternoon, and Tom Buchanan in riding clothes was standing with
 his legs apart on the front porch.
 
@@ -333,7 +452,7 @@ had hated his guts.
 
 “Now, don’t think my opinion on these matters is final,” he seemed to
 say, “just because I’m stronger and more of a man than you are.” We
-were in the same senior society, and while we were never intimate I
+were in the same **senior society**, and while we were never intimate I
 always had the impression that he approved of me and wanted me to like
 him with some harsh, defiant wistfulness of his own.
 
@@ -347,7 +466,7 @@ front vista, including in its sweep a **sunken Italian garden**, a half
 acre of deep, pungent roses, and a snub-nosed motorboat that bumped
 the tide offshore.
 
-“It belonged to Demaine, the oil man.” He turned me around again,
+“It belonged to **Demaine, the oil man**.” He turned me around again,
 politely and abruptly. “We’ll go inside.”
 
 We walked through a high hallway into a bright rosy-coloured space,
@@ -650,7 +769,7 @@ the table.
 She sat down, glanced searchingly at Miss Baker and then at me, and
 continued: “I looked outdoors for a minute, and it’s very romantic
 outdoors. There’s a bird on the lawn that I think must be a
-nightingale come over on the Cunard or White Star Line. He’s singing
+nightingale come over on the **Cunard or White Star Line**. He’s singing
 away—” Her voice sang: “It’s romantic, isn’t it, Tom?”
 
 “Very romantic,” he said, and then miserably to me: “If it’s light
