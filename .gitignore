@@ -2,3 +2,6 @@ icon-gen/
 book_generator/.env
 **/__pycache__/
 book_generator/work/
+
+# Generated Kindle/EPUB builds (python book_generator/make_epub.py)
+epub/

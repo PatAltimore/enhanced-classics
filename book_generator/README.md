@@ -147,6 +147,19 @@ python verify_chapters.py --book walden
 
 Chapters reported as `mismatch` need to be regenerated with `--force`.
 
+### make_epub.py
+
+Builds a Kindle-friendly EPUB 3 per book (standard library + PyYAML only). Each enhanced section is printed
+inline in a shaded box right after the paragraph with its (underlined) trigger phrase, chapter summaries open
+each chapter, and the Characters page comes last. Output goes to `epub/` (gitignored).
+
+```bash
+python make_epub.py --book the-great-gatsby
+python make_epub.py --all
+```
+
+Send the `.epub` to a Kindle with Send to Kindle (app, web or email).
+
 ## Adding books and chapters
 
 **Add the book here before running `fetch_texts.py` or `generator.py`** — both look the
