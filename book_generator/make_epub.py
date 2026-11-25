@@ -1,8 +1,8 @@
 """Build a Kindle-friendly EPUB 3 for a book, with the enhanced sections inline.
 
 Each enhanced section is printed in a shaded box right after the paragraph that contains its
-trigger phrase (the phrase itself is underlined). Chapter summaries go at the top of each
-chapter, and the Characters page goes last (it contains spoilers).
+trigger phrase (the phrase itself is underlined). Chapters hold only the original text and these boxes; the Characters
+section goes last (it contains spoilers).
 
 Pure standard library plus PyYAML. Usage:
 
@@ -40,8 +40,6 @@ p { margin: 0 0 .9em; text-align: left; }
 hr.scene-break { border: 0; border-top: 1px solid #888; margin: 2.5em 20%; }
 blockquote.verse { margin: 1em 8%; font-style: italic; }
 p.lines { margin-left: 1.2em; text-indent: -1.2em; }
-ul.summary { margin: 0 0 1.5em; padding-left: 1.2em; font-size: .92em; }
-ul.summary li { margin-bottom: .35em; }
 div.titlepage { text-align: center; margin-top: 20%; }
 div.titlepage h1 { page-break-before: auto; font-size: 2em; }
 p.author { font-size: 1.2em; }
@@ -230,14 +228,9 @@ def build_chapter(path):
     cards = fm.get("enhancements") or []
     text_html, shown = body_to_html(body, cards)
     title = chapter_title(fm)
-    summary = ""
-    pts = fm.get("summary") or []
-    if pts:
-        lis = "".join(f"<li>{esc(p['point'])}</li>" for p in pts)
-        summary = f'<ul class="summary">{lis}</ul>'
     # a card whose trigger could not be found in the text goes at the chapter end
     leftover = "".join(card_html(c) for i, c in enumerate(cards) if i not in shown)
-    page = xhtml(title, f"<h1>{esc(title)}</h1>\n{summary}\n{text_html}\n{leftover}")
+    page = xhtml(title, f"<h1>{esc(title)}</h1>\n{text_html}\n{leftover}")
     return {"title": title, "page": page, "cards": len(cards), "placed": len(shown)}
 
 
@@ -273,8 +266,8 @@ def title_page(meta, slug):
         "<h2>About this Enhanced Classics edition</h2>\n"
         "<p>This is an Enhanced Classics edition: the complete original text, with short notes added as you read. "
         "Underlined phrases in the text have a shaded Enhanced Classics note just below their paragraph, giving "
-        "background on people, places, words and ideas, with a link to Wikipedia. Each chapter begins with a short "
-        "summary, so skip it if you would rather not read ahead.</p>\n"
+        "background on people, places, words and ideas, with a link to Wikipedia. The "
+        "Characters section at the end of the book describes the main characters and contains spoilers.</p>\n"
         f'<p>Read this book, and more Enhanced Classics, online at <a href="{SITE_URL}#/{slug}">{SITE_URL}</a></p>\n'
         '<p class="small">The text is in the public domain (Project Gutenberg). '
         "Notes and summaries were written for Enhanced Classics.</p>"
