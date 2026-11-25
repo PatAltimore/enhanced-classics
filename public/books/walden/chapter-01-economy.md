@@ -43,6 +43,20 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Image_taken_from_page_40_of_%27The_Land_of_Temples_%28India%29%27_%2811151912296%29.jpg/330px-Image_taken_from_page_40_of_%27The_Land_of_Temples_%28India%29%27_%2811151912296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Image taken from page 40 of 'The Land of Temples (India)' (11151912296) (No restrictions)"
     content: "Thoreau invokes the image of Brahmins enduring extreme ascetic rituals, such as sitting exposed to four fires and staring at the sun, to critique the self-imposed suffering he sees in his neighbors' lives. These rituals, part of ancient Hindu practices, were meant to purify the soul and achieve spiritual enlightenment. The Brahmins believed that such acts of physical endurance brought them closer to the divine. However, Thoreau uses this comparison ironically, suggesting that the endless toil of his neighbors—digging graves metaphorically from birth—is no less absurd or self-defeating. By juxtaposing these practices, Thoreau challenges the reader to reconsider what constitutes meaningful labor and spiritual fulfillment in a modern, industrialized society."
+  - id: "augean-stables"
+    trigger: "Augean stables"
+    title: "The Farmer Buried Under His Own Barn"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Augean_stables"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes neighbours who push before them a barn seventy-five feet by forty, its Augean stables never cleansed, and one hundred acres of land. In Greek myth the fifth labour of Hercules was to clean the stables of King Augeas, which held thousands of cattle and had not been cleaned for thirty years, and he did it in a day by diverting two rivers through them. The farmers of Concord have no such hero. Thoreau’s joke is that the inheritance of land and buildings is not a blessing but a labour so great that it crushes the heir."
+  - id: "deucalion-and-pyrrha"
+    trigger: "Deucalion and Pyrrha"
+    title: "The Myth of People Made From Stones"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Deucalion"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that it is said Deucalion and Pyrrha created men by throwing stones over their heads behind them, and quotes the Latin of Ovid: hence we are a hard race. In Greek myth Deucalion and his wife Pyrrha were the only survivors of the great flood sent by Zeus, and an oracle told them to throw the bones of their mother behind them, which they took to mean stones, which turned into people. Thoreau uses the story to mock those who spend their lives piling up wealth, saying that they, too, are making a hard, stony life."
   - id: "quiet-desperation-modern-life"
     trigger: "quiet desperation"
     title: "What Thoreau Meant by 'Quiet Desperation'"
@@ -50,6 +64,20 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/330px-Walden_Thoreau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Title page from first edition of Henry David Thoreau's Walden (1854). (Public domain)"
     content: "Thoreau famously observes that 'the mass of men lead lives of quiet desperation.' This phrase encapsulates his critique of modern life, where individuals conform to societal expectations at the expense of their own dreams and integrity. The term 'quiet desperation' suggests a subdued but pervasive sense of dissatisfaction, a resignation to unfulfilled lives. Thoreau's insight resonates deeply in contemporary discussions about work-life balance and the pursuit of happiness. By highlighting this despair, he urges readers to break free from societal norms and seek a life of purpose and authenticity. His call to action is not just philosophical but deeply practical: simplify, reflect, and live deliberately."
+  - id: "tierra-del-fuego"
+    trigger: "Tierra del Fuego"
+    title: "What Darwin Saw at the Southern Tip of the World"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tierra_del_Fuego"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau cites Darwin on the inhabitants of Tierra del Fuego, who, while the well-clothed English party sat close to a fire, were far from too warm, yet the naked natives stood at a distance and were perspiring. Tierra del Fuego is the archipelago at the southern tip of South America, a cold and wet place, and Darwin visited it in 1832 on the voyage of the Beagle. Thoreau draws the lesson that the body adapts, and that civilised people who wear many layers may be weaker than those with few needs."
+  - id: "liebig"
+    trigger: "Liebig"
+    title: "The Chemist Who Said the Body Is a Stove"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Justus_von_Liebig"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau writes that according to Liebig, man’s body is a stove, and food the fuel which keeps up the internal combustion in the lungs. Justus von Liebig, a German chemist, was one of the founders of organic chemistry and of agricultural chemistry, and his Animal Chemistry of 1842 argued that animal heat comes from burning the food we eat. Thoreau takes the idea and presses it: if food is fuel, then in cold weather we need more of it, and so the cost of living is really the cost of keeping warm."
   - id: "voluntary-poverty-path-to-wisdom"
     trigger: "voluntary poverty"
     title: "Why Thoreau Chose Poverty Over Wealth"
@@ -57,20 +85,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau extols the virtues of voluntary poverty, arguing that simplicity and independence are prerequisites for philosophical living. He contrasts the ancient philosophers, who lived with minimal possessions, with the materialism of his contemporaries. Voluntary poverty is not deprivation but liberation—it frees the individual from the burdens of wealth and the distractions of luxury. Thoreau's experiment at Walden Pond was a deliberate attempt to live this principle, reducing his needs to the bare essentials. By doing so, he found the time and mental clarity to pursue higher truths. His advocacy for voluntary poverty challenges readers to reconsider their own relationship with material possessions and the true cost of wealth."
-  - id: "factory-system-dehumanization"
-    trigger: "factory system"
-    title: "How Factories Changed Work Forever (For Better and Worse)"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Factory_system"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Zilina_zapalkaren.jpg/330px-Zilina_zapalkaren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Žilina, safety match factory from 1914/1915. Currently in use by T+T a.s. (CC BY-SA 4.0)"
-    content: "Thoreau critiques the factory system as a symbol of dehumanization, where workers are reduced to mere cogs in a machine. He laments the loss of individuality and creativity in the pursuit of efficiency and profit. The factory system, which emerged during the Industrial Revolution, revolutionized production but also introduced harsh working conditions and alienation. Thoreau's disdain for this system reflects his broader critique of industrialization and its impact on human values. By rejecting factory-made goods and embracing self-reliance, Thoreau advocates for a return to craftsmanship and personal agency. His critique remains relevant in discussions about automation, labor rights, and the future of work."
-  - id: "six-weeks-labor-thoreau"
-    trigger: "six weeks in a year"
-    title: "How Thoreau Lived on Six Weeks of Work"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg/330px-Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Benjamin D. Maxham - Henry David Thoreau - Restored (Public domain)"
-    content: "Thoreau reveals that by working only six weeks a year, he was able to meet all his living expenses and dedicate the rest of his time to study and reflection. This startling claim underscores his belief in the sufficiency of simple living. By minimizing his needs and maximizing his independence, Thoreau demonstrated that the pursuit of wealth is not a necessity but a choice. His experiment challenges conventional notions of productivity and success, suggesting that true wealth lies in leisure and intellectual freedom. Thoreau's example invites readers to reconsider their own work-life balance and the sacrifices they make for material gain."
+  - id: "la-perouse"
+    trigger: "La Perouse"
+    title: "The Lost Navigator Thoreau Names"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_de_Galaup,_comte_de_Lap%C3%A9rouse"
+    image_url: ""
+    image_caption: ""
+    content: "Describing the labours of those who live by ambition, Thoreau mentions the untold fate of La Perouse. Jean-François de Galaup, comte de Lapérouse, led a French scientific expedition around the Pacific that disappeared in 1788 after leaving Botany Bay, and for decades no one knew what had happened until wreckage was found at Vanikoro in the 1820s. He was the most famous mystery of the sea in Thoreau’s day. The reference belongs to a long list of anxieties of the busy person, who must watch for dangers of every kind."
+  - id: "hanno"
+    trigger: "Hanno"
+    title: "The Carthaginian Explorer in Thoreau’s List"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hanno_the_Navigator"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau lists the studies of the ambitious merchant, from Hanno and the Phoenicians down to our day. Hanno the Navigator was a Carthaginian explorer of about 500 BC who led a fleet down the west coast of Africa and founded colonies, and a Greek version of his account survives. He and the Phoenicians stood for the great traders of the ancient world. Thoreau’s point is a gentle satire on the burden of commerce, in which a man must know the history of every voyage in order to run an ordinary business."
   - id: "madam-pfeiffer-travel-clothes"
     trigger: "Madam Pfeiffer"
     title: "The Woman Who Traveled the World Alone"
@@ -78,6 +106,13 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ida_Pfeiffer.jpg/330px-Ida_Pfeiffer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Ida Pfeiffer (Public domain)"
     content: "Thoreau mentions Madam Pfeiffer, an Austrian explorer who traveled the world in the mid-19th century, as an example of how clothing influences perception. Pfeiffer's adventures took her across continents, often defying societal expectations for women of her time. Her travels were documented in popular books, making her a celebrated figure in her era. Thoreau uses her story to critique the superficial judgments based on attire, highlighting the absurdity of equating clothing with character. Pfeiffer's courage and independence align with Thoreau's ideals of self-reliance and authenticity, making her a fitting figure in his argument against societal conformity."
+  - id: "factory-system-dehumanization"
+    trigger: "factory system"
+    title: "How Factories Changed Work Forever (For Better and Worse)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Factory_system"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Zilina_zapalkaren.jpg/330px-Zilina_zapalkaren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    image_caption: "Žilina, safety match factory from 1914/1915. Currently in use by T+T a.s. (CC BY-SA 4.0)"
+    content: "Thoreau critiques the factory system as a symbol of dehumanization, where workers are reduced to mere cogs in a machine. He laments the loss of individuality and creativity in the pursuit of efficiency and profit. The factory system, which emerged during the Industrial Revolution, revolutionized production but also introduced harsh working conditions and alienation. Thoreau's disdain for this system reflects his broader critique of industrialization and its impact on human values. By rejecting factory-made goods and embracing self-reliance, Thoreau advocates for a return to craftsmanship and personal agency. His critique remains relevant in discussions about automation, labor rights, and the future of work."
   - id: "samuel-laing-laplander-survival"
     trigger: "Samuel Laing"
     title: "How Laplanders Survived Arctic Winters"
@@ -85,6 +120,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau references Samuel Laing's observations of Laplanders sleeping on snow in extreme cold, using only skin bags for warmth. Laing, a 19th-century travel writer, documented the resilience and ingenuity of Arctic peoples. Thoreau uses this example to question the necessity of elaborate shelters and comforts, arguing that humans can adapt to harsh conditions with minimal resources. This anecdote serves as a metaphor for Thoreau's philosophy of simplicity and self-reliance. By highlighting the Laplanders' survival skills, Thoreau challenges readers to reconsider their own dependence on material comforts and the true necessities of life."
+  - id: "rumford-fireplace"
+    trigger: "Rumford fireplace"
+    title: "The Fireplace Named for a Massachusetts Inventor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rumford_fireplace"
+    image_url: ""
+    image_caption: ""
+    content: "Among the conveniences of a rented house Thoreau lists a Rumford fireplace, back plastering and Venetian blinds. The Rumford fireplace, named for Count Rumford, born Benjamin Thompson in Woburn, Massachusetts, was a tall, shallow fireplace with angled sides that reflected more heat into the room and drew smoke well, and it became the standard design of the early nineteenth century. Thoreau uses these fashionable improvements to show the price of civilisation, since they raise the rent while lowering the freedom of the tenant."
+  - id: "memnon"
+    trigger: "Memnon"
+    title: "The Singing Statue and the Morning’s Work"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Colossi_of_Memnon"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau cries, by the blushes of Aurora and the music of Memnon, what should be man’s morning work in this world? In Greek myth Memnon was the son of Aurora, goddess of dawn, and the colossal statues at Thebes in Egypt, the Colossi of Memnon, were said to sing at sunrise, probably because of the sound of air moving through cracks as they warmed. The oath calls up the glory of the dawn, which Thoreau treasures. His point is that morning is the most precious time and should not be wasted on dusting ornaments."
+  - id: "sardanapalus"
+    trigger: "Sardanapalus"
+    title: "The Luxurious King Innkeepers Imagine"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sardanapalus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that innkeepers presume a traveller at the best houses to be a Sardanapalus. Sardanapalus, the legendary last king of Assyria, was remembered by the Greeks as a ruler of fabulous luxury who burned himself with his treasures when his city fell, and Byron wrote a play about him in 1821. His name became a byword for decadent ease. Thoreau complains that publicans give travellers the most expensive treatment, assuming that anyone with money wants to be pampered, and he would rather be left with a simple meal."
+  - id: "wonder-working-providence"
+    trigger: "Wonder-Working Providence"
+    title: "The Pilgrim Chronicle Thoreau Quotes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Edward_Johnson_(colonial_officer)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau cites old Johnson in his Wonder-Working Providence on the first settlers of Concord. The book, by Edward Johnson, published in 1654, is one of the earliest histories of Puritan New England, and it describes how settlers dug into hillsides and covered their holes with turf and timber for shelter. Thoreau quotes this as evidence that his own simple shelter is nothing new. In his view the first colonists lived in basic homes and were content with them, until greater wealth brought the desire for fine houses."
   - id: "arrowy-white-pines-thoreau"
     trigger: "arrowy white pines"
     title: "The Trees That Built Thoreau's Cabin"
@@ -92,6 +155,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes cutting down 'arrowy white pines' to build his cabin at Walden Pond. White pines, native to New England, were prized for their straight, tall trunks, making them ideal for construction and ship masts. These trees symbolize both the natural abundance Thoreau relied on and the deliberate simplicity of his experiment. By choosing to fell and shape the timber himself, Thoreau emphasizes the importance of personal labor and connection to the land. The act of building his cabin becomes a metaphor for constructing a life rooted in independence and harmony with nature."
+  - id: "james-collins"
+    trigger: "James Collins"
+    title: "The Irish Railroad Worker Whose Shanty Became Thoreau’s Boards"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Irish_Americans"
+    image_url: ""
+    image_caption: ""
+    content: "By the middle of April, Thoreau tells us, he had bought the shanty of James Collins, an Irishman who worked on the Fitchburg Railroad, for boards. Many Irish immigrants came to Massachusetts in the 1840s, especially during the Great Famine, and they built the railways and canals. Collins’s shanty was considered an uncommonly fine one, but Thoreau paid only four dollars and twenty-five cents for it. The deal, in which an immigrant railroad hand sold his home for scrap, gave Thoreau his building materials and shows his interest in cheap, honest labour."
   - id: "sentimental-reformer-architecture"
     trigger: "sentimental reformer in architecture"
     title: "Why Thoreau Critiqued Ornamental Architecture"
@@ -99,20 +169,6 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/View_of_Santa_Maria_del_Fiore_in_Florence.jpg/330px-View_of_Santa_Maria_del_Fiore_in_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "View of Santa Maria del Fiore (Florence Cathedral) (CC BY-SA 2.0)"
     content: "Thoreau dismisses the 'sentimental reformer in architecture' who focuses on superficial ornamentation rather than functional design. He argues that true architectural beauty arises from necessity and character, not external embellishments. This critique reflects Thoreau's broader philosophy of simplicity and authenticity. He contrasts the hollow grandeur of modern buildings with the unpretentious charm of log huts and cottages. For Thoreau, architecture should serve the inhabitant's life, not vanity. His perspective challenges readers to value substance over style and to seek beauty in utility and truth."
-  - id: "mucclasse-indians-purification-ritual"
-    trigger: "Mucclasse Indians"
-    title: "The Ceremony That Cleansed a Community"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Creek_(people)"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau references the Mucclasse Indians' 'busk' ceremony, a purification ritual involving fasting, burning old possessions, and renewing fire. This annual tradition symbolized spiritual and communal renewal. The Mucclasse, part of the Creek Nation, believed in the importance of starting anew, both physically and spiritually. Thoreau admires this practice as a true sacrament, an outward sign of inward grace. By invoking this ritual, he critiques the materialism of his own society and suggests that such acts of renewal could lead to deeper spiritual and social harmony."
-  - id: "six-weeks-labor-thoreau"
-    trigger: "six weeks in a year"
-    title: "How Thoreau Lived on Six Weeks of Work"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
-    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg/330px-Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-    image_caption: "Benjamin D. Maxham - Henry David Thoreau - Restored (Public domain)"
-    content: "Thoreau reveals that by working only six weeks a year, he was able to meet all his living expenses and dedicate the rest of his time to study and reflection. This startling claim underscores his belief in the sufficiency of simple living. By minimizing his needs and maximizing his independence, Thoreau demonstrated that the pursuit of wealth is not a necessity but a choice. His experiment challenges conventional notions of productivity and success, suggesting that true wealth lies in leisure and intellectual freedom. Thoreau's example invites readers to reconsider their own work-life balance and the sacrifices they make for material gain."
   - id: "adam-smith-economics"
     trigger: "Adam Smith"
     title: "The Book Adam Smith Never Expected to Matter This Much"
@@ -127,6 +183,27 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Compound_interest_%28English%29.gif/330px-Compound_interest_%28English%29.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "A graph of compound interests (CC BY-SA 4.0)"
     content: "Thoreau refers to compound interest as 'the devil's share,' critiquing the way financial systems perpetuate inequality and exploitation. Compound interest, a cornerstone of modern banking, allows wealth to grow exponentially over time, often benefiting the rich at the expense of the poor. Thoreau's disdain for this mechanism reflects his broader critique of capitalism and its dehumanizing effects. By highlighting the moral implications of compound interest, Thoreau urges readers to reconsider the ethical foundations of economic systems and their impact on society."
+  - id: "flying-childers"
+    trigger: "Flying Childers"
+    title: "The Famous Racehorse in a Jab at Speed"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flying_Childers"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he doubts whether Flying Childers ever carried a peck of corn to mill. Flying Childers was one of the greatest racehorses of eighteenth-century England, owned by the Duke of Devonshire, and was a founding sire of the thoroughbred breed. He was said to be the fastest horse in the world. Thoreau’s joke is that speed is not the same as usefulness. He is answering those who say he should earn money by travelling, and he argues that the horse that trots a mile in a minute does not carry the most important messages."
+  - id: "bhagvat-geeta"
+    trigger: "Bhagvat-Geeta"
+    title: "The Hindu Scripture Thoreau Prized"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks, how much more admirable the Bhagvat-Geeta than all the ruins of the East! The Bhagavad Gita, a Sanskrit poem that is part of the Mahabharata, records a dialogue between the warrior Arjuna and the god Krishna on duty, action and detachment. Thoreau read it in Charles Wilkins’s English translation of 1785 and in the circle of Emerson’s friends, and it influenced his thinking. His point is that nations should be remembered for their thoughts, not for great towers and temples, which are the luxury of princes."
+  - id: "vitruvius"
+    trigger: "Vitruvius"
+    title: "The Roman Architect on a Young Man’s Desk"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Vitruvius"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes a young architect, Mr. Balcom, who designs a building on the back of his Vitruvius with hard pencil and ruler. Vitruvius was a Roman architect and engineer of the first century BC whose ten books, De architectura, were the only complete treatise on classical architecture to survive, and Renaissance and Victorian architects used it as a pattern book. Thoreau’s story mocks how buildings are copied from books, with the mainspring being vanity, assisted by the love of garlic and bread and butter."
   - id: "portulaca-oleracea-edible-weed"
     trigger: "Portulaca oleracea"
     title: "The Humble Weed That Fed Thoreau"
@@ -141,6 +218,48 @@ enhancements:
     image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Skillet_cornbread_%28cropped%29.jpg/330px-Skillet_cornbread_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
     image_caption: "Cast iron skillet cornbread with bacon, jalapeno and onion (CC BY-SA 3.0)"
     content: "Thoreau describes baking hoe-cakes, a simple bread made from cornmeal and water, as part of his experiment in self-sufficiency. Hoe-cakes, named for their traditional preparation on a hoe over an open fire, have roots in Indigenous and African American culinary traditions. Thoreau's embrace of this primitive bread reflects his commitment to simplicity and his rejection of unnecessary complexity. By mastering the art of hoe-cake baking, Thoreau connects with a timeless tradition of resourcefulness and ingenuity, underscoring his belief in the sufficiency of basic, wholesome foods."
+  - id: "marcus-porcius-cato"
+    trigger: "Marcus Porcius Cato"
+    title: "The Old Roman’s Recipe for Thoreau’s Bread"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cato_the_Elder"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he made his bread according to the recipe which Marcus Porcius Cato gave about two centuries before Christ. Cato the Elder, a Roman statesman famous for his simple farm life and his harsh moral views, wrote De Agri Cultura, a manual on running a farm that includes recipes for bread, cakes and cheese. Thoreau quotes the Latin recipe, which starts, make the bread as follows: wash your hands and the mortar well. The link shows his taste for the ancient farmers and his wish to live as they did."
+  - id: "mucclasse-indians-purification-ritual"
+    trigger: "Mucclasse Indians"
+    title: "The Ceremony That Cleansed a Community"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Creek_(people)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau references the Mucclasse Indians' 'busk' ceremony, a purification ritual involving fasting, burning old possessions, and renewing fire. This annual tradition symbolized spiritual and communal renewal. The Mucclasse, part of the Creek Nation, believed in the importance of starting anew, both physically and spiritually. Thoreau admires this practice as a true sacrament, an outward sign of inward grace. By invoking this ritual, he critiques the materialism of his own society and suggests that such acts of renewal could lead to deeper spiritual and social harmony."
+  - id: "six-weeks-labor-thoreau"
+    trigger: "six weeks in a year"
+    title: "How Thoreau Lived on Six Weeks of Work"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg/330px-Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    image_caption: "Benjamin D. Maxham - Henry David Thoreau - Restored (Public domain)"
+    content: "Thoreau reveals that by working only six weeks a year, he was able to meet all his living expenses and dedicate the rest of his time to study and reflection. This startling claim underscores his belief in the sufficiency of simple living. By minimizing his needs and maximizing his independence, Thoreau demonstrated that the pursuit of wealth is not a necessity but a choice. His experiment challenges conventional notions of productivity and success, suggesting that true wealth lies in leisure and intellectual freedom. Thoreau's example invites readers to reconsider their own work-life balance and the sacrifices they make for material gain."
+  - id: "flocks-of-admetus"
+    trigger: "flocks of Admetus"
+    title: "Thoreau as the God Who Kept a King’s Sheep"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Admetus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he would range the hills all summer picking berries, so to keep the flocks of Admetus. In Greek myth Apollo, exiled from Olympus for killing the Cyclopes, served for a year as a herdsman to King Admetus of Pherae, and he blessed the king’s herds with fertility. The tale was a favourite of Emerson and Thoreau, who saw the poet as a god in disguise doing humble work. By taking the role, Thoreau claims that a simple living is the best condition for a thinker."
+  - id: "robin-goodfellow"
+    trigger: "Robin Goodfellow"
+    title: "The Mischievous Sprite Who Peeps in Windows"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Puck_(folklore)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau imagines the sun going about like a Robin Goodfellow, peeping in at every cottage window, inspiring lunatics and tainting meats. Robin Goodfellow is a sprite of English folklore, also called Puck, a mischievous household spirit who plays tricks on villagers, and who appears in Shakespeare’s A Midsummer Night’s Dream. Thoreau uses him to mock the busybody who does good to others, and he suggests that such philanthropy is intrusive and sometimes harmful, like a prying spirit."
+  - id: "phaeton"
+    trigger: "Phaeton"
+    title: "The Boy Who Wanted to Prove His Heavenly Birth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Phaethon"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recalls Phaeton, who, wishing to prove his heavenly birth by his beneficence, had the sun’s chariot but one day, and drove out of the beaten track. In Greek myth Phaethon, son of the sun god Helios, begged to drive his father’s chariot, lost control and scorched the earth, until Zeus struck him down with a thunderbolt. Thoreau’s story is a warning against those who set out to do good on a grand scale without wisdom, and the myth shows how well-meant ambition can be dangerous."
   - id: "branches-of-evil-thoreau"
     trigger: "branches of evil"
     title: "Why Thoreau Urged Us to Strike the Root"
@@ -224,7 +343,7 @@ their graves as soon as they are born? They have got to live a man’s
 life, pushing all these things before them, and get on as well as they
 can. How many a poor immortal soul have I met well nigh crushed and
 smothered under its load, creeping down the road of life, pushing
-before it a barn seventy-five feet by forty, its Augean stables never
+before it a barn seventy-five feet by forty, its **Augean stables** never
 cleansed, and one hundred acres of land, tillage, mowing, pasture, and
 wood-lot! The portionless, who struggle with no such unnecessary
 inherited encumbrances, find it labor enough to subdue and cultivate a
@@ -235,7 +354,7 @@ plowed into the soil for compost. By a seeming fate, commonly called
 necessity, they are employed, as it says in an old book, laying up
 treasures which moth and rust will corrupt and thieves break through
 and steal. It is a fool’s life, as they will find when they get to the
-end of it, if not before. It is said that Deucalion and Pyrrha created
+end of it, if not before. It is said that **Deucalion and Pyrrha** created
 men by throwing stones over their heads behind them:—
 
      Inde genus durum sumus, experiensque laborum,
@@ -446,14 +565,14 @@ same second nature. By proper Shelter and Clothing we legitimately
 retain our own internal heat; but with an excess of these, or of Fuel,
 that is, with an external heat greater than our own internal, may not
 cookery properly be said to begin? Darwin, the naturalist, says of the
-inhabitants of Tierra del Fuego, that while his own party, who were
+inhabitants of **Tierra del Fuego**, that while his own party, who were
 well clothed and sitting close to a fire, were far from too warm, these
 naked savages, who were farther off, were observed, to his great
 surprise, “to be streaming with perspiration at undergoing such a
 roasting.” So, we are told, the New Hollander goes naked with impunity,
 while the European shivers in his clothes. Is it impossible to combine
 the hardiness of these savages with the intellectualness of the
-civilized man? According to Liebig, man’s body is a stove, and food the
+civilized man? According to **Liebig**, man’s body is a stove, and food the
 fuel which keeps up the internal combustion in the lungs. In cold
 weather we eat more, in warm less. The animal heat is the result of a
 slow combustion, and disease and death take place when this is too
@@ -682,9 +801,9 @@ navigation;—charts to be studied, the position of reefs and new lights
 and buoys to be ascertained, and ever, and ever, the logarithmic tables
 to be corrected, for by the error of some calculator the vessel often
 splits upon a rock that should have reached a friendly pier,—there is
-the untold fate of La Perouse;—universal science to be kept pace with,
+the untold fate of **La Perouse**;—universal science to be kept pace with,
 studying the lives of all great discoverers and navigators, great
-adventurers and merchants, from Hanno and the Phœnicians down to our
+adventurers and merchants, from **Hanno** and the Phœnicians down to our
 day; in fine, account of stock to be taken from time to time, to know
 how you stand. It is a labor to task the faculties of a man,—such
 problems of profit and loss, of interest, of tare and tret, and gauging
@@ -971,7 +1090,7 @@ tax the poor civilized man secures an abode which is a palace compared
 with the savage’s. An annual rent of from twenty-five to a hundred
 dollars, these are the country rates, entitles him to the benefit of
 the improvements of centuries, spacious apartments, clean paint and
-paper, Rumford fireplace, back plastering, Venetian blinds, copper
+paper, **Rumford fireplace**, back plastering, Venetian blinds, copper
 pump, spring lock, a commodious cellar, and many other things. But how
 happens it that he who is said to enjoy these things is so commonly a
 _poor_ civilized man, while the savage, who has them not, is rich as a
@@ -1133,7 +1252,7 @@ in proportion as we are morally and intellectually his superiors! At
 present our houses are cluttered and defiled with it, and a good
 housewife would sweep out the greater part into the dust hole, and not
 leave her morning’s work undone. Morning work! By the blushes of Aurora
-and the music of Memnon, what should be man’s _morning work_ in this
+and the music of **Memnon**, what should be man’s _morning work_ in this
 world? I had three pieces of limestone on my desk, but I was terrified
 to find that they required to be dusted daily, when the furniture of my
 mind was all undusted still, and I threw them out the window in
@@ -1144,7 +1263,7 @@ broken ground.
 It is the luxurious and dissipated who set the fashions which the herd
 so diligently follow. The traveller who stops at the best houses, so
 called, soon discovers this, for the publicans presume him to be a
-Sardanapalus, and if he resigned himself to their tender mercies he
+**Sardanapalus**, and if he resigned himself to their tender mercies he
 would soon be completely emasculated. I think that in the railroad car
 we are inclined to spend more on luxury than on safety and convenience,
 and it threatens without attaining these to become no better than a
@@ -1198,7 +1317,7 @@ housekeeping and beautiful living be laid for a foundation: now, a
 taste for the beautiful is most cultivated out of doors, where there is
 no house and no housekeeper.
 
-Old Johnson, in his “Wonder-Working Providence,” speaking of the first
+Old Johnson, in his “**Wonder-Working Providence**,” speaking of the first
 settlers of this town, with whom he was contemporary, tells us that
 “they burrow themselves in the earth for their first shelter under some
 hillside, and, casting the soil aloft upon timber, they make a smoky
@@ -1319,7 +1438,7 @@ over the chips which I had made.
 
 By the middle of April, for I made no haste in my work, but rather made
 the most of it, my house was framed and ready for the raising. I had
-already bought the shanty of James Collins, an Irishman who worked on
+already bought the shanty of **James Collins**, an Irishman who worked on
 the Fitchburg Railroad, for boards. James Collins’ shanty was
 considered an uncommonly fine one. When I called to see it he was not
 at home. I walked about the outside, at first unobserved from within,
@@ -1611,7 +1730,7 @@ first news that will leak through into the broad, flapping American ear
 will be that the Princess Adelaide has the whooping cough. After all,
 the man whose horse trots a mile in a minute does not carry the most
 important messages; he is not an evangelist, nor does he come round
-eating locusts and wild honey. I doubt if Flying Childers ever carried
+eating locusts and wild honey. I doubt if **Flying Childers** ever carried
 a peck of corn to mill.
 
 One says to me, “I wonder that you do not lay up money; you love to
@@ -1743,7 +1862,7 @@ is not behindhand in its public buildings; but there are very few halls
 for free worship or free speech in this county. It should not be by
 their architecture, but why not even by their power of abstract
 thought, that nations should seek to commemorate themselves? How much
-more admirable the Bhagvat-Geeta than all the ruins of the East! Towers
+more admirable the **Bhagvat-Geeta** than all the ruins of the East! Towers
 and temples are the luxury of princes. A simple and independent mind
 does not toil at the bidding of any prince. Genius is not a retainer to
 any emperor, nor is its material silver, or gold, or marble, except to
@@ -1770,7 +1889,7 @@ same all the world over, whether the building be an Egyptian temple or
 the United States Bank. It costs more than it comes to. The mainspring
 is vanity, assisted by the love of garlic and bread and butter. Mr.
 Balcom, a promising young architect, designs it on the back of his
-Vitruvius, with hard pencil and ruler, and the job is let out to Dobson
+**Vitruvius**, with hard pencil and ruler, and the job is let out to Dobson
 & Sons, stonecutters. When the thirty centuries begin to look down on
 it, mankind begin to look up at it. As for your high towers and
 monuments, there was a crazy fellow once in this town who undertook to
@@ -1926,8 +2045,8 @@ sometimes pop and discharge its contents to my discomfiture. It is
 simpler and more respectable to omit it. Man is an animal who more than
 any other can adapt himself to all climates and circumstances. Neither
 did I put any sal soda, or other acid or alkali, into my bread. It
-would seem that I made it according to the recipe which Marcus Porcius
-Cato gave about two centuries before Christ. “Panem depsticium sic
+would seem that I made it according to the recipe which **Marcus Porcius
+Cato** gave about two centuries before Christ. “Panem depsticium sic
 facito. Manus mortariumque bene lavato. Farinam in mortarium indito,
 aquæ paulatim addito, subigitoque pulchre. Ubi bene subegeris,
 defingito, coquitoque sub testu.” Which I take to mean—“Make kneaded
@@ -2127,7 +2246,7 @@ wonted moods, I foolishly thought. While my acquaintances went
 unhesitatingly into trade or the professions, I contemplated this
 occupation as most like theirs; ranging the hills all summer to pick
 the berries which came in my way, and thereafter carelessly dispose of
-them; so, to keep the flocks of Admetus. I also dreamed that I might
+them; so, to keep the **flocks of Admetus**. I also dreamed that I might
 gather the wild herbs, or carry evergreens to such villagers as loved
 to be reminded of the woods, even to the city, by hay-cart loads. But I
 have since learned that trade curses everything it handles; and though
@@ -2246,7 +2365,7 @@ increasing his genial heat and beneficence till he is of such
 brightness that no mortal can look him in the face, and then, and in
 the mean while too, going about the world in his own orbit, doing it
 good, or rather, as a truer philosophy has discovered, the world going
-about him getting good. When Phaeton, wishing to prove his heavenly
+about him getting good. When **Phaeton**, wishing to prove his heavenly
 birth by his beneficence, had the sun’s chariot but one day, and drove
 out of the beaten track, he burned several blocks of houses in the
 lower streets of heaven, and scorched the surface of the earth, and

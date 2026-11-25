@@ -36,6 +36,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau writes, 'There were times when I could not afford to sacrifice the bloom of the present moment to any work.' This phrase captures his philosophy of living fully in the now, a stance that defied the productivity-driven norms of his era. The idea of 'carpe diem,' or seizing the day, has ancient roots in Horace's poetry but gained new resonance in the Romantic era, when thinkers like Thoreau championed the immediacy of experience over abstract planning. What makes Thoreau's take unique is his insistence that even mundane moments—like sitting in a doorway watching the sun—contain profound value. By refusing to trade these moments for labor, he challenges the reader to reconsider what constitutes a meaningful life. In Walden, this ethos is not just a personal choice but a critique of a society obsessed with progress and accumulation."
+  - id: "orientals"
+    trigger: "Orientals"
+    title: "What Thoreau Learned From Eastern Contemplation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wu_wei"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that sitting in his sunny doorway, he realised what the Orientals mean by contemplation and the forsaking of works. The idea echoes concepts in Hindu and Chinese thought, such as the Bhagavad Gita’s detachment from the fruits of action and the Taoist wu wei, which means effortless action, doing by not forcing. Thoreau read translations of these texts in Emerson’s circle. In his cabin he found that hours spent doing nothing but listening to birds were not wasted time, and he treats them as time added to his life."
   - id: "puri-indians"
     trigger: "the Puri Indians"
     title: "A Tribe With No Words for Time"
@@ -46,7 +53,7 @@ enhancements:
   - id: "life-everlasting-grows-under-the-table"
     trigger: "life-everlasting grows under the table"
     title: "The Plant That Symbolized Immortality"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pearly_eternal"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Anaphalis_margaritacea"
     image_url: ""
     image_caption: ""
     content: "Thoreau describes life-everlasting growing under his table, a detail that seems mundane but carries symbolic weight. Life-everlasting, or Anaphalis margaritacea, is a hardy perennial known for its silvery-white flowers that retain their shape long after drying. Indigenous peoples used the plant medicinally, and its name evokes themes of endurance and immortality. For Thoreau, the presence of this plant beneath his table is not just a botanical observation but a metaphor for the enduring vitality of nature, even in the humblest settings. It reflects his belief that the simplest elements of life hold profound truths, a recurring theme in Walden."
@@ -78,6 +85,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions the Dismal Swamp as a setting where trains pass through, scaring owls and foxes. The Great Dismal Swamp, located in Virginia and North Carolina, has a storied history as a refuge for escaped enslaved people and a symbol of untamed wilderness. Its name evokes mystery and melancholy, making it a frequent subject in American literature. By referencing this swamp, Thoreau connects the industrial intrusion of railroads with the loss of untouched natural spaces. In Walden, this serves as a poignant reminder of the costs of progress, urging readers to consider what is sacrificed in the name of convenience."
+  - id: "buena-vista"
+    trigger: "Buena Vista"
+    title: "The Battle Thoreau Finds Less Heroic Than Snow-Ploughmen"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Buena_Vista"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he is less affected by their heroism who stood up for half an hour in the front line at Buena Vista than by the steady valor of the men who inhabit the snow-plough. The Battle of Buena Vista, fought in Mexico in February 1847 during the Mexican–American War, ended in a hard-won American victory under General Zachary Taylor. Thoreau opposed the war and had been jailed in 1846 for refusing to pay a tax. His comparison of the battlefield hero and the working man is meant to honour ordinary courage."
+  - id: "bonaparte"
+    trigger: "Bonaparte"
+    title: "The Courage Napoleon Thought Rarest"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Napoleon"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau praises the workers whose courage is not merely the three-o’-clock in the morning courage, which Bonaparte thought was the rarest. Napoleon is credited with saying that the courage he found most rare was two-o’clock-in-the-morning courage, the unprepared courage that faces a sudden crisis. Thoreau adjusts the hour, and he claims that the men who run the railroad in winter have a kind of courage that does not go to rest so early. He sets a famous soldier against the unknown labourer, a typical reversal in the book."
   - id: "great-snow"
     trigger: "the Great Snow"
     title: "The Blizzard That Tested New England's Resolve"
@@ -85,6 +106,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau refers to 'the Great Snow,' a phrase that conjures images of harsh New England winters. Snowstorms in this region were notorious for their severity, often isolating communities and testing their resilience. For Thoreau, the snow becomes a backdrop for human enterprise, as he marvels at the courage of railroad workers braving the elements. This juxtaposition highlights the interplay between nature's power and human determination. In Walden, the Great Snow symbolizes both the challenges of living close to nature and the ingenuity required to overcome them, reinforcing Thoreau's themes of self-reliance and adaptability."
+  - id: "sierra-nevada"
+    trigger: "Sierra Nevada"
+    title: "The Boulders and the Snow-Covered Ploughmen"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sierra_Nevada_(U.S.)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the snow-ploughmen covered with rime, their heads peering above the mould-board like bowlders of the Sierra Nevada, that occupy an outside place in the universe. The Sierra Nevada is the great mountain range of California, whose granite peaks are scattered with huge glacial boulders. In 1849 the Gold Rush made it a famous place for Americans. Thoreau compares the figures in the storm to those rocks, seen from far off, and gives the railroad workers a quality of grandeur."
+  - id: "long-wharf"
+    trigger: "Long Wharf"
+    title: "Boston’s Old Wharf and the Smell of Freight"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Long_Wharf_(Boston)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau enjoys the freight train that smells of stores from Long Wharf to Lake Champlain. Long Wharf, built in Boston in 1710, ran nearly half a mile into the harbour and was the centre of the city’s trade, where ships from China, India and the Caribbean unloaded. The railroad carried goods inland from the port. Thoreau likes the smell, since it reminds him of foreign parts, of coral reefs, and Indian oceans, and he feels more like a citizen of the world at the sight of the cargo."
+  - id: "lake-champlain"
+    trigger: "Lake Champlain"
+    title: "The Northern Lake at the End of the Freight Route"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lake_Champlain"
+    image_url: ""
+    image_caption: ""
+    content: "The goods from Long Wharf are carried as far as Lake Champlain. The lake, between Vermont and New York and reaching into Canada, was a major waterway for trade and war from colonial times, and in the 1840s it carried lumber and farm goods to Canada and the Hudson River by way of canals. Thoreau’s phrase gives the railroad its geography, linking a Boston wharf to a northern lake, and shows how a train could connect the sea to the interior. He admires the energy of commerce and its reach."
+  - id: "manilla-hemp"
+    trigger: "Manilla hemp"
+    title: "The Philippine Fibre in the Freight Car"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Abac%C3%A1"
+    image_url: ""
+    image_caption: ""
+    content: "Among the goods on the freight train Thoreau sees the Manilla hemp and cocoa-nut husks, the old junk, gunny bags, scrap iron and rusty nails. Manila hemp, called abacá, is a strong fibre from a banana relative grown in the Philippines, and was the best material for ships’ ropes in the age of sail. Its presence in a Massachusetts train shows how far trade reached. Thoreau lists the cargo with delight, since each item calls up a foreign place."
   - id: "thomaston-lime"
     trigger: "Thomaston lime"
     title: "The Maine Town That Built America’s Foundations"
@@ -92,6 +141,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions Thomaston lime, a product from Thomaston, Maine, known for its high-quality limestone. This material was essential for construction during the 19th century, used in everything from buildings to agricultural soil treatment. Thomaston became a hub for lime production, with its quarries shaping the town's economy and identity. For Thoreau, the lime represents the interconnectedness of rural industry and urban development, as raw materials from nature are transformed into the infrastructure of civilization. In Walden, this detail underscores the complex relationship between natural resources and human enterprise, inviting readers to reflect on the origins of the materials that shape their world."
+  - id: "milwaukie"
+    trigger: "Milwaukie"
+    title: "The Frontier City in Thoreau’s Joke About Rags"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Milwaukee"
+    image_url: ""
+    image_caption: ""
+    content: "Describing a car-load of rags, Thoreau says that the patterns are no longer cried up, unless it be in Milwaukie, as splendid English, French or American prints. Milwaukee, then a young city on Lake Michigan that had been settled by Germans and New Englanders and became a state’s largest city in the 1840s, stands for the distant frontier where fashions arrive late. Thoreau’s joke is that fashions pass from the east to the west, and then down to rags, which will be made into paper and become books."
+  - id: "grand-banks"
+    trigger: "Grand Banks"
+    title: "The Cod Waters in a Smell of Salt Fish"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Grand_Banks_of_Newfoundland"
+    image_url: ""
+    image_caption: ""
+    content: "The closed car smells of salt fish, the strong New England and commercial scent, reminding Thoreau of the Grand Banks and the fisheries. The Grand Banks off Newfoundland, where the cold Labrador Current meets the warm Gulf Stream, are among the richest fishing grounds in the world, and New England schooners fished for cod there for centuries. Salt cod was a staple food and an important export. Thoreau goes on to admire the salt fish, which is so cured that nothing can spoil it, as a model of toughness."
   - id: "cuttingsville-vermont"
     trigger: "Cuttingsville, Vermont"
     title: "The Tiny Town That Linked Rural Life to Trade"
@@ -99,41 +162,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions Cuttingsville, Vermont, as a destination for goods transported by rail. This small village exemplifies the way railroads connected isolated rural communities to broader markets during the 19th century. Cuttingsville's economy relied on trade, with local merchants importing goods for farmers and exporting regional products. For Thoreau, the town symbolizes the transformative power of commerce, which brings distant places into contact but also homogenizes local cultures. In Walden, Cuttingsville serves as a microcosm of the industrial age, illustrating both the benefits and drawbacks of progress in reshaping the American landscape."
+  - id: "green-mountains"
+    trigger: "Green Mountains"
+    title: "The Vermont Range at the Railroad’s Far End"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Green_Mountains"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau pictures a hogshead of molasses or brandy directed to a trader among the Green Mountains. The Green Mountains run the length of Vermont, a ridge of old rounded peaks covered with forest, and in the 1840s small farms and villages lay in their valleys. A country merchant there depended on goods brought by the railroad from Boston. Thoreau’s image of the trader, who imports for the farmers near his clearing, shows how the railroad ties remote places into the web of commerce."
   - id: "cattle-train"
     trigger: "the cattle-train"
     title: "The Rolling Pasture That Changed Farming Forever"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Stock_train"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Livestock"
     image_url: ""
     image_caption: ""
     content: "Thoreau describes the cattle-train as a pastoral valley in motion, filled with bleating calves and sheep. Stock trains revolutionized agriculture by enabling farmers to transport livestock over long distances quickly and efficiently. This innovation reduced costs and expanded markets, but it also marked a shift from traditional farming to industrialized agriculture. Thoreau's poetic imagery contrasts the idyllic life of shepherds with the mechanical efficiency of trains, highlighting the loss of intimacy and connection to nature. In Walden, the cattle-train becomes a symbol of the tension between progress and tradition, urging readers to consider what is gained and lost in the march of modernization."
-  - id: "trump-of-bullfrogs"
-    trigger: "the trump of bullfrogs"
-    title: "The Amphibian Choir That Serenaded Thoreau"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Bullfrog"
+  - id: "peterboro-hills"
+    trigger: "Peterboro’ Hills"
+    title: "The New Hampshire Hills Where the Hounds Lose the Scent"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Peterborough,_New_Hampshire"
     image_url: ""
     image_caption: ""
-    content: "Thoreau describes the 'trump of bullfrogs' as a raucous yet harmonious sound emanating from Walden Pond. Bullfrogs, known for their deep, resonant calls, are native to North America and thrive in wetlands. Their vocalizations serve both as mating calls and territorial warnings, creating a natural symphony that Thoreau likens to ancient revelry. By anthropomorphizing the frogs as 'wassailers,' he imbues their sounds with a sense of communal celebration. In Walden, the bullfrogs' chorus becomes a metaphor for the vitality and interconnectedness of life, reminding readers that even the smallest creatures contribute to the richness of the natural world."
-  - id: "wild-indian-pheasant"
-    trigger: "wild Indian pheasant"
-    title: "The Exotic Bird That Inspired Chanticleer"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Red_junglefowl"
+    content: "Thoreau imagines the dogs of the old hunters barking behind the Peterboro’ Hills, or panting up the western slope of the Green Mountains. Peterborough, New Hampshire, a town among the hills near Mount Monadnock, was a favourite place for walkers and writers, and later a literary retreat. The railroad has frightened the animals away, and the hunters have lost the scent, so their old trade is over. Thoreau’s mock-heroic picture of the hounds is one more sign that the train has changed the countryside."
+  - id: "the-universal-lyre"
+    trigger: "the universal lyre"
+    title: "Distant Sounds as a Single Instrument"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Aeolian_harp"
     image_url: ""
     image_caption: ""
-    content: "Thoreau refers to the 'wild Indian pheasant,' a poetic name for the red junglefowl, the ancestor of domestic chickens. Native to South Asia, this bird's crowing inspired the figure of Chanticleer in literature and became a symbol of dawn and vitality. Thoreau imagines its call echoing through New England woods, a sound so stirring it could awaken nations. By invoking this bird, he contrasts the wildness of nature with the domestication of animals, highlighting his preference for untamed beauty. In Walden, the wild Indian pheasant serves as a reminder of the primal energy that civilization often suppresses, urging readers to reconnect with their roots."
-  - id: "wild-sumachs"
-    trigger: "wild sumachs"
-    title: "The Hardy Shrub That Thrived at Walden"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Sumac"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau mentions wild sumachs breaking into his cellar, a vivid image of nature reclaiming human spaces. Sumacs are resilient shrubs native to North America, known for their vibrant red foliage and clusters of berries. Indigenous peoples used sumac for medicinal purposes and as a spice, while its hardy growth made it a symbol of persistence. For Thoreau, the encroachment of wild sumachs represents the untamed vitality of nature, defying human attempts at control. In Walden, this detail underscores his theme of coexistence with the natural world, suggesting that true harmony lies in embracing, not resisting, nature's wildness."
-  - id: "usnea-lichens"
-    trigger: "usnea lichens"
-    title: "The Mysterious 'Old Man's Beard' of the Forest"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Usnea"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau describes usnea lichens hanging from spruce trees in a swamp, adding to the eerie atmosphere. Known as 'old man's beard,' usnea is a type of lichen that thrives in moist, shaded environments. It has been used in traditional medicine for its antibacterial properties and is an indicator of air quality due to its sensitivity to pollution. For Thoreau, the presence of usnea in the swamp symbolizes the untouched, primordial aspects of nature. In Walden, this detail enriches his portrayal of the wilderness as a place of mystery and vitality, inviting readers to appreciate the intricate beauty of even the smallest organisms."
+    content: "Thoreau says that all sound heard at the greatest possible distance produces one and the same effect, a vibration of the universal lyre. He compares the wind to a harp, like an Aeolian harp, a stringed instrument that sounds when air passes over it, a favourite of Romantic poets. He adds that the intervening air lends beauty to a distant sound, as it makes a faraway ridge look blue. The idea fits his love of distance and his habit of listening, and it explains why the church bells and the cows of Concord sound musical from the pond."
   - id: "whippoorwills"
     trigger: "the whippoorwills"
     title: "The Night Birds That Sang by Thoreau's Door"
@@ -141,6 +197,62 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes whippoorwills chanting their vespers with clock-like precision. These nocturnal birds, native to North America, are known for their haunting, repetitive calls, which often evoke solitude and mystery. Their name mimics their song, making them a favorite subject in folklore and poetry. Thoreau's close observation of their habits reflects his deep connection to the rhythms of nature. In Walden, the whippoorwills symbolize the quiet beauty of the night and the meditative stillness that Thoreau sought in his retreat, reminding readers of the richness found in moments of solitude."
+  - id: "screech-owls"
+    trigger: "screech owls"
+    title: "The Owls With the Funeral Cry"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_screech_owl"
+    image_url: ""
+    image_caption: ""
+    content: "Just before dawn, Thoreau says, when other birds are still, the screech owls take up the strain, like mourning women their ancient u-lu-lu. The eastern screech owl is a small owl of eastern North America with a descending, quavering whinny and a long trill, which can sound mournful. Thoreau enjoys the sound as a wild music, and he jokes that it is not the honest tu-whit tu-who of the poets. His love of owls was well known, and he wrote that he was glad that there were owls, which hoot for stupid men."
+  - id: "ben-jonsonian"
+    trigger: "Ben Jonsonian"
+    title: "The Elizabethan Poet in an Owl’s Scream"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ben_Jonson"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the screech owls’ dismal scream is truly Ben Jonsonian. Ben Jonson, the English dramatist and poet who died in 1637, wrote court masques and plays with a learned, harsh, satirical style, among them The Masque of Queens, which has a scene of witches. Thoreau means that the owl’s cry is grotesque and theatrical, like Jonson’s hags, and then calls them wise midnight hags. The allusion is typical of his habit of hearing nature in literary terms."
+  - id: "usnea-lichens"
+    trigger: "usnea lichens"
+    title: "The Mysterious 'Old Man's Beard' of the Forest"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Usnea"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes usnea lichens hanging from spruce trees in a swamp, adding to the eerie atmosphere. Known as 'old man's beard,' usnea is a type of lichen that thrives in moist, shaded environments. It has been used in traditional medicine for its antibacterial properties and is an indicator of air quality due to its sensitivity to pollution. For Thoreau, the presence of usnea in the swamp symbolizes the untouched, primordial aspects of nature. In Walden, this detail enriches his portrayal of the wilderness as a place of mystery and vitality, inviting readers to appreciate the intricate beauty of even the smallest organisms."
+  - id: "trump-of-bullfrogs"
+    trigger: "the trump of bullfrogs"
+    title: "The Amphibian Choir That Serenaded Thoreau"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bullfrog"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the 'trump of bullfrogs' as a raucous yet harmonious sound emanating from Walden Pond. Bullfrogs, known for their deep, resonant calls, are native to North America and thrive in wetlands. Their vocalizations serve both as mating calls and territorial warnings, creating a natural symphony that Thoreau likens to ancient revelry. By anthropomorphizing the frogs as 'wassailers,' he imbues their sounds with a sense of communal celebration. In Walden, the bullfrogs' chorus becomes a metaphor for the vitality and interconnectedness of life, reminding readers that even the smallest creatures contribute to the richness of the natural world."
+  - id: "stygian"
+    trigger: "Stygian"
+    title: "The Frogs of the River of the Dead"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Styx"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau hears the trump of bullfrogs, the spirits of ancient wine-bibbers, trying to sing a catch in their Stygian lake. Stygian means of the Styx, the river of the underworld in Greek myth, and the comic chorus of frogs in Aristophanes’ play The Frogs sings while crossing it. Thoreau turns the bullfrogs of Walden into drinking companions condemned to a watery hell, singing an old song. The joke is gentle, and he adds a note for the nymphs of Walden, who may not like the comparison."
+  - id: "wild-indian-pheasant"
+    trigger: "wild Indian pheasant"
+    title: "The Exotic Bird That Inspired Chanticleer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Red_junglefowl"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau refers to the 'wild Indian pheasant,' a poetic name for the red junglefowl, the ancestor of domestic chickens. Native to South Asia, this bird's crowing inspired the figure of Chanticleer in literature and became a symbol of dawn and vitality. Thoreau imagines its call echoing through New England woods, a sound so stirring it could awaken nations. By invoking this bird, he contrasts the wildness of nature with the domestication of animals, highlighting his preference for untamed beauty. In Walden, the wild Indian pheasant serves as a reminder of the primal energy that civilization often suppresses, urging readers to reconnect with their roots."
+  - id: "chanticleer"
+    trigger: "Chanticleer"
+    title: "The Rooster Hero of Chaucer’s Tale"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Nun%27s_Priest%27s_Tale"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau praises the cock, saying all climates agree with brave Chanticleer. Chanticleer is the proud rooster in Chaucer’s Nun’s Priest’s Tale, one of the Canterbury Tales, who is tricked by a fox, and the name became a poetic term for a cock. Thoreau wished to keep a cock for the sake of its song, not to eat. He admires its health and its cheerful morning crowing, and he thinks it should be a wild bird again, so that its note would be celebrated by poets of every country."
+  - id: "wild-sumachs"
+    trigger: "wild sumachs"
+    title: "The Hardy Shrub That Thrived at Walden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sumac"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions wild sumachs breaking into his cellar, a vivid image of nature reclaiming human spaces. Sumacs are resilient shrubs native to North America, known for their vibrant red foliage and clusters of berries. Indigenous peoples used sumac for medicinal purposes and as a spice, while its hardy growth made it a symbol of persistence. For Thoreau, the encroachment of wild sumachs represents the untamed vitality of nature, defying human attempts at control. In Walden, this detail underscores his theme of coexistence with the natural world, suggesting that true harmony lies in embracing, not resisting, nature's wildness."
 ---
 But while we are confined to books, though the most select and classic,
 and read only particular written languages, which are themselves but
@@ -169,7 +281,7 @@ wagon on the distant highway, I was reminded of the lapse of time. I
 grew in those seasons like corn in the night, and they were far better
 than any work of the hands would have been. They were not time
 subtracted from my life, but so much over and above my usual allowance.
-I realized what the Orientals mean by contemplation and the forsaking
+I realized what the **Orientals** mean by contemplation and the forsaking
 of works. For the most part, I minded not how the hours went. The day
 advanced as if to light some work of mine; it was morning, and lo, now
 it is evening, and nothing memorable is accomplished. Instead of
@@ -366,10 +478,10 @@ not clasp its hands and pray to Jupiter. I see these men every day go
 about their business with more or less courage and content, doing more
 even than they suspect, and perchance better employed than they could
 have consciously devised. I am less affected by their heroism who stood
-up for half an hour in the front line at Buena Vista, than by the
+up for half an hour in the front line at **Buena Vista**, than by the
 steady and cheerful valor of the men who inhabit the snow-plough for
 their winter quarters; who have not merely the three-o’-clock in the
-morning courage, which Bonaparte thought was the rarest, but whose
+morning courage, which **Bonaparte** thought was the rarest, but whose
 courage does not go to rest so early, who go to sleep only when the
 storm sleeps or the sinews of their iron steed are frozen. On this
 morning of **the Great Snow**, perchance, which is still raging and
@@ -379,7 +491,7 @@ _are coming_, without long delay, notwithstanding the veto of a New
 England north-east snow storm, and I behold the ploughmen covered with
 snow and rime, their heads peering, above the mould-board which is
 turning down other than daisies and the nests of field-mice, like
-bowlders of the Sierra Nevada, that occupy an outside place in the
+bowlders of the **Sierra Nevada**, that occupy an outside place in the
 universe.
 
 Commerce is unexpectedly confident and serene, alert, adventurous, and
@@ -387,11 +499,11 @@ unwearied. It is very natural in its methods withal, far more so than
 many fantastic enterprises and sentimental experiments, and hence its
 singular success. I am refreshed and expanded when the freight train
 rattles past me, and I smell the stores which go dispensing their odors
-all the way from Long Wharf to Lake Champlain, reminding me of foreign
+all the way from **Long Wharf** to **Lake Champlain**, reminding me of foreign
 parts, of coral reefs, and Indian oceans, and tropical climes, and the
 extent of the globe. I feel more like a citizen of the world at the
 sight of the palm-leaf which will cover so many flaxen New England
-heads the next summer, the Manilla hemp and cocoa-nut husks, the old
+heads the next summer, the **Manilla hemp** and cocoa-nut husks, the old
 junk, gunny bags, scrap iron, and rusty nails. This car-load of torn
 sails is more legible and interesting now than if they should be
 wrought into paper and printed books. Who can write so graphically the
@@ -405,13 +517,13 @@ caribou. Next rolls **Thomaston lime**, a prime lot, which will get far
 among the hills before it gets slacked. These rags in bales, of all
 hues and qualities, the lowest condition to which cotton and linen
 descend, the final result of dress,—of patterns which are now no longer
-cried up, unless it be in Milwaukie, as those splendid articles,
+cried up, unless it be in **Milwaukie**, as those splendid articles,
 English, French, or American prints, ginghams, muslins, &c., gathered
 from all quarters both of fashion and poverty, going to become paper of
 one color or a few shades only, on which forsooth will be written tales
 of real life, high and low, and founded on fact! This closed car smells
 of salt fish, the strong New England and commercial scent, reminding me
-of the Grand Banks and the fisheries. Who has not seen a salt fish,
+of the **Grand Banks** and the fisheries. Who has not seen a salt fish,
 thoroughly cured for this world, so that nothing can spoil it, and
 putting the perseverance of the saints to the blush? with which you may
 sweep or pave the streets, and split your kindlings, and the teamster
@@ -434,7 +546,7 @@ natural form.” The only effectual cure for such inveteracies as these
 tails exhibit is to make glue of them, which I believe is what is
 usually done with them, and then they will stay put and stick. Here is
 a hogshead of molasses or of brandy directed to John Smith,
-**Cuttingsville, Vermont**, some trader among the Green Mountains, who
+**Cuttingsville, Vermont**, some trader among the **Green Mountains**, who
 imports for the farmers near his clearing, and now perchance stands
 over his bulk-head and thinks of the last arrivals on the coast, how
 they may affect the price for him, telling his customers this moment,
@@ -463,7 +575,7 @@ car-load of drovers, too, in the midst, on a level with their droves
 now, their vocation gone, but still clinging to their useless sticks as
 their badge of office. But their dogs, where are they? It is a stampede
 to them; they are quite thrown out; they have lost the scent. Methinks
-I hear them barking behind the Peterboro’ Hills, or panting up the
+I hear them barking behind the **Peterboro’ Hills**, or panting up the
 western slope of the Green Mountains. They will not be in at the death.
 Their vocation, too, is gone. Their fidelity and sagacity are below par
 now. They will slink back to their kennels in disgrace, or perchance
@@ -532,9 +644,9 @@ the woods a few feet distant as if tethered by a string, when probably
 I was near its eggs. They sang at intervals throughout the night, and
 were again as musical as ever just before and about dawn.
 
-When other birds are still the screech owls take up the strain, like
-mourning women their ancient u-lu-lu. Their dismal scream is truly Ben
-Jonsonian. Wise midnight hags! It is no honest and blunt tu-whit tu-who
+When other birds are still the **screech owls** take up the strain, like
+mourning women their ancient u-lu-lu. Their dismal scream is truly **Ben
+Jonsonian**. Wise midnight hags! It is no honest and blunt tu-whit tu-who
 of the poets, but, without jesting, a most solemn graveyard ditty, the
 mutual consolations of suicide lovers remembering the pangs and the
 delights of supernal love in the infernal groves. Yet I love to hear
@@ -583,7 +695,7 @@ bridges,—a sound heard farther than almost any other at night,—the
 baying of dogs, and sometimes again the lowing of some disconsolate cow
 in a distant barn-yard. In the mean while all the shore rang with **the
 trump of bullfrogs**, the sturdy spirits of ancient wine-bibbers and
-wassailers, still unrepentant, trying to sing a catch in their Stygian
+wassailers, still unrepentant, trying to sing a catch in their **Stygian**
 lake,—if the Walden nymphs will pardon the comparison, for though there
 are almost no weeds, there are frogs there,—who would fain keep up the
 hilarious rules of their old festal tables, though their voices have
@@ -622,7 +734,7 @@ put nations on the alert. Who would not be early to rise, and rise
 earlier and earlier every successive day of his life, till he became
 unspeakably healthy, wealthy, and wise? This foreign bird’s note is
 celebrated by the poets of all countries along with the notes of their
-native songsters. All climates agree with brave Chanticleer. He is more
+native songsters. All climates agree with brave **Chanticleer**. He is more
 indigenous even than the natives. His health is ever good, his lungs
 are sound, his spirits never flag. Even the sailor on the Atlantic and
 Pacific is awakened by his voice; but its shrill sound never roused me

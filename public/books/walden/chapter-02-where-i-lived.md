@@ -57,6 +57,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau references 'De Re Rusticâ,' a Roman agricultural treatise attributed to Cato the Elder, as his guide to farming philosophy. Cato's work, written in the 2nd century BCE, is one of the earliest known texts on agriculture, offering practical advice on managing farms and cultivating crops. Thoreau's admiration for this ancient text reflects his interest in timeless wisdom and his belief in the value of simplicity and careful observation. By aligning himself with Cato, Thoreau underscores his commitment to deliberate living and his rejection of modern agricultural practices driven by greed and haste. This connection bridges ancient and modern philosophies, showing how Thoreau sought universal truths in his quest for a meaningful life."
+  - id: "fourth-of-july"
+    trigger: "Fourth of July"
+    title: "Why Thoreau Moved In on Independence Day"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Independence_Day_(United_States)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that he began to spend his nights in the woods on Independence Day, or the Fourth of July, 1845. The date celebrates the Declaration of Independence of 1776, and by choosing it he made his move a quiet act of personal independence from the bustle of Concord. He never claimed it was planned, since he said it came by accident, but the coincidence suited the book, which argues that each person must declare freedom from needless labour and convention. His house was not finished, merely a defence against the rain, but the symbolism of the day stays with the reader."
   - id: "harivansa"
     trigger: "Harivansa"
     title: "The Ancient Indian Epic That Inspired Thoreau"
@@ -64,6 +71,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau quotes the Harivansa, an ancient Indian epic, to emphasize the importance of living in harmony with nature. The Harivansa, a supplement to the Mahabharata, explores the genealogy and stories of Krishna and other figures in Hindu mythology. Thoreau's reference reflects his fascination with Eastern philosophy and its emphasis on simplicity, interconnectedness, and spiritual awakening. In the 19th century, texts like the Harivansa were becoming accessible to Western audiences, influencing thinkers like Thoreau and Emerson. By invoking this epic, Thoreau aligns his philosophy with a broader, global tradition of seeking wisdom in nature and living deliberately. This moment reveals the depth of his intellectual curiosity and his belief in universal truths."
+  - id: "lincoln"
+    trigger: "Lincoln"
+    title: "The Neighbouring Town on the Pond’s Side"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lincoln,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau places his house in the midst of an extensive wood between Concord and Lincoln. Lincoln, a farming town east of Concord, was incorporated in 1754, and part of today’s Walden Pond State Reservation lies within it, since the town boundary runs near the pond’s south side. Thoreau’s precise placing gives the reader a map of his world: a mile and a half south of Concord village and two miles south of the Concord battleground. The nearness of the village is part of the book’s design, since he is an experimenter close to home."
   - id: "concord-battle-ground"
     trigger: "Concord Battle Ground"
     title: "The Revolutionary Site Near Thoreau's Cabin"
@@ -78,6 +92,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes the Sudbury meadows, a floodplain near Walden Pond, as a landscape elevated by mirage and imagination. The Sudbury River, which feeds these meadows, was a vital waterway for Indigenous peoples and early settlers in Massachusetts. Thoreau's poetic depiction transforms this ordinary feature into a metaphor for the interconnectedness of land and water, emphasizing the insular nature of the earth. This moment reflects his ability to find profound meaning in seemingly mundane details, reinforcing Walden's central theme: the richness of life lies in how we perceive and engage with the world around us."
+  - id: "steppes-of-tartary"
+    trigger: "steppes of Tartary"
+    title: "The Grasslands Thoreau Imagined Across the Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eurasian_Steppe"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the low shrub-oak plateau on the opposite shore stretched away toward the prairies of the West and the steppes of Tartary, affording ample room for all the roving families of men. Tartary was the old European name for the vast grasslands of northern and central Asia, home of nomadic horsemen, and the Eurasian steppe runs from Hungary to Manchuria. Thoreau uses it to enlarge his small view of a pond until it opens onto the world. His imagination gives the small woodlot a feeling of wide horizons and freedom."
+  - id: "damodara"
+    trigger: "Damodara"
+    title: "The Herdsman Who Needed a Vast Horizon"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Krishna"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes Damodara, who said, when his herds required new and larger pastures: There are none happy in the world but beings who enjoy freely a vast horizon. Damodara is a name of Krishna in the Hindu epic the Harivansa, a sequel to the Mahabharata, which Thoreau read in a French translation by Simeon Langlois. The line fits his own taste for open space. He finds in Hindu literature a voice for his belief that a person needs room to move and think, which he finds on the shore of a small pond."
   - id: "cassiopeias-chair"
     trigger: "Cassiopeia’s Chair"
     title: "The Celestial Throne That Sparked Thoreau's Imagination"
@@ -85,6 +113,48 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau invokes Cassiopeia’s Chair, a constellation in the northern sky, to describe the remote and celestial quality of his cabin's location. In Greek mythology, Cassiopeia was a queen punished for her vanity, immortalized in the stars seated on her throne. This constellation, visible year-round in the Northern Hemisphere, has inspired stargazers for centuries. Thoreau's reference elevates his humble dwelling to a cosmic realm, suggesting that true solitude and simplicity connect us to the universe's grandeur. This moment encapsulates his belief that profound truths can be found in the ordinary, transforming his cabin into a sanctuary of both earthly and celestial significance."
+  - id: "pleiades"
+    trigger: "Pleiades"
+    title: "The Star Cluster Thoreau Calls Home"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pleiades"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that if it were worth the while to settle near the Pleiades, then he was really there, at an equal remoteness from the life which he had left behind. The Pleiades, also called the Seven Sisters, is an open star cluster in the constellation Taurus, visible to the naked eye and known to cultures across the world, and it lies about 440 light-years away. Thoreau treats distance as a state of mind: a cabin a mile and a half from town can feel as remote as the stars. The image gives his small house a cosmic setting."
+  - id: "hyades"
+    trigger: "Hyades"
+    title: "The V-Shaped Cluster Beside the Pleiades"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hyades_(star_cluster)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau names the Hyades alongside the Pleiades, a pair of star groups well known to anyone who looked at the winter sky. The Hyades form the V-shaped face of Taurus the bull and are the closest open star cluster to the sun, about 150 light-years away, and in Greek myth they were sisters who wept for their brother. Thoreau’s reference shows how much of the night sky was part of ordinary education in his day. Placing his cabin near them, in imagination, gives the pond a place in a larger universe."
+  - id: "aldebaran"
+    trigger: "Aldebaran"
+    title: "The Red Star in His Imagined Neighbourhood"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Aldebaran"
+    image_url: ""
+    image_caption: ""
+    content: "In the same passage Thoreau imagines himself settled near Aldebaran or Altair. Aldebaran is the brightest star in Taurus and a red giant about 65 light-years away, its name from the Arabic for the follower, since it follows the Pleiades across the sky. Altair, in the constellation Aquila, is one of the closest bright stars to the sun. Thoreau names stars with ease, as a keen observer of the night sky. His list expresses the feeling that withdrawal from society brings the freshness of an unfamiliar part of the universe."
+  - id: "tching-thang"
+    trigger: "Tching-thang"
+    title: "The Chinese King’s Bathtub Motto"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tang_of_Shang"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that characters were engraved on the bathing tub of king Tching-thang: Renew thyself completely each day; do it again, and again, and forever again. Tching-thang is the French transcription of Tang of Shang, who founded the Shang dynasty in about 1600 BC, and the saying comes from the Confucian classic The Great Learning. Thoreau, who bathed in the pond each morning, made it a creed of his book: each day is a fresh start, and he treats the cold swim as a religious exercise."
+  - id: "iliad-and-odyssey"
+    trigger: "Iliad and Odyssey"
+    title: "The Mosquito With Homer’s Voice"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Homer"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes a mosquito singing through his room at dawn as Homer’s requiem, itself an Iliad and Odyssey in the air, singing its own wrath and wanderings. The Iliad and the Odyssey, the two great epics attributed to Homer, tell of the wrath of Achilles in the Trojan War and the long journey home of Odysseus, and Thoreau loved them and kept a copy in his cabin. Comparing a mosquito’s hum to Homer is playful, but it also states a serious belief that nature is full of poetry for those who wake early."
+  - id: "vedas"
+    trigger: "Vedas"
+    title: "The Ancient Scriptures That Greet the Morning"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Vedas"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau writes that the Vedas say, All intelligences awake with the morning. The Vedas are the oldest Hindu scriptures, hymns and rituals composed in Sanskrit from about 1500 BC, and they were translated into European languages in the nineteenth century, which opened Indian thought to readers like Emerson and Thoreau. The quotation supports his belief that morning is the best part of the day, when poetry, art and noble actions take place. He sets a Hindu text beside Greek myths and so unites many traditions."
   - id: "memnon"
     trigger: "Memnon"
     title: "The Dawn-Singing Statue That Fascinated Thoreau"
@@ -120,6 +190,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau uses 'Saint Vitus’ dance,' a term for Sydenham's chorea, to describe the restless and frenetic pace of modern life. This neurological disorder, characterized by involuntary movements, was named after Saint Vitus, the patron saint of dancers. In the 19th century, it was often associated with hysteria and overexertion. Thoreau's metaphor critiques society's inability to remain still and deliberate, likening its constant activity to a pathological condition. This vivid imagery reinforces Walden's central argument: that true fulfillment comes from slowing down, simplifying, and living intentionally. By invoking Saint Vitus’ dance, Thoreau highlights the absurdity of a life consumed by unnecessary motion."
+  - id: "wachito-river"
+    trigger: "Wachito River"
+    title: "The Trivial News Thoreau Mocks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ouachita_River"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mocks the newspaper reader who learns over coffee and rolls that a man has had his eyes gouged out this morning on the Wachito River. The Ouachita River runs through Arkansas and Louisiana, then a rough frontier, and the spelling Wachito was common in his day. The point is the pointless horror of the news, which he says is gossip of faraway events that have no relation to the reader’s life. He thinks that we live in the dark unfathomed mammoth cave of the world, and the news only keeps us from looking at what is near."
+  - id: "mammoth-cave"
+    trigger: "mammoth cave"
+    title: "The Kentucky Cave That Becomes a Metaphor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the newspaper reader never dreams that he lives in the dark unfathomed mammoth cave of this world. Mammoth Cave in Kentucky is the longest known cave system in the world, with hundreds of miles of passages, and guided tours began in the early 1800s, which made it one of America’s most famous sights. Thoreau uses it as an image of how little we know of our own world. Instead of reading about distant murders, he suggests, we might explore the vast unknown that is all around us."
   - id: "penny-post"
     trigger: "penny-post"
     title: "The Postal Revolution Thoreau Could Do Without"
@@ -127,6 +211,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau dismisses the 'penny-post,' a postal system that revolutionized communication by making letter delivery affordable. Introduced in England in 1840, the penny-post democratized correspondence, enabling widespread access to written communication. Thoreau, however, critiques its triviality, arguing that most letters lack meaningful content. This rejection aligns with his broader disdain for superficial distractions, emphasizing the importance of profound and deliberate exchanges. By dismissing the penny-post, Thoreau challenges readers to reconsider the value of their interactions and prioritize depth over convenience. This moment encapsulates Walden's critique of modernity, urging readers to seek substance in their lives."
+  - id: "western-railroad"
+    trigger: "Western Railroad"
+    title: "The Railroad Where a Cow Made the News"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Boston_and_Albany_Railroad"
+    image_url: ""
+    image_caption: ""
+    content: "In a list of petty news, Thoreau includes one cow run over on the Western Railroad. The Western Railroad, which opened between Worcester and Springfield in 1839 and was linked to Boston and Albany in the early 1840s, was one of the first long railways in Massachusetts. His point is that once you have read of one accident, you need not read of another, since they are all the same. Thoreau’s dry list shows that he found the newspapers as repetitive as the trains, and he preferred a deeper kind of news."
   - id: "don-carlos"
     trigger: "Don Carlos"
     title: "The Spanish Pretender Thoreau Mocked"
@@ -134,6 +225,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions Don Carlos, a claimant to the Spanish throne during the Carlist Wars, as an example of predictable news cycles. The Carlist Wars, spanning much of the 19th century, were conflicts over succession and political ideology in Spain. Thoreau's reference critiques the repetitive nature of news, suggesting that historical patterns render many events unsurprising. This moment underscores Walden's broader argument: that true knowledge lies in timeless truths rather than transient headlines. By invoking Don Carlos, Thoreau challenges readers to focus on enduring wisdom rather than fleeting distractions."
+  - id: "the-infanta"
+    trigger: "the Infanta"
+    title: "The Spanish Princess in the Headlines"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Infante"
+    image_url: ""
+    image_caption: ""
+    content: "In his mock formula for the foreign news Thoreau names the Infanta. In Spain and Portugal an infanta was a daughter of the king and queen who was not heir to the throne, and in the 1840s the marriages of Queen Isabella II and her sister, the Infanta Luisa Fernanda, were a European political question. Newspapers printed stories about them for years. Thoreau’s point is that readers are fed a pattern of familiar names and events, from which they can learn nothing new."
+  - id: "seville-and-granada"
+    trigger: "Seville and Granada"
+    title: "The Spanish Cities in Thoreau’s Newspaper Joke"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Seville"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau jokes that a ready wit could write the foreign news a year in advance, throwing in Don Carlos and the Infanta, and Don Pedro and Seville and Granada, in the right proportions. Seville and Granada, the great cities of Andalusia in southern Spain, were known to Americans through Washington Irving’s Tales of the Alhambra. The Carlist Wars of the 1830s, a fight over the Spanish throne, supplied the names in the headlines. Thoreau’s joke is that the news of Spain, like all news, is a set of repeated formulas."
+  - id: "khoung-tseu"
+    trigger: "Khoung-tseu"
+    title: "Confucius and the Messenger’s News"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Confucius"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau retells how Kieou-he-yu sent a man to Khoung-tseu to know his news, and Khoung-tseu asked the messenger what his master was doing. Khoung-tseu is Confucius, and the story comes from the Analects, where the messenger replies that his master wishes to make his faults fewer but cannot. Confucius approves of the reply. Thoreau uses it as a contrast to the newspaper’s idle news, since the only real news is whether a person is trying to improve, which has no date and is never old."
+  - id: "arabian-nights-entertainments"
+    trigger: "Arabian Nights’ Entertainments"
+    title: "Why Real Life Could Read Like a Fairy Tale"
+    wikipedia_url: "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that if men would observe realities only, life would be like a fairy tale and the Arabian Nights’ Entertainments. The Arabian Nights, or One Thousand and One Nights, is a collection of Middle Eastern and South Asian tales told by Scheherazade to delay her execution, and it became popular in English from the early eighteenth century. Thoreau’s point is that real life, seen clearly, is marvellous without help from illusion. The common view that wonders belong to fiction, he says, is a delusion that prevents us from seeing the world."
   - id: "mill-dam"
     trigger: "Mill-dam"
     title: "The Industrial Landmark Thoreau Saw Differently"
@@ -141,6 +260,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions the Mill-dam, a structure used to harness water power for mills, as a symbol of industrial progress. In the 19th century, mill-dams were central to the economic development of towns like Concord, enabling the rise of manufacturing. Thoreau, however, critiques their superficiality, suggesting that such landmarks obscure deeper truths about the land and its natural state. This moment reflects Walden's broader critique of industrialization, urging readers to look beyond appearances and reconnect with the fundamental realities of nature. By invoking the Mill-dam, Thoreau challenges readers to reconsider the impact of human interventions on the environment."
+  - id: "tied-to-the-mast-like-ulysses"
+    trigger: "tied to the mast like Ulysses"
+    title: "Thoreau’s Way to Pass the Sirens of Distraction"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Siren_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau advises a man to sail by the shallows of distraction, tied to the mast like Ulysses. In Homer’s Odyssey the hero Ulysses, or Odysseus, wanted to hear the song of the Sirens, whose music lured sailors to their deaths, so he had his crew bind him to the mast and plug their ears with wax. Thoreau applies the tale to the railroad whistle and the bell: let it whistle till it is hoarse, he says, and keep on your course. The image is both comic and serious, a plea to ignore the noises of the age."
   - id: "nilometer"
     trigger: "Nilometer"
     title: "The Ancient Tool Thoreau Reimagined"
@@ -148,6 +274,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau references the Nilometer, an ancient Egyptian device used to measure the Nile's water levels, as a metaphor for discerning reality. The Nilometer was crucial for predicting floods and ensuring agricultural success, symbolizing humanity's ability to adapt to natural cycles. Thoreau reimagines this tool as a 'Realometer,' a gauge for measuring the depth of truth amidst societal illusions. This inventive metaphor encapsulates Walden's central theme: the quest for authenticity and the rejection of superficial appearances. By invoking the Nilometer, Thoreau challenges readers to develop their own tools for navigating life's complexities and uncovering its deeper meanings."
+  - id: "realometer"
+    trigger: "Realometer"
+    title: "Thoreau’s Imaginary Gauge of Truth"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nilometer"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau dreams of a place to found a wall or a state, or perhaps a gauge, not a Nilometer, but a Realometer, that future ages might know how deep a freshet of shams and appearances had gathered. A Nilometer was a structure used in ancient Egypt to measure the level of the Nile’s annual flood, which told farmers how good the harvest would be. Thoreau coins Realometer on the pattern. He wants a hard bottom of reality below the flood of shams, and he describes the whole of his experiment as a search for such a gauge."
   - id: "time-is-but-the-stream"
     trigger: "Time is but the stream"
     title: "Thoreau's Poetic Vision of Time and Eternity"
@@ -270,7 +403,7 @@ standing on his roost, if only to wake my neighbors up.
 
 When first I took up my abode in the woods, that is, began to spend my
 nights as well as days there, which, by accident, was on Independence
-Day, or the Fourth of July, 1845, my house was not finished for winter,
+Day, or the **Fourth of July**, 1845, my house was not finished for winter,
 but was merely a defence against the rain, without plastering or
 chimney, the walls being of rough, weather-stained boards, with wide
 chinks, which made it cool at night. The upright white hewn studs and
@@ -309,7 +442,7 @@ many others.
 
 I was seated by the shore of a small pond, about a mile and a half
 south of the village of Concord and somewhat higher than it, in the
-midst of an extensive wood between that town and Lincoln, and about two
+midst of an extensive wood between that town and **Lincoln**, and about two
 miles south of that our only field known to fame, **Concord Battle
 Ground**; but I was so low in the woods that the opposite shore, half a
 mile off, like the rest, covered with wood, was my most distant
@@ -356,10 +489,10 @@ but _dry land_.
 Though the view from my door was still more contracted, I did not feel
 crowded or confined in the least. There was pasture enough for my
 imagination. The low shrub-oak plateau to which the opposite shore
-arose, stretched away toward the prairies of the West and the steppes
-of Tartary, affording ample room for all the roving families of men.
+arose, stretched away toward the prairies of the West and the **steppes
+of Tartary**, affording ample room for all the roving families of men.
 “There are none happy in the world but beings who enjoy freely a vast
-horizon,”—said Damodara, when his herds required new and larger
+horizon,”—said **Damodara**, when his herds required new and larger
 pastures.
 
 Both place and time were changed, and I dwelt nearer to those parts of
@@ -370,8 +503,8 @@ remote and more celestial corner of the system, behind the
 constellation of **Cassiopeia’s Chair**, far from noise and disturbance. I
 discovered that my house actually had its site in such a withdrawn, but
 forever new and unprofaned, part of the universe. If it were worth the
-while to settle in those parts near to the Pleiades or the Hyades, to
-Aldebaran or Altair, then I was really there, or at an equal remoteness
+while to settle in those parts near to the **Pleiades** or the **Hyades**, to
+**Aldebaran** or Altair, then I was really there, or at an equal remoteness
 from the life which I had left behind, dwindled and twinkling with as
 fine a ray to my nearest neighbor, and to be seen only in moonless
 nights by him. Such was that part of creation where I had squatted;—
@@ -389,13 +522,13 @@ simplicity, and I may say innocence, with Nature herself. I have been
 as sincere a worshipper of Aurora as the Greeks. I got up early and
 bathed in the pond; that was a religious exercise, and one of the best
 things which I did. They say that characters were engraven on the
-bathing tub of king Tching-thang to this effect: “Renew thyself
+bathing tub of king **Tching-thang** to this effect: “Renew thyself
 completely each day; do it again, and again, and forever again.” I can
 understand that. Morning brings back the heroic ages. I was as much
 affected by the faint hum of a mosquito making its invisible and
 unimaginable tour through my apartment at earliest dawn, when I was
 sitting with door and windows open, as I could be by any trumpet that
-ever sang of fame. It was Homer’s requiem; itself an Iliad and Odyssey
+ever sang of fame. It was Homer’s requiem; itself an **Iliad and Odyssey**
 in the air, singing its own wrath and wanderings. There was something
 cosmical about it; a standing advertisement, till forbidden, of the
 everlasting vigor and fertility of the world. The morning, which is the
@@ -415,7 +548,7 @@ is pursuing a descending and darkening way. After a partial cessation
 of his sensuous life, the soul of man, or its organs rather, are
 reinvigorated each day, and his Genius tries again what noble life it
 can make. All memorable events, I should say, transpire in morning time
-and in a morning atmosphere. The Vedas say, “All intelligences awake
+and in a morning atmosphere. The **Vedas** say, “All intelligences awake
 with the morning.” Poetry and art, and the fairest and most memorable
 of the actions of men, date from such an hour. All poets and heroes,
 like **Memnon**, are the children of Aurora, and emit their music at
@@ -532,8 +665,8 @@ for it, they tell what they have dreamed. After a night’s sleep the
 news is as indispensable as the breakfast. “Pray tell me any thing new
 that has happened to a man any where on this globe,”—and he reads it
 over his coffee and rolls, that a man has had his eyes gouged out this
-morning on the Wachito River; never dreaming the while that he lives in
-the dark unfathomed mammoth cave of this world, and has but the
+morning on the **Wachito River**; never dreaming the while that he lives in
+the dark unfathomed **mammoth cave** of this world, and has but the
 rudiment of an eye himself.
 
 For my part, I could easily do without the post-office. I think that
@@ -545,7 +678,7 @@ that penny for his thoughts which is so often safely offered in jest.
 And I am sure that I never read any memorable news in a newspaper. If
 we read of one man robbed, or murdered, or killed by accident, or one
 house burned, or one vessel wrecked, or one steamboat blown up, or one
-cow run over on the Western Railroad, or one mad dog killed, or one lot
+cow run over on the **Western Railroad**, or one mad dog killed, or one lot
 of grasshoppers in the winter,—we never need read of another. One is
 enough. If you are acquainted with the principle, what do you care for
 a myriad instances and applications? To a philosopher all _news_, as it
@@ -556,8 +689,8 @@ foreign news by the last arrival, that several large squares of plate
 glass belonging to the establishment were broken by the pressure,—news
 which I seriously think a ready wit might write a twelve-month, or
 twelve years, beforehand with sufficient accuracy. As for Spain, for
-instance, if you know how to throw in **Don Carlos** and the Infanta, and
-Don Pedro and Seville and Granada, from time to time in the right
+instance, if you know how to throw in **Don Carlos** and **the Infanta**, and
+Don Pedro and **Seville and Granada**, from time to time in the right
 proportions,—they may have changed the names a little since I saw the
 papers,—and serve up a bull-fight when other entertainments fail, it
 will be true to the letter, and give us as good an idea of the exact
@@ -572,7 +705,7 @@ revolution not excepted.
 
 What news! how much more important to know what that is which was never
 old! “Kieou-he-yu (great dignitary of the state of Wei) sent a man to
-Khoung-tseu to know his news. Khoung-tseu caused the messenger to be
+**Khoung-tseu** to know his news. Khoung-tseu caused the messenger to be
 seated near him, and questioned him in these terms: What is your master
 doing? The messenger answered with respect: My master desires to
 diminish the number of his faults, but he cannot come to the end of
@@ -587,8 +720,8 @@ Avast! Why so seeming fast, but deadly slow?”
 Shams and delusions are esteemed for soundest truths, while reality is
 fabulous. If men would steadily observe realities only, and not allow
 themselves to be deluded, life, to compare it with such things as we
-know, would be like a fairy tale and the Arabian Nights’
-Entertainments. If we respected only what is inevitable and has a right
+know, would be like a fairy tale and the **Arabian Nights’
+Entertainments**. If we respected only what is inevitable and has a right
 to be, music and poetry would resound along the streets. When we are
 unhurried and wise, we perceive that only great and worthy things have
 any permanent and absolute existence,—that petty fears and petty
@@ -639,7 +772,7 @@ knock under and go with the stream? Let us not be upset and overwhelmed
 in that terrible rapid and whirlpool called a dinner, situated in the
 meridian shallows. Weather this danger and you are safe, for the rest
 of the way is down hill. With unrelaxed nerves, with morning vigor,
-sail by it, looking another way, tied to the mast like Ulysses. If the
+sail by it, looking another way, **tied to the mast like Ulysses**. If the
 engine whistles, let it whistle till it is hoarse for its pains. If the
 bell rings, why should we run? We will consider what kind of music they
 are like. Let us settle ourselves, and work and wedge our feet downward

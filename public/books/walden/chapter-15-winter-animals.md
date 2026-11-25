@@ -36,6 +36,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Crossing Flint’s Pond after it froze over, Thoreau was struck by its unexpected breadth and strangeness, comparing it to the Arctic expanse of Baffin's Bay. This comparison might seem exaggerated, but it reveals Thoreau's ability to see the extraordinary in the ordinary. Baffin's Bay, located between Greenland and Canada, was a site of fascination for 19th-century explorers, symbolizing uncharted wilderness and icy isolation. Thoreau’s likening of a local pond to this remote bay underscores his belief that profound experiences of nature are not confined to distant lands—they can be found in one's backyard. By invoking Baffin's Bay, Thoreau transforms Flint’s Pond into a metaphor for discovery and the boundless imagination that nature inspires."
+  - id: "baffin-s-bay"
+    trigger: "Baffin’s Bay"
+    title: "Walden Pond Turned Into the Arctic"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Baffin_Bay"
+    image_url: ""
+    image_caption: ""
+    content: "Walking on Flint’s Pond after it was covered with snow, Thoreau found it so unexpectedly wide and strange that he could think of nothing but Baffin’s Bay. Baffin Bay, between Greenland and Canada’s Baffin Island, is a frozen arm of the Arctic Ocean, named for the English explorer William Baffin, who sailed there in 1616 in search of the Northwest Passage. Victorian readers knew it from the polar voyages of Parry and Franklin. Thoreau’s comparison shows how snow and ice can change a familiar landscape into a foreign place."
+  - id: "esquimaux"
+    trigger: "Esquimaux"
+    title: "The Fishermen Who Looked Like Arctic Hunters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Inuit"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the fishermen on the ice, moving slowly about with their wolfish dogs, passed for sealers or Esquimaux, or in misty weather loomed like fabulous creatures. Esquimaux is an old name, now regarded as outdated, for the Inuit and Yupik of the Arctic, who hunt seals on the sea ice and travel with dog teams. Thoreau, who had read the accounts of Arctic explorers, takes the figures on the pond as hunters of the far north. His fancy gives the winter pond a sense of vastness and remoteness."
   - id: "hooting-owl-winter-soundscape"
     trigger: "hooting owl"
     title: "The Owl's Song: Winter's Lonely Music"
@@ -43,6 +57,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes the hooting owl as the 'lingua vernacula' of Walden Woods, a sound that became familiar to him during winter nights. The owl's haunting call, often associated with solitude and mystery, has captivated humans for centuries. In many cultures, owls symbolize wisdom or omens, their nocturnal habits adding to their mystique. The Great Horned Owl, likely the species Thoreau heard, is known for its deep, resonant hoots. By focusing on this sound, Thoreau draws attention to the rich auditory landscape of winter, a season often dismissed as silent or barren. The owl's call becomes a voice of the wilderness, reminding readers of the vitality and presence of life even in the coldest months."
+  - id: "hudson-s-bay"
+    trigger: "Hudson’s Bay"
+    title: "The Goose From the Far North"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hudson_Bay"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes an owl that responded to the goose, as if determined to expose and disgrace this intruder from Hudson’s Bay by exhibiting a greater compass and volume of voice in a native. Hudson Bay, the huge inland sea of northern Canada, is the nesting ground of many geese and ducks that fly south through New England in autumn. The Hudson’s Bay Company traded furs there for two centuries. Thoreau’s comic account of a contest in the dark between a wild goose and a hooting owl is a picture of the pond at night."
   - id: "red-squirrel-winter-visitors"
     trigger: "red squirrel"
     title: "The Red Squirrel's Theatrical Winter Routine"
@@ -50,6 +71,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau’s encounters with the red squirrel reveal its quirky and energetic behavior. He describes its zig-zag movements, somersaults, and pauses as if performing for an audience. The American red squirrel, known for its territorial nature, is a common sight in New England forests. These squirrels are highly adaptable, storing food for winter and thriving in cold climates. Thoreau’s detailed observations highlight his deep engagement with the natural world, seeing the squirrel not just as an animal but as a character with personality and purpose. This playful depiction aligns with his broader theme of finding joy and meaning in the smallest details of life."
+  - id: "sciurus-hudsonius"
+    trigger: "Sciurus Hudsonius"
+    title: "The Red Squirrel That Woke Him at Dawn"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_red_squirrel"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the red squirrel, Sciurus Hudsonius, waked him at dawn, coursing over the roof and up and down the sides of the house. The American red squirrel, now called Tamiasciurus hudsonicus, is a small, noisy tree squirrel of northern forests that eats pine seeds and buries them in stores, and it is known for its chattering alarm calls. Thoreau gives the Latin name as a naturalist would, but his tone is warm, and the squirrel appears as a neighbour who makes his winter more lively."
+  - id: "jack-robinson"
+    trigger: "Jack Robinson"
+    title: "A Squirrel Quicker Than a Proverb"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jack_Robinson_(idiom)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes a squirrel that wastes more time in delay and circumspection than would have sufficed to walk the whole distance, and then suddenly, before you could say Jack Robinson, is in the top of a young pitch-pine. The phrase before you can say Jack Robinson means very quickly, and has been used in English since the eighteenth century, though its origin is unknown. Thoreau’s comic account of the squirrel’s fussy habits, his clocklike winding up and his chiding of imaginary spectators, shows his skill at animal portraits."
   - id: "discordant-screams-jays"
     trigger: "discordant screams"
     title: "Why Jays Scream: Nature's Noisy Opportunists"
@@ -57,13 +92,6 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes the jays’ discordant screams as they approach his woodpile, scavenging kernels dropped by squirrels. Jays, part of the corvid family, are known for their loud calls and clever behavior. Their screams serve as both communication and warning signals, marking their presence and territory. These birds are opportunistic feeders, often stealing food from other animals, as Thoreau observed. By portraying the jays as 'manifestly thieves,' Thoreau adds a moral dimension to their actions, contrasting their behavior with the industrious squirrels. This interplay of animal dynamics reflects the complexity of survival in nature, a theme Thoreau explores throughout 'Walden.'"
-  - id: "lepus-americanus-thoreaus-hare"
-    trigger: "Lepus Americanus"
-    title: "The Hare Beneath Thoreau's Floorboards"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Snowshoe_hare"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau recounts the presence of Lepus Americanus, or the snowshoe hare, living under his house during winter. This hare, adapted to snowy environments with its large feet and seasonal camouflage, is a symbol of resilience. Thoreau’s description of its lean, trembling form evokes both pity and admiration, capturing the delicate balance of survival. Snowshoe hares are vital to their ecosystems, serving as prey for predators like lynxes and foxes. Thoreau’s close observation of the hare’s movements and habits reflects his philosophy of living in harmony with nature, appreciating its beauty and struggles. The hare becomes a living metaphor for endurance and the quiet dignity of life."
   - id: "partridge-bursts-away"
     trigger: "partridge bursts away"
     title: "The Partridge: Winter's Brave Survivor"
@@ -71,13 +99,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau marvels at the partridge, which bursts away on whirring wings, scattering snow like golden dust. This bird, likely the ruffed grouse, is known for its ability to thrive in harsh winters, even burrowing into snow for warmth. Partridges have long been symbols of resilience, their presence in folklore and literature emphasizing their connection to the land. Thoreau’s admiration for the partridge reflects his broader appreciation for nature’s ability to endure and adapt. By observing its habits, he underscores the interconnectedness of all life and the quiet heroism of creatures that survive against the odds."
-  - id: "twiggy-fences-hare-snares"
-    trigger: "twiggy fences"
-    title: "The Hidden Snares of Winter Woods"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Snare_(trap)"
+  - id: "sam-nutting"
+    trigger: "Sam Nutting"
+    title: "The Bear Hunter Who Bartered Skins for Rum"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bear_hunting"
     image_url: ""
     image_caption: ""
-    content: "Thoreau mentions twiggy fences and horse-hair snares set by cowboys to catch rabbits and partridges. These primitive traps, often made from natural materials, reflect the ingenuity and resourcefulness of rural hunters. Snares have been used for centuries, requiring minimal tools but great skill to place effectively. Thoreau’s observation of these traps highlights the tension between human survival and the freedom of wildlife. While he acknowledges their necessity, his tone suggests a quiet disapproval of disrupting nature’s balance. This moment invites readers to consider the ethical implications of hunting and humanity’s impact on the natural world."
+    content: "A hunter who visited Thoreau remembered one Sam Nutting, who used to hunt bears on Fair Haven Ledges and exchange their skins for rum in Concord village. Bears had once been common in Massachusetts, hunted for meat, fat and fur, but by the early 1800s they were rare, and the last were killed before Thoreau’s time. Thoreau collects such local lore from old men, and the picture of Nutting, who claimed also to have seen a moose, shows how much wildlife had vanished in a few generations."
   - id: "fair-haven-ledges-bear-hunting"
     trigger: "Fair Haven Ledges"
     title: "Bear Hunts and Rum Deals: Fair Haven's Past"
@@ -85,6 +113,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recalls Sam Nutting, a hunter who pursued bears on Fair Haven Ledges and traded their skins for rum in Concord village. This anecdote paints a vivid picture of frontier life, where hunting was both a livelihood and a social activity. Bear hunting, a dangerous endeavor, required skill and courage, and the exchange of skins for rum reflects the barter economy of the time. Thoreau’s mention of Nutting ties the wildness of the woods to the human stories that unfold within them. It serves as a reminder of the deep historical connection between people and the land, a theme central to 'Walden.'"
+  - id: "burgoyne"
+    trigger: "Burgoyne"
+    title: "The Fox-Hound Named for a Defeated General"
+    wikipedia_url: "https://en.wikipedia.org/wiki/John_Burgoyne"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says Nutting had a famous fox-hound named Burgoyne, which he pronounced Bugine. General John Burgoyne led a British army from Canada in 1777 and was forced to surrender at Saratoga, a turning point in the American Revolution, and he was also a playwright. In New England the name of a beaten general was a popular joke for a dog. Thoreau enjoys the local pronunciation, and he likes the way history and farm life mix in a hound’s name."
+  - id: "wast-book"
+    trigger: "Wast Book"
+    title: "The Old Trader’s Rough Ledger"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Waste_book"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau finds an entry in the Wast Book of an old trader of this town, who was also a captain, town-clerk and representative. A waste book was a merchant’s rough daybook, in which transactions were noted as they happened, before they were copied into the ledger. It gives a raw record of daily life. Thoreau searched such account books for details of local wildlife and found a record of a grey fox, dated January 1743, bought for a few shillings, evidence that foxes were once more common in Concord."
+  - id: "grey-fox"
+    trigger: "Grey Fox"
+    title: "The Animal Recorded in an Old Account Book"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gray_fox"
+    image_url: ""
+    image_caption: ""
+    content: "In the old trader’s ledger Thoreau finds the entry, John Melven Cr. by 1 Grey Fox, dated January 1743, and he notes that they are not now found here. The gray fox, a tree-climbing fox of North America, was once common in New England, but it declined as forests were cleared and the red fox took over. The entry is a rare piece of documentary evidence about the changing animal life of Concord. Thoreau’s use of such records shows his skill as a local historian."
   - id: "wild-cat-french-war"
     trigger: "wild-cat"
     title: "The Wild-Cat and the French War Sergeant"
@@ -92,6 +141,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau references a ledger entry crediting a sergeant in the French War for a wild-cat skin. Wildcats, elusive and fierce predators, were prized for their pelts, which were used in clothing and trade. The mention of the French War connects this hunting detail to a broader historical context, highlighting the intersection of military service and rural life. Thoreau’s inclusion of this anecdote underscores the continuity of human interaction with nature, from survival to commerce. It also reflects his fascination with the stories embedded in everyday objects, revealing the layers of history within his surroundings."
+  - id: "nimrod"
+    trigger: "Nimrod"
+    title: "The Gaunt Hunter Who Played a Leaf"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nimrod"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau remembers one gaunt Nimrod who would catch up a leaf by the roadside and play a strain on it wilder and more melodious than any hunting horn. Nimrod, in the Book of Genesis, is a mighty hunter before the Lord, and the name became a byword for a great hunter. Thoreau’s Nimrod is a local man who plays music with a leaf, which shows the poetry in rural life. The hunters of the village are recalled with warmth, since Thoreau thinks that the old hunters were a numerous and merry crew."
+  - id: "lepus-americanus-thoreaus-hare"
+    trigger: "Lepus Americanus"
+    title: "The Hare Beneath Thoreau's Floorboards"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Snowshoe_hare"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts the presence of Lepus Americanus, or the snowshoe hare, living under his house during winter. This hare, adapted to snowy environments with its large feet and seasonal camouflage, is a symbol of resilience. Thoreau’s description of its lean, trembling form evokes both pity and admiration, capturing the delicate balance of survival. Snowshoe hares are vital to their ecosystems, serving as prey for predators like lynxes and foxes. Thoreau’s close observation of the hare’s movements and habits reflects his philosophy of living in harmony with nature, appreciating its beauty and struggles. The hare becomes a living metaphor for endurance and the quiet dignity of life."
   - id: "dropsical-hare-description"
     trigger: "dropsical"
     title: "Why Thoreau's Hare Looked Dropsical"
@@ -99,17 +162,24 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes a hare near his home as 'dropsical,' its large eyes appearing young and unhealthy. Dropsy, now known as edema, refers to swelling caused by fluid retention, often linked to poor health or malnutrition. While Thoreau’s use of the term may be metaphorical, it conveys the hare’s fragile state during winter. This poignant observation highlights the harsh realities of survival for wildlife, contrasting their vulnerability with their moments of vitality. Thoreau’s empathy for the hare reflects his broader theme of interconnectedness, urging readers to see the struggles of animals as part of the larger tapestry of life."
+  - id: "twiggy-fences-hare-snares"
+    trigger: "twiggy fences"
+    title: "The Hidden Snares of Winter Woods"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Trapping"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions twiggy fences and horse-hair snares set by cowboys to catch rabbits and partridges. These primitive traps, often made from natural materials, reflect the ingenuity and resourcefulness of rural hunters. Snares have been used for centuries, requiring minimal tools but great skill to place effectively. Thoreau’s observation of these traps highlights the tension between human survival and the freedom of wildlife. While he acknowledges their necessity, his tone suggests a quiet disapproval of disrupting nature’s balance. This moment invites readers to consider the ethical implications of hunting and humanity’s impact on the natural world."
 ---
 When the ponds were firmly frozen, they afforded not only new and
 shorter routes to many points, but new views from their surfaces of the
 familiar landscape around them. When I crossed **Flint’s Pond**, after it
 was covered with snow, though I had often paddled about and skated over
 it, it was so unexpectedly wide and so strange that I could think of
-nothing but Baffin’s Bay. The Lincoln hills rose up around me at the
+nothing but **Baffin’s Bay**. The Lincoln hills rose up around me at the
 extremity of a snowy plain, in which I did not remember to have stood
 before; and the fishermen, at an indeterminable distance over the ice,
 moving slowly about with their wolfish dogs, passed for sealers or
-Esquimaux, or in misty weather loomed like fabulous creatures, and I
+**Esquimaux**, or in misty weather loomed like fabulous creatures, and I
 did not know whether they were giants or pygmies. I took this course
 when I went to lecture in Lincoln in the evening, travelling in no road
 and passing no house between my own hut and the lecture room. In Goose
@@ -141,7 +211,7 @@ commodore honking all the while with a regular beat. Suddenly an
 unmistakable cat-owl from very near me, with the most harsh and
 tremendous voice I ever heard from any inhabitant of the woods,
 responded at regular intervals to the goose, as if determined to expose
-and disgrace this intruder from Hudson’s Bay by exhibiting a greater
+and disgrace this intruder from **Hudson’s Bay** by exhibiting a greater
 compass and volume of voice in a native, and _boo-hoo_ him out of
 Concord horizon. What do you mean by alarming the citadel at this time
 of night consecrated to me? Do you think I am ever caught napping at
@@ -169,7 +239,7 @@ standing on their defence, awaiting their transformation. Sometimes one
 came near to my window, attracted by my light, barked a vulpine curse
 at me, and then retreated.
 
-Usually the **red squirrel** (_Sciurus Hudsonius_) waked me in the dawn,
+Usually the **red squirrel** (_**Sciurus Hudsonius**_) waked me in the dawn,
 coursing over the roof and up and down the sides of the house, as if
 sent out of the woods for this purpose. In the course of the winter I
 threw out half a bushel of ears of sweet-corn, which had not got ripe,
@@ -188,8 +258,8 @@ the universe were fixed on him,—for all the motions of a squirrel, even
 in the most solitary recesses of the forest, imply spectators as much
 as those of a dancing girl,—wasting more time in delay and
 circumspection than would have sufficed to walk the whole distance,—I
-never saw one walk,—and then suddenly, before you could say Jack
-Robinson, he would be in the top of a young **pitch-pine**, winding up his
+never saw one walk,—and then suddenly, before you could say **Jack
+Robinson**, he would be in the top of a young **pitch-pine**, winding up his
 clock and chiding all imaginary spectators, soliloquizing and talking
 to all the universe at the same time,—for no reason that I could ever
 detect, or he himself was aware of, I suspect. At length he would reach
@@ -334,14 +404,14 @@ day learned that they had crossed the river and put up at a farm-house
 for the night, whence, having been well fed, they took their departure
 early in the morning.
 
-The hunter who told me this could remember one Sam Nutting, who used to
+The hunter who told me this could remember one **Sam Nutting**, who used to
 hunt bears on **Fair Haven Ledges**, and exchange their skins for rum in
 Concord village; who told him, even, that he had seen a moose there.
-Nutting had a famous fox-hound named Burgoyne,—he pronounced it
-Bugine,—which my informant used to borrow. In the “Wast Book” of an old
+Nutting had a famous fox-hound named **Burgoyne**,—he pronounced it
+Bugine,—which my informant used to borrow. In the “**Wast Book**” of an old
 trader of this town, who was also a captain, town-clerk, and
 representative, I find the following entry. Jan. 18th, 1742–3, “John
-Melven Cr. by 1 Grey Fox 0—2—3;” they are not now found here; and in
+Melven Cr. by 1 **Grey Fox** 0—2—3;” they are not now found here; and in
 his ledger, Feb. 7th, 1743, Hezekiah Stratton has credit “by ½ a Catt
 skin 0—1—4½;” of course, a **wild-cat**, for Stratton was a sergeant in the
 old French war, and would not have got credit for hunting less noble
@@ -349,7 +419,7 @@ game. Credit is given for deer skins also, and they were daily sold.
 One man still preserves the horns of the last deer that was killed in
 this vicinity, and another has told me the particulars of the hunt in
 which his uncle was engaged. The hunters were formerly a numerous and
-merry crew here. I remember well one gaunt Nimrod who would catch up a
+merry crew here. I remember well one gaunt **Nimrod** who would catch up a
 leaf by the road-side and play a strain on it wilder and more
 melodious, if my memory serves me, than any hunting-horn.
 

@@ -43,6 +43,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau advises the Poet to dig for bait among the \"johnswort waving,\" referring to St. John's Wort, a plant known for its bright yellow flowers and medicinal properties. Historically, this plant was used in folk medicine to treat wounds, depression, and other ailments, and its name is derived from its traditional blooming period around St. John the Baptist's feast day. In Thoreau's time, it was a common sight in New England fields and meadows, often associated with rural landscapes. By mentioning johnswort, Thoreau subtly ties the act of fishing to the broader theme of nature as a source of sustenance and healing. The Poet's task of digging bait becomes a metaphor for uncovering life's hidden treasures, aligning with Thoreau's philosophy of finding profound meaning in the ordinary."
+  - id: "con-fut-see"
+    trigger: "Con-fut-see"
+    title: "Thoreau’s Spelling of Confucius"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Confucius"
+    image_url: ""
+    image_caption: ""
+    content: "Trying to recover a lost train of thought on a hazy day, Thoreau says he will just try these three sentences of Con-fut-see, and they may fetch that state about again. Con-fut-see is his phonetic spelling of Confucius, which he took from the translations and notes of his time, and the three sentences are from the Analects. He knew Confucius well, and he quotes him throughout the book. The remark is gently funny, since the sage of China is being used as a spell to recapture a mood in a small cabin by a pond."
+  - id: "pilpay"
+    trigger: "Pilpay"
+    title: "The Fable-Teller Behind the Animal Neighbours"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Bidpai"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau suspects that Pilpay and Company have put animals to their best use, for they are all beasts of burden, in a sense, made to carry some portion of our thoughts. Pilpay, also called Bidpai, was the legendary Indian author of the animal fables of the Panchatantra, known in Europe as Pilpay’s fables since the seventeenth century, in which animals speak and teach lessons. Thoreau’s joke is that animals are useful as symbols, and that his mouse and woodchuck serve him as such."
   - id: "distinguished-naturalist"
     trigger: "distinguished naturalist"
     title: "Who Was Thoreau's Mysterious Scientific Correspondent?"
@@ -71,6 +85,55 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau's description of the \"red republicans\" battling the \"black imperialists\" among the ants is a striking metaphor for human political struggles. The term \"red republicans\" likely alludes to the radical republican movements in Europe during the mid-19th century, particularly those advocating for democracy and social reform. By likening the ants' fierce combat to human wars, Thoreau underscores the universality of conflict and the primal drive for survival and dominance. This vivid imagery transforms a mundane observation into a profound commentary on the nature of power and resistance, inviting readers to reflect on the parallels between the natural world and human society."
+  - id: "austerlitz"
+    trigger: "Austerlitz"
+    title: "Napoleon’s Great Battle Compared to Ants"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Austerlitz"
+    image_url: ""
+    image_caption: ""
+    content: "Describing a battle between red and black ants, Thoreau says that for numbers and for carnage it was an Austerlitz or Dresden. The Battle of Austerlitz, fought in December 1805 in what is now the Czech Republic, was Napoleon’s greatest victory, in which about 70,000 French beat a larger Russian and Austrian army. Thoreau compares the little war on a wood chip to the great ones of history, and his mock-heroic tone enlarges the ants and shrinks the human battle."
+  - id: "dresden"
+    trigger: "Dresden"
+    title: "The Second Napoleonic Battle in the Joke"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Dresden"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s comparison of the ants’ battle to an Austerlitz or Dresden refers to the Battle of Dresden of August 1813, in which Napoleon defeated the Allied armies of Russia, Prussia and Austria with a large loss of life, in the war that decided the fate of Germany. It was his last great victory on German soil. By naming two famous battles, Thoreau gets the reader ready for the long, absurd, heroic account that follows of the red and black ants on his woodpile."
+  - id: "concord-fight"
+    trigger: "Concord Fight"
+    title: "How the Town Remembers Its Battle"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau cries Concord Fight! in the middle of his ant story. The Battles of Lexington and Concord, on 19 April 1775, were the first armed clashes of the American Revolution, when British troops marched from Boston to seize military stores and were met by militiamen at the North Bridge, where the shot heard round the world was fired, as Emerson wrote in his hymn of 1837. Thoreau’s neighbours lived among its monuments and stories. By comparing ants to patriots he treats the town’s legend with affectionate wit."
+  - id: "luther-blanchard"
+    trigger: "Luther Blanchard"
+    title: "The Wounded Fifer of Concord Fight"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau jokes about the ants’ war: Concord Fight! Two killed on the patriots’ side, and Luther Blanchard wounded! Luther Blanchard was a fifer in Captain Isaac Davis’s company from Acton who was wounded at the North Bridge on 19 April 1775, in the first battle of the American Revolution. The ants’ fight, Thoreau says, was a greater one. He uses the familiar story of the town’s own battle to set a scale for the little combat on his woodchip."
+  - id: "buttrick"
+    trigger: "Buttrick"
+    title: "The Major Who Cried Fire at the North Bridge"
+    wikipedia_url: "https://en.wikipedia.org/wiki/John_Buttrick"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that in the ants’ battle every ant was a Buttrick, Fire! for God’s sake fire! John Buttrick was the major of the Concord militia who led the colonists across the North Bridge in 1775, and he is said to have given the order to fire on the British when they fired first. His cry, Fire, fellow soldiers, for God’s sake, fire, became part of Concord’s tradition. By turning ants into patriots, Thoreau honours both his town’s history and the little heroes of the woodpile."
+  - id: "davis-and-hosmer"
+    trigger: "Davis and Hosmer"
+    title: "The First Colonists Killed at the North Bridge"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Isaac_Davis_(soldier)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that thousands of ants shared the fate of Davis and Hosmer. Captain Isaac Davis of Acton and Abner Hosmer, a private in his company, were the two colonists killed at the North Bridge in Concord on 19 April 1775, and they were among the first Americans to die in the Revolutionary War. Their graves are in Acton. Thoreau’s Concord readers knew their names well. He uses them to give the dead ants a share of the honour, and the whole passage mocks and honours both at once."
+  - id: "bunker-hill"
+    trigger: "Bunker Hill"
+    title: "The Battle Compared to the Ants’ Fight"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the results of the ants’ battle will be as important and memorable to those whom it concerns as those of the battle of Bunker Hill, at least. The Battle of Bunker Hill, fought on 17 June 1775 at Charlestown, near Boston, was a bloody victory for the British that showed the Americans could fight, and the monument to it, finished in 1843, was one of the best-known sights of Massachusetts. Thoreau’s mock-heroic touch gives the ants’ combat a dignity, and he also asks what makes a battle important."
   - id: "hotel-des-invalides"
     trigger: "Hotel des Invalides"
     title: "The French Military Hospital That Inspired Thoreau"
@@ -78,6 +141,48 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau humorously speculates whether the injured black ant might retire to a \"Hotel des Invalides,\" referencing the famous French military hospital established by Louis XIV. Located in Paris, the Hôtel des Invalides housed wounded and retired soldiers, symbolizing both the glory and cost of war. By invoking this image, Thoreau draws a parallel between the ants' battle and human conflicts, highlighting the absurdity and tragedy of war at any scale. This comparison enriches the narrative, turning a microscopic struggle into a reflection on the broader human condition and the sacrifices inherent in the pursuit of victory."
+  - id: "huber"
+    trigger: "Huber"
+    title: "The Blind Naturalist Who Watched Ants"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Huber"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau repeats that Kirby and Spence say Huber is the only modern author who appears to have witnessed the battles of ants. François Huber, a Swiss naturalist who went blind as a young man, studied bees and ants with the help of his wife and his servant, and published Recherches sur les moeurs des fourmis indigènes in 1810. He was a pioneer of animal behaviour studies. Thoreau, who saw the battle himself, is glad to be a second witness, and his reference ties his observation to the new science of entomology."
+  - id: "sylvius"
+    trigger: "Sylvius"
+    title: "The Pope Who Reported an Ants’ Battle"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pope_Pius_II"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes Kirby and Spence on Aeneas Sylvius, who gave a very circumstantial account of an ant battle on the trunk of a pear tree. Aeneas Sylvius was Enea Silvio Piccolomini, an Italian humanist and diplomat who became Pope Pius II in 1458, and who wrote histories, letters and a famous memoir. By collecting such stories of ant wars from old authors, Thoreau gives his own account a scholarly and humorous background, and shows how long humans have been watching insects."
+  - id: "eugenius-the-fourth"
+    trigger: "Eugenius the Fourth"
+    title: "The Pope in Whose Time Ants Fought"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pope_Eugene_IV"
+    image_url: ""
+    image_caption: ""
+    content: "The old report of an ant battle, in Thoreau’s quotation, was fought in the pontificate of Eugenius the Fourth, in the presence of Nicholas Pistoriensis. Eugenius IV was pope from 1431 to 1447, during the Council of Basel and the Council of Florence, which tried to reunite the Eastern and Western churches. Dating a battle of ants by a pope’s reign is comic, and it is a sign of how seriously the old chroniclers took the matter. Thoreau relishes the solemnity."
+  - id: "olaus-magnus"
+    trigger: "Olaus Magnus"
+    title: "The Swedish Archbishop and the Ants Who Buried Their Dead"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Olaus_Magnus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes a similar engagement between great and small ants recorded by Olaus Magnus, in which the small ones, being victorious, are said to have buried the bodies of their own soldiers, but left those of their giant enemies a prey to the birds. Olaus Magnus, the last Catholic Archbishop of Uppsala, published a great illustrated History of the Northern Peoples in 1555, full of marvels about Scandinavian life. Thoreau’s old authors give his ant battle an air of ancient story."
+  - id: "christiern-the-second"
+    trigger: "Christiern the Second"
+    title: "The Tyrant Expelled From Sweden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
+    image_url: ""
+    image_caption: ""
+    content: "The ant battle recorded by Olaus Magnus, Thoreau says, happened previous to the expulsion of the tyrant Christiern the Second from Sweden. Christian II of Denmark and Norway conquered Sweden in 1520 and ordered the Stockholm Bloodbath, in which dozens of nobles were beheaded, and he was driven out by Gustav Vasa in 1523. The date is a way to place the story in time. Thoreau enjoys the learned detail, and it adds to the mock-historical colour of the chapter."
+  - id: "presidency-of-polk"
+    trigger: "Presidency of Polk"
+    title: "The Date of Thoreau’s Own Ant War"
+    wikipedia_url: "https://en.wikipedia.org/wiki/James_K._Polk"
+    image_url: ""
+    image_caption: ""
+    content: "The battle that Thoreau witnessed took place, he says, in the Presidency of Polk, five years before the passage of Webster’s Fugitive-Slave Bill. James K. Polk was the eleventh President of the United States, from 1845 to 1849, whose term included the Mexican–American War, which Thoreau opposed. The Fugitive Slave Act passed in 1850. By dating his ant war between the two events, Thoreau makes a political point: while ants fight honestly for a principle, men fight for conquest, and a government makes slavery a national law."
   - id: "websters-fugitive-slave-bill"
     trigger: "Webster’s Fugitive-Slave Bill"
     title: "How a Controversial Law Shaped Thoreau's Era"
@@ -184,7 +289,7 @@ thoughts will not come back to me. If it would do any good, I would
 whistle for them. When they make us an offer, is it wise to say, We
 will think of it? My thoughts have left no track, and I cannot find the
 path again. What was it that I was thinking of? It was a very hazy day.
-I will just try these three sentences of Con-fut-see; they may fetch
+I will just try these three sentences of **Con-fut-see**; they may fetch
 that state about again. I know not whether it was the dumps or a
 budding ecstasy. Mem. There never is but one opportunity of a kind.
 
@@ -201,7 +306,7 @@ good sport there if the water be not too high.
 
 Why do precisely these objects which we behold make a world? Why has
 man just these species of animals for his neighbors; as if nothing but
-a mouse could have filled this crevice? I suspect that Pilpay & Co.
+a mouse could have filled this crevice? I suspect that **Pilpay** & Co.
 have put animals to their best use, for they are all beasts of burden,
 in a sense, made to carry some portion of our thoughts.
 
@@ -340,15 +445,15 @@ The more you think of it, the less the difference. And certainly there
 is not the fight recorded in Concord history, at least, if in the
 history of America, that will bear a moment’s comparison with this,
 whether for the numbers engaged in it, or for the patriotism and
-heroism displayed. For numbers and for carnage it was an Austerlitz or
-Dresden. **Concord Fight**! Two killed on the patriots’ side, and Luther
-Blanchard wounded! Why here every ant was a Buttrick,—“Fire! for God’s
-sake fire!”—and thousands shared the fate of Davis and Hosmer. There
+heroism displayed. For numbers and for carnage it was an **Austerlitz** or
+**Dresden**. **Concord Fight**! Two killed on the patriots’ side, and **Luther
+Blanchard** wounded! Why here every ant was a **Buttrick**,—“Fire! for God’s
+sake fire!”—and thousands shared the fate of **Davis and Hosmer**. There
 was not one hireling there. I have no doubt that it was a principle
 they fought for, as much as our ancestors, and not to avoid a
 three-penny tax on their tea; and the results of this battle will be as
 important and memorable to those whom it concerns as those of the
-battle of Bunker Hill, at least.
+battle of **Bunker Hill**, at least.
 
 I took up the chip on which the three I have particularly described
 were struggling, carried it into my house, and placed it under a
@@ -376,20 +481,20 @@ had had my feelings excited and harrowed by witnessing the struggle,
 the ferocity and carnage, of a human battle before my door.
 
 Kirby and Spence tell us that the battles of ants have long been
-celebrated and the date of them recorded, though they say that Huber is
+celebrated and the date of them recorded, though they say that **Huber** is
 the only modern author who appears to have witnessed them. “Æneas
-Sylvius,” say they, “after giving a very circumstantial account of one
+**Sylvius**,” say they, “after giving a very circumstantial account of one
 contested with great obstinacy by a great and small species on the
 trunk of a pear tree,” adds that “‘This action was fought in the
-pontificate of Eugenius the Fourth, in the presence of Nicholas
+pontificate of **Eugenius the Fourth**, in the presence of Nicholas
 Pistoriensis, an eminent lawyer, who related the whole history of the
 battle with the greatest fidelity.’ A similar engagement between great
-and small ants is recorded by Olaus Magnus, in which the small ones,
+and small ants is recorded by **Olaus Magnus**, in which the small ones,
 being victorious, are said to have buried the bodies of their own
 soldiers, but left those of their giant enemies a prey to the birds.
-This event happened previous to the expulsion of the tyrant Christiern
-the Second from Sweden.” The battle which I witnessed took place in the
-Presidency of Polk, five years before the passage of **Webster’s
+This event happened previous to the expulsion of the tyrant **Christiern
+the Second** from Sweden.” The battle which I witnessed took place in the
+**Presidency of Polk**, five years before the passage of **Webster’s
 Fugitive-Slave Bill**.
 
 Many a village Bose, fit only to course a mud-turtle in a victualling

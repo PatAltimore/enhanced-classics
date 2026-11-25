@@ -36,6 +36,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As Thoreau walks home through the woods, he catches sight of a woodchuck crossing his path and feels an unexpected surge of primal desire to seize and eat it raw. This moment is not about hunger but about the wildness the woodchuck represents. The woodchuck, or groundhog, is a common North American rodent, often associated with rural landscapes and survivalist lore. In folklore, it symbolizes both industriousness and a connection to the untamed. Thoreau’s reaction taps into a deeper philosophical tension: the pull between civilization and primal instincts. By acknowledging this impulse, Thoreau confronts the duality within himself—his reverence for both the wild and the spiritual. This fleeting encounter encapsulates the chapter’s theme of reconciling humanity’s animalistic and higher nature."
+  - id: "missouri-and-columbia"
+    trigger: "Missouri and Columbia"
+    title: "The Western Rivers of the Trapper"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Missouri_River"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the traveller on the prairie is naturally a hunter, on the head waters of the Missouri and Columbia a trapper, and at the Falls of St. Mary a fisherman. The Missouri, the longest river in North America, and the Columbia, in the Northwest, were the great highways of the fur trade in the early nineteenth century, after Lewis and Clark’s expedition of 1804 to 1806. Mountain men trapped beaver there for the markets of the East. Thoreau’s list shows that a person takes on the way of life of the place he is in."
+  - id: "a-trapper"
+    trigger: "a trapper"
+    title: "The Beaver Hunters of the Far West"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fur_trade"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau calls the traveller on the head waters of the Missouri and Columbia a trapper. The North American fur trade, driven by European demand for beaver hats, sent hunters across the continent for three centuries, and in the 1820s and 1830s the mountain men trapped in the Rockies and sold pelts at yearly rendezvous. By Thoreau’s day beaver were scarce and silk hats were replacing fur. His point is that a hunter’s life is natural to a young man in a wild place, but should be outgrown, as a stage of growth."
+  - id: "falls-of-st-mary"
+    trigger: "Falls of St. Mary"
+    title: "The Great Rapids Where Fishermen Gather"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sault_Ste._Marie,_Michigan"
+    image_url: ""
+    image_caption: ""
+    content: "The traveller at the Falls of St. Mary, Thoreau says, is a fisherman. The Falls of St. Mary, or the rapids of the St. Marys River at Sault Ste. Marie, between Lake Superior and Lake Huron, were long a gathering place for Ojibwe fishing for whitefish, and in the nineteenth century they drew sportsmen and tourists. Thoreau had not been there, but he knew of them from reading, and he uses the place to show that every wild place makes hunters and fishermen of those who pass."
   - id: "humane-society"
     trigger: "Humane Society"
     title: "The Surprising Role of Hunters in Animal Welfare"
@@ -50,6 +71,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau invokes Chaucer’s nun from \"The Canterbury Tales,\" who dismisses the idea that hunters cannot be holy men. This reference connects Thoreau’s musings on hunting to medieval literature, where hunting was often seen as both a noble pursuit and a spiritual metaphor. Chaucer’s nun, despite her religious vocation, appreciates the virtues of hunters, suggesting that physical pursuits can coexist with moral and spiritual integrity. Thoreau extends this idea, arguing that hunting can be an educational gateway to deeper understanding of nature and humanity. By framing hunters as \"fishers of men,\" he ties the act of hunting to a broader spiritual quest, blending the physical and metaphysical in his vision of personal growth."
+  - id: "chaucer-s-nun"
+    trigger: "Chaucer’s nun"
+    title: "The Canterbury Pilgrim Who Said Hunters Are Not Holy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Canterbury_Tales"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he is of the opinion of Chaucer’s nun, who gave not of the text a pulled hen, that saith that hunters ben not holy men. In the General Prologue of The Canterbury Tales it is actually the Monk, a hunting man, who does not care for the text that says that hunters are not holy, so Thoreau’s memory has slipped. The lines are a joke at the expense of a worldly churchman. Thoreau’s point is that he agrees with the old text and thinks hunting is unfit for the holy."
+  - id: "algonquins"
+    trigger: "Algonquins"
+    title: "The Native Name for the Best Men"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Algonquian_peoples"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says there is a period in the history of the individual, as of the race, when the hunters are the best men, as the Algonquins called them. The Algonquian-speaking peoples, who lived across the northeastern woodlands and the Great Lakes from the Atlantic to the Rockies, depended on hunting, fishing and farming, and a skilled hunter was highly respected. Thoreau accepts that hunting is a stage of growth, since a boy who never fires a gun is less human, but he hopes that it will be left behind."
+  - id: "hunting-parson"
+    trigger: "hunting parson"
+    title: "The Clergyman Who Rode to Hounds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fox_hunting"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that in some countries a hunting parson is no uncommon sight. Sporting parsons, clergymen of the Church of England who devoted themselves to fox-hunting, shooting and horse-racing, were a well-known type in the eighteenth and nineteenth centuries, as in Trollope’s novels. Thoreau, a New Englander raised among Unitarians and Puritans, found the idea shocking. Along with the earlier mention of Chaucer, he uses the figure to argue that hunting is a stage which a good person leaves behind."
+  - id: "good-shepherd"
+    trigger: "Good Shepherd"
+    title: "The Parson With a Gun and the Good Shepherd"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Good_Shepherd"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says a hunting parson might make a good shepherd’s dog, but is far from being the Good Shepherd. The Good Shepherd is a title of Christ, from the Gospel of John, in which Jesus says that the good shepherd lays down his life for the sheep, and early Christians drew him carrying a lamb. Thoreau’s joke is aimed at clergy who spent their days shooting and fishing, as many English country parsons did. He shows a critical, moral view of the clergy, which runs through the book."
   - id: "hunter-stage-of-development"
     trigger: "hunter stage of development"
     title: "Why Thoreau Sees Hunting as Humanity’s First Step"
@@ -64,10 +113,24 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau expresses a visceral \"repugnance to animal food,\" describing it as unclean and unnecessary for sustaining life. This sentiment aligns with the growing vegetarian movement of his time, which advocated for abstaining from meat on ethical, health, and spiritual grounds. Thoreau’s critique goes beyond practical objections; he sees meat consumption as incompatible with preserving one’s higher faculties and imagination. He even compares humanity’s dietary evolution to the transformation of insects, which consume less as they mature into their perfect state. For Thoreau, abstaining from animal food is not just a dietary choice but a philosophical stance, reflecting his belief in living simply and harmoniously with nature."
+  - id: "kirby-and-spence"
+    trigger: "Kirby and Spence"
+    title: "The Entomologists Who Showed Insects That Do Not Eat"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Kirby_(entomologist)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau finds in Kirby and Spence the significant fact that some insects in their perfect state, though furnished with organs of feeding, make no use of them. William Kirby and William Spence wrote An Introduction to Entomology, published in four volumes between 1815 and 1826, a standard book that made insect study popular. Thoreau draws a moral from it: the adult insect eats little or nothing, and so it is a model for the human desire to give up gross food. He often used scientific books to support his ideas."
+  - id: "some-insects-in-their-perfect-state"
+    trigger: "some insects in their perfect state"
+    title: "The Adult Insects That Never Feed"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mayfly"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes the entomologists that some insects in their perfect state, though furnished with organs of feeding, make no use of them. Mayflies are the best-known example, since the adults of many species have no working mouthparts and live only a few hours or days, just long enough to mate, after a life of a year or more as an aquatic nymph. Thoreau uses the fact to suggest that the larval state is the glutton’s, and the perfect state eats little. He reads the insect world as a lesson in how a higher life is lived."
   - id: "destiny-of-the-human-race"
     trigger: "destiny of the human race"
     title: "Thoreau’s Vision of a Meat-Free Future"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Future_of_the_human_race"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Human_nature"
     image_url: ""
     image_caption: ""
     content: "Thoreau predicts that the \"destiny of the human race\" involves abandoning the consumption of animals, just as savage tribes abandoned cannibalism upon encountering civilization. This bold claim reflects his belief in humanity’s capacity for moral and spiritual progress. During Thoreau’s era, vegetarianism was gaining traction as part of broader reform movements, including transcendentalism, which emphasized self-improvement and harmony with nature. Thoreau’s vision is both ethical and practical: he sees a meat-free diet as a step toward purifying the human spirit and reducing the violence inherent in survival. This idea ties into his broader philosophy of living deliberately and striving for higher principles."
@@ -78,6 +141,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes the \"segment of the rainbow\" as the intangible harvest of his daily life—a fleeting but profound moment of beauty and insight. Rainbows, formed by the refraction and dispersion of light, have long symbolized hope and transcendence in literature and mythology. For Thoreau, this image captures the essence of his philosophy: the greatest rewards of life are ephemeral and often overlooked. By likening his daily reflections to a rainbow, Thoreau emphasizes the importance of attuning oneself to nature’s subtle wonders. This metaphor encapsulates the chapter’s theme of finding spiritual fulfillment in simplicity and mindfulness."
+  - id: "omnipresent-supreme-being"
+    trigger: "Omnipresent Supreme Being"
+    title: "The Hindu Rule That Faith May Eat Anything"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brahman"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he is far from regarding himself as one of those privileged ones to whom the Ved refers when it says that he who has true faith in the Omnipresent Supreme Being may eat all that exists. The idea is from Hindu texts and rests on the concept of Brahman, the ultimate reality that is present in all things. Thoreau, who read the sacred books of India in translation, accepts such a person might be free from rules of diet, but he does not feel he has reached that state. His modesty is both ironic and sincere."
   - id: "vedant-limits-this-privilege"
     trigger: "Vedant limits this privilege"
     title: "What the Vedant Says About Food and Distress"
@@ -92,13 +162,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recalls eating wild berries on a hillside and feeling that they nourished not just his body but his imagination. Berries, often associated with simplicity and abundance, have been staples of human diets for millennia. For Thoreau, their appeal lies in their connection to nature and their ability to inspire. This moment illustrates his belief that food should not merely sustain the body but also elevate the spirit. By savoring the berries, Thoreau experiences a profound unity with the natural world, reinforcing the chapter’s theme of finding beauty and meaning in the simplest aspects of life."
+  - id: "thseng-tseu"
+    trigger: "Thseng-tseu"
+    title: "The Confucian Disciple on the Soul and the Senses"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Zengzi"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes Thseng-tseu: the soul not being mistress of herself, one looks, and one does not see; one listens, and one does not hear; one eats, and one does not know the savor of food. Thseng-tseu is the French spelling of Zengzi, a disciple of Confucius to whom the Great Learning is attributed, and the saying is from that book. Thoreau uses it to argue that a person who is not attentive misses the taste of food, and that diet should be seen as part of self-mastery."
+  - id: "universe-s-insurance-company"
+    trigger: "Universe’s Insurance Company"
+    title: "The Harp That Collects the Premiums of Virtue"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Insurance"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the harp is the travelling patterer for the Universe’s Insurance Company, recommending its laws, and that our little goodness is all the assessment. In the 1840s insurance companies sold fire and life policies across New England, and agents travelled with talk about premiums and risks. Thoreau’s joke makes the music of moral order a sales pitch for a firm that guarantees a good return. The image mixes the language of commerce with his idea that virtue pays, in the sense that goodness is part of the universe’s design."
   - id: "animal-health-and-vigor"
     trigger: "animal health and vigor"
     title: "What a Hog’s Jawbone Taught Thoreau About Vitality"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hog"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pig"
     image_url: ""
     image_caption: ""
     content: "Thoreau reflects on the \"animal health and vigor\" suggested by a hog’s jawbone he found, with its white teeth and tusks. This observation leads him to consider the vitality of animals as distinct from spiritual purity. Hogs, often seen as symbols of gluttony, paradoxically embody a raw, unrefined strength. Thoreau’s encounter with the jawbone prompts him to question the relationship between physical vitality and moral integrity. This moment encapsulates the chapter’s exploration of the tension between humanity’s animalistic and divine aspects, urging readers to consider what it means to live a life of both health and higher purpose."
+  - id: "mencius"
+    trigger: "Mencius"
+    title: "What Separates People From Brutes, According to Mencius"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mencius"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes Mencius: that in which men differ from brute beasts is a thing very inconsiderable; the common herd lose it very soon; superior men preserve it carefully. Mencius, the Chinese philosopher of the fourth century BC, taught that human nature is naturally good, and that people must nurture their moral sprouts. Thoreau finds in him support for his belief that purity and temperance matter. The saying fits his theme: that the higher life is a thin thread that the careless lose, and the thoughtful tend."
   - id: "fauns-and-satyrs"
     trigger: "fauns and satyrs"
     title: "Why Thoreau Compares Humans to Mythical Beasts"
@@ -152,8 +243,8 @@ Nature themselves, are often in a more favorable mood for observing
 her, in the intervals of their pursuits, than philosophers or poets
 even, who approach her with expectation. She is not afraid to exhibit
 herself to them. The traveller on the prairie is naturally a hunter, on
-the head waters of the Missouri and Columbia a trapper, and at the
-Falls of St. Mary a fisherman. He who is only a traveller learns things
+the head waters of the **Missouri and Columbia** **a trapper**, and at the
+**Falls of St. Mary** a fisherman. He who is only a traveller learns things
 at second-hand and by the halves, and is poor authority. We are most
 interested when science reports what those men already know practically
 or instinctively, for that alone is a true _humanity_, or account of
@@ -194,14 +285,14 @@ I have answered, yes,—remembering that it was one of the best parts of
 my education,—_make_ them hunters, though sportsmen only at first, if
 possible, mighty hunters at last, so that they shall not find game
 large enough for them in this or any vegetable wilderness,—**hunters as
-well as fishers of men**. Thus far I am of the opinion of Chaucer’s nun,
+well as fishers of men**. Thus far I am of the opinion of **Chaucer’s nun**,
 who
 
      “yave not of the text a pulled hen
      That saith that hunters ben not holy men.”
 
 There is a period in the history of the individual, as of the race,
-when the hunters are the “best men,” as the Algonquins called them. We
+when the hunters are the “best men,” as the **Algonquins** called them. We
 cannot but pity the boy who has never fired a gun; he is no more
 humane, while his education has been sadly neglected. This was my
 answer with respect to those youths who were bent on this pursuit,
@@ -216,9 +307,9 @@ most original part of himself. He goes thither at first as a hunter and
 fisher, until at last, if he has the seeds of a better life in him, he
 distinguishes his proper objects, as a poet or naturalist it may be,
 and leaves the gun and fish-pole behind. The mass of men are still and
-always young in this respect. In some countries a hunting parson is no
+always young in this respect. In some countries a **hunting parson** is no
 uncommon sight. Such a one might make a good shepherd’s dog, but is far
-from being the Good Shepherd. I have been surprised to consider that
+from being the **Good Shepherd**. I have been surprised to consider that
 the only obvious employment, except wood-chopping, ice-cutting, or the
 like business, which ever to my knowledge detained at Walden Pond for a
 whole half day any of my fellow-citizens, whether fathers or children
@@ -270,8 +361,8 @@ though I never did so, I went far enough to please my imagination. I
 believe that every man who has ever been earnest to preserve his higher
 or poetic faculties in the best condition has been particularly
 inclined to abstain from animal food, and from much food of any kind.
-It is a significant fact, stated by entomologists, I find it in Kirby
-and Spence, that “some insects in their perfect state, though furnished
+It is a significant fact, stated by entomologists, I find it in **Kirby
+and Spence**, that “**some insects in their perfect state**, though furnished
 with organs of feeding, make no use of them;” and they lay it down as
 “a general rule, that almost all insects in this state eat much less
 than in that of larvæ. The voracious caterpillar when transformed into
@@ -348,7 +439,7 @@ grown more coarse and indifferent. Perhaps these questions are
 entertained only in youth, as most believe of poetry. My practice is
 “nowhere,” my opinion is here. Nevertheless I am far from regarding
 myself as one of those privileged ones to whom the Ved refers when it
-says, that “he who has true faith in the Omnipresent Supreme Being may
+says, that “he who has true faith in the **Omnipresent Supreme Being** may
 eat all that exists,” that is, is not bound to inquire what is his
 food, or who prepares it; and even in their case it is to be observed,
 as a Hindoo commentator has remarked, that the **Vedant limits this
@@ -359,7 +450,7 @@ food in which appetite had no share? I have been thrilled to think that
 I owed a mental perception to the commonly gross sense of taste, that I
 have been inspired through the palate, that some **berries which I had
 eaten** on a hill-side had fed my genius. “The soul not being mistress of
-herself,” says Thseng-tseu, “one looks, and one does not see; one
+herself,” says **Thseng-tseu**, “one looks, and one does not see; one
 listens, and one does not hear; one eats, and one does not know the
 savor of food.” He who distinguishes the true savor of his food can
 never be a glutton; he who does not cannot be otherwise. A puritan may
@@ -379,7 +470,7 @@ Our whole life is startlingly moral. There is never an instant’s truce
 between virtue and vice. Goodness is the only investment that never
 fails. In the music of the harp which trembles round the world it is
 the insisting on this which thrills us. The harp is the travelling
-patterer for the Universe’s Insurance Company, recommending its laws,
+patterer for the **Universe’s Insurance Company**, recommending its laws,
 and our little goodness is all the assessment that we pay. Though the
 youth at last grows indifferent, the laws of the universe are not
 indifferent, but are forever on the side of the most sensitive. Listen
@@ -398,7 +489,7 @@ we may be well, yet not pure. The other day I picked up the lower jaw
 of a hog, with white and sound teeth and tusks, which suggested that
 there was an **animal health and vigor** distinct from the spiritual. This
 creature succeeded by other means than temperance and purity. “That in
-which men differ from brute beasts,” says Mencius, “is a thing very
+which men differ from brute beasts,” says **Mencius**, “is a thing very
 inconsiderable; the common herd lose it very soon; superior men
 preserve it carefully.” Who knows what sort of life would result if we
 had attained to purity? If I knew so wise a man as could teach me

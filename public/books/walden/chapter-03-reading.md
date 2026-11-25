@@ -36,6 +36,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau invokes the image of ancient Egyptian and Hindu philosophers lifting the veil of divinity, suggesting a timeless connection between their revelations and his own reflections. The metaphor of the 'veil' has deep roots in both traditions. In Egyptian philosophy, the veil often symbolized the mysteries of the gods, accessible only to the initiated. Hindu philosophy similarly uses the concept of 'Maya,' the illusion that obscures ultimate reality. These traditions sought to uncover universal truths that transcend time and culture. By aligning himself with these ancient seekers, Thoreau positions his own intellectual journey as part of a continuum of human inquiry. His assertion that no dust has settled on the robe of divinity underscores his belief in the eternal freshness of truth, a theme central to his transcendentalist philosophy."
+  - id: "m-r-camar-udd-n-mast"
+    trigger: "Mîr Camar Uddîn Mast"
+    title: "The Hindustani Poet on the Joy of Books"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Garcin_de_Tassy"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes the poet Mír Camar Uddín Mast on the advantage of books: being seated to run through the region of the spiritual world, I have had this advantage in books. The lines come from Hindustani poetry, which Thoreau read in the French translations of Garcin de Tassy, the Paris scholar who wrote a history of Hindi and Urdu literature in the 1830s. Thoreau uses the verse to show that the love of books is universal, found in India as in Concord, and that a good book carries a reader through the spiritual world."
   - id: "heroic-books"
     trigger: "heroic books"
     title: "Why Ancient Texts Speak a Dead Language"
@@ -43,6 +50,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau laments that 'heroic books,' even when translated, remain in a language dead to modern times. He refers to works like Homer’s Iliad and Æschylus’s tragedies, which demand a reader’s active engagement to unlock their wisdom. The term 'heroic' evokes the epic struggles and virtues these texts embody, contrasting sharply with the passive consumption of modern literature. During the Renaissance, the rediscovery of classical texts sparked a revival of learning, but even then, only a few scholars could access their deeper meanings. Thoreau’s critique of 'degenerate times' reflects his belief that true reading is an act of intellectual heroism, requiring deliberate effort and moral aspiration. By urging readers to laboriously seek meaning, he challenges them to rise above the trivialities of contemporary culture and connect with the enduring truths of antiquity."
+  - id: "delphi-and-dodona"
+    trigger: "Delphi and Dodona"
+    title: "The Greek Oracles Beaten by Old Books"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dodona"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the classics have such answers to the most modern inquiry as Delphi and Dodona never gave. Delphi, where the priestess Pythia spoke for Apollo, and Dodona, where priests interpreted the rustling of oak leaves sacred to Zeus, were the two most famous oracles in ancient Greece. Kings and cities consulted them before wars. Thoreau suggests that a book by a great mind is a better oracle than any priestess, because it answers when asked and is never obscure. He holds that old books are still new."
   - id: "alexander-carried-the-iliad"
     trigger: "Alexander carried the Iliad"
     title: "The Book That Marched With Alexander the Great"
@@ -50,6 +64,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau marvels at the fact that Alexander the Great carried a copy of Homer’s Iliad in a precious casket during his campaigns. This anecdote highlights the profound influence of literature on even the most pragmatic of leaders. Alexander reportedly saw Achilles, Homer’s hero, as a model of valor and ambition, shaping his own identity as a warrior-king. The Iliad’s themes of glory, mortality, and the human condition resonated deeply with Alexander’s vision of conquest and legacy. Thoreau uses this story to illustrate the timeless power of written words, which transcend their era to become universal relics of human thought. By invoking Alexander, Thoreau underscores the idea that great literature is not merely an artifact but a living force that can inspire action and shape destinies, even in the most tumultuous of times."
+  - id: "virgil"
+    trigger: "Virgil"
+    title: "The Roman Poet Thoreau Says We Have Not Truly Read"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Virgil"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau complains that Homer has never yet been printed in English, nor Aeschylus, nor Virgil even, works as refined as the morning itself. Virgil, who died in 19 BC, wrote the Aeneid, the epic of Rome’s founding, and his poetry was a model for European writers for centuries. Thoreau’s point is that translations lose the beauty of the original, and that to read the classics well one must learn the old languages. He wants Americans to treat reading as a discipline that needs training, not a pastime."
   - id: "vedas-and-zendavestas"
     trigger: "Vedas and Zendavestas"
     title: "The Sacred Texts That Could Fill a Vatican"
@@ -57,6 +78,41 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau imagines a future where the Vatican is filled not only with Bibles but also with Vedas and Zendavestas, symbolizing a global embrace of sacred wisdom. The Vedas, ancient Hindu scriptures, and the Zendavesta, the holy text of Zoroastrianism, represent two of the oldest spiritual traditions in human history. Both texts offer profound insights into cosmology, ethics, and the divine, yet they remain less familiar to Western audiences compared to the Bible. Thoreau’s vision reflects his transcendentalist belief in the universality of truth and the interconnectedness of all cultures. By including these texts in his imagined library, he challenges the provincialism of his era and advocates for a broader intellectual and spiritual horizon. This aspiration aligns with his call for humanity to scale the heights of wisdom collectively, using the accumulated treasures of all civilizations."
+  - id: "little-reading"
+    trigger: "Little Reading"
+    title: "The Library Title That Fooled Thoreau"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Reading,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau jokes that there is a work in several volumes in the circulating library entitled Little Reading, which he thought referred to a town of that name which he had not been to. Reading, Massachusetts, a town north of Boston, was well known to him. The pun is on the poor books that people read for easy amusement, which he calls little reading, as if it were a place for the lazy. He contrasts them with the great books, which require effort, and the joke comes in a passage on the way many people stop at the first book they ever learned."
+  - id: "zebulon-and-sephronia"
+    trigger: "Zebulon and Sephronia"
+    title: "The Nine Thousandth Love Story"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sentimental_novel"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mocks readers who read the nine thousandth tale about Zebulon and Sephronia, and how they loved as none had ever loved before. The names are invented, but they echo the sentimental novels and magazine romances that filled American circulating libraries in the 1840s, in which young lovers face obstacles but marry at last. Thoreau treats the reading as a kind of eating, with people grinding up the same plot over and over. He prefers books that challenge, and so he sets the ordinary romance against the heroic books of the ancients."
+  - id: "the-skip-of-the-tip-toe-hop"
+    trigger: "The Skip of the Tip-Toe-Hop"
+    title: "A Fake Serial Romance Thoreau Invents"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Serial_(literature)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau makes up a title, The Skip of the Tip-Toe-Hop, a Romance of the Middle Ages, by the celebrated author of Tittle-Tol-Tan, to appear in monthly parts, a great rush. Serialised fiction, published in magazines and in parts, was hugely popular in the 1840s, and authors such as Dickens built their careers on it. The silly names mock the cheap historical romance. Thoreau’s joke is that readers will rush to buy anything advertised with enough noise, and that the novelist’s bell will not make him leave his seat."
+  - id: "cinderella"
+    trigger: "Cinderella"
+    title: "The Fairy Tale a Four-Year-Old Never Outgrows"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cinderella"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau compares those who read only easy books to some little four-year-old bencher with his two-cent gilt-covered edition of Cinderella. Cinderella, the story of the girl who is helped by a fairy godmother to go to the ball and marry a prince, is among the best-known folk tales in the world, and cheap illustrated editions were sold to children. His comparison is sharp: a grown reader who never moves beyond the simplest books remains a child, with no improvement in the pronunciation, accent or emphasis of his reading."
+  - id: "plato"
+    trigger: "Plato"
+    title: "Why Thoreau Felt Estranged From Plato"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Plato"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau laments his lack of engagement with Plato’s Dialogues, despite their proximity on his bookshelf. Plato, the ancient Greek philosopher, explored profound questions about justice, virtue, and the nature of reality through his Socratic dialogues. These texts have shaped Western thought for centuries, yet Thoreau’s confession reveals a sense of intellectual estrangement from their wisdom. He uses Plato as a symbol of the broader disconnect between his community and the great minds of antiquity. This self-critique underscores Thoreau’s belief that true education requires active effort and aspiration, not mere proximity to knowledge. By aspiring to commune with Plato, Thoreau challenges himself—and his readers—to bridge the gap between potential and achievement, transforming passive admiration into meaningful engagement with the ideas that define human civilization."
   - id: "zoroaster"
     trigger: "Zoroaster"
     title: "The Prophet Who Invented Worship"
@@ -71,6 +127,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions the Lyceum in Concord as one of the few efforts toward intellectual cultivation in his community. The Lyceum movement, popular in 19th-century America, provided public lectures and debates on topics ranging from science to philosophy. Concord’s Lyceum hosted figures like Ralph Waldo Emerson, who delivered his famous 'American Scholar' address there. Despite its significance, Thoreau critiques the limited scope and ambition of such institutions, arguing that they fail to meet the deeper educational needs of the populace. His call for 'uncommon schools' reflects his desire for a more profound and sustained engagement with knowledge, turning villages into centers of lifelong learning. By referencing the Lyceum, Thoreau underscores the gap between the intellectual potential of his community and its actual achievements, urging a collective effort to bridge this divide."
+  - id: "abelard"
+    trigger: "Abelard"
+    title: "The Medieval Teacher Concord Could Hire"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Peter_Abelard"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks, can we not hire some Abelard to lecture to us? Peter Abelard was a twelfth-century French philosopher and teacher whose lectures in Paris drew thousands of students, and who is best known for his love affair with Heloise. He stood for the free-thinking scholar who attracts pupils by his brilliance, not by an institution. Thoreau wishes that the village of Concord, instead of sending its young people to Paris or Oxford, would bring in great teachers and make itself a university under the skies."
   - id: "harper-and-brothers"
     trigger: "Harper & Brothers"
     title: "The Publishing Giant That Shaped American Reading"
@@ -78,13 +141,6 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau critiques the reliance on publishers like Harper & Brothers to dictate reading habits, advocating instead for a more discerning approach to literature. Founded in 1817, Harper & Brothers became one of America’s most influential publishing houses, producing works by authors like Charles Dickens and Herman Melville. While their contributions to literature were significant, Thoreau saw the dominance of such publishers as symptomatic of a culture that valued convenience over intellectual rigor. His disdain for 'neutral family papers' reflects his broader critique of superficial reading practices. By challenging readers to seek out the best newspapers and books, Thoreau calls for a cultural shift toward higher standards of intellectual engagement. This critique aligns with his transcendentalist ideals, emphasizing individual responsibility in the pursuit of truth and wisdom."
-  - id: "plato"
-    trigger: "Plato"
-    title: "Why Thoreau Felt Estranged From Plato"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Plato"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau laments his lack of engagement with Plato’s Dialogues, despite their proximity on his bookshelf. Plato, the ancient Greek philosopher, explored profound questions about justice, virtue, and the nature of reality through his Socratic dialogues. These texts have shaped Western thought for centuries, yet Thoreau’s confession reveals a sense of intellectual estrangement from their wisdom. He uses Plato as a symbol of the broader disconnect between his community and the great minds of antiquity. This self-critique underscores Thoreau’s belief that true education requires active effort and aspiration, not mere proximity to knowledge. By aspiring to commune with Plato, Thoreau challenges himself—and his readers—to bridge the gap between potential and achievement, transforming passive admiration into meaningful engagement with the ideas that define human civilization."
 ---
 With a little more deliberation in the choice of their pursuits, all
 men would perhaps become essentially students and observers, for
@@ -105,7 +161,7 @@ reading, than a university; and though I was beyond the range of the
 ordinary circulating library, I had more than ever come within the
 influence of those books which circulate round the world, whose
 sentences were first written on bark, and are now merely copied from
-time to time on to linen paper. Says the poet Mîr Camar Uddîn Mast,
+time to time on to linen paper. Says the poet **Mîr Camar Uddîn Mast**,
 “Being seated to run through the region of the spiritual world; I have
 had this advantage in books. To be intoxicated by a single glass of
 wine; I have experienced this pleasure when I have drunk the liquor of
@@ -139,7 +195,7 @@ adventurous student will always study classics, in whatever language
 they may be written and however ancient they may be. For what are the
 classics but the noblest recorded thoughts of man? They are the only
 oracles which are not decayed, and there are such answers to the most
-modern inquiry in them as Delphi and Dodona never gave. We might as
+modern inquiry in them as **Delphi and Dodona** never gave. We might as
 well omit to study Nature because she is old. To read well, that is, to
 read true books in a true spirit, is a noble exercise, and one that
 will task the reader more than any exercise which the customs of the
@@ -216,7 +272,7 @@ in which they were written must have a very imperfect knowledge of the
 history of the human race; for it is remarkable that no transcript of
 them has ever been made into any modern tongue, unless our civilization
 itself may be regarded as such a transcript. Homer has never yet been
-printed in English, nor Æschylus, nor Virgil even—works as refined, as
+printed in English, nor Æschylus, nor **Virgil** even—works as refined, as
 solidly done, and as beautiful almost as the morning itself; for later
 writers, say what we will of their genius, have rarely, if ever,
 equalled the elaborate beauty and finish and the lifelong and heroic
@@ -256,7 +312,7 @@ to. There are those who, like cormorants and ostriches, can digest all
 sorts of this, even after the fullest dinner of meats and vegetables,
 for they suffer nothing to be wasted. If others are the machines to
 provide this provender, they are the machines to read it. They read the
-nine thousandth tale about Zebulon and Sephronia, and how they loved as
+nine thousandth tale about **Zebulon and Sephronia**, and how they loved as
 none had ever loved before, and neither did the course of their true
 love run smooth,—at any rate, how it did run and stumble, and get up
 again and go on! how some poor unfortunate got up on to a steeple, who
@@ -268,8 +324,8 @@ aspiring heroes of universal noveldom into man weathercocks, as they
 used to put heroes among the constellations, and let them swing round
 there till they are rusty, and not come down at all to bother honest
 men with their pranks. The next time the novelist rings the bell I will
-not stir though the meeting-house burn down. “The Skip of the
-Tip-Toe-Hop, a Romance of the Middle Ages, by the celebrated author of
+not stir though the meeting-house burn down. “**The Skip of the
+Tip-Toe-Hop**, a Romance of the Middle Ages, by the celebrated author of
 ‘Tittle-Tol-Tan,’ to appear in monthly parts; a great rush; don’t all
 come together.” All this they read with saucer eyes, and erect and
 primitive curiosity, and with unwearied gizzard, whose corrugations
@@ -371,7 +427,7 @@ elder inhabitants the fellows of universities, with leisure—if they are
 indeed so well off—to pursue liberal studies the rest of their lives.
 Shall the world be confined to one Paris or one Oxford forever? Cannot
 students be boarded here and get a liberal education under the skies of
-Concord? Can we not hire some Abelard to lecture to us? Alas! what with
+Concord? Can we not hire some **Abelard** to lecture to us? Alas! what with
 foddering the cattle and tending the store, we are kept from school too
 long, and our education is sadly neglected. In this country, the
 village should in some respects take the place of the nobleman of

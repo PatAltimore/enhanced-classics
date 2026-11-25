@@ -29,6 +29,20 @@ summary:
     link_label: "Irony"
 
 enhancements:
+  - id: "yellow-and-gibbous"
+    trigger: "yellow and gibbous"
+    title: "The Moon That Rose on the Traveller’s Loss"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lunar_phase"
+    image_url: ""
+    image_caption: ""
+    content: "As the Time Traveller muses on the hilltop, the full moon, yellow and gibbous, comes up out of an overflow of silver light. A gibbous moon is the phase between half and full, when more than half of the disc is lit, and Wells uses the word to give a slightly swollen, uneven look to the rising moon. The moon matters to the plot: he later reckons that it will pass its last quarter within days, and that the dark nights will let the Morlocks come out in greater numbers. The pale light also shows him that the Time Machine has gone."
+  - id: "noiseless-owl"
+    trigger: "noiseless owl"
+    title: "The Silent Bird of the First Night"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Owl"
+    image_url: ""
+    image_caption: ""
+    content: "As the moon rises, a noiseless owl flits by and the Time Traveller shivers with the chill of the night. Owls fly almost silently, because the soft edges of their feathers muffle the sound of their wings, and so they can catch their prey in the dark. In folklore the owl is a creature of night and of omens, and also a symbol of wisdom. Wells uses it to turn the mood from the golden evening to threat, and it quietly prepares the ground for creatures who hunt in the dark, the Morlocks."
   - id: "white-sphinx-symbol-of-mystery-and-power"
     trigger: "White Sphinx"
     title: "Why the Sphinx Haunts Humanity's Imagination"
@@ -36,6 +50,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the protagonist gazes at the White Sphinx under the moonlight, its leprous face seems to mock his despair. The Sphinx, an ancient symbol of mystery and riddles, has captivated cultures for millennia. In Greek mythology, the Sphinx posed a deadly riddle to travelers, while the Egyptian Sphinx guarded the pyramids with its enigmatic gaze. Its hybrid form—a human head on a lion's body—embodies the fusion of intellect and primal power. H.G. Wells uses the Sphinx as a metaphor for the inscrutable forces governing the future world. The pedestal beneath it, hiding the Time Machine, suggests that answers lie beneath layers of complexity. By invoking this ancient symbol, Wells deepens the protagonist's sense of helplessness and underscores the theme of humanity's struggle to decode the mysteries of existence."
+  - id: "white-leprous-face"
+    trigger: "white leprous face"
+    title: "The Sphinx’s Diseased Look"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Leprosy"
+    image_url: ""
+    image_caption: ""
+    content: "When he comes back to the lawn, the Time Traveller sees that the white leprous face of the sphinx is towards it. Leprosy, now called Hansen’s disease, was a feared illness in the nineteenth century, known for its disfiguring effects on the skin and the face, and it was still common in parts of the British Empire. Wells compares the weathered white marble to a leper’s skin, and the image makes the statue repellent as well as mysterious. The sphinx seems to smile in mockery of the traveller’s dismay, and the whole scene turns the beautiful garden sinister."
   - id: "bronze-pedestal-hidden-secrets-of-the-future"
     trigger: "bronze pedestal"
     title: "What Lies Beneath the Sphinx's Bronze Throne?"
@@ -50,6 +71,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Stumbling in the dark hall, the protagonist falls over a malachite table, nearly injuring himself. Malachite, a vivid green mineral, has been prized for its beauty and rarity since antiquity. Ancient Egyptians used it for jewelry and amulets, believing it had protective powers. In the 19th century, malachite became a symbol of opulence, adorning palaces and cathedrals. Its presence in the hall suggests that the Eloi's ancestors once lived in a world of grandeur, now reduced to ruins. Wells uses malachite to evoke a sense of lost splendor, contrasting the protagonist's desperation with the remnants of a forgotten civilization."
+  - id: "forgotten-about-matches"
+    trigger: "forgotten about matches"
+    title: "A Fire-Making Tool the Future Forgot"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Match"
+    image_url: ""
+    image_caption: ""
+    content: "When the Time Traveller bursts into the sleeping hall with a flare of a match, he notes that the Eloi had forgotten about matches. The friction match was invented in 1826 by the English chemist John Walker, and safety matches followed in the 1850s, so by the 1890s matches were a cheap household item. That the people of 802,701 have forgotten fire is a vivid sign of their decline. The matches in his pocket become one of the traveller’s few weapons against the Morlocks, who also fear fire."
   - id: "moonlit-ruins-ghosts-of-a-dead-civilization"
     trigger: "moonlit ruins"
     title: "What the Moon Reveals About Humanity's Decay"
@@ -64,6 +92,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Examining the turf, the protagonist finds queer narrow footprints that resemble those of a sloth. Footprints are one of humanity's oldest forms of evidence, from fossilized tracks in Laetoli to the Apollo moon landing. These prints hint at the existence of another species in the future world, adding to the mystery. Their narrow shape suggests a creature adapted to a specific environment, possibly subterranean or arboreal. Wells uses this discovery to foreshadow the Morlocks, whose existence will challenge the protagonist's understanding of evolution and societal decay. The footprints are a breadcrumb trail leading to deeper revelations."
+  - id: "made-by-a-sloth"
+    trigger: "made by a sloth"
+    title: "The Slow Animal Behind the Strange Footprints"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sloth"
+    image_url: ""
+    image_caption: ""
+    content: "Beside the groove in the turf the Time Traveller finds queer narrow footprints, like those he could imagine made by a sloth. Sloths are slow-moving tree-dwelling mammals of Central and South America, whose long claws and awkward gait leave odd tracks on the ground. Wells’s comparison shows that the traveller is trying to picture an unknown creature, and it hints that the thief is bizarre in shape and not human in the way the Eloi are. The clue leads him to the hollow pedestal, where the Morlocks have hidden his machine."
   - id: "orange-clad-people-why-their-reaction-is-so-strange"
     trigger: "orange-clad people"
     title: "What Do the Orange Robes Signify?"
@@ -71,6 +106,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the protagonist gestures toward the bronze pedestal, the orange-clad people react with horror and repugnance. Clothing has always been a marker of identity, status, and culture. The orange robes may signify a ritualistic or hierarchical role among the Eloi, though their exact meaning remains unclear. Their reaction suggests that the pedestal holds a taboo or sacred significance, adding to the protagonist's frustration. Wells uses this moment to highlight the cultural gulf between the protagonist and the Eloi, emphasizing the difficulty of understanding a society shaped by entirely different values and experiences."
+  - id: "apple-trees"
+    trigger: "apple-trees"
+    title: "The Old Orchard Trees of the Future"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Apple"
+    image_url: ""
+    image_caption: ""
+    content: "Two orange-clad Eloi come through the bushes and under some blossom-covered apple-trees towards the Time Traveller. The apple has been grown in Europe and Asia for thousands of years, and apple blossom was a favourite sign of an English spring. Wells’s apple trees are a picture of peace, a surviving piece of the old garden of England, and a contrast with the strange mood of the scene. The traveller, who wants to open the bronze doors, is angry and anxious, while the gentle Eloi walk past under the pink and white blossom."
+  - id: "too-occidental-for-a-long-vigil"
+    trigger: "too Occidental for a long vigil"
+    title: "The Western Impatience of the Time Traveller"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Occident"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller admits that he cannot sit and watch the bronze pedestal for long, saying he is too Occidental for a long vigil. Occidental means Western, from the Latin for the setting sun, and Victorian writers often contrasted a restless, active West with a patient, contemplative East. The remark rests on that stereotype, which modern readers will find dated, but it fits his character as a man of action. He can work at a problem for years, but he cannot wait inactive, and so he turns back to the hill to explore."
+  - id: "monomania"
+    trigger: "monomania"
+    title: "The Danger of Brooding on a Single Idea"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Monomania"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller tells himself that to sit before the puzzle of the sphinx is hopeless, and that way lies monomania. Monomania was a nineteenth-century psychiatric term, coined by the French doctor Jean-Étienne Esquirol, for madness in which a person is obsessed with a single idea or object while otherwise sane. Captain Ahab’s pursuit of the whale is the best-known literary example. The traveller’s sudden self-analysis shows that he is a scientist who watches his own mind, and that he can step back from panic and think clearly."
   - id: "language-was-excessively-simple-elois-lost-ability-to-abstract"
     trigger: "language was excessively simple"
     title: "Why Eloi Speak Like Children"
@@ -87,9 +143,9 @@ enhancements:
     content: "The protagonist remains tethered to the point of his arrival, unable to venture far from the place where his Time Machine disappeared. This location represents the collision of time and space, the nexus of his journey into the future. Time travel, a concept popularized by Wells, challenges our understanding of causality and existence. The protagonist's fixation on this spot reflects his desperation to regain control over his fate. Wells uses this anchoring point to explore themes of loss, disorientation, and the human need for stability in an unpredictable world. It is both a physical location and a metaphor for the protagonist's struggle to reconcile past, present, and future."
 ---
 “As I stood there musing over this too perfect triumph of man, the full
-moon, yellow and gibbous, came up out of an overflow of silver light in
+moon, **yellow and gibbous**, came up out of an overflow of silver light in
 the north-east. The bright little figures ceased to move about below, a
-noiseless owl flitted by, and I shivered with the chill of the night. I
+**noiseless owl** flitted by, and I shivered with the chill of the night. I
 determined to descend and find where I could sleep.
 
 “I looked for the building I knew. Then my eye travelled along to the
@@ -100,7 +156,7 @@ black in the pale light, and there was the little lawn. I looked at the
 lawn again. A queer doubt chilled my complacency. ‘No,’ said I stoutly
 to myself, ‘that was not the lawn.’
 
-“But it _was_ the lawn. For the white leprous face of the sphinx was
+“But it _was_ the lawn. For the **white leprous face** of the sphinx was
 towards it. Can you imagine what I felt as this conviction came home to
 me? But you cannot. The Time Machine was gone!
 
@@ -157,7 +213,7 @@ curtains, of which I have told you.
 perhaps, a score or so of the little people were sleeping. I have no
 doubt they found my second appearance strange enough, coming suddenly
 out of the quiet darkness with inarticulate noises and the splutter and
-flare of a match. For they had forgotten about matches. ‘Where is my
+flare of a match. For they had **forgotten about matches**. ‘Where is my
 Time Machine?’ I began, bawling like an angry child, laying hands upon
 them and shaking them up together. It must have been very queer to
 them. Some laughed, most of them looked sorely frightened. When I saw
@@ -215,7 +271,7 @@ of my perplexity. The turf gave better counsel. I found a groove ripped
 in it, about midway between the pedestal of the sphinx and the marks of
 my feet where, on arrival, I had struggled with the overturned machine.
 There were other signs of removal about, with **queer narrow footprints**
-like those I could imagine made by a sloth. This directed my closer
+like those I could imagine **made by a sloth**. This directed my closer
 attention to the pedestal. It was, as I think I have said, of bronze.
 It was not a mere block, but highly decorated with deep framed panels
 on either side. I went and rapped at these. The pedestal was hollow.
@@ -227,7 +283,7 @@ Time Machine was inside that pedestal. But how it got there was a
 different problem.
 
 “I saw the heads of two **orange-clad people** coming through the bushes
-and under some blossom-covered apple-trees towards me. I turned smiling
+and under some blossom-covered **apple-trees** towards me. I turned smiling
 to them, and beckoned them to me. They came, and then, pointing to the
 bronze pedestal, I tried to intimate my wish to open it. But at my
 first gesture towards this they behaved very oddly. I don’t know how to
@@ -251,7 +307,7 @@ flakes. The delicate little people must have heard me hammering in
 gusty outbreaks a mile away on either hand, but nothing came of it. I
 saw a crowd of them upon the slopes, looking furtively at me. At last,
 hot and tired, I sat down to watch the place. But I was too restless to
-watch long; I am too Occidental for a long vigil. I could work at a
+watch long; I am **too Occidental for a long vigil**. I could work at a
 problem for years, but to wait inactive for twenty-four hours—that is
 another matter.
 
@@ -261,7 +317,7 @@ machine again you must leave that sphinx alone. If they mean to take
 your machine away, it’s little good your wrecking their bronze panels,
 and if they don’t, you will get it back as soon as you can ask for it.
 To sit among all those unknown things before a puzzle like that is
-hopeless. That way lies monomania. Face this world. Learn its ways,
+hopeless. That way lies **monomania**. Face this world. Learn its ways,
 watch it, be careful of too hasty guesses at its meaning. In the end
 you will find clues to it all.’ Then suddenly the humour of the
 situation came into my mind: the thought of the years I had spent in

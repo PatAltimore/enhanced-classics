@@ -29,10 +29,38 @@ enhancements:
   - id: "zoological-museum-creatures-in-spirit"
     trigger: "zoological museum"
     title: "Why Museums Preserve Creatures in Spirit"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Wet_preservation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Natural_history_museum"
     image_url: ""
     image_caption: ""
     content: "When the narrator compares the pallid Morlocks to specimens preserved in spirit in a zoological museum, he evokes a visceral image of lifelessness and decay. Wet preservation, the method he refers to, involves storing biological specimens in alcohol or formaldehyde to prevent decomposition. This technique dates back centuries and was crucial for early scientists cataloging the natural world. The eerie appearance of these preserved creatures—bleached, distorted, and suspended in liquid—was both a scientific tool and a source of public fascination. Wells uses this comparison to emphasize the Morlocks' unnatural and unsettling existence, suggesting they are as alien to life as the specimens in a jar. This metaphor deepens the horror of the Morlocks, portraying them as creatures stripped of vitality and humanity."
+  - id: "whitened-lemurs"
+    trigger: "whitened Lemurs"
+    title: "The Ghost-Named Animals in the Morlock Name"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lemur"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller thinks of the Morlocks as these whitened Lemurs, this new vermin that had replaced the old. Lemurs are large-eyed, mostly nocturnal primates of Madagascar, and Linnaeus gave them their name in 1758 from the Roman lemures, the restless spirits of the dead, because of their ghostly looks and night habits. Wells’s choice of the word gives the Morlocks both an animal and a spectral quality, and it echoes the earlier talk of ghosts at dawn. The label shows how the traveller’s scientific vocabulary struggles to hold what he finds."
+  - id: "combe-wood"
+    trigger: "Combe Wood"
+    title: "The Surrey Woodland of the Future Journey"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Coombe_Wood"
+    image_url: ""
+    image_caption: ""
+    content: "Going south-westward towards the rising country that is now called Combe Wood, the Time Traveller sees a vast green structure in the direction of nineteenth-century Banstead. Coombe is a district on the border of south-west London and Surrey, on rising ground near Kingston and Richmond Park, with woodland and large houses. Wells keeps to the real map of the area he knew, and the reader can follow the traveller’s route from Richmond over the Surrey hills. The use of familiar names for an unfamiliar future gives the story a strong sense of place."
+  - id: "banstead"
+    trigger: "Banstead"
+    title: "The Surrey Town Seen From 800,000 Years On"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Banstead"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller sees the Palace of Green Porcelain far off in the direction of nineteenth-century Banstead. Banstead is a village and town in Surrey, on the North Downs, south of London, well known in the Victorian period for its fresh air, its mutton and its racehorses. By noting its name as nineteenth century, Wells makes a joke about place names that outlast their world. The location of the Palace is on the hills, and the geography shows that the Time Traveller is exploring the familiar county of Surrey, which has become a stranger’s country."
+  - id: "chinese-porcelain"
+    trigger: "Chinese porcelain"
+    title: "The Green Glaze of the Palace Front"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Celadon"
+    image_url: ""
+    image_caption: ""
+    content: "The front of the great building has a lustre and a pale-green tint, a kind of bluish-green, of a certain type of Chinese porcelain. The Time Traveller is describing celadon, the green-glazed Chinese ware prized for centuries and collected by Victorian connoisseurs of oriental art. Wells uses the glaze to give the Palace a delicate, exotic look. The name Palace of Green Porcelain suggests a shining place, and in this future the great museum has become a ruin where the remains of past ages lie, a quiet, dusty symbol of knowledge lost."
   - id: "palace-of-green-porcelain-mystery"
     trigger: "Palace of Green Porcelain"
     title: "What Lies Behind the Green Porcelain Walls?"
@@ -47,6 +75,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator's descent into the Morlocks' domain via metallic bars is fraught with peril. These bars, designed for the smaller, lighter Morlocks, bend under his weight, nearly causing him to fall into the abyss. The use of such rudimentary climbing aids highlights the stark contrast between the advanced machinery below and the primitive physicality required to access it. Wells crafts this moment to amplify the narrator's vulnerability, both physically and emotionally, as he confronts the alien world beneath. The descent becomes a metaphor for plunging into the unknown, where survival hinges on courage and adaptability."
+  - id: "machinery-pumping-air-down-the-shaft"
+    trigger: "machinery pumping air down the shaft"
+    title: "The Underground Air System"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mine_ventilation"
+    image_url: ""
+    image_caption: ""
+    content: "In the horizontal tunnel the Time Traveller notes that the air was full of the throb and hum of machinery pumping air down the shaft. Mines and tunnels need forced ventilation to supply fresh air and to remove dangerous gases, and Victorian engineers used fans and pumps to do so. The shafts and towers on the surface were part of such a system, as he had guessed. The detail shows that the Morlocks, while repulsive, are skilled with machines, and they have made a working underground world that sustains the Eloi above."
   - id: "abysmal-fishes-eyes-in-darkness"
     trigger: "abysmal fishes"
     title: "How Deep-Sea Fish Inspired the Morlocks' Eyes"
@@ -61,6 +96,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator's discovery of the arched cavern filled with machinery and lurking Morlocks is a moment of profound unease. Caves have long been symbols of mystery and danger, often associated with hidden worlds and ancient secrets. Wells transforms this archetype into a dystopian vision of industrial decay, where machines hum ominously and blood taints the air. The cavern's oppressive atmosphere mirrors the narrator's psychological turmoil, as he grapples with the implications of humanity's division into Eloi and Morlocks. This setting becomes a chilling embodiment of the novel's themes: the consequences of unchecked technological progress and social stratification."
+  - id: "carnivorous"
+    trigger: "carnivorous"
+    title: "The Meal Table That Reveals the Morlocks’ Diet"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Carnivore"
+    image_url: ""
+    image_caption: ""
+    content: "Seeing a little table laid with what seems a meal, with a red joint and the faint smell of freshly shed blood, the Time Traveller cries that the Morlocks at any rate were carnivorous. A carnivore is an animal that eats mainly meat, and the word comes from the Latin for flesh and devour. Wells makes the discovery with grim wit: the Eloi eat only fruit, but their underground cousins do not. The traveller wonders what large animal could have survived, a question that has a terrible answer, which he will understand only later in the story."
+  - id: "thought-of-a-kodak"
+    trigger: "thought of a Kodak"
+    title: "The Camera Wells’s Traveller Wishes He Had"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Kodak"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller regrets that he did not bring weapons, medicine, tobacco or matches, and he adds: if only I had thought of a Kodak! George Eastman’s Kodak camera of 1888, sold with the slogan You press the button, we do the rest, made photography easy for amateurs, and by the 1890s many people took snapshots. Magnesium flash powder could light dark scenes, so the Traveller could have recorded the Underworld. The joke shows how a modern gadget would have helped, and it reminds readers how ill-prepared he was for the future."
+  - id: "four-safety-matches"
+    trigger: "four safety-matches"
+    title: "The Last Matches in a Dark Place"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Safety_match"
+    image_url: ""
+    image_caption: ""
+    content: "In the dark the Time Traveller has only the weapons Nature gave him, hands, feet and teeth, and four safety-matches that still remain. Safety matches, which light only when struck on a special surface, were developed in Sweden in the 1840s and 1850s and became the standard match because they were less likely to catch fire by accident. Each match gives him a few seconds of light and keeps the Morlocks at bay. Wells builds a tense scene from a countdown of tiny flames, and the matches stand for science against the primitive dark."
   - id: "store-of-matches-light-in-darkness"
     trigger: "store of matches"
     title: "The Fragile Power of Fire in the Future"
@@ -100,7 +156,7 @@ little people were sleeping in the moonlight—that night Weena was among
 them—and feeling reassured by their presence. It occurred to me even
 then, that in the course of a few days the moon must pass through its
 last quarter, and the nights grow dark, when the appearances of these
-unpleasant creatures from below, these whitened Lemurs, this new vermin
+unpleasant creatures from below, these **whitened Lemurs**, this new vermin
 that had replaced the old, might be more abundant. And on both these
 days I had the restless feeling of one who shirks an inevitable duty. I
 felt assured that the Time Machine was only to be recovered by boldly
@@ -112,13 +168,13 @@ feeling, but I never felt quite safe at my back.
 
 “It was this restlessness, this insecurity, perhaps, that drove me
 farther and farther afield in my exploring expeditions. Going to the
-south-westward towards the rising country that is now called Combe
-Wood, I observed far-off, in the direction of nineteenth-century
-Banstead, a vast green structure, different in character from any I had
+south-westward towards the rising country that is now called **Combe
+Wood**, I observed far-off, in the direction of nineteenth-century
+**Banstead**, a vast green structure, different in character from any I had
 hitherto seen. It was larger than the largest of the palaces or ruins I
 knew, and the façade had an Oriental look: the face of it having the
 lustre, as well as the pale-green tint, a kind of bluish-green, of a
-certain type of Chinese porcelain. This difference in aspect suggested
+certain type of **Chinese porcelain**. This difference in aspect suggested
 a difference in use, and I was minded to push on and explore. But the
 day was growing late, and I had come upon the sight of the place after
 a long and tiring circuit; so I resolved to hold over the adventure for
@@ -168,7 +224,7 @@ aperture of a narrow horizontal tunnel in which I could lie down and
 rest. It was not too soon. My arms ached, my back was cramped, and I
 was trembling with the prolonged terror of a fall. Besides this, the
 unbroken darkness had had a distressing effect upon my eyes. The air
-was full of the throb and hum of machinery pumping air down the shaft.
+was full of the throb and hum of **machinery pumping air down the shaft**.
 
 “I do not know how long I lay. I was roused by a soft hand touching
 my face. Starting up in the darkness I snatched at my matches and,
@@ -200,7 +256,7 @@ spectral Morlocks sheltered from the glare. The place, by the bye, was
 very stuffy and oppressive, and the faint halitus of freshly-shed blood
 was in the air. Some way down the central vista was a little table of
 white metal, laid with what seemed a meal. The Morlocks at any rate
-were carnivorous! Even at the time, I remember wondering what large
+were **carnivorous**! Even at the time, I remember wondering what large
 animal could have survived to furnish the red joint I saw. It was all
 very indistinct: the heavy smell, the big unmeaning shapes, the obscene
 figures lurking in the shadows, and only waiting for the darkness to
@@ -213,10 +269,10 @@ with the absurd assumption that the men of the Future would certainly
 be infinitely ahead of ourselves in all their appliances. I had come
 without arms, without medicine, without anything to smoke—at times I
 missed tobacco frightfully!—even without enough matches. If only I had
-thought of a Kodak! I could have flashed that glimpse of the Underworld
+**thought of a Kodak**! I could have flashed that glimpse of the Underworld
 in a second, and examined it at leisure. But, as it was, I stood there
 with only the weapons and the powers that Nature had endowed me
-with—hands, feet, and teeth; these, and four safety-matches that still
+with—hands, feet, and teeth; these, and **four safety-matches** that still
 remained to me.
 
 “I was afraid to push my way in among all this machinery in the dark,

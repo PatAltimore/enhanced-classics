@@ -36,6 +36,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller suggests his story might be a speculation on 'the destinies of our race,' he taps into one of H.G. Wells's deepest preoccupations: humanity's trajectory. Wells, a pioneer of science fiction, often explored themes of societal collapse and evolution. In 'The Time Machine,' he imagines a distant future where humanity has split into two species—the Eloi and the Morlocks—reflecting class divisions taken to their extreme. This was no idle fantasy; Wells was deeply influenced by Darwinian evolution and Marxist theory, believing that unchecked industrialization and inequality could lead to catastrophic outcomes. By framing the Time Traveller's tale as a 'prophecy,' Wells invites readers to consider whether his dystopian vision is a warning or an inevitability. The destinies of our race, he implies, are not fixed—they are shaped by the choices we make today."
+  - id: "gyn-ceum"
+    trigger: "gynæceum"
+    title: "The Doctor’s Botanical Clue"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Gynoecium"
+    image_url: ""
+    image_caption: ""
+    content: "The Medical Man examines the withered white flowers and says: The gynæceum’s odd. The gynoecium, or gynaeceum, is the female part of a flower, made up of the carpels that hold the ovules, and botanists use its structure to classify plants. A doctor with a knowledge of botany, as many Victorian physicians had, would see at once that the flower did not fit a known family. Wells uses the technical word to give the evidence a scientific ring. The flowers are the only proof that the traveller has brought back, and the doctor’s puzzlement makes them more convincing."
+  - id: "plenty-of-cabs"
+    trigger: "Plenty of cabs"
+    title: "The Horse-Drawn Taxis of Victorian London"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hansom_cab"
+    image_url: ""
+    image_caption: ""
+    content: "At a quarter to one the Journalist asks how they will get home, and the Psychologist answers: Plenty of cabs at the station. In 1895 the cabs of London were horse-drawn, most of them hansom cabs, light two-wheeled carriages with the driver perched behind, designed by Joseph Hansom in 1834, or four-wheeled growlers. They were the taxis of their day, and a railway station was the place to find one. The ordinary detail anchors the end of the story in a real late-Victorian night, after the fantastic account that the guests have just heard."
   - id: "brown-spots-and-smears"
     trigger: "brown spots and smears"
     title: "What Do the Time Machine's Scars Reveal?"
@@ -71,6 +85,41 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "In the epilogue, the narrator speculates that the Time Traveller might have ventured into 'the Age of Unpolished Stone,' a reference to the early Stone Age. This era, known as the Paleolithic, was marked by rudimentary tools, hunter-gatherer societies, and the absence of agriculture. It was a time when survival depended on ingenuity and adaptability, and humans lived in close harmony with nature. Wells's mention of 'blood-drinking, hairy savages' reflects Victorian stereotypes about prehistoric peoples, but it also highlights the stark contrast between the primitive past and the industrialized present. By imagining the Time Traveller in this era, Wells invites readers to consider the cyclical nature of human progress. Could the future resemble the past? The Stone Age becomes a mirror, reflecting both humanity's origins and its potential destiny."
+  - id: "cretaceous-sea"
+    trigger: "Cretaceous Sea"
+    title: "The Chalk Sea Where the Traveller Might Have Fallen"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cretaceous"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator wonders whether the Time Traveller swept back into the abysses of the Cretaceous Sea. The Cretaceous Period lasted from about 145 to 66 million years ago, and its warm seas covered much of Europe, leaving the chalk cliffs of southern England, which are made of tiny shells. It ended with the extinction of the dinosaurs. The narrator lists past ages like a geologist, and the picture of the traveller lost in deep time, in a sea that is now chalk downs, is eerie and moving."
+  - id: "jurassic-times"
+    trigger: "Jurassic times"
+    title: "The Age of Giant Reptiles in the Narrator’s List"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jurassic"
+    image_url: ""
+    image_caption: ""
+    content: "Among the places where the Time Traveller might have gone, the narrator imagines the grotesque saurians, the huge reptilian brutes of the Jurassic times. The Jurassic, about 201 to 145 million years ago, was the age when giant dinosaurs such as the long-necked sauropods lived, and the name comes from the Jura Mountains of Europe, where rocks of that age are exposed. By Wells’s time, fossils from the Jurassic rocks of Dorset and Yorkshire had made the age familiar. The narrator’s hopeful speculation about the traveller is touched with dread and dry humour."
+  - id: "plesiosaurus"
+    trigger: "plesiosaurus"
+    title: "The Sea Reptile of the Narrator’s Fancy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Plesiosauria"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator imagines the Time Traveller wandering on some plesiosaurus-haunted Oolitic coral reef. Plesiosaurs were large marine reptiles with long necks and four paddle-like flippers that lived in the age of the dinosaurs, and the first nearly complete skeleton was found in 1823 at Lyme Regis by Mary Anning. Victorian readers were fascinated by such finds. Wells uses the monster as one more image of a world before humanity, and the phrase has a comic sound which lightens the mood of the epilogue."
+  - id: "oolitic-coral-reef"
+    trigger: "Oolitic coral reef"
+    title: "The Limestone Age of Britain’s Rocks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Oolite"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator imagines the traveller on an Oolitic coral reef. Oolite is a limestone made of tiny round grains, and nineteenth-century geologists called the Jurassic limestone series of southern England the Oolitic period, from the rocks that make up the Cotswolds and Portland stone, used for St Paul’s Cathedral. The word would be familiar to Wells’s readers from geology books. Wells seems to enjoy its sound as well as its sense, and it adds to the long list of prehistoric places where the traveller might be lost."
+  - id: "triassic-age"
+    trigger: "Triassic Age"
+    title: "The Oldest Dinosaur Age on the Narrator’s Map"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Triassic"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator also imagines the traveller beside the lonely saline seas of the Triassic Age. The Triassic Period, from about 252 to 201 million years ago, was the beginning of the age of dinosaurs and of mammals, and its climate was hot and dry, with large inland salt lakes and deserts, which left red sandstones and salt deposits in England. Wells shows his geological knowledge, since he had studied with T. H. Huxley. The Triassic is the earliest of the three periods he names, which gives the narrator’s speculation a sweeping range."
   - id: "two-strange-white-flowers"
     trigger: "two strange white flowers"
     title: "What Do Weena's Flowers Symbolize?"
@@ -118,13 +167,13 @@ the little table. Then he turned over the hand holding his pipe, and I
 saw he was looking at some half-healed scars on his knuckles.
 
 The Medical Man rose, came to the lamp, and examined the flowers. “The
-gynæceum’s odd,” he said. The Psychologist leant forward to see,
+**gynæceum**’s odd,” he said. The Psychologist leant forward to see,
 holding out his hand for a specimen.
 
 “I’m hanged if it isn’t a quarter to one,” said the Journalist. “How
 shall we get home?”
 
-“Plenty of cabs at the station,” said the Psychologist.
+“**Plenty of cabs** at the station,” said the Psychologist.
 
 “It’s a curious thing,” said the Medical Man; “but I certainly don’t
 know the natural order of these flowers. May I have them?”
@@ -235,10 +284,10 @@ now, he has never returned.
 One cannot choose but wonder. Will he ever return? It may be that he
 swept back into the past, and fell among the blood-drinking, hairy
 savages of **the Age of Unpolished Stone**; into the abysses of the
-Cretaceous Sea; or among the grotesque saurians, the huge reptilian
-brutes of the Jurassic times. He may even now—if I may use the
-phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or
-beside the lonely saline seas of the Triassic Age. Or did he go
+**Cretaceous Sea**; or among the grotesque saurians, the huge reptilian
+brutes of the **Jurassic times**. He may even now—if I may use the
+phrase—be wandering on some **plesiosaurus**-haunted **Oolitic coral reef**, or
+beside the lonely saline seas of the **Triassic Age**. Or did he go
 forward, into one of the nearer ages, in which men are still men, but
 with the riddles of our own time answered and its wearisome problems
 solved? Into the manhood of the race: for I, for my own part, cannot

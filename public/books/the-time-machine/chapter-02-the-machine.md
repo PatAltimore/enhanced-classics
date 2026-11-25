@@ -36,6 +36,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller unveils the model time machine, its glittering metallic framework immediately captures the attention of his guests. The intricate design, with ivory and crystalline components, evokes the craftsmanship of fine clocks and scientific instruments of the Victorian era. During this period, precision engineering was a hallmark of technological progress, symbolizing humanity's mastery over nature and time. The machine’s delicate construction mirrors the era’s fascination with miniaturization and mechanical ingenuity, as seen in pocket watches and automata. By choosing such a design, Wells underscores the paradox of time travel: a monumental concept housed in something deceptively small. The glittering framework is not just a machine; it’s a metaphor for the fragile yet transformative power of human invention."
+  - id: "there-was-ivory-in-it"
+    trigger: "There was ivory in it"
+    title: "The Precious Material in the Model"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ivory"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator describes the little model as very delicately made, with ivory in it and some transparent crystalline substance. Ivory, from the tusks of elephants, was a Victorian luxury used for piano keys, billiard balls, knife handles and ornaments, and it was carved into delicate parts because it was dense and smooth. Using it in a scientific model suggests wealth and craftsmanship, and it matches the Time Traveller’s status as an inventor with a comfortable house in Richmond. The detail also gives the machine a strange beauty, half instrument and half jewel."
+  - id: "sconces"
+    trigger: "sconces"
+    title: "The Candlelit Room Where the Trick Was Done"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sconce_(light_fixture)"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator stresses that the room is brilliantly lit by a shaded lamp, a dozen candles, two in brass candlesticks on the mantel and several in sconces. A sconce is a wall bracket that holds candles or lamps, and it was a standard fitting in comfortable houses of the Victorian era, even after gas and electric light had arrived. The careful list of lights has a purpose: the narrator wants readers to see that no conjuror could have hidden a trick in shadows. Wells copies the manner of a witness statement to make the impossible vanishing believable."
   - id: "the-psychologist"
     trigger: "the Psychologist"
     title: "Why a Psychologist Was Key to the Scene"
@@ -43,6 +57,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Psychologist plays a pivotal role in this chapter, not just as a character but as a lens through which Wells explores perception and belief. When the Time Traveller asks him to operate the lever, it’s a deliberate choice. Psychology, as a field, was gaining prominence in the late 19th century, with figures like William James and Sigmund Freud probing the mysteries of the human mind. By involving the Psychologist, Wells subtly acknowledges the importance of understanding how people process extraordinary phenomena. The Psychologist’s eventual explanation of 'presentation below the threshold' ties the machine’s invisibility to concepts of sensory perception, grounding the fantastical in emerging scientific theories. His presence reminds readers that the marvels of time travel are as much about belief as mechanics."
+  - id: "quack"
+    trigger: "quack"
+    title: "Why the Inventor Fears Being Called a Quack"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Quackery"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says that he does not want to waste the model and then be told I’m a quack. Quackery meant false or exaggerated medical claims, and in the nineteenth century quacks sold patent medicines and devices to a gullible public. Calling a scientist a quack accused him of fraud. The remark shows how much he cares about his scientific reputation and how aware he is that his claim will be treated with scorn. It also casts him as an independent amateur with no academic backing, in a world that distrusts clever individuals."
   - id: "model-time-machine"
     trigger: "model Time Machine"
     title: "The Prototype That Changed Science Fiction Forever"
@@ -57,13 +78,6 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the model Time Machine disappears, it briefly appears as a ghostly shimmer—a moment that blends science and spectacle. This description taps into the Victorian fascination with optics and illusions, technologies that were revolutionizing entertainment and science. The 'ghost' effect could evoke phenomena like persistence of vision, where rapid motion creates the illusion of continuity, or diffraction, where light bends around objects. Wells uses this fleeting image to make the implausible seem plausible, grounding the fantastical in the language of science. The ghostly shimmer also serves as a metaphor for the ephemeral nature of time itself, a fleeting presence that can be glimpsed but never fully grasped."
-  - id: "presentation-below-the-threshold"
-    trigger: "presentation below the threshold"
-    title: "The Psychology Trick That Explains Time Travel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Threshold_(psychology)"
-    image_url: ""
-    image_caption: ""
-    content: "The Time Traveller’s explanation of 'presentation below the threshold' is a clever nod to psychological theories of perception. In the late 19th century, scientists were exploring how stimuli below the conscious threshold could still influence the mind—a precursor to modern ideas about subliminal messaging. By invoking this concept, Wells gives a scientific veneer to the machine’s invisibility, suggesting that its rapid movement through time renders it imperceptible. This idea ties into broader themes of the novel, where the boundaries of human perception are constantly challenged. The phrase also highlights the interplay between science and imagination, showing how Wells uses emerging theories to make the impossible seem plausible."
   - id: "the-laboratory"
     trigger: "the laboratory"
     title: "Where Victorian Science Met Science Fiction"
@@ -71,6 +85,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The laboratory, where the larger time machine resides, is a quintessential setting for Victorian science fiction. Laboratories were symbols of progress and discovery, places where the mysteries of nature were unraveled. Wells’s description of the room, with its flickering lamp and shadowy corners, evokes both the excitement and the eeriness of scientific exploration. The unfinished crystalline bars and detailed drawings suggest meticulous craftsmanship, grounding the fantastical machine in the real-world practices of engineering and experimentation. By situating the machine in a laboratory, Wells bridges the gap between science and fiction, making the extraordinary seem achievable. The setting also underscores the novel’s central tension: the promise of technology versus its potential to disrupt the natural order."
+  - id: "presentation-below-the-threshold"
+    trigger: "presentation below the threshold"
+    title: "The Psychology Trick That Explains Time Travel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Absolute_threshold"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller’s explanation of 'presentation below the threshold' is a clever nod to psychological theories of perception. In the late 19th century, scientists were exploring how stimuli below the conscious threshold could still influence the mind—a precursor to modern ideas about subliminal messaging. By invoking this concept, Wells gives a scientific veneer to the machine’s invisibility, suggesting that its rapid movement through time renders it imperceptible. This idea ties into broader themes of the novel, where the boundaries of human perception are constantly challenged. The phrase also highlights the interplay between science and imagination, showing how Wells uses emerging theories to make the impossible seem plausible."
+  - id: "spoke-of-a-wheel-spinning"
+    trigger: "spoke of a wheel spinning"
+    title: "Why Fast Things Seem to Disappear"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wagon-wheel_effect"
+    image_url: ""
+    image_caption: ""
+    content: "The Psychologist explains that we cannot see the machine any more than we can see the spoke of a wheel spinning, or a bullet flying through the air. A fast-moving object blurs or seems to vanish because the eye cannot follow it, and the retina holds an image for a fraction of a second. This persistence of vision was the principle behind early moving pictures. Wells uses the explanation to make the disappearance plausible, comparing it to everyday experience, and he adds the elegant idea that the machine is simply moving through time faster than we do."
+  - id: "of-nickel"
+    trigger: "of nickel"
+    title: "The Metal in the Big Machine"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nickel"
+    image_url: ""
+    image_caption: ""
+    content: "In the laboratory the full-sized machine has parts of nickel, parts of ivory and parts filed or sawn out of rock crystal. Nickel is a hard, silvery metal that does not tarnish easily, and in the 1890s it was widely used for plating and for alloys. Its bright, clean finish suited scientific instruments. The mix of nickel, ivory and crystal makes the Time Machine look like a cross between a laboratory device and a work of art, and it gives the book’s central object a distinct and memorable appearance."
+  - id: "rock-crystal"
+    trigger: "rock crystal"
+    title: "The Quartz Behind the Machine’s Bars"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Quartz"
+    image_url: ""
+    image_caption: ""
+    content: "Some of the machine’s parts were filed or sawn out of rock crystal, and the narrator picks up one of the unfinished bars and sees that it looks like quartz. Rock crystal is the clear form of quartz, a hard and common mineral that was valued for lenses, jewellery and scientific instruments, and later for the oscillators in clocks. Wells chose a material that was transparent, hard and mysterious. The twisted crystalline bars give the machine an otherworldly quality, which fits the idea that it works in a direction no one can see."
   - id: "twisted-crystalline-bars"
     trigger: "twisted crystalline bars"
     title: "Why Quartz Became the Heart of the Machine"
@@ -78,6 +120,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The twisted crystalline bars, described as quartz, are a striking detail in the construction of the larger time machine. Quartz, known for its piezoelectric properties, was a material of fascination in the 19th century, used in early experiments with electricity and optics. Its inclusion in the machine suggests a connection to energy transmission and precision, aligning with the novel’s themes of harnessing natural forces for extraordinary purposes. The twisted form adds a sense of dynamism, hinting at the machine’s ability to manipulate time’s flow. This detail not only enhances the machine’s plausibility but also reflects Wells’s ability to weave scientific intrigue into his storytelling, making the fantastical seem grounded in real-world possibilities."
+  - id: "ghost-you-showed-us-last-christmas"
+    trigger: "ghost you showed us last Christmas"
+    title: "The Stage Illusion Behind the Christmas Ghost"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pepper%27s_ghost"
+    image_url: ""
+    image_caption: ""
+    content: "The Medical Man asks whether the machine is a trick like that ghost the Time Traveller showed them last Christmas. Victorian audiences loved a technique called Pepper’s ghost, in which a hidden actor’s reflection in an angled sheet of glass makes a ghostly figure appear on stage. It was first used at the Royal Polytechnic Institution in the 1860s and became a staple of theatre and fairground shows. The remark shows that the Time Traveller has a taste for tricks, which explains why his friends distrust him."
   - id: "explore-time"
     trigger: "explore time"
     title: "What It Means to Journey Through Time"
@@ -88,7 +137,7 @@ enhancements:
 ---
 The thing the Time Traveller held in his hand was a **glittering metallic
 framework**, scarcely larger than a small clock, and very delicately
-made. There was ivory in it, and some transparent crystalline
+made. **There was ivory in it**, and some transparent crystalline
 substance. And now I must be explicit, for this that follows—unless his
 explanation is to be accepted—is an absolutely unaccountable thing. He
 took one of the small octagonal tables that were scattered about the
@@ -97,7 +146,7 @@ On this table he placed the mechanism. Then he drew up a chair, and sat
 down. The only other object on the table was a small shaded lamp, the
 bright light of which fell upon the model. There were also perhaps a
 dozen candles about, two in brass candlesticks upon the mantel and
-several in sconces, so that the room was brilliantly illuminated. I sat
+several in **sconces**, so that the room was brilliantly illuminated. I sat
 in a low arm-chair nearest the fire, and I drew this forward so as to
 be almost between the Time Traveller and the fireplace. Filby sat
 behind him, looking over his shoulder. The Medical Man and the
@@ -130,7 +179,7 @@ I am going to press the lever, and off the machine will go. It will
 vanish, pass into future Time, and disappear. Have a good look at the
 thing. Look at the table too, and satisfy yourselves there is no
 trickery. I don’t want to waste this model, and then be told I’m a
-quack.”
+**quack**.”
 
 There was a minute’s pause perhaps. The Psychologist seemed about to
 speak to me, but changed his mind. Then the Time Traveller put forth
@@ -193,8 +242,8 @@ you know, diluted presentation.”
 “Of course,” said the Psychologist, and reassured us. “That’s a simple
 point of psychology. I should have thought of it. It’s plain enough,
 and helps the paradox delightfully. We cannot see it, nor can we
-appreciate this machine, any more than we can the spoke of a wheel
-spinning, or a bullet flying through the air. If it is travelling
+appreciate this machine, any more than we can the **spoke of a wheel
+spinning**, or a bullet flying through the air. If it is travelling
 through time fifty times or a hundred times faster than we are, if it
 gets through a minute while we get through a second, the impression it
 creates will of course be only one-fiftieth or one-hundredth of what it
@@ -214,15 +263,15 @@ down the long, draughty corridor to his laboratory. I remember vividly
 the flickering light, his queer, broad head in silhouette, the dance of
 the shadows, how we all followed him, puzzled but incredulous, and how
 there in **the laboratory** we beheld a larger edition of the little
-mechanism which we had seen vanish from before our eyes. Parts were of
-nickel, parts of ivory, parts had certainly been filed or sawn out of
-rock crystal. The thing was generally complete, but the **twisted
+mechanism which we had seen vanish from before our eyes. Parts were **of
+nickel**, parts of ivory, parts had certainly been filed or sawn out of
+**rock crystal**. The thing was generally complete, but the **twisted
 crystalline bars** lay unfinished upon the bench beside some sheets of
 drawings, and I took one up for a better look at it. Quartz it seemed
 to be.
 
 “Look here,” said the Medical Man, “are you perfectly serious? Or is
-this a trick—like that ghost you showed us last Christmas?”
+this a trick—like that **ghost you showed us last Christmas**?”
 
 “Upon that machine,” said the Time Traveller, holding the lamp aloft,
 “I intend to **explore time**. Is that plain? I was never more serious in

@@ -43,6 +43,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recounts the life of Cato Ingraham, a slave who lived in Walden Woods under the permission of Duncan Ingraham, Esquire. Cato’s story is marked by his small walnut patch, which he hoped to use in old age but was ultimately taken by a younger speculator. His cellar hole, now overgrown with sumach and goldenrod, serves as a silent testament to his existence. Cato’s life reflects the harsh realities of slavery and the fleeting nature of ownership and legacy. Thoreau’s mention of Cato highlights the forgotten lives that once populated the woods, urging readers to consider the human stories behind the landscapes they traverse."
+  - id: "duncan-ingraham"
+    trigger: "Duncan Ingraham"
+    title: "The Concord Gentleman Who Held a Slave"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Slavery_in_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau tells of Cato Ingraham, slave of Duncan Ingraham, Esquire, gentleman, of Concord village, who built his slave a house and gave him permission to live in Walden Woods. Slavery existed in colonial Massachusetts, where several thousand people were held, including in Concord, and it ended in the 1780s, after court rulings under the new state constitution. Thoreau, an abolitionist who sheltered fugitive slaves, includes the story of the former enslaved people of Walden woods as part of the local history. The passage reminds readers of the North’s share in slavery."
+  - id: "cato-not-uticensis"
+    trigger: "Cato, not Uticensis"
+    title: "The Roman Name Given to a Slave"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cato_the_Younger"
+    image_url: ""
+    image_caption: ""
+    content: "Of Cato Ingraham, Thoreau remarks: Cato, not Uticensis, but Concordiensis. Cato Uticensis was Cato the Younger, the Roman senator who killed himself at Utica in 46 BC rather than live under Caesar, and who became a model of republican virtue, much admired in revolutionary America. Slaveholders in New England often gave their enslaved people classical names such as Cato, Caesar and Scipio. Thoreau’s joke, with its Latin pun, points to the irony of giving a man the name of a champion of liberty while denying him his own."
+  - id: "zilpha"
+    trigger: "Zilpha"
+    title: "The Woman Who Spun Linen in the Woods"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Linen"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that, by the corner of his field, Zilpha, a colored woman, had her little house, where she spun linen for the townsfolk. Zilpha White, who was Black, lived near Walden Pond in the early 1800s, and her house was burned down during the War of 1812, by a group of British prisoners, so Thoreau says. Linen, the cloth made from flax fibre, was spun and woven at home by many New England women. Thoreau remembers her with sympathy, in a series of portraits of people who had lived on the pond’s edge and left only a cellar hole."
+  - id: "squire-cummings"
+    trigger: "Squire Cummings"
+    title: "The Landowner Who Once Held Brister Freeman"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Woods"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau tells of Brister Freeman, a handy Negro, slave of Squire Cummings once, who lived on Brister’s Hill where the apple trees he planted still grow. Brister had been freed and had settled in the woods, as several formerly enslaved people had, with the permission of a landowner. The hill still bears his name in the Walden Woods. Thoreau notes that Brister’s apple trees are old and wild now, and are the only memorial to him, which shows his interest in the traces that ordinary lives leave on a landscape."
   - id: "scipio-africanus-a-name-with-a-story"
     trigger: "Scipio Africanus"
     title: "Why Brister Freeman Was Called Scipio Africanus"
@@ -50,6 +78,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau notes that Brister Freeman was referred to as 'Scipio Africanus,' a name evoking the famed Roman general who defeated Hannibal. The epitaph in Lincoln’s burying-ground immortalizes Freeman’s life, though the name carries an ironic weight. Freeman, a man of color, lived in a society that often reduced individuals to labels rather than recognizing their humanity. The use of this grand name contrasts with the humble reality of Freeman’s life, planting apple trees and living on Brister’s Hill. Thoreau’s reflection on this name underscores his broader critique of societal inequalities and the ways history remembers—or forgets—its marginalized figures."
+  - id: "new-england-rum"
+    trigger: "New-England Rum"
+    title: "The Spirit That Robs the Whole Family"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rum"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes a figure who first comes in the guise of a friend or hired man, and then robs and murders the whole family, New-England Rum. New England distilleries made rum from molasses imported from the West Indies, and it was cheap and widely drunk in the eighteenth and early nineteenth centuries, before the temperance movement. Thoreau’s personification of rum as a character in a tragedy, a hidden villain behind the sorrows of the former inhabitants, gives the chapter a darker turn. He lets the reader guess at what drink did to the poor families in the woods."
   - id: "breeds-hut-a-burning-memory"
     trigger: "Breed’s hut"
     title: "The Election Night Fire That Ended Breed’s Hut"
@@ -57,6 +92,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Breed’s hut, once standing near Thoreau’s home, was burned down by mischievous boys on an Election night. Thoreau vividly recounts the chaotic scene, with engines and townsfolk rushing to the fire, only to find the hut too far gone to save. The hut’s destruction symbolizes the transient nature of human dwellings and the often careless forces that erase history. Thoreau’s detailed observation of the fire and its aftermath reflects his deep engagement with the impermanence of human endeavors and the enduring presence of nature, which quietly absorbs these losses into its landscape."
+  - id: "gondibert"
+    trigger: "Gondibert"
+    title: "The Epic Poem That Put Thoreau to Sleep"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Davenant"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he had just lost himself over Davenant’s Gondibert, that winter that he laboured with a lethargy. Sir William Davenant, an English poet and playwright who was thought to be Shakespeare’s godson, wrote Gondibert, an unfinished heroic poem of 1651 in quatrains, which was mocked even in its own time for being long and dull. Thoreau’s choice of reading is a joke, since the book is famous for making readers fall asleep. It explains how a boredom with his own mind led to his being woken by the village bells."
+  - id: "chalmers-collection-of-english-poetry"
+    trigger: "Chalmers’ collection of English poetry"
+    title: "The Twenty-One Volumes Thoreau Tried to Read"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alexander_Chalmers"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that he tried to read Chalmers’ collection of English poetry without skipping. Alexander Chalmers, a Scottish editor, published The Works of the English Poets, from Chaucer to Cowper in twenty-one volumes in 1810, a huge anthology that included many minor poets whom no one reads today, and it stood on the shelves of well-furnished libraries. Thoreau, who loved poetry but disliked padding, found the reading a labour. The sentence is a small confession of the limits of dutiful reading."
+  - id: "nervii"
+    trigger: "Nervii"
+    title: "A Pun on Nerves and a Roman Enemy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nervii"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that reading Chalmers’ poets without skipping fairly overcame his Nervii. The Nervii were a fierce Belgic tribe that fought Julius Caesar in 57 BC and nearly defeated his legions at the Sabis, and Caesar wrote of them in his Gallic Wars. Thoreau puns on the Latin nervi, nerves, and on Caesar’s hard foe, so that his nerves are the tribe overcome. The joke is a schoolboy’s learned wit, and it tells how drowsy he was, and how little poetry could do against sleep."
   - id: "frog-pond-a-symbol-of-hope-and-futility"
     trigger: "frog-pond"
     title: "Could a Frog-Pond Have Saved Breed’s Hut?"
@@ -64,10 +120,45 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "During the fire at Breed’s hut, Thoreau and the townsfolk briefly considered using a nearby frog-pond to extinguish the flames. The idea was quickly abandoned, as the hut was deemed too worthless to save. This moment captures the tension between human effort and the inevitability of loss. The frog-pond, a humble feature of the landscape, becomes a symbol of both hope and futility. Thoreau’s reflection on this incident ties into his broader themes of human ambition and the quiet resilience of nature, which continues undisturbed even as human structures fall."
+  - id: "wyman-the-potter"
+    trigger: "Wyman the potter"
+    title: "The Potter Who Squatted by the Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pottery"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that farther in the woods, where the road approaches nearest to the pond, Wyman the potter squatted, and furnished his townsmen with earthenware. Potters in New England made redware from local clay, producing jugs, pots and dishes for farm households, before cheap factory goods took over the trade. Thoreau was pleased to hear that so fictile an art was ever practised in the neighbourhood. After the potter’s death the family’s house was left to decay, and Thoreau’s mention gives him a place in the history of the woods."
+  - id: "hugh-quoil"
+    trigger: "Hugh Quoil"
+    title: "The Irish Soldier Who Lived Alone by the Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Irish_diaspora"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the last inhabitant of these woods before him, an Irishman, Hugh Quoil, if I have spelt his name with coil enough, who occupied Wyman’s tenement and was called Colonel Quoil. Irish emigrants came to Massachusetts in great numbers from the 1820s to the 1850s, and many were poor labourers who lived in shanties. Quoil, a heavy drinker, died soon after Thoreau came to the woods, and his few possessions were left in his hut. Thoreau’s sympathetic account of him, with its pun on his name, is among the most touching passages of the book."
+  - id: "waterloo"
+    trigger: "Waterloo"
+    title: "The Battle Quoil Was Said to Have Fought"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Battle_of_Waterloo"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that rumor said that Quoil had been a soldier at Waterloo, and that if he had lived Thoreau would have made him fight his battles over again. The Battle of Waterloo, fought in Belgium on 18 June 1815, ended Napoleon’s rule and made the Duke of Wellington a national hero, and thousands of veterans told stories of it for the rest of their lives. The rumour gave Quoil a trace of glory in his poor life. Thoreau treats his claim with respect, because he would have liked to hear the story."
+  - id: "brister-s-spring"
+    trigger: "Brister’s Spring"
+    title: "The Freeman’s Spring That Still Runs"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spring_(hydrology)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau notes the spring associated with Brister Freeman, a clear flow below the hill, which still bears his name. A spring is a place where groundwater comes naturally to the surface, and in a time before piped water, such springs decided where people could live. A spring outlasts a house, and so it keeps the name of the person who used it. Thoreau, who was fond of wells and springs, treats Brister’s Spring as a living memorial, and uses it to show how names of places preserve small histories."
+  - id: "vivacious-lilac-the-survivor-of-a-lost-village"
+    trigger: "vivacious lilac"
+    title: "The Lilac That Outlived Its Planters"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lilac"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau marvels at the 'vivacious lilac,' a plant that continues to bloom long after the houses and families that nurtured it have vanished. The lilac, planted by children’s hands, stands as a living memorial to the past, its flowers unfolding each spring with undiminished beauty. This enduring presence contrasts with the transient lives of the former inhabitants of Walden Woods. Thoreau’s reflection on the lilac captures his fascination with nature’s resilience and its ability to preserve memory in ways that human structures cannot. The lilac becomes a poignant symbol of continuity and the quiet persistence of life."
   - id: "the-great-snow-a-winter-to-remember"
     trigger: "The Great Snow"
     title: "The Winter That Buried New England"
-    wikipedia_url: "https://en.wikipedia.org/wiki/1717_New_England_snowstorm"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Snow_of_1717"
     image_url: ""
     image_caption: ""
     content: "Thoreau recalls 'The Great Snow,' a legendary storm that buried New England in 1717. He describes how farmers cut trees ten feet above the ground and settlers were trapped in their homes, discovered only by chimney smoke. This historical anecdote serves as a backdrop for Thoreau’s own winter isolation at Walden Pond. The Great Snow becomes a metaphor for resilience and adaptation, as Thoreau navigates his snowy paths and finds beauty in the stark winter landscape. His connection to this historical event underscores his fascination with the interplay between human survival and the forces of nature."
@@ -99,13 +190,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau speaks of a philosopher from Connecticut who visited him during his last winter at Walden Pond. This man, described as having unshakable faith and a hospitable intellect, embodies the ideals of progress and human potential. Connecticut, known for its intellectual and industrial contributions, serves as a fitting origin for this figure. Thoreau’s admiration for the philosopher reflects his own aspirations for a better state of humanity and his belief in the transformative power of ideas. Their conversations, filled with wit and depth, expand the philosophical scope of Thoreau’s experiment in living deliberately."
-  - id: "vivacious-lilac-the-survivor-of-a-lost-village"
-    trigger: "vivacious lilac"
-    title: "The Lilac That Outlived Its Planters"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Lilac"
+  - id: "old-mortality"
+    trigger: "Old Mortality"
+    title: "The Tombstone Cutter Who Became a Symbol"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Old_Mortality"
     image_url: ""
     image_caption: ""
-    content: "Thoreau marvels at the 'vivacious lilac,' a plant that continues to bloom long after the houses and families that nurtured it have vanished. The lilac, planted by children’s hands, stands as a living memorial to the past, its flowers unfolding each spring with undiminished beauty. This enduring presence contrasts with the transient lives of the former inhabitants of Walden Woods. Thoreau’s reflection on the lilac captures his fascination with nature’s resilience and its ability to preserve memory in ways that human structures cannot. The lilac becomes a poignant symbol of continuity and the quiet persistence of life."
+    content: "Thoreau calls a friend of man an Old Mortality, say rather an Immortality, with unwearied patience and faith making plain the image engraved in men’s bodies. Old Mortality is the title of Walter Scott’s novel of 1816, based on Robert Paterson, a Scottish stonemason who spent his life travelling to renew the weathered gravestones of Covenanter martyrs. Thoreau adapts the figure, as a person who restores the true image of humanity. The words pay tribute to a person who works unrecognised for the good of others."
   - id: "new-england-nights-entertainment-a-philosopher-s-discourse"
     trigger: "New England Night’s Entertainment"
     title: "What Made Thoreau’s Winter Nights Unforgettable"
@@ -148,9 +239,9 @@ the present dusty highway, from the Stratton, now the Alms House, Farm,
 to **Brister’s Hill**.
 
 East of my bean-field, across the road, lived **Cato Ingraham**, slave of
-Duncan Ingraham, Esquire, gentleman, of Concord village, who built his
-slave a house, and gave him permission to live in Walden Woods;—Cato,
-not Uticensis, but Concordiensis. Some say that he was a Guinea Negro.
+**Duncan Ingraham**, Esquire, gentleman, of Concord village, who built his
+slave a house, and gave him permission to live in Walden Woods;—**Cato,
+not Uticensis**, but Concordiensis. Some say that he was a Guinea Negro.
 There are a few who remember his little patch among the walnuts, which
 he let grow up till he should be old and need them; but a younger and
 whiter speculator got them at last. He too, however, occupies an
@@ -160,7 +251,7 @@ by a fringe of pines. It is now filled with the smooth sumach (_Rhus
 glabra_,) and one of the earliest species of golden-rod (_Solidago
 stricta_) grows there luxuriantly.
 
-Here, by the very corner of my field, still nearer to town, Zilpha, a
+Here, by the very corner of my field, still nearer to town, **Zilpha**, a
 colored woman, had her little house, where she spun linen for the
 townsfolk, making the Walden Woods ring with her shrill singing, for
 she had a loud and notable voice. At length, in the war of 1812, her
@@ -172,7 +263,7 @@ muttering to herself over her gurgling pot,—“Ye are all bones, bones!”
 I have seen bricks amid the oak copse there.
 
 Down the road, on the right hand, on Brister’s Hill, lived Brister
-Freeman, “a handy Negro,” slave of Squire Cummings once,—there where
+Freeman, “a handy Negro,” slave of **Squire Cummings** once,—there where
 grow still the apple-trees which Brister planted and tended; large old
 trees now, but their fruit still wild and ciderish to my taste. Not
 long since I read his epitaph in the old Lincoln burying-ground, a
@@ -198,7 +289,7 @@ a demon not distinctly named in old mythology, who has acted a
 prominent and astounding part in our New England life, and deserves, as
 much as any mythological character, to have his biography written one
 day; who first comes in the guise of a friend or hired man, and then
-robs and murders the whole family,—New-England Rum. But history must
+robs and murders the whole family,—**New-England Rum**. But history must
 not yet tell the tragedies enacted here; let time intervene in some
 measure to assuage and lend an azure tint to them. Here the most
 indistinct and dubious tradition says that once a tavern stood; the
@@ -210,13 +301,13 @@ news, and went their ways again.
 been unoccupied. It was about the size of mine. It was set on fire by
 mischievous boys, one Election night, if I do not mistake. I lived on
 the edge of the village then, and had just lost myself over Davenant’s
-Gondibert, that winter that I labored with a lethargy,—which, by the
+**Gondibert**, that winter that I labored with a lethargy,—which, by the
 way, I never knew whether to regard as a family complaint, having an
 uncle who goes to sleep shaving himself, and is obliged to sprout
 potatoes in a cellar Sundays, in order to keep awake and keep the
-Sabbath, or as the consequence of my attempt to read Chalmers’
-collection of English poetry without skipping. It fairly overcame my
-Nervii. I had just sunk my head on this when the bells rung fire, and
+Sabbath, or as the consequence of my attempt to read **Chalmers’
+collection of English poetry** without skipping. It fairly overcame my
+**Nervii**. I had just sunk my head on this when the bells rung fire, and
 in hot haste the engines rolled that way, led by a straggling troop of
 men and boys, and I among the foremost, for I had leaped the brook. We
 thought it was far south over the woods,—we who had run to fires
@@ -287,10 +378,10 @@ that the pots we use were not such as had come down unbroken from those
 days, or grown on trees like gourds somewhere, and I was pleased to
 hear that so fictile an art was ever practiced in my neighborhood.
 
-The last inhabitant of these woods before me was an Irishman, Hugh
-Quoil (if I have spelt his name with coil enough,) who occupied Wyman’s
+The last inhabitant of these woods before me was an Irishman, **Hugh
+Quoil** (if I have spelt his name with coil enough,) who occupied Wyman’s
 tenement,—Col. Quoil, he was called. Rumor said that he had been a
-soldier at Waterloo. If he had lived I should have made him fight his
+soldier at **Waterloo**. If he had lived I should have made him fight his
 battles over again. His trade here was that of a ditcher. Napoleon went
 to St. Helena; Quoil came to Walden Woods. All I know of him is tragic.
 He was a man of manners, like one who had seen the world, and was
@@ -489,8 +580,8 @@ families and rulers will come to him for advice.—
      “How blind that cannot see serenity!”
 
 
-A true friend of man; almost the only friend of human progress. An Old
-Mortality, say rather an Immortality, with unwearied patience and faith
+A true friend of man; almost the only friend of human progress. An **Old
+Mortality**, say rather an Immortality, with unwearied patience and faith
 making plain the image engraven in men’s bodies, the God of whom they
 are but defaced and leaning monuments. With his hospitable intellect he
 embraces children, beggars, insane, and scholars, and entertains the

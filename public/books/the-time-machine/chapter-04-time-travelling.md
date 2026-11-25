@@ -33,6 +33,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller grips the starting lever, he initiates his journey into the unknown—a moment charged with both anticipation and dread. The lever, a simple mechanical device, symbolizes control over the vast and uncontrollable dimension of time. Levers have been fundamental to engineering since ancient civilizations, from Archimedes' principle of leverage to their use in modern machinery. In Wells' narrative, the lever is not just a tool but a metaphor for humanity's audacious attempt to manipulate natural laws. By anchoring the fantastical concept of time travel to a tangible, everyday object, Wells grounds his story in a sense of plausibility. The lever's simplicity contrasts sharply with the complexity of the Time Machine itself, emphasizing the paradox of human ingenuity: profound advancements often hinge on the simplest mechanisms."
+  - id: "nightmare-sensation-of-falling"
+    trigger: "nightmare sensation of falling"
+    title: "The Falling Feeling at the Start of the Journey"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hypnic_jerk"
+    image_url: ""
+    image_caption: ""
+    content: "As the machine starts, the Time Traveller seems to reel and feels a nightmare sensation of falling. Many people know the feeling of a sudden drop just as they fall asleep, which doctors call a hypnic jerk, and it is often accompanied by a dream of tumbling. Wells uses a common bodily experience to make the unfamiliar sensation of time travel easy to imagine. He also sets the tone for the whole journey, in which the traveller is helpless, and the mixture of dream and physical fear is typical of the way he writes about the machine."
   - id: "peculiar-sensations-time-travelling"
     trigger: "peculiar sensations of time travelling"
     title: "What Does Time Travel Feel Like?"
@@ -40,6 +47,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller describes the sensations of time travel as deeply unsettling, likening them to the helpless motion of a switchback ride. This vivid imagery captures the disorientation and physical unease of moving through time at unnatural speeds. While time travel remains a speculative concept, physicists have explored its theoretical implications through Einstein's theory of relativity, which suggests that time dilation occurs at high velocities. Wells, however, focuses on the human experience—how such a journey might feel rather than the mechanics behind it. By emphasizing the visceral discomfort, Wells underscores the alien nature of time travel, making it a psychological as well as a physical challenge. This focus on sensation invites readers to imagine themselves in the Traveller's position, heightening the immediacy of the narrative."
+  - id: "switchback"
+    trigger: "switchback"
+    title: "The Fairground Ride That Explains Time Travel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Roller_coaster"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says the feeling of time travelling is exactly like that one has upon a switchback, a helpless headlong motion with the horrible anticipation of an imminent smash. A switchback railway was an early roller coaster, with a track of steep dips and rises, and these rides were popular at seaside resorts and amusement parks in Britain and America in the 1880s and 1890s. Wells picks a thrill his readers had actually felt to describe a thing no one had felt, and the comparison keeps the extraordinary journey close to ordinary life."
+  - id: "dials-that-registered-my-speed"
+    trigger: "dials that registered my speed"
+    title: "The Gauges That Count the Years"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Speedometer"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller watches the little hands upon the dials that registered his speed race round faster and faster. A machine with dials gave the story a convincing, technical flavour, since Victorian readers were used to steam engines and ships with pressure gauges, and the first speedometers for motor vehicles were being made at the end of the century. The dials let him calculate that he is travelling over a year a minute, and later they show the date as 802,701. Wells makes a fantastic machine believable by giving it instruments that readers could imagine reading."
   - id: "sun-belt-swayed-solstice"
     trigger: "the sun belt swayed"
     title: "Why the Sun's Path Changes Across Seasons"
@@ -47,6 +68,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the Time Traveller accelerates through time, he notices the sun belt swaying rapidly from solstice to solstice—a visual representation of Earth's axial tilt and orbital motion. The solstices, marking the longest and shortest days of the year, occur because Earth's axis is tilted relative to its orbit around the sun. This tilt creates the seasonal variations we experience, with the sun appearing higher or lower in the sky depending on the time of year. Wells uses this astronomical phenomenon to illustrate the dizzying pace of time travel, compressing years into minutes. The swaying sun belt serves as a reminder of the natural rhythms that govern life on Earth, rhythms that become almost incomprehensible when viewed through the lens of accelerated time."
+  - id: "solstice-to-solstice"
+    trigger: "solstice to solstice"
+    title: "How the Sun Marks the Years Flying By"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Solstice"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller notices that the sun belt swayed up and down from solstice to solstice in a minute or less, and so his pace was over a year a minute. A solstice is one of the two days each year when the sun reaches its highest or lowest point in the sky, around 21 June and 21 December in the northern hemisphere. By watching the sun’s path swing between those extremes, he turns the sky into a speedometer. The vivid image of the sun sweeping up and down gives readers a clear idea of the speed."
   - id: "great-splendid-architecture"
     trigger: "great and splendid architecture"
     title: "Imagining the Future's Monumental Structures"
@@ -61,6 +89,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller fears that stopping the machine might cause a profound chemical reaction, potentially resulting in an explosion. This concern stems from the idea that his atoms could collide with those of an obstacle, creating an unpredictable molecular interaction. While this scenario is fictional, it reflects real scientific principles: chemical reactions occur when atoms or molecules interact, often releasing energy. Wells uses this concept to heighten the tension and stakes of time travel, blending scientific plausibility with speculative fiction. The risk of such a catastrophic event underscores the dangers of tampering with natural laws, a recurring theme in Wells' work. It also serves as a metaphor for the unforeseen consequences of technological innovation—a cautionary note in the midst of the story's adventurous tone."
+  - id: "rhododendron-bushes"
+    trigger: "rhododendron bushes"
+    title: "The Himalayan Shrubs in the Future Garden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Rhododendron"
+    image_url: ""
+    image_caption: ""
+    content: "When the Time Traveller lands, he finds himself on a little lawn in a garden surrounded by rhododendron bushes whose mauve and purple blossoms are dropping under the hail. Rhododendrons were brought to Britain from the Himalayas and the Caucasus in the nineteenth century, and they became one of the most fashionable shrubs in Victorian parkland gardens. Finding them in the far future is a reassuring familiar touch, and it shows that the place is still the English countryside, only transformed. It also sets up the contrast with the strange society he is about to meet."
+  - id: "silver-birch-tree"
+    trigger: "silver birch-tree"
+    title: "A Birch Tree That Measures the Sphinx"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Betula_pendula"
+    image_url: ""
+    image_caption: ""
+    content: "The statue is very large, for a silver birch-tree touches its shoulder. The silver birch, with its white bark and drooping branches, is one of the most common native trees of Britain, and it grows quickly to a height of about twenty metres. Wells uses the tree as a scale: a familiar tree gives the reader a sense of the huge, hovering white sphinx. The mention also tells us that the climate and the vegetation of Richmond are still recognisably English, even after 800,000 years, though the garden has become wild and strange."
   - id: "winged-sphinx-statue"
     trigger: "winged sphinx"
     title: "Why a Sphinx Guards the Future's Secrets"
@@ -68,6 +110,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller encounters a colossal statue resembling a winged sphinx, its enigmatic smile and weather-worn features adding to the mystery of the future world. The sphinx, a mythical creature with the body of a lion and the head of a human, has long symbolized riddles and hidden knowledge. In ancient Greek mythology, the sphinx posed a deadly riddle to travelers, while in Egyptian culture, it represented guardianship and power. Wells' choice of a sphinx as a prominent feature in the future landscape suggests that humanity's destiny is shrouded in mystery, with answers that may be as elusive as the creature itself. The statue's decay hints at the passage of time and the impermanence of even the most monumental achievements, setting the stage for the Traveller's exploration of this strange new world."
+  - id: "verdigris"
+    trigger: "verdigris"
+    title: "The Green Crust on the Sphinx’s Pedestal"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Verdigris"
+    image_url: ""
+    image_caption: ""
+    content: "The pedestal of the White Sphinx is of bronze and thick with verdigris. Verdigris is the green or blue-green coating that forms on copper, brass and bronze when they are exposed to air and moisture for a long time. Wells uses the detail to show how old the statue is, since a bronze base would take decades or centuries to turn green. Together with the weather-worn marble, which gives an unpleasant suggestion of disease, it shows that the sphinx has stood in the garden for a very long time, and that it has been neglected."
   - id: "huge-buildings-intricate-parapets"
     trigger: "huge buildings with intricate parapets"
     title: "What Future Cities Might Look Like"
@@ -82,6 +131,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The first humanoid creature the Time Traveller encounters wears a purple tunic, a detail that carries historical significance. Purple has long been associated with royalty and power due to the rarity and expense of Tyrian purple dye, derived from sea snails in ancient times. Its exclusivity made it a symbol of wealth and status, reserved for emperors and elites. In Wells' future world, the use of purple might suggest a lingering cultural memory of its significance or a new interpretation of its meaning. The creature's frailty and beauty contrast sharply with the historical connotations of strength and authority tied to the color, adding to the sense of disorientation and mystery in this unfamiliar world. This juxtaposition invites readers to question how symbols and meanings evolve over time."
+  - id: "consumptive"
+    trigger: "consumptive"
+    title: "The Fashionable Pallor of a Sick Age"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tuberculosis"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says the flushed face of the first Eloi reminds him of the more beautiful kind of consumptive, with that hectic beauty of which people used to hear so much. Consumption was the Victorian name for tuberculosis, a lung disease that killed a large share of young adults, and its sufferers often had bright, flushed cheeks and a delicate look that poets and painters romanticised. By comparing the Eloi to invalids, Wells hints at their frailty, and he prepares us to learn that the beauty of this age is a weakness."
 ---
 “I told some of you last Thursday of the principles of the Time
 Machine, and showed you the actual thing itself, incomplete in the
@@ -97,8 +153,8 @@ oil on the quartz rod, and sat myself in the saddle. I suppose a
 suicide who holds a pistol to his skull feels much the same wonder at
 what will come next as I felt then. I took **the starting lever** in one
 hand and the stopping one in the other, pressed the first, and almost
-immediately the second. I seemed to reel; I felt a nightmare sensation
-of falling; and, looking round, I saw the laboratory exactly as before.
+immediately the second. I seemed to reel; I felt a **nightmare sensation
+of falling**; and, looking round, I saw the laboratory exactly as before.
 Had anything happened? For a moment I suspected that my intellect had
 tricked me. Then I noted the clock. A moment before, as it seemed, it
 had stood at a minute or so past ten; now it was nearly half-past
@@ -118,7 +174,7 @@ confusedness descended on my mind.
 
 “I am afraid I cannot convey the **peculiar sensations of time
 travelling**. They are excessively unpleasant. There is a feeling exactly
-like that one has upon a switchback—of a helpless headlong motion! I
+like that one has upon a **switchback**—of a helpless headlong motion! I
 felt the same horrible anticipation, too, of an imminent smash. As I
 put on pace, night followed day like the flapping of a black wing. The
 dim suggestion of the laboratory seemed presently to fall away from me,
@@ -144,9 +200,9 @@ dim. I saw trees growing and changing like puffs of vapour, now brown,
 now green; they grew, spread, shivered, and passed away. I saw huge
 buildings rise up faint and fair, and pass like dreams. The whole
 surface of the earth seemed changed—melting and flowing under my eyes.
-The little hands upon the dials that registered my speed raced round
+The little hands upon the **dials that registered my speed** raced round
 faster and faster. Presently I noted that **the sun belt swayed** up and
-down, from solstice to solstice, in a minute or less, and that
+down, from **solstice to solstice**, in a minute or less, and that
 consequently my pace was over a year a minute; and minute by minute the
 white snow flashed across the world, and vanished, and was followed by
 the bright, brief green of spring.
@@ -196,7 +252,7 @@ stunned for a moment. A pitiless hail was hissing round me, and I was
 sitting on soft turf in front of the overset machine. Everything still
 seemed grey, but presently I remarked that the confusion in my ears was
 gone. I looked round me. I was on what seemed to be a little lawn in a
-garden, surrounded by rhododendron bushes, and I noticed that their
+garden, surrounded by **rhododendron bushes**, and I noticed that their
 mauve and purple blossoms were dropping in a shower under the beating
 of the hailstones. The rebounding, dancing hail hung in a little cloud
 over the machine, and drove along the ground like smoke. In a moment I
@@ -210,11 +266,11 @@ downpour. But all else of the world was invisible.
 
 “My sensations would be hard to describe. As the columns of hail grew
 thinner, I saw the white figure more distinctly. It was very large, for
-a silver birch-tree touched its shoulder. It was of white marble, in
+a **silver birch-tree** touched its shoulder. It was of white marble, in
 shape something like a **winged sphinx**, but the wings, instead of being
 carried vertically at the sides, were spread so that it seemed to
 hover. The pedestal, it appeared to me, was of bronze, and was thick
-with verdigris. It chanced that the face was towards me; the sightless
+with **verdigris**. It chanced that the face was towards me; the sightless
 eyes seemed to watch me; there was the faint shadow of a smile on the
 lips. It was greatly weather-worn, and that imparted an unpleasant
 suggestion of disease. I stood looking at it for a little space—half a
@@ -268,6 +324,6 @@ that, I noticed for the first time how warm the air was.
 
 “He struck me as being a very beautiful and graceful creature, but
 indescribably frail. His flushed face reminded me of the more beautiful
-kind of consumptive—that hectic beauty of which we used to hear so
+kind of **consumptive**—that hectic beauty of which we used to hear so
 much. At the sight of him I suddenly regained confidence. I took my
 hands from the machine.

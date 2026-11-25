@@ -29,6 +29,13 @@ summary:
     link_label: "Dystopia"
 
 enhancements:
+  - id: "tree-ferns"
+    trigger: "tree ferns"
+    title: "Tropical Plants on an English Hill"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tree_fern"
+    image_url: ""
+    image_caption: ""
+    content: "From every hill he climbs, the Time Traveller sees the same clustering thickets of evergreens and the same blossom-laden trees and tree ferns. Tree ferns are tall tropical and subtropical plants that grow in warm, damp places, and they are found in Australia and New Zealand, among other places. Seeing them in the English landscape shows that the climate of 802,701 is much warmer than that of the nineteenth century. Wells makes a similar point when he guesses that the sun is hotter or the earth nearer, and the lush plants add to the sense of a world made into a garden."
   - id: "circular-wells-subterranean-secrets"
     trigger: "circular wells"
     title: "What Lies Beneath These Mysterious Wells?"
@@ -36,6 +43,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the narrator stumbles upon circular wells rimmed with bronze and capped with cupolas, he is struck by their peculiar design and the steady thud of air currents within. These wells are not mere architectural curiosities—they hint at an extensive subterranean world. The concept of underground ventilation systems dates back centuries, with ancient civilizations like the Romans using similar designs to cool their buildings. But here, Wells imagines a future where such systems serve a darker purpose. The wells are not just functional; they are ominous gateways to the hidden realm of the Morlocks. By introducing these wells, Wells builds suspense and foreshadows the unsettling revelations about humanity's evolution. They symbolize the divide between the surface's idyllic beauty and the grim realities below."
+  - id: "visions-of-utopias"
+    trigger: "visions of Utopias"
+    title: "The Utopian Books Wells Is Teasing"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Utopia"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says that in some of these visions of Utopias and coming times which he has read, there is a vast amount of detail about building and social arrangements. Utopian fiction was very popular in the 1880s and 1890s, especially Edward Bellamy’s Looking Backward of 1888 and William Morris’s News from Nowhere of 1890, which described happy future societies. Wells, who thought such books too tidy, makes his narrator admit that a real traveller would see little. The remark sets his story against the genre, and it prepares his bleaker picture."
+  - id: "postal-orders"
+    trigger: "postal orders"
+    title: "The Victorian Money Order in a Thought Experiment"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Postal_order"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller imagines what a visitor from Central Africa would make of London, with its railway companies, telephone and telegraph wires, the Parcels Delivery Company and postal orders. The British postal order was introduced in 1881 as a safe way to send small sums of money by post, and it was widely used by people without bank accounts. He chooses the list of ordinary Victorian conveniences to show how hard it is to explain a whole society to an outsider. The comparison explains why his own account of the future must be incomplete."
   - id: "golden-age-future-humanity"
     trigger: "Golden Age"
     title: "Is This Really Humanity's Golden Age?"
@@ -43,6 +64,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator refers to the distant future as a 'Golden Age,' but his observations quickly challenge this notion. Historically, the term 'Golden Age' evokes periods of peace, prosperity, and cultural flourishing, such as ancient Greece's era of Pericles. Yet, in Wells's vision, this future is marked by stagnation and decay. The Eloi, though superficially beautiful, lack intelligence and vitality, while the Morlocks toil in darkness. By invoking the idea of a Golden Age, Wells sets up a bitter irony: humanity's triumph over nature has led not to enlightenment but to degeneration. This contrast underscores the novel's critique of unchecked progress and social inequality."
+  - id: "crematoria"
+    trigger: "crematoria"
+    title: "The Missing Cemeteries of the Future"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cremation"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller notices that he can see no signs of crematoria or anything suggestive of tombs. Cremation was a new and controversial idea in Britain, where the first crematorium opened at Woking in 1885 and the practice was legalised by an Act of 1902, and some progressive thinkers favoured it as hygienic. His curiosity about burial leads him to notice that there are no aged or infirm among the Eloi. The puzzle is a clue, since the bodies of the dead have a different fate in the world he is discovering."
   - id: "the-white-sphinx-enigma"
     trigger: "the White Sphinx"
     title: "Why Does the Time Machine Hide Here?"
@@ -50,6 +78,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator's Time Machine is mysteriously taken into the hollow pedestal of the White Sphinx, a striking symbol in the landscape. The Sphinx, a creature from mythology known for its riddles, embodies mystery and foreboding. In Wells's narrative, it becomes a literal and figurative puzzle, guarding the secrets of the Morlocks and the Eloi. The choice of a Sphinx as the centerpiece of this future world suggests that humanity's fate is as enigmatic as the riddles of ancient Egypt. By placing the Time Machine here, Wells emphasizes the theme of discovery and the perilous journey into the unknown."
+  - id: "weena"
+    trigger: "Weena"
+    title: "The Gentle Companion Who Gives Warmth to the Story"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller rescues a bathing Eloi from drowning, and she gives him a garland and tells him that her name is Weena. She is the only person in the book to show him real affection, and she is childlike in size and manner, so that he treats her more like a child than a lover. Wells uses her to give the story an emotional centre amid the ideas. Her fear of the dark is the first clear sign of the Morlock threat, and the bond between them will matter later in the story."
+  - id: "sea-anemones"
+    trigger: "sea anemones"
+    title: "The Nightmare of Soft Feelers on His Face"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sea_anemone"
+    image_url: ""
+    image_caption: ""
+    content: "The night before Weena’s rescue, the Time Traveller dreams most disagreeably that he is drowned and that sea anemones are feeling over his face with their soft palps. Sea anemones are soft-bodied animals related to jellyfish that catch food with stinging tentacles. Wells, who was a trained biologist, uses a zoological image for a dream that is also a warning. In his sleep the creeping touch is the touch of the Morlocks, who have been entering the sleeping hall, and the dream makes the threat more disturbing."
   - id: "ape-like-creature-dark-revelation"
     trigger: "ape-like creature"
     title: "What Are These Haunting Figures?"
@@ -57,6 +99,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator's first glimpse of the Morlocks—a pale, ape-like creature darting through ruins—shatters his assumptions about the future. These beings, with their large eyes and nocturnal habits, evoke the unsettling traits of cave-dwelling animals. The Morlocks are a chilling manifestation of humanity's potential to adapt and degrade under extreme conditions. Their appearance contrasts sharply with the Eloi's delicate beauty, highlighting the novel's exploration of social and biological divergence. This moment marks the beginning of the narrator's deeper understanding of the dystopian reality beneath the surface."
+  - id: "grant-allen"
+    trigger: "Grant Allen"
+    title: "The Writer Whose Ghost Joke Amuses the Traveller"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Grant_Allen"
+    image_url: ""
+    image_caption: ""
+    content: "Seeing white figures at dawn, the Time Traveller recalls a queer notion of Grant Allen’s, that if each generation leaves ghosts, the world will at last be overcrowded with them. Grant Allen was a Canadian-born British writer of science popularisations, novels and short stories, who wrote on evolution and was a friend of Wells. His joke is a typical piece of the period’s scientific humour. The Traveller’s quick wit shows how he tries to treat the strange sight as a joke, and the jest makes the real discovery of the Morlocks all the more disturbing."
+  - id: "the-younger-darwin-solar-catastrophe"
+    trigger: "the younger Darwin"
+    title: "Could the Sun's Heat Destroy the Earth?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/George_Howard_Darwin"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator speculates about the sun's increased heat, referencing George Howard Darwin, the son of Charles Darwin, who studied celestial mechanics. George Darwin proposed theories about the moon's formation and the eventual fate of planetary systems. Wells uses this scientific backdrop to imagine a future where solar catastrophes reshape Earth's climate. This detail adds a layer of cosmic inevitability to the novel, suggesting that humanity's fate is tied not only to social forces but also to the larger workings of the universe."
   - id: "luminous-by-reflection-creature-eyes"
     trigger: "luminous by reflection"
     title: "Why Do These Eyes Glow in the Dark?"
@@ -85,6 +141,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator notes the Morlocks' 'bleached look,' a common trait among animals that live in perpetual darkness. Troglobites, such as cave fish, lose pigmentation and develop other adaptations to survive in lightless environments. This biological detail underscores the Morlocks' complete integration into their subterranean habitat. Wells uses this imagery to highlight the stark consequences of humanity's division, where one group thrives in the light while the other devolves in the dark. The Morlocks' pallor becomes a haunting reminder of the price of societal imbalance."
+  - id: "white-fish-of-the-kentucky-caves"
+    trigger: "white fish of the Kentucky caves"
+    title: "The Real Blind Fish of Kentucky"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cavefish"
+    image_url: ""
+    image_caption: ""
+    content: "As evidence that the Morlocks live underground, the Time Traveller points to the bleached look common in most animals that live largely in the dark, the white fish of the Kentucky caves, for instance. Cavefish, including the blind species found in Mammoth Cave in Kentucky, lose their pigment and their eyes after many generations in darkness. Charles Darwin discussed such creatures in On the Origin of Species, and they were a standard example of evolution at work. Wells uses a real example to make his theory of a human species adapted to the dark sound plausible."
   - id: "capitalist-and-labourer-future-divide"
     trigger: "Capitalist and the Labourer"
     title: "Could Class Divide Split Humanity in Two?"
@@ -92,6 +155,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator theorizes that the division between Eloi and Morlocks stems from the widening gap between capitalists and laborers. This idea reflects Wells's critique of industrial society, where wealth and privilege isolate the upper class while the working class endures harsh conditions. The novel extrapolates this trend into a dystopian future, imagining a literal split in humanity. By linking the Morlocks to labor and the Eloi to leisure, Wells explores the consequences of unchecked social stratification, making the novel a prescient commentary on inequality."
+  - id: "metropolitan-railway"
+    trigger: "Metropolitan Railway"
+    title: "London’s First Underground Line"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Metropolitan_Railway"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller notes that there is a tendency to use underground space for the less ornamental purposes of civilisation, and mentions the Metropolitan Railway in London. The Metropolitan Railway, opened in 1863 between Paddington and Farringdon, was the world’s first underground passenger railway, and its steam trains ran through smoky tunnels. By the 1890s the city had added electric tube lines, such as the City and South London Railway of 1890. Wells draws on a visible trend to make his horrible vision of the Underworld seem a logical extension of Victorian London."
+  - id: "east-end-worker"
+    trigger: "East-end worker"
+    title: "The Worker Cut Off From the Sun"
+    wikipedia_url: "https://en.wikipedia.org/wiki/East_End_of_London"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller asks whether an East-end worker does not already live in such artificial conditions as practically to be cut off from the natural surface of the earth. The East End of London, east of the City, was a district of docks, factories, workshops and crowded slums, whose poverty was described by Charles Booth’s survey and by journalists. Wells makes a pointed social argument: the Victorian poor already live in darkness and bad air. His picture of the Morlocks is an exaggeration of a real condition, and it makes his story a critique of class division."
+  - id: "etiolated-pallor"
+    trigger: "etiolated pallor"
+    title: "The Pale Colour of Things Kept From Light"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Etiolation"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller thinks that the refined beauty and the etiolated pallor followed naturally from a life divided by class. Etiolation is the whitening of plants grown without light, as in blanched celery or rhubarb forced in dark sheds, and it is also used for animals and people who are pale and weak. Wells uses the botanical word with a clear social meaning, because the Morlocks are blanched by darkness and the Eloi are weakened by ease. The term shows how his science and his politics meet, since both kinds of pallor come from an unnatural life."
   - id: "the-morlocks-subterranean-species"
     trigger: "the Morlocks"
     title: "Who Are the Morlocks, Humanity's Dark Descendants?"
@@ -99,19 +183,12 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Morlocks, introduced as pale, nocturnal creatures, represent the darker side of humanity's evolution. Their subterranean existence and industrial labor contrast sharply with the Eloi's carefree life above ground. Wells uses the Morlocks to critique the exploitation inherent in industrial capitalism, imagining a future where workers are literally driven underground. Their existence challenges the narrator's initial assumptions about progress, revealing a dystopian reality where humanity's triumphs lead to division and decay. The Morlocks embody the novel's central tension between light and darkness, privilege and labor."
-  - id: "the-younger-darwin-solar-catastrophe"
-    trigger: "the younger Darwin"
-    title: "Could the Sun's Heat Destroy the Earth?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/George_Howard_Darwin"
-    image_url: ""
-    image_caption: ""
-    content: "The narrator speculates about the sun's increased heat, referencing George Howard Darwin, the son of Charles Darwin, who studied celestial mechanics. George Darwin proposed theories about the moon's formation and the eventual fate of planetary systems. Wells uses this scientific backdrop to imagine a future where solar catastrophes reshape Earth's climate. This detail adds a layer of cosmic inevitability to the novel, suggesting that humanity's fate is tied not only to social forces but also to the larger workings of the universe."
 ---
 “So far as I could see, all the world displayed the same exuberant
 richness as the Thames valley. From every hill I climbed I saw the same
 abundance of splendid buildings, endlessly varied in material and
 style, the same clustering thickets of evergreens, the same
-blossom-laden trees and tree ferns. Here and there water shone like
+blossom-laden trees and **tree ferns**. Here and there water shone like
 silver, and beyond, the land rose into blue undulating hills, and so
 faded into the serenity of the sky. A peculiar feature, which presently
 attracted my attention, was the presence of certain **circular wells**,
@@ -138,7 +215,7 @@ obvious conclusion, but it was absolutely wrong.
 
 “And here I must admit that I learnt very little of drains and bells
 and modes of conveyance, and the like conveniences, during my time in
-this real future. In some of these visions of Utopias and coming times
+this real future. In some of these **visions of Utopias** and coming times
 which I have read, there is a vast amount of detail about building, and
 social arrangements, and so forth. But while such details are easy
 enough to obtain when the whole world is contained in one’s
@@ -146,7 +223,7 @@ imagination, they are altogether inaccessible to a real traveller amid
 such realities as I found here. Conceive the tale of London which a
 negro, fresh from Central Africa, would take back to his tribe! What
 would he know of railway companies, of social movements, of telephone
-and telegraph wires, of the Parcels Delivery Company, and postal orders
+and telegraph wires, of the Parcels Delivery Company, and **postal orders**
 and the like? Yet we, at least, should be willing enough to explain
 these things to him! And even of what he knew, how much could he make
 his untravelled friend either apprehend or believe? Then, think how
@@ -157,7 +234,7 @@ but save for a general impression of automatic organisation, I fear I
 can convey very little of the difference to your mind.
 
 “In the matter of sepulture, for instance, I could see no signs of
-crematoria nor anything suggestive of tombs. But it occurred to me
+**crematoria** nor anything suggestive of tombs. But it occurred to me
 that, possibly, there might be cemeteries (or crematoria) somewhere
 beyond the range of my explorings. This, again, was a question I
 deliberately put to myself, and my curiosity was at first entirely
@@ -255,8 +332,8 @@ triumphed, and for five of the nights of our acquaintance, including
 the last night of all, she slept with her head pillowed on my arm. But
 my story slips away from me as I speak of her. It must have been the
 night before her rescue that I was awakened about dawn. I had been
-restless, dreaming most disagreeably that I was drowned, and that sea
-anemones were feeling over my face with their soft palps. I woke with a
+restless, dreaming most disagreeably that I was drowned, and that **sea
+anemones** were feeling over my face with their soft palps. I woke with a
 start, and with an odd fancy that some greyish animal had just rushed
 out of the chamber. I tried to get to sleep again, but I felt restless
 and uncomfortable. It was that dim grey hour when things are just
@@ -281,7 +358,7 @@ you may have known. I doubted my eyes.
 its vivid colouring returned upon the world once more, I scanned the
 view keenly. But I saw no vestige of my white figures. They were mere
 creatures of the half-light. ‘They must have been ghosts,’ I said; ‘I
-wonder whence they dated.’ For a queer notion of Grant Allen’s came
+wonder whence they dated.’ For a queer notion of **Grant Allen**’s came
 into my head, and amused me. If each generation die and leave ghosts,
 he argued, the world at last will get overcrowded with them. On that
 theory they would have grown innumerable some Eight Hundred Thousand
@@ -388,7 +465,7 @@ subterranean. There were three circumstances in particular which made
 me think that its rare emergence above ground was the outcome of a
 long-continued underground habit. In the first place, there was the
 **bleached look** common in most animals that live largely in the dark—the
-white fish of the Kentucky caves, for instance. Then, those large eyes,
+**white fish of the Kentucky caves**, for instance. Then, those large eyes,
 with that capacity for reflecting light, are common features of
 nocturnal things—witness the owl and the cat. And last of all, that
 evident confusion in the sunshine, that hasty yet fumbling awkward
@@ -415,14 +492,14 @@ was the key to the whole position. No doubt it will seem grotesque
 enough to you—and wildly incredible!—and yet even now there are
 existing circumstances to point that way. There is a tendency to
 utilise underground space for the less ornamental purposes of
-civilisation; there is the Metropolitan Railway in London, for
+civilisation; there is the **Metropolitan Railway** in London, for
 instance, there are new electric railways, there are subways, there are
 underground workrooms and restaurants, and they increase and multiply.
 Evidently, I thought, this tendency had increased till Industry had
 gradually lost its birthright in the sky. I mean that it had gone
 deeper and deeper into larger and ever larger underground factories,
 spending a still-increasing amount of its time therein, till, in the
-end—! Even now, does not an East-end worker live in such artificial
+end—! Even now, does not an **East-end worker** live in such artificial
 conditions as practically to be cut off from the natural surface of the
 earth?
 
@@ -447,7 +524,7 @@ of them as were so constituted as to be miserable and rebellious would
 die; and, in the end, the balance being permanent, the survivors would
 become as well adapted to the conditions of underground life, and as
 happy in their way, as the Overworld people were to theirs. As it
-seemed to me, the refined beauty and the etiolated pallor followed
+seemed to me, the refined beauty and the **etiolated pallor** followed
 naturally enough.
 
 “The great triumph of Humanity I had dreamed of took a different shape

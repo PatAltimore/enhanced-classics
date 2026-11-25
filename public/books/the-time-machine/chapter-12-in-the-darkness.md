@@ -36,6 +36,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the protagonist sets his sights on the White Sphinx, it becomes clear that this enigmatic statue is more than just a landmark—it is the gateway to his Time Machine and the crux of his journey. The Sphinx, a symbol of riddles and mystery in mythology, takes on a futuristic twist here. In ancient cultures, such as Egypt and Greece, sphinxes were guardians of sacred spaces, often posing riddles to those who sought passage. Wells reimagines this archetype in a dystopian world, where the Sphinx guards not wisdom but technology. The choice of a white Sphinx is particularly striking, evoking purity and alienation amidst the decay of the future. By anchoring the protagonist’s quest to this statue, Wells underscores the tension between knowledge and survival, a theme that runs through the novel. The Sphinx is not just a destination; it is a metaphor for humanity’s struggle to unlock the secrets of its own fate."
+  - id: "focused-by-dewdrops"
+    trigger: "focused by dewdrops"
+    title: "Can Dew Really Start a Fire?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Burning_glass"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says that the sun’s heat is rarely strong enough to burn, even when it is focused by dewdrops, as is sometimes the case in more tropical districts. A drop of water can act as a small lens, and a burning glass is a lens that concentrates sunlight to a point hot enough to ignite dry material, a trick known since antiquity. Whether dew can do so in nature is debated. Wells’s point is about how rare flame is without human beings, and it explains why the Eloi have forgotten it."
+  - id: "smoulder-with-the-heat-of-its-fermentation"
+    trigger: "smoulder with the heat of its fermentation"
+    title: "How Rotting Plants Can Heat Themselves"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spontaneous_combustion"
+    image_url: ""
+    image_caption: ""
+    content: "Decaying vegetation, the Time Traveller says, may occasionally smoulder with the heat of its fermentation, but this rarely results in flame. Piles of damp hay, compost or oily rags can heat up as microbes and chemical reactions work in them, and sometimes they ignite by what is called spontaneous combustion. Farmers feared it. Wells lists the natural sources of fire one by one, sun, lightning and fermentation, in order to argue that without people there would be little flame, and so the Eloi’s ignorance of it is not strange."
   - id: "art-of-fire-making"
     trigger: "art of fire-making"
     title: "How Humanity Forgot Its Oldest Skill"
@@ -50,6 +64,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "In the protagonist’s desperate fight against the Morlocks, he uses a block of camphor to create light and drive them away. Camphor, a waxy substance derived from the wood of camphor trees, has been used for centuries in medicine, rituals, and even pyrotechnics due to its flammability. Its ability to burn brightly and cleanly makes it a fitting tool in this moment of crisis. Historically, camphor was also associated with purification and protection, adding a symbolic layer to its use here. Wells’s choice of camphor highlights the protagonist’s resourcefulness and the precariousness of survival in a world where even basic materials are scarce. The burning camphor becomes a beacon of hope and defiance against the encroaching darkness."
+  - id: "palace-of-green-porcelain"
+    trigger: "Palace of Green Porcelain"
+    title: "A Museum of Humanity’s Forgotten Glory"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
+    image_url: ""
+    image_caption: ""
+    content: "The Palace of Green Porcelain, glimpsed through the haze of smoke, serves as a reminder of humanity’s lost achievements. Earlier in the novel, the protagonist explores this structure, discovering remnants of art, science, and technology. Its name evokes an image of fragility and beauty, contrasting sharply with the brutal world of the Eloi and Morlocks. Wells uses the Palace as a metaphor for the impermanence of human progress, a repository of knowledge that has become irrelevant in a society divided by primal instincts. Seeing it now, after the chaos of the forest fire, the protagonist is reminded of his bearings and his mission, but also of the futility of preserving greatness in the face of inevitable decline."
+  - id: "shone-like-carbuncles"
+    trigger: "shone like carbuncles"
+    title: "The Glowing Jewels of the Morlock Eyes"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Carbuncle_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "In the black wood the Morlocks’ eyes shone like carbuncles. A carbuncle is a deep-red gemstone, usually a garnet cut in a smooth rounded shape, and in old stories the carbuncle was a magic stone said to glow like a live coal in the dark. The image makes the eyes seem both jewel-like and dangerous, and it explains why the Time Traveller can see their glitter in the dark. Wells’s choice of an old, poetic word gives the scene a nightmare beauty, which matches the sense of the forest as a place of horror."
+  - id: "monstrous-spider-s-web"
+    trigger: "monstrous spider’s web"
+    title: "The Web of Soft Hands"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spider_web"
+    image_url: ""
+    image_caption: ""
+    content: "When the Morlocks pull him down, the Time Traveller says it was indescribably horrible in the darkness to feel all these soft creatures heaped upon him, as if he was in a monstrous spider’s web. Spider webs are made of silk produced by the spider’s body, and they trap flying insects, which are then wrapped and eaten. Wells uses the comparison to turn the Morlocks into predators and the traveller into prey, and earlier he had called one of them a human spider. The sensation of soft clinging fingers makes the attack feel intimate and disgusting."
   - id: "iron-lever"
     trigger: "iron lever"
     title: "The Brutal Power of the Iron Lever"
@@ -64,20 +99,41 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "In the protagonist’s frantic battle with the Morlocks, the phrase \"succulent giving of flesh\" captures the gruesome physicality of the fight. This vivid imagery forces readers to confront the primal brutality of survival. Hand-to-hand combat, often romanticized in literature, is stripped of any nobility here, reduced to raw, visceral violence. The word \"succulent\" adds an unsettling sensory detail, emphasizing the grotesque intimacy of the struggle. Wells uses this moment to highlight the protagonist’s descent into animalistic instincts, a stark contrast to the intellectual curiosity that drives his journey. The fight is not just against the Morlocks but against the erosion of humanity itself, as survival demands a surrender to savagery."
+  - id: "flames-of-the-burning-forest"
+    trigger: "flames of the burning forest"
+    title: "The Forest Fire He Started by Accident"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wildfire"
+    image_url: ""
+    image_caption: ""
+    content: "Stepping out from behind a tree, the Time Traveller sees the flames of the burning forest and realises that it is his own first fire coming after him. Wildfires spread quickly in dry woodland, and once they have caught, wind and dry fuel can make them impossible to stop. Fire was a strange new thing to Weena, and his careless blaze has become a disaster. It is a strong irony: the very tool he valued as a weapon has driven back the Morlocks, but also destroyed what he cared for most."
+  - id: "hillock-or-tumulus"
+    trigger: "hillock or tumulus"
+    title: "The Burial Mound in the Burning Wood"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tumulus"
+    image_url: ""
+    image_caption: ""
+    content: "In the centre of the space where the Morlocks are trapped stands a hillock or tumulus, surmounted by a scorched hawthorn. A tumulus is an ancient burial mound, a heap of earth raised over a grave, and many such barrows survive on the chalk downs of southern England, where Wells set his story. The word suggests that the little hill might be a tomb, which fits the horror of the scene. The mound is a small island in the fire, and the traveller sits on it to watch the creatures that he has feared."
   - id: "scorched-hawthorn"
     trigger: "scorched hawthorn"
     title: "The Haunting Symbolism of the Scorched Hawthorn"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Hawthorn"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Crataegus"
     image_url: ""
     image_caption: ""
     content: "As the protagonist surveys the burning forest, the scorched hawthorn atop the hillock stands out as a poignant image. Hawthorn trees have long been associated with protection, fertility, and even the supernatural in folklore. In Celtic traditions, they were considered sacred, often marking boundaries between worlds. The scorched hawthorn here becomes a symbol of destruction and lost sanctity, mirroring the devastation of the forest and the Eloi’s fragile existence. Its placement on the hillock, surrounded by fire and blind Morlocks, evokes a sense of isolation and despair. Wells uses this image to underscore the novel’s themes of decay and the fragile balance between nature and civilization. The hawthorn, once a guardian, now stands as a witness to the collapse of both."
-  - id: "palace-of-green-porcelain"
-    trigger: "Palace of Green Porcelain"
-    title: "A Museum of Humanity’s Forgotten Glory"
-    wikipedia_url: "https://en.wikipedia.org/wiki/The_Time_Machine"
+  - id: "persuaded-it-was-a-nightmare"
+    trigger: "persuaded it was a nightmare"
+    title: "The Night He Tried to Wake Up"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nightmare"
     image_url: ""
     image_caption: ""
-    content: "The Palace of Green Porcelain, glimpsed through the haze of smoke, serves as a reminder of humanity’s lost achievements. Earlier in the novel, the protagonist explores this structure, discovering remnants of art, science, and technology. Its name evokes an image of fragility and beauty, contrasting sharply with the brutal world of the Eloi and Morlocks. Wells uses the Palace as a metaphor for the impermanence of human progress, a repository of knowledge that has become irrelevant in a society divided by primal instincts. Seeing it now, after the chaos of the forest fire, the protagonist is reminded of his bearings and his mission, but also of the futility of preserving greatness in the face of inevitable decline."
+    content: "For the most part of that night, the Time Traveller is persuaded it is a nightmare, and he bites himself and screams in a passionate desire to awake. A nightmare is a vivid and disturbing dream that causes fear, and the experience of being unable to wake up was a common one. The traveller’s reaction shows the shock of loss and horror, since reality has become so terrible that it seems unreal. Wells gives the moment great force by using the familiar feeling of the nightmare, and it prepares the sadder, quieter tone of the final chapters."
+  - id: "damned-souls"
+    trigger: "damned souls"
+    title: "The Morlocks as Souls in Hell"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hell"
+    image_url: ""
+    image_caption: ""
+    content: "Leaving the remnant of the Morlocks on the hillock, still going hither and thither and moaning, the Time Traveller calls them these damned souls. In Christian belief the damned are those condemned to eternal punishment in Hell, and Dante’s Inferno, with its fire and its blind, suffering crowds, is the most famous picture. The burning forest and the groping, moaning creatures recall that picture, and the traveller’s phrase shows how the scene has turned into a vision of hell. It is the most terrible scene in the book, as he sees them helpless in the glare."
   - id: "loose-matches"
     trigger: "loose matches"
     title: "The Tiny Sparks That Saved a Life"
@@ -118,10 +174,10 @@ ingenious move for covering our retreat.
 
 “I don’t know if you have ever thought what a rare thing flame must be
 in the absence of man and in a temperate climate. The sun’s heat is
-rarely strong enough to burn, even when it is focused by dewdrops, as
+rarely strong enough to burn, even when it is **focused by dewdrops**, as
 is sometimes the case in more tropical districts. Lightning may blast
 and blacken, but it rarely gives rise to widespread fire. Decaying
-vegetation may occasionally smoulder with the heat of its fermentation,
+vegetation may occasionally **smoulder with the heat of its fermentation**,
 but this rarely results in flame. In this decadence, too, the **art of
 fire-making** had been forgotten on the earth. The red tongues that went
 licking up my heap of wood were an altogether new and strange thing to
@@ -177,7 +233,7 @@ what to do. I determined to build a fire and encamp where we were. I
 put Weena, still motionless, down upon a turfy bole, and very hastily,
 as my first lump of camphor waned, I began collecting sticks and
 leaves. Here and there out of the darkness round me the Morlocks’ eyes
-shone like carbuncles.
+**shone like carbuncles**.
 
 “The camphor flickered and went out. I lit a match, and as I did so,
 two white forms that had been approaching Weena dashed hastily away.
@@ -207,7 +263,7 @@ had gone out, and the bitterness of death came over my soul. The forest
 seemed full of the smell of burning wood. I was caught by the neck, by
 the hair, by the arms, and pulled down. It was indescribably horrible
 in the darkness to feel all these soft creatures heaped upon me. I felt
-as if I was in a monstrous spider’s web. I was overpowered, and went
+as if I was in a **monstrous spider’s web**. I was overpowered, and went
 down. I felt little teeth nipping at my neck. I rolled over, and as I
 did so my hand came against my **iron lever**. It gave me strength. I
 struggled up, shaking the human rats from me, and, holding the bar
@@ -234,7 +290,7 @@ the smell of burning wood, the slumbrous murmur that was growing now
 into a gusty roar, the red glow, and the Morlocks’ flight.
 
 “Stepping out from behind my tree and looking back, I saw, through the
-black pillars of the nearer trees, the flames of the burning forest. It
+black pillars of the nearer trees, the **flames of the burning forest**. It
 was my first fire coming after me. With that I looked for Weena, but
 she was gone. The hissing and crackling behind me, the explosive thud
 as each fresh tree burst into flame, left little time for reflection.
@@ -246,8 +302,8 @@ blundering towards me, and past me, and went on straight into the fire!
 
 “And now I was to see the most weird and horrible thing, I think, of
 all that I beheld in that future age. This whole space was as bright as
-day with the reflection of the fire. In the centre was a hillock or
-tumulus, surmounted by a **scorched hawthorn**. Beyond this was another arm
+day with the reflection of the fire. In the centre was a **hillock or
+tumulus**, surmounted by a **scorched hawthorn**. Beyond this was another arm
 of the burning forest, with yellow tongues already writhing from it,
 completely encircling the space with a fence of fire. Upon the hillside
 were some thirty or forty Morlocks, dazzled by the light and heat, and
@@ -277,7 +333,7 @@ another universe, shone the little stars. Two or three Morlocks came
 blundering into me, and I drove them off with blows of my fists,
 trembling as I did so.
 
-“For the most part of that night I was persuaded it was a nightmare. I
+“For the most part of that night I was **persuaded it was a nightmare**. I
 bit myself and screamed in a passionate desire to awake. I beat the
 ground with my hands, and got up and sat down again, and wandered here
 and there, and again sat down. Then I would fall to rubbing my eyes and
@@ -296,7 +352,7 @@ contained myself. The hillock, as I have said, was a kind of island in
 the forest. From its summit I could now make out through a haze of
 smoke the **Palace of Green Porcelain**, and from that I could get my
 bearings for the White Sphinx. And so, leaving the remnant of these
-damned souls still going hither and thither and moaning, as the day
+**damned souls** still going hither and thither and moaning, as the day
 grew clearer, I tied some grass about my feet and limped on across
 smoking ashes and among black stems that still pulsated internally with
 fire, towards the hiding-place of the Time Machine. I walked slowly,

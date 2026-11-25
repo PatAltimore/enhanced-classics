@@ -57,6 +57,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau eagerly listens for the chirp of the striped squirrel, a harbinger of spring. These squirrels, known as Eastern chipmunks, emerge from hibernation as temperatures rise, their stored food supplies dwindling. Chipmunks are remarkable for their ability to survive harsh winters by burrowing underground and relying on caches of nuts and seeds. Their reappearance signals the renewal of life and the end of winter's dormancy. Thoreau's attention to such small details highlights his deep connection to the rhythms of nature, emphasizing the interconnectedness of all living things in the seasonal cycle."
+  - id: "song-sparrow"
+    trigger: "song-sparrow"
+    title: "The Early Singers Before the Ice Went Out"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Song_sparrow"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau notes that on the 13th of March, after he had heard the bluebird, song-sparrow, and red-wing, the ice was still nearly a foot thick. The song sparrow, a streaky brown bird with a bright, rolling song, is one of the first to return to New England in late winter. Along with bluebirds and red-winged blackbirds, it announced spring before the pond opened. Thoreau kept careful records of the dates of arrival of such birds, and his journals are valuable evidence of the climate of Concord in the 1840s."
+  - id: "methuselah"
+    trigger: "Methuselah"
+    title: "The Oldest Man in the Bible and the Pond Keeper"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Methuselah"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau tells of an old man, who had helped to lay the keel of a ship and who can hardly acquire more of natural lore if he should live to the age of Methuselah, yet who was surprised to hear him express wonder at any of Nature’s operations. In the Book of Genesis Methuselah is the longest-lived person, who dies at 969 years. Thoreau’s remark is gentle irony: even a man who has spent his life outdoors can lose the habit of wonder, and he sees that those who know most may be least surprised."
   - id: "thawing-sand-clay-phenomenon"
     trigger: "thawing sand and clay"
     title: "The Surprising Artistry of Thawing Earth"
@@ -64,13 +78,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau marvels at the intricate patterns formed by thawing sand and clay, comparing them to coral, leaves, and even human organs. This phenomenon occurs when frost releases moisture trapped in the soil, causing it to flow and create organic shapes. The process is a miniature geological event, revealing the dynamic forces at work beneath the surface. Thoreau's poetic description transforms this mundane occurrence into a profound meditation on nature's creativity. By likening the earth's thawing to the emergence of life, he underscores the theme of spring as a time of renewal and artistic expression."
-  - id: "tonic-of-wildness-necessity"
-    trigger: "tonic of wildness"
-    title: "Why Humans Crave the Untamed Wilderness"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Wilderness"
+  - id: "champollion"
+    trigger: "Champollion"
+    title: "The Scholar Who Read Egypt’s Picture-Writing"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion"
     image_url: ""
     image_caption: ""
-    content: "Thoreau extols the 'tonic of wildness,' arguing that immersion in nature is essential for human vitality. This idea resonates with the philosophy of wilderness as a source of spiritual and physical rejuvenation. In the 19th century, the concept of wilderness was undergoing a transformation, shifting from a fearsome frontier to a cherished refuge. Thoreau's embrace of wildness reflects his transcendentalist belief in nature as a teacher and healer. By seeking the untamed, he finds inspiration and a deeper connection to life's mysteries, reinforcing the chapter's celebration of spring as a season of renewal and discovery."
+    content: "Thoreau asks of the leaf-shaped patterns that thawing clay makes on a railroad bank, what Champollion will decipher this hieroglyphic for us, that we may turn over a new leaf at last? Jean-François Champollion, the French scholar who in 1822 announced that he had deciphered Egyptian hieroglyphs, using the Rosetta Stone, was a hero of nineteenth-century learning. Thoreau sees the sand foliage as a kind of writing in nature, and he wants a reader who can interpret it, and so find the principle of all growth."
+  - id: "turdus-migratorius"
+    trigger: "Turdus migratorius"
+    title: "The Robin With a Latin Name"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_robin"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau writes, O the evening robin, at the end of a New England summer day! If I could ever find the twig he sits upon! I mean he; I mean the twig. This at least is not the Turdus migratorius. The American robin, Turdus migratorius, is a large thrush whose song at dusk is a familiar sound of spring, and whose red breast reminded English settlers of the robin of home. Thoreau’s joke is that a bird’s Latin name does not capture its song, which belongs to a particular twig."
+  - id: "martins-twittering"
+    trigger: "martins twittering"
+    title: "The Swallows That Came to a New Clearing"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Purple_martin"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that in April he heard the martins twittering over his clearing, though it had not seemed that the township was settled enough to attract them. The purple martin, the largest North American swallow, nests in colonies, in boxes or gourds put up for it, and it returns from South America in spring. Thoreau’s remark is a note of pleasure at the first sign of company, and reflects his love of the birds’ migrations, which for him were a clear sign of the changing season."
+  - id: "cosmos-out-of-chaos"
+    trigger: "Cosmos out of Chaos"
+    title: "Spring as a Second Creation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chaos_(cosmogony)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the coming in of spring is like the creation of Cosmos out of Chaos and the realization of the Golden Age. In Greek cosmology Chaos was the formless void at the beginning of things, and Cosmos, meaning order and beauty, was the world made from it, as Hesiod and Ovid tell. Thoreau borrows from Ovid’s Metamorphoses to say that each spring renews the whole world. The comparison lifts the thaw of a Massachusetts pond to the scale of a myth of origins."
   - id: "golden-age-spring-symbolism"
     trigger: "Golden Age"
     title: "What Spring Reveals About Humanity's Ideal Past"
@@ -78,6 +113,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau invokes the 'Golden Age' to describe spring's transformative power, likening it to a mythical era of harmony and abundance. The Golden Age, a concept rooted in classical mythology, represents a time when humans lived in peace with nature, free from toil and suffering. Thoreau's use of this metaphor underscores his belief in spring as a time of moral and spiritual renewal. By connecting the season to this idealized past, he suggests that nature holds the key to reclaiming humanity's lost innocence and achieving a more harmonious existence."
+  - id: "eurus"
+    trigger: "Eurus"
+    title: "The East Wind in Ovid’s Account of Creation"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Eurus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes the Latin: Eurus ad Auroram Nabathaeaque regna recessit, Persidaque, et radiis juga subdita matutinis, which tells how the east wind went to the dawn and the Nabataean kingdom and Persia and the ridges under the morning rays. The lines are from Ovid’s Metamorphoses, in which the gods set each wind in its place at the creation of the world, and Eurus was the east wind in Greek myth. Thoreau uses them to fit spring’s warm breeze into a cosmic order."
   - id: "nine-acre-corner-bridge"
     trigger: "Nine-Acre-Corner bridge"
     title: "The Bridge That Links Thoreau to Nature"
@@ -85,6 +127,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions fishing near the Nine-Acre-Corner bridge, a location in Concord, Massachusetts, that connects him to the natural world. Bridges often symbolize transition and connection, and this spot serves as a gateway to the seasonal changes he observes. Concord, rich in historical and natural significance, was a hub for transcendentalist thinkers like Thoreau and Emerson. The bridge becomes a metaphor for Thoreau's journey into the heart of nature, where he finds inspiration and insight. This moment encapsulates the chapter's theme of spring as a bridge between winter's dormancy and summer's vitality."
+  - id: "merlin"
+    trigger: "Merlin"
+    title: "The Small Falcon Over the Spring Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Merlin_(bird)"
+    image_url: ""
+    image_caption: ""
+    content: "Seeing a hawk skim the pond, Thoreau says the sight reminded him of falconry and what nobleness and poetry are associated with that sport. The Merlin it seemed to him it might be called, but he cared not for its name. The merlin is a small, fast falcon of northern lands, once flown by ladies in the Middle Ages, and it was also known as the pigeon hawk in America. Thoreau’s hawk is the most ethereal, rising and falling like a kite, a symbol of freedom."
+  - id: "tonic-of-wildness-necessity"
+    trigger: "tonic of wildness"
+    title: "Why Humans Crave the Untamed Wilderness"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wilderness"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau extols the 'tonic of wildness,' arguing that immersion in nature is essential for human vitality. This idea resonates with the philosophy of wilderness as a source of spiritual and physical rejuvenation. In the 19th century, the concept of wilderness was undergoing a transformation, shifting from a fearsome frontier to a cherished refuge. Thoreau's embrace of wildness reflects his transcendentalist belief in nature as a teacher and healer. By seeking the untamed, he finds inspiration and a deeper connection to life's mysteries, reinforcing the chapter's celebration of spring as a season of renewal and discovery."
+  - id: "titanic"
+    trigger: "Titanic"
+    title: "The Wild Landscape Thoreau Needs"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Titan_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau writes that we must be refreshed by the sight of inexhaustible vigor, vast and Titanic features, the sea-coast with its wrecks, the wilderness with its living and its decaying trees. The Titans were the elder gods of Greek myth, huge beings who ruled before the Olympians, and the word means enormous and powerful. Thoreau’s plea comes at the end of the chapter on spring and is among his best-known statements of the need for wildness. He wants the world to be too big for humans to survey."
   - id: "sulphur-showers-pollen"
     trigger: "sulphur showers"
     title: "The Curious Phenomenon of Yellow Pollen Storms"
@@ -92,6 +155,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau observes 'sulphur showers,' referring to the yellow pollen from pitch-pines that coats the landscape in spring. This natural event is a vital part of the reproductive cycle of coniferous trees, as pollen grains are carried by wind to fertilize female cones. The term 'sulphur showers' evokes the dramatic visual impact of this phenomenon, which can transform the environment with its vibrant color. Thoreau's attention to such details reflects his deep appreciation for the interconnectedness of nature, highlighting spring as a season of renewal and fertility."
+  - id: "sacontala"
+    trigger: "Sacontala"
+    title: "The Sanskrit Play Thoreau Quotes on Lotus Dust"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the yellow pollen of pitch-pines is the sulphur showers we hear of, and adds that even in Calidas’ drama of Sacontala we read of rills dyed yellow with the golden dust of the lotus. Kalidasa’s Shakuntala, a Sanskrit play of about the fifth century AD, was first translated into English in 1789 by Sir William Jones, and it was hugely admired by Goethe and the Romantics. Thoreau’s reading of Indian literature allows him to find a link between the pollen of his own pond and an ancient poet’s lotus."
   - id: "september-6th-1847-departure"
     trigger: "September 6th, 1847"
     title: "The Day Thoreau Left Walden Pond"
@@ -221,7 +291,7 @@ been a close observer of Nature, and seems as thoroughly wise in regard
 to all her operations as if she had been put upon the stocks when he
 was a boy, and he had helped to lay her keel,—who has come to his
 growth, and can hardly acquire more of natural lore if he should live
-to the age of Methuselah,—told me, and I was surprised to hear him
+to the age of **Methuselah**,—told me, and I was surprised to hear him
 express wonder at any of Nature’s operations, for I thought that there
 were no secrets between them, that one spring day he took his gun and
 boat, and thought that he would have a little sport with the ducks.
@@ -361,7 +431,7 @@ farther.
 
 Thus it seemed that this one hillside illustrated the principle of all
 the operations of Nature. The Maker of this earth but patented a leaf.
-What Champollion will decipher this **hieroglyphic** for us, that we may
+What **Champollion** will decipher this **hieroglyphic** for us, that we may
 turn over a new leaf at last? This phenomenon is more exhilarating to
 me than the luxuriance and fertility of vineyards. True, it is somewhat
 excrementitious in its character, and there is no end to the heaps of
@@ -520,10 +590,10 @@ and winds blow, to correct this slight oscillation of the poles and
 preserve the equilibrium of Nature.
 
 As every season seems best to us in its turn, so the coming in of
-spring is like the creation of Cosmos out of Chaos and the realization
+spring is like the creation of **Cosmos out of Chaos** and the realization
 of the **Golden Age**.—
 
-     “Eurus ad Auroram Nabathæaque regna recessit,
+     “**Eurus** ad Auroram Nabathæaque regna recessit,
      Persidaque, et radiis juga subdita matutinis.”
 
      “The East-Wind withdrew to Aurora and the Nabathæan kingdom,
@@ -601,7 +671,7 @@ night-hawk, alternately soaring like a ripple and tumbling a rod or two
 over and over, showing the underside of its wings, which gleamed like a
 satin ribbon in the sun, or like the pearly inside of a shell. This
 sight reminded me of falconry and what nobleness and poetry are
-associated with that sport. The Merlin it seemed to me it might be
+associated with that sport. The **Merlin** it seemed to me it might be
 called: but I care not for its name. It was the most ethereal flight I
 had ever witnessed. It did not simply flutter like a butterfly, nor
 soar like the larger hawks, but it sported with proud reliance in the
@@ -639,7 +709,7 @@ the same time that we are earnest to explore and learn all things, we
 require that all things be mysterious and unexplorable, that land and
 sea be infinitely wild, unsurveyed and unfathomed by us because
 unfathomable. We can never have enough of Nature. We must be refreshed
-by the sight of inexhaustible vigor, vast and Titanic features, the
+by the sight of inexhaustible vigor, vast and **Titanic** features, the
 sea-coast with its wrecks, the wilderness with its living and its
 decaying trees, the thunder cloud, and the rain which lasts three weeks
 and produces freshets. We need to witness our own limits transgressed,
@@ -675,7 +745,7 @@ on humming wings with clinched talons, as if she held by the air, while
 she surveyed the premises. The sulphur-like pollen of the pitch-pine
 soon covered the pond and the stones and rotten wood along the shore,
 so that you could have collected a barrel-ful. This is the “**sulphur
-showers**” we hear of. Even in Calidas’ drama of Sacontala, we read of
+showers**” we hear of. Even in Calidas’ drama of **Sacontala**, we read of
 “rills dyed yellow with the golden dust of the lotus.” And so the
 seasons went rolling on into summer, as one rambles into higher and
 higher grass.

@@ -36,6 +36,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau's description of his three chairs—one for solitude, two for friendship, and three for society—is more than a practical arrangement; it’s a metaphor for his entire philosophy. In this chapter, he uses the chairs to illustrate the balance between individual reflection, intimate connection, and communal interaction. The simplicity of this setup contrasts sharply with the sprawling mansions of his era, which he criticizes as excessive and isolating. Historically, the idea of furniture as symbolic of social roles dates back to ancient times, but Thoreau’s interpretation is uniquely personal and minimalist. By reducing his social world to three chairs, he emphasizes the importance of intentionality in relationships. This insight reveals Thoreau’s belief that meaningful human connection doesn’t require grandeur—it thrives in simplicity and authenticity."
+  - id: "tremont"
+    trigger: "Tremont"
+    title: "The Boston Hotel That Dwarfs Its Guests"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tremont_House_(Boston)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he is surprised when the herald blows his summons before some Tremont or Astor or Middlesex House, to see come creeping out a ridiculous mouse. The Tremont House, opened in Boston in 1829, was the first modern luxury hotel in America, with private rooms with locks, indoor plumbing and a grand dining room. It was a model for later hotels. Thoreau mocks the idea that the guests, who are tiny against such vast buildings, gain anything from the grandeur. A small house, he says, can be warmer."
+  - id: "astor"
+    trigger: "Astor"
+    title: "The New York Hotel Named for a Fur Magnate"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Astor_House"
+    image_url: ""
+    image_caption: ""
+    content: "The second hotel in Thoreau’s list is the Astor, the Astor House in New York, opened in 1836 on Broadway, a granite building with hundreds of rooms financed by John Jacob Astor, then the richest man in America. It was one of the great sights of the city and was famous for its running water and its public rooms. Thoreau lists these famous hotels to show how the age’s luxuries make the human being seem small. In his cabin, a guest could meet the host directly, with no herald and no parade."
+  - id: "middlesex-house"
+    trigger: "Middlesex House"
+    title: "The Concord Inn in the Roll of Grand Hotels"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau completes his joke by adding a local hotel, the Middlesex House, to the list with the great Tremont and Astor. The Middlesex House was the best-known inn on Concord’s main square, a place for travellers, lawyers and the court that met in the county seat of Middlesex County. By naming it beside the two largest hotels in America, Thoreau makes a gentle comic point about small-town pride. His own cabin, which could hold only a few visitors, he says, was big enough for a friendly talk."
   - id: "talk-across-the-pond"
     trigger: "talk across the pond"
     title: "How Distance Shapes the Depth of Conversation"
@@ -43,6 +64,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau’s remark about talking across the pond to a companion captures his belief in the value of physical and emotional space in communication. He contrasts this with the cramped quarters of his cabin, where proximity stifles the unfolding of grand ideas. The pond, a natural boundary, becomes a metaphor for the neutral ground necessary for thoughtful dialogue. Modern psychology supports this notion, suggesting that physical distance can reduce social pressure and foster deeper conversations. By situating this observation in the woods, Thoreau underscores his broader theme: nature provides the ideal setting for reflection and connection. The pond is not just a geographical feature; it’s a symbol of the balance between solitude and society that Thoreau seeks to achieve."
+  - id: "cerberus"
+    trigger: "Cerberus"
+    title: "The Three-Headed Dog at the Dinner Door"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cerberus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he was never so deterred from visiting a man’s house by any kind of Cerberus whatever as by the parade the host made about dining him. In Greek myth Cerberus is the three-headed dog that guards the gates of the underworld, letting the dead enter but not leave. Thoreau’s joke is that an elaborate dinner can keep a guest away more firmly than a monster. He takes the fuss as a polite hint never to trouble the man again, and prefers simple hospitality, as he gave at his cabin."
+  - id: "spenser"
+    trigger: "Spenser"
+    title: "The Poet’s Lines Written on a Walnut Leaf"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Edmund_Spenser"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he should be proud to have as the motto of his cabin those lines of Spenser which one of his visitors inscribed on a yellow walnut leaf for a card: Arrived there, the little house they fill, ne looke for entertainment where none was. Edmund Spenser, the Elizabethan poet, wrote The Faerie Queene, from which this stanza comes, in which the Red Cross Knight and Una come to a humble cottage. The lines praise a welcome that is simple and sincere, and Thoreau sees them as a creed of hospitality."
   - id: "arrived-there-the-little-house-they-fill"
     trigger: "Arrivéd there, the little house they fill"
     title: "The Poetic Motto That Defined Thoreau’s Cabin"
@@ -57,6 +92,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recounts Edward Winslow’s visit to Massasoit, a pivotal moment in early colonial history. Winslow, who later became governor of Plymouth Colony, undertook this journey to strengthen alliances with the Wampanoag leader. The account of their visit, marked by shared hardships and cultural exchanges, reveals the complexities of early colonial-Indigenous relations. Winslow’s diplomacy laid the groundwork for the first Thanksgiving and the fragile peace that followed. Thoreau uses this story to highlight the resourcefulness and adaptability required in such encounters, drawing parallels to his own minimalist lifestyle. By invoking Winslow’s experience, Thoreau underscores the importance of mutual respect and understanding in bridging cultural divides."
+  - id: "massasoit"
+    trigger: "Massasoit"
+    title: "The Wampanoag Leader and the Visit of Ceremony"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Massasoit"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recalls how Winslow, afterward governor of the Plymouth Colony, went on a visit of ceremony to Massasoit on foot through the woods. Massasoit was the sachem of the Wampanoag, who made a peace treaty with the Pilgrims in 1621 that lasted for fifty years, and Edward Winslow visited him in 1621 and left a record in Mourt’s Relation. Thoreau’s story is that the king received the tired, hungry visitors but could offer them nothing to eat. His point is that true hospitality does not consist of food."
   - id: "homeric-or-paphlagonian-man"
     trigger: "Homeric or Paphlagonian man"
     title: "A Woodchopper’s Unexpected Connection to Homer"
@@ -64,6 +106,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau’s description of the Canadian woodchopper as a 'Homeric or Paphlagonian man' is both humorous and profound. The woodchopper, with his rugged simplicity and earthy wisdom, reminds Thoreau of the characters in Homer’s epics—ordinary men capable of extraordinary endurance and insight. Paphlagonia, an ancient region mentioned in Homer’s 'Iliad,' was known for its hardy warriors. The woodchopper’s connection to Homer is ironic; though he reveres the poet, he hasn’t read his works deeply. This juxtaposition highlights Thoreau’s belief that true wisdom often resides in the unlettered and unassuming. By likening the woodchopper to Homeric figures, Thoreau elevates the everyday laborer to the realm of epic heroism, challenging conventional notions of greatness."
+  - id: "patroclus"
+    trigger: "Patroclus"
+    title: "Reading Homer With a Woodchopper"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Patroclus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes translating for a Canadian woodchopper Achilles’ reproof to Patroclus: Why are you in tears, Patroclus, like a young girl? In the Iliad Patroclus is the beloved companion of Achilles, whose death in battle brings Achilles back to the war. The woodchopper, who had learned some Greek at a priest’s school, is delighted. Thoreau uses the scene to show that great literature can be shared with the unlettered, and he is impressed by the man’s simple, fresh response to Homer."
   - id: "cold-woodchucks"
     trigger: "cold woodchucks"
     title: "Why Woodchucks Were a Frontier Delicacy"
@@ -71,6 +120,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau’s mention of 'cold woodchucks' as part of the woodchopper’s diet offers a glimpse into frontier survival. Woodchucks, or groundhogs, were commonly hunted and eaten in rural America, valued for their protein and availability. Indigenous peoples and early settlers often relied on such game, preparing it in stews or roasting it over open fires. The woodchopper’s casual consumption of cold woodchuck reflects his pragmatic approach to life, where sustenance takes precedence over culinary refinement. Thoreau uses this detail to emphasize the woodchopper’s connection to nature and his unpretentious lifestyle. It’s a reminder that simplicity, even in diet, can be a source of contentment and resilience."
+  - id: "yankees"
+    trigger: "Yankees"
+    title: "The Hurry That Thoreau Ascribes to His Neighbours"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Yankee"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the woodchopper came along early, crossing the bean-field, though without anxiety or haste to get to his work, such as Yankees exhibit. Yankee, in the nineteenth century, was a name for a New Englander, famed for being thrifty, industrious and sharp in business, and the stereotype of a driven worker was well known. Thoreau, who criticises that restless ambition throughout the book, contrasts it with the man’s calm. The woodchopper did not care if he only earned his board, and so he represents an old way of living that the Yankees had lost."
   - id: "canadian-french"
     trigger: "Canadian French"
     title: "The Language That Bridged Cultures in the Woods"
@@ -78,6 +134,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau’s interaction with the woodchopper, who greets him in Canadian French, highlights the linguistic diversity of 19th-century America. Canadian French, derived from the dialects of early French settlers, was widely spoken in regions like Quebec and parts of New England. For Thoreau, this language adds a poetic dimension to the woodchopper’s character, connecting him to a rich cultural heritage. The woodchopper’s bilingualism also reflects the blending of cultures on the frontier, where French, English, and Indigenous languages often intersected. Thoreau’s appreciation for this linguistic nuance underscores his broader theme of finding beauty and meaning in the ordinary and overlooked."
+  - id: "by-george"
+    trigger: "By George"
+    title: "The Woodchopper’s Cheerful Oath"
+    wikipedia_url: "https://en.wikipedia.org/wiki/By_George"
+    image_url: ""
+    image_caption: ""
+    content: "Looking round upon the trees, the woodchopper exclaims, By George! I can enjoy myself well enough here chopping; I want no better sport. By George is a mild exclamation, a minced oath that avoids the name of God, popular in English speech since the sixteenth century, and often associated with Saint George. It is a typical expression of a man who enjoys simple pleasures, and Thoreau records it with affection. The line shows how much he valued natural joy, and how little the woodchopper cared for fame or wealth."
+  - id: "gorrappit"
+    trigger: "Gorrappit"
+    title: "The Woodchopper Who Was Never Tired"
+    wikipedia_url: "https://en.wikipedia.org/wiki/French_Canadians"
+    image_url: ""
+    image_caption: ""
+    content: "Asked if he was not sometimes tired at night after working all day, the Canadian woodchopper answered, with a sincere and serious look, Gorrappit, I never was tired in my life. His exclamation is a French-Canadian way of saying a mild oath. French Canadians came in large numbers to New England in the 1840s to work in mills and forests. Thoreau, who calls the man a simple, natural creature, found him a fascinating visitor, since he lived wholly in the body with a cheerful, unreflecting health."
+  - id: "contentment-for-his-portion"
+    trigger: "contentment for his portion"
+    title: "The Natural Man Who Was Given Contentment"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Contentment"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau writes that when Nature made the woodchopper, she gave him a strong body and contentment for his portion, and propped him on every side with reverence and reliance. Contentment, the state of being satisfied with what one has, is among the oldest ideals of moral philosophy, taught by Stoics and Epicureans and by Christian writers alike. Thoreau admires it in a man who was almost childlike, though he also sees its limits, since the intellectual and spiritual side of the man was slumbering. The portrait is both affectionate and a little patronising."
   - id: "an-almanac-and-an-arithmetic"
     trigger: "an almanac and an arithmetic"
     title: "The Two Books That Defined a Woodchopper’s World"
@@ -113,6 +190,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau’s vivid description of 'men of ideas instead of legs' paints a humorous yet critical portrait of overly intellectual individuals. These 'intellectual centipedes,' as he calls them, are so consumed by their thoughts that they lose touch with practical reality. Thoreau’s disdain for such figures reflects his belief in the importance of grounding philosophy in lived experience. This critique aligns with his broader rejection of abstract theorizing in favor of direct engagement with nature and society. By invoking this image, Thoreau challenges readers to balance intellectual pursuits with physical and emotional presence, ensuring that ideas remain connected to the world they aim to improve."
+  - id: "white-mountains"
+    trigger: "White Mountains"
+    title: "The Hotel Registers at the Mountain Top"
+    wikipedia_url: "https://en.wikipedia.org/wiki/White_Mountains_(New_Hampshire)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says one visitor proposed a book in which visitors should write their names, as at the White Mountains, but he has too good a memory to need that. The White Mountains of New Hampshire, with Mount Washington, the highest peak in the Northeast, had become a favourite tourist destination by the 1840s, and visitors to the summit signed a register at the Tip-Top House. Thoreau had visited them in 1839 and 1858. He gently mocks tourists who want a record of every visit."
   - id: "medicine-chest"
     trigger: "medicine chest"
     title: "Why Huckleberrying Wasn’t for the Faint of Heart"
@@ -146,8 +230,8 @@ innumerable apartments, their huge halls and their cellars for the
 storage of wines and other munitions of peace, appear to me
 extravagantly large for their inhabitants. They are so vast and
 magnificent that the latter seem to be only vermin which infest them. I
-am surprised when the herald blows his summons before some Tremont or
-Astor or Middlesex House, to see come creeping out over the piazza for
+am surprised when the herald blows his summons before some **Tremont** or
+**Astor** or **Middlesex House**, to see come creeping out over the piazza for
 all inhabitants a ridiculous mouse, which soon again slinks into some
 hole in the pavement.
 
@@ -203,10 +287,10 @@ So easy is it, though many housekeepers doubt it, to establish new and
 better customs in the place of the old. You need not rest your
 reputation on the dinners you give. For my own part, I was never so
 effectually deterred from frequenting a man’s house, by any kind of
-Cerberus whatever, as by the parade one made about dining me, which I
+**Cerberus** whatever, as by the parade one made about dining me, which I
 took to be a very polite and roundabout hint never to trouble him so
 again. I think I shall never revisit those scenes. I should be proud to
-have for the motto of my cabin those lines of Spenser which one of my
+have for the motto of my cabin those lines of **Spenser** which one of my
 visitors inscribed on a yellow walnut leaf for a card:—
 
      “**Arrivéd there, the little house they fill**,
@@ -215,7 +299,7 @@ visitors inscribed on a yellow walnut leaf for a card:—
          The noblest mind the best contentment has.”
 
 When **Winslow, afterward governor of the Plymouth Colony**, went with a
-companion on a visit of ceremony to Massasoit on foot through the
+companion on a visit of ceremony to **Massasoit** on foot through the
 woods, and arrived tired and hungry at his lodge, they were well
 received by the king, but nothing was said about eating that day. When
 the night arrived, to quote their own words,—“He laid us on the bed
@@ -260,7 +344,7 @@ for books,” would “not know what to do rainy days,” though perhaps he
 has not read one wholly through for many rainy seasons. Some priest who
 could pronounce the Greek itself taught him to read his verse in the
 testament in his native parish far away; and now I must translate to
-him, while he holds the book, Achilles’ reproof to Patroclus for his
+him, while he holds the book, Achilles’ reproof to **Patroclus** for his
 sad countenance.—“Why are you in tears, Patroclus, like a young girl?”—
 
      “Or have you alone heard some news from Phthia?
@@ -287,7 +371,7 @@ chopped all summer,—in a tin pail; cold meats, often **cold woodchucks**,
 and coffee in a stone bottle which dangled by a string from his belt;
 and sometimes he offered me a drink. He came along early, crossing my
 bean-field, though without anxiety or haste to get to his work, such as
-Yankees exhibit. He wasn’t a-going to hurt himself. He didn’t care if
+**Yankees** exhibit. He wasn’t a-going to hurt himself. He didn’t care if
 he only earned his board. Frequently he would leave his dinner in the
 bushes, when his dog had caught a woodchuck by the way, and go back a
 mile and a half to dress it and leave it in the cellar of the house
@@ -317,7 +401,7 @@ which he had felled, and, peeling off the inner bark, roll it up into a
 ball and chew it while he laughed and talked. Such an exuberance of
 animal spirits had he that he sometimes tumbled down and rolled on the
 ground with laughter at any thing which made him think and tickled him.
-Looking round upon the trees he would exclaim,—“By George! I can enjoy
+Looking round upon the trees he would exclaim,—“**By George**! I can enjoy
 myself well enough here chopping; I want no better sport.” Sometimes,
 when at leisure, he amused himself all day in the woods with a pocket
 pistol, firing salutes to himself at regular intervals as he walked. In
@@ -330,7 +414,7 @@ about him.”
 In him the animal man chiefly was developed. In physical endurance and
 contentment he was cousin to the pine and the rock. I asked him once if
 he was not sometimes tired at night, after working all day; and he
-answered, with a sincere and serious look, “Gorrappit, I never was
+answered, with a sincere and serious look, “**Gorrappit**, I never was
 tired in my life.” But the intellectual and what is called spiritual
 man in him were slumbering as in an infant. He had been instructed only
 in that innocent and ineffectual way in which the Catholic priests
@@ -495,7 +579,7 @@ one bug, a score of them lost in every morning’s dew,—and become
 frizzled and mangy in consequence; **men of ideas instead of legs**, a sort
 of intellectual centipede that made you crawl all over. One man
 proposed a book in which visitors should write their names, as at the
-White Mountains; but, alas! I have too good a memory to make that
+**White Mountains**; but, alas! I have too good a memory to make that
 necessary.
 
 I could not but notice some of the peculiarities of my visitors. Girls

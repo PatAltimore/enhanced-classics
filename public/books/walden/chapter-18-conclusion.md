@@ -13,10 +13,10 @@ summary:
     link: "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
     link_label: "Henry David Thoreau"
   - point: "He contrasts the cosmopolitan nature of animals with human confinement to societal roles."
-    link: "https://en.wikipedia.org/wiki/Wild_goose"
+    link: "https://en.wikipedia.org/wiki/Goose"
     link_label: "Wild goose"
   - point: "Thoreau encourages readers to build their dreams and establish solid foundations for them."
-    link: "https://en.wikipedia.org/wiki/Castle_in_the_air"
+    link: "https://en.wikipedia.org/wiki/Daydreaming"
     link_label: "Castle in the air"
   - point: "He critiques societal conformity and urges individuals to follow their own paths."
     link: "https://en.wikipedia.org/wiki/Individualism"
@@ -36,6 +36,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions the mockingbird as a rare presence in New England, contrasting its absence with the abundance of nature elsewhere. The mockingbird, known for its ability to mimic other birds and sounds, has long been a symbol of unattainable beauty and freedom in American literature, famously appearing in works like 'To Kill a Mockingbird.' Its absence in New England serves as a metaphor for the limitations imposed by geography and society. By invoking this bird, Thoreau subtly underscores the theme of yearning for broader horizons and deeper connections with nature."
+  - id: "mungo-park"
+    trigger: "Mungo Park"
+    title: "Be the Explorer of Your Own Streams"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mungo_Park_(explorer)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau urges his readers to be rather the Mungo Park, the Lewis and Clarke and Frobisher, of your own streams and oceans, and to explore your own higher latitudes. Mungo Park, a Scottish surgeon, was the first European to describe the central course of the Niger River in West Africa, in 1796, and he died on a second expedition in 1806. His book Travels in the Interior Districts of Africa was a bestseller. Thoreau’s message is that inner exploration is the harder and braver adventure."
+  - id: "lewis-and-clarke"
+    trigger: "Lewis and Clarke"
+    title: "The Overland Journey Thoreau Turns Inward"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
+    image_url: ""
+    image_caption: ""
+    content: "Among the explorers of your own streams and oceans, Thoreau names the Lewis and Clarke. The expedition of Meriwether Lewis and William Clark, sent by President Jefferson in 1804, travelled from St. Louis up the Missouri and over the Rockies to the Pacific and back, and its journals were read as a classic of American exploration. Thoreau, who loved travel narratives, tells his readers to turn the same spirit of discovery to their own lives, and to find unmapped territory close to home."
+  - id: "frobisher"
+    trigger: "Frobisher"
+    title: "The Elizabethan Sailor Who Sought the Northwest Passage"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Martin_Frobisher"
+    image_url: ""
+    image_caption: ""
+    content: "The third explorer in Thoreau’s list is Frobisher. Martin Frobisher, an English sea captain, made three voyages in 1576 to 1578 to the Arctic coast of Canada, hoping to find a Northwest Passage to China, and he brought back tons of black rock which he thought was gold ore but was worthless. His name was familiar from the search for Sir John Franklin, which Thoreau has just mentioned. The reference gives a historical depth to his call to explore one’s own higher latitudes."
+  - id: "south-sea-exploring-expedition"
+    trigger: "South-Sea Exploring Expedition"
+    title: "The Grand Government Voyage Thoreau Mocks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/United_States_Exploring_Expedition"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks what was the meaning of that South-Sea Exploring Expedition, with all its parade and expense, but an indirect recognition of the fact that there are continents and seas in the moral world to which every man is an isthmus or an inlet, yet unexplored by him. The United States Exploring Expedition, led by Charles Wilkes from 1838 to 1842, surveyed the Pacific and sighted Antarctica, and its cost was large. Thoreau’s point is that the real unknown territory is the self."
   - id: "symmes-hole-the-mythical-entrance-to-earths-core"
     trigger: "Symmes’ Hole"
     title: "The Mythical Hole That Fascinated Explorers"
@@ -43,17 +71,31 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau references 'Symmes’ Hole,' a theory proposed by John Cleves Symmes Jr. suggesting that the Earth is hollow and accessible through openings at the poles. This idea captivated 19th-century explorers and writers, inspiring speculative fiction and adventurous expeditions. Thoreau uses it metaphorically to challenge readers to explore their inner depths rather than external mysteries. The invocation of Symmes’ Hole aligns with his broader call for introspection and the discovery of uncharted territories within the human spirit."
+  - id: "mirabeau"
+    trigger: "Mirabeau"
+    title: "The Revolutionary Who Became a Highway Robber"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti,_comte_de_Mirabeau"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says it is said that Mirabeau took to highway robbery to ascertain what degree of resolution was necessary in order to place oneself in formal opposition to the most sacred laws of society. Honoré Gabriel Riqueti, comte de Mirabeau, was a French nobleman and orator who became a leading figure in the early French Revolution, after a wild youth that included debts, imprisonments and affairs. Thoreau quotes the story to say that the man of courage who does not fear the law is rare, and that most people never test their own convictions."
   - id: "castles-in-the-air-dreams-worth-building"
     trigger: "castles in the air"
     title: "Why Dreams Belong in the Sky"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Castle_in_the_air"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Daydreaming"
     image_url: ""
     image_caption: ""
     content: "Thoreau encourages readers to dream boldly, likening aspirations to 'castles in the air.' This phrase, originating from medieval imagery of unattainable structures, has come to symbolize ambitious goals. Thoreau’s twist is empowering: while castles in the air might seem ephemeral, they are precisely where dreams belong. He urges readers to build solid foundations beneath their castles, transforming lofty visions into achievable realities. This metaphor encapsulates his philosophy of living deliberately and pursuing one's ideals with confidence."
+  - id: "kabir"
+    trigger: "Kabir"
+    title: "The Poet Whose Verses Have Four Meanings"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Kabir"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says they pretend, as he hears, that the verses of Kabir have four different senses: illusion, spirit, intellect, and the exoteric doctrine of the Vedas. Kabir was a fifteenth-century Indian mystic poet, claimed by both Hindus and Muslims, who wrote short verses in everyday language against ritual and caste. Thoreau, who read about him in the French translations of Garcin de Tassy, uses the remark to say that a good book may be understood on many levels, and that the reader must be ready to find more in it each time."
   - id: "the-city-of-kouroo-a-tale-of-perfection"
     trigger: "the city of Kouroo"
     title: "The Fabled City Where Time Stands Still"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Kouroo"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Kuru_kingdom"
     image_url: ""
     image_caption: ""
     content: "Thoreau recounts the story of an artist in the mythical city of Kouroo, who strives for perfection in crafting a staff. As the artist rejects compromise, time ceases to affect him, and civilizations rise and fall around him. This allegory, rooted in Hindu cosmology, illustrates the transformative power of unwavering dedication. Thoreau uses Kouroo to argue that true artistry and purpose transcend temporal concerns, aligning with his broader themes of timelessness and the pursuit of higher ideals."
@@ -71,6 +113,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau uses the word 'tintinnabulum' to describe the distant, indistinct noise of his contemporaries—a term derived from Latin, meaning 'a small bell.' This evocative choice captures the clamor of society, which he often critiques as trivial and disconnected from deeper truths. The tintinnabulum becomes a metaphor for the distractions of modern life, urging readers to tune out the noise and focus on the resonant, meaningful sounds of nature and introspection."
+  - id: "mameluke"
+    trigger: "Mameluke"
+    title: "The Cairo Prince Who Leapt From the Citadel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mamluk"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that he delights in coming to his bearings, not walking in procession with pomp and parade, till he is ready to leap from the court-yard like the Mameluke bey. In 1811 the Egyptian ruler Muhammad Ali invited the Mamluk leaders to the citadel at Cairo and had them massacred, and tradition says one bey, Amin, escaped by leaping his horse over the wall. The Mamluks had ruled Egypt for centuries. Thoreau uses the daring leap as an image of breaking out of a trap of pomp and politics."
   - id: "webster-the-orator-of-a-nation"
     trigger: "Webster"
     title: "The Man Who Defended the Constitution"
@@ -81,7 +130,7 @@ enhancements:
   - id: "records-of-the-philosophical-societies-legacy-of-thought"
     trigger: "Records of the Philosophical Societies"
     title: "Do These Societies Still Matter Today?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophical_society"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Learned_society"
     image_url: ""
     image_caption: ""
     content: "Thoreau refers to the 'Records of the Philosophical Societies' to critique humanity’s self-congratulatory tendencies. These societies, dedicated to intellectual inquiry, often serve as repositories of human achievement. Yet Thoreau questions their relevance, suggesting that true progress lies not in preserving past accomplishments but in pursuing fresh, uncharted intellectual and moral territories. This reference encapsulates his challenge to complacency and his call for continuous exploration and growth."
@@ -92,6 +141,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau invokes the seventeen-year locust, or periodical cicada, as a metaphor for humanity’s untapped potential. These insects, known for their extraordinary life cycle, spend years underground before emerging in a dramatic display of renewal. Thoreau uses this image to suggest that society, like the locust, harbors dormant possibilities waiting to surface. This metaphor aligns with his broader themes of patience, transformation, and the cyclical nature of life and progress."
+  - id: "paley"
+    trigger: "Paley"
+    title: "The Moralist Thoreau Argues With"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Paley"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that Paley, a common authority with many on moral questions, in his chapter on the Duty of Submission to Civil Government, resolves all civil obligation into expediency. William Paley, an English clergyman and philosopher of the late eighteenth century, wrote the Principles of Moral and Political Philosophy, of 1785, a standard textbook at Harvard in Thoreau’s time. He taught that one should obey the government as long as it is for the public good. Thoreau answers that when a government is unjust, one must refuse."
+  - id: "copernicus-and-luther"
+    trigger: "Copernicus and Luther"
+    title: "The Reformers a State Calls Heretics"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks why the State always crucifies Christ, and excommunicates Copernicus and Luther, and pronounces Washington and Franklin rebels. Martin Luther was excommunicated by Pope Leo X in 1521, and Copernicus, the Polish astronomer who placed the sun at the centre of the solar system in 1543, was not himself excommunicated, though his book was put on the Index of banned books in 1616. Thoreau is condensing history to argue that governments punish those who are ahead of their time, which is also how he sees himself."
+  - id: "my-prisons"
+    trigger: "My Prisons"
+    title: "The Night in Jail Behind a Famous Title"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Silvio_Pellico"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau ends his account of his night in the Concord jail by saying, this is the whole history of My Prisons. My Prisons, or Le mie prigioni, is the memoir by the Italian patriot Silvio Pellico, published in 1832, which tells of his ten years in Austrian prisons, and which was a bestseller in America. Thoreau’s joke is that his own imprisonment, which lasted a single night in July 1846 for refusing to pay a poll tax, ended when someone paid it for him, and so was hardly a martyrdom."
   - id: "the-new-testament-legislation-and-morality"
     trigger: "the New Testament"
     title: "Can Ancient Wisdom Guide Modern Laws?"
@@ -136,7 +206,7 @@ Mississippi, or a North-West Passage around this continent, that we
 would find? Are these the problems which most concern mankind? Is
 Franklin the only man who is lost, that his wife should be so earnest
 to find him? Does Mr. Grinnell know where he himself is? Be rather the
-Mungo Park, the Lewis and Clarke and Frobisher, of your own streams and
+**Mungo Park**, the **Lewis and Clarke** and **Frobisher**, of your own streams and
 oceans; explore your own higher latitudes,—with shiploads of preserved
 meats to support you, if they be necessary; and pile the empty cans
 sky-high for a sign. Were preserved meats invented to preserve meat
@@ -147,8 +217,8 @@ a petty state, a hummock left by the ice. Yet some can be patriotic who
 have no _self_-respect, and sacrifice the greater to the less. They
 love the soil which makes their graves, but have no sympathy with the
 spirit which may still animate their clay. Patriotism is a maggot in
-their heads. What was the meaning of that South-Sea Exploring
-Expedition, with all its parade and expense, but an indirect
+their heads. What was the meaning of that **South-Sea Exploring
+Expedition**, with all its parade and expense, but an indirect
 recognition of the fact, that there are continents and seas in the
 moral world to which every man is an isthmus or an inlet, yet
 unexplored by him, but that it is easier to sail many thousand miles
@@ -179,7 +249,7 @@ Pacific, nor conduct toward a worn-out China or Japan, but leads on
 direct a tangent to this sphere, summer and winter, day and night, sun
 down, moon down, and at last earth down too.
 
-It is said that Mirabeau took to highway robbery “to ascertain what
+It is said that **Mirabeau** took to highway robbery “to ascertain what
 degree of resolution was necessary in order to place one’s self in
 formal opposition to the most sacred laws of society.” He declared that
 “a soldier who fights in the ranks does not require half so much
@@ -256,7 +326,7 @@ they express by snoring. Sometimes we are inclined to class those who
 are once-and-a-half-witted with the half-witted, because we appreciate
 only a third part of their wit. Some would find fault with the
 morning-red, if they ever got up early enough. “They pretend,” as I
-hear, “that the verses of Kabir have four different senses; illusion,
+hear, “that the verses of **Kabir** have four different senses; illusion,
 spirit, intellect, and the exoteric doctrine of the Vedas;” but in this
 part of the world it is considered a ground for complaint if a man’s
 writings admit of more than one interpretation. While England endeavors
@@ -384,7 +454,7 @@ about costume and manners chiefly; but a goose is a goose still, dress
 it as you will. They tell me of California and Texas, of England and
 the Indies, of the Hon. Mr. —— of Georgia or of Massachusetts, all
 transient and fleeting phenomena, till I am ready to leap from their
-court-yard like the Mameluke bey. I delight to come to my bearings,—not
+court-yard like the **Mameluke** bey. I delight to come to my bearings,—not
 walk in procession with pomp and parade, in a conspicuous place, but to
 walk even with the Builder of the universe, if I may,—not to live in
 this restless, nervous, bustling, trivial Nineteenth Century, but stand
@@ -807,8 +877,8 @@ it worse. Why is it not more apt to anticipate and provide for reform?
 Why does it not cherish its wise minority? Why does it cry and resist
 before it is hurt? Why does it not encourage its citizens to be on the
 alert to point out its faults, and _do_ better than it would have them?
-Why does it always **crucify Christ**, and excommunicate Copernicus and
-Luther, and pronounce Washington and Franklin rebels?
+Why does it always **crucify Christ**, and excommunicate **Copernicus and
+Luther**, and pronounce Washington and Franklin rebels?
 
 One would think, that a deliberate and practical denial of its
 authority was the only offence never contemplated by government; else,

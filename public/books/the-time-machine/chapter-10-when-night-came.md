@@ -22,7 +22,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Milky_Way"
     link_label: "Milky Way"
   - point: "The Time Traveller plans to create weapons and fire to defend himself and retrieve the Time Machine."
-    link: "https://en.wikipedia.org/wiki/White_Sphinx"
+    link: "https://en.wikipedia.org/wiki/Sphinx"
     link_label: "White Sphinx"
   - point: "He realizes the Morlocks have resorted to cannibalism due to a shortage of food, preying on the Eloi."
     link: "https://en.wikipedia.org/wiki/Cannibalism"
@@ -36,6 +36,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller describes the Morlocks as having a 'sickening quality,' he is not merely commenting on their physical appearance but their inhuman and malign nature. This moment marks a shift in his perception—from seeing them as mysterious subterranean beings to recognizing them as a genuine threat. The Morlocks, evolved from the working class, have adapted to life underground, becoming pale, light-sensitive, and predatory. Their existence is a chilling commentary on the consequences of extreme social stratification. Wells uses the Morlocks to explore the darker side of human evolution, suggesting that exploitation and division can lead to grotesque transformations. This realization deepens the Time Traveller’s horror and forces him to confront the full implications of humanity’s decline."
+  - id: "carlovignan-kings"
+    trigger: "Carlovignan kings"
+    title: "The Do-Nothing Kings of Early France"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Roi_fain%C3%A9ant"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller compares the Eloi to the Carlovignan kings, who had decayed to a mere beautiful futility. The reference points to the so-called do-nothing kings of early medieval France, the late Merovingian rulers, who kept the title and the ceremonies of royalty while real power passed to the mayors of the palace, and who were said to ride about in ox-carts. Wells’s spelling is odd, but the comparison is clear. The Eloi possess the earth on sufferance, like kings with no power, while the real force in their world is hidden below."
+  - id: "nemesis"
+    trigger: "Nemesis"
+    title: "The Goddess of Retribution in the Traveller’s Theory"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nemesis"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says that the Nemesis of the delicate ones was creeping on apace. In Greek religion Nemesis was the goddess of retribution, who punished arrogance and unearned good fortune. Wells uses her name for the punishment of a privileged class: the comfortable Eloi had thrust their brother man out of the ease and the sunshine, and now that brother is coming back changed. The allusion lifts a social argument into the language of tragedy, and it shows that the traveller’s explanation has become a moral one as well as a scientific one."
   - id: "meat-i-had-seen-in-the-underworld"
     trigger: "the meat I had seen in the Underworld"
     title: "The Horrifying Truth About Morlock Cuisine"
@@ -50,6 +64,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Palace of Green Porcelain, remembered by the Time Traveller as a potential refuge, is a striking image of humanity’s past achievements. In the story, it is revealed to be a museum, filled with relics of a bygone era. The name evokes a sense of fragility and beauty, contrasting sharply with the harsh realities of the Eloi and Morlocks. Museums often serve as repositories of knowledge and culture, but here, the Palace is a haunting reminder of humanity’s decline. Wells uses this setting to explore themes of impermanence and the erosion of progress. For the Time Traveller, the Palace represents both hope and despair—a place of safety but also a symbol of what has been lost."
+  - id: "wimbledon"
+    trigger: "Wimbledon"
+    title: "The Hill Route Toward the Palace"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wimbledon,_London"
+    image_url: ""
+    image_caption: ""
+    content: "Carrying Weena toward the Palace of Green Porcelain, the Time Traveller crosses the hill crest towards Wimbledon. Wimbledon, in south-west London, stands on high ground with a large common, and in the 1890s it was a growing suburb best known for the annual lawn tennis championships, which began there in 1877. Wells keeps the traveller’s journey on the real map of Surrey and London, so readers who knew the area could imagine the walk. The use of ordinary names makes the strange world feel more real and more disturbing."
+  - id: "a-faun-or-some-such-figure"
+    trigger: "a Faun, or some such figure"
+    title: "The Headless Statue in the Dark Valley"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Faun"
+    image_url: ""
+    image_caption: ""
+    content: "In the dim valley the Time Traveller passes a statue of a Faun, or some such figure, minus the head. A faun is a Roman woodland spirit, half man and half goat, like the Greek satyr, and statues of fauns were popular in Victorian parks and gardens. A headless one is a fitting image of the fallen civilisation, with the body of art still standing but the mind lost. The traveller passes it quickly, since he is carrying a sleeping child and watching for Morlocks, but the small eerie detail adds to the night mood."
   - id: "milky-way"
     trigger: "the Milky Way"
     title: "Why the Stars Still Shine in the Distant Future"
@@ -57,6 +85,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the Time Traveller gazes at the Milky Way, he finds a moment of solace amidst his fears. The stars, unchanged by time, remind him of the vastness and permanence of the universe. The Milky Way, a barred spiral galaxy containing billions of stars, has been a source of wonder for humanity throughout history. Its constancy contrasts with the fleeting and fragile existence of the Eloi and Morlocks. Wells uses this celestial imagery to evoke a sense of perspective, suggesting that while human civilizations rise and fall, the universe endures. For the Time Traveller, the stars are a comforting reminder of something greater than the horrors he faces—a timeless anchor in a world of decay."
+  - id: "our-own-green-sirius"
+    trigger: "our own green Sirius"
+    title: "The Star That Shone Green in the Future Sky"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sirius"
+    image_url: ""
+    image_caption: ""
+    content: "Looking at the strange sky, the Time Traveller sees a very bright red star that is new to him, even more splendid than our own green Sirius. Sirius, the brightest star in the night sky, lies in Canis Major and appears blue-white, though near the horizon the atmosphere makes it flash with changing colours. Wells’s image of a green Sirius is probably from such a view. Because the stars move slowly, the constellations have been rearranged, a fine piece of astronomical thought. It shows how far he has travelled in time, as even the sky has changed."
   - id: "great-precessional-cycle"
     trigger: "the great precessional cycle"
     title: "How Earth’s Axis Slowly Redraws the Sky"
@@ -71,10 +106,24 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller deduces that the Morlocks turned to cannibalism after their food supply dwindled. This chilling realization highlights the brutal survival instincts that emerge in times of scarcity. Historically, cannibalism has been documented in extreme situations, such as the Donner Party tragedy or shipwreck survivors. Wells uses this horrifying detail to explore the consequences of societal collapse and the erosion of moral boundaries. The Morlocks, once human, have devolved into predators, preying on the Eloi as livestock. This revelation forces the Time Traveller to confront the darkest aspects of evolution and human nature, deepening the novel’s exploration of class, survival, and the fragility of civilization."
+  - id: "cannibal-ancestors"
+    trigger: "cannibal ancestors"
+    title: "The Taboo the Morlocks Have Broken"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cannibalism"
+    image_url: ""
+    image_caption: ""
+    content: "Reasoning about the Morlocks, the Time Traveller says that they were less human and more remote than our cannibal ancestors of three or four thousand years ago, and that man’s prejudice against human flesh is no deep-seated instinct. Anthropologists of Wells’s day debated whether cannibalism had been a stage in human history, and evidence suggests that it occurred in some societies. The traveller’s cold, scientific argument is an attempt to calm his horror. It also shows how the story uses evolution to shake comfortable beliefs about human nature."
+  - id: "carlyle-like-scorn"
+    trigger: "Carlyle-like scorn"
+    title: "The Victorian Prophet in the Traveller’s Mood"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Thomas_Carlyle"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller tries a Carlyle-like scorn of this wretched aristocracy in decay. Thomas Carlyle, the Scottish historian and essayist, was the great moral prophet of Victorian Britain, and in books such as Past and Present he attacked an idle aristocracy and a society that ignored its poor. The traveller’s scorn is cut short, because the Eloi are too human to hate. Wells gives the allusion with irony, since Carlyle’s anger could not account for what the traveller has found. The attempt and its failure show the gentleness beneath his anger."
   - id: "doors-of-bronze-under-the-white-sphinx"
     trigger: "the doors of bronze under the White Sphinx"
     title: "What Lies Behind the White Sphinx’s Doors?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/White_Sphinx"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sphinx"
     image_url: ""
     image_caption: ""
     content: "The Time Traveller’s plan to break open the bronze doors beneath the White Sphinx is driven by his determination to retrieve the Time Machine. The White Sphinx, a mysterious statue, symbolizes the enigmatic and oppressive nature of the future world. In mythology, sphinxes are often guardians of secrets, posing riddles to those who seek passage. Wells uses this imagery to heighten the suspense and mystery surrounding the Time Machine’s disappearance. The bronze doors represent a barrier between the Time Traveller and his escape, forcing him to confront the Morlocks and their subterranean domain. This moment encapsulates the novel’s themes of struggle, ingenuity, and the quest for knowledge in the face of adversity."
@@ -104,7 +153,7 @@ people might once have been the favoured aristocracy, and the Morlocks
 their mechanical servants: but that had long since passed away. The two
 species that had resulted from the evolution of man were sliding down
 towards, or had already arrived at, an altogether new relationship. The
-Eloi, like the Carlovignan kings, had decayed to a mere beautiful
+Eloi, like the **Carlovignan kings**, had decayed to a mere beautiful
 futility. They still possessed the earth on sufferance: since the
 Morlocks, subterranean for innumerable generations, had come at last to
 find the daylit surface intolerable. And the Morlocks made their
@@ -113,7 +162,7 @@ perhaps through the survival of an old habit of service. They did it as
 a standing horse paws with his foot, or as a man enjoys killing animals
 in sport: because ancient and departed necessities had impressed it on
 the organism. But, clearly, the old order was already in part reversed.
-The Nemesis of the delicate ones was creeping on apace. Ages ago,
+The **Nemesis** of the delicate ones was creeping on apace. Ages ago,
 thousands of generations ago, man had thrust his brother man out of the
 ease and the sunshine. And now that brother was coming back—changed!
 Already the Eloi had begun to learn one old lesson anew. They were
@@ -163,7 +212,7 @@ placed two withered flowers, not unlike very large white mallows, upon
 the little table. Then he resumed his narrative._
 
 “As the hush of evening crept over the world and we proceeded over the
-hill crest towards Wimbledon, Weena grew tired and wanted to return to
+hill crest towards **Wimbledon**, Weena grew tired and wanted to return to
 **the house of grey stone**. But I pointed out the distant pinnacles of the
 Palace of Green Porcelain to her, and contrived to make her understand
 that we were seeking a refuge there from her Fear. You know that great
@@ -188,7 +237,7 @@ and, closing her eyes, tightly pressed her face against my shoulder. So
 we went down a long slope into a valley, and there in the dimness I
 almost walked into a little river. This I waded, and went up the
 opposite side of the valley, past a number of sleeping houses, and by a
-statue—a Faun, or some such figure, _minus_ the head. Here too were
+statue—**a Faun, or some such figure**, _minus_ the head. Here too were
 acacias. So far I had seen nothing of the Morlocks, but it was yet
 early in the night, and the darker hours before the old moon rose were
 still to come.
@@ -218,7 +267,7 @@ hundred human lifetimes, had long since rearranged them in unfamiliar
 groupings. But **the Milky Way**, it seemed to me, was still the same
 tattered streamer of star-dust as of yore. Southward (as I judged it)
 was a very bright red star that was new to me; it was even more
-splendid than our own green Sirius. And amid all these scintillating
+splendid than **our own green Sirius**. And amid all these scintillating
 points of light one bright planet shone kindly and steadily like the
 face of an old friend.
 
@@ -266,7 +315,7 @@ man is far less discriminating and exclusive in his food than he
 was—far less than any monkey. His prejudice against human flesh is no
 deep-seated instinct. And so these inhuman sons of men——! I tried to
 look at the thing in a scientific spirit. After all, they were less
-human and more remote than our cannibal ancestors of three or four
+human and more remote than our **cannibal ancestors** of three or four
 thousand years ago. And the intelligence that would have made this
 state of things a torment had gone. Why should I trouble myself? These
 Eloi were mere fatted cattle, which the ant-like Morlocks preserved and
@@ -278,7 +327,7 @@ me, by regarding it as a rigorous punishment of human selfishness. Man
 had been content to live in ease and delight upon the labours of his
 fellow-man, had taken Necessity as his watchword and excuse, and in the
 fullness of time Necessity had come home to him. I even tried a
-Carlyle-like scorn of this wretched aristocracy in decay. But this
+**Carlyle-like scorn** of this wretched aristocracy in decay. But this
 attitude of mind was impossible. However great their intellectual
 degradation, the Eloi had kept too much of the human form not to claim
 my sympathy, and to make me perforce a sharer in their degradation and

@@ -36,6 +36,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the narrator first encounters the Palace of Green Porcelain, its grandeur has faded into decay, with shattered windows and corroded framework. This moment evokes the fragility of human achievement, as even monumental structures succumb to time. The choice of porcelain as the building material is intriguing; porcelain, known for its durability and beauty, ironically becomes a symbol of impermanence in this dystopian future. In the late 19th century, porcelain was often associated with refinement and progress, making its ruin here a poignant commentary on the fleeting nature of civilization. Wells uses this setting to underscore the theme of entropy, showing how even the most advanced creations of humanity are ultimately vulnerable to the inexorable forces of decay. The Palace becomes a haunting metaphor for the collapse of intellectual and cultural ambition, setting the stage for the narrator's exploration of its remnants."
+  - id: "megatherium"
+    trigger: "Megatherium"
+    title: "The Giant Sloth Skeleton in the Ruined Museum"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Megatherium"
+    image_url: ""
+    image_caption: ""
+    content: "In the gallery of the Palace the Time Traveller finds the lower part of a huge skeleton, which he recognises by its oblique feet as an extinct creature after the fashion of the Megatherium. The Megatherium was a giant ground sloth of South America, as big as an elephant, which died out about ten thousand years ago. Charles Darwin found its fossils on the voyage of the Beagle, and casts of its skeleton were on show in London museums. Wells chooses a creature familiar to Victorian museum visitors, and a gaunt skeleton of an extinct giant is a fitting emblem of an extinct civilisation."
+  - id: "brontosaurus"
+    trigger: "Brontosaurus"
+    title: "The Dinosaur Skeleton in the Future Museum"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brontosaurus"
+    image_url: ""
+    image_caption: ""
+    content: "Further in the gallery the traveller sees the huge skeleton barrel of a Brontosaurus. The name, meaning thunder lizard, was given by the American palaeontologist Othniel Marsh in 1879 to a giant long-necked dinosaur from the Jurassic rocks of the American West, and it became one of the most famous prehistoric animals. Museums began to display such skeletons in the 1890s. Wells’s mention gives the ruined hall a sense of deep time, in which a museum of the distant future contains the remains of ages that already seemed unimaginably remote to the Victorians."
   - id: "south-kensington"
     trigger: "South Kensington"
     title: "Was This Museum Inspired by London's Science Hub?"
@@ -43,6 +57,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator likens the Palace of Green Porcelain to South Kensington, a district in London renowned for its museums, including the Natural History Museum and the Science Museum. This comparison is no accident; by the time Wells wrote \"The Time Machine,\" South Kensington had become synonymous with scientific and cultural advancement. These institutions were showcases of human ingenuity, housing collections that celebrated the triumphs of exploration and discovery. Yet, in Wells's imagined future, the museum's treasures lie in ruin, a stark reminder of the impermanence of progress. By invoking South Kensington, Wells draws a direct line between the optimism of his own era and the dystopian decay he envisions, challenging readers to consider the long-term sustainability of human achievement. The narrator's discovery of fossils and machinery amidst the dust echoes the fragility of the knowledge preserved in such institutions, raising questions about what truly endures."
+  - id: "rolling-a-sea-urchin"
+    trigger: "rolling a sea urchin"
+    title: "Weena Plays With a Fossil Toy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sea_urchin"
+    image_url: ""
+    image_caption: ""
+    content: "While the Time Traveller stares at the cases, Weena is rolling a sea urchin down the sloping glass of one. Sea urchins are spiny, round marine animals, and fossil urchins are common in chalk and were collected as curiosities by Victorian amateurs. The little scene shows her as a child with an old specimen for a toy. It also shows how little the Eloi value learning, as they treat the treasures of the museum as playthings, and the gentle picture of the girl and the fossil emphasises the loss of knowledge."
+  - id: "no-saltpetre"
+    trigger: "no saltpetre"
+    title: "The Missing Ingredient for Gunpowder"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Potassium_nitrate"
+    image_url: ""
+    image_caption: ""
+    content: "Looking at a block of sulphur, the Time Traveller thinks of gunpowder, but finds no saltpetre, indeed no nitrates of any kind. Saltpetre, or potassium nitrate, is the oxidising agent in gunpowder, which is made from it with charcoal and sulphur in proportions of about 75, 15 and 10 per cent. Nitrates absorb water from the air and dissolve, so they would not survive for ages. The traveller shows his practical, scientific mind, as he tries to work out how to make a weapon from a museum’s minerals. It also shows how much he has to improvise."
   - id: "gallery-of-simply-colossal-proportions"
     trigger: "gallery of simply colossal proportions"
     title: "What Secrets Lurked in This Vast Hall?"
@@ -57,6 +85,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator's sense of unease intensifies when he hears a peculiar pattering in the gallery's darkness. This sound, reminiscent of the noises he encountered near the Morlocks' underground lair, reignites his fear of these sinister creatures. The pattering is more than just a physical noise; it symbolizes the lurking threat of the Morlocks and their dominance in this dystopian world. Wells's depiction of the Morlocks as shadowy, almost animalistic figures taps into Victorian anxieties about the consequences of social and technological divides. The pattering serves as a chilling reminder of the narrator's vulnerability and the predatory nature of the Morlocks. By focusing on sound rather than sight, Wells heightens the suspense and immerses readers in the narrator's growing dread. This moment underscores the tension between light and darkness, knowledge and ignorance, as the narrator struggles to navigate a world where danger is always just out of view."
+  - id: "signal-box"
+    trigger: "signal-box"
+    title: "The Railway Lever That Became a Weapon"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Signal_box"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller turns to a machine with a lever not unlike those in a signal-box, and breaks the lever off to make a mace. A signal box is a railway building where an operator moves long levers to control points and signals, and by the 1890s such interlocking systems were central to safe railway travel in Britain. Wells’s comparison speaks to readers who knew railway stations well. The scene shows his inventiveness and also his readiness to be violent, as he longs to kill a Morlock or so."
   - id: "decaying-vestiges-of-books"
     trigger: "decaying vestiges of books"
     title: "What Do Rotting Books Say About Civilization?"
@@ -64,6 +99,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator's discovery of decaying books in the Palace of Green Porcelain is a poignant moment that encapsulates the fragility of human knowledge. The books, reduced to warped boards and metallic clasps, symbolize the impermanence of intellectual achievement. Wells's choice to highlight the decay of literature reflects his concern about the sustainability of cultural progress. In the Victorian era, libraries were seen as bastions of enlightenment, preserving the collective wisdom of humanity. Yet, in this dystopian future, even the most carefully curated collections have succumbed to time. The narrator's reflection on the \"enormous waste of labour\" speaks to the futility of ambition in the face of entropy. This moment invites readers to consider the legacy of their own era and the forces that threaten to erase it. The decaying books become a haunting metaphor for the ephemerality of human endeavor, challenging the belief in the permanence of progress."
+  - id: "philosophical-transactions"
+    trigger: "Philosophical Transactions"
+    title: "The Oldest Scientific Journal in the Ruined Library"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society"
+    image_url: ""
+    image_caption: ""
+    content: "Looking at the rotting remains of books, the Time Traveller thinks chiefly of the Philosophical Transactions and his own seventeen papers upon physical optics. The Philosophical Transactions of the Royal Society, first published in 1665, is the oldest scientific journal in the world, and publishing in it was a mark of success for a Victorian scientist. His joke about his papers is gently self-mocking, and it shows that he is a serious researcher. The decayed library makes him feel the waste of labour, as all the learning of the age has turned to brown dust."
+  - id: "camphor"
+    trigger: "camphor"
+    title: "The Fragrant Candle That Survived the Ages"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Camphor"
+    image_url: ""
+    image_caption: ""
+    content: "In a sealed jar the Time Traveller finds camphor, a volatile substance that has survived by chance for perhaps many thousands of centuries. Camphor is a waxy white crystalline solid with a strong smell, obtained from the camphor laurel tree of East Asia, and was used in medicine and to keep moths from clothes. It burns with a bright flame, which is why he calls it an excellent candle. Wells makes a small, believable detail into a key plot point, since the camphor will give him light to hold off the Morlocks in the forest."
   - id: "sealed-jar"
     trigger: "sealed jar"
     title: "How Did Camphor Survive Thousands of Years?"
@@ -103,11 +152,11 @@ thick with dust, and a remarkable array of miscellaneous objects was
 shrouded in the same grey covering. Then I perceived, standing strange
 and gaunt in the centre of the hall, what was clearly the lower part of
 a huge skeleton. I recognised by the oblique feet that it was some
-extinct creature after the fashion of the Megatherium. The skull and
+extinct creature after the fashion of the **Megatherium**. The skull and
 the upper bones lay beside it in the thick dust, and in one place,
 where rain-water had dropped through a leak in the roof, the thing
 itself had been worn away. Further in the gallery was the huge skeleton
-barrel of a Brontosaurus. My museum hypothesis was confirmed. Going
+barrel of a **Brontosaurus**. My museum hypothesis was confirmed. Going
 towards the side I found what appeared to be sloping shelves, and
 clearing away the thick dust, I found the old familiar glass cases of
 our own time. But they must have been air-tight to judge from the fair
@@ -124,7 +173,7 @@ the little people in the shape of rare fossils broken to pieces or
 threaded in strings upon reeds. And the cases had in some instances
 been bodily removed—by the Morlocks, as I judged. The place was very
 silent. The thick dust deadened our footsteps. Weena, who had been
-rolling a sea urchin down the sloping glass of a case, presently came,
+**rolling a sea urchin** down the sloping glass of a case, presently came,
 as I stared about me, and very quietly took my hand and stood beside
 me.
 
@@ -140,7 +189,7 @@ my present circumstances, these would be vastly more interesting than
 this spectacle of old-time geology in decay. Exploring, I found another
 short gallery running transversely to the first. This appeared to be
 devoted to minerals, and the sight of a block of sulphur set my mind
-running on gunpowder. But I could find no saltpetre; indeed, no
+running on gunpowder. But I could find **no saltpetre**; indeed, no
 nitrates of any kind. Doubtless they had deliquesced ages ago. Yet the
 sulphur hung in my mind, and set up a train of thinking. As for the
 rest of the contents of that gallery, though on the whole they were the
@@ -192,7 +241,7 @@ heard down the well.
 
 “I took Weena’s hand. Then, struck with a sudden idea, I left her and
 turned to a machine from which projected a lever not unlike those in a
-signal-box. Clambering upon the stand, and grasping this lever in my
+**signal-box**. Clambering upon the stand, and grasping this lever in my
 hands, I put all my weight upon it sideways. Suddenly Weena, deserted
 in the central aisle, began to whimper. I had judged the strength of
 the lever pretty correctly, for it snapped after a minute’s strain, and
@@ -216,7 +265,7 @@ tale well enough. Had I been a literary man I might, perhaps, have
 moralised upon the futility of all ambition. But as it was, the thing
 that struck me with keenest force was the enormous waste of labour to
 which this sombre wilderness of rotting paper testified. At the time I
-will confess that I thought chiefly of the _Philosophical Transactions_
+will confess that I thought chiefly of the _**Philosophical Transactions**_
 and my own seventeen papers upon physical optics.
 
 “Then, going up a broad staircase, we came to what may once have been a
@@ -237,7 +286,7 @@ For I am naturally inventive, as you know.
 “Now, I still think that for this box of matches to have escaped the
 wear of time for immemorial years was a most strange, as for me it was
 a most fortunate, thing. Yet, oddly enough, I found a far unlikelier
-substance, and that was camphor. I found it in a **sealed jar**, that by
+substance, and that was **camphor**. I found it in a **sealed jar**, that by
 chance, I suppose, had been really hermetically sealed. I fancied at
 first that it was paraffin wax, and smashed the glass accordingly. But
 the odour of camphor was unmistakable. In the universal decay this

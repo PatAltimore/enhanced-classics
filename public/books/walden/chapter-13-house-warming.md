@@ -57,6 +57,55 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau’s use of second-hand bricks for his chimney leads him to reflect on ancient Mesopotamian villages built from the ruins of Babylon. These bricks, often inscribed with Nebuchadnezzar’s name, carried history and resilience. Babylon, once a center of civilization, now serves as a poignant reminder of impermanence. Thoreau’s deliberate reuse of materials echoes his ethos of sustainability and resourcefulness. By connecting his humble chimney to the grandeur of Babylon, he elevates his act of construction into a meditation on endurance and the cyclical nature of human achievement."
+  - id: "babylon"
+    trigger: "Babylon"
+    title: "The Bricks of Mesopotamian Villages"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Babylon"
+    image_url: ""
+    image_caption: ""
+    content: "Cleaning old bricks for his chimney, Thoreau says that many of the villages of Mesopotamia are built of second-hand bricks of a very good quality, obtained from the ruins of Babylon, and the cement on them is older and probably harder still. Babylon, on the Euphrates south of modern Baghdad, was the capital of the Babylonian empire, and its huge brick walls and temples were quarried for building material for centuries. Thoreau’s recycling of bricks puts him in a long line of builders who reuse what earlier hands have made."
+  - id: "nebuchadnezzar"
+    trigger: "Nebuchadnezzar"
+    title: "The King Whose Name Was Stamped on Bricks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nebuchadnezzar_II"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that, as his bricks had been in a chimney before, though he did not read the name of Nebuchadnezzar on them, he picked out as many fire-place bricks as he could find. Nebuchadnezzar II, who ruled Babylon from 605 to 562 BC and rebuilt the city, had his name stamped on the bricks of the palace and temples, so that excavated bricks from Babylon bear an inscription. Thoreau’s joke makes a Concord chimney a modest relation of a Babylonian one, and it also shows his respect for old, well-made things."
+  - id: "cato-says-the-master-of-a-family"
+    trigger: "Cato says, the master of a family"
+    title: "The Roman Farm Manual and the Single Room"
+    wikipedia_url: "https://en.wikipedia.org/wiki/De_agri_cultura"
+    image_url: ""
+    image_caption: ""
+    content: "Describing his single room, which was kitchen, chamber, parlour and keeping-room, Thoreau quotes Cato: the master of a family must have in his rustic villa a cellar for oil and wine, and many casks, so that it may be pleasant to look at his stores. Cato the Elder’s De agri cultura, written about 160 BC, lists what a good farm needs. Thoreau enjoys the match between his own cabin and the ideal of the old Roman, who also stored his provisions in the same building with his family, and he cites the old farmer with amused respect."
+  - id: "king-and-queen-posts"
+    trigger: "king and queen posts"
+    title: "The Roof Timbers of an Old-Fashioned House"
+    wikipedia_url: "https://en.wikipedia.org/wiki/King_post"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau praises a house with an open roof, where the king and queen posts stand out to receive your homage. A king post is a vertical timber in a roof truss that runs from the tie beam to the ridge, and a queen post design uses two such posts side by side to give a wider span. They were commonly built in barns and old houses. Thoreau likes homes where the structure is visible, since the carpenter’s work is part of the beauty, and he disliked plastered ceilings that hide the frame."
+  - id: "prostrate-saturn"
+    trigger: "prostrate Saturn"
+    title: "The Old God Under the Threshold"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Saturn_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "Describing a house like a cavern, Thoreau mentions the king and queen posts which stand out to receive homage, when you have done reverence to the prostrate Saturn of an older dynasty on stepping over the sill. Saturn was the Roman god of agriculture, who was overthrown by his son Jupiter, and whose reign was the Golden Age. Thoreau is playing on the idea of an old god lying under the threshold, as an image for the old ways of building that the modern house has forgotten."
+  - id: "isle-of-man"
+    trigger: "Isle of Man"
+    title: "A Small Island Where Parliament Is Very Old"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Isle_of_Man"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks how the scholar, who dwells away in the North West Territory or the Isle of Man, can tell what is parliamentary in the kitchen. The Isle of Man, in the Irish Sea, has one of the oldest continuous parliaments in the world, the Tynwald, founded more than a thousand years ago, and so it is a witty choice. The remark is part of a defence of everyday speech: Thoreau says that the language of a farm kitchen is nearer to nature than that of the scholar’s study."
+  - id: "unio-fluviatilis"
+    trigger: "Unio fluviatilis"
+    title: "Lime From the Shells of the River"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Unionidae"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the previous winter he had made a small quantity of lime by burning the shells of the Unio fluviatilis, which the river affords, for the sake of the experiment. Unio is a genus of freshwater mussels, found in rivers and lakes, and their shells, made of calcium carbonate, give lime when heated in a fire. Thoreau wanted to find out whether he could make his own plaster for his walls. The experiment illustrates the self-reliance and curiosity that run through the book."
   - id: "geese-came-lumbering-in"
     trigger: "geese came lumbering in"
     title: "The Night Migration of Winter Geese"
@@ -71,13 +120,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau humorously describes burning an old forest fence as a sacrifice to Vulcan, the Roman god of fire and craftsmanship. Vulcan, often associated with the forge, symbolizes transformation through heat and labor. By invoking this deity, Thoreau elevates the mundane act of burning wood into a ritual of renewal. His reverence for fire as both sustenance and symbol reflects his broader themes of simplicity and connection to elemental forces. The fence, once a boundary, becomes fuel for warmth, embodying the cycle of destruction and creation that defines his life at Walden."
+  - id: "terminus"
+    trigger: "Terminus"
+    title: "The Roman God of Boundary Stones and an Old Fence"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Terminus_(god)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he hauled an old forest fence which had seen its best days and sacrificed it to Vulcan, for it was past serving the god Terminus. Terminus was the Roman god of boundary markers, whose festival, the Terminalia, was held each year on 23 February, when neighbours gathered to make offerings at their boundary stones. A fence marks a boundary, so it serves him. Thoreau turns a rotten fence rail into firewood with a classical joke, and so places his humble labour in the line of old rites."
   - id: "purprestures"
     trigger: "_purprestures_"
     title: "The Forest Trespasses That Frightened Game"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Forest_Law"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Royal_forest"
     image_url: ""
     image_caption: ""
     content: "Thoreau references \"purprestures,\" a term from old English forest law denoting unauthorized encroachments on royal forests. These acts, punished severely, were seen as threats to wildlife and the sanctity of the woods. Forest law, rooted in medieval England, aimed to preserve game for the aristocracy while restricting commoners’ access. Thoreau’s invocation of this term critiques modern attitudes toward nature, where forests are exploited without reverence. By contrasting ancient awe with contemporary indifference, he calls for a renewed sense of stewardship and respect for the wild."
+  - id: "lord-warden"
+    trigger: "Lord Warden"
+    title: "The Keeper of the Forest’s Venison and Vert"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Verderer"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he was interested in the preservation of the venison and the vert more than the hunters or woodchoppers, and as much as though he had been the Lord Warden himself. In medieval England the royal forests were protected by forest law, under which the deer, called venison, and the trees and bushes that sheltered them, called vert, were guarded by officers called verderers and wardens. Thoreau jokes that when he accidentally set fire to a part of the woods, he felt as sorrowful as a warden whose forest was burned."
   - id: "price-of-wood-for-fuel"
     trigger: "price of wood for fuel"
     title: "Why Wood Was Pricier Than Gold in Paris"
@@ -85,6 +148,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau notes that the price of wood for fuel in New York and Philadelphia rivaled that in Paris, despite the latter’s immense demand. Firewood, essential for heating and cooking, has historically been a precious commodity, shaping economies and cultures. In Paris, over 300,000 cords were consumed annually, underscoring its universal value. Thoreau’s observation highlights the enduring importance of wood, even in an age of industrial progress. By cherishing his own woodpile, he connects to a timeless human need, finding joy and meaning in the simple act of warming himself."
+  - id: "robinhood"
+    trigger: "Robinhood"
+    title: "The Outlaw of Sherwood Forest"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Robin_Hood"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s list of those who have resorted to the forest for fuel and the materials of the arts includes the farmer and Robinhood. Robin Hood, the legendary outlaw of Sherwood Forest in England, who robbed the rich to help the poor, appears in ballads from the fifteenth century, and was a favourite hero of the nineteenth. Thoreau puts him next to the farmer and the poor woman, in a series of figures across the world and across class, to show that the woods belong to everyone."
+  - id: "goody-blake"
+    trigger: "Goody Blake"
+    title: "The Poem of the Old Woman Who Gathered Firewood"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lyrical_Ballads"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau lists those who have long resorted to the forest for fuel, the farmer and Robinhood, Goody Blake and Harry Gill. Goody Blake and Harry Gill is a ballad by William Wordsworth in Lyrical Ballads of 1798, in which a poor old woman takes sticks from a farmer’s hedge for firewood, and the farmer, who catches her, is cursed to feel cold for the rest of his life, his teeth chattering. Thoreau’s list moves from the outlaw to the poor, and shows that the forest has served all kinds of people in need."
+  - id: "fat-pine-roots"
+    trigger: "fat pine roots"
+    title: "The Resinous Wood That Burns Like a Torch"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fatwood"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that in previous years he had often gone prospecting over some bare hillside, where a pitch-pine wood had formerly stood, and got out the fat pine roots, which are almost indestructible. Fatwood, the resin-soaked heartwood of pine stumps, lights easily and burns hot, and was used for kindling and torches in the colonial period. The resin protects the wood from rot, so that the stumps survive for decades. Thoreau’s mining of the pine roots is part of his careful accounting of free fuel."
   - id: "light-winged-smoke"
     trigger: "Light-winged Smoke"
     title: "Thoreau’s Ode to the Soul of Fire"
@@ -99,6 +183,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau discovers moles nesting in his cellar, nibbling potatoes and making beds from plastering scraps. Moles, subterranean mammals, are known for their burrowing habits and keen survival instincts. Their presence in Thoreau’s home highlights nature’s adaptability and the shared quest for warmth during winter. Rather than viewing them as pests, Thoreau admires their ingenuity, drawing parallels between human and animal efforts to endure the cold. This moment encapsulates his philosophy of coexistence, where even the smallest creatures find a place in his world."
+  - id: "cold-fridays-and-great-snows"
+    trigger: "Cold Fridays and Great Snows"
+    title: "The Weather Events That Date a Village’s Memory"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Great_Snow_of_1717"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that we go on dating from Cold Fridays and Great Snows, but a little colder Friday, or greater snow, would put a period to man’s existence on the globe. New Englanders marked time by famous storms, such as the Great Snow of 1717, which buried houses to the eaves, and the Cold Friday of 19 January 1810, when the temperature fell sharply in a few hours. Thoreau’s remark reminds us that human life depends on a narrow range of climate, and that our history is less secure than we like to suppose."
   - id: "small-cooking-stove"
     trigger: "small cooking-stove"
     title: "The Stove That Stole Thoreau’s Fire Companion"
@@ -210,11 +301,11 @@ whether they are true or not. Such sayings themselves grow harder and
 adhere more firmly with age, and it would take many blows with a trowel
 to clean an old wiseacre of them. Many of the villages of Mesopotamia
 are built of **second-hand bricks** of a very good quality, obtained from
-the ruins of Babylon, and the cement on them is older and probably
+the ruins of **Babylon**, and the cement on them is older and probably
 harder still. However that may be, I was struck by the peculiar
 toughness of the steel which bore so many violent blows without being
 worn out. As my bricks had been in a chimney before, though I did not
-read the name of Nebuchadnezzar on them, I picked out as many
+read the name of **Nebuchadnezzar** on them, I picked out as many
 fire-place bricks as I could find, to save work and waste, and I filled
 the spaces between the bricks about the fire-place with stones from the
 pond shore, and also made my mortar with the white sand from the same
@@ -273,9 +364,9 @@ golden age, of enduring materials, and without ginger-bread work, which
 shall still consist of only one room, a vast, rude, substantial,
 primitive hall, without ceiling or plastering, with bare rafters and
 purlins supporting a sort of lower heaven over one’s head,—useful to
-keep off rain and snow; where the king and queen posts stand out to
-receive your homage, when you have done reverence to the prostrate
-Saturn of an older dynasty on stepping over the sill; a cavernous
+keep off rain and snow; where the **king and queen posts** stand out to
+receive your homage, when you have done reverence to the **prostrate
+Saturn** of an older dynasty on stepping over the sill; a cavernous
 house, wherein you must reach up a torch upon a pole to see the roof;
 where some may live in the fire-place, some in the recess of a window,
 and some on settles, some at one end of the hall, some at another, and
@@ -320,7 +411,7 @@ were; in other words, the parlor is so far from the kitchen and
 workshop. The dinner even is only the parable of a dinner, commonly. As
 if only the savage dwelt near enough to Nature and Truth to borrow a
 trope from them. How can the scholar, who dwells away in the North West
-Territory or the Isle of Man, tell what is parliamentary in the
+Territory or the **Isle of Man**, tell what is parliamentary in the
 kitchen?
 
 However, only one or two of my guests were ever bold enough to stay and
@@ -442,7 +533,7 @@ within my breast. My employment out of doors now was to collect the
 dead wood in the forest, bringing it in my hands or on my shoulders, or
 sometimes trailing a dead pine tree under each arm to my shed. An old
 forest fence which had seen its best days was a great haul for me. I
-**sacrificed it to Vulcan**, for it was past serving the god Terminus. How
+**sacrificed it to Vulcan**, for it was past serving the god **Terminus**. How
 much more interesting an event is that man’s supper who has just been
 forth in the snow to hunt, nay, you might say, steal, the fuel to cook
 it with! His bread and meat are sweet. There are enough fagots and
@@ -471,7 +562,7 @@ name of **_purprestures_**, as tending _ad terrorem ferarum—ad nocumentum
 forestæ_, &c.,” to the frightening of the game and the detriment of the
 forest. But I was interested in the preservation of the venison and the
 vert more than the hunters or woodchoppers, and as much as though I had
-been the Lord Warden himself; and if any part was burned, though I
+been the **Lord Warden** himself; and if any part was burned, though I
 burned it myself by accident, I grieved with a grief that lasted longer
 and was more inconsolable than that of the proprietors; nay, I grieved
 when it was cut down by the proprietors themselves. I would that our
@@ -499,7 +590,7 @@ other errand, are sure to attend the wood auction, and even pay a high
 price for the privilege of gleaning after the woodchopper. It is now
 many years that men have resorted to the forest for fuel and the
 materials of the arts; the New Englander and the New Hollander, the
-Parisian and the Celt, the farmer and Robinhood, Goody Blake and Harry
+Parisian and the Celt, the farmer and **Robinhood**, **Goody Blake** and Harry
 Gill, in most parts of the world the prince and the peasant, the
 scholar and the savage, equally require still a few sticks from the
 forest to warm them and cook their food. Neither could I do without
@@ -581,7 +672,7 @@ recovered my faculties and prolonged my life. But the most luxuriously
 housed has little to boast of in this respect, nor need we trouble
 ourselves to speculate how the human race may be at last destroyed. It
 would be easy to cut their threads any time with a little sharper blast
-from the north. We go on dating from Cold Fridays and Great Snows; but
+from the north. We go on dating from **Cold Fridays and Great Snows**; but
 a little colder Friday, or greater snow, would put a period to man’s
 existence on the globe.
 

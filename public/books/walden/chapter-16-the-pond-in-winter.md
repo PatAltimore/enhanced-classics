@@ -16,7 +16,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Ice_fishing"
     link_label: "Ice fishing"
   - point: "Thoreau observes fishermen catching pickerel and perch, marveling at their connection to nature."
-    link: "https://en.wikipedia.org/wiki/Pickerel"
+    link: "https://en.wikipedia.org/wiki/Chain_pickerel"
     link_label: "Pickerel"
   - point: "He recounts surveying Walden Pond to dispel myths of its bottomlessness and reveals its precise depth."
     link: "https://en.wikipedia.org/wiki/Walden_Pond"
@@ -39,17 +39,31 @@ enhancements:
   - id: "pickerel-and-perch"
     trigger: "pickerel and perch"
     title: "The Fish That Stitch Towns Together"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pickerel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chain_pickerel"
     image_url: ""
     image_caption: ""
     content: "Thoreau observes men fishing for pickerel and perch through the ice, describing them as 'wild men' who connect towns through their movements. Pickerel, a type of freshwater fish, are known for their predatory behavior, while perch are smaller and often used as bait. These fish have long been staples of New England’s winter fishing culture, providing sustenance and a sense of community. Thoreau’s admiration for these fishermen stems from their deep, instinctive connection to nature—a contrast to the bookish knowledge of the naturalist. By highlighting the pickerel’s dazzling beauty and the perch’s role in the food chain, Thoreau underscores the interconnectedness of life. The act of fishing becomes a metaphor for human interdependence, stitching together not just towns but the fabric of existence itself."
   - id: "pickerel-of-walden"
     trigger: "the pickerel of Walden"
     title: "Why Walden’s Pickerel Are Nature’s Jewels"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pickerel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Chain_pickerel"
     image_url: ""
     image_caption: ""
     content: "Thoreau marvels at the pickerel of Walden, describing them as 'fabulous fishes' with colors akin to flowers and precious stones. Pickerel, members of the pike family, are native to North America and thrive in cold, clear waters like Walden Pond. Their vibrant hues—gold, green, and emerald—make them stand out among other freshwater species. Thoreau’s poetic comparison elevates these fish to symbols of natural purity and beauty, contrasting them with the 'cadaverous cod and haddock' of commercial markets. By calling them 'small Waldens,' he suggests that the pond’s essence is encapsulated in its inhabitants. The pickerel become a living embodiment of Walden’s untouched splendor, reminding readers of the profound connection between place and life."
+  - id: "foreign-as-arabia"
+    trigger: "foreign as Arabia"
+    title: "The Beautiful Fish From Under the Ice"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Arabian_Peninsula"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the pickerel he draws from the ice-holes are so foreign to the streets, even to the woods, foreign as Arabia to our Concord life. The Arabian Peninsula, with its deserts and cities, stood in the American mind for the exotic East, known from the Arabian Nights and travellers’ books. Thoreau’s comparison, which gives the fish a strange beauty, reflects his delight in the contrast between winter’s cold pond and the colours of tropical life, and he writes of them as dazzling jewels."
+  - id: "waldenses"
+    trigger: "Waldenses"
+    title: "The Pun on a Medieval Heresy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Waldensians"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the pickerel and perch as small Waldens in the animal kingdom, Waldenses. The Waldensians were a medieval Christian movement founded by Peter Waldo of Lyon in about 1170, which preached poverty and the reading of Scripture, were condemned as heretics and survived in the Alps. Thoreau’s pun on the name of his pond compares the fish to a pure, persecuted sect. He says that they are Walden all over and all through, and he gives them an air of peaceful dignity."
   - id: "bottomless-ponds"
     trigger: "Bottomless Ponds"
     title: "The Myth of Bottomless Waters"
@@ -57,13 +71,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recounts the local lore of 'Bottomless Ponds,' including Walden, which some believed reached the other side of the globe. The myth of bottomless lakes is a recurring theme in folklore, often symbolizing mystery and depth beyond human comprehension. In reality, Walden Pond’s greatest depth is 102 feet, as Thoreau discovered through meticulous surveying. This depth, while remarkable for its size, pales in comparison to the imagined abyss. Thoreau uses this myth to explore human tendencies toward exaggeration and the allure of the infinite. By grounding the pond’s depth in measurable reality, he contrasts the imagination’s soaring heights with nature’s tangible truths, inviting readers to find wonder in the actual rather than the fantastical."
+  - id: "infernal-regions"
+    trigger: "Infernal Regions"
+    title: "The Holes That Were Thought to Lead to Hell"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hell"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau reports that some people have seen vast holes into which a load of hay might be driven, the undoubted source of the Styx and entrance to the Infernal Regions from these parts. Local people told of bottomless ponds, and the idea that a deep pit might reach to Hell is one of the world’s oldest legends. In Greek myth the river Styx marked the boundary of the underworld. Thoreau’s survey with a line proves that Walden, though deep, has a bottom, and his joke removes a superstition."
   - id: "william-gilpin"
     trigger: "William Gilpin"
     title: "The Man Who Made Landscapes Sublime"
-    wikipedia_url: "https://en.wikipedia.org/wiki/William_Gilpin_(artist)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Gilpin_(priest)"
     image_url: ""
     image_caption: ""
     content: "Thoreau references William Gilpin, an 18th-century English artist and writer known for popularizing the concept of the 'picturesque' in landscape aesthetics. Gilpin’s works emphasized the beauty of irregular, rugged, and dramatic natural scenes, influencing Romantic artists and writers. Standing at Loch Fyne, Gilpin imagined the horrors of its chasm before the waters filled it, a vision Thoreau critiques for its exaggerated drama. Thoreau’s invocation of Gilpin serves as a counterpoint to his own philosophy: while Gilpin sought the sublime in grandiose landscapes, Thoreau finds it in the quiet perfection of Walden’s depths. This contrast highlights Thoreau’s belief that nature’s beauty lies not in spectacle but in subtlety, urging readers to appreciate the ordinary as extraordinary."
+  - id: "loch-fyne"
+    trigger: "Loch Fyne"
+    title: "Where Gilpin Got the Landscape Wrong"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Loch_Fyne"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that William Gilpin, who is so admirable in all that relates to landscapes and usually so correct, standing at the head of Loch Fyne, in Scotland, describes it as a bay of salt water, sixty or seventy fathoms deep, which he is wrong to call a mere pond. Loch Fyne, the longest sea loch in Scotland, runs forty miles inland from the Firth of Clyde, and is known for herring and oysters. Thoreau likes to catch a famous author in a mistake, and he finds that a lake’s depth is not what it seems."
   - id: "white-pond"
     trigger: "White Pond"
     title: "A Smaller, Quieter Rival to Walden"
@@ -88,7 +116,7 @@ enhancements:
   - id: "leach-hole"
     trigger: "leach hole"
     title: "The Mystery of Walden’s Hidden Leak"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Leach_(hydrology)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Leachate"
     image_url: ""
     image_caption: ""
     content: "Thoreau describes a 'leach hole' in Walden Pond, a small cavity under ten feet of water that some believed connected the pond to a neighboring meadow. Leach holes, in hydrology, refer to natural drainage points where water escapes from a body of water. Thoreau’s curiosity about this phenomenon reflects his broader quest to understand the hidden workings of nature. He imagines experiments with colored powder to trace the water’s path, blending scientific inquiry with poetic imagination. This detail underscores Thoreau’s belief that even the smallest features of the natural world hold secrets worth uncovering, inviting readers to approach nature with both wonder and rigor."
@@ -106,6 +134,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau humorously describes the ice-cutters at Walden as of 'Hyperborean extraction,' likening them to mythical inhabitants of the far north. Hyperborea, in Greek mythology, was a land of eternal spring beyond the north wind, home to a blessed people untouched by hardship. Thoreau’s comparison underscores the ice-cutters’ resilience and industriousness in the harsh winter landscape. Their work, extracting tons of ice for distant markets, transforms Walden into a global resource. By invoking Hyperborea, Thoreau blends myth with reality, elevating the mundane labor of ice-cutting to a heroic endeavor that connects Walden to the wider world."
+  - id: "iceland"
+    trigger: "Iceland"
+    title: "The Joke About a Crop From the Frozen North"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Iceland"
+    image_url: ""
+    image_caption: ""
+    content: "Watching the ice-cutters, Thoreau says he did not know whether they had come to sow a crop of winter rye, or some other kind of grain recently introduced from Iceland. Iceland, the island in the North Atlantic, is too cold to grow much grain, which makes the idea comic. Thoreau’s deadpan humour treats the harvest of ice as a crop. Ice was indeed a harvest in Massachusetts, and the workers plough the pond’s surface before cutting it. His joke makes a familiar winter task seem a bizarre farm."
+  - id: "cutting-peat-in-a-bog"
+    trigger: "cutting peat in a bog"
+    title: "What Thoreau Thought the Ice-Cutters Were Digging"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Peat"
+    image_url: ""
+    image_caption: ""
+    content: "Watching the ice-cutters haul away blocks on sleds, Thoreau says he guessed that they must be cutting peat in a bog. Peat, the compressed remains of plants in wet ground, was dug and dried for fuel in Ireland, Scotland and parts of northern Europe, and in some parts of New England. The mistake, which he plays up for comic effect, shows how strange the harvest of ice looked, with the workers cutting into the earth’s skin. His humorous tone fits a chapter about the dignity of a place that is cut up for business."
+  - id: "tartarus"
+    trigger: "Tartarus"
+    title: "The Abyss Beneath the Squaw Walden Crack"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tartarus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau tells of a hired man, walking behind his team, who slipped through a crack in the ice down toward Tartarus, and he who was so brave before suddenly became but the ninth part of a man. In Greek myth Tartarus is the deepest part of the underworld, a dark pit as far below Hades as the earth is below heaven, where the Titans were imprisoned. The mock-heroic image makes a comic story of a man’s fear. The phrase about the ninth part of a man plays on the proverb that nine tailors make a man."
   - id: "walden-ice"
     trigger: "the Walden ice"
     title: "Why Walden Ice Shines Like Emeralds"
@@ -113,6 +162,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes the Walden ice as having a green tint up close and a blue hue from afar, likening it to emeralds. This vivid imagery captures the unique clarity and purity of Walden’s frozen surface. Ice color varies based on trapped air bubbles and mineral content, with the most transparent ice appearing blue due to light absorption and scattering. Thoreau’s poetic observation transforms the ice into a symbol of Walden’s pristine beauty, contrasting it with the more ordinary ice of rivers and ponds. By elevating the ice to an object of wonder, he invites readers to see nature’s everyday phenomena as extraordinary."
+  - id: "fresh-pond"
+    trigger: "Fresh Pond"
+    title: "The Cambridge Pond Where Ice Was a Business"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fresh_Pond_(Cambridge,_Massachusetts)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the ice-cutters told him they had ice in the ice-houses at Fresh Pond five years old which was as good as ever. Fresh Pond in Cambridge was a centre of the New England ice trade, in which blocks cut from ponds were stored in sawdust and sent on ships around the world. The industry was begun by Frederic Tudor of Boston in the 1800s, and grew to employ thousands. Thoreau is struck by the fact that ice, which would melt in a bucket, can last for years in bulk."
+  - id: "charleston-and-new-orleans"
+    trigger: "Charleston and New Orleans"
+    title: "The Southern Ports That Drank Walden’s Ice"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Frederic_Tudor"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the sweltering inhabitants of Charleston and New Orleans, of Madras and Bombay and Calcutta, drink at my well. From the 1820s ships took ice from New England to the southern United States and the Caribbean, and by the 1830s to India, which made Frederic Tudor, the Ice King, rich. Walden ice, cut by workmen in 1846 and 1847, joined this trade. Thoreau enjoys the thought that the pure pond water goes to far places and mixes with the water of the Ganges."
+  - id: "madras-and-bombay-and-calcutta"
+    trigger: "Madras and Bombay and Calcutta"
+    title: "The Indian Cities That Bought New England Ice"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ice_trade"
+    image_url: ""
+    image_caption: ""
+    content: "Among the cities where Walden’s ice is drunk, Thoreau lists Madras and Bombay and Calcutta. The first ship of ice reached Calcutta in 1833, after a four-month voyage from Boston, and the cargo arrived mostly intact, to the astonishment of the British community, who paid a high price for it. By the 1840s ice houses were built in the three cities. Thoreau’s joke is that his Concord pond water becomes part of India’s life, and that the Hindu scriptures he reads flow back to New England."
   - id: "bhagvat-geeta"
     trigger: "the Bhagvat Geeta"
     title: "Why Thoreau Bathed His Intellect in the Gita"
@@ -120,6 +190,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau begins his mornings by reading the Bhagvat Geeta, a cornerstone of Hindu philosophy, which he describes as 'cosmogonal' and sublime. The Bhagavad Gita, part of the Mahabharata, explores themes of duty, spirituality, and the eternal nature of the soul. Its teachings on detachment and harmony with the universe resonate deeply with Thoreau’s transcendentalist beliefs. By juxtaposing the Gita’s wisdom with his daily rituals at Walden, Thoreau bridges Eastern and Western philosophies, suggesting that universal truths transcend cultural boundaries. This connection enriches his vision of Walden as not just a physical place but a spiritual wellspring, where ancient wisdom flows alongside modern reflection."
+  - id: "bramin"
+    trigger: "Bramin"
+    title: "The Priest Who Sits by the Ganges Reading"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brahmin"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that when he goes to his well for water he meets the servant of the Bramin, priest of Brahma and Vishnu and Indra, who still sits in his temple on the Ganges reading the Vedas. Brahmins are the priestly class of Hindu society, who study the Vedas and perform rituals, and Thoreau uses the old English spelling Bramin. His vision of a servant from India drawing from the same well joins Concord and the East, through the ice trade, and through his reading of the Bhagavad Gita."
   - id: "sacred-water-of-the-ganges"
     trigger: "the sacred water of the Ganges"
     title: "How Walden Water Meets the Ganges"
@@ -134,6 +211,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau imagines Walden’s water passing by the 'fabulous islands of Atlantis,' invoking the legendary lost civilization. Atlantis, first described by Plato, symbolizes advanced knowledge and catastrophic loss, inspiring centuries of speculation and myth. Thoreau’s reference ties Walden to a broader narrative of mystery and exploration, suggesting that its waters, though humble, participate in the world’s grandest stories. By linking Walden to Atlantis, Thoreau invites readers to see the pond as a portal to imagination and history, where the local becomes universal and the ordinary becomes extraordinary."
+  - id: "hesperides"
+    trigger: "Hesperides"
+    title: "The Garden of Golden Apples at the World’s Edge"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hesperides"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that Walden water is wafted past the site of the fabulous islands of Atlantis and the Hesperides. In Greek myth the Hesperides were nymphs of the evening who tended a garden of golden apples in the far west, guarded by a dragon, from which Hercules took the apples as one of his labours. The Greeks put the garden beyond the Atlas Mountains or on islands of the western ocean. Thoreau turns a ship’s journey into a poem, and makes the ice a traveller among legends."
+  - id: "periplus-of-hanno"
+    trigger: "periplus of Hanno"
+    title: "The Voyage Around Africa in a Drop"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hanno_the_Navigator"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that Walden water is wafted past the Hesperides and makes the periplus of Hanno. A periplus was a sailing guide listing the ports and landmarks along a coast, and the Periplus of Hanno, a short Greek text, claims to describe a Carthaginian voyage down the west coast of Africa in about the fifth century BC, mentioning rivers, volcanoes and hairy people, whom the sailors called gorillas. Thoreau uses it as a way of picturing the ice’s long journey, by sea routes that were known to the ancients."
+  - id: "ternate-and-tidore"
+    trigger: "Ternate and Tidore"
+    title: "The Spice Islands on the Water’s Voyage"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ternate"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that Walden water, floating by Ternate and Tidore and the mouth of the Persian Gulf, melts in the tropic gales of the Indian seas. Ternate and Tidore are two small volcanic islands in the Moluccas, in eastern Indonesia, which were the world’s only source of cloves in the 1500s, and which were fought over by Portuguese, Spanish and Dutch traders. The names recall the age of exploration. Thoreau’s list of places gives the little pond a far reach, from a Massachusetts hillside to the spice seas."
+  - id: "persian-gulf"
+    trigger: "Persian Gulf"
+    title: "The Gulf on the Ice’s Imagined Route"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Persian_Gulf"
+    image_url: ""
+    image_caption: ""
+    content: "In Thoreau’s imagined voyage the water passes the mouth of the Persian Gulf. The Persian Gulf, an arm of the Indian Ocean between Arabia and Iran, was an ancient trade route for pearls, dates and spices, and the Ganges and the Euphrates were linked by the shipping that sailed there. The name gives a sense of faraway places. Thoreau’s tone is playful, but he is serious about the unity of the world’s waters, and holds that the pure pond is part of the whole sea."
 ---
 After a still winter night I awoke with the impression that some
 question had been put to me, which I had been endeavoring in vain to
@@ -207,7 +312,7 @@ Ah, **the pickerel of Walden**! when I see them lying on the ice, or in the
 well which the fisherman cuts in the ice, making a little hole to admit
 the water, I am always surprised by their rare beauty, as if they were
 fabulous fishes, they are so foreign to the streets, even to the woods,
-foreign as Arabia to our Concord life. They possess a quite dazzling
+**foreign as Arabia** to our Concord life. They possess a quite dazzling
 and transcendent beauty which separates them by a wide interval from
 the cadaverous cod and haddock whose fame is trumpeted in our streets.
 They are not green like the pines, nor gray like the stones, nor blue
@@ -215,7 +320,7 @@ like the sky; but they have, to my eyes, if possible, yet rarer colors,
 like flowers and precious stones, as if they were the pearls, the
 animalized _nuclei_ or crystals of the Walden water. They, of course,
 are Walden all over and all through; are themselves small Waldens in
-the animal kingdom, Waldenses. It is surprising that they are caught
+the animal kingdom, **Waldenses**. It is surprising that they are caught
 here,—that in this deep and capacious spring, far beneath the rattling
 teams and chaises and tinkling sleighs that travel the Walden road,
 this great gold and emerald fish swims. I never chanced to see its kind
@@ -242,8 +347,8 @@ long time, looking down through the illusive medium, perchance with
 watery eyes into the bargain, and driven to hasty conclusions by the
 fear of catching cold in their breasts, have seen vast holes “into
 which a load of hay might be driven,” if there were any body to drive
-it, the undoubted source of the Styx and entrance to the Infernal
-Regions from these parts. Others have gone down from the village with a
+it, the undoubted source of the Styx and entrance to the **Infernal
+Regions** from these parts. Others have gone down from the village with a
 “fifty-six” and a wagon load of inch rope, but yet have failed to find
 any bottom; for while the “fifty-six” was resting by the way, they were
 paying out the rope in the vain attempt to fathom their truly
@@ -270,8 +375,8 @@ hills; for this one, which is so unusually deep for its area, appears
 in a vertical section through its centre not deeper than a shallow
 plate. Most ponds, emptied, would leave a meadow no more hollow than we
 frequently see. **William Gilpin**, who is so admirable in all that relates
-to landscapes, and usually so correct, standing at the head of Loch
-Fyne, in Scotland, which he describes as “a bay of salt water, sixty or
+to landscapes, and usually so correct, standing at the head of **Loch
+Fyne**, in Scotland, which he describes as “a bay of salt water, sixty or
 seventy fathoms deep, four miles in breadth,” and about fifty miles
 long, surrounded by mountains, observes, “If we could have seen it
 immediately after the diluvian crash, or whatever convulsion of Nature
@@ -473,7 +578,7 @@ turf-knives, spades, saws, rakes, and each man was armed with a
 double-pointed pike-staff, such as is not described in the New-England
 Farmer or the Cultivator. I did not know whether they had come to sow a
 crop of winter rye, or some other kind of grain recently introduced
-from Iceland. As I saw no manure, I judged that they meant to skim the
+from **Iceland**. As I saw no manure, I judged that they meant to skim the
 land, as I had done, thinking the soil was deep and had lain fallow
 long enough. They said that a gentleman farmer, who was behind the
 scenes, wanted to double his money, which, as I understood, amounted to
@@ -491,7 +596,7 @@ peat in a bog**. So they came and went every day, with a peculiar shriek
 from the locomotive, from and to some point of the polar regions, as it
 seemed to me, like a flock of arctic snow-birds. But sometimes Squaw
 Walden had her revenge, and a hired man, walking behind his team,
-slipped through a crack in the ground down toward Tartarus, and he who
+slipped through a crack in the ground down toward **Tartarus**, and he who
 was so brave before suddenly became but the ninth part of a man, almost
 gave up his animal heat, and was glad to take refuge in my house, and
 acknowledged that there was some virtue in a stove; or sometimes the
@@ -546,7 +651,7 @@ with a greenish water somewhat like its own, but the next day will have
 frozen blue. Perhaps the blue color of water and ice is due to the
 light and air they contain, and the most transparent is the bluest. Ice
 is an interesting subject for contemplation. They told me that they had
-some in the ice-houses at Fresh Pond five years old which was as good
+some in the ice-houses at **Fresh Pond** five years old which was as good
 as ever. Why is it that a bucket of water soon becomes putrid, but
 frozen remains sweet forever? It is commonly said that this is the
 difference between the affections and the intellect.
@@ -565,22 +670,22 @@ himself, or shall see a lonely fisher in his boat, like a floating
 leaf, beholding his form reflected in the waves, where lately a hundred
 men securely labored.
 
-Thus it appears that the sweltering inhabitants of Charleston and New
-Orleans, of Madras and Bombay and Calcutta, drink at my well. In the
+Thus it appears that the sweltering inhabitants of **Charleston and New
+Orleans**, of **Madras and Bombay and Calcutta**, drink at my well. In the
 morning I bathe my intellect in the stupendous and cosmogonal
 philosophy of **the Bhagvat Geeta**, since whose composition years of the
 gods have elapsed, and in comparison with which our modern world and
 its literature seem puny and trivial; and I doubt if that philosophy is
 not to be referred to a previous state of existence, so remote is its
 sublimity from our conceptions. I lay down the book and go to my well
-for water, and lo! there I meet the servant of the Bramin, priest of
+for water, and lo! there I meet the servant of the **Bramin**, priest of
 Brahma and Vishnu and Indra, who still sits in his temple on the Ganges
 reading the Vedas, or dwells at the root of a tree with his crust and
 water jug. I meet his servant come to draw water for his master, and
 our buckets as it were grate together in the same well. The pure Walden
 water is mingled with **the sacred water of the Ganges**. With favoring
 winds it is wafted past the site of **the fabulous islands of Atlantis**
-and the Hesperides, makes the periplus of Hanno, and, floating by
-Ternate and Tidore and the mouth of the Persian Gulf, melts in the
+and the **Hesperides**, makes the **periplus of Hanno**, and, floating by
+**Ternate and Tidore** and the mouth of the **Persian Gulf**, melts in the
 tropic gales of the Indian seas, and is landed in ports of which
 Alexander only heard the names.

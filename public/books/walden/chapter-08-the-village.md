@@ -25,7 +25,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Social_inequality"
     link_label: "Social inequality"
   - point: "He concludes with a poetic reflection on virtue and governance, quoting classical texts to underscore his ideals."
-    link: "https://en.wikipedia.org/wiki/Classical_poetry"
+    link: "https://en.wikipedia.org/wiki/Classical_antiquity"
     link_label: "Classical poetry"
 
 enhancements:
@@ -36,6 +36,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau likens the village gossip to \"homœopathic doses,\" suggesting that small amounts of social chatter can be refreshing, much like the rustle of leaves or the peeping of frogs. Homeopathy, a controversial medical practice developed in the late 18th century, operates on the principle that extremely diluted substances can trigger healing responses. While Thoreau's comparison is playful, it reveals his belief in moderation and his disdain for excessive engagement with society's trivialities. By framing gossip as a mild tonic rather than an overwhelming flood, Thoreau underscores his preference for solitude and selective interaction. This metaphor also reflects his broader philosophy: the idea that simplicity and restraint lead to a more meaningful life."
+  - id: "state-street"
+    trigger: "State Street"
+    title: "Boston’s Street of Money in a Village Store"
+    wikipedia_url: "https://en.wikipedia.org/wiki/State_Street_(Boston)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the village store as a great news room, kept up, as once at Redding and Company’s on State Street, by nuts and raisins or salt and meal and other groceries. State Street, running from the Old State House to the harbour, was Boston’s financial and commercial centre, where banks, insurance companies and shipping merchants had their offices. The reference mocks the way a country shop imitates the city. Thoreau’s main point is that a grocery counter is really a place for gossip, and the goods are a pretext."
+  - id: "etesian"
+    trigger: "Etesian"
+    title: "The Summer Winds of the Mediterranean"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Etesian"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the loafers can sit forever in public avenues, letting the news simmer and whisper through them like the Etesian winds. The Etesians, or meltemi, are the strong dry northerly winds that blow across the Aegean Sea each summer, known to the ancient Greeks, and Homer and Herodotus mention them. The comparison gives a classical dignity to the idle talk of the town. It also suggests that the villagers are blown by gossip as by a wind, numb and insensible to pain, as if they were breathing ether."
+  - id: "inhaling-ether"
+    trigger: "inhaling ether"
+    title: "The New Anaesthetic and the Gossipers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Diethyl_ether"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the villagers listen to the news as if inhaling ether, it only producing numbness and insensibility to pain. Ether was first used in surgery as an anaesthetic in Boston in October 1846, at Massachusetts General Hospital, and it was a topic of wonder while Thoreau was living at Walden. He seizes on the new discovery for a joke: gossip is a drug that deadens people. The image fits his view of the village as a place where people escape from real life into talk."
   - id: "caryatides"
     trigger: "caryatides"
     title: "Why Thoreau Saw Villagers as Ancient Pillars"
@@ -50,34 +71,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau compares himself to Orpheus, the legendary musician who drowned out the Sirens' deadly songs by singing praises to the gods. In the village, Thoreau uses his focus on \"high things\" to avoid being ensnared by the distractions of gossip and commerce. The myth of Orpheus, a figure who bridges the mortal and divine realms, resonates deeply with Thoreau's transcendentalist ideals. Just as Orpheus navigates peril through art and devotion, Thoreau finds his way through society's chaos by adhering to his philosophical principles. This comparison reveals Thoreau's self-perception as a kind of modern-day bard, using his intellectual pursuits to rise above the mundane."
+  - id: "sirens"
+    trigger: "Sirens"
+    title: "Orpheus’s Way Past the Sirens"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Siren_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he kept his thoughts on high things, like Orpheus, who, loudly singing the praises of the gods to his lyre, drowned the voices of the Sirens, and kept out of danger. In the story of the Argonauts the Sirens lured sailors with sweet songs, and Orpheus, the legendary musician, played so loudly that the crew did not hear them. Thoreau applies it to the temptations of the village, such as gossip and gain. By filling his mind with noble thoughts, he says, a man can pass through the crowd and remain untouched."
   - id: "rear-avenues"
     trigger: "rear avenues"
     title: "The Secret Paths That Led Thoreau Home"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Path"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Footpath"
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions escaping the village through \"rear avenues,\" a phrase that conjures images of hidden trails and quiet exits. These paths symbolize his ability to navigate between the structured world of society and the untamed wilderness of Walden. In the 19th century, such informal routes were common in rural areas, serving as shortcuts or private ways. For Thoreau, these avenues are more than physical; they represent his philosophical commitment to autonomy and his rejection of societal constraints. By slipping away unnoticed, he reclaims his freedom and returns to the woods, where he feels most alive and connected to his ideals."
-  - id: "fair-haven-hill"
-    trigger: "Fair-Haven Hill"
-    title: "The Hill Where Thoreau Found Solace and Berries"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven_Bay"
+  - id: "siberia"
+    trigger: "Siberia"
+    title: "The Strange Road Home in the Dark"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Siberia"
     image_url: ""
     image_caption: ""
-    content: "Thoreau mentions eating huckleberries on Fair-Haven Hill after his release from jail. This hill, near Walden Pond, was a favorite spot for Thoreau, offering panoramic views and a sense of peace. Fairhaven Bay, part of the same area, has long been associated with natural beauty and tranquility. For Thoreau, the act of gathering berries here becomes a quiet rebellion against the societal pressures he had just faced. It symbolizes his return to simplicity and his belief in nature as a refuge from the complexities of human institutions. The hill stands as a metaphor for renewal and the enduring power of the natural world."
-  - id: "volume-of-homer"
-    trigger: "volume of Homer"
-    title: "Why Thoreau Trusted a Soldier With Homer"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Homer"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau laments the loss of a \"volume of Homer,\" which he suspects was taken by a soldier. Homer, the ancient Greek poet, authored epics like the Iliad and the Odyssey, foundational texts of Western literature. Thoreau's mention of Homer reflects his deep admiration for classical works and their timeless wisdom. The irony of a soldier taking the book adds a layer of complexity; Homer’s epics often explore themes of war and heroism, which Thoreau critiques in his own writings. This anecdote underscores Thoreau's belief in the transformative power of literature, even as he questions the values of those who might possess it."
-  - id: "beechen-bowls"
-    trigger: "beechen bowls"
-    title: "The Humble Bowls That Symbolized Peace"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Beech"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau quotes a Latin verse about \"beechen bowls,\" simple wooden vessels used in ancient times. These bowls evoke an era of pastoral simplicity, free from the conflicts and excesses of modern society. Beechwood, known for its durability and smooth texture, was a common material for crafting everyday items. Thoreau uses this image to argue that material simplicity fosters social harmony, contrasting it with the greed and inequality he sees in contemporary life. The beechen bowl becomes a symbol of his ideal world—a place where basic needs are met without exploitation or strife, allowing humanity to thrive in peace."
+    content: "Thoreau describes a man who loses his way on a familiar road and finds it as strange to him as if it were a road in Siberia. Siberia, the vast northern part of Russia, was known to Americans as a place of cold, exile and endless distance, and it was a stock image for something remote and unknown. Thoreau uses it in an essay on getting lost, to say that we do not know a place until we have lost it. His stories of walkers lost in the dark lead to the saying that we only begin to find ourselves when we are lost."
   - id: "points-of-compass"
     trigger: "points of compass"
     title: "Why Thoreau Believed We’re Always Lost"
@@ -85,6 +99,48 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau reflects on the \"points of compass,\" noting that every person must rediscover their bearings daily. The compass, an ancient navigational tool, symbolizes humanity's quest for direction and purpose. Thoreau's observation goes beyond physical navigation; he suggests that losing oneself—whether in nature or abstraction—is essential for self-discovery. This idea aligns with his transcendentalist belief in the importance of introspection and connection to the infinite. By framing disorientation as a valuable experience, Thoreau challenges readers to embrace uncertainty as a path to deeper understanding and a more authentic existence."
+  - id: "fair-haven-hill"
+    trigger: "Fair-Haven Hill"
+    title: "The Hill Where Thoreau Found Solace and Berries"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fairhaven_Bay"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau mentions eating huckleberries on Fair-Haven Hill after his release from jail. This hill, near Walden Pond, was a favorite spot for Thoreau, offering panoramic views and a sense of peace. Fairhaven Bay, part of the same area, has long been associated with natural beauty and tranquility. For Thoreau, the act of gathering berries here becomes a quiet rebellion against the societal pressures he had just faced. It symbolizes his return to simplicity and his belief in nature as a refuge from the complexities of human institutions. The hill stands as a metaphor for renewal and the enduring power of the natural world."
+  - id: "maine"
+    trigger: "Maine"
+    title: "The Fortnight in the Woods Thoreau Mentions"
+    wikipedia_url: "https://en.wikipedia.org/wiki/The_Maine_Woods"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he never fastened his door, not even when the next fall he spent a fortnight in the woods of Maine. He made three trips to Maine, in 1846, 1853 and 1857, climbing Mount Katahdin and canoeing on the Penobscot River with Indian guides, and his accounts were published after his death as The Maine Woods. The remark is a joke about trust, since his house was more respected than if it had been surrounded by a file of soldiers, and shows that Walden was a base from which he made other journeys."
+  - id: "volume-of-homer"
+    trigger: "volume of Homer"
+    title: "Why Thoreau Trusted a Soldier With Homer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Homer"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau laments the loss of a \"volume of Homer,\" which he suspects was taken by a soldier. Homer, the ancient Greek poet, authored epics like the Iliad and the Odyssey, foundational texts of Western literature. Thoreau's mention of Homer reflects his deep admiration for classical works and their timeless wisdom. The irony of a soldier taking the book adds a layer of complexity; Homer’s epics often explore themes of war and heroism, which Thoreau critiques in his own writings. This anecdote underscores Thoreau's belief in the transformative power of literature, even as he questions the values of those who might possess it."
+  - id: "pope-s-homers"
+    trigger: "Pope’s Homers"
+    title: "The Famous Translation That Would Be Shared Out"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alexander_Pope"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes a line to say that if people lived as he did, thieving and robbery would be unknown, and the Pope’s Homers would soon get properly distributed. Alexander Pope’s translations of the Iliad and Odyssey, published between 1715 and 1726, were the standard English Homer for a century and were found in every well-stocked library. Here Thoreau is borrowing the idea from Pope. He argues that theft arises only where some have more than enough and others have too little, a point that he supports with a Latin line about the age of beechen bowls."
+  - id: "faginus"
+    trigger: "Faginus"
+    title: "The Roman Poet’s Golden Age of Wooden Cups"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Tibullus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes the Latin: Nec bella fuerunt, faginus astabat dum scyphus ante dapes, which means that there were no wars so long as a beechen cup stood before the feast. The lines are from the poet Tibullus, who lived in the first century BC and wrote elegies praising a simple country life, before gold and war corrupted Rome. Thoreau sets the passage as a motto for his own simple housekeeping. He argues that when men use plain wooden bowls they live in peace, and that wealth is the source of conflict."
+  - id: "beechen-bowls"
+    trigger: "beechen bowls"
+    title: "The Humble Bowls That Symbolized Peace"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Beech"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes a Latin verse about \"beechen bowls,\" simple wooden vessels used in ancient times. These bowls evoke an era of pastoral simplicity, free from the conflicts and excesses of modern society. Beechwood, known for its durability and smooth texture, was a common material for crafting everyday items. Thoreau uses this image to argue that material simplicity fosters social harmony, contrasting it with the greed and inequality he sees in contemporary life. The beechen bowl becomes a symbol of his ideal world—a place where basic needs are met without exploitation or strife, allowing humanity to thrive in peace."
 ---
 After hoeing, or perhaps reading and writing, in the forenoon, I
 usually bathed again in the pond, swimming across one of its coves for
@@ -103,12 +159,12 @@ horizon was a village of busy men, as curious to me as if they had been
 prairie dogs, each sitting at the mouth of its burrow, or running over
 to a neighbor’s to gossip. I went there frequently to observe their
 habits. The village appeared to me a great news room; and on one side,
-to support it, as once at Redding & Company’s on State Street, they
+to support it, as once at Redding & Company’s on **State Street**, they
 kept nuts and raisins, or salt and meal and other groceries. Some have
 such a vast appetite for the former commodity, that is, the news, and
 such sound digestive organs, that they can sit forever in public
 avenues without stirring, and let it simmer and whisper through them
-like the Etesian winds, or as if inhaling ether, it only producing
+like the **Etesian** winds, or as if **inhaling ether**, it only producing
 numbness and insensibility to pain,—otherwise it would often be painful
 to hear,—without affecting the consciousness. I hardly ever failed,
 when I rambled through the village, to see a row of such worthies,
@@ -142,7 +198,7 @@ from these dangers, either by proceeding at once boldly and without
 deliberation to the goal, as is recommended to those who run the
 gantlet, or by keeping my thoughts on high things, like **Orpheus**, who,
 “loudly singing the praises of the gods to his lyre, drowned the voices
-of the Sirens, and kept out of danger.” Sometimes I bolted suddenly,
+of the **Sirens**, and kept out of danger.” Sometimes I bolted suddenly,
 and nobody could tell my whereabouts, for I did not stand much about
 gracefulness, and never hesitated at a gap in a fence. I was even
 accustomed to make an irruption into some houses, where I was well
@@ -195,7 +251,7 @@ experience, to be lost in the woods any time. Often in a snow storm,
 even by day, one will come out upon a well-known road and yet find it
 impossible to tell which way leads to the village. Though he knows that
 he has travelled it a thousand times, he cannot recognize a feature in
-it, but it is as strange to him as if it were a road in Siberia. By
+it, but it is as strange to him as if it were a road in **Siberia**. By
 night, of course, the perplexity is infinitely greater. In our most
 trivial walks, we are constantly, though unconsciously, steering like
 pilots by certain well-known beacons and headlands, and if we go beyond
@@ -226,7 +282,7 @@ was never molested by any person but those who represented the state. I
 had no lock nor bolt but for the desk which held my papers, not even a
 nail to put over my latch or windows. I never fastened my door night or
 day, though I was to be absent several days; not even when the next
-fall I spent a fortnight in the woods of Maine. And yet my house was
+fall I spent a fortnight in the woods of **Maine**. And yet my house was
 more respected than if it had been surrounded by a file of soldiers.
 The tired rambler could rest and warm himself by my fire, the literary
 amuse himself with the few books on my table, or the curious, by
@@ -238,11 +294,11 @@ Homer**, which perhaps was improperly gilded, and this I trust a soldier
 of our camp has found by this time. I am convinced, that if all men
 were to live as simply as I then did, thieving and robbery would be
 unknown. These take place only in communities where some have got more
-than is sufficient while others have not enough. The Pope’s Homers
+than is sufficient while others have not enough. The **Pope’s Homers**
 would soon get properly distributed.—
 
                      “Nec bella fuerunt,
-     Faginus astabat dum scyphus ante dapes.”
+     **Faginus** astabat dum scyphus ante dapes.”
 
                      “Nor wars did men molest,
      When only **beechen bowls** were in request.”

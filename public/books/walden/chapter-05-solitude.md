@@ -43,6 +43,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recalls villagers visiting Walden Pond in the spring to fish for pouts, a type of catfish. This seasonal activity was more than just a pastime; it was a cultural ritual tied to the rhythms of rural life. Pouts, or bullhead catfish, were a common catch in New England ponds, prized for their resilience and ease of capture. Fishing at night, as Thoreau describes, added an element of mystery, with hooks baited in darkness and the quiet of the pond amplifying the experience. Thoreau's observation that these fishermen were also fishing \"in the Walden Pond of their own natures\" suggests a deeper metaphor: the act of fishing becomes a search for inner clarity and connection. In this chapter, spring fishing serves as a reminder of how human activities intertwine with the cycles of nature, reinforcing Thoreau's theme of solitude as a space for reflection."
+  - id: "walden-pond-solitude"
+    trigger: "Walden Pond"
+    title: "The Pond That Defined Thoreau's Philosophy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes Walden Pond as his companion, a place of solitude and reflection. This small glacial lake in Concord, Massachusetts, became the centerpiece of his experiment in simple living. Walden Pond has a rich history, serving as a site for fishing, recreation, and inspiration for writers and thinkers. For Thoreau, the pond was more than a physical location; it was a metaphor for self-reliance and the pursuit of truth. Its still waters mirrored his inner quest for clarity and purpose. By living beside Walden Pond, Thoreau demonstrated that solitude in nature could lead to profound insights, shaping his legacy as a pioneer of environmental and philosophical thought."
   - id: "black-kernel-of-the-night"
     trigger: "the black kernel of the night"
     title: "What Lies at the Heart of Darkness?"
@@ -57,6 +64,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau likens the sound of storms to \"Æolian music,\" a term derived from the Aeolian harp, an instrument that produces melodies when wind passes through its strings. This comparison transforms the chaos of a storm into an artistic experience, suggesting that nature's wildness can be harmonious to those attuned to its rhythms. The Aeolian harp, named after Aeolus, the Greek god of winds, was a popular Romantic symbol of the sublime—beauty found in the untamed forces of nature. Thoreau's use of this metaphor reflects his belief that even the fiercest elements of nature hold a kind of innocence and beauty. By framing storms as music, he invites readers to see nature not as adversarial but as a source of inspiration and solace, reinforcing his theme of finding companionship in solitude."
+  - id: "toscar"
+    trigger: "Toscar"
+    title: "The Ossianic Verse Thoreau Borrows for Rain"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ossian"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes the lines, Mourning untimely consumes the sad; few are their days in the land of the living, beautiful daughter of Toscar. They come from the poems of Ossian, published in the 1760s by the Scottish writer James Macpherson, who claimed to have translated them from the ancient Gaelic bard Ossian, but who in fact wrote much of them himself. The verses were hugely popular in Europe and America. Thoreau uses them to describe the gentle melancholy of a long rain, which he found a pleasant time to be alone in his cabin."
   - id: "lightning-struck-pitch-pine"
     trigger: "lightning struck a large pitch-pine"
     title: "The Tree Scarred by Heaven's Fury"
@@ -64,6 +78,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recounts the awe he felt upon seeing a pitch-pine scarred by lightning, its trunk etched with a spiral groove. This vivid image captures the raw power of nature, where a single bolt can transform a tree into a monument of destruction and resilience. Lightning, a natural electrical discharge, has fascinated humans for millennia, inspiring myths and scientific inquiry. Trees struck by lightning often bear scars that can last for decades, serving as reminders of nature's unpredictability. For Thoreau, the lightning-struck pine is more than a spectacle; it symbolizes the intersection of beauty and terror, a moment where nature's force leaves an indelible mark. This scarred tree becomes a metaphor for life's trials and transformations, echoing Thoreau's belief in the profound lessons found in nature's phenomena."
+  - id: "milky-way"
+    trigger: "Milky Way"
+    title: "Why a Man on a Planet in the Galaxy Is Never Lonely"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Milky_Way"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks, why should I feel lonely? Is not our planet in the Milky Way? The Milky Way is the galaxy that contains the sun and the earth, a spiral of hundreds of billions of stars, and by the 1840s astronomers knew it to be a vast disk of stars, though the existence of other galaxies was not yet proved. Thoreau’s question turns the idea of loneliness upside down, since the distance between neighbours is small by cosmic measures. The comparison shows his habit of taking a large view and placing his own cabin in the universe."
   - id: "beacon-hill-and-five-points"
     trigger: "Beacon Hill"
     title: "Why Thoreau Rejected Boston's Beacon Hill"
@@ -71,6 +92,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau contrasts his solitary life with the bustling activity of places like Beacon Hill, a historic neighborhood in Boston known for its affluence and social gatherings. Beacon Hill, with its cobblestone streets and Federal-style architecture, was a hub of 19th-century urban life, symbolizing wealth and societal connection. Thoreau's rejection of such spaces reflects his critique of materialism and superficial social interactions. He argues that true proximity is not physical but spiritual, found in communion with nature rather than crowded urban centers. By distancing himself from places like Beacon Hill, Thoreau underscores his belief that solitude fosters deeper connections to life's perennial sources, such as the earth and the cosmos."
+  - id: "five-points"
+    trigger: "Five Points"
+    title: "The New York Slum Thoreau Sets Beside Beacon Hill"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Five_Points,_Manhattan"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau lists the places where men most congregate, the depot, the post-office, the bar-room, the meeting-house, Beacon Hill, or the Five Points. Five Points was a notorious slum in lower Manhattan, home to poor Irish immigrants, gangs and crowded tenements, and Charles Dickens described it with horror after his visit of 1842. Beacon Hill was Boston’s elegant district. By setting rich and poor places side by side, Thoreau shows that crowds are the same everywhere, and he would rather live near the perennial source of life."
+  - id: "bright-town"
+    trigger: "Bright-town"
+    title: "The Cattle Market Town on the Dark Road"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Brighton,_Boston"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau tells of a traveller who went on in the darkness and the mud to Brighton, or Bright-town, which he would reach some time in the morning. Brighton, then a village outside Boston, was the site of the great New England cattle market, where farmers drove livestock to be sold, so a drover would be walking through the night. Thoreau’s pun on the name, Bright-town, plays against the darkness of the road. The story makes the point that a walker needs a guide, and that each person has his own darkness to pass."
+  - id: "virtue-does-not-remain"
+    trigger: "Virtue does not remain"
+    title: "Confucius on Why Good People Need Neighbours"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Analects"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau quotes Confucius: Virtue does not remain as an abandoned orphan; it must of necessity have neighbors. The saying is from the Analects, the collection of sayings and conversations of Confucius compiled by his followers, and it is in book four, which concerns goodness. Thoreau offers it in a chapter on solitude to show that a thoughtful person is never alone, because good thoughts attract company. He finds in the Chinese sage a support for his claim that his life in the woods was not antisocial."
+  - id: "indra"
+    trigger: "Indra"
+    title: "The Hindu God Watching From the Sky"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Indra"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he may be either the drift-wood in the stream, or Indra in the sky looking down on it. Indra is the king of the gods in the Vedas, a god of the sky, thunder and rain, who rides on a white elephant. The image is Thoreau’s way of saying that one can watch events as a spectator. He needs not be swept away by every happening, since the thinking mind can stand apart. The comparison draws on his reading of Hindu texts, and it states a core idea of his solitude."
   - id: "crowded-hives-of-cambridge-college"
     trigger: "the crowded hives of Cambridge College"
     title: "Why Thoreau Saw Harvard as a Hive"
@@ -85,6 +134,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions \"girls in a factory\" to illustrate the lack of solitude in industrialized life. This likely refers to the Lowell Mill Girls, young women who worked in textile mills in Massachusetts during the 19th century. These mills were emblematic of the Industrial Revolution, offering employment but also imposing grueling schedules and cramped living conditions. The factory girls lived in boarding houses and worked long hours, often in noisy, crowded environments. Thoreau's observation highlights the irony of their situation: surrounded by people yet deprived of meaningful solitude. By contrasting their lives with his own, he underscores the value of solitude as a space for personal growth and introspection, which industrialization often eroded."
+  - id: "mill-brook"
+    trigger: "Mill Brook"
+    title: "The Concord Stream That Is Never Lonely"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Concord,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he is no more lonely than the Mill Brook, or a weathercock, or the north star, or the south wind, or an April shower. Mill Brook is a small stream that runs through the centre of Concord village, and in colonial times it powered the mills that gave the first settlers their grain. It is a very ordinary thing, which Thoreau chooses on purpose. His list of lonely things that are not lonely turns the idea of solitude upside down, because every part of nature has company in being itself."
+  - id: "goffe-or-whalley"
+    trigger: "Goffe or Whalley"
+    title: "The Regicides Hidden in New England"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Edward_Whalley"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes a secret friend, whom he loves much, who keeps himself more secret than ever did Goffe or Whalley. Edward Whalley and William Goffe were English officers who signed the death warrant of King Charles I in 1649, and after the Restoration of 1660 they fled to Massachusetts and lived in hiding for years in Connecticut and Massachusetts, protected by colonists. Their story was part of New England lore. Thoreau’s friend is God, or the genius of the place, who is thought to be dead but is nearby."
   - id: "vegetable-botanic-medicines"
     trigger: "vegetable, botanic medicines"
     title: "Nature's Pharmacy: Healing Without Chemicals"
@@ -92,13 +155,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau praises \"vegetable, botanic medicines\" as Nature's universal remedy, contrasting them with artificial concoctions. Herbal medicine, rooted in ancient traditions, uses plants to treat ailments and promote health. Indigenous peoples and early settlers relied on local flora for remedies, from willow bark for pain relief to echinacea for immunity. Thoreau's preference for natural cures reflects his broader philosophy of simplicity and harmony with nature. He sees these medicines as symbols of life's interconnectedness, where health arises from living in balance with the environment. This perspective reinforces his belief that the answers to human well-being lie not in industrial progress but in returning to nature's wisdom."
-  - id: "walden-pond-solitude"
-    trigger: "Walden Pond"
-    title: "The Pond That Defined Thoreau's Philosophy"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Walden_Pond"
+  - id: "old-parrs"
+    trigger: "old Parrs"
+    title: "The Man Said to Have Lived 152 Years"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Old_Tom_Parr"
     image_url: ""
     image_caption: ""
-    content: "Thoreau describes Walden Pond as his companion, a place of solitude and reflection. This small glacial lake in Concord, Massachusetts, became the centerpiece of his experiment in simple living. Walden Pond has a rich history, serving as a site for fishing, recreation, and inspiration for writers and thinkers. For Thoreau, the pond was more than a physical location; it was a metaphor for self-reliance and the pursuit of truth. Its still waters mirrored his inner quest for clarity and purpose. By living beside Walden Pond, Thoreau demonstrated that solitude in nature could lead to profound insights, shaping his legacy as a pioneer of environmental and philosophical thought."
+    content: "Thoreau says Nature has outlived so many old Parrs in her day. Thomas Parr, called Old Parr, was an Englishman who was said to have been born in 1483 and to have died in 1635 at the age of 152, and who was brought to London to meet King Charles I. His claim was never proved. Thoreau uses him to stand for those who seek long life by medicine. He recommends the fresh air of the morning instead of patent remedies, and argues that Nature’s botanic medicines have kept her young."
+  - id: "hygeia"
+    trigger: "Hygeia"
+    title: "The Goddess of Health Thoreau Won’t Worship"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hygieia"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he is no worshipper of Hygeia, who was the daughter of that old herb-doctor Aesculapius, and is represented on monuments holding a serpent. Hygieia was the Greek goddess of health and cleanliness, from whose name comes the word hygiene, and she is shown feeding a snake from a bowl, an image linked to the medical symbol of the Rod of Asclepius. Thoreau prefers Aurora, goddess of the dawn, so he puts his faith in the morning air instead of herbs and drugs."
 ---
 This is a delicious evening, when the whole body is one sense, and
 imbibes delight through every pore. I go and come with a strange
@@ -196,7 +266,7 @@ place could ever be strange to me again.—
 
      “Mourning untimely consumes the sad;
      Few are their days in the land of the living,
-     Beautiful daughter of Toscar.”
+     Beautiful daughter of **Toscar**.”
 
 Some of my pleasantest hours were during the long rain storms in the
 spring or fall, which confined me to the house for the afternoon as
@@ -219,14 +289,14 @@ snowy days and nights especially.” I am tempted to reply to such,—This
 whole earth which we inhabit is but a point in space. How far apart,
 think you, dwell the two most distant inhabitants of yonder star, the
 breadth of whose disk cannot be appreciated by our instruments? Why
-should I feel lonely? is not our planet in the Milky Way? This which
+should I feel lonely? is not our planet in the **Milky Way**? This which
 you put seems to me not to be the most important question. What sort of
 space is that which separates a man from his fellows and makes him
 solitary? I have found that no exertion of the legs can bring two minds
 much nearer to one another. What do we want most to dwell near to? Not
 to many men surely, the depot, the post-office, the bar-room, the
-meeting-house, the school-house, the grocery, **Beacon Hill**, or the Five
-Points, where men most congregate, but to the perennial source of our
+meeting-house, the school-house, the grocery, **Beacon Hill**, or the **Five
+Points**, where men most congregate, but to the perennial source of our
 life, whence in all our experience we have found that to issue, as the
 willow stands near the water and sends out its roots in that direction.
 This will vary with different natures, but this is the place where a
@@ -237,7 +307,7 @@ driving a pair of cattle to market, who inquired of me how I could
 bring my mind to give up so many of the comforts of life. I answered
 that I was very sure I liked it passably well; I was not joking. And so
 I went home to my bed, and left him to pick his way through the
-darkness and the mud to Brighton,—or Bright-town,—which place he would
+darkness and the mud to Brighton,—or **Bright-town**,—which place he would
 reach some time in the morning.
 
 Any prospect of awakening or coming to life to a dead man makes
@@ -273,7 +343,7 @@ With thinking we may be beside ourselves in a sane sense. By a
 conscious effort of the mind we can stand aloof from actions and their
 consequences; and all things, good and bad, go by us like a torrent. We
 are not wholly involved in Nature. I may be either the drift-wood in
-the stream, or Indra in the sky looking down on it. I _may_ be affected
+the stream, or **Indra** in the sky looking down on it. I _may_ be affected
 by a theatrical exhibition; on the other hand, I _may not_ be affected
 by an actual event which appears to concern me much more. I only know
 myself as a human entity; the scene, so to speak, of thoughts and
@@ -342,7 +412,7 @@ but one is a mock sun. God is alone,—but the devil, he is far from
 being alone; he sees a great deal of company; he is legion. I am no
 more lonely than a single mullein or dandelion in a pasture, or a bean
 leaf, or sorrel, or a horse-fly, or a bumble-bee. I am no more lonely
-than the Mill Brook, or a weathercock, or the north star, or the south
+than the **Mill Brook**, or a weathercock, or the north star, or the south
 wind, or an April shower, or a January thaw, or the first spider in a
 new house.
 
@@ -353,7 +423,7 @@ stoned it, and fringed it with pine woods; who tells me stories of old
 time and of new eternity; and between us we manage to pass a cheerful
 evening with social mirth and pleasant views of things, even without
 apples or cider,—a most wise and humorous friend, whom I love much, who
-keeps himself more secret than ever did Goffe or Whalley; and though he
+keeps himself more secret than ever did **Goffe or Whalley**; and though he
 is thought to be dead, none can show where he is buried. An elderly
 dame, too, dwells in my neighborhood, invisible to most persons, in
 whose odorous herb garden I love to stroll sometimes, gathering simples
@@ -376,7 +446,7 @@ Am I not partly leaves and vegetable mould myself?
 What is the pill which will keep us well, serene, contented? Not my or
 thy great-grandfather’s, but our great-grandmother Nature’s universal,
 **vegetable, botanic medicines**, by which she has kept herself young
-always, outlived so many old Parrs in her day, and fed her health with
+always, outlived so many **old Parrs** in her day, and fed her health with
 their decaying fatness. For my panacea, instead of one of those quack
 vials of a mixture dipped from Acheron and the Dead Sea, which come out
 of those long shallow black-schooner looking wagons which we sometimes
@@ -387,7 +457,7 @@ shops, for the benefit of those who have lost their subscription ticket
 to morning time in this world. But remember, it will not keep quite
 till noon-day even in the coolest cellar, but drive out the stopples
 long ere that and follow westward the steps of Aurora. I am no
-worshipper of Hygeia, who was the daughter of that old herb-doctor
+worshipper of **Hygeia**, who was the daughter of that old herb-doctor
 Æsculapius, and who is represented on monuments holding a serpent in
 one hand, and in the other a cup out of which the serpent sometimes
 drinks; but rather of Hebe, cupbearer to Jupiter, who was the daughter

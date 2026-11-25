@@ -16,7 +16,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Language"
     link_label: "Language"
   - point: "The Eloi's appearance is described as having a Dresden china type of prettiness, emphasizing their delicate features."
-    link: "https://en.wikipedia.org/wiki/Dresden_porcelain"
+    link: "https://en.wikipedia.org/wiki/Meissen_porcelain"
     link_label: "Dresden porcelain"
   - point: "The Eloi present the Time Traveller with a chain of beautiful flowers, showcasing their playful and artistic nature."
     link: "https://en.wikipedia.org/wiki/Floral_design"
@@ -36,10 +36,17 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller first hears the Eloi speak, their language strikes him as a \"liquid tongue,\" strange and sweet. This description evokes a sense of fluidity and musicality, suggesting that their communication might be as much about tone and rhythm as it is about meaning. Linguists have long studied how languages evolve over time, and some theorize that tonal languages, like Mandarin or Yoruba, might have emerged from environments where pitch played a crucial role in communication. Could the Eloi's language be a distant descendant of such tonal systems, refined into pure melody? Or does its liquid quality reflect a society where words are secondary to emotional resonance? Wells uses this detail to unsettle the Time Traveller—and the reader—by presenting a future where intellect and precision seem to have given way to simplicity and beauty. This moment challenges our assumptions about progress, asking whether the future might prioritize harmony over complexity."
+  - id: "ninepins"
+    trigger: "ninepins"
+    title: "The Old Bowling Game in the Traveller’s Mind"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Nine-pin_bowling"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller thinks the Eloi look so frail that he could fancy himself flinging the whole dozen of them about like ninepins. Ninepins was a traditional bowling game in which players rolled a ball to knock down nine wooden pins, and it was played in English inns and gardens for centuries. The remark shows his first impression of the Eloi as helpless, almost like toys, and it reveals a note of condescension in his attitude. Wells quietly shows how an educated Victorian, confident in his strength, looks down on people who seem weak."
   - id: "dresden-china-type-of-prettiness"
     trigger: "Dresden china type of prettiness"
     title: "Why Dresden Porcelain Became a Symbol of Fragility"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dresden_porcelain"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Meissen_porcelain"
     image_url: ""
     image_caption: ""
     content: "The Time Traveller describes the Eloi as having a \"Dresden china type of prettiness,\" likening their delicate features to the famed porcelain figurines of 18th-century Germany. Dresden porcelain, celebrated for its intricate craftsmanship and fragile beauty, was often adorned with floral motifs and pastel colors, embodying an idealized vision of grace and refinement. But its fragility also made it a metaphor for vulnerability—a quality the Eloi seem to embody both physically and intellectually. By invoking this comparison, Wells draws a parallel between the Eloi's aesthetic perfection and their apparent lack of resilience. This detail deepens the Time Traveller's growing disappointment with the future, as he realizes that the elegance of these beings masks a troubling absence of strength or curiosity. The Eloi's porcelain-like existence becomes a poignant critique of a society that has sacrificed substance for surface."
@@ -57,6 +64,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the Time Traveller approaches the vast grey edifice, he passes a \"sphinx of white marble,\" its enigmatic smile seeming to watch him. The sphinx, a creature of myth known for its riddles, has long symbolized mystery and the unknown. In ancient Egypt, it guarded temples and tombs, while in Greek mythology, it posed deadly questions to travelers. What does its presence in Wells's future signify? The marble sphinx might represent the inscrutability of the Eloi's world—a civilization that appears idyllic but hides deeper truths. Its smile could be a silent challenge, urging the Time Traveller to uncover the secrets of this strange era. By placing the sphinx in this futuristic landscape, Wells evokes a sense of continuity between past and future, suggesting that humanity's quest for understanding remains eternal, even as civilizations rise and fall."
+  - id: "fretted-stone"
+    trigger: "fretted stone"
+    title: "The Carved Stone of the Great House"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fretwork"
+    image_url: ""
+    image_caption: ""
+    content: "The Eloi lead the Time Traveller to a vast grey edifice of fretted stone. Fretwork is decorative carving in which a pattern is cut through the material, leaving a lacy design, and it is common in Gothic and Islamic architecture. The phrase makes the building sound both grand and delicate, and the fretted stone is later described as broken and weather-worn. The great hall is a picture of faded splendour, a theme that runs through the chapter, as the Time Traveller realises that the surroundings of the Eloi are the remains of a stronger civilisation."
   - id: "old-phoenician-decorations"
     trigger: "old Phœnician decorations"
     title: "What Ancient Phoenicians Left Behind for the Eloi"
@@ -64,6 +78,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the Time Traveller enters the colossal building, he notices carvings that remind him of \"old Phœnician decorations,\" though they are badly weather-worn. The Phoenicians, an ancient maritime civilization, were renowned for their artistry and trade networks, spreading their influence across the Mediterranean. Their decorative motifs often featured intricate patterns, mythological figures, and symbols of nature, reflecting their cultural richness. The presence of such designs in the Eloi's world raises intriguing questions: Are these remnants of a long-lost civilization, preserved through millennia? Or has humanity, in its decline, repurposed ancient aesthetics without understanding their origins? Wells uses this detail to suggest a future where history has been forgotten, leaving only fragments of past grandeur. The worn carvings become a metaphor for the Eloi themselves—beautiful but eroded, a faint echo of humanity's once-vibrant legacy."
+  - id: "garlanded-with-flowers"
+    trigger: "garlanded with flowers"
+    title: "The Flower Chains of a Welcome"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Garland"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller enters the great hall dressed in dingy nineteenth-century garments, garlanded with flowers and surrounded by soft-coloured robes. A garland is a wreath or chain of flowers worn as decoration or an honour, a custom found in ancient Greece and Rome and in many other cultures. The Eloi’s friendly welcome makes the guest into a kind of toy, and there is something faintly absurd and sad in the picture. Wells’s image of the grotesque, wreathed visitor shows how out of place the Victorian is in a world of beauty without purpose."
+  - id: "very-hard-white-metal"
+    trigger: "very hard white metal"
+    title: "The Mysterious Metal of the Hall Floor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Aluminium"
+    image_url: ""
+    image_caption: ""
+    content: "The hall floor was made of huge blocks of some very hard white metal, deeply channelled by the going to and fro of past generations. Later the Time Traveller mentions masses of aluminium, and the metal may be meant as aluminium or an alloy. In the 1890s aluminium was a new wonder: it had been a precious metal in the 1850s, but the Hall–Héroult process, invented in 1886, made it cheap. Wells, who was always interested in new technology, imagines a future in which buildings use the metal as freely as stone."
+  - id: "hypertrophied-raspberry"
+    trigger: "hypertrophied raspberry"
+    title: "The Giant Fruits of the Future Table"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hypertrophy"
+    image_url: ""
+    image_caption: ""
+    content: "On the tables the Time Traveller sees heaps of fruits, some of which he recognises as a kind of hypertrophied raspberry and orange. Hypertrophy means an abnormal enlargement of a part or organ through growth of its cells, and here it describes fruit that has been bred to enormous size. Wells’s picture of the future shows human control of plants and animals, an idea that Victorians admired in the work of gardeners and plant breeders. The fruit of the future is bigger and sweeter than any natural kind, a sign of how far the Eloi have mastered nature."
   - id: "stained-glass-windows"
     trigger: "stained-glass windows"
     title: "Why Stained Glass Endures in a Dilapidated Future"
@@ -71,10 +106,24 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller observes stained-glass windows in the great hall, their geometric patterns broken and weathered. Stained glass, historically associated with cathedrals and sacred spaces, has symbolized divine light and artistic achievement for centuries. Its presence in the Eloi's world hints at a once-glorious civilization that has since fallen into decay. The broken panes and dusty curtains suggest neglect, a stark contrast to the vibrant beauty of the flowers outside. Could the Eloi's indifference to their surroundings reflect a deeper cultural decline? Wells uses the stained glass as a visual metaphor for the fragility of human achievement, reminding readers that even the most enduring art can fade without care or purpose. The windows, fractured yet still admitting light, become a poignant image of a world where beauty persists but meaning has been lost."
+  - id: "strict-vegetarians"
+    trigger: "strict vegetarians"
+    title: "The Diet of the People of the Future"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Vegetarianism"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller learns that these people of the remote future were strict vegetarians. Vegetarianism had become a notable movement in the late nineteenth century, with the Vegetarian Society, founded in 1847, and writers such as George Bernard Shaw, a friend of Wells, arguing for it on moral and health grounds. Wells’s Eloi eat only fruit, since cattle, horses, sheep and dogs have gone extinct. The detail hints at a society that has cut itself off from the natural world, and it makes the later discovery of their predators more shocking."
+  - id: "frugivorous"
+    trigger: "frugivorous"
+    title: "Why the Traveller Had to Eat Only Fruit"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Frugivore"
+    image_url: ""
+    image_caption: ""
+    content: "In spite of some carnal cravings, the Time Traveller says he had to be frugivorous also. A frugivore is an animal that eats mostly fruit, and the word comes from the Latin fructus, fruit, and vorare, to devour. Apes, many bats and many birds are frugivores. Wells’s choice of the scientific term gives his narrator a precise, slightly comic tone, and he also implies that the Eloi have been reduced to the diet of animals. Our narrator’s craving for meat stands in sharp contrast to their pale, gentle way of life."
   - id: "ichthyosaurus-into-extinction"
     trigger: "Ichthyosaurus into extinction"
     title: "What Happened to Earth's Mighty Creatures?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Ichthyosaur"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ichthyosauria"
     image_url: ""
     image_caption: ""
     content: "The Time Traveller notes that horses, cattle, sheep, and dogs have followed the \"Ichthyosaurus into extinction\" in the Eloi's world. Ichthyosaurs were marine reptiles that thrived during the Mesozoic Era, disappearing around 90 million years ago. Their extinction, likely due to environmental changes, mirrors the fate of Earth's domesticated animals in Wells's future. What led to this loss? The Eloi's strict vegetarianism suggests a world where agriculture and animal husbandry have vanished, replaced by a reliance on cultivated fruits. This shift might reflect a society that has abandoned the complexities of animal care, focusing instead on simplicity and ease. Wells uses this detail to underscore the Eloi's detachment from the natural world, raising questions about the consequences of humanity's choices. The extinction of familiar creatures becomes a haunting reminder of what can be lost when progress prioritizes convenience over connection."
@@ -85,6 +134,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller painstakingly learns \"noun substantives\" from the Eloi, beginning his attempt to understand their language. Nouns, the building blocks of communication, are essential for naming objects and concepts. Yet the Eloi's language, with its soft cooing notes, seems far removed from the structured grammar of the 19th century. Could their linguistic simplicity reflect a deeper intellectual decline? Linguists have studied how languages evolve, noting that complexity often correlates with cultural and technological advancement. The Eloi's limited vocabulary might suggest a society where innovation and curiosity have faded, leaving only the bare essentials of communication. Wells uses the Time Traveller's struggle to learn their language as a metaphor for his broader quest to comprehend this future world. The nouns he gathers become fragments of a puzzle, revealing both the Eloi's simplicity and the profound changes that have shaped their civilization."
+  - id: "demonstrative-pronouns"
+    trigger: "demonstrative pronouns"
+    title: "Learning Grammar From the Eloi"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Demonstrative"
+    image_url: ""
+    image_caption: ""
+    content: "After he has a score of noun substantives, the Time Traveller says he got to demonstrative pronouns, and even the verb to eat. Demonstratives are words such as this and that that point to a thing near or far. Learning them is a natural stage in acquiring a language, because the learner can point at objects. His method is that of a missionary or an explorer, and Wells gives the passage a note of humour, since the pupil is a fully grown scientist and the teachers are indolent, childlike people who tire of lessons in minutes."
 ---
 “In another moment we were standing face to face, I and this fragile
 thing out of futurity. He came straight up to me and laughed into my
@@ -102,7 +158,7 @@ shoulders. They wanted to make sure I was real. There was nothing in
 this at all alarming. Indeed, there was something in these pretty
 little people that inspired confidence—a graceful gentleness, a certain
 childlike ease. And besides, they looked so frail that I could fancy
-myself flinging the whole dozen of them about like ninepins. But I made
+myself flinging the whole dozen of them about like **ninepins**. But I made
 a sudden motion to warn them when I saw their little pink hands feeling
 at the Time Machine. Happily then, when it was not too late, I thought
 of a danger I had hitherto forgotten, and reaching over the bars of the
@@ -151,7 +207,7 @@ scarcely imagine what delicate and wonderful flowers countless years of
 culture had created. Then someone suggested that their plaything should
 be exhibited in the nearest building, and so I was led past the **sphinx
 of white marble**, which had seemed to watch me all the while with a
-smile at my astonishment, towards a vast grey edifice of fretted stone.
+smile at my astonishment, towards a vast grey edifice of **fretted stone**.
 As I went with them the memory of my confident anticipations of a
 profoundly grave and intellectual posterity came, with irresistible
 merriment, to my mind.
@@ -172,21 +228,21 @@ observe the carving very narrowly, though I fancied I saw suggestions
 of **old Phœnician decorations** as I passed through, and it struck me that
 they were very badly broken and weather-worn. Several more brightly
 clad people met me in the doorway, and so we entered, I, dressed in
-dingy nineteenth-century garments, looking grotesque enough, garlanded
-with flowers, and surrounded by an eddying mass of bright,
+dingy nineteenth-century garments, looking grotesque enough, **garlanded
+with flowers**, and surrounded by an eddying mass of bright,
 soft-coloured robes and shining white limbs, in a melodious whirl of
 laughter and laughing speech.
 
 “The big doorway opened into a proportionately great hall hung with
 brown. The roof was in shadow, and the windows, partially glazed with
 coloured glass and partially unglazed, admitted a tempered light. The
-floor was made up of huge blocks of some very hard white metal, not
+floor was made up of huge blocks of some **very hard white metal**, not
 plates nor slabs—blocks, and it was so much worn, as I judged by the
 going to and fro of past generations, as to be deeply channelled along
 the more frequented ways. Transverse to the length were innumerable
 tables made of slabs of polished stone, raised, perhaps, a foot from
 the floor, and upon these were heaps of fruits. Some I recognised as a
-kind of hypertrophied raspberry and orange, but for the most part they
+kind of **hypertrophied raspberry** and orange, but for the most part they
 were strange.
 
 “Between the tables was scattered a great number of cushions. Upon
@@ -209,8 +265,8 @@ eyes shining over the fruit they were eating. All were clad in the same
 soft, and yet strong, silky material.
 
 “Fruit, by the bye, was all their diet. These people of the remote
-future were strict vegetarians, and while I was with them, in spite of
-some carnal cravings, I had to be frugivorous also. Indeed, I found
+future were **strict vegetarians**, and while I was with them, in spite of
+some carnal cravings, I had to be **frugivorous** also. Indeed, I found
 afterwards that horses, cattle, sheep, dogs, had followed the
 **Ichthyosaurus into extinction**. But the fruits were very delightful;
 one, in particular, that seemed to be in season all the time I was
@@ -233,7 +289,7 @@ and my first attempts to make the exquisite little sounds of their
 language caused an immense amount of genuine, if uncivil, amusement.
 However, I felt like a schoolmaster amidst children, and persisted, and
 presently I had a score of **noun substantives** at least at my command;
-and then I got to demonstrative pronouns, and even the verb ‘to eat.’
+and then I got to **demonstrative pronouns**, and even the verb ‘to eat.’
 But it was slow work, and the little people soon tired and wanted to
 get away from my interrogations, so I determined, rather of necessity,
 to let them give their lessons in little doses when they felt inclined.

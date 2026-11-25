@@ -33,6 +33,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller, as he is referred to throughout the novel, is an enigmatic figure whose identity remains deliberately vague. In this opening chapter, Wells introduces him as a man of intellect and curiosity, someone who challenges conventional thinking with bold ideas. His flushed face and animated demeanor suggest a passion for discovery that transcends ordinary scientific inquiry. This character is not just a scientist but a philosopher, daring to question the very fabric of reality. Wells uses the Time Traveller as a vehicle to explore themes of progress, human limitation, and the nature of existence. By keeping his name anonymous, Wells universalizes his role, making him a stand-in for humanity's relentless pursuit of knowledge."
+  - id: "mathematical-line"
+    trigger: "mathematical line"
+    title: "Why a Perfect Line Cannot Really Exist"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Line_(geometry)"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller begins by saying that a mathematical line, a line of thickness nil, has no real existence, and neither has a mathematical plane. In Euclid’s geometry, which Victorian schoolboys learned by heart, a line has length but no width, and a plane has no thickness. They are idealisations, useful for reasoning but never found in nature. Wells uses the familiar lesson to prepare a bolder claim: if a thing with no thickness is an abstraction, then so is a cube with no duration, and time must be counted as a real dimension too."
+  - id: "a-cube-that-does-not-last-for-any-time-at-all"
+    trigger: "a cube that does not last for any time at all"
+    title: "The Cube That Lasts No Time at All"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spacetime"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller asks whether an instantaneous cube can exist, a cube that does not last for any time at all. His point is that any real object must have duration as well as length, breadth and thickness. This is the idea at the core of spacetime, in which time is treated as a fourth dimension joined with the three of space. Wells wrote in 1895, a decade before Einstein’s special relativity, so his hero’s argument is a remarkable piece of speculation, and the conversation turns a parlour paradox into a serious thought experiment."
   - id: "four-dimensions"
     trigger: "four dimensions"
     title: "Why Time Is the Fourth Dimension"
@@ -40,6 +54,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller asserts that any real body must have extension in four directions—Length, Breadth, Thickness, and Duration—he is introducing a revolutionary concept for his time. The idea of time as a dimension akin to spatial dimensions was groundbreaking and prefigured Einstein's theory of relativity, which would emerge a decade later. In the late 19th century, mathematicians and philosophers were beginning to explore the notion of higher dimensions, inspired by works like Edwin Abbott's 'Flatland.' Wells taps into this intellectual zeitgeist, using the fourth dimension as a narrative device to challenge perceptions of reality and to set the stage for his exploration of time travel. This concept transforms time from an abstract progression into a tangible space that can be navigated, reshaping the boundaries of human imagination."
+  - id: "fourth-dimension"
+    trigger: "Fourth Dimension"
+    title: "The Idea That Fascinated the Victorians"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Four-dimensional_space"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says that people who talk about the Fourth Dimension do not know that they mean time. In the late nineteenth century the idea of a fourth spatial dimension was widely discussed by mathematicians, philosophers and spiritualists, and Charles Hinton popularised it with books on the subject. Some thought that spirits lived in it. Wells takes a different path and treats the fourth dimension as time, a direction along which our consciousness moves. His rational explanation is an early example of how science fiction makes an idea concrete and testable."
   - id: "professor-simon-newcomb"
     trigger: "Professor Simon Newcomb"
     title: "The Astronomer Who Doubted Flight"
@@ -47,6 +68,34 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller mentions Professor Simon Newcomb, a real-life astronomer and mathematician, to lend credibility to his discussion of four-dimensional geometry. Newcomb was a prominent figure in the scientific community, known for his work on celestial mechanics and the speed of light. Ironically, he is also remembered for his skepticism about human flight, famously declaring it impossible just a few years before the Wright brothers proved him wrong. Wells's reference to Newcomb highlights the tension between established scientific authority and groundbreaking innovation. By invoking Newcomb, Wells situates his fictional ideas within the realm of serious scientific discourse, while also subtly critiquing the limits of conventional thinking."
+  - id: "new-york-mathematical-society"
+    trigger: "New York Mathematical Society"
+    title: "The Society Where Newcomb Spoke"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_Mathematical_Society"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says Professor Simon Newcomb was expounding four-dimensional geometry to the New York Mathematical Society only a month or so before. The society, founded in 1888, became the American Mathematical Society in 1894, one year before the novel appeared, and it is still the main professional body for mathematicians in the United States. Wells bases the reference on a real lecture by Newcomb, an astronomer and mathematician. By citing a genuine scholar and a genuine society, he gives the wild idea of time travel an air of scientific respectability."
+  - id: "geometry-of-four-dimensions"
+    trigger: "geometry of Four Dimensions"
+    title: "The Math That Inspired Time Travel"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Four-dimensional_space"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller's work on the 'geometry of Four Dimensions' reflects the intellectual ferment of the late 19th century, when mathematicians and philosophers were exploring the implications of higher-dimensional spaces. This geometry provided a framework for imagining worlds beyond human perception, influencing both scientific thought and speculative fiction. Wells uses this concept to ground his fantastical narrative in scientific plausibility, making the idea of time travel seem less like magic and more like a logical extension of existing knowledge. The geometry of four dimensions becomes a metaphor for expanding human understanding, pushing the boundaries of what is possible."
+  - id: "barometer"
+    trigger: "barometer"
+    title: "The Weather Chart That Shows Time as Space"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Barometer"
+    image_url: ""
+    image_caption: ""
+    content: "To show that time is only a kind of space, the Time Traveller points to a weather record in which a line traces the movement of the barometer. A barometer measures atmospheric pressure, and by the 1890s recording barographs drew a continuous line on paper, so that changes through time became a visible shape. The line, he argues, was traced along the Time-Dimension. It is a clever, everyday example: anyone who has looked at a graph has already seen time represented as a distance, and Wells uses it to make his strange claim feel familiar."
+  - id: "time-dimension"
+    trigger: "Time-Dimension"
+    title: "How Time Became a Tangible Space"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Time"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller's assertion that time is a dimension akin to space challenges traditional views of temporality. He uses the example of a weather record to illustrate how time can be visualized as a line, much like spatial dimensions. This concept was revolutionary in Wells's era, predating Einstein's spacetime continuum. By framing time as a dimension, Wells invites readers to reconsider their relationship with the past, present, and future. This idea serves as the foundation for the novel's exploration of time travel, transforming abstract philosophical questions into tangible, narrative possibilities."
   - id: "a-machine"
     trigger: "a machine"
     title: "The Invention That Redefined Science Fiction"
@@ -61,20 +110,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Psychologist suggests using time travel to verify historical events like the Battle of Hastings, a pivotal moment in British history. Fought in 1066, this battle marked the Norman conquest of England and the end of Anglo-Saxon rule. The idea of witnessing such events firsthand underscores the allure of time travel as a tool for uncovering historical truths. Yet, Wells also hints at the complications of such endeavors, including the risk of anachronism and the subjective nature of historical interpretation. By invoking the Battle of Hastings, Wells connects his speculative fiction to real-world history, emphasizing the profound implications of his imagined technology."
-  - id: "time-dimension"
-    trigger: "Time-Dimension"
-    title: "How Time Became a Tangible Space"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Time"
+  - id: "little-go"
+    trigger: "Little-go"
+    title: "The Cambridge Exam That Mocks Plato’s Greek"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Previous_Examination"
     image_url: ""
     image_caption: ""
-    content: "The Time Traveller's assertion that time is a dimension akin to space challenges traditional views of temporality. He uses the example of a weather record to illustrate how time can be visualized as a line, much like spatial dimensions. This concept was revolutionary in Wells's era, predating Einstein's spacetime continuum. By framing time as a dimension, Wells invites readers to reconsider their relationship with the past, present, and future. This idea serves as the foundation for the novel's exploration of time travel, transforming abstract philosophical questions into tangible, narrative possibilities."
-  - id: "geometry-of-four-dimensions"
-    trigger: "geometry of Four Dimensions"
-    title: "The Math That Inspired Time Travel"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Four-dimensional_space"
+    content: "The Very Young Man hopes to learn Greek from the lips of Homer and Plato, and the Medical Man jokes that they would plough him for the Little-go. The Little-go was the nickname of the Previous Examination at Cambridge, which undergraduates took early in their studies and which tested Greek, Latin and elementary mathematics. A candidate who failed was ploughed, or failed. The Medical Man adds that German scholars have improved Greek so much, a dig at changing fashions in classical scholarship. The banter shows the educated, joking tone of the dinner guests."
+  - id: "communistic-basis"
+    trigger: "communistic basis"
+    title: "Wells’s Own Politics Slips Into the Parlour"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Communism"
     image_url: ""
     image_caption: ""
-    content: "The Time Traveller's work on the 'geometry of Four Dimensions' reflects the intellectual ferment of the late 19th century, when mathematicians and philosophers were exploring the implications of higher-dimensional spaces. This geometry provided a framework for imagining worlds beyond human perception, influencing both scientific thought and speculative fiction. Wells uses this concept to ground his fantastical narrative in scientific plausibility, making the idea of time travel seem less like magic and more like a logical extension of existing knowledge. The geometry of four dimensions becomes a metaphor for expanding human understanding, pushing the boundaries of what is possible."
+    content: "When the Very Young Man talks of investing money and hurrying on to the future, the narrator says he would discover a society erected on a strictly communistic basis. Wells was a socialist, and he took part in the Fabian Society in the early 1900s. In 1895 communism meant the ideas of Marx and Engels, and also older dreams of shared property. The remark is a hint of the book’s social theme, since the world of the Eloi and Morlocks will turn out to be a harsh parody of a class society, not a happy communist paradise."
   - id: "sleight-of-hand-trick"
     trigger: "sleight-of-hand trick"
     title: "The Art of Deception in Victorian Parlors"
@@ -82,6 +131,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Medical Man dismisses the Time Traveller's claims as a 'sleight-of-hand trick,' he taps into a Victorian fascination with illusion and stage magic. Sleight-of-hand tricks were popular entertainment in the 19th century, performed by conjurors who dazzled audiences with their ability to manipulate objects invisibly. This skepticism reflects the tension between science and spectacle, a recurring theme in Wells's work. By juxtaposing the Time Traveller's groundbreaking ideas with the notion of trickery, Wells challenges readers to discern truth from illusion, underscoring the novel's exploration of perception and reality."
+  - id: "burslem"
+    trigger: "Burslem"
+    title: "The Potteries Town With a Conjuror"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Burslem"
+    image_url: ""
+    image_caption: ""
+    content: "Filby tries to tell the guests about a conjuror he had seen at Burslem, before the Time Traveller returns and his anecdote collapses. Burslem is one of the six towns of the Staffordshire Potteries, centre of the English china industry, and later part of Stoke-on-Trent. The kilns and smoke of the district were well known to Victorian readers. The reference gives Filby a provincial background and a small joke, and it prepares the idea that a good trick can be explained away, which the sceptics try to do with the Time Machine."
 ---
 **The Time Traveller** (for so it will be convenient to speak of him) was
 expounding a recondite matter to us. His pale grey eyes shone and
@@ -104,7 +160,7 @@ Filby, an argumentative person with red hair.
 
 “I do not mean to ask you to accept anything without reasonable ground
 for it. You will soon admit as much as I need from you. You know of
-course that a mathematical line, a line of thickness _nil_, has no real
+course that a **mathematical line**, a line of thickness _nil_, has no real
 existence. They taught you that? Neither has a mathematical plane.
 These things are mere abstractions.”
 
@@ -121,7 +177,7 @@ exist?”
 
 “Don’t follow you,” said Filby.
 
-“Can a cube that does not last for any time at all, have a real
+“Can **a cube that does not last for any time at all**, have a real
 existence?”
 
 Filby became pensive. “Clearly,” the Time Traveller proceeded, “any
@@ -140,7 +196,7 @@ cigar over the lamp; “that . . . very clear indeed.”
 
 “Now, it is very remarkable that this is so extensively overlooked,”
 continued the Time Traveller, with a slight accession of cheerfulness.
-“Really this is what is meant by the Fourth Dimension, though some
+“Really this is what is meant by the **Fourth Dimension**, though some
 people who talk about the Fourth Dimension do not know they mean it. It
 is only another way of looking at Time. _There is no difference between
 Time and any of the three dimensions of Space except that our
@@ -157,7 +213,7 @@ planes, each at right angles to the others. But some philosophical
 people have been asking why _three_ dimensions particularly—why not
 another direction at right angles to the other three?—and have even
 tried to construct a Four-Dimensional geometry. **Professor Simon Newcomb**
-was expounding this to the New York Mathematical Society only a month
+was expounding this to the **New York Mathematical Society** only a month
 or so ago. You know how on a flat surface, which has only two
 dimensions, we can represent a figure of a three-dimensional solid, and
 similarly they think that by models of three dimensions they could
@@ -181,7 +237,7 @@ unalterable thing.
 required for the proper assimilation of this, “know very well that Time
 is only a kind of Space. Here is a popular scientific diagram, a
 weather record. This line I trace with my finger shows the movement of
-the barometer. Yesterday it was so high, yesterday night it fell, then
+the **barometer**. Yesterday it was so high, yesterday night it fell, then
 this morning it rose again, and so gently upward to here. Surely the
 mercury did not trace this line in any of the dimensions of Space
 generally recognised? But certainly it traced such a line, and that
@@ -265,15 +321,15 @@ the **Battle of Hastings**, for instance!”
 “One might get one’s Greek from the very lips of Homer and Plato,” the
 Very Young Man thought.
 
-“In which case they would certainly plough you for the Little-go. The
+“In which case they would certainly plough you for the **Little-go**. The
 German scholars have improved Greek so much.”
 
 “Then there is the future,” said the Very Young Man. “Just think! One
 might invest all one’s money, leave it to accumulate at interest, and
 hurry on ahead!”
 
-“To discover a society,” said I, “erected on a strictly communistic
-basis.”
+“To discover a society,” said I, “erected on a strictly **communistic
+basis**.”
 
 “Of all the wild extravagant theories!” began the Psychologist.
 
@@ -294,6 +350,6 @@ his laboratory.
 The Psychologist looked at us. “I wonder what he’s got?”
 
 “Some **sleight-of-hand trick** or other,” said the Medical Man, and Filby
-tried to tell us about a conjuror he had seen at Burslem, but before he
+tried to tell us about a conjuror he had seen at **Burslem**, but before he
 had finished his preface the Time Traveller came back, and Filby’s
 anecdote collapsed.

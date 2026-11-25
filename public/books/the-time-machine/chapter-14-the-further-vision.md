@@ -32,10 +32,17 @@ enhancements:
   - id: "the-dials"
     trigger: "the dials"
     title: "Why Time Machines Need Precision Instruments"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Chronometer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dial_(measurement)"
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller glances at the dials of his machine, he notices the thousands hand sweeping forward at an astonishing pace, propelling him into the distant future. These dials are not mere decoration; they are critical instruments for navigating the vast expanse of time. The concept of precise measurement in timekeeping dates back to the invention of chronometers, which revolutionized navigation by allowing sailors to determine longitude accurately. In Wells's era, the idea of a machine capable of measuring and manipulating time was both thrilling and speculative. The dials symbolize humanity's obsession with mastering time, a theme central to the novel. By focusing on these instruments, Wells underscores the fragility of control in the face of cosmic forces, as even the most advanced technology can lead to unintended consequences."
+  - id: "a-comet-glared-across-the-darkling-sky"
+    trigger: "a comet glared across the darkling sky"
+    title: "The Comet in the Dying Light"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Comet"
+    image_url: ""
+    image_caption: ""
+    content: "As the machine drives on, a steady twilight broods over the earth, only broken now and then when a comet glared across the darkling sky. Comets are icy bodies that develop glowing tails when they near the sun, and the great comets of the Victorian age, such as the Great Comet of 1882, drew huge crowds of watchers. Comets were once seen as omens of disaster. In Wells’s vision, a comet is a sign of how slow and strange the future sky has become, with the sun halted on the horizon, and the light has an eerie, sad quality."
   - id: "tidal-drag"
     trigger: "tidal drag"
     title: "How Tides Could Stop Earth's Rotation"
@@ -43,6 +50,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller observes that the sun no longer sets, and the Earth has come to rest with one face permanently turned toward the sun due to tidal drag. This phenomenon occurs when gravitational forces between celestial bodies create friction that slows rotation over immense timescales. In our own time, tidal drag is gradually slowing Earth's rotation, causing days to lengthen by fractions of a second each century. The moon, already tidally locked to Earth, offers a glimpse of this future. Wells uses this scientific concept to evoke a haunting vision of a world frozen in perpetual twilight, emphasizing the inexorable march of cosmic forces that dwarf human agency. The image of a stationary Earth serves as a chilling reminder of the fragility of life and the inevitability of change."
+  - id: "deep-indian-red"
+    trigger: "deep Indian red"
+    title: "The Colour of the Overhead Sky"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Indian_red_(color)"
+    image_url: ""
+    image_caption: ""
+    content: "At the end of the world the sky overhead is a deep Indian red and starless. Indian red is a dark brownish red pigment made from natural or synthetic iron oxide, and it was used in paints and dyes for centuries. By choosing the artist’s term, Wells gives the sky a dense, heavy colour. The picture of an inky north, a red zenith and a glowing scarlet south-east is a painter’s scene. The vividness of the colours makes the dying earth seem real, and also strangely beautiful, even as the traveller feels horror."
+  - id: "lichen-in-caves"
+    trigger: "lichen in caves"
+    title: "The Plants That Live on Twilight"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Lichen"
+    image_url: ""
+    image_caption: ""
+    content: "The only life the Time Traveller sees at first is the intensely green vegetation on the rocks, the same rich green that one sees on forest moss or on the lichen in caves. A lichen is a partnership of a fungus and an alga living together, and lichens are among the hardiest organisms on earth, surviving in deserts, mountains and polar regions. Wells picks lichens and mosses because they could outlast the higher plants in a cold, dim world. His biology is sound, and the image of simple life taking over the dying earth is memorable."
   - id: "monstrous-crab-like-creature"
     trigger: "monstrous crab-like creature"
     title: "Could Crabs Dominate Earth's Final Days?"
@@ -57,6 +78,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the Time Traveller brushes against the antenna of another monster crab, he is struck by its alien texture and the creature's predatory intent. Antennae are sensory organs used by crustaceans to detect changes in their environment, including vibrations and chemical signals. These appendages are vital for survival, enabling crabs to navigate, find food, and avoid predators. Wells's description transforms this biological feature into a source of horror, emphasizing the uncanny and grotesque nature of life in Earth's distant future. The encounter with the crab's antenna heightens the tension, illustrating the vulnerability of the Time Traveller in a world where even the smallest touch can signal danger."
+  - id: "salt-dead-sea"
+    trigger: "salt Dead Sea"
+    title: "The Salt Sea at the World’s End"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dead_Sea"
+    image_url: ""
+    image_caption: ""
+    content: "Among the sights that make up the abominable desolation, the traveller lists the salt Dead Sea. The Dead Sea, between Israel and Jordan, is about ten times as salty as the ocean, and its brine is so dense that no fish can live in it and swimmers float easily. Along the beach in the far future there is a thick incrustation of salt, pink under the lurid sky. Wells imagines that the oceans, as they shrink and cool, have become something like it, a dead water, and the comparison shows how lifeless the world will be."
+  - id: "earthy-crustacea"
+    trigger: "earthy crustacea"
+    title: "The Giant Crabs of the Last Beach"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Crustacean"
+    image_url: ""
+    image_caption: ""
+    content: "Moving on a hundred years, the Time Traveller sees the same dying sea and the same crowd of earthy crustacea creeping in and out among the green weed and the red rocks. Crustaceans, which include crabs, lobsters, shrimps and woodlice, are a vast group of mostly aquatic animals with hard shells and jointed legs. Wells makes the huge crabs the dominant animals of the dying earth, a creepy and original idea. The creatures are scavengers and survivors, and their slow movements fit a world running down, so the image is a fitting climax to the book."
   - id: "thirty-million-years-hence"
     trigger: "thirty million years hence"
     title: "What Will Earth Look Like in 30 Million Years?"
@@ -64,6 +99,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Time Traveller ventures thirty million years into the future, witnessing a world dominated by a dying sun and lifeless landscapes. Scientists predict that Earth's future will be shaped by the sun's gradual expansion into a red giant, which will eventually engulf the planet. Long before this catastrophic end, Earth's ecosystems will collapse, and its surface will become inhospitable. Wells's vision of this distant epoch reflects contemporary fears about the limits of human progress and the inevitability of cosmic decay. By situating his protagonist in this bleak future, Wells challenges readers to confront the transient nature of civilization and the ultimate fate of the planet."
+  - id: "huge-red-hot-dome-of-the-sun"
+    trigger: "huge red-hot dome of the sun"
+    title: "The Swollen Sun of the Far Future"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Red_giant"
+    image_url: ""
+    image_caption: ""
+    content: "At last, more than thirty million years hence, the huge red-hot dome of the sun has come to obscure nearly a tenth part of the darkling heavens. Modern astronomers expect the sun to become a red giant in about five billion years, when it has used up the hydrogen in its core, swelling to many times its size and cooling to a reddish colour, so Wells’s date is far too early. His picture is nevertheless a prescient one: he understood that stars change and die, and so the sun’s slow decline became one of the book’s most haunting images."
+  - id: "livid-green-liverworts"
+    trigger: "livid green liverworts"
+    title: "The Primitive Plants Left on the Shore"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Marchantiophyta"
+    image_url: ""
+    image_caption: ""
+    content: "When the crabs have disappeared, the red beach, save for its livid green liverworts and lichens, seems lifeless. Liverworts are small, flat, green plants without true roots, and they are among the oldest land plants, which appeared more than four hundred million years ago. In Wells’s vision, evolution has run backwards: the last living things on earth are the first kinds of plant that ever colonised the land. The detail gives the end of the world a sad circular shape, with life returning to its simplest forms before it dies out."
+  - id: "planet-mercury"
+    trigger: "planet Mercury"
+    title: "The Eclipse That Wells Leaves Unexplained"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Mercury_(planet)"
+    image_url: ""
+    image_caption: ""
+    content: "As the darkness spreads, the Time Traveller guesses that either the moon or the planet Mercury was passing across the sun’s disk, and that it was probably an inner planet passing very near the earth. Mercury, the smallest planet and the one closest to the sun, passes between the earth and the sun a dozen or so times each century, an event called a transit. The sun in this scene fills a tenth of the sky, so a transit would look huge. Wells’s speculation hints that the inner planets are falling into the sun, which he mentioned earlier."
   - id: "transit-of-an-inner-planet"
     trigger: "transit of an inner planet"
     title: "Why Planetary Transits Are Cosmic Rarities"
@@ -106,7 +162,7 @@ grew more and more marked. This puzzled me very much at first. The
 alternations of night and day grew slower and slower, and so did the
 passage of the sun across the sky, until they seemed to stretch through
 centuries. At last a steady twilight brooded over the earth, a twilight
-only broken now and then when a comet glared across the darkling sky.
+only broken now and then when **a comet glared across the darkling sky**.
 The band of light that had indicated the sun had long since
 disappeared; for the sun had ceased to set—it simply rose and fell in
 the west, and grew ever broader and more red. All trace of the moon had
@@ -128,13 +184,13 @@ of a desolate beach grew visible.
 “I stopped very gently and sat upon the Time Machine, looking round.
 The sky was no longer blue. North-eastward it was inky black, and out
 of the blackness shone brightly and steadily the pale white stars.
-Overhead it was a deep Indian red and starless, and south-eastward it
+Overhead it was a **deep Indian red** and starless, and south-eastward it
 grew brighter to a glowing scarlet where, cut by the horizon, lay the
 huge hull of the sun, red and motionless. The rocks about me were of a
 harsh reddish colour, and all the trace of life that I could see at
 first was the intensely green vegetation that covered every projecting
 point on their south-eastern face. It was the same rich green that one
-sees on forest moss or on the lichen in caves: plants which like these
+sees on forest moss or on the **lichen in caves**: plants which like these
 grow in a perpetual twilight.
 
 “The machine was standing on a sloping beach. The sea stretched away to
@@ -179,13 +235,13 @@ seemed to be crawling here and there, in the sombre light, among the
 foliated sheets of intense green.
 
 “I cannot convey the sense of abominable desolation that hung over the
-world. The red eastern sky, the northward blackness, the salt Dead Sea,
+world. The red eastern sky, the northward blackness, the **salt Dead Sea**,
 the stony beach crawling with these foul, slow-stirring monsters, the
 uniform poisonous-looking green of the lichenous plants, the thin air
 that hurts one’s lungs: all contributed to an appalling effect. I moved
 on a hundred years, and there was the same red sun—a little larger, a
 little duller—the same dying sea, the same chill air, and the same
-crowd of earthy crustacea creeping in and out among the green weed and
+crowd of **earthy crustacea** creeping in and out among the green weed and
 the red rocks. And in the westward sky, I saw a curved pale line like a
 vast new moon.
 
@@ -193,10 +249,10 @@ vast new moon.
 thousand years or more, drawn on by the mystery of the earth’s fate,
 watching with a strange fascination the sun grow larger and duller in
 the westward sky, and the life of the old earth ebb away. At last, more
-than **thirty million years hence**, the huge red-hot dome of the sun had
+than **thirty million years hence**, the **huge red-hot dome of the sun** had
 come to obscure nearly a tenth part of the darkling heavens. Then I
 stopped once more, for the crawling multitude of crabs had disappeared,
-and the red beach, save for its livid green liverworts and lichens,
+and the red beach, save for its **livid green liverworts** and lichens,
 seemed lifeless. And now it was flecked with white. A bitter cold
 assailed me. Rare white flakes ever and again came eddying down. To the
 north-eastward, the glare of snow lay under the starlight of the sable
@@ -220,7 +276,7 @@ little.
 changed; that a concavity, a bay, had appeared in the curve. I saw this
 grow larger. For a minute perhaps I stared aghast at this blackness
 that was creeping over the day, and then I realised that an eclipse was
-beginning. Either the moon or the planet Mercury was passing across the
+beginning. Either the moon or the **planet Mercury** was passing across the
 sun’s disk. Naturally, at first I took it to be the moon, but there is
 much to incline me to believe that what I really saw was the **transit of
 an inner planet** passing very near to the earth.

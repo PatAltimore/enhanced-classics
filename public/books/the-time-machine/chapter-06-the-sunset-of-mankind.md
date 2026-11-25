@@ -36,6 +36,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the narrator steps into the future landscape, he notices that the Thames River has shifted its position by a mile. This observation is not just a geographical curiosity; it hints at the immense geological and environmental changes that have occurred over millennia. Rivers like the Thames are dynamic systems, constantly reshaping their courses due to erosion, sediment deposition, and tectonic activity. In the real world, the Thames has undergone significant transformations since the Ice Age, including changes in its flow and the creation of the Thames Valley. The narrator’s discovery underscores the fluidity of nature and its ability to adapt over vast stretches of time. Wells uses this detail to emphasize the alienness of the future world, where even the most familiar landmarks have been altered. It serves as a subtle reminder of humanity’s impermanence and the inexorable march of natural forces."
+  - id: "heap-of-granite"
+    trigger: "heap of granite"
+    title: "The Granite Ruins Above the Valley"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Granite"
+    image_url: ""
+    image_caption: ""
+    content: "On the hillside the Time Traveller finds a great heap of granite bound together by masses of aluminium, the derelict remains of some vast structure. Granite is a hard, coarse-grained igneous rock that has been used for monuments and buildings for thousands of years because it lasts so long. That a granite building has crumbled shows how long the Eloi civilisation has been in decline, and the mixture of old stone and new metal marks a lost technical age. Wells also uses the ruins to hint at the hidden entrance to the underground that he will explain later."
+  - id: "nettles-possibly"
+    trigger: "nettles possibly"
+    title: "Stingless Nettles in the Ruins"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Urtica_dioica"
+    image_url: ""
+    image_caption: ""
+    content: "Among the ruins grow beautiful pagoda-like plants, nettles possibly, wonderfully tinted with brown about the leaves, and incapable of stinging. The stinging nettle is a common weed whose leaves are covered in hairs that inject irritating chemicals. The Time Traveller’s remark that these plants cannot sting shows how the future world has been remade, as people have bred or weeded out every nuisance. It is another sign of the gardener’s paradise, and, as Wells was to show, of a humanity grown so safe that it has lost its defences."
   - id: "derelict-remains-of-some-vast-structure"
     trigger: "derelict remains of some vast structure"
     title: "The Ruins That Whisper Forgotten Ambitions"
@@ -50,6 +64,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator observes that the Eloi lack gender differentiation, with men and women sharing the same soft, hairless features and similar physiques. This striking detail leads him to speculate that the division of sexes, rooted in survival needs, has vanished in a world of comfort and security. Historically, gender roles have evolved based on societal and biological pressures, from hunter-gatherer communities to industrialized societies. Wells imagines a future where these pressures no longer exist, resulting in a homogenized humanity. This vision challenges contemporary notions of identity and raises provocative questions about the relationship between environment and biology. By erasing gender distinctions, Wells underscores the theme of societal stagnation—suggesting that the loss of struggle and diversity may lead to a loss of vitality. The Eloi’s uniformity becomes a metaphor for the broader decline of human complexity in a world stripped of challenges."
+  - id: "cupola"
+    trigger: "cupola"
+    title: "The Little Dome Over the Well"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cupola"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller’s attention is caught by a pretty little structure, like a well under a cupola. A cupola is a small dome on a roof or a tower, and in the nineteenth century it was a common feature of town halls, railway stations and country houses. He thinks about the oddness of wells still existing in a world where there is no need for them, and then he forgets about it. The structure is the first sign of the Morlocks’ shafts, and Wells hides a clue to the central mystery in a passing remark."
   - id: "seat-of-some-yellow-metal"
     trigger: "seat of some yellow metal"
     title: "The Mystery of the Griffins’ Throne"
@@ -57,6 +78,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "At the crest of the hill, the narrator finds a seat made of yellow metal, corroded with pinkish rust and adorned with griffins’ heads. This artifact, half-buried in moss, evokes an air of ancient grandeur and forgotten artistry. Metals like gold and brass have long been symbols of wealth and permanence, yet even they succumb to time’s relentless decay. The griffins—mythical creatures often associated with guardianship—add a layer of mystique, suggesting that this seat might once have held ceremonial or symbolic importance. Wells uses this detail to highlight the contrast between the past’s ambition and the present’s languor. The narrator’s act of sitting on the throne-like seat becomes a quiet moment of reflection, as he surveys the transformed world below. It is a poignant image of humanity’s fleeting dominance, where even its most enduring creations are reduced to relics in the garden of time."
+  - id: "griffins-heads"
+    trigger: "griffins’ heads"
+    title: "The Mythical Beast on the Yellow Metal Seat"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Griffin"
+    image_url: ""
+    image_caption: ""
+    content: "On the crest the Time Traveller sits on a seat of yellow metal with arm-rests cast and filed into the resemblance of griffins’ heads. A griffin is a mythical creature with the body of a lion and the head and wings of an eagle, a symbol of strength and vigilance in ancient Greece and in heraldry. The seat suggests that the people of the age had once valued art and ornament, and that the seat was made by skilled workers. It is also an ironic touch, since the mythical guardian beasts now sit on a hill above a people who are defenceless."
+  - id: "obelisk"
+    trigger: "obelisk"
+    title: "The Pointed Monuments of the Waste Garden"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Obelisk"
+    image_url: ""
+    image_caption: ""
+    content: "From the hill the Time Traveller sees the sharp vertical line of some cupola or obelisk rising in the garden of the earth. An obelisk is a tall, four-sided stone pillar with a pyramid at its top, first built by the ancient Egyptians and later copied in Rome, Paris, London and Washington. The shape is a familiar monument, and its use here suggests that the future still has monuments, though no one remembers what they were for. Wells’s sunset view of the Thames valley is a picture of beauty which has lost its meaning, like a park laid over the ruins of a lost world."
   - id: "sunset-of-mankind"
     trigger: "sunset of mankind"
     title: "When Civilization Fades Like Dying Light"
@@ -64,6 +99,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As the narrator watches the ruddy sunset, he is struck by the metaphorical ‘sunset of mankind.’ This phrase encapsulates the decline of human vitality and ambition in a world of perfect comfort. The sunset, a universal symbol of endings, mirrors the narrator’s realization that humanity’s triumphs over nature have led to unintended consequences—physical and intellectual stagnation. Wells draws on the idea that struggle and hardship are essential for growth, a theme echoed in Darwinian theories of evolution. The narrator’s interpretation of the scene is both awe-inspiring and tragic, as he begins to grasp the paradox of progress. The sunset becomes a visual representation of the novel’s central question: What happens when humanity achieves its ultimate goals? Wells invites readers to ponder whether the pursuit of utopia might lead not to fulfillment, but to decay—a haunting image of civilization fading into twilight."
+  - id: "security-sets-a-premium-on-feebleness"
+    trigger: "security sets a premium on feebleness"
+    title: "Wells’s Argument Against Easy Comfort"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Thomas_Henry_Huxley"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller reasons that strength is the outcome of need and that security sets a premium on feebleness. The idea reflects the debates of the 1890s, when Wells’s teacher T. H. Huxley argued in Evolution and Ethics that human society must resist the cruel competition of nature, and when others feared that civilisation might lead to degeneration. Wells puts the thought into a story, in which the Eloi become weak because they have no struggle. His warning, that comfort without effort makes people helpless, is the central message of this part of the book."
+  - id: "selective-breeding"
+    trigger: "selective breeding"
+    title: "How Humanity Might Remake Its Plants and Animals"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Selective_breeding"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says we improve our favourite plants and animals gradually by selective breeding, now a new and better peach, now a seedless grape, now a more convenient breed of cattle. Selective breeding, in which people choose which animals or plants will reproduce, had been the model for Darwin’s idea of natural selection in On the Origin of Species, published in 1859. Wells, who studied biology under T. H. Huxley, uses the idea as the basis of his future history. He imagines that humanity has applied the technique to the whole world, and perhaps even to itself."
+  - id: "seedless-grape"
+    trigger: "seedless grape"
+    title: "The Fruit That Needs No Seeds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Seedless_fruit"
+    image_url: ""
+    image_caption: ""
+    content: "Among the improvements that the Time Traveller lists is a seedless grape. Seedless fruits, which develop without seeds, were made by selecting rare mutations or by crossing plants, and growers in the nineteenth century were already breeding grapes and other fruits to be larger, sweeter or easier to eat. In Wells’s future the process has gone much further, and fruit has been engineered for human convenience. A seedless fruit cannot reproduce itself, so it needs human help to survive, which makes it a neat symbol of a dependent humanity."
   - id: "preventive-medicine"
     trigger: "preventive medicine"
     title: "The Dream of a World Without Disease"
@@ -113,9 +169,9 @@ explain, was the date the little dials of my machine recorded.
 “As I walked I was watching for every impression that could possibly
 help to explain the condition of ruinous splendour in which I found the
 world—for ruinous it was. A little way up the hill, for instance, was a
-great heap of granite, bound together by masses of aluminium, a vast
+great **heap of granite**, bound together by masses of aluminium, a vast
 labyrinth of precipitous walls and crumpled heaps, amidst which were
-thick heaps of very beautiful pagoda-like plants—nettles possibly—but
+thick heaps of very beautiful pagoda-like plants—**nettles possibly**—but
 wonderfully tinted with brown about the leaves, and incapable of
 stinging. It was evidently the **derelict remains of some vast structure**,
 to what end built I could not determine. It was here that I was
@@ -160,7 +216,7 @@ remind you, was my speculation at the time. Later, I was to appreciate
 how far it fell short of the reality.
 
 “While I was musing upon these things, my attention was attracted by a
-pretty little structure, like a well under a cupola. I thought in a
+pretty little structure, like a well under a **cupola**. I thought in a
 transitory way of the oddness of wells still existing, and then resumed
 the thread of my speculations. There were no large buildings towards
 the top of the hill, and as my walking powers were evidently
@@ -170,7 +226,7 @@ strange sense of freedom and adventure I pushed on up to the crest.
 “There I found a **seat of some yellow metal** that I did not recognise,
 corroded in places with a kind of pinkish rust and half smothered in
 soft moss, the arm-rests cast and filed into the resemblance of
-griffins’ heads. I sat down on it, and I surveyed the broad view of our
+**griffins’ heads**. I sat down on it, and I surveyed the broad view of our
 old world under the sunset of that long day. It was as sweet and fair a
 view as I have ever seen. The sun had already gone below the horizon
 and the west was flaming gold, touched with some horizontal bars of
@@ -179,7 +235,7 @@ river lay like a band of burnished steel. I have already spoken of the
 great palaces dotted about among the variegated greenery, some in ruins
 and some still occupied. Here and there rose a white or silvery figure
 in the waste garden of the earth, here and there came the sharp
-vertical line of some cupola or obelisk. There were no hedges, no signs
+vertical line of some cupola or **obelisk**. There were no hedges, no signs
 of proprietary rights, no evidences of agriculture; the whole earth had
 become a garden.
 
@@ -192,8 +248,8 @@ truth—or only a glimpse of one facet of the truth.)
 ruddy sunset set me thinking of the **sunset of mankind**. For the first
 time I began to realise an odd consequence of the social effort in
 which we are at present engaged. And yet, come to think, it is a
-logical consequence enough. Strength is the outcome of need; security
-sets a premium on feebleness. The work of ameliorating the conditions
+logical consequence enough. Strength is the outcome of need; **security
+sets a premium on feebleness**. The work of ameliorating the conditions
 of life—the true civilising process that makes life more and more
 secure—had gone steadily on to a climax. One triumph of a united
 humanity over Nature had followed another. Things that are now mere
@@ -207,8 +263,8 @@ spreads its operations very steadily and persistently. Our agriculture
 and horticulture destroy a weed just here and there and cultivate
 perhaps a score or so of wholesome plants, leaving the greater number
 to fight out a balance as they can. We improve our favourite plants and
-animals—and how few they are—gradually by selective breeding; now a new
-and better peach, now a seedless grape, now a sweeter and larger
+animals—and how few they are—gradually by **selective breeding**; now a new
+and better peach, now a **seedless grape**, now a sweeter and larger
 flower, now a more convenient breed of cattle. We improve them
 gradually, because our ideals are vague and tentative, and our
 knowledge is very limited; because Nature, too, is shy and slow in our

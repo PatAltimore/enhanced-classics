@@ -29,13 +29,27 @@ summary:
     link_label: "Poverty in the United States"
 
 enhancements:
+  - id: "druids"
+    trigger: "Druids"
+    title: "The Priests Who Might Have Left Their Oaks"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Druid"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau rambles to pine groves, standing like temples, so soft and green and shady that the Druids would have forsaken their oaks to worship in them. The Druids were priests and teachers of the ancient Celts in Britain, Ireland and Gaul, who held the oak and mistletoe sacred and performed rites in groves, and Roman writers such as Caesar and Pliny described them. Thoreau’s compliment places the pines of Concord above the sacred groves of Europe. It fits his idea that nature is a kind of church, and it adds antiquity to the New England woods."
   - id: "flints-pond-history-and-natural-beauty"
     trigger: "Flint’s Pond"
     title: "The Pond That Inspired Thoreau's Contemplation"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Flint_Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flints_Pond"
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions Flint’s Pond as he describes his walks through cedar woods covered with juniper and berries. Flint’s Pond, located near Walden Pond, was a familiar landmark for Thoreau and a source of inspiration. Historically, Flint’s Pond was named after the Flint family, early settlers in the area, and it served as a resource for fishing and ice harvesting in the 19th century. Its serene waters and surrounding woods provided a quiet retreat for reflection. Thoreau’s inclusion of Flint’s Pond in his narrative underscores his deep connection to the local landscape and his belief in the spiritual significance of nature. By invoking this pond, he invites readers to consider the sacredness of ordinary places and the transformative power of immersion in the natural world."
+  - id: "valhalla"
+    trigger: "Valhalla"
+    title: "The Norse Hall Before Which Cedars Stand"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Valhalla"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the cedar wood beyond Flint’s Pond, where the trees, covered with hoary blue berries, spiring higher and higher, are fit to stand before Valhalla. In Norse mythology Valhalla is the great hall in Asgard ruled by Odin, to which warriors slain in battle are taken to feast and fight until the end of the world. The tall, dark cedars with their frost-blue berries recall the pillars of the hall. Thoreau mixes Greek, Celtic and Norse images in a single walk, and he suggests that the wild woods are as grand as any myth."
   - id: "benvenuto-cellini-aureole-and-imagination"
     trigger: "Benvenuto Cellini"
     title: "The Renaissance Artist Who Saw Divine Light"
@@ -43,6 +57,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau compares his experience of seeing a halo around his shadow to Benvenuto Cellini’s claim of a radiant light encircling his shadow during his imprisonment. Cellini, a 16th-century Florentine goldsmith and sculptor, documented this phenomenon in his memoirs, interpreting it as a sign of divine favor. Modern science identifies this as a Brocken spectre, a rare optical effect caused by the diffraction of light. Thoreau’s reference to Cellini is deliberate; he uses the Renaissance artist’s grandiose interpretation to highlight the universality of transcendent experiences. By drawing this parallel, Thoreau suggests that the divine can be found not only in art and cathedrals but also in the simple act of observing nature. It’s a subtle argument for the spiritual richness of everyday life."
+  - id: "pleasant-meadow"
+    trigger: "Pleasant Meadow"
+    title: "The Poem of the Poet Friend"
+    wikipedia_url: "https://en.wikipedia.org/wiki/William_Ellery_Channing_(poet)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau’s way to the fishing grounds leads through Pleasant Meadow, an adjunct of the Baker Farm, that retreat of which a poet has since sung. The poet is his friend William Ellery Channing, who wrote a poem called Baker Farm which begins, Thy entry is a pleasant field, and the lines are quoted in the chapter. Channing, the nephew of the great Unitarian minister, was Thoreau’s close walking companion and first biographer. Including his friend’s verse gives the passage a literary air and shows that Thoreau valued the company of poets."
   - id: "baker-farm-a-poetic-retreat"
     trigger: "Baker Farm"
     title: "The Farm That Sparked Thoreau's Reflection"
@@ -50,6 +71,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau recalls Baker Farm as a place he once considered living before settling at Walden Pond. The farm, described as a retreat with mossy fruit trees and a ruddy brook, becomes a setting for his encounter with John Field, an Irish immigrant. Baker Farm symbolizes both the pastoral ideal and the harsh realities of rural life. Its poetic description contrasts sharply with the struggles of Field’s family, highlighting the tension between romanticized nature and the labor required to survive within it. Thoreau’s reflections on Baker Farm reveal his belief in the possibility of a simpler, more fulfilling existence, unburdened by material pursuits. The farm becomes a metaphor for the choices individuals face between conformity and transcendence."
+  - id: "john-field"
+    trigger: "John Field"
+    title: "The Irish Labourer Thoreau Meets at Baker Farm"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)"
+    image_url: ""
+    image_caption: ""
+    content: "At Baker Farm, Thoreau tells us, there now dwelt John Field, an Irishman, and his wife, and several children, from the broad-faced boy who assisted his father at his work to the wrinkled, sibyl-like, crone-like infant. Field is a bog-digger who works for a farmer, and he is one of the many immigrants who came to New England as the Great Famine of the late 1840s drove the Irish from their homes. Thoreau’s sympathy is mixed with advice, as he urges Field to live more simply, and the man cannot take it."
   - id: "bog-hoe-hard-labor-and-poverty"
     trigger: "bog hoe"
     title: "The Tool That Defined John Field's Struggle"
@@ -71,6 +99,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As Thoreau leaves John Field’s home, his “Good Genius” seems to whisper encouragement to live adventurously and embrace the wild. In Roman mythology, a genius was a personal spirit or guiding force, often associated with creativity and destiny. Thoreau’s invocation of his Good Genius reflects his belief in an inner voice that aligns with nature and personal freedom. This moment encapsulates his transcendental philosophy, urging individuals to seek fulfillment through exploration and self-discovery. The Good Genius becomes a metaphor for the intuitive wisdom that guides Thoreau’s journey, reminding readers of the importance of listening to their own inner callings. It’s a powerful image of liberation and purpose, set against the backdrop of a cleansed, post-storm landscape."
+  - id: "children-of-the-holy-dove"
+    trigger: "Children of the Holy Dove"
+    title: "The Peaceful Pilgrims of the Poet’s Song"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dove_(symbol)"
+    image_url: ""
+    image_caption: ""
+    content: "In the verses that Thoreau quotes, the poet calls to all those who love or hate, children of the Holy Dove, and Guy Faux of the state, and invites them to hang conspiracies from the tough rafters of the trees. The dove, a white bird with an olive branch, is a symbol of peace and, in Christian art, of the Holy Spirit. The poem sets peaceful people against plotters and says that the open woods are a place where quarrels can be hung up like coats. Thoreau leaves them as a summary of what he found in the forest."
+  - id: "guy-faux"
+    trigger: "Guy Faux"
+    title: "The Gunpowder Plotter in the Poet’s Verse"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Guy_Fawkes"
+    image_url: ""
+    image_caption: ""
+    content: "The poet’s lines mention Guy Faux of the state, who is Guy Fawkes, the English Catholic conspirator who was arrested in November 1605 while guarding barrels of gunpowder beneath the House of Lords. The Gunpowder Plot failed, and Fawkes was executed. Americans of Thoreau’s day knew the story as Guy Fawkes Day, celebrated on 5 November, and the name stood for any plotter against the state. In the verse he stands for every schemer and conspirator. The poem suggests that even such figures might lay aside their plots among the trees."
+  - id: "inherited-irish-poverty"
+    trigger: "inherited Irish poverty"
+    title: "The Poor Life Field Was Born To"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Irish_Americans"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says Field is a poor man, born to be poor, with his inherited Irish poverty or poor life, his Adam’s grandmother and boggy ways, not to rise in this world. Irish immigrants in the 1840s often took the hardest, worst-paid jobs on railways, farms and canals, and were met with prejudice. Thoreau’s language is condescending to modern ears, but he is trying to show that Field is trapped by habit and by the need to earn his tea, meat and coffee. The scene is a lesson in how a hard life limits a person’s hope."
   - id: "talaria-mythical-wings-and-human-potential"
     trigger: "talaria"
     title: "The Winged Sandals That Could Lift John Field"
@@ -81,10 +130,10 @@ enhancements:
 ---
 Sometimes I rambled to pine groves, standing like temples, or like
 fleets at sea, full-rigged, with wavy boughs, and rippling with light,
-so soft and green and shady that the Druids would have forsaken their
+so soft and green and shady that the **Druids** would have forsaken their
 oaks to worship in them; or to the cedar wood beyond **Flint’s Pond**,
 where the trees, covered with hoary blue berries, spiring higher and
-higher, are fit to stand before Valhalla, and the creeping juniper
+higher, are fit to stand before **Valhalla**, and the creeping juniper
 covers the ground with wreaths full of fruit; or to swamps where the
 usnea lichen hangs in festoons from the white-spruce trees, and
 toad-stools, round tables of the swamp gods, cover the ground, and more
@@ -137,7 +186,7 @@ distinguished who are conscious that they are regarded at all?
 
 I set out one afternoon to go a-fishing to Fair-Haven, through the
 woods, to eke out my scanty fare of vegetables. My way led through
-Pleasant Meadow, an adjunct of the **Baker Farm**, that retreat of which a
+**Pleasant Meadow**, an adjunct of the **Baker Farm**, that retreat of which a
 poet has since sung, beginning,—
 
      “Thy entry is a pleasant field,
@@ -293,8 +342,8 @@ O Baker Farm!
 
      “Come ye who love,
          And ye who hate,
-     Children of the Holy Dove,
-         And Guy Faux of the state,
+     **Children of the Holy Dove**,
+         And **Guy Faux** of the state,
      And hang conspiracies
      From the tough rafters of the trees!”
 
@@ -313,7 +362,7 @@ boat luck changed seats too. Poor John Field!—I trust he does not read
 this, unless he will improve by it,—thinking to live by some derivative
 old country mode in this primitive new country,—to catch perch with
 shiners. It is good bait sometimes, I allow. With his horizon all his
-own, yet he a poor man, born to be poor, with his inherited Irish
-poverty or poor life, his Adam’s grandmother and boggy ways, not to
+own, yet he a poor man, born to be poor, with his **inherited Irish
+poverty** or poor life, his Adam’s grandmother and boggy ways, not to
 rise in this world, he nor his posterity, till their wading webbed
 bog-trotting feet get _**talaria**_ to their heels.

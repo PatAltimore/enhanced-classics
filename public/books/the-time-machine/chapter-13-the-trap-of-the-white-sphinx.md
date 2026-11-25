@@ -33,6 +33,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "When the narrator returns to the seat of yellow metal, he is struck by the unchanged beauty of the scene, now tinged with bitter irony. Yellow metal, often associated with gold, evokes ideas of wealth and permanence. Historically, gold has symbolized both human achievement and greed, and its durability makes it a fitting material for a future society obsessed with stability. Yet, in this world, the yellow metal seat is not a throne of progress but a relic of stagnation. Wells uses this detail to underscore the hollowness of the Eloi’s existence—ornate but devoid of substance. The narrator’s bitter laughter reflects his realization that the pursuit of comfort has led humanity to a gilded cage, where beauty masks decay."
+  - id: "cattle-in-the-field"
+    trigger: "cattle in the field"
+    title: "Why the Eloi Are Compared to Cattle"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Cattle"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says the Eloi’s day was very pleasant, as pleasant as the day of the cattle in the field, since like the cattle they knew of no enemies and provided against no needs. Cattle are domesticated grazing animals that are kept by farmers for milk and meat, and the image carries a cruel irony. Cattle are cared for only until they are slaughtered. By comparing the beautiful people to a herd, Wells prepares the revelation that they are food for the Morlocks, and he gives the sentence a bleak double meaning."
   - id: "suicide-of-human-intellect"
     trigger: "suicide"
     title: "Did Humanity Really Commit Intellectual Suicide?"
@@ -40,10 +47,45 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator’s declaration that human intellect committed suicide is one of the most haunting lines in the chapter. He describes a society that achieved perfect safety and comfort, only to lose the very qualities that made it human—curiosity, adaptability, and innovation. This chilling idea draws on historical fears of stagnation, such as those expressed during the Industrial Revolution, when thinkers worried that mechanization might dull human creativity. Wells pushes this fear to its extreme, imagining a world where intellect is no longer needed because all challenges have been eliminated. The narrator’s grief is not just for the Eloi but for the human spirit itself, which he sees as extinguished by its own success."
+  - id: "unemployed-problem"
+    trigger: "unemployed problem"
+    title: "The Social Problem the Perfect World Had Solved"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Unemployment"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller supposes that in the perfect world there had been no unemployed problem, no social question left unsolved. Unemployment was a pressing issue in the 1880s and 1890s, when depressions threw many workers out of jobs and led to riots, such as those in Trafalgar Square in 1886 and 1887. Wells, who knew poverty, ironically shows a society that has solved every such problem at the price of human vigour. His point is that a world without struggle will lose the qualities that struggle brings."
+  - id: "social-question"
+    trigger: "social question"
+    title: "The Victorian Name for the Problems of the Poor"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Social_question"
+    image_url: ""
+    image_caption: ""
+    content: "The traveller imagines that in the perfect world no social question was left unsolved. The social question was the nineteenth-century name for the cluster of problems caused by industrialisation, including poverty, bad housing, child labour and the fight between workers and employers. Thinkers from Marx to Christian reformers sought to answer it. In Wells’s story the answer is a world split into two species, a parody of the answers offered by Victorian reformers, and it is a sharp ironic comment on the idea that all conflicts could be solved."
+  - id: "perfect-mechanism"
+    trigger: "perfect mechanism"
+    title: "The Animal That Fits Its World Too Well"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Adaptation"
+    image_url: ""
+    image_caption: ""
+    content: "An animal perfectly in harmony with its environment, the Time Traveller says, is a perfect mechanism. In biology, adaptation is the process by which a species becomes fitted to its surroundings, and species that fit very closely may be unable to cope when conditions change. Wells uses the language of machinery for living things, a typical Victorian habit. The point is that perfection means a loss of flexibility, which will cause the failure of the Eloi and the Morlocks, who have each adapted to a narrow life."
+  - id: "habit-and-instinct"
+    trigger: "habit and instinct"
+    title: "Wells’s Law of Intelligence"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Instinct"
+    image_url: ""
+    image_caption: ""
+    content: "Nature, the Time Traveller says, never appeals to intelligence until habit and instinct are useless, and there is no intelligence where there is no change and no need of change. Instinct is inborn behaviour that does not need to be learned, and habit is learned behaviour that becomes automatic. Wells, who studied biology, argues that intelligence is a tool for solving new problems. A society that has removed all problems will lose its intelligence, which is why both the Eloi and the Morlocks have declined. The idea sums up the moral of the whole book."
+  - id: "mechanical-industry"
+    trigger: "mechanical industry"
+    title: "The Underworld as an Industrial Machine"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Industrial_Revolution"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says that the Upperworld man had drifted towards his feeble prettiness and the Underworld to mere mechanical industry. The Industrial Revolution, which began in Britain in the eighteenth century, had moved huge numbers of people from farms into factories and mines, where they worked long hours among machines. Wells makes the Morlocks the descendants of such workers, adapted entirely to labour in the dark. His picture is an exaggeration of how Victorian cities treated their workers, and the story’s horror is also a protest against it."
   - id: "mother-necessity-returns"
     trigger: "Mother Necessity"
     title: "Who Is 'Mother Necessity' and Why Did She Return?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Necessity"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Necessity_is_the_mother_of_invention"
     image_url: ""
     image_caption: ""
     content: "The narrator invokes 'Mother Necessity' to explain the resurgence of struggle in the future world. This metaphor personifies necessity as the driving force behind innovation and survival. Historically, necessity has been credited as the 'mother of invention,' a concept that aligns with Wells’s argument that intelligence thrives under pressure. In the Eloi’s world, necessity was staved off for thousands of years, leading to intellectual atrophy. But in the Morlocks’ subterranean existence, necessity returned with a vengeance, forcing them to adapt in brutal ways. By using this metaphor, Wells highlights the irony that comfort, once humanity’s ultimate goal, became its undoing. The return of necessity is not a triumph but a grim reminder of the cost of complacency."
@@ -61,6 +103,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The White Sphinx is both a literal structure and a potent symbol in Wells’s narrative. As the narrator approaches it, he finds the Time Machine inside, seemingly offered as bait by the Morlocks. The Sphinx, with its enigmatic and ancient connotations, evokes riddles and hidden truths. In mythology, sphinxes often guard secrets or pose challenges, and Wells uses this imagery to frame the Morlocks’ trap as a cruel puzzle. The narrator’s struggle to escape mirrors humanity’s broader struggle to confront its own failures. The White Sphinx stands as a monument to the Eloi’s decline and the Morlocks’ cunning, encapsulating the duality of beauty and danger in this dystopian world."
+  - id: "my-crowbar"
+    trigger: "my crowbar"
+    title: "The Iron Tool for the Bronze Doors"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Crowbar_(tool)"
+    image_url: ""
+    image_caption: ""
+    content: "As he comes down the hill towards the White Sphinx, the Time Traveller has his crowbar in one hand and plays with the matches in the other. A crowbar is an iron bar with a bent end used as a lever, and it has been used since ancient times to move heavy objects and force open doors. He had planned a siege of the bronze doors, and the crowbar was his chief weapon. When he finds them open he throws it away, almost sorry not to use it, and the scene is a comic anticlimax before the trap."
   - id: "bronze-panels-trap"
     trigger: "bronze panels"
     title: "How Did Bronze Panels Trap the Time Traveler?"
@@ -68,13 +117,6 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The bronze panels that trap the narrator inside the White Sphinx are a chilling reminder of the Morlocks’ ingenuity. Bronze, an alloy of copper and tin, has been used for millennia in tools, weapons, and architecture. Its presence in the Morlocks’ trap suggests a continuity of human craftsmanship, twisted into something sinister. The panels slide shut with a clang, plunging the narrator into darkness—a moment that symbolizes his entrapment not just physically but within the consequences of humanity’s choices. Wells uses the bronze panels to heighten the tension and underscore the Morlocks’ resourcefulness, turning a material associated with progress into an instrument of fear."
-  - id: "abominable-matches"
-    trigger: "abominable kind"
-    title: "Why Were the Matches 'Abominable'?"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Match"
-    image_url: ""
-    image_caption: ""
-    content: "The narrator’s frustration with the 'abominable kind' of matches highlights the precariousness of his situation. These matches, which only light on their box, were common in the 19th century but notoriously unreliable. Their failure in this critical moment adds to the suspense and underscores the fragility of human reliance on technology. Matches, a simple yet vital invention, symbolize the thin line between survival and disaster. Wells uses this detail to amplify the narrator’s desperation and remind readers that even the smallest tools can become life-or-death matters in extreme circumstances. The matches’ failure is not just a plot device; it is a commentary on the limits of human ingenuity."
   - id: "lever-weapon"
     trigger: "the lever"
     title: "How Did a Lever Become a Weapon?"
@@ -82,6 +124,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "In the narrator’s frantic struggle against the Morlocks, the lever becomes an improvised weapon. Levers, one of humanity’s simplest machines, are typically tools of construction and problem-solving. Here, Wells transforms it into an instrument of survival, wielded in the dark against unseen enemies. The narrator’s use of the lever reflects his resourcefulness and determination, qualities that contrast sharply with the Eloi’s passivity. This moment also underscores the primal nature of the conflict—technology, stripped of its sophistication, becomes a blunt tool for survival. The lever’s dual role as a key to the Time Machine and a weapon encapsulates the narrator’s precarious position, caught between progress and regression."
+  - id: "abominable-matches"
+    trigger: "abominable kind"
+    title: "Why Were the Matches 'Abominable'?"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Match"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator’s frustration with the 'abominable kind' of matches highlights the precariousness of his situation. These matches, which only light on their box, were common in the 19th century but notoriously unreliable. Their failure in this critical moment adds to the suspense and underscores the fragility of human reliance on technology. Matches, a simple yet vital invention, symbolize the thin line between survival and disaster. Wells uses this detail to amplify the narrator’s desperation and remind readers that even the smallest tools can become life-or-death matters in extreme circumstances. The matches’ failure is not just a plot device; it is a commentary on the limits of human ingenuity."
 ---
 “About eight or nine in the morning I came to the same seat of **yellow
 metal** from which I had viewed the world upon the evening of my arrival.
@@ -95,7 +144,7 @@ had saved Weena, and that suddenly gave me a keen stab of pain. And
 like blots upon the landscape rose the cupolas above the ways to the
 Underworld. I understood now what all the beauty of the Overworld
 people covered. Very pleasant was their day, as pleasant as the day of
-the cattle in the field. Like the cattle, they knew of no enemies and
+the **cattle in the field**. Like the cattle, they knew of no enemies and
 provided against no needs. And their end was the same.
 
 “I grieved to think how brief the dream of the human intellect had
@@ -105,19 +154,19 @@ its watchword, it had attained its hopes—to come to this at last. Once,
 life and property must have reached almost absolute safety. The rich
 had been assured of his wealth and comfort, the toiler assured of his
 life and work. No doubt in that perfect world there had been no
-unemployed problem, no social question left unsolved. And a great quiet
+**unemployed problem**, no **social question** left unsolved. And a great quiet
 had followed.
 
 “It is a law of nature we overlook, that intellectual versatility is
 the compensation for change, danger, and trouble. An animal perfectly
-in harmony with its environment is a perfect mechanism. Nature never
-appeals to intelligence until habit and instinct are useless. There is
+in harmony with its environment is a **perfect mechanism**. Nature never
+appeals to intelligence until **habit and instinct** are useless. There is
 no intelligence where there is no change and no need of change. Only
 those animals partake of intelligence that have to meet a huge variety
 of needs and dangers.
 
 “So, as I see it, the Upperworld man had drifted towards his feeble
-prettiness, and the Underworld to mere mechanical industry. But that
+prettiness, and the Underworld to mere **mechanical industry**. But that
 perfect state had lacked one thing even for mechanical
 perfection—absolute permanency. Apparently as time went on, the feeding
 of an Underworld, however it was effected, had become disjointed.
@@ -141,7 +190,7 @@ refreshing sleep.
 
 “I awoke a little before sunsetting. I now felt safe against being
 caught napping by the Morlocks, and, stretching myself, I came on down
-the hill towards the **White Sphinx**. I had my crowbar in one hand, and
+the hill towards the **White Sphinx**. I had **my crowbar** in one hand, and
 the other hand played with the matches in my pocket.
 
 “And now came a most unexpected thing. As I approached the pedestal of

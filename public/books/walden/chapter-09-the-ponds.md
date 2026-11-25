@@ -36,6 +36,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau mentions Fair Haven Hill as a place where he would gather huckleberries and blueberries, making it a site of simple sustenance and reflection. This hill, located near Concord, Massachusetts, was part of Thoreau's regular wanderings, offering him a retreat from human society. Historically, such hills were often used by Indigenous peoples and early settlers for berry gathering, a practice that connected them to the land's seasonal rhythms. Thoreau's act of foraging here underscores his philosophy of living deliberately and immersing oneself in nature's offerings. By savoring the unspoiled flavor of berries plucked directly from the bush, he critiques the commodification of nature, suggesting that true appreciation comes only through direct engagement."
+  - id: "huckleberry"
+    trigger: "huckleberry"
+    title: "The Bloom Rubbed Off in the Market Cart"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Huckleberry"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the ambrosial and essential part of the fruit is lost with the bloom which is rubbed off in the market cart, and that not one innocent huckleberry can be transported to the city. Huckleberries and blueberries, wild fruits of the New England hills, were picked in summer by local families, and Thoreau had a lifelong love of them. His claim is that only those who gather the berries in the field taste them truly, and that what the market sells is mere provender. The passage connects food and perception."
   - id: "horned-pout"
     trigger: "horned pout"
     title: "The Fish That Interrupted Thoreau's Dreams"
@@ -57,6 +64,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes the 'vitreous greenish blue' of Walden Pond, a hue that shifts with light and perspective. This phenomenon occurs due to the interplay of water's absorption and scattering of light, as well as reflections from the pond's sandy bottom and surrounding vegetation. Such colors are rare in natural bodies of water, making Walden's appearance uniquely striking. For Thoreau, this shifting palette is not merely aesthetic but symbolic, representing the pond's dual connection to earth and sky. The color becomes a visual manifestation of his transcendental ideals, where nature's beauty serves as a bridge to higher truths."
+  - id: "alabaster-whiteness"
+    trigger: "alabaster whiteness"
+    title: "The White Stone of the Bather’s Skin"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Alabaster"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the limbs of a swimmer in Walden appear of an alabaster whiteness, which is still more unnatural. Alabaster is a soft, translucent white mineral, a form of gypsum, easily carved and used for statues, vases and church monuments since ancient Egypt. Through the clear water the body takes on a ghostly, polished look that is almost unreal. Thoreau notices the optical effect with a naturalist’s precision, and the image of an alabaster figure prepares his comparison to Michelangelo’s distorted figures."
+  - id: "michael-angelo"
+    trigger: "Michael Angelo"
+    title: "The Swimmer’s Limbs That Michelangelo Might Have Drawn"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Michelangelo"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau notes that the limbs of a bather in the pond appear of an alabaster whiteness, magnified and distorted by the water, making fit studies for a Michael Angelo. Michelangelo, the Italian Renaissance sculptor and painter who died in 1564, was famous for his powerful nudes with swollen muscles on the Sistine Chapel ceiling and in his statue of David. Thoreau’s comparison is playful but exact: the clear water bends light and makes human bodies look like marble. He gives a bathing scene the dignity of fine art."
   - id: "transverse-bars"
     trigger: "transverse bars"
     title: "The Striped Perch Beneath Walden's Surface"
@@ -71,6 +92,41 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau compares White Pond to Walden, calling it a 'lesser twin' with similar purity and beauty. Located near Concord, Massachusetts, White Pond shares many characteristics with Walden, including its stony shores and clear waters. Historically, it has been less frequented and less celebrated, making it a quieter counterpart to Walden's fame. Thoreau's description elevates White Pond, suggesting that its understated charm and resemblance to Walden make it equally deserving of admiration. This comparison underscores his belief in the inherent value of all natural spaces, regardless of their renown."
+  - id: "driven-out-of-eden"
+    trigger: "driven out of Eden"
+    title: "The Pond That Was Older Than Paradise Lost"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Garden_of_Eden"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau imagines that on that spring morning when Adam and Eve were driven out of Eden, Walden Pond was already in existence, even then breaking up in a gentle spring rain. In the book of Genesis the Garden of Eden was the first home of humankind, from which the pair were expelled for eating the forbidden fruit, and Milton’s Paradise Lost tells the story in verse. Thoreau’s playful fancy is that Walden predates human sin, and so it is a relic of the world before the Fall, still pure."
+  - id: "castalian-fountain"
+    trigger: "Castalian Fountain"
+    title: "The Sacred Spring of the Greek Poets"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Castalian_Spring"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks, who knows in how many unremembered nations’ literatures this has been the Castalian Fountain? The Castalian Spring, on Mount Parnassus near Delphi, was sacred to Apollo and the Muses, and pilgrims and priests washed in it before seeking the oracle. It became a poetic symbol of inspiration. By applying the name to Walden, Thoreau claims that this small Concord pond could have served ancient poets as a source. His praise places the pond in a long tradition of sacred waters, which in his view it deserves."
+  - id: "golden-age"
+    trigger: "Golden Age"
+    title: "The Mythical Time When Nymphs Lived by the Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ages_of_Man"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau wonders what nymphs presided over Walden in the Golden Age. The Greek poet Hesiod described five ages of man, beginning with the Golden Age, when people lived without work or old age, in peace, with the earth bearing fruit freely, and later poets, such as Ovid, made it the model of a lost happy time. Thoreau’s question treats the pond as a place older than history, which has seen many lives. It is his way of giving a Massachusetts pond a place in the legends of the world."
+  - id: "gem-of-the-first-water"
+    trigger: "gem of the first water"
+    title: "The Jewel in Concord’s Coronet"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Diamond_clarity"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau calls Walden a gem of the first water which Concord wears in her coronet. First water is a jeweller’s term for the highest quality of diamond or pearl, meaning perfectly transparent and without flaw, from the old way of grading stones by how water-clear they were. The phrase fits a pond whose clear green water was famous. Thoreau then adds that perhaps the first water is a little too pure for the town, and the joke prepares his complaint that villagers do not know its worth."
+  - id: "pitch-pines"
+    trigger: "pitch-pines"
+    title: "The Trees That Flood and Fall Around the Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pinus_rigida"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau notes that the pond’s rising kills the shrubs and trees which have sprung up about its edge, pitch-pines, birches, alders, aspens, and others. The pitch pine is a hardy conifer of eastern North America that grows in poor, sandy soil and was known for its resin, which was used to make tar and turpentine. It was one of the most common trees around Walden. Thoreau observed that the pond rises and falls over several years, and that the trees show the marks. His close attention to such details is part of his science of nature."
   - id: "pow-wow"
     trigger: "pow-wow"
     title: "The Mythical Gathering That Shaped Walden"
@@ -95,24 +151,10 @@ enhancements:
   - id: "circular-heaps"
     trigger: "circular heaps"
     title: "The Mysterious Stone Circles Beneath Walden"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Fish_nests"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Spawning"
     image_url: ""
     image_caption: ""
     content: "Thoreau observes 'circular heaps' of stones on the bottom of Walden Pond, speculating about their origins. Such formations are often created by fish like chivins or suckers as nesting sites, though Thoreau notes the absence of these species in Walden. The heaps add an element of mystery to the pond, inviting questions about the unseen life beneath its surface. For Thoreau, these circles symbolize the hidden intricacies of nature, reminding readers that even the most familiar landscapes hold secrets waiting to be uncovered."
-  - id: "log-canoe"
-    trigger: "log canoe"
-    title: "The Forgotten Vessel of Walden's Past"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Dugout_canoe"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau recalls an old log canoe found on Walden's shore, a relic of earlier times. Dugout canoes, made by hollowing out tree trunks, were used by Indigenous peoples and early settlers for fishing and transportation. This particular canoe, made of white-pine logs, represents a connection to the pond's human history and its role as a resource for survival. Thoreau's reflection on the canoe highlights his appreciation for the craftsmanship and simplicity of past generations, contrasting it with the industrial encroachments he laments elsewhere in the chapter."
-  - id: "amphitheatre"
-    trigger: "amphitheatre"
-    title: "Walden's Natural Stage for Reflection"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Amphitheatre"
-    image_url: ""
-    image_caption: ""
-    content: "Thoreau describes the hills surrounding Walden Pond as forming an 'amphitheatre,' a natural setting for contemplation and observation. Amphitheatres, traditionally associated with performances and gatherings, here become a metaphor for the pond's role as a stage for nature's drama. The steep hills and dense woods create a secluded, almost sacred space, emphasizing the pond's isolation and purity. Thoreau's imagery invites readers to see Walden not just as a physical location but as a spiritual and philosophical arena where life's deeper truths are revealed."
   - id: "glassy-surface-of-a-lake"
     trigger: "glassy surface of a lake"
     title: "The Mirror That Reflects Nature's Soul"
@@ -134,13 +176,83 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau poetically refers to Walden Pond as 'Sky water,' emphasizing its connection to the heavens. This term captures the pond's role in the water cycle, where evaporation and precipitation link it to the atmosphere. For Thoreau, the pond's purity and reflective surface make it a spiritual entity, a bridge between the earthly and the divine. 'Sky water' encapsulates his transcendental belief in nature's ability to inspire and elevate the human spirit, making Walden a sacred space in his philosophy."
-  - id: "god-s-drop"
-    trigger: "God's Drop"
-    title: "The Divine Essence of Walden Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
+  - id: "log-canoe"
+    trigger: "log canoe"
+    title: "The Forgotten Vessel of Walden's Past"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dugout_canoe"
     image_url: ""
     image_caption: ""
-    content: "Thoreau proposes calling Walden Pond 'God's Drop,' highlighting its spiritual significance. This name reflects his belief in nature as a manifestation of divine purity and beauty. For Thoreau, Walden is more than a physical body of water; it is a symbol of transcendence and a source of inspiration. 'God's Drop' encapsulates his view of the pond as a sacred space, untouched by human corruption and eternally renewing itself as a gift from the Creator."
+    content: "Thoreau recalls an old log canoe found on Walden's shore, a relic of earlier times. Dugout canoes, made by hollowing out tree trunks, were used by Indigenous peoples and early settlers for fishing and transportation. This particular canoe, made of white-pine logs, represents a connection to the pond's human history and its role as a resource for survival. Thoreau's reflection on the canoe highlights his appreciation for the craftsmanship and simplicity of past generations, contrasting it with the industrial encroachments he laments elsewhere in the chapter."
+  - id: "hickory-bark"
+    trigger: "hickory bark"
+    title: "The Fisherman’s Cable of Hickory Strips"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Hickory"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau tells of a man who used to make a cable for his anchor of strips of hickory bark tied together. Hickory trees, native to North America, have a very hard wood used for tool handles, and the tough inner bark can be stripped and twisted into rope, as Native peoples and settlers did. The detail shows the ingenuity of a poor man, and the flat-bottomed boat of this fisherman is another part of the local lore that Thoreau gathers about the pond’s earlier life."
+  - id: "before-the-revolution"
+    trigger: "before the Revolution"
+    title: "The Old Potter and the Iron Chest"
+    wikipedia_url: "https://en.wikipedia.org/wiki/American_Revolution"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau tells that an old man, a potter, who lived by the pond before the Revolution, told a neighbour there was an iron chest at the bottom and that he had seen it. The American Revolution began at Lexington and Concord in April 1775, only a few miles from the pond, and the reference ties the quiet pond to the town’s historic past. The tale of the chest, a buried treasure that is never found, is part of the pond’s legends. Thoreau records it with gentle humour, as local folklore."
+  - id: "amphitheatre"
+    trigger: "amphitheatre"
+    title: "Walden's Natural Stage for Reflection"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Amphitheatre"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes the hills surrounding Walden Pond as forming an 'amphitheatre,' a natural setting for contemplation and observation. Amphitheatres, traditionally associated with performances and gatherings, here become a metaphor for the pond's role as a stage for nature's drama. The steep hills and dense woods create a secluded, almost sacred space, emphasizing the pond's isolation and purity. Thoreau's imagery invites readers to see Walden not just as a physical location but as a spiritual and philosophical arena where life's deeper truths are revealed."
+  - id: "ganges"
+    trigger: "Ganges"
+    title: "The Sacred River Thoreau Compares to His Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ganges"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau complains that the villagers are thinking to bring Walden’s water, which should be as sacred as the Ganges at least, to the village in a pipe, to wash their dishes with. The Ganges, in India, is the holiest river in Hinduism, and millions of pilgrims bathe in it to purify themselves. Thoreau, who read Hindu scriptures, wants his neighbours to treat the pond with the same reverence. His complaint about the plan, which would turn a sacred water into a utility, is one of the strongest protests in the book against the harm done by progress."
+  - id: "trojan-horse"
+    trigger: "Trojan horse"
+    title: "The Railroad as a Wooden Horse Full of Men"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Trojan_Horse"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau rages against the railroad as that Trojan horse, with a thousand men in his belly, introduced by mercenary Greeks. In the legend of the Trojan War the Greeks pretended to leave, but left behind a huge wooden horse with soldiers hidden inside, and the Trojans pulled it into their city, which was then sacked. The locomotive, with its crowd of passengers, is the intruder that has browsed off the woods on Walden shore. Thoreau’s mock-epic image makes the railroad a monster that the town let in, and it is a call for a champion."
+  - id: "moore-of-moore-hill"
+    trigger: "Moore of Moore Hill"
+    title: "The Knight Who Killed the Dragon of Wantley"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Dragon_of_Wantley"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau asks, where is the country’s champion, the Moore of Moore Hill, to meet him at the Deep Cut and thrust an avenging lance between the ribs of the bloated pest? The reference is to the old English ballad of the Dragon of Wantley, in which More of More Hall, in armour studded with spikes, kills a dragon by kicking it in the one vulnerable place. Thoreau’s mock-heroic call imagines a village hero who will fight the railroad, but nobody is willing, and the dragon of progress is the winner."
+  - id: "deep-cut"
+    trigger: "Deep Cut"
+    title: "The Railway Cutting That Scarred the Woods"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Fitchburg_Line"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau imagines the champion meeting the railroad at the Deep Cut, the place where the Fitchburg Railroad was dug through a ridge near Walden Pond, with a deep trench and embankments built by Irish labourers in 1844 and 1845. The track ran along the western shore of the pond, and Thoreau used the cut as a path to walk to town. The railroad, which opened up the countryside, also cut it open. His references to the Deep Cut show how the line has changed the landscape and the pond itself."
+  - id: "state-street"
+    trigger: "State-street"
+    title: "Boston’s Money Street and the Engine’s Soot"
+    wikipedia_url: "https://en.wikipedia.org/wiki/State_Street_(Boston)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that the vision of the pond’s serenity, though seen but once, helps to wash out State-street and the engine’s soot. State Street, in Boston, was the centre of banking and shipping, and its offices were crowded with merchants. The engine is the railroad locomotive. A glimpse of Walden is, to Thoreau, a cleansing of the mind from business and noise, and it can stay with a man through the day. The remark is typical of his belief that nature heals the harm of modern commerce."
+  - id: "concord-river"
+    trigger: "Concord River"
+    title: "The Slow Stream Linked to the Ponds"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Concord_River"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau explains that Walden is on one side distantly and indirectly related to Flint’s Pond by a chain of small ponds, and on the other directly and manifestly to the Concord River. The Concord River, formed by the joining of the Sudbury and Assabet rivers, is very slow and flows north to the Merrimack, and it was the subject of Thoreau’s first book, A Week on the Concord and Merrimack Rivers, in 1849. Here he gives a geological idea that the ponds were once linked, a scientific note in the middle of the poetic chapter."
+  - id: "sandy-pond"
+    trigger: "Sandy Pond"
+    title: "The Larger Neighbour Called an Inland Sea"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Flints_Pond"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that Flint’s, or Sandy Pond, in Lincoln, is our greatest lake and inland sea, about a mile east of Walden. Flints Pond, 200 acres in size, was named for the farmer Flint, and Thoreau felt that the name was wrong, because the man had never cared for the pond. It is shallower and less pure than Walden. The comparison between the two ponds lets him say what makes a place fine, and he prefers a small lake that is clear and deep."
   - id: "pipewort"
     trigger: "pipewort"
     title: "The Curious Grass Balls of Flint's Pond"
@@ -148,6 +260,41 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau describes finding spherical balls of pipewort at Flint's Pond, marveling at their unique formation. Pipewort, a small aquatic plant, often grows in sandy or muddy bottoms, and its roots can form dense, fibrous structures. These balls, shaped by water movement, are a testament to nature's ability to create intricate patterns even in the simplest materials. For Thoreau, the pipewort balls symbolize the hidden artistry of the natural world, reminding readers that beauty often lies in the overlooked details of life."
+  - id: "model-farm"
+    trigger: "model farm"
+    title: "The House Like a Fungus in a Muck-Heap"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Farm"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau scorns the model farm, where the house stands like a fungus in a muck-heap, with chambers for men, horses, oxen and swine, clean and unclean, all together. Model farms, set up by agricultural societies in the nineteenth century to demonstrate new methods, were praised in the press and at fairs. Thoreau, who preferred poor farmers, thought that such farms were crowded and dirty, driven by the aim of making money. His disgust makes a joke that carries a serious point about the loss of a simple relation to the land."
+  - id: "icarian-sea"
+    trigger: "Icarian Sea"
+    title: "The Sea Named for a Fallen Boy"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Icarian_Sea"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that lakes should receive names as true as the Icarian Sea, where still the shore a brave attempt resounds. The Icarian Sea is the part of the Aegean between Samos, Naxos and Mykonos, named for Icarus, who in Greek myth flew with wings of wax and feathers and fell into it when he flew too close to the sun. The name celebrates a daring failure. Thoreau wants ponds to be named after noble things, not after farmers who have destroyed them, and he prefers a name that carries a story."
+  - id: "sand-paper"
+    trigger: "sand-paper"
+    title: "The Sand That Went Into Sandpaper"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Sandpaper"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that he used to go to a pond to collect the sand by cart-loads, to make sand-paper with. Sandpaper, paper coated with grains of sand or other abrasive, was used to smooth wood, and in the Thoreau family’s pencil-making business it had a place in the workshop. The remark is a reminder that his ponds were working places as well as sights. Thoreau worked with his hands, and his love of nature was practical and informed, with a surveyor’s knowledge of soil and sand."
+  - id: "yellow-pine"
+    trigger: "yellow-pine"
+    title: "The Submerged Tree of White Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pinus_palustris"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau recounts the story of a yellow-pine tree submerged in White Pond, its roots buried deep in the sandy bottom. Yellow pines, known for their resilience and straight trunks, were often used for timber and construction. The tree's presence in the pond adds a layer of mystery, suggesting a history of natural or human events that led to its unusual position. For Thoreau, the submerged pine becomes a symbol of nature's enduring presence, even as human activity alters the landscape."
+  - id: "massachusetts-historical-society"
+    trigger: "Massachusetts Historical Society"
+    title: "The Learned Society That Printed Old Records"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Massachusetts_Historical_Society"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau cites a Topographical Description of the Town of Concord, published in 1792 in the Collections of the Massachusetts Historical Society. Founded in 1791 in Boston, the society is the oldest historical society in the United States, and it began to print its Collections the next year, preserving early documents of New England. Thoreau used such records to learn that Walden’s level had changed. He liked archives as well as woods, and he trusted both the writings and the stones as evidence."
   - id: "blue-flag"
     trigger: "blue flag"
     title: "The Iris That Harmonizes with Walden's Waters"
@@ -169,13 +316,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau contrasts Walden Pond with the Kohinoor diamond, suggesting that the pond's purity surpasses the value of any material wealth. The Kohinoor, one of the world's most famous diamonds, has a storied history of conquest and controversy. By invoking this symbol of opulence, Thoreau critiques society's obsession with possessions and status. Walden, in its simplicity and natural beauty, represents a higher form of wealth—one that nourishes the soul rather than the ego."
-  - id: "yellow-pine"
-    trigger: "yellow-pine"
-    title: "The Submerged Tree of White Pond"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Pinus_palustris"
+  - id: "god-s-drop"
+    trigger: "God's Drop"
+    title: "The Divine Essence of Walden Pond"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Transcendentalism"
     image_url: ""
     image_caption: ""
-    content: "Thoreau recounts the story of a yellow-pine tree submerged in White Pond, its roots buried deep in the sandy bottom. Yellow pines, known for their resilience and straight trunks, were often used for timber and construction. The tree's presence in the pond adds a layer of mystery, suggesting a history of natural or human events that led to its unusual position. For Thoreau, the submerged pine becomes a symbol of nature's enduring presence, even as human activity alters the landscape."
+    content: "Thoreau proposes calling Walden Pond 'God's Drop,' highlighting its spiritual significance. This name reflects his belief in nature as a manifestation of divine purity and beauty. For Thoreau, Walden is more than a physical body of water; it is a symbol of transcendence and a source of inspiration. 'God's Drop' encapsulates his view of the pond as a sacred space, untouched by human corruption and eternally renewing itself as a gift from the Creator."
 ---
 Sometimes, having had a surfeit of human society and gossip, and worn
 out all my village friends, I rambled still farther westward than I
@@ -187,7 +334,7 @@ the purchaser of them, nor to him who raises them for the market. There
 is but one way to obtain it, yet few take that way. If you would know
 the flavor of huckleberries, ask the cow-boy or the partridge. It is a
 vulgar error to suppose that you have tasted huckleberries who never
-plucked them. A huckleberry never reaches Boston; they have not been
+plucked them. A **huckleberry** never reaches Boston; they have not been
 known there since they grew on her three hills. The ambrosial and
 essential part of the fruit is lost with the bloom which is rubbed off
 in the market cart, and they become mere provender. As long as Eternal
@@ -310,9 +457,9 @@ reflect a green tint I have never proved. The water of our river is
 black or a very dark brown to one looking directly down on it, and,
 like that of most ponds, imparts to the body of one bathing in it a
 yellowish tinge; but this water is of such crystalline purity that the
-body of the bather appears of an alabaster whiteness, still more
+body of the bather appears of an **alabaster whiteness**, still more
 unnatural, which, as the limbs are magnified and distorted withal,
-produces a monstrous effect, making fit studies for a Michael Angelo.
+produces a monstrous effect, making fit studies for a **Michael Angelo**.
 
 The water is so transparent that the bottom can easily be discerned at
 the depth of twenty-five or thirty feet. Paddling over it, you may see,
@@ -360,8 +507,8 @@ most of the ponds within a dozen miles of this centre I do not know a
 third of this pure and well-like character. Successive nations
 perchance have drank at, admired, and fathomed it, and passed away, and
 still its water is green and pellucid as ever. Not an intermitting
-spring! Perhaps on that spring morning when Adam and Eve were driven
-out of Eden Walden Pond was already in existence, and even then
+spring! Perhaps on that spring morning when Adam and Eve were **driven
+out of Eden** Walden Pond was already in existence, and even then
 breaking up in a gentle spring rain accompanied with mist and a
 southerly wind, and covered with myriads of ducks and geese, which had
 not heard of the fall, when still such pure lakes sufficed them. Even
@@ -369,8 +516,8 @@ then it had commenced to rise and fall, and had clarified its waters
 and colored them of the hue they now wear, and obtained a patent of
 heaven to be the only Walden Pond in the world and distiller of
 celestial dews. Who knows in how many unremembered nations’ literatures
-this has been the Castalian Fountain? or what nymphs presided over it
-in the Golden Age? It is a gem of the first water which Concord wears
+this has been the **Castalian Fountain**? or what nymphs presided over it
+in the **Golden Age**? It is a **gem of the first water** which Concord wears
 in her coronet.
 
 Yet perchance the first who came to this well have left some trace of
@@ -692,8 +839,8 @@ white-pine logs dug out and pinned together, and was cut off square at
 the ends. It was very clumsy, but lasted a great many years before it
 became water-logged and perhaps sank to the bottom. He did not know
 whose it was; it belonged to the pond. He used to make a cable for his
-anchor of strips of hickory bark tied together. An old man, a potter,
-who lived by the pond before the Revolution, told him once that there
+anchor of strips of **hickory bark** tied together. An old man, a potter,
+who lived by the pond **before the Revolution**, told him once that there
 was an iron chest at the bottom, and that he had seen it. Sometimes it
 would come floating up to the shore; but when you went toward it, it
 would go back into deep water and disappear. I was pleased to hear of
@@ -731,15 +878,15 @@ expect the birds to sing when their groves are cut down?
 Now the trunks of trees on the bottom, and the old log canoe, and the
 dark surrounding woods, are gone, and the villagers, who scarcely know
 where it lies, instead of going to the pond to bathe or drink, are
-thinking to bring its water, which should be as sacred as the Ganges at
+thinking to bring its water, which should be as sacred as the **Ganges** at
 least, to the village in a pipe, to wash their dishes with!—to earn
 their Walden by the turning of a cock or drawing of a plug! That
 devilish Iron Horse, whose ear-rending neigh is heard throughout the
 town, has muddied the Boiling Spring with his foot, and he it is that
-has browsed off all the woods on Walden shore, that Trojan horse, with
+has browsed off all the woods on Walden shore, that **Trojan horse**, with
 a thousand men in his belly, introduced by mercenary Greeks! Where is
-the country’s champion, the Moore of Moore Hill, to meet him at the
-Deep Cut and thrust an avenging lance between the ribs of the bloated
+the country’s champion, the **Moore of Moore Hill**, to meet him at the
+**Deep Cut** and thrust an avenging lance between the ribs of the bloated
 pest?
 
 Nevertheless, of all the characters I have known, perhaps Walden wears
@@ -779,13 +926,13 @@ firemen and brakemen, and those passengers who have a season ticket and
 see it often, are better men for the sight. The engineer does not
 forget at night, or his nature does not, that he has beheld this vision
 of serenity and purity once at least during the day. Though seen but
-once, it helps to wash out State-street and the engine’s soot. One
+once, it helps to wash out **State-street** and the engine’s soot. One
 proposes that it be called “**God’s Drop**.”
 
 I have said that Walden has no visible inlet nor outlet, but it is on
 the one hand distantly and indirectly related to Flint’s Pond, which is
 more elevated, by a chain of small ponds coming from that quarter, and
-on the other directly and manifestly to Concord River, which is lower,
+on the other directly and manifestly to **Concord River**, which is lower,
 by a similar chain of ponds through which in some other geological
 period it may have flowed, and by a little digging, which God forbid,
 it can be made to flow thither again. If by living thus reserved and
@@ -796,7 +943,7 @@ go to waste its sweetness in the ocean wave?
 
 
 
-Flint’s, or Sandy Pond, in Lincoln, our greatest lake and inland sea,
+Flint’s, or **Sandy Pond**, in Lincoln, our greatest lake and inland sea,
 lies about a mile east of Walden. It is much larger, being said to
 contain one hundred and ninety-seven acres, and is more fertile in
 fish; but it is comparatively shallow, and not remarkably pure. A walk
@@ -868,7 +1015,7 @@ potatoes in the church-yard! Such is a **model farm**.
 
 No, no; if the fairest features of the landscape are to be named after
 men, let them be the noblest and worthiest men alone. Let our lakes
-receive as true names at least as the Icarian Sea, where “still the
+receive as true names at least as the **Icarian Sea**, where “still the
 shore” a “brave attempt resounds.”
 
 
@@ -891,7 +1038,7 @@ waters are of the same hue. As at Walden, in sultry dog-day weather,
 looking down through the woods on some of its bays which are not so
 deep but that the reflection from the bottom tinges them, its waters
 are of a misty bluish-green or glaucous color. Many years since I used
-to go there to collect the sand by cart-loads, to make sand-paper with,
+to go there to collect the sand by cart-loads, to make **sand-paper** with,
 and I have continued to visit it ever since. One who frequents it
 proposes to call it Virid Lake. Perhaps it might be called Yellow-Pine
 Lake, from the following circumstance. About fifteen years ago you
@@ -901,7 +1048,7 @@ surface in deep water, many rods from the shore. It was even supposed
 by some that the pond had sunk, and this was one of the primitive
 forest that formerly stood there. I find that even so long ago as 1792,
 in a “Topographical Description of the Town of Concord,” by one of its
-citizens, in the Collections of the Massachusetts Historical Society,
+citizens, in the Collections of the **Massachusetts Historical Society**,
 the author, after speaking of Walden and White Ponds, adds: “In the
 middle of the latter may be seen, when the water is very low, a tree
 which appears as if it grew in the place where it now stands, although

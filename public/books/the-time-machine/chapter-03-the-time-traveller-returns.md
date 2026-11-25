@@ -33,6 +33,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator describes the Time Traveller as a man too clever to be believed, someone whose ingenuity and subtle reserve made him enigmatic to those around him. This characterization sets the stage for the skepticism that surrounds his invention and his claims of time travel. The Time Traveller's personality reflects a broader theme in H.G. Wells' work: the tension between genius and societal acceptance. In Victorian England, where Wells wrote, scientific innovation was both celebrated and feared, often viewed with suspicion by those who couldn't grasp its implications. The Time Traveller embodies this duality—his brilliance alienates him, even as it compels fascination. By making his protagonist an outsider, Wells invites readers to question their own biases toward the unknown and the extraordinary. The Time Traveller's enigmatic nature is not just a character trait; it is a narrative device that mirrors the unsettling implications of his invention, forcing readers to confront their own discomfort with the unfamiliar."
+  - id: "eggshell-china"
+    trigger: "eggshell china"
+    title: "The Fragile Trust in a Clever Friend"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Porcelain"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator says that trusting their reputations for judgment with the Time Traveller was like furnishing a nursery with eggshell china. Eggshell china is a very thin, delicate porcelain that breaks easily, and it would be the worst choice for a room full of children. The comparison is comic and exact: the Time Traveller is brilliant but unreliable, and his friends worry that if they believe him they will be left looking foolish. Wells’s image also foreshadows the way in which the narrator will feel about the Time Traveller’s long story."
   - id: "the-linnaean"
     trigger: "the Linnæan"
     title: "What Is the Linnæan Society, and Why Mention It?"
@@ -40,6 +47,20 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator mentions meeting the Medical Man at 'the Linnæan,' a reference to the Linnean Society of London, one of the oldest scientific societies in the world. Founded in 1788, the society is dedicated to the study of natural history and taxonomy, named after Carl Linnaeus, the father of modern biological classification. This detail is not incidental; it situates the story within a world of intellectual rigor and scientific inquiry, underscoring the credibility of the characters and their discussions. In Wells' time, the Linnean Society was a hub for debates about evolution and the natural sciences, topics that often intersected with speculative fiction. By placing his characters in this context, Wells aligns the fantastical premise of time travel with the real-world pursuit of knowledge, blurring the line between science and imagination. The mention of the Linnæan adds a layer of authenticity to the narrative, grounding the extraordinary events in a setting familiar to the scientifically minded audience of the era."
+  - id: "t-bingen"
+    trigger: "Tübingen"
+    title: "The German University Town of a Similar Trick"
+    wikipedia_url: "https://en.wikipedia.org/wiki/T%C3%BCbingen"
+    image_url: ""
+    image_caption: ""
+    content: "The Medical Man says that he had seen a similar trick at Tübingen and laid stress on the blowing-out of the candle. Tübingen, a university town on the Neckar in southern Germany, was a centre of science and medicine, and British doctors sometimes studied in Germany in the nineteenth century. The mention shows that he has an international background and has seen conjurors’ tricks before. It also adds to the sceptical tone of the group, since the experienced man is sure that the vanishing model must be a clever deception."
+  - id: "richmond"
+    trigger: "Richmond"
+    title: "The Suburb Where the Inventor Lives"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Richmond,_London"
+    image_url: ""
+    image_caption: ""
+    content: "The narrator goes again to Richmond on the next Thursday, as one of the Time Traveller’s most constant guests. Richmond, on the Thames in south-west London, was a prosperous suburb with large houses, a famous park and a railway link to the city, and well-off professionals lived there. It is the setting of the dinner parties that frame the story. The Time Traveller’s journey begins and ends in the neighbourhood of the Thames, and the later vision of the same region in the year 802,701 is one of the book’s most striking contrasts."
   - id: "ingenious-paradox-and-trick"
     trigger: "ingenious paradox and trick"
     title: "The Ingenious Trick That Fooled Everyone"
@@ -61,6 +82,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The narrator notices the Time Traveller's 'blood-stained socks,' a detail that adds a visceral, unsettling element to his appearance. This image suggests physical injury and hardship, hinting at the dangers he faced during his journey. Bloodstains, often used in forensic science to reconstruct events, here serve as a narrative clue, inviting readers to speculate about the trials the Time Traveller endured. In the context of the story, this detail underscores the physical reality of time travel, countering the guests' skepticism with tangible evidence of its consequences. Wells uses this stark image to bridge the gap between the abstract concept of time travel and its concrete, human impact. The blood-stained socks are not just a sign of injury; they are a symbol of the sacrifices required to push the boundaries of knowledge and experience."
+  - id: "crossing"
+    trigger: "crossing"
+    title: "The Joke About a Street Sweeper"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Crossing_sweeper"
+    image_url: ""
+    image_caption: ""
+    content: "The Editor jokes that the Time Traveller might eke out his modest income with a crossing, as he arrives dirty and lame. A crossing sweeper was a poor person, often a child or a disabled man, who swept a path through the dust or mud of a London street so that pedestrians could cross, and who begged for a coin in return. The Editor’s taunt reveals the class assumptions of the dinner table: a gentleman in rags can be explained only by a fall into poverty or madness, and not by an extraordinary journey."
   - id: "nebuchadnezzar-phases"
     trigger: "Nebuchadnezzar phases"
     title: "What Are Nebuchadnezzar Phases, and Why Mention Them?"
@@ -68,6 +96,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "The Editor jokingly refers to the Time Traveller's 'Nebuchadnezzar phases,' alluding to the biblical king Nebuchadnezzar II, who was said to have lived like a beast during a period of madness. This reference adds a layer of humor and irreverence to the guests' skepticism, framing the Time Traveller's disheveled appearance as a sign of eccentricity rather than evidence of his extraordinary claims. Nebuchadnezzar's story, found in the Book of Daniel, has been interpreted as a cautionary tale about hubris and the consequences of defying divine order. By invoking this figure, Wells subtly parallels the Time Traveller's audacious attempt to transcend human limitations with the king's fall from grace. The mention of 'Nebuchadnezzar phases' serves as both a critique of the Time Traveller's ambition and a reminder of the risks inherent in challenging the natural order."
+  - id: "special-correspondent"
+    trigger: "Special Correspondent"
+    title: "The Journalist Reporting From Tomorrow"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Foreign_correspondent"
+    image_url: ""
+    image_caption: ""
+    content: "The Journalist jokes in a shout, Our Special Correspondent in the Day after Tomorrow reports. A special correspondent was a reporter sent to cover a particular event or place, such as a war or an exploration, and the title appeared in the headlines of Victorian newspapers, which had expanded rapidly in the 1890s. Wells himself wrote for the papers. The joke shows how readily the new kind of irreverent journalist turns a marvel into a headline, and it sets up the contrast with the Time Traveller’s earnest, long, serious account that follows."
+  - id: "rosebery"
+    trigger: "Rosebery"
+    title: "The Prime Minister in the Editor’s Joke"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Archibald_Primrose,_5th_Earl_of_Rosebery"
+    image_url: ""
+    image_caption: ""
+    content: "The Editor asks the Time Traveller to tell them all about little Rosebery, as if he had been travelling into next week. Lord Rosebery was the Liberal Prime Minister from March 1894 to June 1895, and the novel appeared in 1895, so the joke was topical. A journalist would be eager for a scoop about the future of such a public figure. The remark is typical of the Editor, who thinks in headlines and treats the whole experience as a source of copy, and it helps to place the story in a particular year of British politics."
+  - id: "peptone"
+    trigger: "peptone"
+    title: "The Predigested Food Wells Jokes About"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Peptone"
+    image_url: ""
+    image_caption: ""
+    content: "The Time Traveller says he will not speak until he gets some peptone into his arteries. Peptones are partly digested proteins, made by breaking down meat, and in the nineteenth century they were sold as nourishing foods and tonics for invalids. By using the word for a dinner of mutton, the exhausted traveller makes a joke in scientific language, and it reminds readers that he is a man of science even when starving. It is a small touch that shows Wells’s own training in biology."
   - id: "appetite-of-a-tramp"
     trigger: "appetite of a tramp"
     title: "Why Does the Time Traveller Eat Like a Tramp?"
@@ -96,7 +145,7 @@ that would have made the fame of a less clever man seemed tricks in his
 hands. It is a mistake to do things too easily. The serious people who
 took him seriously never felt quite sure of his deportment; they were
 somehow aware that trusting their reputations for judgment with him was
-like furnishing a nursery with eggshell china. So I don’t think any of
+like furnishing a nursery with **eggshell china**. So I don’t think any of
 us said very much about time travelling in the interval between that
 Thursday and the next, though its odd potentialities ran, no doubt, in
 most of our minds: its plausibility, that is, its practical
@@ -104,11 +153,11 @@ incredibleness, the curious possibilities of anachronism and of utter
 confusion it suggested. For my own part, I was particularly preoccupied
 with the trick of the model. That I remember discussing with the
 Medical Man, whom I met on Friday at **the Linnæan**. He said he had seen a
-similar thing at Tübingen, and laid considerable stress on the
+similar thing at **Tübingen**, and laid considerable stress on the
 blowing-out of the candle. But how the trick was done he could not
 explain.
 
-The next Thursday I went again to Richmond—I suppose I was one of the
+The next Thursday I went again to **Richmond**—I suppose I was one of the
 Time Traveller’s most constant guests—and, arriving late, found four or
 five men already assembled in his drawing-room. The Medical Man was
 standing before the fire with a sheet of paper in one hand and his
@@ -191,7 +240,7 @@ dinner—for a hot plate. At that the Editor turned to his knife and fork
 with a grunt, and the Silent Man followed suit. The dinner was resumed.
 Conversation was exclamatory for a little while with gaps of
 wonderment; and then the Editor got fervent in his curiosity. “Does our
-friend eke out his modest income with a crossing? or has he his
+friend eke out his modest income with a **crossing**? or has he his
 **Nebuchadnezzar phases**?” he inquired. “I feel assured it’s this business
 of the Time Machine,” I said, and took up the Psychologist’s account of
 our previous meeting. The new guests were frankly incredulous. The
@@ -201,15 +250,15 @@ And then, as the idea came home to him, he resorted to caricature.
 Hadn’t they any clothes-brushes in the Future? The Journalist too,
 would not believe at any price, and joined the Editor in the easy work
 of heaping ridicule on the whole thing. They were both the new kind of
-journalist—very joyous, irreverent young men. “Our Special
-Correspondent in the Day after Tomorrow reports,” the Journalist was
+journalist—very joyous, irreverent young men. “Our **Special
+Correspondent** in the Day after Tomorrow reports,” the Journalist was
 saying—or rather shouting—when the Time Traveller came back. He was
 dressed in ordinary evening clothes, and nothing save his haggard look
 remained of the change that had startled me.
 
 “I say,” said the Editor hilariously, “these chaps here say you have
 been travelling into the middle of next week! Tell us all about little
-Rosebery, will you? What will you take for the lot?”
+**Rosebery**, will you? What will you take for the lot?”
 
 The Time Traveller came to the place reserved for him without a word.
 He smiled quietly, in his old way. “Where’s my mutton?” he said. “What
@@ -218,7 +267,7 @@ a treat it is to stick a fork into meat again!”
 “Story!” cried the Editor.
 
 “Story be damned!” said the Time Traveller. “I want something to eat. I
-won’t say a word until I get some peptone into my arteries. Thanks. And
+won’t say a word until I get some **peptone** into my arteries. Thanks. And
 the salt.”
 
 “One word,” said I. “Have you been time travelling?”

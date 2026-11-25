@@ -16,7 +16,7 @@ summary:
     link: "https://en.wikipedia.org/wiki/Antaeus"
     link_label: "Antæus"
   - point: "Thoreau discovers arrowheads while hoeing, hinting at the land's ancient history."
-    link: "https://en.wikipedia.org/wiki/Arrowhead_(archaeology)"
+    link: "https://en.wikipedia.org/wiki/Arrowhead"
     link_label: "Arrowheads"
   - point: "He describes the brown-thrasher's song as a companion to his farming work."
     link: "https://en.wikipedia.org/wiki/Brown_thrasher"
@@ -39,10 +39,24 @@ enhancements:
   - id: "arrowheads-ancient-hands-in-thoreaus-field"
     trigger: "arrowheads which I turned up"
     title: "What Ancient Arrowheads Reveal About Thoreau's Land"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Arrowhead_(archaeology)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Arrowhead"
     image_url: ""
     image_caption: ""
     content: "While hoeing his bean field, Thoreau unearths arrowheads, remnants of an extinct nation that once cultivated the same soil. These artifacts are silent witnesses to a time before European settlers arrived, when Indigenous peoples planted corn and beans on this land. Arrowheads, often made of flint or obsidian, were tools of survival, used for hunting and warfare. Their presence in Thoreau’s field suggests a continuity of human interaction with the earth, spanning centuries. For Thoreau, this discovery is not merely archaeological; it is philosophical. It connects his humble farming to a lineage of cultivation and survival, reminding him that the soil carries the memory of those who worked it before him. This moment deepens his meditation on the cyclical nature of life and labor."
+  - id: "wayland"
+    trigger: "Wayland"
+    title: "The Neighbouring Town on the Westward Road"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Wayland,_Massachusetts"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau describes himself as a very agricola laboriosus, a hard-working farmer, to travellers bound westward through Lincoln and Wayland to nobody knows where. Wayland, a town southeast of Concord on the Sudbury River, was on the main road to the west, where people in gigs rode in comfort. Thoreau, working in his field by the road, became a living show for them. His joke shows that the bean field was a public place, and that his experiment was watched by the neighbours as they passed."
+  - id: "ranz-des-vaches"
+    trigger: "Ranz des Vaches"
+    title: "The Swiss Cowherds’ Tune for a Bean Field"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ranz_des_vaches"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that his hoe played the Ranz des Vaches for the beans, which were cheerfully returning to their wild and primitive state. The ranz des vaches is a traditional melody played on the alphorn by Swiss herdsmen to call their cattle down from the mountain pastures, and composers such as Rossini used it in the William Tell overture. Thoreau’s image compares the sound of the hoe on the soil to a herdsman’s call. In his picture, farming becomes a pastoral music, and he acts as the herdsman of his beans."
   - id: "brown-thrasher-song-in-the-bean-field"
     trigger: "brown-thrasher"
     title: "The Bird That Sang Farming Advice to Thoreau"
@@ -50,6 +64,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "As Thoreau works in his bean field, the brown-thrasher sings nearby, its calls resembling instructions: \"Drop it, cover it up, pull it up.\" The brown-thrasher, known for its complex and mimicking song, is a common bird in North America. Its vocalizations can include over a thousand song types, making it one of nature’s most versatile performers. Thoreau’s playful interpretation of the bird’s song as farming advice reflects his tendency to find meaning and companionship in nature’s smallest details. This interaction highlights his belief that nature is not separate from human life but intertwined with it, offering guidance and inspiration even in mundane tasks like planting beans."
+  - id: "paganini"
+    trigger: "Paganini"
+    title: "The Violin Virtuoso Behind a Neighbour’s Rigmarole"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Niccol%C3%B2_Paganini"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau jokes that the farmer’s chant to scare crows, his amateur Paganini performances on one string or on twenty, may be preferred to leached ashes. Niccolò Paganini, who died in 1840, was the most famous violin virtuoso of the age, renowned for dazzling technique and for playing on a single string, and his name had become a byword for astonishing skill. Thoreau’s comparison is humorous, as a country neighbour’s lowing and shouting is raised to the level of art. The remark belongs to his habit of taking even the rustic world’s sounds as music."
   - id: "spotted-salamander-egyptian-trace-in-new-england"
     trigger: "spotted salamander"
     title: "Why Thoreau Saw Egypt in a Salamander"
@@ -64,6 +85,27 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau identifies Roman wormwood among the weeds he battles in his bean field. Roman wormwood, or Artemisia campestris, is a hardy plant known for its medicinal uses and resilience in poor soil. Its presence in Thoreau’s field symbolizes the wild, untamed forces of nature that resist cultivation. Thoreau’s struggle against these weeds mirrors his philosophical inquiry into the balance between human intervention and natural order. By hoeing the wormwood, he asserts control over the land, yet he also acknowledges the vitality and persistence of these \"Trojan\" weeds. This tension reflects the broader themes of Walden: the interplay between civilization and wilderness, labor and leisure, control and surrender."
+  - id: "trojans"
+    trigger: "Trojans"
+    title: "The Weeds as an Enemy at the Gates"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Trojan_War"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau calls his struggle with weeds a long war, not with cranes, but with weeds, those Trojans who had sun and rain and dews on their side. The Trojan War, the ten-year siege of Troy told in Homer’s Iliad, is a standard image of a long and grinding conflict. Thoreau’s mock-heroic comparison, which turns hoeing into epic, belongs to the chapter’s theme of the dignity of labour. The reference to cranes alludes to the Iliad’s fight between Pygmies and cranes, and he keeps up the joke by saying that daily the beans saw him come armed to their rescue."
+  - id: "pythagorean"
+    trigger: "Pythagorean"
+    title: "The Philosopher Who Forbade Beans"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Pythagoreanism"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says that he did not want beans to eat, for he is by nature a Pythagorean, so far as beans are concerned, whether they mean porridge or voting. Pythagoras, the Greek philosopher and mathematician of the sixth century BC, and his followers were said to forbid eating beans, though the reasons are uncertain, and in ancient Greece beans were used as voting tokens. Thoreau plays on both meanings, a pun on food and politics, and he sold his crop to buy rice."
+  - id: "evelyn"
+    trigger: "Evelyn"
+    title: "John Evelyn on Turning the Soil"
+    wikipedia_url: "https://en.wikipedia.org/wiki/John_Evelyn"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says he was paid for his hoeing in the end, there being in truth, as Evelyn says, no compost or laetation whatsoever comparable to this continual motion, repastination and turning of the mould. John Evelyn, the English diarist and gardener of the seventeenth century, wrote Sylva, a book on forest trees, and Terra, a discourse on earth, from which Thoreau quotes. The passage supports a simple idea: that good tilling matters more than manure. Thoreau, who used no fertiliser, is pleased to find a classical author who justifies him."
   - id: "sir-kenelm-digby-vital-spirits-in-the-soil"
     trigger: "Sir Kenelm Digby"
     title: "The Man Who Thought Soil Breathed Life"
@@ -71,6 +113,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau references Sir Kenelm Digby’s idea that soil attracts \"vital spirits\" from the air. Digby, a 17th-century English philosopher and scientist, was known for his eclectic theories, blending alchemy, natural philosophy, and early chemistry. He believed that the earth had a magnetic quality, drawing life-giving forces from the atmosphere. Thoreau’s invocation of Digby aligns with his own view of nature as a living, dynamic system. For Thoreau, the idea of \"vital spirits\" in the soil is not just scientific speculation but a poetic truth, reinforcing his belief in the interconnectedness of all life. This perspective transforms his bean field into a sacred space, where the act of hoeing becomes a communion with the earth’s vitality."
+  - id: "patrem-familias-vendacem"
+    trigger: "patrem familias vendacem"
+    title: "Cato’s Rule for the Head of a Household"
+    wikipedia_url: "https://en.wikipedia.org/wiki/De_agri_cultura"
+    image_url: ""
+    image_caption: ""
+    content: "Introducing his bean-field accounts, Thoreau gives the Latin tag, patrem familias vendacem, non emacem esse oportet, which means that the head of a household should be a seller and not a buyer. The maxim comes from Cato the Elder’s De agri cultura, a manual of farm management written about 160 BC. Thoreau uses it to justify a plan to grow and sell rather than buy. His list of costs and income, which shows a profit of eight dollars and seventy-one and a half cents, is a joke about the farmer’s book-keeping, and he rests on an old authority."
   - id: "seeds-of-virtues-thoreaus-unplanted-crop"
     trigger: "seeds of those virtues"
     title: "Why Thoreau’s Virtues Failed to Sprout"
@@ -78,6 +127,13 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau laments that the \"seeds of virtues\" he hoped to plant—truth, simplicity, faith—did not grow in his soil. This metaphorical crop represents his aspiration to cultivate moral and spiritual qualities alongside his beans. The failure of these seeds to sprout reflects Thoreau’s critique of society’s focus on material success over ethical growth. He suggests that virtues, unlike beans, require a different kind of cultivation—one that transcends physical labor and engages the soul. This poignant reflection underscores the central tension in Walden: the struggle to live a life of integrity and meaning in a world preoccupied with superficial achievements."
+  - id: "ceres"
+    trigger: "Ceres"
+    title: "The Goddess of Grain Neglected by Modern Farmers"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Ceres_(mythology)"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the farmer sacrifices not to Ceres and the Terrestrial Jove, but to the infernal Plutus rather. Ceres was the Roman goddess of agriculture, grain and motherly love, whose festival, the Cerealia, was held in April, and from whose name comes the word cereal. Thoreau complains that modern farmers have lost the sense of the sacredness of their calling. He thinks the old harvest rites and festivals have been replaced by cattle shows, which are about prizes and money, and the farmer’s main goal is profit."
   - id: "terrestrial-jove-sacredness-of-farming-lost"
     trigger: "Terrestrial Jove"
     title: "The Forgotten God of Sacred Agriculture"
@@ -85,10 +141,24 @@ enhancements:
     image_url: ""
     image_caption: ""
     content: "Thoreau laments that modern farmers sacrifice to \"infernal Plutus\" rather than \"Terrestrial Jove,\" the Roman god of agriculture and the earth. Jupiter, or Jove, was traditionally associated with abundance and the sacredness of cultivation. Thoreau contrasts this ancient reverence with the greed-driven practices of contemporary farming, which prioritize profit over connection to the land. By invoking Terrestrial Jove, Thoreau calls for a return to a more spiritual and respectful approach to agriculture. This critique is central to Walden’s themes, urging readers to see farming—and life itself—as a sacred art rather than a mere economic endeavor."
+  - id: "plutus"
+    trigger: "Plutus"
+    title: "The God of Wealth Who Took Over the Farm"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Plutus"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau says the farmer worships the infernal Plutus, instead of the gods of the earth. Plutus was the Greek god of wealth, a blind figure in Aristophanes’ play of that name, who was said to give riches without regard to merit, and the word plutocracy, rule by the rich, comes from him. By choosing the epithet infernal, Thoreau makes him an underworld god of greed. His point is that by avarice and a grovelling habit the farmer regards the soil as property, or a means of gain, and so he knows nature only as a robber."
+  - id: "varro"
+    trigger: "Varro"
+    title: "The Roman Writer on the Pious Life of the Farmer"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Marcus_Terentius_Varro"
+    image_url: ""
+    image_caption: ""
+    content: "Thoreau cites Varro, according to whom the old Romans called the same earth Mother and Ceres, and thought that they who cultivated it led a pious and useful life. Marcus Terentius Varro, a Roman scholar of the first century BC, wrote Rerum rusticarum, a three-book treatise on farming, and was called the most learned of the Romans. His view of the sacred role of the farmer was a model for Virgil’s Georgics. Thoreau quotes it to reproach his own time for treating farming as a business and not as a calling."
   - id: "spica-hope-in-the-ear-of-wheat"
     trigger: "spica"
     title: "Why Romans Saw Hope in Wheat"
-    wikipedia_url: "https://en.wikipedia.org/wiki/Spica_(botany)"
+    wikipedia_url: "https://en.wikipedia.org/wiki/Inflorescence"
     image_url: ""
     image_caption: ""
     content: "Thoreau notes that the Latin word for the ear of wheat, \"spica,\" derives from \"spe,\" meaning hope. In Roman culture, wheat was a symbol of sustenance and renewal, embodying the hope of a successful harvest. This linguistic connection underscores the deep relationship between agriculture and human aspiration. For Thoreau, the ear of wheat becomes a metaphor for the broader hope that nature offers—a promise of abundance and continuity. By reflecting on this etymology, Thoreau ties his bean field to a universal human experience, where the act of planting is an act of faith in the future."
@@ -165,7 +235,7 @@ usual. But labor of the hands, even when pursued to the verge of
 drudgery, is perhaps never the worst form of idleness. It has a
 constant and imperishable moral, and to the scholar it yields a classic
 result. A very _agricola laboriosus_ was I to travellers bound westward
-through Lincoln and Wayland to nobody knows where; they sitting at
+through Lincoln and **Wayland** to nobody knows where; they sitting at
 their ease in gigs, with elbows on knees, and reins loosely hanging in
 festoons; I the home-staying, laborious native of the soil. But soon my
 homestead was out of their sight and thought. It was the only open and
@@ -202,7 +272,7 @@ glad of your society, that would find out another farmer’s field if
 yours were not here. While you are planting the seed, he cries,—“Drop
 it, drop it,—cover it up, cover it up,—pull it up, pull it up, pull it
 up.” But this was not corn, and so it was safe from such enemies as he.
-You may wonder what his rigmarole, his amateur Paganini performances on
+You may wonder what his rigmarole, his amateur **Paganini** performances on
 one string or on twenty, have to do with your planting, and yet prefer
 it to leached ashes or plaster. It was a cheap sort of top dressing in
 which I had entire faith.
@@ -292,7 +362,7 @@ cultivating another. That’s **Roman wormwood**,—that’s pigweed,—that’s
 sorrel,—that’s piper-grass,—have at him, chop him up, turn his roots
 upward to the sun, don’t let him have a fibre in the shade, if you do
 he’ll turn himself t’other side up and be as green as a leek in two
-days. A long war, not with cranes, but with weeds, those Trojans who
+days. A long war, not with cranes, but with weeds, those **Trojans** who
 had sun and rain and dews on their side. Daily the beans saw me come to
 their rescue armed with a hoe, and thin the ranks of their enemies,
 filling up the trenches with weedy dead. Many a lusty crest-waving
@@ -303,14 +373,14 @@ Those summer days which some of my contemporaries devoted to the fine
 arts in Boston or Rome, and others to contemplation in India, and
 others to trade in London or New York, I thus, with the other farmers
 of New England, devoted to husbandry. Not that I wanted beans to eat,
-for I am by nature a Pythagorean, so far as beans are concerned,
+for I am by nature a **Pythagorean**, so far as beans are concerned,
 whether they mean porridge or voting, and exchanged them for rice; but,
 perchance, as some must work in fields if only for the sake of tropes
 and expression, to serve a parable-maker one day. It was on the whole a
 rare amusement, which, continued too long, might have become a
 dissipation. Though I gave them no manure, and did not hoe them all
 once, I hoed them unusually well as far as I went, and was paid for it
-in the end, “there being in truth,” as Evelyn says, “no compost or
+in the end, “there being in truth,” as **Evelyn** says, “no compost or
 lætation whatsoever comparable to this continual motion, repastination,
 and turning of the mould with the spade.” “The earth,” he adds
 elsewhere, “especially if fresh, has a certain magnetism in it, by
@@ -417,14 +487,14 @@ have no festival, nor procession, nor ceremony, not excepting our
 Cattle-shows and so called Thanksgivings, by which the farmer expresses
 a sense of the sacredness of his calling, or is reminded of its sacred
 origin. It is the premium and the feast which tempt him. He sacrifices
-not to Ceres and the **Terrestrial Jove**, but to the infernal Plutus
+not to **Ceres** and the **Terrestrial Jove**, but to the infernal **Plutus**
 rather. By avarice and selfishness, and a grovelling habit, from which
 none of us is free, of regarding the soil as property, or the means of
 acquiring property chiefly, the landscape is deformed, husbandry is
 degraded with us, and the farmer leads the meanest of lives. He knows
 Nature but as a robber. Cato says that the profits of agriculture are
 particularly pious or just, (_maximeque pius quæstus_), and according
-to Varro the old Romans “called the same earth Mother and Ceres, and
+to **Varro** the old Romans “called the same earth Mother and Ceres, and
 thought that they who cultivated it led a pious and useful life, and
 that they alone were left of the race of King Saturn.”
 
