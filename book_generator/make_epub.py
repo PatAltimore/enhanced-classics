@@ -29,6 +29,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 BOOKS = ROOT / "public" / "books"
 CATALOG = ROOT / "public" / "catalog.json"
+SITE_URL = "https://pataltimore.github.io/enhanced-classics/"
 
 CSS = """\
 body { font-family: serif; line-height: 1.45; margin: 0 4%; }
@@ -258,7 +259,7 @@ def build_characters(path):
     return {"title": "Characters (contains spoilers)", "page": xhtml("Characters", body)}
 
 
-def title_page(meta):
+def title_page(meta, slug):
     desc = (meta.get("description") or "").strip()
     year = meta.get("year")
     year_s = f"{abs(year)} BC" if isinstance(year, int) and year < 0 else str(year or "")
@@ -273,6 +274,7 @@ def title_page(meta):
         "Underlined phrases in the text have a shaded Enhanced Classics note just below their paragraph, giving "
         "background on people, places, words and ideas, with a link to Wikipedia. Each chapter begins with a short "
         "summary, so skip it if you would rather not read ahead.</p>\n"
+        f'<p>Read this book, and more Enhanced Classics, online at <a href="{SITE_URL}#/{slug}">{SITE_URL}</a></p>\n'
         '<p class="small">The text is in the public domain (Project Gutenberg). '
         "Notes and summaries were written for Enhanced Classics.</p>"
     )
@@ -337,7 +339,7 @@ def build_book(slug, out_dir):
     chapters = sorted(glob.glob(str(BOOKS / slug / "chapter-*.md")))
     if not chapters:
         raise SystemExit(f"no chapters for {slug}")
-    items = [dict(id="title", file="title.xhtml", **title_page(meta))]
+    items = [dict(id="title", file="title.xhtml", **title_page(meta, slug))]
     total = placed = 0
     for i, path in enumerate(chapters, 1):
         ch = build_chapter(path)
