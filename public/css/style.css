@@ -315,6 +315,9 @@ main { padding: 2rem; }
 .download-btn:hover:not(:disabled) { background: var(--paper-dark); }
 .download-btn--done { border-color: var(--link); color: var(--link); }
 .download-btn:disabled { opacity: .7; cursor: default; }
+a.download-btn--epub { display: block; width: fit-content; margin: .6rem 0 .5rem; text-decoration: none; }
+.download-btn--share { display: block; margin: .6rem 0 .5rem; }
+.download-btn--share[hidden] { display: none; }
 
 .continue-btn {
   display: block;

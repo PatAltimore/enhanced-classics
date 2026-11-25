@@ -35,6 +35,8 @@ Trigger it with `/add-book <gutenberg url>` or just ask Claude to add a book.
    **review the images** (below) before `verify_chapters.py`. Report any chapters that failed.
 4. **Characters page.** Once the catalog is updated, invoke the `add-characters` skill (Skill tool,
    argument: the book slug) to write `characters.md` and set `"characters": true` in the catalog.
+5. **EPUB.** Run `python make_epub.py --book <slug>` to write `public/epub/<slug>.epub`; the book's page on the
+   site links to it, so a book without this file has a broken download link.
    Do not commit unless asked.
 
 Chapters are independent, so several can be done in parallel (e.g. one subagent per

@@ -8,9 +8,10 @@ Pure standard library plus PyYAML. Usage:
 
     python make_epub.py --book the-great-gatsby
     python make_epub.py --all
-    python make_epub.py --book walden --out ../epub
+    python make_epub.py --book walden --out ../some/folder
 
-Send the result to a Kindle with Send to Kindle (app, web or email).
+The files go to public/epub/, and each book's page on the site links to its EPUB.
+Send one to a Kindle with Send to Kindle (app, web or email).
 """
 import argparse
 import datetime
@@ -397,7 +398,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--book", help="book slug (see public/catalog.json)")
     ap.add_argument("--all", action="store_true", help="build every book")
-    ap.add_argument("--out", default=str(ROOT / "epub"), help="output folder (default: <repo>/epub)")
+    ap.add_argument("--out", default=str(ROOT / "public" / "epub"), help="output folder (default: public/epub, which the site links to)")
     a = ap.parse_args()
     if not a.book and not a.all:
         ap.error("give --book <slug> or --all")

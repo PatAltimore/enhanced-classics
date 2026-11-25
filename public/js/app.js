@@ -239,6 +239,8 @@
           '<span class="chapter-num">★</span><span class="chapter-title">Characters</span></div>'
         : '') +
       '<button id="download-btn" class="download-btn"></button>' +
+      '<a class="download-btn download-btn--epub" href="epub/' + bookSlug + '.epub" download>↓ Download EPUB file</a>' +
+      '<button id="share-btn" class="download-btn download-btn--share" hidden>Share to Kindle…</button>' +
       '<p class="offline-legend"><span class="offline-legend-dot">↓</span> = Chapter downloaded for offline reading</p>' +
       '</div>';
     var contBtn = document.getElementById('continue-btn');
@@ -248,9 +250,36 @@
     var dlBtn = document.getElementById('download-btn');
     updateDownloadBtn(book, dlBtn);
     dlBtn.addEventListener('click', function () { downloadBook(book, dlBtn); });
+    setupShareBtn(book, document.getElementById('share-btn'));
     var saved = localStorage.getItem('scroll_list_' + bookSlug);
     if (saved) requestAnimationFrame(function () { window.scrollTo(0, parseInt(saved, 10)); });
     saveScrollFor('scroll_list_' + bookSlug);
+  }
+
+  /* Share the EPUB through the device's share sheet (where the Kindle app offers "Send to Kindle").
+     Shown only on browsers that can share files. */
+  function setupShareBtn(book, btn) {
+    var probe;
+    try {
+      probe = new File([''], 'probe.epub', { type: 'application/epub+zip' });
+    } catch (e) { return; }
+    if (!btn || !navigator.canShare || !navigator.canShare({ files: [probe] })) return;
+    btn.hidden = false;
+    btn.addEventListener('click', async function () {
+      var label = btn.textContent;
+      btn.disabled = true;
+      btn.textContent = 'Preparing…';
+      try {
+        var res = await fetch('epub/' + book.slug + '.epub');
+        if (!res.ok) throw new Error('missing');
+        var file = new File([await res.blob()], book.slug + '.epub', { type: 'application/epub+zip' });
+        await navigator.share({ files: [file], title: book.title });
+      } catch (e) {
+        if (e && e.name !== 'AbortError') alert('Sorry, sharing did not work. Use "Download EPUB file" instead.');
+      }
+      btn.disabled = false;
+      btn.textContent = label;
+    });
   }
 
   function updateDownloadBtn(book, btn) {
